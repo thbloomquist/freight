@@ -1,0 +1,686 @@
+         Case 1:08-cv-04968            Document 1         Filed 09/02/2008      Page 1 of 11
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT FOR THE
+                  NORTHERN DISTRICT OF ILLINOIS, EASTERN DIVISION
+
+MITSUI SUMITOMO INSURANCE CO.,                      )
+LTD. (a foreign corporation) a/s/o SHARP            )
+                                                                FILED: SEPTEMBER 2, 2008
+ELECTRONICS CORPORATION                             )     No:
+                                                    )           08CV4968
+             Plaintiff,                             )           JUDGE KENDALL
+                                                    )     Judge:MAGISTRATE JUDGE KEYS
+   v.                                               )           EDA
+                                                    )
+ROADWAY EXPRESS, INC.                               )     Magistrate Judge:
+                                                    )
+             Defendant.                             )
+
+
+                                             COMPLAINT
+
+        Plaintiff, MITSUI SUMITOMO INSURANCE CO., LTD. (a foreign corporation) (herein
+
+“MITSUI”) a/s/o SHARP ELECTRONICS CORPORATION (herein “SHARP”), by and through
+
+its attorneys, John F. Horvath, Duane C. Weaver and Renata M. Koleda of HORVATH &
+
+WEAVER, P.C., for its Complaint against defendant ROADWAY EXPRESS, INC.
+
+(“ROADWAY”), alleges and states as follows:
+
+                                                     I.
+                                    JURISDICTION AND VENUE
+
+        1.         Plaintiff brings this lawsuit pursuant to 49 U.S.C. § 14706 (the Carmack
+
+Amendment) against defendant ROADWAY alleging that defendant was, at all times relevant,
+
+an interstate motor carrier and/or freight forwarder in relation to three Subject Shipments
+
+transported under separate bills of lading, where the value of at least one of the three shipments,
+
+the June 27, 2007 ABC Appliance, Inc. Shipment exceeded $10,000.00, exclusive of interest and
+
+costs. Consequently, this Court has original jurisdiction pursuant to 28 U.S.C. § 1331 (federal
+
+question jurisdiction) and 28 U.S.C. § 1337.
+
+        2.         This Court also has pendent jurisdiction as to plaintiff’s claims for the June 25,
+         Case 1:08-cv-04968         Document 1         Filed 09/02/2008      Page 2 of 11
+
+
+
+2007 ABC Appliance, Inc. Shipment and the Avad Florida Shipment under 28 U.S.C. § 1367(a)
+
+because plaintiff’s claims arise out of the same transaction or occurrence as the claim for the
+
+June 27, 2007 ABC Appliance, Inc. Shipment.
+
+       3.      Venue is proper against ROADWAY pursuant to 28 U.S.C. § 1391(b)(2) and (c)
+
+since plaintiff's claims for the June 27, 2007 ABC Appliance, Inc. Shipment and June 25, 2007
+
+ABC Appliance, Inc. Shipment arise out of the non-delivery of television sets that defendant
+
+received from SHARP’s facility in Romeoville, Illinois. Additionally, venue is proper against
+
+ROADWAY since defendant transacted and continues to transact business in Illinois and within
+
+the Northern District of Illinois in accordance with 735 ILCS 5/2-209(1).
+
+       4.      Venue is also proper against ROADWAY pursuant to 49 U.S.C. § 14706(d)(1)
+
+and (d)(2) because ROADWAY was the delivering carrier and/or carrier responsible for the loss
+
+of the televisions in the Subject Shipments.
+
+                                                 II.
+                            FACTS COMMON TO ALL COUNTS
+
+                                    A.       The Parties
+
+       5.      At all times relevant, plaintiff, MITSUI was a foreign insurance corporation
+
+organized and existing under the laws of Japan, and had in effect a policy of insurance covering
+
+goods in transit for the benefit of SHARP.
+
+       6.      Plaintiff sues herein as subrogated insurer of SHARP. Attached hereto as Group
+
+Exhibit “A” are the Subrogation Receipts for the Subject Shipments.
+
+       7.      At all times relevant, plaintiff’s subrogor, SHARP, was a manufacturer and
+
+distributor of electronic products, was the owner of the Subject Shipments, was a New York
+
+corporation and maintained an office at Sharp Plaza in Mahwah, New Jersey.
+
+       8.      At all times herein relevant, ROADWAY was and is a Delaware Corporation with
+
+
+                                                  2
+         Case 1:08-cv-04968         Document 1        Filed 09/02/2008       Page 3 of 11
+
+
+
+its principal place of business in Ohio and transacted business in the state of Illinois and within
+
+this Court’s jurisdiction.
+
+       9.      At and during all times hereinafter mentioned, ROADWAY was and is engaged
+
+and/or held itself out to SHARP as an interstate motor carrier and/or freight forwarder of
+
+merchandise for hire.
+
+                              B.     The Subject Shipments
+
+       10.     This is a claim involving the loss of three shipments of cargo during motor carrier
+
+transit by ROADWAY (the “Subject Shipments”).
+
+               1.       The June 27, 2007 ABC Appliance, Inc. Shipment
+
+       11.     On or about June 27, 2007, ROADWAY through its employees and/or agent
+
+driver received in good order, quantity and condition a shipment consisting of 10 televisions,
+
+consigned to ABC Appliance, Inc. in Pontiac, Michigan (the “June 27, 2007 ABC Appliance,
+
+Inc. Shipment”). Attached as Exhibit “B” hereto is a true and accurate copy of the Bill of Lading
+
+for the June 27, 2007 ABC Appliance, Inc. Shipment (Bill of Lading No. 00740000000075191).
+
+       12.     ROADWAY received a copy of Exhibit “B” on or about June 27, 2007.
+
+       13.     ROADWAY prepared and issued ROADWAY PRO NO. 318-757327-2 for the
+
+transport of the June 27, 2007 ABC Appliance, Inc. Shipment. Attached as Exhibit “C” is a true
+
+and accurate copy of ROADWAY PRO NO. 318-757327-2.
+
+       14.     ROADWAY did not deliver 5 of the 10 televisions indicated on Exhibit “B” to
+
+ABC Appliance, Inc., the intended consignee. See Exhibit “C.”
+
+       15.     Due to ROADWAY’s failure to deliver the 5 televisions, SHARP was obligated
+
+to credit and did credit ABC Appliance, Inc. in the amount of $14,241.60, representing the actual
+
+value of the 5 non-delivered televisions. Attached as Exhibit “D” hereto is a true and accurate
+
+
+
+
+                                                  3
+         Case 1:08-cv-04968        Document 1        Filed 09/02/2008      Page 4 of 11
+
+
+
+copy of the Credit Memo SHARP issued to ABC Appliance, Inc. for non-delivery of the 5
+
+televisions.
+
+                  2.      The June 25, 2007 ABC Appliance, Inc. Shipment
+
+       16.     On or about June 25, 2007, ROADWAY through its employees and/or agent
+
+driver received in good order, quantity and condition a shipment consisting of 40 televisions,
+
+consigned to ABC Appliance, Inc. in Pontiac, Michigan (the “June 25, 2007 ABC Appliance,
+
+Inc. Shipment”). Attached as Exhibit “E” hereto is a true and accurate copy of the Bill of Lading
+
+for the June 25, 2007 ABC Appliance, Inc. Shipment (Bill of Lading No. 00740000000066144).
+
+       17.     ROADWAY received a copy of Exhibit “E” on or about June 25, 2007.
+
+       18.     ROADWAY prepared and issued ROADWAY PRO NO. 318-757245-7 for the
+
+transport of the June 25, 2007 ABC Appliance, Inc. Shipment. Attached as Exhibit “F” is a true
+
+and accurate copy of ROADWAY PRO NO. 318-757245-7.
+
+       19.     ROADWAY did not deliver 8 of the 40 televisions indicated on Exhibit “E” to
+
+ABC Appliance, Inc., the intended consignee. See Exhibit “F.”
+
+       20.     Due to ROADWAY’s failure to deliver the 8 televisions, SHARP was obligated
+
+to credit and did credit ABC Appliance, Inc. in the amount of $9,696.80, representing the actual
+
+value of the 8 non-delivered televisions. Attached as Exhibit “G” hereto is a true and accurate
+
+copy of the Credit Memo SHARP issued to ABC Appliance, Inc. for non-delivery of the 8
+
+televisions.
+
+                              3.     The Avad Florida Shipment
+
+       21.     On or about October 17, 2006, ROADWAY through its employees and/or agent
+
+driver received in good order, quantity and condition a shipment consisting of 24 televisions,
+
+consigned to Avad Florida in Orlando, Florida (“Avad Florida Shipment”). Attached as Exhibit
+
+
+
+
+                                                4
+         Case 1:08-cv-04968        Document 1        Filed 09/02/2008       Page 5 of 11
+
+
+
+“H” hereto is a true and accurate copy of the Bill of Lading for the Avad Florida Shipment (Bill
+
+of Lading No. 308264).
+
+       22.     ROADWAY received a copy of Exhibit “H” on or about October 17, 2006.
+
+       23.     ROADWAY prepared and issued ROADWAY PRO NO. 931-163118-5 for the
+
+transport of the Avad Florida Shipment. Attached as Exhibit “I” is a true and accurate copy of
+
+ROADWAY PRO NO. 931-163118-5.
+
+       24.     ROADWAY did not deliver 15 of the 24 televisions (11 Model Nos. LC20S5U, 4
+
+Model Nos. LC32D50U) indicated on Exhibit “H” to Avad Florida, the intended consignee. See
+
+Exhibit “I.”
+
+       25.     Due to ROADWAY’s failure to deliver the 15 televisions, SHARP was obligated
+
+to credit and did credit Avad Florida in the amount of $9,255.89, representing the actual value of
+
+the 15 non-delivered televisions. Attached as Exhibit “J” hereto is a true and accurate copy of
+
+the Credit Memo SHARP issued to Avad Florida for the non-delivery of the 15 televisions.
+
+                     C.     Actions Subsequent to the Subject Shipments
+
+       26.     On November 30, 2007, SHARP submitted a claim in writing to ROADWAY
+
+regarding the June 27, 2007 ABC Appliance, Inc. Shipment, demanding payment for the invoice
+
+value of the 5 non-delivered televisions ($14,241.60). A true and accurate copy of SHARP’s
+
+written claim for the 5 non-delivered televisions is attached as Exhibit “K” hereto.
+
+       27.     ROADWAY received SHARP’s written notice of claim for the non-delivery of
+
+the 5 televisions from the June 27, 2007 ABC Appliance, Inc. Shipment (Exhibit “K”) on or
+
+about November 30, 2007, but later rejected the demand.
+
+       28.     SHARP never received any payment from ROADWAY for the non-delivery of
+
+the 5 televisions from the June 27, 2007 ABC Appliance, Inc. Shipment.
+
+
+
+
+                                                 5
+         Case 1:08-cv-04968        Document 1        Filed 09/02/2008       Page 6 of 11
+
+
+
+       29.     On November 30, 2007, SHARP submitted a claim in writing to ROADWAY
+
+regarding the June 25, 2007 ABC Appliance, Inc. Shipment, demanding payment for the invoice
+
+value of the 8 non-delivered televisions ($9,696.80). A true and accurate copy of SHARP’s
+
+written claim for the 8 non-delivered televisions is attached as Exhibit “L” hereto.
+
+       30.     ROADWAY received SHARP’s written notice of claim for the non-delivery of
+
+the 8 televisions from the June 25, 2007 ABC Appliance, Inc. Shipment (Exhibit “L”) on or
+
+about November 30, 2007, but later rejected the demand.
+
+       31.     SHARP never received any payment from ROADWAY for the non-delivery of
+
+the 8 televisions from the June 25, 2007 ABC Appliance, Inc. Shipment.
+
+       32.     On August 13, 2007, SHARP submitted a claim in writing to ROADWAY
+
+regarding the Avad Florida Shipment, demanding payment for the invoice value of the 15 non-
+
+delivered televisions ($9,255.89). A true and accurate copy of SHARP’s written claim for the 15
+
+non-delivered televisions is attached as Exhibit “M” hereto.
+
+       33.     ROADWAY received SHARP’s written notice of claim for the non-delivery of
+
+the 15 televisions from the Avad Florida Shipment (Exhibit “M”) on or about August 13, 2007,
+
+but later rejected the demand.
+
+       34.     SHARP never received any payment from ROADWAY for the non-delivery of
+
+the 15 televisions from the Avad Florida Shipment.
+
+                      COUNT I - CARMACK AMENDMENT CLAIM
+
+       35.     Plaintiff repeats, reiterates and realleges each and every allegation contained in
+
+paragraphs 1 through 34 of its Complaint as if fully set forth at length herein as paragraph 35.
+
+       36.     At all times relevant herein, there was in effect 49 U.S.C. §14706 (the Carmack
+
+Amendment), which provides in pertinent part as follows:
+
+
+
+
+                                                 6
+        Case 1:08-cv-04968         Document 1         Filed 09/02/2008       Page 7 of 11
+
+
+
+       (a) General Liability. -
+
+               (1) Motor carriers and freight forwarders.— A carrier providing
+       transportation or service subject to jurisdiction under subchapter I or III of chapter
+       135 shall issue a receipt or bill of lading for property it receives for transportation
+       under this part. That carrier and any other carrier that delivers the property and is
+       providing transportation or service subject to jurisdiction under subchapter I or III
+       of chapter 135 or chapter 105 are liable to the person entitled to recover under the
+       receipt or bill of lading. The liability imposed under this paragraph is for the
+       actual loss or injury to the property caused by (A) the receiving carrier, (B) the
+       delivering carrier, or (C) another carrier over whose line or route the property is
+       transported in the United States or from a place in the United States to a place in
+       an adjacent foreign country when transported under a through bill of lading and,
+       except in the case of a freight forwarder, applies to property reconsigned or
+       diverted under a tariff under section 13702. Failure to issue a receipt or bill of
+       lading does not affect the liability of a carrier. A delivering carrier is deemed to be
+       the carrier performing the line-haul transportation nearest the destination but does
+       not include a carrier providing only a switching service at the destination.
+
+       37.     At all times hereinafter mentioned, ROADWAY was operating and/or holding
+
+itself out to SHARP as a motor carrier and/or freight forwarder in relation to the Subject
+
+Shipments.
+
+       38.     ROADWAY received the Subject Shipments in good order, condition and
+
+quantity.
+
+       39.     ROADWAY failed to deliver the Subject Shipments to the intended consignees in
+
+the same good order, condition and quantity as it received the Subject Shipments as it was
+
+obligated to do under the Carmack Amendment.
+
+       40.     As a result of the shortages and damages to SHARP’s goods caused by
+
+ROADWAY’s failure to make proper deliveries pursuant to the Carmack Amendment, formerly
+
+49 U.S.C. §11707 as to all carriers, now 49 U.S.C. §14706 as to motor carriers, plaintiff was
+
+required to pay and did pay SHARP no less than $33,194.29 under the policy it issued to
+
+SHARP. Group Exhibit “A.”
+
+       41.     By reasons of these premises, MITSUI and SHARP have sustained damages in
+
+
+
+                                                 7
+         Case 1:08-cv-04968        Document 1        Filed 09/02/2008       Page 8 of 11
+
+
+
+the amount of at least $33,194.29 plus freight charges and costs.
+
+       WHEREFORE, plaintiff MITSUI SUMITOMO INSURANCE CO., LTD., requests that
+
+the Court enter judgment in plaintiff’s favor and against defendant ROADWAY EXPRESS,
+
+INC. in an amount no less than $33,194.29 plus prejudgment interest and such other relief as the
+
+Court deems appropriate under the circumstances.
+
+              COUNT II – BREACH OF TRANSPORTATION AGREEMENT
+       42.     Plaintiff repeats, reiterates and realleges each and every allegation contained in
+
+paragraphs 1 through 34 of its Complaint as if fully set forth at length herein as paragraph 42.
+
+       43.     On or about May 1, 2003, SHARP and ROADWAY entered into a Transportation
+
+Agreement (“the Agreement”) under which ROADWAY, in consideration of certain specified
+
+freight charges, agreed to furnish motor carrier and related services to SHARP for the
+
+transportation of SHARP’s goods. Attached as Exhibit “N” hereto is a true and accurate copy of
+
+the Agreement.
+
+       44.     At all times on and after May 1, 2003, including all times relevant to this
+
+Complaint, ROADWAY performed services for SHARP under the Agreement, including,
+
+without limitation, furnishing motor carrier and related services to SHARP for the transportation
+
+of SHARP’s goods.
+
+       45.     At all times on and after May 1, 2003, including all times relevant to this
+
+Complaint, SHARP tendered shipments to ROADWAY and made payments to ROADWAY in
+
+accordance with rates and charges as provided in the Agreement.
+
+       46.     Pursuant to Paragraph 2(b) of the Agreement, ROADWAY agreed as follows:
+
+       CARRIER [ROADWAY] shall promptly and efficiently receive, transport and
+       deliver safely and with reasonable dispatch and without delay; [sic] the goods
+       entrusted to it hereunder, whether received from SHIPPER [SHARP] or from
+       Third Parties at the request of the SHIPPER [SHARP]. CARRIER [ROADWAY]
+       agrees to expedite shipments when so requested by SHIPPER [SHARP] and
+
+
+                                                 8
+ Case 1:08-cv-04968         Document 1        Filed 09/02/2008       Page 9 of 11
+
+
+
+deliver them in like good order and condition to the consignee listed in the
+contracts of carriage.
+
+47.    Pursuant to Paragraph 7(a) of the Agreement, ROADWAY agreed as follows:
+
+Carrier [ROADWAY] agrees that, in the transportation of all goods hereunder, it
+will assume and does assume, the liability of an interstate common motor carrier,
+as provided in 49 USC 11707, such liability to exist from the time of receipt of
+any said goods by CARRIER [ROADWAY] until proper delivery has been made.
+
+48.    Pursuant to Paragraph 7(b) of the Agreement, ROADWAY agreed as follows:
+
+CARRIER’S [ROADWAY’S] liability shall be for the released value of $25 per
+pound for the goods lost or damaged in transit with a maximum of $100,000 per
+shipment, whether or not lost or damaged enroute to a purchaser. Any limitation
+of liability must be agreed to in writing by SHIPPER [SHARP] and CARRIER
+[ROADWAY] and included as an Appendix or Addendum hereto. CARRIER
+[ROADWAY] further agrees that no merchandise, damaged or otherwise, may be
+disposed of on the salvage market without the expressed written consent of
+SHIPPER [SHARP].
+
+49.    Pursuant to Paragraph 7(f) of the Agreement, ROADWAY agreed as follows:
+
+CARRIER [ROADWAY] shall notify SHIPPER [SHARP] immediately by
+telephone, facsimile or other telecommunications of any accident, theft, hijacking,
+delay, damage or shortage which impair the safe and prompt delivery of the goods
+in its control. CARRIER [ROADWAY] shall immediately notify SHIPPER
+[SHARP] by telephone, facsimile or other telecommunications of any refused,
+damaged or On Hand freight and request additional instructions regarding
+delivery, storage or disposition of the available goods.
+
+50.    Pursuant to Paragraph 7(i) of the Agreement, ROADWAY agreed as follows:
+
+All claims for loss or damage must be filed in writing with CARRIER
+[ROADWAY] within nine (9) months of shipping date.                  CARRIER
+[ROADWAY] must notify in writing, receipt of all claims within thirty (30) days
+of filing. All claims so filed, must be settled by CARRIER [ROADWAY] within
+ninety (90) days of receipt.
+
+51.    Paragraph 7(k) of the Agreement further provided:
+
+If either party is successful in recovering on a cargo claim in a court of law or
+arbitration proceeding, Prevailing party shall be entitled to recover all of its costs
+incurred in collecting its claim, including reasonable attorney’s fees and interest
+from the date of delivery or scheduled delivery of the shipment.
+
+
+
+
+                                          9
+        Case 1:08-cv-04968         Document 1         Filed 09/02/2008      Page 10 of 11
+
+
+
+       52.     To the extent ROADWAY was not a motor carrier and/or freight forwarder of the
+
+Subject Shipment and/or was not otherwise statutorily subject to the Carmack Amendment,
+
+ROADWAY agreed to assume the same liability for the shipment as a carrier subject to the
+
+Carmack Amendment, and is therefore, liable to MITSUI as a carrier subject to the Carmack
+
+Amendment would be. Exhibit “N,” paragraph 2(b).
+
+       53.     ROADWAY breached the Agreement by failing to deliver 5 of the 10 televisions
+
+from the June 27, 2007 ABC Appliance, Inc. Shipment to the intended consignee.
+
+       54.     ROADWAY breached the Agreement by failing to deliver 8 of the 40 televisions
+
+from the June 25, 2007 ABC Appliance, Inc. Shipment to the intended consignee.
+
+       55.     ROADWAY breached the Agreement by failing to deliver 15 of the 24 televisions
+
+from the Avad Florida Shipment to the intended consignee.
+
+       56.     Alternatively and/or additionally, ROADWAY breached the Agreement by failing
+
+to notify, in writing, receipt of the claims for the Subject Shipments within thirty (30) days of
+
+SHARP’s written notification, as required under section 7(i) of the Agreement.
+
+       57.     Alternatively and/or additionally, ROADWAY breached the Agreement by failing
+
+to settle SHARP’s claims for the Subject Shipments within ninety (90) days of SHARP’s written
+
+notification, as required under section 7(i) the Agreement.
+
+       58.     SHARP fully performed all the obligations required of it under the Agreement.
+
+       59.     As a result of the shortages and damages to SHARP’s goods caused by
+
+ROADWAY’s failure to make proper deliveries pursuant to the Agreement, plaintiff was
+
+required to pay and did pay SHARP no less than $33,194.29 under the policy it issued to
+
+SHARP. Group Exhibit “A.”
+
+       60.     ROADWAY’s breach has resulted in MITSUI and SHARP sustaining damages in
+
+
+
+
+                                                 10
+        Case 1:08-cv-04968         Document 1         Filed 09/02/2008      Page 11 of 11
+
+
+
+the amount of at least $33,194.29 plus freight charges and costs.
+
+       61.     Pursuant to the Agreement, ROADWAY is also liable to SHARP for its costs in
+
+collecting its claim, including reasonable attorneys’ fees and interest from the date of delivery or
+
+intended delivery. Exhibit “N,” paragraph 7(k).
+
+       WHEREFORE, plaintiff MITSUI SUMITOMO INSURANCE CO., LTD., requests that
+
+the Court enter judgment in plaintiff’s favor and against defendant ROADWAY EXPRESS,
+
+INC. in an amount no less than $33,194.29 plus prejudgment interest, costs, attorney’s fees,
+
+interest and such other relief as the Court deems appropriate under the circumstances.
+
+
+                                      Respectfully submitted,
+
+                                      MITSUI SUMITOMO INSURANCE CO., LTD. a/s/o
+                                      SHARP ELECTRONICS CORPORATION
+
+
+
+                                      By: /s/ Duane C. Weaver
+                                         One of its Attorneys
+
+
+
+
+John F. Horvath
+Duane C. Weaver
+Renata M. Koleda
+HORVATH & WEAVER, P.C.
+10 South LaSalle Street, Suite 1400
+Chicago, Illinois 60603
+Phone:      312.419.6600
+Facsimile: 312.419.6666
+
+
+
+
+                                                 11
+Case 1:08-cv-04968   Document 1-2   Filed 09/02/2008 Page 1 of 4
+                                        08CV4968
+                                        JUDGE KENDALL
+                                        MAGISTRATE JUDGE KEYS
+                                        EDA
+Case 1:08-cv-04968   Document 1-2   Filed 09/02/2008   Page 2 of 4
+Case 1:08-cv-04968   Document 1-2   Filed 09/02/2008   Page 3 of 4
+Case 1:08-cv-04968   Document 1-2   Filed 09/02/2008   Page 4 of 4
+Case 1:08-cv-04968   Document 1-3   Filed 09/02/2008 Page 1 of 2
+                                            08CV4968
+                                            JUDGE KENDALL
+                                            MAGISTRATE JUDGE KEYS
+                                            EDA
+Case 1:08-cv-04968   Document 1-3   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-4   Filed 09/02/2008   Page 1 of 2
+                                      08CV4968
+                                      JUDGE KENDALL
+                                      MAGISTRATE JUDGE KEYS
+                                      EDA
+Case 1:08-cv-04968   Document 1-4   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-5   Filed 09/02/2008 Page 1 of 2
+                                        08CV4968
+                                        JUDGE KENDALL
+                                        MAGISTRATE JUDGE KEYS
+                                        EDA
+Case 1:08-cv-04968   Document 1-5   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-6   Filed 08CV4968
+                                          09/02/2008   Page 1 of 2
+                                        JUDGE KENDALL
+                                        MAGISTRATE JUDGE KEYS
+                                        EDA
+Case 1:08-cv-04968   Document 1-6   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-7   Filed 09/02/2008 Page 1 of 2
+                                    08CV4968
+                                    JUDGE KENDALL
+                                    MAGISTRATE JUDGE KEYS
+                                    EDA
+Case 1:08-cv-04968   Document 1-7   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-8   Filed 09/02/2008   Page 1 of 2
+
+                               08CV4968
+                               JUDGE KENDALL
+                               MAGISTRATE JUDGE KEYS
+                               EDA
+Case 1:08-cv-04968   Document 1-8   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968              08CV4968
+                     Document 1-9   Filed 09/02/2008 Page 1 of 2
+                                JUDGE KENDALL
+                                MAGISTRATE JUDGE KEYS
+                                EDA
+Case 1:08-cv-04968   Document 1-9   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-10 08CV4968
+                                    Filed 09/02/2008 Page 1 of 2
+                                   JUDGE KENDALL
+                                   MAGISTRATE JUDGE KEYS
+                                   EDA
+Case 1:08-cv-04968   Document 1-10   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-11   Filed 09/02/2008   Page 1 of 2
+                                 08CV4968
+                                 JUDGE KENDALL
+                                 MAGISTRATE JUDGE KEYS
+                                 EDA
+Case 1:08-cv-04968   Document 1-11   Filed 09/02/2008   Page 2 of 2
+                                     08CV4968
+Case 1:08-cv-04968   Document 1-12    Filed 09/02/2008 Page 1 of 2
+                                     JUDGE KENDALL
+                                     MAGISTRATE JUDGE KEYS
+                                     EDA
+Case 1:08-cv-04968   Document 1-12   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-13   Filed 09/02/2008 Page 1 of 2
+                                08CV4968
+                                JUDGE KENDALL
+                                MAGISTRATE JUDGE KEYS
+                                EDA
+Case 1:08-cv-04968   Document 1-13   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-14    Filed 09/02/2008 Page 1 of 2
+                                     08CV4968
+                                     JUDGE KENDALL
+                                     MAGISTRATE JUDGE KEYS
+                                     EDA
+Case 1:08-cv-04968   Document 1-14   Filed 09/02/2008   Page 2 of 2
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008
+                                           08CV4968   Page 1 of 18
+                                           JUDGE KENDALL
+                                           MAGISTRATE JUDGE KEYS
+                                           EDA
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 2 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 3 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 4 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 5 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 6 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 7 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 8 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 9 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 10 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 11 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 12 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 13 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 14 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 15 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 16 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 17 of 18
+Case 1:08-cv-04968   Document 1-15   Filed 09/02/2008   Page 18 of 18
+

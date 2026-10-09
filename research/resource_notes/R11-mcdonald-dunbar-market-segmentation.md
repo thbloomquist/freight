@@ -1,0 +1,19 @@
+# R11 - Market Segmentation: How to Do It, How to Profit from It
+- URL: https://books.google.com/books/about/Market_Segmentation.html?id=BSh4qaiyVEsC | Author: Malcolm McDonald and Ian Dunbar (Cranfield School of Management) | Year: 2004 (Butterworth-Heinemann, revised edition, 465 pages, ISBN 0750659815 / 9780750659819; a 4th edition was published by Wiley in 2012 per study_links.md) | Type: primary (standard segmentation handbook) | Access: paywalled. The Google Books record lists "Limited preview", but its searchable text returned no snippet ("attractiveness" matched only "Page 293" with no text). Only the publisher description and the "Common terms and phrases" index were readable (scratchpad `A/R11.txt`, `A/R11_gb_attr.txt`). | Accessed: 2026-09-14
+- Decision the resource addresses: the end-to-end segmentation procedure, ending in target-segment prioritisation through a segment-attractiveness × company-competitiveness portfolio matrix. R14 cites it as a source of the decision matrix.
+
+## Strategies or frameworks described
+
+### Step-by-step segmentation process ending in a weighted-scoring portfolio matrix
+- Origin and intended context: "Usable by students and executives, for whom the practical, step-by-step approach is designed"; "McDonald and Dunbar are the leading author team in this area"; "Highly developed and well illustrated treatment of a key marketing technique". *(verified: publisher description)*
+- Mechanism and steps: not readable. The index terms show what the book covers *(verified as index terms)*: "market definition", "market map", "channel chain", "junction types", "final users", "Distributors", "Contractors", "farmers", "who buys", "customer groups", "customer needs", "KDFs", "DBC scores", "preliminary segment", "concluding segments", "clusters", "segment ... attractiveness" (via search hit on p. 293), "company competitiveness", "portfolio matrix", "Weight", "Score Total Score", "relative importance", "prioritization", "Opportunity gap", "sustainable competitive advantage", "Ansoff Matrix", "Worksheet", "Fast track", "routes to market".
+- Criteria, inputs and data required: *reader inference from index terms:* weighted criteria ("Weight", "Score", "Total Score", "relative importance") are used to score segments on attractiveness and company competitiveness and plot them on a "portfolio matrix". *Reader knowledge (unverified):* McDonald's "market map" traces how product flows from suppliers through intermediaries ("junctions", such as distributors and contractors) to final users, and records at which junction the purchase decision is made. KDFs are "key discriminating features" used to form segments from micro-segments.
+- Output produced: prioritised target segments on a portfolio matrix (reader inference).
+- Assumptions, limitations, critiques: not readable.
+- Rationale and evidence base: author authority (Cranfield). Nothing else visible.
+- Key quotes: none from the text.
+
+## Reader's judgement on relevance to a two-sided freight sub-market choice
+*Judgement:* the book's selection matrix is readable free through R12 (the DPM procedure, by Dibb & Simkin), which is the practical substitute. The index terms point to one idea worth checking in a library copy: the "market map" with "junction types" (distributors, contractors, final users, and even "farmers" as an index term). If the reader-knowledge description above is right, a market map is the missing tool for a two-sided freight sub-market. It shows who hands freight to whom (shipper → broker/3PL → carrier → consignee) and, crucially, at which junction the buying decision and the budget sit. That tells a fee-from-savings product which party can pay and which party's costs it cuts, and the two may differ. This is unverified; treat it as a pointer, not a finding.
+
+## Read status: abstract-only (Google Books record, description and index terms; no text)

@@ -1,0 +1,1482 @@
+Case 25-51852-CTG   Doc 1-1   Filed 08/05/25   Page 1 of 30
+
+
+
+
+              (;+,%,7$
+Case 25-51852-CTG   Doc 1-1   Filed 08/05/25   Page 2 of 30
+
+
+
+
+       YRC Enterprise Services Inc.
+
+
+
+          LTL MOTOR CARRIER
+
+    TRANSPORTATION CONTRACT
+
+
+
+
+                                                              1|Page
+              Case 25-51852-CTG                         Doc 1-1            Filed 08/05/25                 Page 3 of 30
+
+
+
+
+                                                    Table of Contents
+
+Article 1.     Transportation Service ........................................................................................... 3
+Article 2.     Documentation of Shipments................................................................................. 4
+Article 3.     Compensation ......................................................................................................... 5
+Article 4.     Rules and Regulations............................................................................................ 5
+Article 5.     Control of Transportation ...................................................................................... 5
+Article 6.     Contract Carriage ................................................................................................... 6
+Article 7.     Insurance................................................................................................................. 6
+Article 8.     Operating Authority ............................................................................................... 6
+Article 9.     Liability ................................................................................................................... 7
+Article 10.    Trailer Drop-offs ..................................................................................................... 7
+Article 11.    Loss or Damage to Shipments ............................................................................... 7
+Article 12.    Indemnification ....................................................................................................... 8
+Article 13.    Payment .................................................................................................................. 9
+Article 14.    Undercharges .......................................................................................................... 10
+Article 15.    Overcharges ............................................................................................................ 10
+Article 16.    Force Majeure ......................................................................................................... 10
+Article 17.    Term and Termination ........................................................................................... 10
+Article 18.    Default ..................................................................................................................... 11
+Article 19.    Assignment ............................................................................................................. 11
+Article 20.    Modifications and Effectiveness ............................................................................ 11
+Article 21.    Entire Agreement ................................................................................................... 11
+Article 22.    Notices ..................................................................................................................... 11
+Article 23.    Confidentiality ........................................................................................................ 12
+Article 24.    Applicable Law ....................................................................................................... 12
+Article 25.    Severability ............................................................................................................. 12
+Article 26.    Remedies ................................................................................................................. 12
+Article 27.    Time ......................................................................................................................... 12
+Article 28.    Counterparts ........................................................................................................... 12
+Article 29.    Electronic Commerce Enablement ........................................................................ 12
+Article 30.    Conflicts of Interest ................................................................................................ 13
+Article 31.    English .................................................................................................................... 13
+Article 32.    Undeliverable Shipment ........................................................................................ 13
+Article 33.    Import and Export Laws. ....................................................................................... 13
+Schedule A    List of Facilities ...................................................................................................... 15
+Schedule B    Accessorials & Definitions, FAK, and FSC Tables ............................................... 20
+Schedule C    Pricing ..................................................................................................................... 26
+
+
+                                                                                                                                         2|Page
+               Case 25-51852-CTG              Doc 1-1      Filed 08/05/25        Page 4 of 30
+
+
+
+
+THIS AGREEMENT is entered into as of March 15, 2021 by and between ( “Carrier”), and FIRST
+BRANDS GROUP, LLC, a Delaware limited liability company. on behalf of itself and its
+affiliates, having offices at 127 Public Square, Suite 5300 Cleveland OH 44114 (hereinafter
+referred to as “First Brands Group”) and YRC Enterprise Services, Inc. of 10990 Roe Avenue,
+Overland Park, Kansas, 66211, herein called “YRC ESI” who is acting solely as a negotiating agent for and
+on behalf of YRC ESI’s affiliated company(ies) as identified in the attached Appendix C (hereinafter
+referred to as “Carrier” or “Carriers”). References herein to “Party” or to the “Parties” shall mean, in the
+case of YRC ESI, the actual motor Carrier or motor Carriers providing service to First Brands Group
+pursuant to this Agreement, as may be applicable. Affiliates may be added or deleted from this Agreement
+by written agreement of the Parties.
+
+         For purposes of this Agreement, YRC ESI is solely a negotiating agent for each named Carrier and
+assumes no legal responsibility or liability for performance or obligations under this Agreement. Each
+individual Carrier is solely responsible for all services such Carrier provides. Customer hereby agrees that
+all legal recourse against a Carrier regarding such Carrier’s services herein must be asserted by Customer
+directly against such individual Carrier and not against YRC ESI. Therefore, Customer acknowledges and
+agrees that each Carrier is individually liable regarding the services it performs and there is no joint liability
+between or among such Carrier or YRC ESI. Customer acknowledges and agrees that YRC ESI is not a
+motor carrier, as defined by Title 49 of the United States Code or any other governmental authority/agency.
+In the event of termination, each Carrier may unilaterally exercise its termination rights as provided in the
+Agreement without affecting the applicability of the Agreement as between the other Carriers and First
+Brands Group and First Brands Group may exercise its termination rights against any individual Carrier.
+
+
+
+1.    Transportation Service. Carrier shall provide interstate and/or intrastate and/or foreign
+commerce motor carrier contract service (“Transportation Service”) to meet the needs of First
+Brands Group and its subsidiaries and affiliates as First Brands Group may request based on
+Carrier’s capacity. This Agreement shall apply solely to shipments tendered to Carrier in which First
+Brands Group affiliates (as listed in Schedule A) are the payors of the transportation charges and pricing
+is established in Appendices, Schedules, Exhibits or Attachments to this Agreement. Unless otherwise
+stated in Appendices, Schedules, Exhibits or Attachments, this Agreement only applies between points
+and places within the contiguous United States and between points and places within the contiguous
+United States and a single point in Canada. If Carrier accepts from First Brands Group shipments which
+are not covered by Appendices, Schedules, Exhibits or Attachments, First Brands Group agrees to pay
+reasonable rates and charges for such transportation consistent with the prevailing rates and charges
+Carrier charges other First Brands Groups for similar transportation services. Carrier’s Transportation
+Services provided hereunder shall conform to the service level standards and scope set in this
+Agreement. The Transportation Service to be provided to First Brands Group by Carrier shall
+include without limitation the following:
+
+               a) the provision of motor vehicles and allied equipment (the “Vehicles”);
+               b) the maintenance of the Vehicles in a roadworthy condition;
+               c) the provision of, competent, properly trained, managed and supervised drivers,
+                  dispatchers and other personnel operating its motor vehicles and equipment and
+                  otherwise performing services hereunder, fully qualified and licensed as
+                  appropriate, including with Commercial Drivers Licenses and all required
+                  endorsements, and fully informed concerning their responsibilities for all involved
+                  freight;
+
+
+
+                                                                                                       3|Page
+Case 25-51852-CTG          Doc 1-1      Filed 08/05/25      Page 5 of 30
+
+
+
+d) proper compliance with applicable provincial, state, local and federal safety,
+   environmental and other laws, rules and regulations, including but not limited to
+   (i) procuring and maintaining, at its sole cost and expense, any and all licenses and
+   permits required by federal, state or local authorities with respect to the services
+   to be provided hereunder, and (ii) assuming full responsibility for all federal, state
+   and local taxes, licenses, and assessments, and operating permits and authorities
+   related to performance of the services.
+e) Carrier warrants that it will comply with the Hazardous Materials Transportation
+   Act, 49 U.S. Code Section 5101 et seq., as amended, and all regulations
+   promulgated thereunder. First Brands Group represents and warrants to Carrier
+   that any commodities it tenders to Carrier are classified as hazardous materials,
+   as defined by the Hazardous Materials Transportation Act, 49 U.S.C. 501, and by
+   the regulations of the USDOT. First Brands Group warrants that such
+   commodities when tendered to the Carrier shall be properly classified, described,
+   packaged, labeled and will be in proper condition for transportation.
+f) Carrier will maintain at all times a US Department of Transportation Federal
+   Motor Carrier Administration (FMCSA) safety rating of Satisfactory or Unrated
+   and at least an equivalent safety rating issued by the provinces of Canada as
+   applicable, in which it operates and will notify First Brands Group as soon as
+   reasonably practicable upon receipt of any rating other than Satisfactory;
+g) the safety of Carrier and its representatives, agents, employees and invitees, while
+   on property owned or controlled by First Brands Group, or of any other person who
+   enters upon property owned or controlled by First Brands Group with the consent
+   of Carrier or the representatives, agents, employees or invitees of Carrier or for
+   reasons relating to this Agreement, shall act responsibly, and First Brands Group
+   warrants it provides a safe work environment on all property owned or controlled
+   by First Brands Group for the site locations where Carrier will provide services.
+   Carrier shall at all times maintain good order among its employees and shall not
+   employ, for purposes of this Agreement, any person unfit or not skilled in the work
+   assigned. Carrier shall confine (i) all tools, vehicles, containers and equipment, (ii)
+   all persons who come onto property owned or controlled by First Brands Group for
+   reasons relating to this Agreement, and (iii) all other persons who come onto
+   property owned or controlled by First Brands Group with the consent of Carrier or
+   its representatives, agents, employees or invitees to that portion of the site where
+   the work is being performed, to roads leading to and from such areas, and to any
+   other area which First Brands Group may permit Carrier to use;
+h) Carrier shall comply, and shall at all times during the performance of this
+   Agreement take all measures and precautions necessary to ensure that its
+   representatives, agents, employees and invitees shall comply, with such
+   regulations, policies and procedures as First Brands Group may from time to time
+   establish to the extent such regulations, policies and procedures are openly
+   displayed and posted on the premises.
+i) the safe, proper, and legal load securement of all products tendered by First
+   Brands Group and compliance with First Brands Group’s reasonable loading and
+   unloading procedures;
+j) Carrier shall (i) make available to First Brands Group for inspection, copying and
+   audit purposes during normal business hours, upon ten (10) business days’ prior
+   written request, all of Carrier’s business records pertaining to the performance and
+   pricing of services pursuant to this Agreement to enable First Brands Group to
+   determine whether Carrier is providing the type, kind, level and pricing of services
+   required by this Agreement and (ii) maintain all such records and supporting
+   documents related to this Agreement throughout its Initial Term and for a period of
+   three (3) years after final payment, or longer if required by law;
+
+
+                                                                                4|Page
+              Case 25-51852-CTG           Doc 1-1      Filed 08/05/25      Page 6 of 30
+
+
+
+              k) Carrier shall (i) obtain receipts for goods delivered as required by First Brands
+                 Group to substantiate billing for the services provided and (ii) at First Brands
+                 Group’s request, provide copies of same to First Brands Group in sufficient detail to
+                 substantiate delivery, including documentation of the quantity of goods delivered
+                 and of any damage thereto;
+              l) Carrier shall as soon as is reasonably practicable notify First Brands Group (i) if any
+                 of Carrier’s registrations, safety ratings or other matters required by this Agreement
+                 are revoked, canceled, suspended or discontinued by operation of law or otherwise,
+                 or (ii) any of Carrier’s insurance policies required by this Agreement are canceled,
+                 reduced or otherwise invalidated;
+              m) Carrier shall meet First Brands Group’s distinct needs as set forth in this
+                 Agreement, subject to Carrier’s capacity, ;
+              n) Carrier will make all necessary arrangements to provide sufficient and appropriate
+                 personnel, motor vehicles and equipment.
+              o) the procurement of all applicable and required supplies, licenses, permits,
+                 certificates, titles, fees and other related requirements by all appropriate
+                 government agencies.
+
+2.     Documentation of Shipments. First Brands Group, including all of its corporate subsidiaries,
+affiliates and entities named in Schedule A, shall be free to utilize independently the services
+provided by the Carrier hereunder and ship commodities. Each such shipment shall be evidenced by
+a receipt in the form agreed to specified by Carrier and First Brands Group, which shall be signed by
+Carrier and show the description and quantity of commodities received by Carrier at the origin,
+provided however, that the absence or loss of any such receipt shall not relieve Carrier of its
+obligations and responsibilities with respect to any shipment made to hereunder. In the event that
+First Brands Group elects to use a bill of lading, manifest or other form of freight receipt or contract,
+any terms, conditions and provisions of such bill of lading, manifest or other form shall be subject
+and subordinate to the terms, conditions and provisions of this Agreement and, in the event of a
+conflict between the terms, conditions and provisions of such bill of lading, manifest or other form
+and this Agreement, the terms, conditions and provisions of this Agreement shall govern and prevail.
+Any prescribed form of bill of lading or transportation conditions shall be subject to the terms and
+conditions of this Agreement.
+
+Shipments will be tendered by First Brands Group or a First Brands Group Lead Logistics Provider
+(LLP) listed in Schedule [E]. Carrier agrees to use its best commercial efforts to accept and
+transport such shipments in accordance with terms and conditions stated in this Agreement.
+
+3.    Compensation. First Brands Group (and/or any subsidiary or affiliate, as applicable) agrees to
+pay to Carrier, as compensation for the Transportation Service, the invoiced amounts, calculated in
+accordance with the schedule of rates and charges set forth in Schedules B and C hereto as full and
+complete compensation for non-accessorial services and for accessorial services properly performed
+pursuant to this Agreement. Rates and charges listed in Schedules B and C are not subject to
+adjustment during the Initial Term or Renewal Term of this Agreement unless agreed to by the
+parties and evidenced by the issuance of a written modification signed by authorized agents of both
+parties or in accordance with Article 29 hereof.
+
+4.    Rules and Regulations. All provisions of Schedules A, B and C, are incorporated by reference
+herein. In addition, except when it is inconsistent with the express provisions, terms or conditions of
+this Agreement, First Brands Group and Carrier shall comply with, and agree to be governed by, all
+laws, statutes, rules and regulations issued by governmental authorities that are applicable to
+common carriage by motor vehicles, including, but not limited to, rules and regulations regarding
+packaging, load securement, loss and damage claims, and bills of lading and further including the
+
+
+
+                                                                                               5|Page
+              Case 25-51852-CTG           Doc 1-1     Filed 08/05/25      Page 7 of 30
+
+
+
+procurement of necessary approvals, authorities or licenses from all appropriate governmental
+agencies.
+
+5.    Control of Transportation. If Carrier uses a substituted service of any type, with or without
+First Brands Group's permission, Carrier agrees to remain liable for any loss, damage or delay to
+First Brands Group's property incurred in transit to the same extent that Carrier would be liable if it
+performed the transportation directly Carrier shall have sole and exclusive responsibility over the
+manner in which it or its employees perform the Transportation Service. Carrier shall contractually
+require any independent contractor that it engages to perform Transportation Services required by
+this Agreement shall, (1) maintain all licenses, permits and authorities required to perform the
+Transportation Services; (2) maintain at least the levels of insurance as set forth in Article 7
+hereunder; (3) maintain a “Satisfactory” safety rating (or an equivalent rating that may exist under
+the laws of Canada with respect to Transportation Services in Canada respectively) when applicable;
+and (3) comply with all applicable laws or regulations in performing the Transportation Services.
+Carrier’s relationship with First Brands Group shall be that of an independent contractor, and not
+that of a First Brands Group agent, joint venture partner or employee, and nothing contained herein
+shall be construed to be inconsistent with that independent contractor relationship. Carrier shall
+have exclusive control and direction of the personnel operating its motor vehicles and equipment or
+otherwise engaged in providing the Services. Carrier shall pay and assume full responsibility for all
+commissions, salaries, insurance, taxes, pensions, benefits and other expenses of Carrier and its
+employees, agents and representatives in the performance of this Agreement. Notwithstanding the
+above, First Brands Group and Carrier acknowledge that they intend to work together to insure the
+industry best standard and most economical Transportation Service. Therefore, the parties agree to
+cooperate fully with each other in all matters relating to the services to be rendered by Carrier for
+First Brands Group hereunder.
+
+6.   Contract Carriage. Regardless of whether Carrier is authorized to operate, or does operate, as
+a common Carrier, each shipment tendered to Carrier by First Brands Group during the term of this
+Agreement shall be transported by Carrier as a motor contract Carrier and not as a common Carrier.
+
+7.     Insurance.
+
+       (A)     Carrier shall maintain at its own cost, at all times during the term of this
+               Agreement, the following types of insurance coverage:
+
+               (1) Automobile Liability Insurance, with combined limits of not less than $1,000,000
+                   per occurrence,
+
+               (2) Commercial General Liability Insurance, with a limit of not less than $1,000,000
+                   per occurrence, $2,000,000 aggregate,
+
+               (3) Cargo Legal Liability Insurance, with a limit of not less than $250,000 per
+                   shipment,
+
+               (4) Worker’s Compensation Insurance or qualification as a self-insurer to satisfy the
+                   laws of the states and/or provinces in which the employees and contractors of
+                   Carrier are employed, and
+
+               (5) Employers’ Liability Insurance, with a limit of not less than $1,000,000 per
+                   accident.
+
+       (B)     Carrier agrees that all Carrier’s insurance identified in Sections 7, (A)(1), (A)(2) and
+               (A)(3) above will specifically indicate that coverage with respect to First Brands
+
+                                                                                              6|Page
+              Case 25-51852-CTG          Doc 1-1     Filed 08/05/25      Page 8 of 30
+
+
+
+               Group (and any First Brands Group affiliate or subsidiary for which it performs
+               services) will be primary to any other insurance carried by or on behalf of First
+               Brands Group. Carriers’ said insurance policies will provide for a 30-day notice to
+               Carrier in the event of cancellation of coverage. Carrier shall promptly provide
+               notice to First Brands Group upon receipt of such notice from its insurer(s). All of
+               the Carrier’s above-mentioned insurance will be occurrence-based coverage, and
+               insured by insurance companies with an AM Best Rating of not less than A- IIV.
+
+       (C)     Carrier will provide First Brands Group with written certification, reasonably
+               acceptable to First Brands Group, of Carrier’s compliance with the requirements
+               listed in Sections 7(A) and 7(B) above.
+
+       (D)     The requirements in this Section 7 are separate and distinct from any other
+               obligations of Carrier under this Agreement.
+
+8.    Operating Authority. Carrier shall maintain valid Operating Authority and provide to First
+Brands Group upon request: (a) copies of Carrier’s operating authority, as issued by the Federal
+Motor Carrier Safety Administration, or any predecessor or successor agency or as required by any
+other applicable federal or provincial government agencies of Canada in which it operates, upon
+execution of this Agreement and any amendment thereto within thirty (30) days of such amendment.
+
+Carrier is a motor carrier authorized by the U.S. Department of Transportation (“USDOT”) to
+transport general commodities in interstate, intrastate, and foreign commerce. When Carrier acts as
+a motor carrier, it is acting pursuant to its motor carrier authority #MC 109533 Sub 146 (as to common
+carrier authority) and #MC 109533 (Sub-No. 149-P) (as to contract carrier authority);
+
+9.      Liability. From the time that the products have been physically delivered to possession of
+Carrier, evidenced by a bill of lading, shipping order or other appropriate documents signed by
+Carrier’s employee or independent contractor, Carrier shall be responsible to assure that the
+products are properly loaded and secured for transit, and that the products are promptly and safely
+transported and delivered to their destination. Control, risk of loss subject to the limitations of
+liability stated in Section 11, shall be assumed by Carrier at the time Carrier takes possession
+and/or removes the products from their present location on First Brands Group’s property. Carrier’s
+responsibility shall extend until the time that delivery to First Brands Group’s designated recipient
+is achieved, the goods accepted and a delivery receipt is given, and nothing remains to be done by
+Carrier to deliver the shipment to the consignee. Liability as to returned or rejected shipments shall
+continue until the shipment is delivered in accordance with First Brands Group’s instructions.
+
+10.    Trailer Drop-offs. Carrier shall have the right, with First Brands Group’s prior consent, to
+drop and spot trailers for loading and unloading, and initial spotting, when and as requested by First
+Brands Group, subject to the terms and conditions of Schedule F at no additional charge.
+Notwithstanding First Brands Group’s consent, such trailer drop-off shall be deemed to be for the
+sole convenience of Carrier and shall not subject First Brands Group to the payment or collection of
+any charges for detention or demurrage. Carrier, at its sole cost and expense, shall have the right to
+remove any unloaded trailer at any reasonable time upon prior notice to First Brands Group. First
+Brands Group shall have the right to move any trailer on its property and, at its convenience, may
+load such trailer for transportation by Carrier.
+
+
+
+11.   Loss or Damage to Shipments. Except as limited herein or in any of the attachments hereto,
+Carrier agrees that, in the transportation of all goods hereunder, it shall assume, and does assume,
+
+
+
+                                                                                             7|Page
+              Case 25-51852-CTG            Doc 1-1     Filed 08/05/25       Page 9 of 30
+
+
+
+the liability of an interstate motor carrier, as provided by 49 U.S.C. § 14706, such liability to exist
+from the time of the receipt of any of said goods by Carrier until proper delivery has been made.
+
+       All liability standards and burdens of proof will be governed by the common law applicable to
+common Carriers, the provisions of 49 U.S.C. §14706 and rules promulgated thereunder. All claims
+will be filed and resolved in accordance with the regulations, which are presently codified at 49
+C.F.R. §370.
+
+      The time limit for filing a claim against Carrier for damage claims shall be nine (9) months
+from date of delivery and loss claims shall be nine (9) months from date of shipment pickup., but
+First Brands Group shall be deemed to have filed such a claim in a timely manner in the event of
+any of the following:
+
+      a) by the mailing of a claim within that time limit;
+      b) by an exception notation written on the Delivery Receipt by the consignee or its agent,
+         followed by the mailing of a claim within nine (9) months of delivery; or
+      c) by Carrier’s knowing acceptance or sale of the goods in their damaged condition.
+
+      First Brands Group’s claims against Carrier shall be either paid, compromised or disallowed
+within 60 days of receipt by Carrier, and unless First Brands Group has failed to provide complete
+documentation.
+
+      The time limit for filing suit against Carrier for loss or damage claims shall be two (2) years
+from the date First Brands Group receives a written disallowance from Carrier which includes a
+detailed statement of a lawful reason for declining to accept liability for the loss, or damage in
+compliance with all applicable regulations, statutes and laws, which shall come from Carrier and not
+from its insurer or other third party. An offer of compromise shall not constitute disallowance of
+any part of the claim unless Carrier informs First Brands Group in writing that such part of the
+claim is disallowed and provides the lawful reasons for such disallowance. If for any reason Carrier’s
+insurance company refuses to pay First Brands Group with respect to any valid claims, Carrier shall
+promptly pay the balance due First Brands Group.
+
+      First Brands Group shall retain title to and remain the beneficial owner of all salvage. If
+mitigation is not possible and salvage is retained by Shipper, Shipper shall deduct from such claim
+to Carrier a 50% salvage allowance.
+
+12.    Indemnification. To the extent caused by the negligent acts, omissions, or willful misconduct
+of Carrier during the course of performance under this Agreement, Carrier covenants and agrees to
+indemnify, defend and hold harmless First Brands Group, its present and future officers, directors,
+employees, representatives, agents, successors and assigns from all liabilities, claims, penalties,
+forfeitures, causes of action, suits, and costs and expenses incident thereto (including but not limited
+to costs of defense, settlements, and reasonable attorneys’ fees) which First Brands Group, its
+present and future officers, directors, employees, representatives, agents, successors, assigns, or any
+of them may hereafter suffer, incur, become responsible for or pay out as a result of death or bodily
+injury to any person, destruction or damage to any property, real or personal, (excluding cargo loss,
+damage or delay) contamination of or adverse effect on the environment, or violation or alleged
+violation of any applicable federal, state or local law, rule, regulation or ordinance. Such obligations
+shall not apply to the extent caused by First Brand Group’s negligence, willful acts or omissions..
+       To the extent caused by the negligent acts, omissions, or willful misconduct of First Brands
+Group during the term of this Agreement, First Brands Group covenants and agrees to indemnify,
+defend and hold harmless Carrier, its present and future officers, directors, employees,
+representatives, agents, successors and assigns from all liabilities, claims, penalties, forfeitures,
+causes of action, suits, and costs and expenses incident thereto (including but not limited to costs of
+
+
+                                                                                                8|Page
+             Case 25-51852-CTG           Doc 1-1      Filed 08/05/25      Page 10 of 30
+
+
+
+defense, settlements, and reasonable attorneys’ fees) which Carrier, its present and future officers,
+directors, employees, representatives, agents, successors, assigns, or any of them may hereafter
+suffer, incur, become responsible for or pay out as a result of death or bodily injury to any person,
+destruction or damage to any property, real or personal, (excluding cargo loss, damage or delay)
+contamination of or adverse effect on the environment, or violation or alleged violation of any
+applicable federal, state or local law, rule, regulation or ordinance. Such obligations shall not apply
+to the extent caused by Carrier’s negligence, willful acts or omissions.
+
+
+         If the indemnified party claims indemnification hereunder, the indemnifying party shall be
+informed promptly in writing of such claim; provided, however, that the failure to promptly inform
+the indemnifying party of such claim shall not reduce the obligations of the indemnifying party to
+provide indemnification, except to the extent that the indemnifying party has been irreparably and
+materially prejudiced thereby. The indemnified party shall cooperate as reasonably requested by the
+indemnifying party, at the indemnifying party’s expense, in the defense of any indemnified claims
+and shall not unreasonably withhold its consent to the settlement thereof. In addition, the
+indemnified party shall have the right to be represented by counsel of its own choosing in any action,
+at its own expense. The provisions of this Section 12 do not apply to "Loss or Damage to Shipments"
+claims, which are covered by Section 11 of this Agreement.
+
+
+
+13.   Payment. As further outlined below, Carrier shall invoice First Brands Group (or if it so
+directs its freight payment agent) either by conventionally transmitted freight bills, Electronic Data
+Interchange or participation in First Brands Group’s self-invoicing freight payment program as
+agreed by the parties for amounts due and owing for the Transportation Service, calculated in
+accordance with the rates and charges set forth in Schedules B and C, including without limitation,
+claims for equipment detention charges or other similar charges for any delay in the delivery
+schedule due to the actions of First Brands Group. Payments shall be made exclusively by First
+Brands Group or its freight payment agent. Carrier shall not communicate, directly or indirectly,
+with First Brands Group’s customers, consignors, consignees or any party concerning the collection
+of any charges relating to the services provided under this Agreement.
+
+      All invoices or other claims for payment for Transportation Service provided by Carrier
+hereunder shall be submitted to First Brands Group within one hundred and eighty (180) days from
+the date such Transportation Service is provided to First Brands Group. Any charges not submitted
+and received within such one hundred and eighty (180) day period are null and void, and Carrier
+waives any and all claims for charges for Transportation Service not submitted in accordance with
+the time period set forth above.
+
+
+
+Carrier shall notify First Brands Group in writing of any freight bills remaining unpaid after
+one hundred twenty (120) days of ship date. First Brands Group will pay Carrier within 45 days
+of the date of Carrier’s original invoice with the understanding that credit is extended by Carrier,
+in its sole discretion. In the event First Brands Group breaches its payment obligations hereunder,
+Carrier may retract such extended credit. Claims against Carrier of any kind may not be deducted
+from freight charges or from any other amount due and owing Carrier.
+
+
+
+
+                                                                                               9|Page
+              Case 25-51852-CTG            Doc 1-1      Filed 08/05/25      Page 11 of 30
+
+
+
+       The liability of First Brands Group, including all of its corporate subsidiaries, affiliates and
+entities, shall be several and not joint and, therefore, none of First Brands Group’s corporate
+subsidiaries, affiliates or entities, shall be liable for payments to Carrier for shipments of
+commodities requested by and made on behalf of another of First Brands Group’s corporate
+subsidiaries, affiliates or entities.
+
+      Except as otherwise provided herein, the processing, investigation, and disposition of
+overcharge, unidentified payment, duplicate payment or over-collection claims shall be governed by
+the regulations that are presently codified at 49 C.F.R. 378.
+
+       Carrier shall not claim title or any rights in, and shall not have any lien on, and expressly
+waives its right to place any lien on, any cargo, freight or other property of First Brands Group or
+any of its customers shipped pursuant to this Agreement. In the event insolvency proceedings are
+instituted by or against Carrier, First Brands Group may immediately enter upon the premises
+where its goods may be found and take possession thereof.
+
+14.    Undercharges and Overcharges . Any action or proceeding by Carrier to recover undercharges
+alleged to be due hereunder, and any action or proceeding by First Brands Group to recover overcharges,
+over collections, duplicate or unidentified payments, or other billing disputes alleged to be due hereunder,
+shall be commenced not more than 180 days after the original bill date with respect to which such
+undercharges, overcharges, overcollections, duplicate or unidentified payments, or other billing disputes
+are claimed. To the extent permitted by applicable law, the expiration of the said 180 day period shall be
+a complete and absolute defense to any such action or proceeding, without regard to any mitigating or
+extenuating circumstance or excuse whatsoever
+
+15.   INTENTIONALLY DELETED
+
+16.    Force Majeure. The obligations of Carrier to furnish the Transportation Service, and of First
+Brands Group to use the Transportation Service, shall be temporarily suspended during any periods
+when either of the parties is unable to comply with the requirements of this Agreement by reason of
+the acts of God, public enemy, labor disorders, fire, floods, strikes, lockouts, work stoppages, plant
+closings or shutdowns, accidents, civil commotion, closing of public highways, governmental
+interference or regulations and other contingencies, similar or dissimilar to the foregoing, beyond the
+reasonable control of the affected party. The party that is unable to perform because of such an
+event shall give the other notice of same within three (3) business days of the occurrence of such
+event
+
+17.     Term and Termination. The term of this Agreement shall commence the 15th day of March,
+2021, and shall continue until terminated, with or without cause, by either Party's giving the other Party
+thirty (30) days prior written notice. In the event either Party breaches a material provision of this
+Agreement and such breach is not cured within ten (10) days from the date notice is given to the
+breaching Party by the non-breaching Party, the non-breaching Party may terminate this Agreement
+immediately upon notice and shall not operate to otherwise restrict the rights and remedies the non-
+breaching Party might otherwise have against the breaching Party. Notwithstanding, in the event
+bankruptcy is filed against a Party, or if a Party otherwise becomes insolvent or makes general assignment
+for the benefit of creditors, the other Party may terminate this Agreement immediately without notice and
+without further obligation under the terms hereof
+
+18.   Default. In the event that either party shall fail to perform any covenant or condition required
+under this Agreement to be performed by that party, and such default in performance shall have
+continued for a period of seven (7) business days after written notice thereof given by the non-
+defaulting party, the non-defaulting party may declare the other party to be in default. Upon
+
+
+                                                                                                 10 | P a g e
+             Case 25-51852-CTG          Doc 1-1     Filed 08/05/25     Page 12 of 30
+
+
+
+declaration of default, the non-defaulting party may elect to treat this Agreement as immediately
+terminated by written notice to the defaulting party. Not terminating this Agreement in no way
+constitutes acceptance by the non-defaulting party of the default, and in no way limits the remedies
+of the non-defaulting party.
+
+19.   Assignment. This Agreement shall apply to and bind the successors and assigns of the parties;
+provided, however, that no such assignment by either parties shall be effective without the prior
+written consent of the party to be assigned.
+
+20.   Modifications and Effectiveness. It is agreed that there are no oral representations,
+agreements, or understanding affecting this instrument and that any future representation,
+agreement, understanding or waiver to be binding upon the parties hereto, must be reduced to
+writing or in accordance with Section 29 hereof. Either party’s failure to strictly enforce any
+provisions of this Agreement shall not be construed as a waiver or modification thereof excusing the
+other party from performance.
+
+21.   Entire Agreement. This Agreement and the Schedules attached hereto shall constitute the
+entire agreement between the First Brands Group and Carrier hereto with respect to the subject
+matter contained herein and supersedes any prior contracts, understandings, agreements, courses of
+conduct and quotations, oral or written between the parties hereto. Any amendments to this
+Agreement or any Schedule must be agreed upon in writing with an effective date or in accordance
+with Section 29 hereof. Amendments and Schedules will not be considered in force unless
+accompanied by the mutual agreement signatures of the authorized agents of both the First Brands
+Group and Carrier or in accordance with Section 29 hereof.
+
+22.   Notices. All notices required to be given under the terms of this Agreement or which either
+party hereto may desire to give to the other must be in writing and shall be delivered via mail or
+email to the addresses as noted below, unless otherwise notified differently by First Brands Group or
+Carrier. The date of the notice so sent will be deemed to be the date of receipt:
+
+        First Brands       First Brands Group
+        Group:
+                           1100 Worldwide Blvd.
+                           Hebron, KY 41048
+                           Attn: Director Transportation
+
+                           Copy to:
+                           Trico Products Corporation
+                           3255 W Hamlin Rd #3231
+                           Rochester Hills, MI 48309
+                           Attn: Sr. Director Freight
+
+                           For notices involving a default or termination, a
+                           copy to:
+                           First Brands Group, LLC
+                           127 Public Square, Suite 5300
+                           Cleveland, OH 44114
+                           Attn: General Counsel
+
+        Carrier:           YRC Enterprise Services Inc.
+                           10990 Roe Ave.
+                           Overland Park, KS. 66211
+                           Attn: Vice President Pricng
+
+
+                                                                                           11 | P a g e
+             Case 25-51852-CTG           Doc 1-1      Filed 08/05/25      Page 13 of 30
+
+
+
+
+23.    Confidentiality. The parties shall safeguard and protect the confidentiality of all information
+related to this Agreement with the highest degree of control and care reasonably practicable, but not
+less than that degree of care practiced by such party with respect to its own similar property under
+similar circumstances, and shall not disclose any such confidential information, directly or indirectly,
+to any third party or use such confidential information other than for the purposes set forth in this
+Agreement; provided, however, that their obligations of confidentiality shall preclude neither the use
+nor disclosure of information in this Agreement:
+
+      a) as required by law;
+      b) was known by the other party prior to time of disclosure, is available or becomes generally
+         available to the public other than through a breach of this Agreement, or is independently
+         developed, or acquired or received rightfully and without confidential limitation from a
+         third party;
+      c) to obtain financing;
+      d) to a corporate parent, subsidiary or affiliate; or
+      e) to auditors, accountants, major lending institutions or legal counsel retained by a party for
+         the purpose of assessing the accuracy of freight charges.
+
+If a party becomes legally required to disclose confidential information, or any part thereof, such
+party will give the other party prompt notice of such requirement.
+
+24.   Applicable Law. Except to the extent inconsistent with federal law, this Agreement shall be
+governed by and construed in accordance with the internal laws and not the conflicts of laws rules of
+the State of Delaware without presumption or construction against the party preparing it.
+
+25.   Severability. Should any provision of this Agreement subsequently be determined to be illegal
+or unenforceable, said provisions shall at that time be deemed omitted from this Agreement and all
+other provisions shall be unaffected and shall continue in full force and effect.
+
+26.  Remedies. All remedies provided herein are cumulative and in addition to all other remedies
+which may be available at law or in equity.
+
+27.    Performance of Services. First Brands Group and Carrier represents, warrants and agrees
+that it is fully qualified and adequately equipped to perform the services it is obligated to provide
+hereunder and that all such services shall be performed in a good and workmanlike manner in
+accordance with industry practices.
+
+28.   Counterparts. This Agreement and all related Schedules and Amendments shall be executed
+simultaneously in at least two (2) counterparts, and each such counterpart shall be deemed an
+original, but shall together constitute but one (1) and the same instrument.
+
+29.    Electronic Commerce Enablement. At First Brands Group’s request and Carrier agreement,
+First Brands Group and Carrier will facilitate business transactions, including modifications to
+Schedules A, B and C as well as any other modifications to the Agreement required to be in writing,
+by electronically transmitting data utilizing electronic commerce enabling technologies. Any data
+digitally signed pursuant to this Agreement and electronically transmitted will be as legally
+sufficient as a written, signed, paper document exchanged between the parties, notwithstanding any
+legal requirement that the data be in writing or signed. Each authorized representative of a party
+
+
+                                                                                              12 | P a g e
+              Case 25-51852-CTG             Doc 1-1      Filed 08/05/25       Page 14 of 30
+
+
+
+will adopt a unique, verifiable digital identification consisting of symbols or codes to be transmitted
+with each transmission. Use of the digital identification will be deemed for all purposes to constitute
+a “signature” and will have the same effect as a signature on a written document. Each authorized
+representative of a party will maintain sole control of the use of his or her digital identification and
+neither party will disclose the digital identification of the other party to any unauthorized person.
+Each party will provide appropriate security measures to ensure that all transmission of data are
+authorized and to protect data from unauthorized access, alteration, or loss. Each party will use
+reasonable care to maintain the confidentiality of transactions and the data therein to the same
+extent as it would for paper documents of like kind and importance.
+
+30.   Conflicts of Interest. Neither party shall give any director, employee or representative of the
+other party any commission, fee, rebate, gift or entertainment of significant cost or value in
+connection with this Agreement or enter into any other business arrangement with any director,
+employee or representative of the other without prior written notification to and approval of the
+other party.
+
+31.   English. The parties hereto confirm that it is their wish that this Agreement as well as any
+other documents relating hereto including notices, have been and shall be drawn up in English only.
+
+32.   Undeliverable Shipment. If the consignee refuses a shipment tendered by Carrier for delivery;
+if Carrier is unable to deliver a shipment because of a fault or mistake of First Brands Group, or if
+First Brands Group advises and instructs Carrier to stop movement of a shipment and to hold it in
+transit, the shipment will be considered stored and Carrier’s liability thereafter immediately shall be
+that of a warehouseman. As a warehouseman, Carrier agrees to use ordinary care to keep the
+shipment in a safe and suitable place or to store the shipment properly. Carrier shall promptly attempt
+to provide notice, to First Brands Group or the party, if any, designated to receive notice on the bill of
+lading.
+
+       If Carrier does not receive disposition instructions within seven (7) business days of the time of
+Carrier’s first notification, Carrier will issue a final notification. Such notice shall advise that if Carrier
+does not receive written disposition instructions within ten (10) business days of that notification, Carrier
+will return the goods, at First Brands Group’s expense, to the shipping location identified on the bill of
+lading and First Brands Group will be responsible for Carrier’s invoice for reasonable transportation,
+storage and other accrued charges.
+
+33.   Import and Export Laws. The parties acknowledge and agree that all activities hereunder,
+including the export, re-export, import, trans-shipment, transfer and release of all goods, software and
+technology are subject to all applicable U.S. and non-U.S. laws governing the import and export of goods,
+including, but not limited to, laws concerning export and economic sanctions, customs and related laws,
+other laws and executive orders of similar import, and any and all regulations and other measures
+promulgated pursuant to such laws or executive orders (collectively, “Import and Export Laws”). First
+Brands Group agrees to act as the “importer,” “exporter” or other responsible party under all Import and
+Export Laws and, in such capacity, is solely responsible for properly classifying under the Import and
+Export Laws all goods, software and technology shipped between countries. First Brands Group is also
+responsible for providing written instructions to Carrier regarding any export, re-export, delivery, pickup
+or other activity in relation to any goods, software and technology, and these instructions shall be in
+compliance with all Import and Export Laws.
+
+34.  SPECIAL AND CONSEQUENTIAL DAMAGES. IN NO EVENT SHALL EITHER
+PARTY BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR
+CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES RESULTING FROM LOSS,
+DAMAGE AND/OR DELAY TO CARGO), OR COMMERCIAL LOSS OF ANY KIND
+(INCLUDING, BUT NOT LIMITED TO, LOSS OF BUSINESS OR LOST PROFITS),
+
+                                                                                                   13 | P a g e
+               Case 25-51852-CTG              Doc 1-1       Filed 08/05/25        Page 15 of 30
+
+
+
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, EVEN IF A PARTY OR ITS
+AGENTS KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.
+
+35.   FOODSTUFFS.               First Brands Group agrees that each shipment subject to this Agreement
+which contains foodstuffs i.e., edible materials, drugs that are ingested, injected intravenously, or
+otherwise taken internally, will be tendered to Carrier with the notation of “Foodstuffs” on the bill of
+lading. Initials and acronyms are not acceptable
+
+36. RESTRICTED AND EXCLUDED COMMODITIES. First Brands Group agrees not to tender
+any shipment to Carrier containing items designated as prohibited or restricted in Carrier’s Rules Tariff.
+In the event of an accidental or inadvertent tendering by First Brands Group to Carrier of such prohibited
+or restricted items, Carrier’s liability in the event of loss, damage and/or delay will be limited to $1.00 per
+pound per package or the actual value (whichever is less) and all other Carrier limitations and defenses
+contained herein will apply.
+
+37. LEGAL FEES. Should any litigation be commenced between the Parties concerning any provision
+of this Agreement, the rights and duties of any entity in relation thereto, or the interpretation of any
+provision hereof, each Party shall pay and be responsible for its own attorney's fees and costs.
+
+38. SURVIVAL. Those provisions that by their content are intended to survive the expiration or termination
+of this Agreement will survive the expiration or termination of this Agreement to the extent not prohibited by law.
+
+39.    CONSTRUCTION.           This Agreement will not be construed against either Party due to
+authorship. Nothing in this Agreement gives anyone, other than the Parties and any permitted assignees,
+any rights or remedies under this Agreement.
+
+40.     AUTHORITY. The Parties hereby represent that they have full power and authority to enter into
+and perform this Agreement and the Parties know of no contracts, agreements, promises or undertakings
+that would prevent the full execution and performance of this Agreement. The Parties hereby represent to
+each other that the person signing this Agreement is duly empowered to bind the Party to this Agreement
+and no further proof shall be required.
+
+
+
+
+                                                                                                        14 | P a g e
+             Case 25-51852-CTG        Doc 1-1   Filed 08/05/25   Page 16 of 30
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first
+above written.
+
+
+First Brands Group:
+
+   By:
+
+   Name:
+   Title:
+   Date:
+
+
+
+
+CARRIER: YRC Enterprise Services Inc.
+  By:
+
+
+   Name:      Richard Paul Willard
+   Title:     Authorized Representative
+   Date:      March 1, 2021
+
+         AB: 01033537jpk
+
+
+
+
+                                                                                   15 | P a g e
+               Case 25-51852-CTG       Doc 1-1    Filed 08/05/25   Page 17 of 30
+
+
+
+                                         SCHEDULE A
+ Current First Brands Group Shipping & Bill to Location Listing – Updated 01/21/2021
+
+
+ASC Industries
+1100 Worldwide Blvd
+Hebron, KY 41048
+
+
+Carter Fuel Systems
+101 E Industrial Blvd
+Logansport, IN 46947
+
+
+Carter Fuel Systems
+600 Elca Lane
+Brownsville, TX 78521
+
+
+FDC
+6700 Paredes Line Road
+Brownsville, TX 78526
+
+
+FRAM
+851 Jackson Street or 1100 Sater Street Gate 6 (Truck Entrance)
+Greenville, OH 45331
+
+
+Fram Group/Autolite
+c/o RL Jones
+1778 Zinetta Road, Suite A
+Calexico, CA 92231
+
+
+FRAM Group
+1100 Worldwide Blvd.
+Hebron, KY 41048
+
+
+Strongarm
+3108 US-76
+Marion, SC 29571
+
+
+
+
+                                                                                   16 | P a g e
+                Case 25-51852-CTG   Doc 1-1   Filed 08/05/25   Page 18 of 30
+
+
+
+Trico Aftermarket Plant 9
+1900 Billy Mitchell Blvd BLDG D
+Brownsville, TX 78521
+
+
+Trico Aftermarket Anco
+1900 Billy Mitchell Blvd BLDG B
+Brownsville, TX 78521
+
+
+Trico Aftermarket Napa
+800 Elca Lane
+Brownsville, TX 78521
+
+
+Trico Plant 4
+1995 Billy Mitchell Blvd
+Brownsville, TX 78521
+
+
+Trico El Paso
+1401 Pullman Dr, Suite C
+El Paso, TX 79936
+
+
+Champion Laboratories, Inc
+329 Industrial Dr
+Albion, IL 62806
+
+
+Champion Laboratories, Inc
+51180 Celeste
+Shelby Township, MI 48315
+
+
+Brake Parts Inc (BPI)
+1100 Corporate Dr
+McHenry IL 60050
+
+
+Brake Parts Inc (BPI)
+1380 Corporate Dr
+McHenry IL 60050
+
+
+
+
+                                                                               17 | P a g e
+             Case 25-51852-CTG       Doc 1-1   Filed 08/05/25   Page 19 of 30
+
+
+
+Brake Parts Inc (BPI)
+1600 Industrial Dr
+McHenry IL 60050
+
+
+Brake Parts Inc (BPI)
+2701 Keystone Pacific Pkwy Ste 100
+Patterson, CA 95363
+
+
+Centric Parts
+14441 Bonelli St
+City of Industry, CA 91746
+
+
+Centric Parts
+14528 E Bonelli St
+City of Industry, CA 91746
+
+
+Centric Parts
+14421 Bonelli St
+City of Industry, CA 91746
+
+
+Centric Parts
+211136 Figueroa St
+Carson CA 90745
+
+
+Centric Parts
+21112 Figueroa St
+Carson CA 90745
+
+
+Centric Parts
+21046 Figueroa St
+Carson CA 90745
+
+
+Centric Parts
+1401 Pullman Dr
+El Paso TX 79936
+Stoptech (Centric)
+
+                                                                                18 | P a g e
+            Case 25-51852-CTG        Doc 1-1   Filed 08/05/25   Page 20 of 30
+
+
+
+1805 S Wilmington Ave
+Compton CA 902205
+
+
+Power Performance Group (Centric)
+20645 Bahama St
+Chatsworth, CA 91311
+
+
+
+
+ASC Freight Bill to Address:
+ASC c/o ITS Traffic Systems
+28915 Clemens Rd, #200
+Westlake, OH 44145
+
+
+Carter Fuel Systems Freight Bill to Address:
+Carter c/o ITS Traffic Systems
+28915 Clemens Rd, #200
+Westlake, OH 44145
+
+
+Fram/Autolite Freight Bill to Address:
+Fram c/o ITS Traffic Systems
+28915 Clemens Rd, #200
+Westlake, OH 44145
+
+
+Strongarm Freight Bill to Address:
+Strongarm c/o ITS Traffic Systems
+28915 Clemens Rd, #200
+Westlake, OH 44145
+
+
+Trico Freight Bill to Address:
+Trico c/o ITS Traffic Systems
+28915 Clemens Rd, #200
+Westlake, OH 44145
+
+
+
+
+                                                                                19 | P a g e
+            Case 25-51852-CTG      Doc 1-1   Filed 08/05/25   Page 21 of 30
+
+
+
+Centric Parts c/o ITS Traffic Systems
+28915 Clemens Rd #200
+Westlake, OH 44145
+
+
+Champion Laboratories c/o Blue Grace Logistics
+2846 South Falkenburg Rd
+Riverview FL 33578
+
+
+Brake Parts Inc LLC c/o Williams and Associates
+405 East 78th Street
+Bloomington MN 55420-1251
+
+
+
+
+                                                                              20 | P a g e
+               Case 25-51852-CTG         Doc 1-1       Filed 08/05/25    Page 22 of 30
+
+
+
+                                           SCHEDULE B
+
+                         ACCESSORIAL CHARGES AND DEFINITIONS
+
+I.        Accessorial Charges:
+
+              Accessorial           Charge Amount                    Other Information
+     Collect on Delivery                $30.00                    Flat amount per shipment
+     Customers / Inbound: US &
+                                          $30.00                  Flat amount per shipment
+     Canada
+                                                            Flat amount per quarter hour (after 30
+     Driver Detention with Power          $20.00
+                                                                            min.)
+     Driver Detention without
+                                          $40.00                Flat amount per 24 hour period
+     Power
+     Driver Hand Load / Unload:
+                                          $50.00                     Flat amount per hour
+     Weekdays
+     Driver Hand Load / Unload:
+                                          $75.00                     Flat amount per hour
+     Weekends
+     Hazmat                                $7.50                  Flat amount per shipment
+     Inside Delivery                       $2.00               Per cwt. Minimum charge $30.00
+     Lift gate Service                    $20.00                  Flat amount per shipment
+     Marking & Tagging                    $15.00                     Flat amount per hour
+     Reconsignment                        $40.00            Flat amount per reconsigned shipment
+     Redelivery                           $30.00                   Flat amount per attempt
+     Saturday Pickup/Delivery             $50.00                  Flat amount per occurrence
+     Sufferance                           $30.00                  Flat amount per shipment
+     Sunday / Holiday Pickup /
+                                          $75.00                  Flat amount per occurrence
+     Delivery
+     Sorting & Segregating             $1.00 per cwt                    Max of $75.00
+     Storage                              $25.00              Flat amount per shipment per day
+     Trailer detention                    $40.00          Flat charge per calendar day (after 4 days)
+     Order not picked up                   $0.00                            Waived
+     Corrected bill of lading              $0.00                            Waived
+     First Re-delivery                     $0.00                            Waived
+     Re-weighing                           $0.00                            Waived
+     Delivery Appointment /
+                                           $0.00                            Waived
+     Notification Fee
+     Single Shipment                       $0.00                            Waived
+
+II.       Accessorial Definitions
+
+Carrier must have authorization from First Brands Group for accessorial charges incurred and is
+responsible for retaining documentation for the charges. Carrier agrees to provide documentation if
+requested by First Brands Group.
+
+Linear Foot / Capacity load – For those shipments that meet the criteria stated below, the rule
+will apply when rating these shipments.
+
+Linear Foot will apply on a shipment only if it occupies more than eight (8) feet in width and more
+than twenty-five (25) linear feet of the trailer. Such a shipment will be rated at 700 pounds a linear
+foot, at the contracted FAK class, less the contracted discount. In no case will the charges exceed
+
+
+                                                                                             21 | P a g e
+             Case 25-51852-CTG           Doc 1-1      Filed 08/05/25      Page 23 of 30
+
+
+
+$1.25 per mile based on 300 miles or actual miles, whichever is greater. Mileage will be determined
+by PC Miler, Version 31.
+
+COLLECT ON DELIVERY (C.O.D.) - is defined as occurring when a Carrier is requested by the
+First Brands Group per the notation on the bill of lading to collect a specific payment for the value of
+the product shipped from the consignee. The Carrier must forward the payment to the First Brands
+Group in such a manner as to assure receipt by the First Brands Group. C.O.D. service is paid as a
+flat amount. All checks tendered in payment for C.O.D. shipments will be accepted by Carrier at
+First Brands Group's risk. The fee for collecting and remitting a C.O.D. other than a company check
+or customer check will be twice the amount listed. Redelivery fees will also apply if the consignee,
+upon proper notification by the Carrier, does not have the proper payment methods available at the
+time of the initial delivery.
+
+DRIVER DETENTION is defined as occurring when the Carrier is detained at the First Brands
+Group, at a stop-off point, or at the consignee. Two (2) hours of free time will be applied prior to
+charges being authorized. Driver detention is paid as a rate per quarter hour after 30 minutes free
+time.
+
+HAZARDOUS MATERIALS – Shipments as defined by the Department of Transportation
+regulations under title 49 CFR. The Carrier is responsible for safe and proper transport of
+commodities specified or known to be Hazardous Materials.
+
+INSIDE DELIVERY – The movement of shipments or portions of shipments at consignee or
+consignor’s request significantly beyond the immediate adjacent unloading area or to floors above or
+below the level accessible by the Carrier’s vehicle.
+
+LIFTGATE SERVICE is defined as occurring when the Carrier provides the use of a liftgate trailer
+to lower product to ground level for delivery. Liftgate service charges are paid as a flat rate.
+
+PROTECT FROM FREEZING - requires the Carrier to transport the shipment at a temperature
+that assures the commodity is not frozen at any point in transit. First Brands Group will issue a
+tender to the Carrier notating this service.
+
+First Brands Group will also send via electronic communication verification of these tenders and
+requested service. Carrier has the right to reject these tenders based on forecasted low temperatures
+and actual transit time but if the tender is accepted, the Carrier is obligated to perform this service.
+The First Brands Group will mark protect from freezing on the bill of lading. Protect from Freezing
+is paid at a flat rate per shipment.
+
+RECONSIGNMENT is defined as a change in the consignee location once the shipment has arrived
+at the original destination. The new location must be a different address than the original consignee.
+If both are located at the same address, reconsignment charges will not be approved.
+
+REDELIVERY is defined as occurring when a delivery is scheduled, Carrier arrives at the
+consignee to deliver, and delivery cannot be accomplished, therefore requiring that the Carrier
+return to deliver the shipment
+
+Authorization must be obtained from First Brands Group at the time the delivery is unable to be
+completed as scheduled. Re-delivery charges are paid as a flat amount for each time the Carrier is
+unable to complete delivery as scheduled.
+
+
+
+
+                                                                                             22 | P a g e
+             Case 25-51852-CTG           Doc 1-1     Filed 08/05/25     Page 24 of 30
+
+
+
+RESIDENTIAL DELIVERY – The movement of shipments or portion of shipments at consignee or
+consignor’s request to a private residence. The term private residence is defined only as the premises
+on which there is a dwelling for living. Service will be to the main door of the residence.
+
+SATURDAY/SUNDAY/HOLIDAY PICKUP/DELIVERY is defined as occurring when a driver is
+required to pick up and/or deliver on a Saturday, Sunday or on a holiday. Holidays are defined as
+January 1, Memorial Day, July 4, Labor Day, Thanksgiving Day, and December 25.
+Saturday/Sunday/Holiday Pickup/Delivery charges are paid as a flat amount. The Day after
+Thanksgiving Day will be considered a non-workday, not a paid holiday.
+
+First Brands Group reserves the right to expect Carrier service on this day with proper notification.
+
+SORTING & SEGREGATING - This service shall be applicable when the Carrier’s driver or agent
+is required to sort the packages contained within that shipment by brand, size, marks or any other
+distinguishing packaging characteristics. Sorting and segregating service shall not include
+assembling, packing unpacking or dismantling of commodities. This fee shall be $1 per cwt and the
+maximum charge should be $75.00.
+
+STORAGE – If the consignee refuses the shipment for delivery or the Carrier is unable to deliver
+the shipment through no fault of the Carrier, the Carrier’s liability shall become that of a
+warehouseman. Carrier shall promptly notify First Brands Group by electronic notification. Storage
+charges will be paid as a flat fee per day commencing at 8 AM on the 5th business day after
+notification has been given to First Brands Group.
+
+TRAILER DETENTION is defined as occurring when the Carrier's trailer or container is detained
+at the First Brands Group or consignee. Four (4) days of free time will be applied prior to charges
+being authorized. Trailer detention is paid as a flat rate per calendar day.
+
+ORDER NOT PICKED UP – is defined as when the Carrier’s trailer is ordered and not used. This
+charge shall be waived.
+
+CORRECTED BILL OF LADING – is defined as when correction of bill lading occurs. This charge
+shall be waived.
+
+FIRST RE-DELIVERY – is defined as when the first re-delivery of a shipment occurs. This charge
+shall be waived.
+
+RE-WEIGH – is defined as charges for re-weighing a shipment. This charge shall be waived.
+
+DELIVERY APPOINTMENT AND ARRIVAL NOTIFICATION – is defined as the fee for
+notifying the receiver of a scheduled delivery date and time. This fee shall be waived.
+
+SINGLE SHIPMENT CHARGE – is defined as the fee for orders of single shipments. This fee shall
+be waived.
+
+
+                            FAK AND FUEL SURCHARGE TABLES
+I.     FAK Table
+
+Any Carrier awarded primary or secondary position on any lane agrees to make all their rates offered
+in any lane available for First Brands Group to tender. All rates offered are binding and effective for
+First Brands Group to ship upon given award and implementation.
+
+
+
+                                                                                            23 | P a g e
+               Case 25-51852-CTG            Doc 1-1     Filed 08/05/25      Page 25 of 30
+
+
+
+All rates offered must be valid for at least 12 months with an option to extend by 1 year.
+
+All rates offered take into account the following FAK structure for First Brands Group business units:
+
+                         NMFC Classification
+                                                                                    FAK Class
+                At Least           But Less than or Equal to
+                   50                         77.5                                       50
+                   85                         110                                       77.5
+                  125                         200                                       125
+                  250                         500                                       250
+
+      x   Please note the following exceptions to the FAK structure for shipments originating out of Trico
+          Products, Brownsville, TX 78521:
+              o FAK Class 65 shall apply to articles with NMFC Classification of 60 through 110
+              o NMFC 197720 will be rated at FAK Class 60
+      x   Please note the following exceptions to the FAK structure for shipments originating out of Carter
+          Fuel Systems, Brownsville, TX 78521 and Logansport, IN 49467:
+              o FAK Class 100 shall apply to articles with NMFC Classification of 100 through 200
+              o NMFC 127640 will be rated at FAK Class 100
+
+II.       Fuel Surcharge (FSC) Table
+
+Freight charges for the line haul transportation and charges for other transportation services, which
+consume fuel when performed by Carrier under this Agreement, may be subject to a fuel surcharge as
+provided below. Surcharge shall not be assessed to over-dimensional penalties, permits or other
+charges not directly related to the consumption of fuel.
+
+Adjustments in this fuel surcharge will be based on fuel prices announced on Monday of each week by
+the DOE's Energy Information Administration (EIA) in its "National Average Diesel Fuel Price
+Survey, (DOE National Average Price)". This fuel surcharge will be reviewed weekly and adjusted, if
+appropriate, as diesel fuel prices change in accordance with the table below. The Carrier should call
+the EIA @ (202) 586-6966 each Tuesday for an announcement advising the applicable average diesel
+fuel price to become effective the following Monday. The corresponding fuel surcharge will be effective
+Monday through Sunday of the next week.
+
+
+                At Least                 But Less than or Equal to           Fuel Surcharge factor is:
+                  $1.210                             $1.259                             0.60%
+                  $1.260                             $1.309                             0.90%
+                  $1.310                             $1.359                             1.20%
+                  $1.360                             $1.409                             1.50%
+                  $1.410                             $1.459                             1.80%
+                  $1.460                             $1.509                             2.10%
+                  $1.510                             $1.559                             2.40%
+                  $1.560                             $1.609                             2.70%
+                  $1.610                             $1.659                             3.00%
+                  $1.660                             $1.709                             3.30%
+                  $1.710                             $1.759                             3.60%
+
+
+                                                                                                24 | P a g e
+Case 25-51852-CTG     Doc 1-1   Filed 08/05/25   Page 26 of 30
+
+
+
+
+At Least            But Less than or Equal to    Fuel Surcharge factor is:
+ $1.760                      $1.809                       3.90%
+ $1.810                      $1.859                       4.20%
+ $1.860                      $1.909                       4.50%
+ $1.910                      $1.959                       4.80%
+ $1.960                      $2.009                       5.10%
+ $2.010                      $2.059                       5.40%
+ $2.060                      $2.109                       5.70%
+ $2.110                      $2.159                       6.00%
+ $2.160                      $2.209                       6.30%
+ $2.210                      $2.259                       6.60%
+ $2.260                      $2.309                       6.90%
+ $2.310                      $2.359                       7.20%
+ $2.360                      $2.409                       7.50%
+ $2.410                      $2.459                       7.80%
+ $2.460                      $2.509                       8.10%
+ $2.510                      $2.559                       8.40%
+ $2.560                      $2.609                       8.70%
+ $2.610                      $2.659                       9.00%
+ $2.660                      $2.709                       9.30%
+ $2.710                      $2.759                       9.60%
+ $2.760                      $2.809                       9.90%
+ $2.810                      $2.859                       10.20%
+ $2.860                      $2.909                       10.50%
+ $2.910                      $2.959                       10.80%
+ $2.960                      $3.009                       11.10%
+ $3.010                      $3.059                       11.40%
+ $3.060                      $3.109                       11.70%
+ $3.110                      $3.159                       12.00%
+ $3.160                      $3.209                       12.30%
+ $3.210                      $3.259                       12.60%
+ $3.260                      $3.309                       12.90%
+ $3.310                      $3.359                       13.20%
+ $3.360                      $3.409                       13.50%
+ $3.410                      $3.459                       13.80%
+ $3.460                      $3.509                       14.10%
+ $3.510                      $3.559                       14.40%
+ $3.560                      $3.609                       14.70%
+ $3.610                      $3.659                       15.00%
+ $3.660                      $3.709                       15.30%
+ $3.710                      $3.759                       15.60%
+
+
+
+                                                                   25 | P a g e
+             Case 25-51852-CTG           Doc 1-1      Filed 08/05/25      Page 27 of 30
+
+
+
+
+              At Least                 But Less than or Equal to          Fuel Surcharge factor is:
+                $3.760                            $3.809                             15.90%
+                $3.810                            $3.859                             16.20%
+                $3.860                            $3.909                             16.50%
+                $3.910                            $3.959                             16.80%
+                $3.960                            $4.009                             17.10%
+                $4.010                            $4.059                             17.40%
+
+For diesel fuel prices above or below the scale published above, the fuel surcharge factor shall increase
+0.3% for every 5 increase in diesel fuel prices.
+
+In applying this surcharge, first determine the otherwise applicable charges provided in this
+Agreement, and then calculate the surcharge as above. When multiplying the freight charges by the
+surcharge, amounts of less than one-half cent will be dropped and amounts of one-half cent and more
+will be increased to the next whole cent. The fuel surcharge is to be shown as a separate entry on the
+Carrier’s freight bill.
+
+This fuel surcharge cancels and supersedes all previous fuel surcharge amendments.
+
+Fuel surcharge records shall be maintained in First Brands Group’s fuel surcharge files.
+
+
+
+
+                                                                                              26 | P a g e
+             Case 25-51852-CTG         Doc 1-1       Filed 08/05/25   Page 28 of 30
+
+
+
+
+                                           Schedule C
+
+                                 AFFILIATED COMPANIES
+
+
+
+YRC Inc. d/b/a YRC Freight, a Delaware corporation
+10990 Roe Avenue
+Overland Park, KS 66211
+Contract Carrier #: MC-2202 (sub 727)
+DOT #: 071821
+SCAC: RDWY
+
+USF Holland LLC, a Delaware limited liability company
+d/b/a Holland
+700 S. Waverly Road
+Holland, MI 49423
+Carrier #: MC-59206
+SCAC: HMES
+DOT #: 75806
+
+USF Reddaway Inc., an Oregon corporation
+d/b/a Reddaway
+7720 SW Mohawk Street, BLDG H
+Tualatin, OR 97062
+Carrier #: MC-65895 (sub 21)
+SCAC: RETL
+DOT #: 62227
+
+New Penn Motor Express, LLC, a Delaware limited liability company
+10990 Roe Avenue
+Overland Park, KS 66211
+Carrier #: MC-70832
+SCAC: NPME
+DOT #: 10670
+
+
+
+
+                                                                                      27 | P a g e
+                Case 25-51852-CTG            Doc 1-1      Filed 08/05/25        Page 29 of 30
+
+
+
+
+                                                SCHEDULE D
+                                              CARGO LIABILITY
+
+A.      The following limits of liability apply to all shipments hereunder:
+
+      (i)      Carrier’s Maximum Liability
+     Unless otherwise stated herein, in the event of loss, damage and/or delay to any shipment, for YRC
+     Freight Carrier’s liability will not exceed $25 per pound per package, subject to a maximum liability
+     of $100,000 per shipment (whichever is less) and for Holland, Reddaway and New Penn Carrier’s
+     liability will not exceed $10 per pound per package, subject to a maximum liability of $100,000 per
+     shipment (whichever is less), unless Shipper has requested excess liability coverage before the Carrier
+     accepts tender of the shipment. Excess liability coverage terms and conditions are stated in Carrier’s
+     Rules Tariff. Such excess liability charge is in addition to the lawful freight charges otherwise
+     accruing to the shipment. Charges are to be paid by the party responsible for payment of the otherwise
+     applicable freight charges. Requests for excess coverage shall be made as the last entry in the
+     “Description of Articles, Special Marks and Exceptions” section of the bill of lading or such similar
+     section if the Uniform Straight Bill of Lading is not used. Otherwise, such requests shall be made
+     adjacent to, but not in lieu of, the “declared value” section on the bill of lading. Excess liability
+     coverage is not available for commodities having a released or declared value in the National Motor
+     Freight Classification 100 Series (“NMFC”).
+
+     (ii)        Liability for Class, FAK and/or Exception Class Shipments
+     When shipments move under Class rates, FAK rates or Exception class, Carrier's liability will not
+     exceed the maximum liability per pound per package for classes provided in Carrier’s tariff. Exception
+     rated shipments that do not have a class listed will default to the class 50 liability limit. When the
+     shipment moves under actual class provisions, standard liability limitations will apply. All liability per
+     pound per package will be subject to a maximum Carrier liability of $100,000 per incident per Shipper.
+     Claims will be based on a per pound per package basis. Liability will not be determined on the weight
+     of the entire shipment in question.
+
+     Carrier's liability for loss or damage to any article(s) or part thereof for which the charges are
+     determined by class, FAK class or Exception class is limited to the lesser of:
+
+          (1)    actual invoice value of the article(s) lost, damaged or destroyed;
+          (2)    exclusions or limited liability provisions of the bill of lading;
+          (3)    applicable limited liability provisions of the NMFC;
+          (4)    lowest released value shown in the NMFC for the commodity shipped;
+          (5)    the maximums by class, FAK and/or exception class as provided in Carrier’s tariff; or
+          (6)    a maximum of $100,000 per shipment.
+
+     (iii)        Carrier’s Liability for Limited Liability Commodities (YRC Freight only)
+     Carrier’s liability for commodities listed as Limited Liability Commodities in Carrier’s rules tariff will be
+     subject to the maximum liability per pound per package and maximum liability per occurrence provided
+     in Carrier’s rules tariff.
+
+
+
+
+                                                                                                      28 | P a g e
+              Case 25-51852-CTG             Doc 1-1      Filed 08/05/25       Page 30 of 30
+
+
+
+     (iv)         Carrier’s Maximum Liability on New Released or Declared Value Commodities
+     Release or declared value amounts will be as stated in the current NMFC tariff. Carrier’s liability will
+     be according to Shipper’s declaration on the bill of lading at the time of the shipment. If there is no
+     declaration on the bill of lading, unless the individual NMFC tariff item provides otherwise, Carrier’s
+     liability will be the lowest release value. Unless the individual NMFC tariff item permits “full value” as
+     choice, excess liability coverage is not permitted for release or declared commodities with the exception
+     that YRC Freight will allow on NMFC 100240 – Household Goods.
+
+      (v)       Carrier’s Liability on Used Goods
+     With the exception of Exhibit Materials, all used goods move subject a released value not to exceed
+     $0.50 per pound, unless excess liability coverage is purchased. Maximum liability for used goods is
+     $5.00 per pound not to exceed $10,000.00 per shipment.
+
+     Obsolete, Unsellable, Waste articles shipped for purposes of Reclamation or Scrap articles of any kind
+     will be accepted only when released to a value not exceeding $0.10 per pound per package.
+
+     Used items which have been reconditioned and not further used prior to shipment will be considered
+     used equipment. Exhibit materials move subject to 20% depreciation per year from date of original
+     purchase based on the values stated on the original purchase invoice.
+
+     (vi)       Canadian Southbound Shipments
+     Shipments originating in Canada will be subject to liability not exceeding $2.00 per pound (CDN
+     Funds) per shipment weight, unless a higher value is declared by the shipper. Liability shall not exceed
+     maximum value as provided in the NMF 100 series.
+
+B.      Items not specifically addressed in this Agreement will be governed by Carrier’s Rules Tariff.
+
+
+
+
+                                              SCHEDULE E
+
+                                    SPOT TRAILER AGREEMENT
+
+
+
+                                               Spot Trailer Agmt
+                                                20161207.pdf
+
+
+
+
+                                                                                                   29 | P a g e
+

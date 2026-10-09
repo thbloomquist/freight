@@ -1,0 +1,142 @@
+                                     December 6, 2018
+
+
+                                    CBCA 6084-RATE
+
+
+                        In the Matter of AARE LOGISTICS, LLC,
+
+
+      Robert J. Henry of Scopelitis, Garvin, Light, Hanson & Feary, P.C., Chicago, IL,
+appearing for Claimant.
+
+     George J. Thomas, Jr., Director, Transportation Audits Division, Office of Travel,
+Employee Relocation, and Transportation, Federal Acquisition Service, General Services
+Administration, Washington, DC, appearing for General Services Administration.
+
+      David J. DiCenso, Attorney-Advisory, Military Surface Deployment and Distribution
+Command, Department of the Army, Scott Air Force Base, IL, appearing for Department of
+Defense.
+
+GOODMAN, Board Judge.
+
+       Claimant, AARE Logistics, LLC, is a transportation service provider (TSP) who ships
+household goods for relocating service members. The Transportation Audits Division (TAD)
+of the General Services Administration (GSA) conducted post-payment audits on AARE’s
+shipments and issued 115 Notices of Overcharge (NOCs). On October 5, 2017, claimant
+requested that TAD reconsider the NOCs.1 In response to the request for reconsideration,
+TAD adjusted some of the NOCs and issued a decision on February 14, 2018, assessing a
+debt against claimant in the amount of $286,928.06. Claimant has asked this Board to review
+TAD’s decision of February 14, 2018.
+
+       1
+        Claimant refers to its request for reconsideration of the NOCs as a “protest,” a term
+not used in the regulations.
+CBCA 6084-RATE                                                                           2
+
+       GSA’s TAD and the procuring agency, the Surface Deployment and Distribution
+Command (SDDC), both move to dismiss claimant’s request for review as premature,
+asserting that there has been no agency action that is reviewable by the Board. TAD states:
+
+               [Claimant] continue[s] to advance [its] objection of Transportation
+       Audits findings to the Board prior to completion of the administrative claims
+       process. The petitioner has not filed a claim with Transportation Audits,
+       therefore, GSA has not had an opportunity to review or render a decision. By
+       not filing a claim with Transportation Audits the petitioner has not exhausted
+       its administrative remedies. In accordance with 41 CFR § 102-118.645, a
+       Transportation Service Provider (TSP) may file an administrative claim
+       involving collection actions resulting from the transportation audit performed
+       by the GSA directly with the GSA Audit Division. If the claim is disallowed
+       GSA will issue a settlement certificate (41 CFR § 102-118.620). 41 CFR
+       §102-118.625 allows the TSP to request a reconsideration of the settlement
+       action by the Administrator of General Services. It is only after GSA has acted
+       on an administrative claim that a TSP may then request a review of a
+       settlement action by the Civilian Board of Contract Appeals under 41 CFR
+       § 102-118.650. [citing additional precedent from this Board.]
+
+       The SDDC stated:
+
+              We join GSA in their request to dismiss. The petitioner has not yet
+       exhausted [its] administrative remedies by filing a claim with GSA’s
+       Transportation Audits office. Until GSA has had an opportunity to review the
+       matter and render a decision, it is premature for AARE to pursue a remedy
+       through the CBCA. We note the provisions of 41 CFR §102-118.650, and the
+       cited precedent provided by GSA . . . .
+
+      In response to inquiries from the Board, TAD stated: “AARE has not submitted
+payment to GSA and GSA Audits has not pursued nor effected collections through
+administrative offset. Therefore, a settlement certificate cannot be issued.”
+
+                                        Discussion
+
+        In Platinum Services, Inc., CBCA 5963-RATE (Nov. 29, 2018), we discussed the
+statutory and regulatory requirements for challenging the decisions of TAD, including the
+right to have TAD’s final administrative decision reviewed by this Board:
+CBCA 6084-RATE                                                                          3
+
+               After an agency submits a government bill of lading to the TSP and
+       pays for transportation services, TAD may conduct a post-payment audit of the
+       TSP’s transportation bills. 41 CFR 102-118.405 (2017); 31 U.S.C. § 3726
+       (2012). As the result of a post-payment audit, the agency may issue a NOC for
+       “charges for transportation that exceed those applicable under the executed
+       agreement for services such as bill of lading.” 41 CFR 102-118.35 (definition
+       of “overcharge”); 41 CFR 102-118.430(f). If a TSP disagrees with a NOC
+       resulting from a postpayment audit, the TSP can request that TAD reconsider
+       the NOC. 41 CFR 102-118.600.
+
+               If TAD’s reconsideration decision is not favorable to the TSP, but
+       confirms the NOC, and TAD subsequently takes action to collect the amount
+       it believes is due from the TSP, the TSP can submit an administrative claim to
+       TAD for amounts deducted or set off by the agency that are disputed by the
+       TSP. 41 CFR 102-118.450(b), -118.645; 31 U.S.C. § 3726. A claim is
+       defined as “[a]ny demand by the TSP for amounts not included in the original
+       bill that the TSP believes an agency owes them. This includes amounts
+       deducted or offset by an agency; amounts previously refunded by the TSP,
+       which is believed to be owed; and any subsequent bills from the TSP resulting
+       from a transaction that was prepayment or postpayment audited by the GSA
+       Transportation Audits Division.” 41 CFR 102-118.35.
+
+              Only if TAD allows or disallows the claim will it take a “settlement
+       action” by issuing a GSA Form 7932 settlement certificate. 41 CFR
+       102-118.610, -118.620. A “settlement action” requires the issuance of a
+       settlement certificate. 41 CFR 102-118.650; Logistics International, Inc.,
+       CBCA 1255-RATE, 09-1 BCA ¶ 34,123, at 168,721 (citing McGill Specialized
+       Carriers, GSBCA 13926-RATE, 97-1 BCA ¶ 28,876, at 144,014, and
+       Tri-State Motor Transit Co., GSBCA 14352-RATE, 98-1 BCA ¶ 29,521, at
+       146,408); DHL Worldwide Express, GSBCA 16308-RATE, 04-1 BCA
+       ¶ 32,549, at 160,989 (citing Action Capital Corp., GSBCA 15772-RATE, 02-2
+       BCA ¶ 31,895).
+
+               A settlement certificate is the final administrative action by TAD. 41
+       CFR 102-118.515. Once the final administrative action occurs, by issuance of
+       the settlement certificate, a TSP may ask the Board to review that settlement
+       action by TAD. 41 CFR 102-118.650.
+
+Slip op. at 2-3.
+CBCA 6084-RATE                                                                             4
+
+
+       In this case, following the issuance of TAD’s reconsideration decision, TAD has not
+pursued collections of the amounts assessed against claimant through administrative offset,
+nor has claimant filed an administrative claim with regard to the reconsideration decision.
+Accordingly, without an administrative claim, there can be no settlement certificate or final
+administrative action. “The failure by a TSP to file its administrative claim at GSA before
+submitting it to the Board will result in the dismissal of that claim as premature.” Platinum
+Services Inc., slip op. at 3 (quoting Moyer & Sons Moving & Storage, Inc., CBCA
+5012-RATE, 16-1 BCA ¶ 36,342, at 177,197-98 (citing MJN Services, Inc., CBCA
+3024-RATE, 13 BCA ¶ 35,254, at 173,052)). Because claimant has not submitted an
+administrative claim, we must dismiss this case. DHL Worldwide Express, 04-1 BCA at
+160,989.
+
+                                         Decision
+
+       As claimant has not filed an administrative claim, no final administrative action has
+occurred. This Board does not have the authority to review the issues raised in the NOCs.
+Accordingly, this case is DISMISSED.
+
+
+
+                                                     Allan H. Goodman
+                                                  ALLAN H. GOODMAN
+                                                  Board Judge
+

@@ -1,0 +1,123 @@
+     BOL GUIDE
+ 1         our PRO label can be printed once you request a pickup
+          Y                                                                                                                                         4      The company name and address of those                                                                7   If applicable, indicate the accessorial
+          at odfl.com OR your driver will have this for you.                                                                                               receiving the shipment. Include contact name                                                             service(s) the shipment requires,
+                                                                                                                                                           and phone number for delivery location.                                                                   including but not limited to:
+ 2        F
+           REIGHT CHARGES (defaults to prepaid)                                                                                                                                                                                                                    ARN: Arrival notification
+          Prepaid: Freight invoice will be sent to the shipper.                                                                                     5      The company name and address of the Third Party                                                          CA: Call for Appointment
+          Collect: Freight invoice will be sent to the consignee.                                                                                          paying the freight charges if different from the                                                          EXD: Tradeshow/Expo Delivery
+                                                                                                                                                           shipper or consignee per the Freight Terms.                                                               HYD: Hydraulic Lift Gate Service
+ 3       The company name and address of those sending                                                                                                                                                                                                               IDC: Inside Delivery Charge
+         the shipment. Include contact name and phone number                                                                                        6      Assign a B/L#, LOAD# and PO# if applicable.                                                              OVL: Overlength Article
+         for origin location.                                                                                                                              These are not required. Note, they will be                                                                PFF: Protect from Freezing
+                                                                                                                                                           included on freight invoice.                                                                              RDC: Residential Delivery
+
+This BOL form can be found at odfl.com/fillprintforms/PrintableBol.pdf
+                                                                                                                                                                                                                                                               8    Provide the number of handling units,
+                                                         FREIGHT CHARGES ARE PREPAID ON THIS BILL OF LADING UNLESS MARKED COLLECT                                                                                                                                   individual pieces, and individual pieces
+                                         OLD DOMINION FREIGHT LINE, INC.                                                                                                                                                                                            type to each commodity provided.
+                                           PHONE: 800-432-6335                                WEBSITE:                                                  1          THANK YOU FOR CHOOSING
+                                                                                                                                                                                                                                                               9    Check the box if a commodity contains
+                                            STRAIGHT BILL OF LADING                                                                                               OLD DOMINION FREIGHT LINE
+                                                                                                                                                                                                                                                                    hazardous materials.
+                                                                                                                                                                PLACE PRO LABEL HERE
+                                             Freight Terms                           2               Pickup Date
+                                                                                                                                                                                                                                                                    Provide a complete description for each
+                                                                 Prepaid                                                                                                                                                                                       10
+     Shipper:                                                                              Consignee:                                                                        Bill-to:
+                                                                                                                                                                                                                                                                    item being shipped.
+     ABC Company                                                                            XYZ Company                                                                      Third Party Provider Inc.
+     Jane Doe                                                                               John Smith                                                                       c/o ABC Company                                                                   11   If the commodity contains hazardous
+     123 Street                                    3                                        456 Avenue                                    4                                  789 Blvd.                                           5                                  materials, include the Hazmat ID
+     Anywhere, ST 12345                                                                     Somewhere, ST 67890
+                                                                                                                                                                             Overthere, ST 24680                                                                    number, Hazard Class and Packing Group.
+     888-123-4567                                                                           888-987-6543
+     B/L#: 12345                                                                                                                        LOAD#: 12345
+     P/O#: 1234                                                                                                         6                                                                                                                                      12   Provide the NMFC number or the freight
+     Accessorial Services Requested: Liftgate Required, Call for Delivery Appointment, Inside Delivery, Protect from Freezing
+                                                                                                                                                                                                                                                                    class of the commodity.
+
+                                                    7                                                                                                                                                                                                          13   Provide the weight for each commodity
+                                                                                                                                                                                                                                                                    including the packaging.
+      HU            Pieces            Pcs Type              HAZ                                                            Description                                                                NMFC                Class Weight (lbs)
+
+        1               50               Box                             Boxes of Red Electric Relays                                                                                                                     100              640                 14   Provide the overall handling units and
+                                                                                                                                                                                                                                                                    weight of the shipment.
+                               8                              9                                                        10                       11                                                                  12                       13
+                                                                                                                                                                                                                                                               15   Provide any special delivery instructions
+                                                                                                                                                                                                                                                                    including any special instructions for
+                                                                                                                                                                                                                                                                    handling the freight.
+
+                                                                                                                                                                                                                                                               16   Enter the required delivery date if needed.
+
+                                                                                                                                                                                                                                                               17   If HAZ was marked, provide the
+                                                                                                                                                                                                                                                                    emergency contact name and phone
+                                                                                                                                                                                                                                                                    number. Also supply the contract
+                                                                                                                                                                                                                                                                    number if it exists.
+
+                                                                                                                                                                                                                                                               18   Enter the rate reference number
+                                                                                                                                                                                                                                                                    provided by OD.
+
+                                                                                                                                                                                                                                                               19   For additional cargo liability, see OD
+     Total
+                     1 Skid                                            Special Instructions: Please use back dock, closed for lunch                                              15                                                                                 100 Item 574 or call OD Customer Service.
+     H/U:
+     Total
+                                                  14
+                        640                                            Required Delivery Date:                                                                                                                                                                       rovide agreed or declared value of the
+                                                                                                                                                                                                                                                                    P
+     Weight:                                                                                                                     16                                                                                                                            20
+     Hazardous Materials Emergency Contact:
+                                                                                                                                                                                                                                                                    property.
+                                                                                                                                                                                                                               Form Publication: 02/2022
+                                                                                      17
+     RECEIVED and mutually agreed by the Shipper, his assigns and any additional party with an interest to any of said
+     property hereto and by the Carrier of all or any of said property over all or any portion of said route to destination, that                     Rate Estimate #             18               Additional Cargo Liability Amount
+     every service to be performed hereunder shall be subject to the National Motor Freight classifications (NMF 100 Series)                                                                                                                                   21    rovide company and name of person
+                                                                                                                                                                                                                                                                    P
+     including the Rules, packaging, the Uniform Bill of Lading Terms and Conditions, applicable regulations of the US
+     Department of Transportation (DOT), ATA Hazardous Materials Rules Guide Book, Household Goods Mileage Guides,                                 12345678                                             $                 19                                        releasing the shipment.
+     Carrier’s tariffs (including OD Rules 100), Carrier’s pricing schedules, terms, conditions and rules maintained at Carrier’s
+     general offices all of which are in effect as of the date this Bill of Lading is tendered to Carrier. Carrier (Carrier defined
+     throughout this contract as meaning any person or corporation in possession of the property under this contract)                 Carrier’s maximum cargo liability, unless otherwise set forth in applicable contracts or tariffs (including OD
+     agrees to carry to said destination if on its route, otherwise to deliver to another carrier on the route to said
+     destination. Carrier shall in no event be liable for loss of profit, income, interest, attorney fees, or any special,
+                                                                                                                                      Rules 100, Items 594 & 574), is: for new commodities - $5.00 per pound or $50,000 per occurrence; for used               22    rovide signature of person releasing
+                                                                                                                                                                                                                                                                    P
+                                                                                                                                      commodities (incl. machinery) or household goods - $0.10 per pound or $10,000 per occurrence. See tariffs
+     incidental or consequential damages
+     NOTE-Where the rate is dependent on value, shippers are required to state specifically in writing the agreed or
+                                                                                                                                      for available higher levels of carrier cargo liability.                                                                       the shipment.
+     declared value of the property. Noting a value is not a request for Addl Cargo Liab. The agreed or declared value                Shipper 1) warrants it has read all applicable contract(s) or Carrier’s applicable tariff(s), including but not
+     of the property is hereby specifically stated by the shipper to be not exceeding
+     $                                       per
+                                                                                           20                                         limited to OD Rules 100, and the limitation of liability provisions set forth therein; and 2) has actual knowledge
+                                                                                                                                      of and accepts the contract or tariff terms, including the limits on carrier liability.                                  23   To be completed by driver.
+     Shipper hereby declares that the contents of this consignment are fully and accurately described above by the                    Date:                             H/U                                               Trailer#:
+     proper shipping name, and are classified, packaged, marked and labeled/placarded, and are in all respects in
+     proper condition for transport according to applicable regulations, including the Department of Transportation.                                                    Received:
+
+     Shipper:             21                                                                                                          Carrier: OLD DOMINION FREIGHT LINE, INC.                 23                                                                    YELLOW HIGHLIGHT = OPTIONAL
+     Authorized                                                                                                                       Authorized
+     Signature (Shipper)                  22                                                                                          Signature (Driver)
+
+
+
+ This BOL Guide is provided to assist you in filling out the ODFL BOL, however it remains your responsibility to understand the
+ impact of your choices on the BOL. For a full list of the rules, terms and conditions applicable to your shipment, see ODFL Tariff
+ 100. Full rules for BOL are in NMF-100. If an agent is entered in 5 or 6 , ODFL reserves the right to pursue the true Shipper/
+ Consignee for payment. *ODFL reserves the right to pursue any entity(s)/person who may be liable for unpaid freight charges and
+ is not limited to collecting from the entity(s)/person in this section.
+
+                                                                                                                                                                                                                                                             To learn more about how OD can make
+                                                                                                                                                                                                                                                             your job easier, email, call or visit:
+
+                                                                                                                                                                                                                                                             Customer.Service@odfl.com
+                                                                                                                                                                                                                                                             800-235-5569
+                                                                                                                                                                                                                                                             odfl.com
+
+      OD DOMESTIC                                                                            OD EXPEDITED                                                                          OD PEOPLE                                                               OD GLOBAL                       OD TECHNOLOGY
+
+                                                                                                         ©2024 Old Dominion Freight Line, Inc. Thomasville, N.C. All rights reserved. 1223_OB23_RSBOL
+

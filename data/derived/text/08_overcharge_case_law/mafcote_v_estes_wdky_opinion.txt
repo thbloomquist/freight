@@ -1,0 +1,371 @@
+                             UNITED STATES DISTRICT COURT
+                             WESTERN DISTRICT OF KENTUCKY
+                                     AT LOUISVILLE
+
+MAFCOTE INDUSTRIES, INC.,
+d/b/a MIAMI WABASH PAPER, LLC,
+d/b/a ROYAL CONSUMER PRODUCTS, LLC,                                                    PLAINTIFFS
+
+v.                                                            CIVIL ACTION NO. 3:07-CV-419-S
+
+ESTES EXPRESS LINES, INC.,                                                            DEFENDANT
+
+                                  MEMORANDUM OPINION
+
+       Miami Wabash Paper and Royal Consumer Products (wholly owned subsidiaries of Mafcote
+
+Industries) hired Estes Express Lines to transport products to their customers. On a number of
+
+occasions Estes did not effectuate delivery until after deadlines to which the plaintiffs and their
+
+customers had agreed, resulting in the plaintiffs being assessed tens of thousands of dollars in late
+
+fees. Thus Mafcote and its subsidiaries instituted this suit in state court, in which they blame Estes
+
+for the delays and seek to hold it legally responsible for the consequences thereof. Estes removed
+
+the case to this court, asserting both diversity of citizenship and that the case presents a federal
+
+question because it is allegedly governed in part by the Carmack Amendment to the Interstate
+
+Commerce Act, 49 U.S.C. § 14706, et seq. Estes disclaims liability on various grounds, and has
+
+counterclaimed for something north of $225,000 in unpaid fees for its transportation services. It has
+
+now moved for summary judgment both as to Mafcote’s claims against it and as to its own
+
+counterclaim.
+
+       A party moving for summary judgment has the burden of showing that there are no genuine
+
+issues of material fact and that the movant is therefore entitled to judgment as a matter of law. Fed.
+
+R. Civ. P. 56(c); Adickes v. S.H. Kress & Co., 398 U.S. 144, 151-60 (1970); Felix v. Young, 536
+
+F.2d 1126, 1134 (6th Cir. 1976). Not every factual dispute between the parties will prevent
+summary judgment. The disputed facts must be material. They must be facts which, under the
+
+substantive law governing the issue, might affect the outcome of the suit. Anderson v. Liberty
+
+Lobby, Inc., 477 U.S. 242, 247-48 (1986). The dispute must also be genuine. The facts must be
+
+such that if they were proven at trial, a reasonable jury could return a verdict for the non-moving
+
+party. Id. The disputed issue need not be resolved conclusively in favor of the non-moving party,
+
+but that party is required to present some significant probative evidence which makes it necessary
+
+to resolve the parties’ differing versions of the dispute at trial. First National Bank of Arizona v.
+
+Cities Service Co., 391 U.S. 253, 288-89 (1968). The evidence must be construed in the light most
+
+favorable to the party opposing the motion. Bohn Aluminum & Brass Corp. v. Storm King Corp.,
+
+303 F.2d 425 (6th Cir. 1962). We address Estes’s two summary judgment motions in turn.
+
+                                                   I
+
+        Estes argues that its shipping contracts with Mafcote were governed by its EXLA 105-L
+
+Rules Tariff, which sets out the conditions it places upon its various services. Specifically, Item 490
+
+of Estes’s tariff provides (in pertinent part) as follows:
+
+        In no event will carrier be liable for any special or consequential damages arising
+        from delay in delivery. Carrier makes no guarantees or warranties concerning
+        delivery time. Any prior or contemporaneous representations regarding delivery
+        schedules are acknowledged not to be binding on either party.
+
+(Ex. A to Wilder Aff.) If this provision controls the parties’ relationship, plaintiffs cannot recover.1
+
+The products themselves were not damaged or made less valuable by the delay in delivery. Plaintiffs
+
+
+
+
+       1
+        We note that carriers are free to limit or exclude liability for consequential damages unless
+some statute stands in their way. See, e.g., Kesel v. UPS, 2002 U.S. Dist. LEXIS 12350, at *19 (N.D.
+Cal. Jan. 16, 2002) (enforcing a clause reading, “UPS shall not be liable for any special, incidental
+or consequential damages”).
+
+                                                  -2-
+have not claimed any actual damages; they seek only consequential damages in the form of a third-
+
+party late fees.2 So we must decide whether the Rules Tariff binds the parties. It does.
+
+       Plaintiffs’ shipments with Estes are governed collectively by an “Agreement for
+
+Transportation”3 and individually by bills of lading.4 The overarching contract makes no mention
+
+of the tariff, but the bills of lading (each of which was apparently drafted and provided by the
+
+plaintiff-shipper) do. Specifically, the two sample bills (Ex. C, D to Wilder Aff.) both contain the
+
+following paragraphs (emphasis added):
+
+       It is mutually agreed, as to each carrier . . . that every service to be performed
+       hereunder shall be subject to all the terms and conditions of the Uniform Domestic
+       Straight Bill of Lading set forth . . . in the applicable motor carrier classification or
+       tariff if this is a motor carrier shipment.
+                 Shipper hereby certifies that he is familiar with all the terms and conditions
+       of the said bill of lading, including those written on the back thereof, set forth in the
+       classification or tariff which governs the transportation of this shipment, and the said
+       terms and conditions are hereby agreed to by the shipper and accepted for himself
+       and his assigns.
+
+
+
+
+       2
+         Compare Paper Magic Group, Inc. v. J. B. Hunt Transp., Inc., 2001 U.S. Dist. LEXIS
+13494 (E.D. Pa. Aug. 29, 2001), aff’d, 318 F.3d 458 (3d Cir. 2003) (concluding that a shipment of
+1998 Christmas cards was actually damaged when delivery was delayed until February 1999, at
+which point they could no longer be profitably sold).
+       Mafcote’s statement that it “believes damages caused by failure to deliver with reasonable
+dispatch to be freight losses, and actual damage” (Resp. 12) is conclusory, unsupported, and
+unpersuasive.
+       3
+          The Agreement for Transportation is dated September 1, 2000, but neither side disputes that
+it applies here; indeed, both parties have submitted it as an exhibit. We suppose that it automatically
+renewed in accordance with its terms and remained in effect at the relevant times.
+       4
+       The record contains copies of only two bills of lading (one each in the name of Royal and
+Miami Wabash), but no one disputes that they are representative of the whole set.
+
+                                                 -3-
+This language unambiguously incorporates the carrier’s tariff into the agreement,5 so to survive
+
+summary judgment the plaintiffs must attempt to get out from under it.
+
+       They cannot do so. First they observe that the bills of lading contain, in addition to the
+
+above-quoted language, statements that “the delivery dates herein specified shall be deemed of the
+
+essence and the carrier shall be liable for consequential damages to the shipper or consignee for late
+
+delivery.” This provision would have some force, and would create a tricky question of contract
+
+interpretation (what to do when a contract and an incorporated document contradict one another?),
+
+but as it happens the bills of lading do not articulate any delivery date. To be sure, they contain
+
+shipping dates, but neither one indicates a date on which delivery was required. The “of the essence”
+
+terms are without enforceable meaning.
+
+       Second, plaintiffs cite Hillenbrand Indus., Inc. v. Con-Way Transp. Servs., Inc., 2002 U.S.
+
+Dist. LEXIS 12417, at *20-21 (S.D. Ind. June 19, 2002) for the idea that a reference to “the
+
+applicable tariff” in a shipping order (tendered in lieu of a bill of lading) is merely “a vague
+
+statement, obviously used formulaically on every Hillenbrand shipping order no matter the carrier[,
+
+that] does not show that Hillenbrand had actual notice of the liability limitation at issue.” But the
+
+plaintiffs need not have had actual knowledge to be bound by a tariff expressly incorporated by their
+
+own bills of lading. Hillenbrand was a case in which a part of a shipment never reached its intended
+
+destination. The shipper sought to recover the value of the lost products, in accordance with the
+
+
+       5
+         Additionally, when picking up a shipment, an Estes agent would typically affix to the bill
+of lading a “PRO sticker,” which bore the statement: “Driver’s signature ONLY acknowledges
+receipt of freight. Shipment is subject to applicable terms and conditions of the Uniform Straight Bill
+of Lading and the EXLA-105 series rules tariff.” (See Ex. C. to Wilder Aff.) While are not
+convinced that this sticker on its own would be sufficient to incorporate the tariff, it is further
+evidence that the plaintiffs and their agents ought to have been aware of the tariff’s existence and
+effects.
+
+                                                 -4-
+Carmack Amendment’s general rule that a carrier is absolutely liable for the “actual loss or injury
+
+to the property caused by” the carrier. 49 U.S.C. § 14706(a)(1); Opp v. Wheaton Van Lines, Inc., 231
+
+F.3d 1060, 1063 (7th Cir. 2000). A carrier can limit its liability for actual damage to a product if it
+
+meets certain requirements, which include “obtain[ing] the shipper’s agreement as to [the shipper’s]
+
+choice of liability” and “giv[ing] the shipper a reasonable opportunity to choose between two or
+
+more levels of liability.” Emerson Elec. Supply Co. v. Estes Express Lines Corp., 451 F.3d 179, 186
+
+(3d Cir. 2006) (citations omitted). Hillenbrand held only that a reference to the tariff in the shipping
+
+order was insufficient to establish that the shipper had agreed to a level of liability after being given
+
+a reasonable opportunity to choose between several. We are not in the same situation here, because
+
+the Carmack Amendment rules apply only where the goods being shipped are lost or damaged. The
+
+plaintiffs’ goods were not lost, and the only damages alleged in the complaint accrued as the result
+
+of fees assessed by a third party. There is no evidence that the goods were made less saleable or
+
+valuable in and of themselves as a result of the delay; the fees were apparently assessed only in order
+
+to encourage prompt delivery. Consequently the Carmack Amendment does not cover the damages
+
+alleged here, and Estes has no need to fulfill the elements spelled out in Emerson to claim protection
+
+under its tariff. The tariff controls, and bars the plaintiffs from recovering the damages alleged in
+
+the complaint. Summary judgment for the defense is warranted.
+
+                                                   II
+
+        Estes has asserted a counterclaim for a total of $226,450.29 in unpaid transportation charges.6
+
+
+
+
+        6
+        The original complaint sought $228,487.30, but Estes subsequently determined the actual
+amount to be less. (Mot. for Summ. J. 1, 3 & nn.1-2.)
+
+                                                  -5-
+Of this sum, $66,344.71 is ascribed to Royal and $160,105.58 to Miami Wabash.7 (Mot. for Summ.
+
+J. 3 & n.2; Belcher Aff. ¶ 9.) These charges fall under three headings: original freight charges,
+
+discount removals, and collection charges.8 Estes explains that it initially charged the defendants a
+
+discounted shipping rate, but that it assesses a 10% ($21 minimum per shipment) service charge if
+
+a bill remains unpaid 30 days after issuance of the invoice. Once an invoice is more than 30 days
+
+past due, Estes sends written notification of that fact. If the bill remains unpaid 15 days after signed
+
+receipt of the late notice or 20 days after Estes sent the notice, the shipper is charged the full,
+
+undiscounted shipping rate. So the first category of damages alleged is what Estes originally
+
+expected the defendants to pay, and the second is the difference between the discounted rate and the
+
+full charge. Finally, if Estes elects to proceed with a legal action or to refer delinquent charges to
+
+a collection agency, it adds a 30% fee on top of what is otherwise owed. (Mot. for Summ. J. 6; Ex.
+
+B. to Belcher Aff., Rules Tariff Item 720.) As we explained above, Estes’s Rules Tariff was
+
+incorporated into each bill of lading through language written by Mafcote itself, so all these charges
+
+apply unless contradicted by some other controlling authority.
+
+       Royal does not contest any of the original charges against it. (See Pl.’s Resp. to Interrogs.
+
+4-6.) Miami Wabash, however, claims never to have received 55 of the invoices for which Estes
+
+seeks to hold it responsible, and therefore argues that it owes only $29,387.63. (See id.) That denial,
+
+backed up only by a copy of an “Account Detail Report” marked up by Steve Gilliland (whose
+
+       7
+          It’s important here to distinguish between the subsidiary companies and the parent. Estes
+cannot hold Mafcote liable on its subsidiaries’ debts unless it can “pierce the corporate veil.” See,
+e.g., Louisville/Jefferson County Metro Gov’t v. Hornblower Marine Servs., No. 3:06-CV-348, 2009
+U.S. Dist. LEXIS 92351 (W.D. Ky. Oct. 1, 2009). It has to this point raised no piercing argument.
+       8
+        Royal is alleged to owe $23,212.55 in freight charges $27,821.84 in discount removals, and
+$15,310.32 in collection fees. Miami Wabash is alleged to owe $54,878.56, $68,279.58, and
+$36,947.44, respectively.
+
+                                                  -6-
+identity is unclear and who was not, so far as we can tell, under oath when he reviewed the report),
+
+is not sufficient to create a material question of fact as to the amount of Miami Wabash’s debt.
+
+Moreover, the mere fact that an invoice was not on file with Miami Wabash at some later date is not
+
+evidence that the money was not due. The record contains no affidavits or other testimony that
+
+would establish that the disputed amounts were either improperly billed or not owed at all.
+
+Consequently Wendy Belcher’s sworn affidavit, written in her capacity as Estes’s Credit Manager,
+
+is sufficient to establish damages as to this portion of Estes’s claim. Miami Wabash has failed to
+
+create a genuine question of fact, and summary judgment is warranted against both Royal and Miami
+
+Wabash with respect to the whole of the original freight charges.
+
+        We turn to the discount removals. This issue is dispatched easily. The Agreement for
+
+Transportation between the parties9—the overarching contract that governed the whole of the
+
+relationship—states unambiguously that “CARRIER agrees that no penalties; loss of discount or
+
+interest will be assessed to SHIPPER for past due amounts.” (Ex. E to Wilder Aff. (emphasis
+
+added).) And while Estes argues that the Rules Tariff controls in the event of conflict, the tariff itself
+
+provides that “[t]he Rules, and Charges provided in connection with such rules, published in this
+
+tariff will NOT apply[] to the extent conflicting provisions have been established either by written
+
+agreement or contractual arrangement with specific accounts and are maintained in the Offices of
+
+the carrier . . . .” (Pl.’s Ex. 2, Rules Tariff Item 163.) Estes makes no effort to get around this clause.
+
+The discount removals are not recoverable by the plain terms of the parties’ contracts. The court will
+
+grant summary judgment sua sponte to Royal and Miami Wabash in this respect.
+
+
+        9
+         Although the Agreement is nominally between Estes and Mafcote, all parties treat it at
+various times as governing everyone involved. We thus assume that it binds Royal and Miami
+Wabash.
+
+                                                   -7-
+                       Next we come to the 30% charge that Estes assessed because it had to bring its complaints
+
+                to court. Royal and Miami Wabash argue that this is a “penalty” that Estes is not entitled to recover
+
+                under the Transportation Agreement. Estes asserts that it is something else—a collection fee. We
+
+                first note that the term “penalty” in the agreement does not appear to carry the same meaning as it
+
+                does in ordinary contract law. A “penalty” is generally defined as a “term fixing unreasonably large
+
+                liquidated damages” for breach. Restatement (Second) of Contracts § 356(1). Such a provision is
+
+                unenforceable on grounds of public policy; no specific contract term is needed to avoid it. But the
+
+                contract here does not envision a charge assessed for breach. It envisions a surcharge on “past due
+
+                amounts.” The definition is thus broader than in normal legal usage. Bearing this in mind, the court
+
+                is of opinion that the “collection fee” is a penalty within the meaning of the transportation agreement
+
+                provision quoted above. It is assessed only once an account is overdue to the point of Estes having
+
+                to resort to legal action, and penalizes the shipper for allowing itself to fall so far behind in its
+
+                accounts. Because Estes contracted away its right to enforce such a clause, the court will also grant
+
+                summary judgment sua sponte here.
+
+                       Finally, Estes has requested an award of prejudgment interest, which courts normally award
+
+                in cases of nonpayment of freight charges. See Coliseum Cartage Co. v. Rubbermaid Statesville,
+
+                Inc., 975 F.2d 1022, 1026 (4th Cir. 1992); 2 Saul Sorkin, Goods in Transit § 11.07. Here, however,
+
+                Estes has bargained away its right to collect interest on past due amounts. It is not entitled to more
+
+                than the benefit of that bargain. Its recovery will therefore be limited to the discounted freight
+
+                charges that remain in arrears.
+
+                       The court will issue a separate order in accordance with this opinion.
+
+
+
+
+                                                                 -8-
+March 5, 2010
+

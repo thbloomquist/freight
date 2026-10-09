@@ -1,0 +1,362 @@
+                                     April 19, 2007
+
+
+                                   CBCA 552-RATE
+
+
+                      In the Matter of PJAX FREIGHT SYSTEM
+
+
+      Nell Nunn, President of Nunn, Yoest, Principals & Associates, Inc., Gladstone, MO,
+appearing for Claimant.
+
+      James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, General Services Administration, Arlington, VA; and
+Michael Tully, Office of Regional Counsel, General Services Administration, Atlanta, GA,
+appearing for General Services Administration.
+
+DeGRAFF, Board Judge.
+
+       PJAX Freight System carried shipments of freight for federal agencies and received
+payments for its services. Subsequently, the General Services Administration (GSA) audited
+PJAX’s bills and notified PJAX that it had overcharged for security check services, which
+would entitle GSA to deduct the amount of the overcharges from payments due PJAX in
+connection with subsequent shipments. In the claim submitted to us, PJAX contends that
+GSA cannot make deductions for some of the alleged overcharges because some of GSA’s
+notices of overcharge were untimely. PJAX also contends that all of the notices of
+overcharge were unfounded, regardless of whether they were timely made.
+
+                                       Timeliness
+
+       Before we summarize the background and discuss the merits of this claim, we
+examine PJAX’s contention that GSA cannot make deductions for some of the alleged
+overcharges because some of GSA’s notices of overcharge were untimely. For the reasons
+set out below, we reject PJAX’s position.
+CBCA 552-RATE                                                                              2
+
+       Federal statute confers upon GSA the responsibility for conducting post-payment
+audits of bills for transportation services provided to federal agencies, for deducting any
+amounts deemed to be overcharges, and for settling transportation claims. 31 U.S.C. § 3726
+(2000). Section 3726(d) establishes the time within which GSA may make deductions for
+overcharges:
+
+       Not later than 3 years (excluding time of war) after the time a bill is paid, the
+       Government may deduct from an amount subsequently due a carrier or freight
+       forwarder an amount paid on the bill that was greater than the rate allowed
+       under [49 U.S.C. § 13712] or an equivalent arrangement or exemption.1
+
+31 U.S.C. § 3726(d).
+
+        The regulations which implement 31 U.S.C. § 3726 are found at 41 CFR parts 102­
+117 and 102-118 (2006). When GSA performs a post-payment audit and identifies an
+overcharge, GSA sends the transportation services provider (TSP) a notice of overcharge
+for each bill which contains an overcharge. 41 CFR 102-118.435. The regulations allow
+GSA to make deductions for overcharges within the three-year period set out in section
+3726(d). 41 CFR 102-118.530, -118.640. The regulations also allow carriers to dispute
+notices of overcharge and to present claims to GSA. 41 CFR 102-118.470, -118.600. If a
+carrier presents a claim which is denied by GSA, the carrier can ask the Board to review
+GSA’s decision. 41 CFR 302-118.650, -118.655.
+
+      Although 31 U.S.C. § 3726(d) and its implementing regulations give GSA three years
+to make deductions for overcharges, PJAX says GSA should not be allowed to make
+deductions for some of the alleged overcharges because some of GSA’s notices of
+overcharge were untimely.
+
+        PJAX finds support for its position in 49 U.S.C. § 13710. Section 13710(a)(3) is
+titled “Billing disputes — .” Section 13710(a)(3)(B) reads as follows:
+
+
+
+
+       1
+              Section 13712 of title 49 allows carriers to provide transportation services to
+the Federal Government at a rate lower than the applicable commercial rate. This section
+allows the Government to make its own arrangements with carriers and does not bind the
+Government to practices which are applicable to entirely private transactions. Household
+Goods Carriers Bureau, Inc. v. United States Department of Defense, 783 F.2d 1101, 1103
+(D.C. Cir. 1986).
+CBCA 552-RATE                                                                                   3
+
+       Initiated by shippers. -- If a shipper seeks to contest the charges originally
+       billed or additional charges subsequently billed, the shipper may request that
+       the [Surface Transportation Board] determine whether the charges billed must
+       be paid. A shipper must contest the original bill or subsequent bill within 180
+       days of receipt of the bill in order to have the right to contest such charges.
+
+49 U.S.C. § 13710(a)(3)(B). According to PJAX, the second sentence of this section
+prevents GSA from making a deduction for an overcharge unless it sent PJAX a notice of
+overcharge within 180 days after PJAX’s bill was received by the agency responsible for
+paying the bill. For two reasons, we do not conclude that section 13710(a)(3)(B) supports
+PJAX’s position.
+
+        The second sentence of section 13710(a)(3)(B) does not apply to the bills submitted
+by PJAX to federal agencies because when GSA issues notices of overcharge and makes
+deductions pursuant to section 3726(d), it is not exercising a right to contest a carrier’s
+charges within the meaning of section 13710(a)(3)(B). In a declaratory order, the Surface
+Transportation Board (STB) expressed the view that the second sentence of section
+13710(a)(3)(B) means a shipper must provide notice to a carrier within 180 days as a
+“precondition for pursuing a claim.” Carolina Traffic Services of Gastonia, Inc. -- Petition
+for Declaratory Order, STB No. 41689 at 3 (June 7, 1996). In a second declaratory order,
+the STB confirmed its view that a shipper who fails to provide notice to a carrier within 180
+days thereby fails to perfect its right of action and, thus, forfeits its right to pursue a claim.
+National Association of Freight Transportation Consultants, Inc. -- Petition for Declaratory
+Order, STB No. 41826 at 5 (Apr. 9, 1997). We agree with the STB that the language of
+section 13710(a)(3)(B) imposes the 180-day requirement upon a party which wishes to
+initiate a dispute and exercise its right to pursue a claim against a carrier. By issuing notices
+of overcharge and making deductions for overcharges, however, GSA is neither initiating
+a dispute nor exercising its right to pursue a claim. The post-payment audit procedure
+established in 31 U.S.C. § 3726 anticipates that if an audit reveals an overcharge, the carrier
+will pay for the overcharge by having a deduction made from a payment due to the carrier
+for a subsequent shipment. If the carrier believes the deduction was not warranted, the
+carrier can pursue a claim against GSA. Neither the notice of overcharge nor the deduction
+constitutes a claim which GSA has the burden of pursuing and proving. Any claim belongs
+to the carrier. United States v. New York, New Haven & Hartford Railroad Co., 355 U.S.
+253 (1957). Because notifying a carrier of overcharges and making deductions for
+overcharges do not amount to either initiating a dispute or exercising a right to contest a
+claim, the 180-day limit contained in section 13710(a)(3)(B) does not apply to the bills
+PJAX submitted to federal agencies.
+CBCA 552-RATE                                                                                4
+
+        In addition, even if the second sentence of section 13710(a)(3)(B) did apply to bills
+submitted by PJAX to federal agencies, the 180-day provision would not prevent GSA from
+raising whatever defenses it has to the claim which PJAX presents to us. In United States
+v. Western Pacific Railroad Co., 352 U.S. 59 (1956), the Court decided that although a
+statute might have barred the Government from filing suit because the statute’s time limit
+for filing had expired, the statute did not prevent the Government from raising defenses to
+a suit brought by a carrier which challenged deductions made by the Government for
+overcharges. Consistent with the Court’s holding, the STB has expressed the view that the
+180-day requirement contained in section 13710(a)(3)(B) applies only to actions initiated
+by shippers, not to defenses raised by shippers in actions initiated by carriers. National
+Association of Freight Transportation Consultants at 6. Following the Court’s precedent
+and giving credit to the opinion of the STB, we conclude that even if the 180-day
+requirement applied to the bills submitted by PJAX to federal agencies, it would not prevent
+GSA from raising whatever defenses it has to the claims which PJAX asks us to resolve.
+
+        PJAX says it is unfair to permit GSA to make deductions for overcharges long after
+PJAX received payment for its services. Regardless of what might seem to PJAX to be a
+fair length of time to permit GSA to make deductions, 31 U.S.C. § 3726 allows GSA to
+make deductions for three years.
+
+                                        Background
+
+       In a letter dated March 12, 2004, the Director of GSA’s Property and Traffic
+Management Division asked TSPs to submit rate offers for moving freight shipments from
+May 1, 2004, through April 30, 2005. Offers were required to comply with the terms and
+conditions of GSA’s standard tender of service, which includes GSA General Freight Tender
+of Service No. 1-F and GSA National Rules Tender No. 100-D. Offers were also required
+to comply with a set of special filing instructions which required a TSP to certify that by
+submitting an offer, it would comply with the provisions of the standard tender of service.
+The special filing instructions explained that GSA would make the accepted offers available
+to other federal agencies which would be able to generate electronically a list of TSPs based
+upon anticipated shipping dates, the origin and destination of shipments, the weights of
+shipments, and available accessorial services. An agency could then compare the prices and
+services offered by several TSPs and decide which one it wished to use for a shipment. The
+special filing instructions also explained that being included on such a list did not guarantee
+a TSP that it would receive any shipments. In addition, the special filing instructions
+provided that all shipments handled pursuant to the standard tender of service would be
+subject to the terms and conditions contained in 41 CFR parts 102-117 and 102-118.
+CBCA 552-RATE                                                                               5
+
+       In a letter dated March 7, 2005, GSA asked TSPs to submit rate offers for moving
+shipments from May 1, 2005, through April 30, 2006. In a letter dated March 8, 2006, GSA
+asked TSPs to submit rate offers for moving shipments from May 1, 2006, through April 30,
+2007. These letters, both from the Director of GSA’s Property and Traffic Management
+Division, contained the same terms set out in the preceding paragraph.
+
+       GSA General Freight Tender of Service No. 1-F explained that acceptance of the
+tender of service was a prerequisite for any motor common carrier to transport property
+shipped by an agency which used the tender of service, and said the conditions of the tender
+of service were in addition to the provisions of the carrier’s tender or tariff and GSA
+National Rules Tender No. 100-D. Item 4-2 of the tender of service required carriers to
+provide special services as requested or annotated on the bill of lading. Item 4-2 also
+provided that carriers would provide a signed, dated delivery receipt as proof of delivery
+when needed. Item 4-6 of the tender of service said only special services annotated on the
+government bill of lading by the consignor or provided for by an amendment to the bill of
+lading were authorized and would be paid for by the Government.
+
+       GSA National Rules Tender No. 100-D, beginning in September 2002, contained
+Item 1050, Special Service - Security Check by Consignor or Consignee, which allowed
+TSPs to impose an added charge if the consignor or consignee of a shipment required a
+loaded vehicle to be unloaded, audited, and reloaded or scanned or x-rayed while the TSP
+waited for its vehicle to be released. Prior to September 2002, Item 1050 allowed TSPs to
+impose an added charge if the consignor (not the consignee) required the TSP to wait while
+a loaded vehicle was unloaded, audited, and reloaded. GSA amended Item 1050 in
+September 2002 to address security check services required by either consignors or
+consignees and to mention scanning and x-raying shipments because after the events of
+September 11, 2001, many federal agencies implemented new security procedures which
+affected access to their facilities, and the new procedures caused TSPs additional work when
+they moved freight which was sent from one federal agency to another.
+
+       Several provisions found in 41 CFR parts 102-117 and 102-118 are relevant to this
+claim. A bill of lading is defined as a receipt of goods, evidence of title, and a contract of
+carriage between the TSP and the agency. 41 CFR 102-118.35. A receipt is a written or
+electronic acknowledgment by the consignee or TSP as to when and where a shipment was
+received. 41 CFR 102-117.25. An overcharge is a charge made by a TSP which exceeds
+the charge applicable under the contract for carriage. 41 CFR 102-118.35. In order to
+receive payment for its services, a TSP is required to submit a bill of lading attached to a
+voucher. 41 CFR 102-118.195. The regulations also say the mandatory rules governing the
+use of bills of lading are found in the “U.S. Government Freight Transportation Handbook”
+(the Handbook). 41 CFR 102-118.125, -118.135.
+CBCA 552-RATE                                                                                 6
+
+        The Handbook explains that federal agencies must rely upon the bill of lading as the
+record which establishes that the TSP is entitled to be paid for its services. Handbook at 39.
+Therefore, all special services must be properly annotated on the bill of lading. Handbook
+at 38. If, for some reason, it is not practical to place the request for special services on the
+bill of lading, the request can be set out on a document separate from the bill of lading, so
+long as the other document identifies the bill of lading and is signed by the person who
+ordered the special services, and so long as the bill of lading refers to the other document.
+Handbook at 38. TSPs can submit supplemental bills for services which were provided, but
+not included on the original bill. Handbook at 85, 91. The Handbook cautions consignees
+to be careful to note loss, damage, or other discrepancies when they sign for a shipment,
+because signing the TSP’s delivery documents “constitutes the final receipt of the shipment
+in its delivered condition.” Handbook at 40.
+
+       PJAX is a TSP which accepted shipments from federal agencies in 2004, 2005, and
+2006, and delivered them to other federal agencies. In 2006, as the result of conducting
+post-payment audits, GSA issued notices of overcharge to PJAX for amounts it had billed
+and been paid for security check services for some shipments. When PJAX protested the
+notices of overcharge, GSA decided the notices were proper because the bills of lading for
+the shipments contained no request or authorization for security check services by either the
+consignor agency or the consignee agency. In this claim, PJAX asks us to review GSA’s
+decisions.
+
+      When PJAX sent us its claim, it attached a list of approximately 1000 shipments for
+which it said GSA ought not to have issued notices of overcharge. PJAX provided copies
+of GSA’s decisions denying PJAX’s protests of the notices of overcharge for ten of the
+shipments.
+
+        PJAX and GSA agree that PJAX transported the approximately 1000 shipments using
+bills of lading which did not mention the security check services authorized in Item 1050 of
+the rules tender. Nonetheless, says PJAX, it had to perform such services in order to make
+deliveries at some federal government offices. PJAX determined that advising its drivers
+to verify when they provided security check services “was not working” because “this was
+not part of their routine.” PJAX letter to GSA (Sept. 25, 2006). As a result, PJAX says,
+beginning in 2004, whenever it accepted any shipments from a federal agency, it placed a
+statement on the delivery receipt which said, “SECURITY CLEARANCE REQUIRED FOR
+DELIVERY.” PJAX says it did this “with the intent that if the service was not provided, the
+consignee would so notate the receipt.” Id. PJAX subsequently billed for security check
+services unless the person who signed for the delivery of a shipment noted on the delivery
+receipt that such services had not been provided.
+CBCA 552-RATE                                                                               7
+
+        PJAX says e-mail messages between PJAX and the employee of a contractor who
+performed audits for GSA in 2004 establish that GSA approved the procedure PJAX used
+to bill for security check services. In the messages, the auditor asked PJAX to show her
+where its tender set out the rate or percentage it charged for security check services. PJAX
+answered her question and the auditor thanked PJAX for its help. No mention was made of
+the procedure PJAX was using to bill for such services. Putting aside the legal issue of
+whether the employee of the contractor was authorized to approve anything on behalf of
+GSA, the e-mail messages do not establish that GSA approved PJAX’s procedure of
+including a statement on a delivery receipt saying security clearance was required and billing
+for security check services unless the person who accepted delivery altered the delivery
+receipt to say no such services had been provided.
+
+        We asked GSA to provide copies of the bills of lading for the ten shipments which
+were the subject of the GSA decisions denying ten of PJAX’s protests. GSA supplied the
+bills of lading, as well as the delivery receipts for each of these ten shipments. None of the
+bills of lading mention security services. The delivery receipts contain the pre-printed
+statement “RECEIVED IN GOOD CONDITION AS NOTED” above the consignee’s
+signature block. Two of the ten delivery receipts contain the statement “SECURITY
+CLEARANCE REQUIRED FOR DELIVERY.” None of the remaining eight delivery
+receipts mention security services.
+
+                                         Discussion
+
+       PJAX’s claim is based upon its contention that it placed the statement “SECURITY
+CLEARANCE REQUIRED FOR DELIVERY” on all of the delivery receipts for the
+approximately 1000 shipments for which it says GSA ought not to have issued notices of
+overcharge. However, not all of the delivery receipts for these shipments contain such a
+statement, as is shown by its absence on eight of the ten delivery receipts for the shipments
+which were the subject of the GSA decisions denying ten of PJAX’s protests. Even if all
+of PJAX’s delivery receipts had contained the language which PJAX thought they contained,
+this would not provide a sufficient legal basis for granting the claim.
+
+        The relationship between PJAX and the federal agencies for which it carried freight
+is contractual.2 When PJAX provided its services pursuant to the standard tender of service,
+PJAX and the Government agreed that PJAX would provide special services as requested
+
+
+       2
+              For purposes of resolving this claim, we do not need to decide whether the
+contract consisted of only the bills of lading or a combination of the bills of lading and the
+standard tender of service.
+CBCA 552-RATE                                                                               8
+
+or annotated on a bill of lading, and that only special services annotated on a bill of lading
+by the consignor or provided for by an amendment to the bill of lading were authorized and
+would be paid for by the Government. In order to be paid for its services, PJAX agreed to
+submit the bill of lading attached to a voucher. PJAX and the Government agreed that a bill
+of lading could be amended and that PJAX could submit supplemental bills for services
+which were provided, but not included on the original bill. They agreed that the bill of
+lading is the document which establishes that PJAX is entitled to be paid, and that the
+delivery receipt serves as proof of when and where delivery is made and the condition of the
+shipment upon delivery. There is nothing in the agreement between the parties which would
+allow PJAX to receive payment for special services based upon a statement which it placed
+on a delivery receipt.
+
+       PJAX argues it had good reasons for deciding to include a statement regarding
+security clearances on its delivery receipts. PJAX says when one federal agency shipped
+items to another federal agency, the consignor agency likely did not know whether the
+consignee agency would require security check services, which explains why bills of lading
+prepared by a consignor agency did not say this special service would be required at the
+delivery destination. PJAX also says there is no clear procedure for collecting charges for
+security check services, so it should not be penalized if it failed to comply with technical
+paperwork requirements regarding such services.
+
+        PJAX might be right that a consignor agency did not always know whether a
+consignee agency would require security check services. However, PJAX’s agreement with
+the Government recognized this was a possibility when it provided PJAX would be paid for
+security check services required by either the consignor or the consignee. The agreement
+allowed PJAX to obtain an amendment to a bill of lading and provided that PJAX would be
+paid for security check services required by an agency if PJAX submitted a voucher with an
+attached bill of lading showing the agency had ordered the services. Requiring PJAX to
+comply with the parties’ agreement as a condition for being paid does not amount to
+penalizing PJAX. If the process for collecting charges for security check services was not
+clear to PJAX, PJAX could have asked GSA to clarify the process before PJAX submitted
+its tenders to GSA or before it accepted shipments. After PJAX submitted its tenders and
+accepted shipments, however, it was entitled to be paid for special services only if it
+complied with the terms and conditions of the parties’ agreement for ordering such services.
+Baggett Transportation Co. v. United States, 969 F.2d 1028 (Fed. Cir. 1992). PJAX’s
+agreement with the Government does not entitle it to be paid based upon language it
+unilaterally decided to include on its delivery receipts, no matter how good PJAX thought
+its reasons were for including such language.
+CBCA 552-RATE                                                                                9
+
+       PJAX also argues it ought to be paid for security check services based upon its
+delivery receipts unless the people who signed the receipts altered them to note that no
+security check services had been required. However, the absence of a note on a delivery
+receipt does not establish that an agency required PJAX to provide security check services.
+The purpose of a delivery receipt is not to set out or to alter the terms and conditions of the
+agreement between the parties. Instead, a delivery receipt functions as a document which
+acknowledges a shipment has arrived at its destination and which serves as a record of the
+condition of the shipment. This is what is provided for in the tender, the regulations, and
+the Handbook, which were part of the parties’ agreement, and this is consistent with the
+language contained in PJAX’s delivery receipts. We cannot assume that everyone who
+signed delivery receipts realized they needed to alter the receipts if an agency did not want
+to require security check services. This assumption would be contrary to the parties’
+agreement, which provided that PJAX would be paid for security check services when an
+agency requested such services. The agreement did not provide that PJAX would be paid
+unless someone noted on a delivery receipt that an agency was not making such a request.
+Government action, not inaction, was necessary in order to request security check services.
+The absence of a notation on a delivery receipt does not establish that the Government
+ordered or requested security check services for which PJAX ought to be paid.
+
+        In summary, PJAX was entitled to be paid only for services which the Government
+requested and it was entitled to be paid only in accordance with the terms and conditions of
+its agreement with the Government. The agreement said the Government would order and
+pay for security check services requested or annotated on a bill of lading or in an amendment
+to a bill of lading. The agreement did not allow PJAX to create a procedure which obligated
+the Government to pay for security check services for every shipment the Government made
+unless the people who signed delivery receipts altered them to say the Government had not
+ordered any such services.
+
+       The claim is denied.
+
+
+
+
+                                                   ___________________________________
+                                                   MARTHA H. DeGRAFF
+                                                   Board Judge
+

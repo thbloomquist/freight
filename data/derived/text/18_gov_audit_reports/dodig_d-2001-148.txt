@@ -1,0 +1,2530 @@
+             AUTOMATED TRANSPORTATION PAYMENTS
+
+
+
+Report No. D-2001-148                            June 22, 2001
+
+
+
+
+             Office of the Inspector General
+                 Department of Defense
+  Additional Copies
+
+  To obtain additional copies of this audit report, visit the Inspector General, DoD,
+  Home Page at www.dodig.osd.mil/audit/reports or contact the Secondary Reports
+  Distribution Unit of the Audit Followup and Technical Support Directorate at
+  (703) 604-8937 (DSN 664-8937) or fax (703) 604-8932.
+
+  Suggestions for Future Audits
+
+  To suggest ideas for or to request future audits, contact the Audit Followup and
+  Technical Support Directorate at (703) 604-8940 (DSN 664-8940) or
+  fax (703) 604-8932. Ideas and requests can also be mailed to:
+
+                    OAIG-AUD (ATTN: AFTS Audit Suggestions)
+                     Inspector General, Department of Defense
+                        400 Army Navy Drive (Room 801)
+                            Arlington, VA 22202-4704
+
+  Defense Hotline
+
+  To report fraud, waste, or abuse, contact the Defense Hotline by calling
+  (800) 424-9098; by sending an electronic message to Hotline@dodig.osd.mil; or
+  by writing to the Defense Hotline, The Pentagon, Washington, DC 20301-1900.
+  The identity of each writer and caller is fully protected.
+
+
+
+
+Acronyms
+DFAS                  Defense Finance and Accounting Service
+DISA                  Defense Information System Agency
+DITSCAP               Defense Information Technology Security Certification and
+                         Accreditation Process (DoD Instruction 5200.40)
+FFMIA                 Federal Financial Management Improvement Act of 1996
+GAO                   General Accounting Office
+LOA                   Line of Accounting
+MRM                   Management Reform Memorandum
+OMB                   Office of Management and Budget
+ST&E                  Security Test & Evaluation
+                          Office of the Inspector General, DoD
+Report No. D-2001-148                                                    June 22, 2001
+ (Project No. D1999FI-0080.000)
+
+                        Automated Transportation Payments
+
+                                  Executive Summary
+
+Introduction. The 1997 Quadrennial Defense Review directed DoD to revolutionize its
+business practices. As a result, the Under Secretary of Defense (Comptroller) issued
+Management Reform Memorandum No. 15, “Reengineering Defense Transportation
+Documentation and Financial Processes-Prototype Implementation.” The reform
+memorandum required DoD to reengineer and streamline untimely, paper-based, and
+labor-intensive commercial transportation documentation, billing, collection, and payment
+processes. To meet the reengineering goals, DoD announced on March 31, 1999, a
+transition to the U.S. Bank PowerTrack® service for payment of freight transportation
+charges. PowerTrack®, an online freight payment and transaction tracking system, is the
+cornerstone of the DoD effort to reengineer transportation payment and accounting
+processes. Before the transition to PowerTrack®, DoD annually processed approximately
+1.25 million transportation freight payments totaling approximately $1 billion.
+
+Objectives. The audit objective was to determine whether controls over commercial freight
+transportation payments processed through PowerTrack® are effective. Specifically, the
+audit determined whether the lines of accounting and management information captured in
+PowerTrack® and the summarized data provided to the Defense Finance and Accounting
+Service are sufficient for payment and accounting purposes. We also determined the
+adequacy of controls over certification of PowerTrack® invoices for payment.
+
+Results. The DoD transportation community’s automated transportation process is already a
+major improvement from the previous manual process, but additional measures are warranted
+to effectively reengineer transportation freight operations.
+
+Accounting procedures used to process commercial transportation freight payments through
+PowerTrack® needed reengineering. DoD did not optimally streamline its internal procedures
+to attain the objectives of Management Reform Memorandum No. 15 or to take advantage of
+the automated efficiencies offered by the PowerTrack service. Instead, DoD was adapting
+streamlined automated capabilities to perpetuate less efficient business practices. DoD was
+unnecessarily incurring processing costs and late payment charges, and creating problem
+disbursements as it attempted to annually distribute $1 billion of transportation costs to
+thousands of lines of accounting. If DoD revises current accounting procedures to use
+centrally managed open allotments to fund transportation freight payments, it would better
+achieve its reform objectives (finding A).
+
+Controls over security and management of the automated transportation payment process
+were not adequate to safeguard sensitive information or produce reliable data. DoD risks
+exposing data to unauthorized parties and noncompliance with public laws and regulations,
+operating in a business environment with inadequate management controls, and allowing
+Transportation Officers to assume responsibilities and associated liabilities more
+appropriately belonging to the financial community (finding B).
+Summary of Recommendations. We recommend that the Under Secretary of Defense
+(Comptroller) establish and fund Component-level open allotments for transportation freight,
+retain Certifying Officer responsibilities at the Defense Finance and Accounting Service, and
+revise the DoD Financial Management Regulation. We recommend that the Under Secretary
+of Defense for Acquisition, Technology, and Logistics appoint an executive agent for
+PowerTrack® operations. We recommend that the Assistant Secretary of Defense (Command,
+Control, Communications, and Intelligence) clarify guidance in regard to system security and
+Designated Approving Authority responsibilities associated with commercially owned
+electronic commerce applications. We also recommend that standard contract language be
+developed to address system security in commercially owned electronic commerce
+applications and that the security connection and controls associated with PowerTrack® be
+validated. We recommend that the U.S. Transportation Command, establish controls over
+PowerTrack® operations at each transportation office, implement Public Key Infrastructure
+procedures and update the Defense Transportation Regulations. We recommend that each
+Military Component Chief Information Officer incorporate PowerTrack® into base level
+System Security Authorization Agreements and operate all mobile code in compliance with
+DoD policy.
+
+Management Comments. The Department of the Army did not respond to a draft of this
+report issued February 7, 2001. However, we received comments from the Deputy Chief
+Financial Officer, Under Secretary of Defense (Comptroller); the Assistant Deputy Under
+Secretary of Defense (Transportation Policy); the Deputy Chief Information Officer,
+Assistant Secretary of Defense (Command, Control, Communications, and Intelligence); the
+Department of the Navy; and the Department of the Air Force. The Deputy Chief Financial
+Officer, Under Secretary of Defense (Comptroller) nonconcurred with the recommendation
+on simplified accounting, stating that the use of centrally managed open allotments for fund
+management is problematic and prone to misuse. The Assistant Deputy Under Secretary of
+Defense (Transportation Policy) coordinated her response with the U.S. Transportation
+Command and generally nonconcurred with the recommendations on security, stating that
+PowerTrack® is a commercial application and because DoD has no software rights to this
+application, DoD system security requirements do not apply. In addition, management
+agreed in principle with those recommendations addressed to the U.S. Transportation
+Command, but believed that the recommendations should be addressed to the Military
+Components and Defense agencies. The Deputy Chief Information Officer, Assistant
+Secretary of Defense (Command, Control, Communications, and Intelligence) generally
+concurred with the recommendations, stating that guidance was available that addressed
+requirements for the electronic commerce applications and that requirements for electronic
+commerce applications would be included in a new guidance series being issued. The
+Department of the Navy concurred with recommendations, stating that PowerTrack® will be
+incorporated into base level System Security Assessment Agreements and mobile code will
+be used in accordance with DoD policy. The Department of the Air Force concurred with
+the recommendation, stating that it will instruct all parties to comply with DoD mobile code
+policy. See the Management Comments section for the complete text of management
+comments.
+
+Audit Response. We agree that implementation of PowerTrack® has greatly improved DoD
+transportation management. Constructively addressing the issues identified by the audit
+would add to that success. Specifically, our recommendations pertaining to centralized open
+allotments, strengthened controls, and increased information assurance would significantly
+assist DoD in achieving its long-term management improvement goals by reducing cost and
+operational risk in its freight transportation program. We request that the Under Secretary of
+Defense (Comptroller); Under Secretary of Defense for Acquisition, Technology, and
+Logistics; the Department of the Army; and the Department of the Air Force provide
+additional comments to the final report by August 17, 2001.
+
+
+                                              ii
+Table of Contents
+
+Executive Summary                                                             i
+
+
+Introduction
+     Background                                                               1
+     Objectives                                                               3
+
+Findings
+     A. Accounting for Automated Transportation Payments                      4
+     B. Controls Over Automated Transportation Payments                      14
+
+Appendixes
+     A. Audit Process
+         Scope and Methodology                                               30
+         Management Control Program Review                                   32
+         Prior Coverage                                                      32
+     B. Automated Transportation Payment Process                             34
+     C. Examples of Lines of Accounting                                      36
+     D. Criteria                                                             37
+     E. Report Distribution                                                  40
+
+Management Comments
+     Under Secretary of Defense (Comptroller)                                43
+     Under Secretary of Defense for Acquisition, Technology, and Logistics   47
+     Assistant Secretary of Defense (Command, Control, Communications
+       and Intelligence)                                                     56
+     Department of the Navy                                                  58
+     Department of the Air Force                                             59
+Background
+    The DoD transportation mission involves many transportation communities and
+    assets, services, and systems owned by, contracted for, or controlled by DoD.
+    The entire infrastructure supports the transportation needs of DoD in peace and in
+    wartime. The U.S. Transportation Command serves as the manager of the
+    transportation community and is supported by three Component commands: the
+    Military Traffic Management Command; the Military Sealift Command; and the
+    Air Mobility Command.
+
+    DoD relies heavily on its commercial transport partners to support its mission.
+    Approximately 88 percent of all DoD surface shipments are made by commercial
+    carriers. According to the U.S. Transportation Command, DoD processed
+    approximately $1 billion worth of commercial freight shipments in FY 1999.
+    Table 1 identifies FY 1999 DoD commercial freight costs by mode of
+    transportation.
+
+                Table 1. FY 1999 DoD Commercial Transportation
+                         Freight Costs
+                                                     Amount
+                  Modes of Transportation          (in Millions)
+                Surface                                 $ 693.4
+                  Truck/Barge              $564.5
+                  Fuel pipelines              68.9
+                  Rail                        60.0
+                Sealift                                    193.7
+                Airlift                                      61.9
+                Express Shipments                            75.0
+                 Total                                 $1,024.0
+
+    According to the transportation community, transportation freight costs are
+    expected to decrease from approximately $1 billion to $883 million during
+    FY 2001.
+    Criteria Addressing PowerTrack® Functionality. No formal criteria specifically
+    addresses the security and management control issues associated with electronic
+    commerce applications used but not owned by the Government, such as
+    PowerTrack®. The use of the PowerTrack® service to make transportation freight
+    payments is a new way of doing business for DoD, one that will become more
+    common as DoD moves toward contracting for services based on commercial
+    models. As DoD employs commercial applications, it must establish and
+    implement adequate business rules and safeguards. DoD does not own or maintain
+    the PowerTrack® service. Nevertheless, the PowerTrack® service processes,
+    transmits, stores, and displays DoD information and is an integral part of the
+    transportation freight payment process. Based on PowerTrack® functionality, we
+    consider it to be a DoD system and subject to substantially the same statutory and
+    regulatory guidelines as any other DoD information system.
+
+    Management Reform Memorandum No. 15. The Secretary of Defense 1997
+    “Quadrennial Defense Review” directed DoD to revolutionize its business
+    practices. As a result, the Under Secretary of Defense (Comptroller) issued
+
+
+
+                                         1
+            Management Reform Memorandum (MRM) No. 15 on July 7, 1997. The
+            objective of MRM No. 15 was to reengineer and streamline DoD commercial
+            transportation documentation, billing, collection, and payment processes. The
+            specific reengineering goals included the following:
+
+                    •    reducing infrastructure costs,
+
+                    •    eliminating DoD-unique documentation and processes,
+
+                    •    reducing data requirements,
+
+                    •    improving data accuracy,
+
+                    •    developing a single documentation and billing process for all modes of
+                         transportation,
+
+                    •    employing best commercial practices,
+
+                    •    maintaining readiness capability, and
+
+                    •    increasing the use of electronic commerce.
+
+            In an effort to meet the MRM No. 15 objectives, DoD announced on March 31,
+            1999, the conversion to U.S. Bank's PowerTrack® service for the payment of
+            commercial transportation freight charges. The PowerTrack® service provides
+            DoD with a means to completely reengineer transportation documentation,
+            accounting, and payment processes.
+
+            U.S. Bank PowerTrack Service. The PowerTrack® service is a commercial
+            on-line freight payment and transaction tracking system developed by U.S. Bank.
+            U.S. Bancorp is the holding company for PowerTrack® and owns the registered
+            PowerTrack® trademark. The PowerTrack® service provides carriers and DoD
+            shippers (Transportation Officers) with on-line access to shipment data; matches
+            freight bills of lading and corresponding invoices; processes payments to carriers;
+            and provides relatively real-time analytical reporting tools. The PowerTrack®
+            service was intended to electronically interface with DoD accounting systems. In
+            addition, PowerTrack® stores DoD transportation data and reduces the need to
+            maintain DoD-unique documentation.
+
+            Automated Transportation Payments. Although used exclusively for
+            transportation freight shipments, the automated transportation payments
+            processed through the PowerTrack® service are similar to credit card
+            transactions. Commercial carriers enter an agreement1 with U.S. Bank. Each
+            DoD transportation office has an account with U.S. Bank and will process its
+            transportation freight payments through PowerTrack®. Each month,
+            PowerTrack® generates an invoice for each DoD transportation office and
+            summarizes the shipments by DoD funding account or line of accounting (LOA).
+            See Appendix B for a flowchart of the DoD automated transportation payment
+            process.
+
+1
+    U.S. Bank pays the carrier for delivery of freight shipments and assesses a processing fee of between 1 and
+    2 percent of the transportation cost.
+
+
+
+                                                         2
+    DoD began processing payments through PowerTrack® as a prototype in
+    April 1998 for surface transportation and later began adding transportation modes.
+    Thus, the initial focus of this audit was centered on surface, or specifically, truck
+    carriers. As of August 25, 2000, 360 (68 percent) of 532 DoD shipping sites and
+    282 commercial carriers were using PowerTrack®. Subsequent to the completion
+    of audit fieldwork, the Assistant Deputy Under Secretary of Defense
+    (Transportation Policy) reported that 158 additional DoD shipping sites and
+    67 commercial carriers were using PowerTrack®. The additional sites were not
+    verified by audit.
+
+    Automatic Carrier Payment Approval. PowerTrack® has an automatic carrier
+    payment approval tool (AutoApproval). The AutoApproval tool approves each
+    shipment that meets predefined parameters for carrier payments. Shipments
+    meeting these parameters will be automatically approved for payment and will not
+    require the transportation office to initiate on-line manual approval for individual
+    transactions. The goal is to have 95 percent of all carrier invoices approved and
+    paid through AutoApproval within 3 days of receipt.
+
+Objectives
+    The audit objective was to determine whether controls over the commercial freight
+    transportation payments processed through PowerTrack® are effective.
+    Specifically, the audit determined whether the LOAs and management information
+    captured in PowerTrack® and the summarized data provided to the Defense
+    Finance and Accounting Service (DFAS) were sufficient for payment and
+    accounting purposes. We also determined the adequacy of controls over the
+    certification of PowerTrack® invoices. See Appendix A for a discussion of the
+    scope, methodology, management controls, and prior coverage of the audit
+    objectives.
+
+
+
+
+                                          3
+           A. Accounting for Automated
+              Transportation Payments
+           Accounting procedures used to process automated transportation freight
+           payments need further reengineering to achieve optimal benefits from the
+           PowerTrack® initiative. DoD did not sufficiently streamline its internal
+           procedures to attain the objectives of MRM No. 15 or to take advantage of
+           the automated efficiencies offered by the PowerTrack® service. Instead,
+           DoD was adapting streamlined automated capabilities to perpetuate less
+           efficient business practices. As a result, DoD was unnecessarily incurring
+           processing costs and late payment charges and creating unmatched
+           disbursements as it attempted to annually manage $1 billion of
+           transportation costs in over 13,000 lines of accounting (LOA).
+
+Reengineering Effort
+    The DoD transportation community is undertaking significant measures to
+    reengineer transportation freight operations. We support their efforts as they
+    strive to meet this challenge. Transportation freight payments have long been an
+    area of concern within DoD. Before the Under Secretary of Defense
+    (Comptroller) issued MRM No. 15, transportation freight practices were outdated,
+    cumbersome, costly, and incapable of producing reliable management
+    information. We believe that the current reengineering effort is proceeding in the
+    right direction. From an operations perspective, it has produced significant
+    results, reducing the time required to pay carrier invoices from an average of
+    60 days to 3 days, and increasing visibility of transactions at all levels. However,
+    DoD needs to adopt commercial internal management and accounting practices to
+    fully achieve its goal and realize the benefits of revolutionizing transportation
+    freight operations.
+
+Accounting Procedures
+    Although a step in the right direction, the reengineering efforts of DoD did not do
+    enough to keep transportation funds management and accounting procedures from
+    being paper-burdened and labor-intensive. Current legislation and Office of
+    Management and Budget (OMB) guidance supports simplified funds control.
+    However, DoD continued to use cumbersome and costly accounting and
+    management practices that generated thousands of LOA to track its transportation
+    freight costs. DoD was unable to effectively capture consistent and reliable
+    management information through its LOA. Maintaining accurate and valid LOA
+    remains a challenge for DoD.
+
+    Fund Control. Section 1514, title 31, United States Code, “Administrative
+    Division of Apportionments,” stipulates that agencies should have simplified
+    systems for administratively dividing appropriations at the highest possible level. In
+    addition, OMB Circular No. A-34, “Budget Justification,” Section 21.3, “Fund
+    Control,” recommends that responsibility for budget control be placed at the highest
+    organizational level that is consistent with effective and efficient management and
+    control. Instead, Military Departments and Defense agencies allotted transportation
+    freight funding to the lowest organizational level. These procedures were
+
+
+                                          4
+           counterproductive. To achieve optimum efficiency and effectiveness, DoD should
+           restrict the administrative division of transportation funds to the highest possible
+           level.
+
+           Use of Lines of Accounting. The Department’s use of LOAs was predicated on
+           its administrative division of funds, user needs, and reporting requirements. For
+           example, management created thousands of unique LOAs to track the division of
+           funds and provide detailed management data such as the mode of transportation.
+           New LOAs were created daily when bill of lading numbers were included or
+           transportation costs were tracked to a specific project, sub-project, or job order
+           number. The transportation and accounting communities were unable to
+           determine the precise number of LOAs but estimated that over 13,000 were used
+           to process approximately $1 billion in transportation freight costs each year.
+
+           Cost of Current Accounting Practices. Benefits derived from existing accounting
+           practices did not warrant the cost incurred to verify the accuracy and validity of the
+           thousands of unnecessarily detailed LOAs being processed. Transportation of
+           Things2 object class represents approximately 1 percent of the DoD-wide budget.
+           Yet in FY 1999, we estimated that DoD activities paid approximately $18.1 million
+           to process approximately 1.25 million transportation freight payments, or $14.14
+           per payment. In addition, DoD incurred late payment charges while attempting to
+           fund and validate the LOAs and to reconcile the payments. From February 1999
+           through May 2000, DoD used 8,468 unique LOAs to process 1.3 million shipments
+           costing $149 million through PowerTrack®. Ninety percent of the transactions
+           processed used less than 1 percent (69 of 8,468) of the LOAs. DFAS was only able
+           to validate 2,270 LOAs, or approximately 27 percent. The remaining 73 percent of
+           the LOAs were inadequate to effect payment and required reconciliation. To ensure
+           accuracy and reliability, the LOAs need to be simplified. We were unable to
+           identify the value added by maintaining inaccurate and invalid LOAs to manage the
+           Department’s transportation funds. See Appendix C for examples of DoD use of
+           transportation LOAs.
+
+Streamlining Effort
+           The DoD did not optimally streamline transportation freight management and
+           accounting procedures to attain the objectives of MRM No. 15 or to take
+           advantage of the automated efficiencies that the PowerTrack® service offered.
+           DoD did not effectively reduce the number of LOAs, which resulted in the need
+           to use alternate LOAs and develop and maintain up-front LOA conversion tables
+           to meet payment and accounting requirements. The reengineered procedures
+           accommodated and perpetuated inefficient accounting procedures.
+
+           Request to Reduce the Number of LOAs. To facilitate the flow of accurate
+           accounting data, the Deputy Secretary of Defense directed the Services and the
+           Defense Logistics Agency to reduce the number of transportation LOAs used
+           and to report the status of their efforts by June 30, 2000. As previously
+           discussed, the precise number of LOAs being used for processing transportation
+           freight transactions was unknown. The response to the Deputy Secretary of
+           Defense request was mixed.
+2
+    Object Classes are categories in a classification system that represents obligations incurred by the Federal
+    Government. The “Transportation of Things” object class are those obligations incurred from goods and
+    services associated with the transporting and care of things, including animals.
+
+
+                                                         5
+       Army Response. Although the Army response indicated that it reduced
+the number of element of resource codes used, it did not actually reduce the
+number of LOAs. The element of resource code identifies the mode of
+transportation in the LOA. Because, the Army frequently includes the bill of
+lading number in its LOA, a unique LOA is created with each bill of lading
+processed. The Army did not identify how many LOAs it previously used or if
+any LOAs were reduced by its efforts.
+
+       Navy Response. The Navy responded that it had already reduced the
+number of LOAs as much as possible. The Navy uses 16 LOAs for its centrally
+managed transportation, which represents 72 percent of its transportation cost. It
+uses an additional 674 LOAs for its remaining 28 percent of transportation costs
+that were supported by decentralized funds. The Navy continued to use
+Transportation Account Codes to provide detailed information about its shipments.
+
+         Air Force Response. The Air Force reduced its transportation element of
+expense or investment code, which identifies the mode of transportation used. The
+Air Force was not able to specify how many LOAs it previously used but estimated
+that it reduced the number of LOAs to between 2,000 and 3,000 for transportation
+freight shipments.
+
+       Defense Logistics Agency Response. Prior to the tasking by the Deputy
+Secretary of Defense, the Defense Logistics Agency, Defense Distribution Center,
+had reduced its transportation freight LOAs from 150 to 29.
+
+The Under Secretary of Defense (Comptroller) officials recognized that sufficient
+progress had not been made by the Components and believed that additional time
+was needed to allow implementation of the process change. The Under Secretary
+of Defense (Comptroller) needs to ensure that the requirement to reduce the
+number of transportation LOAs is met.
+
+PowerTrack® Efficiencies. The DoD reengineering effort did not take full
+advantage of the automated efficiencies achievable with the PowerTrack® service.
+Processing responsibilities were shifted from DFAS to the Transportation Officer,
+Funds Manager, and the PowerTrack® service. PowerTrack® automates carrier
+payments, aggregates them by LOA, and electronically bills DoD by aggregated
+LOA. DFAS then reimburses U.S. Bank. DFAS projects that it would reduce
+the number of payments processed from 1.25 million to 108,000 annually. Based
+on DFAS FY 2001 billing rates, the Components would decrease its processing
+costs for transportation freight invoices by approximately $34 million that is
+attributable to aggregating the LOA for payment. See Table 2 below.
+
+    Table 2. Comparison of Invoice Processing Costs Incurred
+
+                                        Projected      Billing Rate    Processing
+                                        FY 2001             per           Costs
+        Transaction                     Payments        Payment*        Incurred
+    Individual bills (GBLs)            1,250,000         $28.78       $35,975,000
+    Aggregated bills through
+      PowerTrack® (CBLs)             108,000             $17.88         1,931,040
+     Projected Annual Cost Reduction                                  $34,043,960
+
+    * The rate represents the amount DFAS will bill its customers to process the
+    invoice. The DFAS billing rate includes its costs to certify the invoice and
+    reconcile problem disbursements in addition to invoice payment.
+
+
+                                           6
+The cost reduction estimate is misleading because what DoD has effectively done is
+shift a major portion of the DFAS processing responsibilities and processing cost to
+other DoD offices that must continue to reconcile and account for the 1.25 million
+individual transactions processed. In PowerTrack, the Transportation Officer takes on
+additional payment responsibilities, such as, approve carrier invoice for payment,
+reconcile the individual shipments to a monthly U.S. Bank invoice, and certify the
+invoice for payment. These functions were all previously performed by DFAS and
+may require a Transportation Officer (that is, Certifying Officer) to interface with
+individual Funds Managers and Service representatives because access to financial
+data is needed. Therefore, the projected cost reduction associated with processing the
+PowerTrack® aggregate billings may only be realized at the DFAS payment level.
+The processing costs will continue, if not escalate, at the individual transaction level
+because with the current inefficient accounting procedures, several DoD offices are
+needed to support the automated transportation payment process. The Assistant
+Deputy Under Secretary of Defense (Transportation Policy) believes that the
+additional efficiencies or improved management information obtained through
+PowerTrack® has other cost benefits associated with it. Although not quantifiable,
+these benefits should also be considered when computing the expected cost reduction
+associated with PowerTrack®.
+
+        Transportation Officer Responsibilities for Processing Bills Through
+PowerTrack®. Under reengineered transportation freight payment procedures, the
+Transportation Officer will perform several functions previously performed by DFAS.
+Currently, the Transportation Officer individually reviews the carrier invoices in
+PowerTrack® and approves invoices for payment, after which U.S. Bank electronically
+pays the carrier invoices. When AutoApproval procedures are fully implemented, the
+DoD goal is to have 95 percent of all carrier payment transactions approved and paid
+through AutoApproval procedures within 3 days. AutoApproval procedures allow
+carrier invoices to be automatically paid by U.S. Bank without prior review or
+approval by the Transportation Officer. In both scenarios, PowerTrack® generates an
+electronic monthly billing statement containing paid carrier invoices aggregated by
+LOA. The Transportation Officer will retrieve the monthly billing statement in
+PowerTrack® and certify the statement that both shipments and LOAs are valid and
+appropriate for payment.
+
+Ensure Accurate Billing Statements. To ensure that the billing statement is
+correct, the Transportation Officer manually reconciles the individual shipments to
+the monthly billing statement and attempts to reconcile and validate each LOA
+before forwarding the certified monthly billing statement to DFAS for payment.
+At DFAS Indianapolis, the individual shipping documents were also required for
+payment to supplement the certified monthly billing statement because the certified
+monthly billing statement could not be reconciled with the detailed PowerTrack®
+statement. Subsequent to the audit, DFAS Indianapolis stated that PowerTrack®
+had been upgraded to support the reconciliation of monthly statement and that
+individual shipping documents were not required for proper payment. In addition,
+DFAS did not have appropriate appointment letters and signature cards on file as
+required by DoD Financial Management Regulations.
+
+Transportation Officer Certification Responsibilities. Under PowerTrack®
+reengineered transportation freight payment procedures, Transportation Officers
+are required to certify the monthly billing statements. The certification process
+was previously done by DFAS and required reconciliation and validation of LOAs
+to verify that the billing statement was correct. We reviewed 19 monthly billing
+statements containing approximately 10,000 shipping documents and approximately
+
+                                      7
+400 LOAs. Over a quarter of the LOAs processed required corrections before
+certification. The certification process is time consuming and complex. For
+example, each monthly billing statement contains a summary statement and a
+detailed billing statement. The summary statement provides the cumulative total
+costs associated with each LOA. The detailed billing statement is organized
+chronologically by carrier paid date and provides details of each individual
+shipment processed. Those two documents do not provide enough information to
+validate and reconcile the monthly billing statement. Thus, the Funds Manager
+Report and individual shipping documents are also needed. Several Certifying
+Officers interviewed were not aware of the Funds Manager Report and thus did not
+use it as a reconciliation tool. Validating and reconciling the LOA on the monthly
+billing statement to the individual shipping documents are an administrative
+burden. Subsequent to our field work, upgrades were made to PowerTrack® to
+facilitate the reconciliation process.
+
+Certification of Other DoD Components' Funds. Additional problems arose when
+the transportation office attempted to certify shipments funded by another DoD
+Component. Some Transportation Offices only certified the LOAs that belonged to
+their installation while other Transportation Offices certified the entire monthly
+billing statement without ensuring the validity of the LOAs processed for others.
+Both processes resulted in a backlog of unpaid billing statements and associated late
+payment charges. The short-term solution was to establish alternate LOAs to use for
+payment purposes. The alternate LOAs should have expedited the payment of
+monthly billing statements. However, after payment, the Transportation Officers
+and Funds Managers still needed to reconcile the problem LOAs and distribute
+charges to the appropriate LOA. The proposed long-term solution was to implement
+comprehensive front-end edits (automated LOA conversion capability) to preclude
+invalid LOAs from being processed through PowerTrack®.
+
+LOA Conversion Capability. The DoD attempted to insert an automated LOA
+conversion capability between PowerTrack® and DoD users to provide a standard
+format and to verify that only accurate and valid LOAs were used to process
+shipments. PowerTrack® functionality did not include an LOA verification because
+it did not need LOAs to pay carriers or to bill DoD for reimbursement. Likewise,
+DoD did not need all of the detailed information in an LOA to comply with fiscal
+requirements to properly account for and report on its use of transportation funds.
+The transportation LOA is largely a management information tool. The complex
+and costly effort being undertaken to insert and maintain an LOA conversion
+capability between DoD users and PowerTrack® is not the appropriate action to
+resolve problem LOAs. The LOA conversion would not resolve the root cause of
+the payment and accounting problem or simplify appropriations and budget control
+functions, it would not alleviate the need to process thousands of LOAs, and it
+would not reduce the overhead cost being incurred to track and report on less than
+one percent of the DoD budget. It would simply add another layer of cost and
+complexity to transportation freight operations and prevent DoD from fully
+realizing the reengineering opportunity at hand.
+
+
+
+
+                                     8
+Current Business Practices
+          The transportation freight operations management and accounting business
+          practices would result in DoD:
+
+                  •   continuing to incur similar labor costs to process transportation
+                      payments (the revised costs are unknown but estimated at approximately
+                      $35.9 million annually) as before implementation of PowerTrack®,
+
+                  •   unnecessarily incurring late payment charges, and creating unmatched
+                      disbursements, and
+
+                  •   increasing the risk of violating public law as it attempts to annually
+                      distribute $1 billion of transportation costs to more than 13,000 LOAs.
+
+          Processing Cost. The DoD strategy for processing transportation freight payments
+          through PowerTrack® was complex and costly. It required training the staff in more
+          than 500 Transportation Offices to execute accounting functions that a staff of DFAS
+          technicians accomplished in the past. The DoD strategy depended on a system of
+          LOAs that could not produce reliable management and accounting data with which to
+          measure program effectiveness or make management decisions. PowerTrack® enabled
+          DoD to reduce the time required to pay carriers (from 60 days to 3 days) and to
+          provide transportation data used in management decisions. Yet DoD was unable to
+          certify and pay U.S. Bank in a timely manner to avoid incurring late payment
+          charges. In FY 2000, DoD had on average $8 million in overdue payments, some
+          more than 165 days old. Unlike private industry, DoD managed and accounted for
+          transportation payments at the lowest possible administrative level rather than as
+          overhead expenses. If the cost to have three organizational entities (the
+          Transportation Offices, Funds Managers, and DFAS) process payments for DoD
+          transportation freight shipments does not exceed the DFAS billing rate, processing
+          one LOA in FY 2001 would cost DoD an estimated $17.88.
+
+          Private Industry. Private industry, on the other hand, largely treats transportation
+          expenses as overhead and allocates them accordingly, resulting in a
+          $3 non-accounting processing cost per shipment.3 If DoD adopted the commercial
+          practice of accounting for transportation costs at the corporate level, it could
+          substantially reduce its costs. Although DoD could continue to incur some
+          unknown non-accounting cost to process the transactions, it could conservatively
+          avoid approximately $34 million in accounting costs and late payment charges per
+          year.
+
+          Late Payment Charges. Invalid and unfunded LOAs hamper the ability of DoD to
+          consistently meet contractual agreements with U.S. Bank to avoid late payment
+          charges. DoD contractually agreed to reimburse U.S. Bank for payments made to
+          carriers on its behalf within 15 days of the date of the invoice or to pay a late
+          payment charge equal to the Prompt Payment Act interest rate (6.75 percent at the
+          time of the audit). From October 1998 through July 2000, it took DoD an average
+          of 46 days to make transportation payments using the PowerTrack® service.
+          Although this represents a 25 percent improvement from the 60-day average needed
+          to pay carriers before using PowerTrack®, it is still only a marginal improvement
+3
+    Coopers & Lybrand L.L.P., Report of the DoD Reengineering Task Forced: Reengineering
+    Transportation Documentation and Financial Processes, 'As Is' Phase, March 1998
+
+
+                                                   9
+considering the prompt payment agreement of 15 days. During the first 9 months of
+calendar year 2000, DoD incurred approximately $400,000 in late payment charges.
+
+                          (Jan u ary 2000 - S ep temb er 2000)
+
+            $157,681
+
+                       $92,355
+                                 $67,594
+                                                $43,449
+                                                          $16,643   $13,874
+
+               15        45        75        105            135       165
+                                    Days Past Due
+
+Figure 1. Late Payment Charges Incurred on Past Due PowerTrack® Balances
+Almost 36 percent of the late payments were at least 75 days past due. DoD
+needs to adopt efficient and effective payment procedures to meet the aggressive
+15 days payment schedule and to avoid late payment charges. Instead, DoD
+planned to use alternate LOAs as an interim solution to expedite payments.
+
+Subsequent to completion of audit verification efforts, the Assistant Deputy Under
+Secretary of Defense (Transportation Policy) said that payment to U.S. Bank had
+improved. In August 2000, delinquent monthly billing statements were paid,
+including approximately $218,000 of interest. In September and October,
+approximately $30,000 and $55,000 of interest were paid, respectively. The
+Assistant Deputy Under Secretary of Defense (Transportation Policy) was working
+with DFAS and the Services to reduce the time to make payments. Some of the
+problems included bad or unfunded LOAs or missing monthly bank statements.
+DFAS began using the alternate LOA for the November 16, 2000, monthly bank
+statement, which the Assistant Deputy Under Secretary of Defense (Transportation
+Policy) believes will improve the timeliness of payments.
+
+Alternate Lines of Accounting. The Deputy Secretary of Defense issued a
+memorandum on May 5, 2000, tasking DoD Components to identify alternate
+LOAs and obligate sufficient funds to process transportation freight payments.
+DoD intended to fund and use the LOAs to process problem disbursements
+involving invalid or unfunded LOAs. The intent was to use the alternate LOAs to
+expedite the payment process, not to reengineer it. The Assistant Deputy Under
+Secretary of Defense (Transportation Policy) reported that each Service had
+established alternate LOAs.
+
+        Use of Alternate LOA. According to the Deputy Secretary’s
+memorandum, when an inaccurate LOA is not corrected within 2 days, DFAS is to
+pay the invoice citing the respective DoD Component alternate LOA. The
+transaction would then be treated similarly to an unmatched disbursement. The
+DoD Component is responsible for liquidating the alternate LOA by identifying and
+transferring the cost to the correct LOA. If the LOA was not sufficiently funded,
+the Funds Manager would obligate the needed funds. In a subsequent
+memorandum issued December 11, 2000, the number of days allowed before an
+alternate LOA is assigned was increased from 2 days to 3 days in an attempt to
+reduce the amount of rework needed to reassign the alternate LOA.
+
+        Risks of Alternate LOA. At least two risks are envisioned with the use of
+alternate LOAs. If an obligation is created when the shipment occurs, and another
+
+
+                                           10
+    is used to pay for the shipment, DoD will have effectively created a dual obligation
+    for the transaction, which does not support funds management goals. On the other
+    hand, incurring a liability without an accompanying obligation risks violating
+    public law. Although we fully support the use of corporate-level LOAs for
+    transportation freight budget and accounting purposes, the proposed method of
+    using alternate LOAs is not the optimum solution to problem disbursements.
+
+    Problem Disbursements. Problem disbursements are a growing concern for the
+    transportation community. Of the LOAs submitted to DFAS in July 2000,
+    45 percent were inadequate to effect payment. When DFAS cites alternate LOAs
+    to pay transportation charges, the Transportation Officer is supposed to treat them
+    as problem disbursements and reconcile them with original obligations, which is an
+    unrealistic expectation. Even if Transportation Officers could have reconciled their
+    own transactions, they did not have access to obligations for shipments they
+    processed for other entities; therefore, they could not verify the accuracy of those
+    LOAs. In addition, the Prompt Payment Act, funds management, and accounting
+    were not core Transportation Officer functions or priorities. Furthermore, neither
+    Transportation Officers nor Funds Managers have visibility over inaccurate LOAs.
+    These assessments were evident in the 45 percent error rate of LOAs submitted to
+    DFAS for payment after attempted verification by the transportation community.
+    Even with the pressure to pay billing statements or incur late payment charges, it
+    was taking DoD an average of 46 days to pay U.S. Bank.
+
+    Reconciling Problem Disbursements. We believe that reconciling problem
+    disbursements would be less urgent after U.S. Bank has been paid. As a result, the
+    number of unresolved problem disbursements will increase. In addition,
+    transportation freight payment procedures did not accomplish prevalidation
+    objectives and significantly increased the risk of pecuniary liability for the
+    Transportation Officer who certified the invoice.
+
+    Prevalidation Requirements. Transportation freight payment procedures did not
+    accomplish the DoD prevalidation objectives established in response to Section 8137
+    of Public Law 103-335, “DoD Appropriations Act 1995.” The Act requires DoD to
+    develop and implement a plan to match disbursements to corresponding obligations.
+    DoD plans called for accomplishing this at the zero dollar threshold for all
+    disbursements, except contract payments made by the DFAS Columbus. Although
+    DFAS was attempting to comply with the DoD prevalidation initiative, it was
+    frequently unable to do so because of pervasive accounting errors. In FY 2000, DoD
+    maintained a monthly average of $8 million of transportation payments that were past
+    due because of obligation and accounting data problems. As the number of
+    transactions processed through PowerTrack® increases, DFAS would be forced to pay
+    transportation payments without prevalidating them or incur increasing late payment
+    charges. Such payments will result in an increased number of problem disbursements.
+
+Corporate Approach
+    Centrally managed LOAs are essential to successfully reengineering transportation
+    freight operations. Best commercial practices support treating transportation as a
+    corporate expense for accounting purposes. MRM No. 15 challenged managers to
+    update and restructure business practices consistent with statutory and technological
+    constraints. DoD has taken sweeping steps to automate transportation freight
+    payments. However, the complexity of the current approach to account for those
+    payments creates an undue administrative burden on the transportation community
+
+                                         11
+    and denies DoD the optimum benefits of reengineering. We believe that DoD is
+    pursuing the right course in establishing alternate LOAs to process transportation
+    payments for problem disbursements. However, we do not believe that the
+    alternate LOAs should be the exception and reserved only for problem
+    disbursements. The DoD Components should establish centrally managed open
+    allotments for all DoD transportation freight payments.
+
+    Use of Centrally Managed Open Allotments. The use of centrally managed open
+    allotments with operating targets at the Department level would enable DoD to
+    minimize its growing number of problem disbursements, eliminate late payment
+    charges, prevent potential violations of public law, produce reliable metrics to
+    measure program effectiveness, and eliminate costly detailed management and
+    accounting procedures. Recent congressional testimony also identified the need for
+    DoD to simplify its data documentation requirements to take advantage of
+    electronic commerce with commercial systems. The use of open allotments will
+    make possible the seamless, paperless process for paying transportation freight bills
+    through vendor pay systems that DoD is trying to achieve.
+
+Summary
+    The ongoing transportation reengineering effort provides a significant opportunity
+    for DoD to avoid unnecessary administrative burdens associated with transportation
+    freight shipments and avoid additional cost and to produce meaningful metrics with
+    which to measure program effectiveness. PowerTrack®, the cornerstone of the
+    DoD reengineering effort, is automating and expediting vendor payments, but
+    internal DoD business practices are negating those benefits. By using an up-front
+    LOA conversion system without further reengineering its business practice, DoD
+    would be perpetuating inefficiencies that will result in additional processing costs,
+    unnecessary late payment charges, and unmatched disbursements. The transition to
+    automated carrier payments was a step in the right direction, but relying on
+    PowerTrack® alone falls short of reengineering DoD transportation payment
+    processes. Centrally managed open allotments with targets at the operating level,
+    coupled with the automated carrier payment service, would provide DoD with an
+    electronic commerce capability that attains the objectives of MRM No. 15 and
+    realizes the optimal benefits of reengineering.
+
+Recommendation, Management Comments, and Audit Response
+    A. We recommend that the Under Secretary of Defense (Comptroller) require
+    the Defense Components to establish and fund open transportation allotments
+    for budget and accounting purposes, and limit transportation lines of
+    accounting to the Defense Component level to avoid late payment charges and
+    problem disbursements and support the DoD prevalidation initiative.
+
+    Management Comments. The Deputy Chief Financial Officer, Under Secretary
+    of Defense (Comptroller) nonconcurred with the recommendation and stated that
+    the use of open allotments are problematic and prone to misuse because the
+    managers using the funds are not responsible for programming and budgeting the
+    funds. Transportation costs are accumulated by high volume, low dollar value
+    transactions and are better managed by those organizations that incur the costs. In
+    May 2000, the Under Secretary of Defense (Comptroller) required the DoD
+    Components to establish alternate lines of accounting. The LOA is used to convey
+
+                                         12
+management information to the Components Funds Manager and it was not
+unreasonable to allow additional time for the Components to change business
+processes before significant reductions in the number of LOAs could be expected.
+
+Audit Response. Deputy Chief Financial Officer, Under Secretary of Defense
+(Comptroller) comments were nonresponsive. The current organization structure
+effectively segregates duties and supervision with respect to rating shipments. If
+open allotments were prone to misuse as stated, the DoD should revise its current
+practices for managing billions of dollars in appropriations. For example, the DoD
+open allotments for military pay are valued at about $73 billion in contrast to the
+$1 billion in transportation payments processed through PowerTrack. Currently,
+the Army manages its overseas shipments through the open allotment process.
+
+In most situations, the transportation office is responsible for processing, not for
+rating the shipments or programming or budgeting the funds associated with the
+shipments. The transportation office is a support function, independent of the
+program and Funds Manager. The current fund management practice does not
+provide effective controls for promptly recording, properly accounting, and
+accurately preparing reliable financial and management reports.
+Seventy-three percent of the LOAs processed during a 14-month period reviewed
+were inadequate to effect payment and required reconciliation. The
+implementation of PowerTrack® has improved the Department’s response time to
+pay the carrier but marginal improvement has been shown in completing the
+transaction and obtaining complete and accurate accounting and management cost
+information. Where alternate LOAs are now used, their monthly volume has
+increased and represents problem disbursements that must be either researched and
+reworked or left to stand as duplicate obligations. This effectively then becomes a
+transportation open allotment, by default.
+
+Management comments also imply that the Transportation Officers will not act in
+the best interest of the Department. The Transportation Officer’s main
+responsibility is to ensure that the shipment is transported effectively and
+efficiently. The majority of surface freight shipment rates are not set by the
+Transportation Officer but are negotiated and contracted by the Military Traffic
+Management Command. The Transportation Officer should not be encumbered by
+overly complex accounting requirements. By using open transportation allotments
+and limiting transportation LOAs, transportation costs can be managed effectively
+and efficiently as overhead, processing costs can be reduced, and management cost
+data can be captured through PowerTrack®.
+
+The Deputy Chief Financial Officer, Under Secretary of Defense (Comptroller)
+believes that “a reasonable amount of time must be allowed to implement the
+necessary process changes” before alternative actions are appropriate. Over a year
+has passed since the Deputy Secretary of Defense requested a reduction of LOAs
+and minimal change has occurred. The Under Secretary of Defense (Comptroller)
+has yet to assume a leadership role by analyzing required LOAs, clearly defining
+reduction targets, and initiating corrective actions where progress is not apparent.
+Further, the Deputy Chief Financial Officer, Under Secretary of Defense
+(Comptroller) also declined to specify how many years delay is reasonable before
+positive corrective actions should be taken. Therefore, we request the Under
+Secretary of Defense (Comptroller) reconsider the recommendation and provide
+additional comments to this report.
+
+
+
+                                     13
+           B. Controls Over Automated Transportation
+              Payments
+           Although the automated transportation payment process is an improvement
+           over the manual process, controls over these automated transportation
+           payments were not adequate to safeguard sensitive financial information or
+           to ensure production of reliable data. DoD had not fully assessed system
+           risks, resolved system vulnerabilities, and included basic internal controls in
+           the automated payment process. As a result, DoD reengineering efforts
+           contain high risk of exposing sensitive financial data to unauthorized
+           parties, risk noncompliance with public laws and regulations, promote
+           operating in a business environment lacking strong management controls,
+           and require Transportation Officers to assume responsibilities and
+           associated liabilities more appropriately belonging to the financial
+           community.
+
+Controls
+    General Accounting Office (GAO) Publication, GAO/AIMD-00-21.3.1, “Standards
+    for Internal Control in the Federal Government,” November 1999, provides the
+    framework for obtaining reasonable assurance that operations are effective and
+    efficient, produce reliable data, and comply with applicable laws and regulations.
+    These standards are based, in part, on section 3512, title 31, United States Code
+    (31 U.S.C. 3512), and the Computer Security Act of 1987, as well as OMB and DoD
+    implementing regulations. The controls specified in the standards are the policies and
+    procedures that enforce management’s directives. These controls are critical to
+    ensuring the integrity and reliability of data used by financial managers and relied on
+    for the preparation of DoD financial statements and reports. Critical fundamental
+    controls include identifying, analyzing, and managing relevant operational risks,
+    segregation of duties, and restrictions to and accountability for resources and records.
+
+    Effectiveness of Controls. DoD had not established an effective system of
+    management controls over its transportation freight payment process.
+    PowerTrack® was integrated into the transportation payment process without a
+    system accreditation. System vulnerabilities and risks had not been fully identified
+    or assessed. PowerTrack® was also being incorporated into the DoD transportation
+    payment process without full consideration of the overarching DoD architecture.
+    Responsibility for the implementation and operation of the automated payment
+    process was not clearly delegated or coordinated. As a result, DoD was processing
+    its transportation freight payments through PowerTrack® without adequate system
+    and management control measures to ensure that sensitive data and DoD financial
+    management systems were safeguarded and that the system produced reliable data
+    for financial statement reporting. The Federal Financial Management Improvement
+    Act of 1996 (FFMIA) mandates that financial management systems comply
+    substantially with financial management system requirements, Federal accounting
+    standards, and the United States Government Standard General Ledger at the
+    transaction level. A brief synopsis of the criteria is available in Appendix D.
+
+    Financial Management Systems Security Requirements. DoD Directive 5200.28,
+    “Security Requirements for Automated Information Systems,” March 21, 1988,
+    implements the requirements of OMB Circular No. A-130, “Management of Federal
+
+
+                                         14
+Information Resources.” The established criteria require that the automated
+information systems safeguard information against tampering, loss, and destruction.
+Automated information systems are defined as an assembly of computer hardware,
+software, firmware, or some combination of the three, configured to collect, create,
+communicate, compute, disseminate, process, store, or control data or information
+and includes application and operating system software. The DoD Directive states
+that the Head of each Component shall assign official(s) as the Designated
+Approving Authority responsible for accrediting each automated information system
+and for ensuring compliance with automated information systems security
+requirements. The accreditation is the formal approval given by the Designated
+Approving Authority to operate the system. DoD Instruction 5200.40, “DoD
+Information Technology Security Certification and Accreditation Process,”
+implements the security requirements identified in Public Law 100-235, “Computer
+Security Act of 1987,” OMB Circular No. A-130, and DoD Directive 5200.28. It
+prescribes procedures for the certification and accreditation process.
+
+Mobile Code Policy Guidance. The Assistant Secretary of Defense (Command,
+Control, Communications, and Intelligence) issued policy guidance for the use of
+mobile code technologies in DoD information systems on November 7, 2000. The
+draft guidance had been available since December 13, 1999. The policy applies to
+all DoD information systems used to process, transmit, store, or display DoD
+information and specifically includes commercial off-the-shelf software and
+electronic commerce applications used but not owned by the Government. Mobile
+code (that is, ActiveX) is software transferred across a network from a remote
+system (that is, PowerTrack®) executed on a local system (that is, Transportation
+Officers’ computers). The execution of mobile code is done without explicit
+approval or knowledge by the recipient. The policy defines ActiveX as “Category
+One” mobile code. Category One mobile code technologies pose a severe threat
+to DoD operations because they allow unmitigated access to all resources on the
+recipient's workstation, host, and remote system services and resources. The
+policy states that Category One mobile code is to be used in DoD information
+systems only when the mobile code is signed by a DoD-approved Public Key
+Infrastructure code-signing certificate and obtained from a trusted source. Until a
+DoD-approved Public Key Infrastructure code-signing certificate is available, the
+Chief Information Officer may approve alternate commercially available
+code-signing certificates. Therefore, we believe that DoD needs to:
+
+       •   disable the downloading and execution of all mobile code on DoD local
+           systems that is not operating in accordance with DoD policy, and
+
+       •   ensure that ActiveX mobile code used in PowerTrack® is replaced with
+           mobile code that is in accordance with DoD policy.
+
+Results of Defense Information System Agency Security Test and Evaluation
+Review. In the early stages of PowerTrack® implementation, the MRM No. 15
+Program Management Office asked the Defense Information System Agency (DISA)
+to conduct a Security Test and Evaluation (ST&E) of the PowerTrack® client and
+end-user application controls to identify associated security features and risks. The
+ST&E is one of eight tasks within the DoD Instruction 5200.40, “DoD Information
+Technology Security Certification and Accreditation Process” (DITSCAP), validation
+phase used to certify the integration and operation of system security features. On
+January 31, 2000, DISA issued the results of its ST&E, and could not give
+PowerTrack® an approval to operate within DoD because of major concerns
+
+
+                                     15
+uncovered during the ST&E. The DISA ST&E identified 18 security vulnerabilities
+and raised 8 significant issues for management attention. Because the ST&E is only
+a part of the system security assessment, DISA also recommended that a complete
+system security assessment be conducted including the testing of PowerTrack's®
+infrastructure and servers or evidence that such testing was conducted. DISA
+identified the following security issues during its ST&E review.
+
+       •   ActiveX Mobile Code. PowerTrack® uses ActiveX technology that has
+           been identified by DoD as a risk Category One. According to DISA,
+           Category One technologies have known security vulnerabilities with few
+           or no countermeasures once the mobile code begins executing. ActiveX
+           mobile code has the potential to severely degrade DoD systems. The
+           high risk of using Category One technologies outweighs all possible
+           gains. The May 11, 2000, Under Secretary of Defense for Acquisition,
+           Technology, and Logistics memorandum, states that U.S. Bank was
+           going to remove ActiveX mobile code from PowerTrack® by
+           December 2000. In response, the Assistant Secretary of Defense
+           (Command, Control, Communications, and Intelligence) issued a waiver
+           allowing the use of ActiveX mobile code to process transportation
+           freight payment transactions. As of January 2001, ActiveX continues to
+           operate through PowerTrack® in DoD systems.
+
+       •   Windows 95 and Windows 98 platforms. DISA did not recommend
+           using PowerTrack with Windows 95 or Windows 98 platforms because
+           of their inherent security weaknesses. The identity of each user
+           authorized access to PowerTrack® should be established positively
+           before authorizing access. Windows 95 and Windows 98 access
+           controls can be easily bypassed. Although these weaknesses may be
+           mitigated by procedural and personnel access controls, in combination
+           with other weaknesses, the use of Windows 95 and Windows 98
+           platforms pose sufficient concerns so that DISA recommended these
+           platforms not be used.
+
+       •   User Identifications and Passwords. DISA reported that the history
+           mechanism of Internet Explorer 5.0 (used with PowerTrack®) stores
+           unencrypted user identification and passwords on the user's personal
+           computer where it can be accessed and read by unauthorized persons.
+
+       •   Information System Personnel. DISA stated that an Information
+           System Security Officer had not been identified or designated
+           responsibility for overseeing PowerTrack® as required by the provisions
+           of DoD Directive 5200.28. DoD Directive 5200.28 states that the
+           Designated Approving Authority, who is responsible for overseeing
+           PowerTrack®, will assign the Information System Security Officers.
+           The Under Secretary of Defense for Acquisition, Technology, and
+           Logistics needs to appoint a Designated Approving Authority for
+           PowerTrack®.
+
+       •   User Profiles. Users are able to set up their own organization profiles
+           in PowerTrack®. Unrestricted access to PowerTrack® user profiles
+           allows establishment of inappropriate carrier profiles and business rules
+           regarding carrier payment approval. Such access allows for potential
+           collusion between user and carrier that could result in financial loss.
+
+
+                                     16
+Office of the Secretary of Defense Position on DITSCAP Applicability to
+PowerTrack®. We commend Assistant Deputy Under Secretary of Defense
+(Transportation Policy) for obtaining an interpretation of the DoD Instruction 5200.40,
+commonly referred to as DITSCAP, applicability to PowerTrack®. The August 30,
+2000, Assistant Secretary of Defense (Command, Control, Communications, and
+Intelligence) response advises that DITSCAP certification and accreditation of
+PowerTrack® were not required because DoD did not own the software rights to the
+application. However, the Assistant Secretary of Defense (Command, Control,
+Communications, and Intelligence) directed that the impact of PowerTrack®
+implementation on DoD network information assurance be understood. In addition, he
+advised that an amendment to the local base level System Security Accreditation
+Agreement was necessary and follows in Phase 4 of DITSCAP. Consequently, the
+Assistant Deputy Under Secretary of Defense (Transportation Policy) did not consider
+DITSCAP applicable and continued to aggressively implement PowerTrack® without
+fully assessing the impact on DoD network information assurance or addressing the
+reported security risks or conducting additional tests as recommended by DISA. Since
+the ST&E, the office of the Assistant Deputy Under Secretary of Defense
+(Transportation Policy) has continued to push towards full implementation of
+PowerTrack® at all DoD shipper sites. In addition, transportation regulations have
+been updated and require that DoD only contract with commercial carriers who
+conduct business through PowerTrack®. Thus, DoD commercial freight carriers are
+required to be PowerTrack® capable within 6 months of the transportation office
+becoming PowerTrack® enabled.
+
+Office of Inspector General, DoD Position on DITSCAP Applicability to
+PowerTrack®. Based on our review of the automated payment process and
+subsequent discussions with the Office of the Assistant Secretary of Defense
+(Command, Control, Communications, and Intelligence), we believe that system
+security requirements outlined in DoD Directive 5200.28 and implemented in DoD
+Instruction 5200.40 are applicable to PowerTrack®. The guidance states that its
+provisions apply to all automated information systems that collect, communicate,
+store, or control data, to include application software. PowerTrack® is an electronic
+commerce application that is an integral part of the DoD reengineered transportation
+payment process. In addition, DoD transportation data will reside within
+PowerTrack® and will be used and relied on in making payments to carriers and
+U.S. Bank. In the absence of more specific implementing guidance, DITSCAP is the
+most comprehensive guidance available to ensure that DoD interests and assets are
+protected. It would be prudent to fully assess the risks to the transportation payment
+data, commercial carriers, and DoD infrastructure before approval to operate any
+system, including commercial off-the-shelf products and electronic commerce
+applications not owned by the Government. All vulnerabilities should be identified
+and risks mitigated prior to integration. PowerTrack® represents a new process for
+doing business. The Office of the Assistant Secretary of Defense (Command, Control,
+Communications, and Intelligence) had not fully assessed the impact of using an
+electronic commerce application not owned by the Government on the DoD operating
+environment and DoD data. In effect, new or revised policy guidance is needed to
+clarify management's responsibility with respect to all DoD information systems used
+to process, transmit, store, or display DoD information. The guidance should
+specifically address commercial off-the-shelf products and electronic commerce
+applications not owned by the Government. In addition, standard contracting language
+is needed for all electronic commerce application contracts that specifies the
+responsibilities for ensuring compliance with established system security and
+management control requirements.
+
+
+                                       17
+System Security. The Office of the Assistant Secretary of Defense (Command,
+Control, Communications, and Intelligence) had not fully assessed the impact of
+this new business process on the DoD infrastructure. As a result, DoD risks
+unauthorized access to sensitive financial data and noncompliance with public
+laws and regulations. Figure 2 shows the relationship between the DoD
+infrastructure and the U.S. Bank PowerTrack® service.
+               DoD Infrastructure                          U.S. Bank
+
+                     Accounting
+                      System*                             PowerTrack
+
+
+
+
+           Shipper                             INTERNET    DoD Data
+                                 NIPRNET
+           System
+
+
+
+                     Client PC
+
+
+
+            *Indicates future implementation
+
+
+Figure 2. Systems Relationship
+
+Access Controls. The willingness of trading partners to transact business with
+DoD via the Internet will decline if all parties are not assured that confidential
+information, such as vendor bank account numbers, will remain confidential.
+To protect and authenticate electronic payment transactions made via the
+Internet and data within PowerTrack®, DoD needs to immediately implement a
+Public Key Infrastructure or digital signature and encryption capabilities.
+Federal Information Protection Standards established levels of Public Key
+Infrastructure security. Accordingly, the GAO determined that Federal
+Information Protection Standard 228 level 2 protection is appropriate for DoD
+financial management systems. Digital signatures and encryption capabilities
+are widely used methods of improving system security because they allow
+DoD to ensure that:
+
+       •   data contained in electronic transactions and messages have not been
+           altered and can be fully relied on for financial statement purposes,
+
+       •   system users can confirm who is on the other end of an electronic
+           transaction,
+
+       •   parties involved in a transaction cannot later deny that they participated
+           in the transaction, and
+
+       •   data cannot be accessed and read without proper authorization.
+
+Given the sensitivity and dollar value of transportation freight data transmitted
+over the Internet and the legal, financial, and national security implications of
+unauthorized access to or use of that data, DoD should require all PowerTrack®
+transactions be encrypted and contain digital signatures.
+
+
+
+                                                18
+Internal Management Controls
+    Fundamental management controls over the processing of PowerTrack® transactions
+    were not established or functioning as intended. We identified material control
+    weaknesses in the areas of operating guidance, training, approval of payments, and
+    payment procedures. Also, PowerTrack® access privileges and appropriate carrier
+    invoicing models were not established to ensure effective and efficient operations,
+    data reliability, and compliance with applicable laws and regulations.
+
+    Operating Guidance. DoD did not develop adequate operating guidance for
+    processing transactions through PowerTrack®. The DoD Transportation Regulation
+    is the governing guidance over transportation transactions and payments. The
+    regulations were silent with regard to transactions processed through PowerTrack®
+    and the additional responsibilities of the Transportation Officers. Although DFAS
+    does not have policy jurisdiction over the Transportation Officers or Funds
+    Managers, DFAS issued a memorandum, “Interim Manual Operating Procedures
+    for Processing PowerTrack® Payments,” June 30, 1999. DFAS issued the guidance
+    because no systems electronic interface existed between PowerTrack® and DoD
+    payment and accounting systems. Of the 12 sites we visited, only 1 site was aware
+    of the DFAS interim guidance.
+
+    Revised Guidance. In April 2000, U.S. Transportation Command revised
+    DoD Regulation 4500.9-R, “DoD Transportation Regulation,” and incorporated
+    the business rules for processing the commercial freight payments through
+    PowerTrack®. The guidance delegated additional responsibility to Transportation
+    Officers and Funds Managers. The transportation office is now responsible for the
+    approving and certifying functions. The Funds Managers are required to review
+    the PowerTrack® Fund Managers Report to confirm that LOAs are properly cited
+    and to determine whether corresponding obligations exist. The guidance, however,
+    did not provide the necessary instructions to enable these officials to accomplish
+    their additional responsibilities or provide procedures for accomplishing those tasks
+    in an automated PowerTrack® environment. For example, the guidance is silent on
+    how to approve and certify transportation payments in PowerTrack®. In addition,
+    the DoD Regulation 4500.9-R tasked Funds Managers over whom they do not have
+    cognizance. Fund Manager responsibilities are under the purview of the Under
+    Secretary of Defense (Comptroller). DoD Regulation 4500.9-R does not
+    adequately reflect the current operating environment for processing transportation
+    freight payments. For example, few Fund Managers have access to PowerTrack®
+    although they have been assigned specific responsibilities. The financial
+    management regulations need to be revised to support the DoD transportation
+    regulations as it pertains to Fund Managers and incorporate their responsibilities in
+    PowerTrack®. The revised guidance should be fully distributed to all
+    transportation offices and Fund Managers.
+
+    Transportation Officer Training. Transportation Officers were not given adequate
+    training to properly transact business through PowerTrack®. They received only
+    basic PowerTrack® training from U.S. Bank and no finance and accounting training.
+    U.S. Bank made overall introduction to PowerTrack® training available to all
+    PowerTrack® users. A distance learning package was also created for users who did
+    not attend the presentation. However, the PowerTrack® users we interviewed who
+    had completed the training did not understand PowerTrack® critical functionality or
+    how to use its essential modules and screens. Also, Transportation Officers had not
+
+
+                                         19
+received training in finance and accounting to understand and successfully process
+LOAs nor training as a Certifying Officer to prepare them to certify invoices for
+payment. For example, the “Business Rules - Invoicing Module,” is critical to
+managing the payment process from the Transportation Officer and Fund Manager
+perspective. The invoicing module informs the users how carrier transactions will
+be processed. Even though Transportation Officers may have known how to access
+and complete this module, they did not always understand their options or the laws
+and regulations governing their choices. Likewise, Transportation Officers knew
+how to access and certify invoices for payment in PowerTrack®, but they were not
+aware of the financial or legal implications of their actions. Transportation Officers
+and Fund Managers should be trained to ensure that they have a complete
+understanding of the functionality of PowerTrack® and the laws and regulations
+governing financial transactions.
+
+Fund Manager Training. Fund Managers were not provided PowerTrack
+training. Few, if any, Funds Managers had access to PowerTrack  even though
+the DoD guidance gives them a critical role in the transportation payment
+process. According to the MRM No. 15 Program Management Office, the need
+for Funds Manager training was recognized and in August 2000, a financial
+management development team was formed. In March 2001, a PowerTrack
+web-based training application and CD-ROM became available for Funds
+Manager training. However, a requirement was not established for Funds
+Managers to receive this training nor were controls established to ensure training
+was received.
+
+PowerTrack® Access Privileges. Procedures were not established to ensure
+appropriate access and define user privileges in PowerTrack®. The OMB
+Circular A-123 requires that basic controls be in place to ensure that access to
+resources and records is limited to authorized individuals and accountability for the
+custody and use of resources is appropriately assigned and maintained. DoD
+Directive 5200.28 also requires that user access to information and operations be
+limited to that for which the user is entitled by virtue of clearance and formal
+access approval. As of June 2000, approximately 1,600 DoD users had been
+granted access to the PowerTrack® system, yet DoD had not established
+procedures for granting access or defining user privileges in PowerTrack®.
+U.S. Bank controls access to PowerTrack®. Anyone desiring access can contact
+U.S. Bank at which point U.S. Bank may or may not confirm their authority with
+DoD before allowing them access. Furthermore, DoD does not monitor
+PowerTrack® user profiles or activity to ensure appropriate access, privileges, and
+use. DoD needs to review, evaluate, and certify PowerTrack® access and
+privileges. This has yet to be accomplished. We identified a number of serious
+instances where DoD could not ensure the appropriateness of PowerTrack®
+transactions.
+
+        Contractor Access. At Wright-Patterson Air Force Base, contractors are
+authorized to perform transportation freight shipping functions such as initiating,
+rating, and assigning shipments, but not approving payments. However, we
+identified a contractor employee who had PowerTrack® approval privileges for
+payments up to $25,000. Approval of carrier payments is an inherently
+governmental function that can legally be performed only by a Government
+employee. We identified five payment transactions totaling $662 that a contractor
+had approved by searching the payment history of the individual shipment. The
+Transportation Officer was not aware of the access level or privileges assigned to
+
+
+                                     20
+the contractor. U.S. Bank was unable to provide us with a log of payments
+approved by the contractor, so we were unable to determine the extent of the
+problem.
+
+        Administrator Access. The Information Manager, Blue Grass Army
+Depot, had approval authority for payments up to $25,000. The Information
+Manager is responsible for system administration and should never have payment
+approval authority. In addition, at each transportation office, at least one user was
+assigned administrative access to PowerTrack®. The administrative access allowed
+users to add, delete, or modify user and carrier profiles within their respective
+domain. At several of the sites we visited, administrative users also had maximum
+payment approval authority.
+
+        Retiree Access. At the Defense Distribution Depot, Norfolk, a user who
+had retired in July 1999 still had an enabled user profile with a $3,000 payment
+approval authority as of June 2000.
+
+Carrier Profiles. Similar control problems exist with carrier profiles as with the
+user access and privileges. The Transportation Officer or U.S. Bank can establish
+carrier profiles in PowerTrack®. Carrier profiles define how transactions will be
+processed, as well as how carriers will be paid. Carrier profiles prescribe invoicing
+modules and automatic payment options to be used with each carrier.
+
+Controls Over Carrier Profiles. Control over carrier profiles is critical because
+they authorize payment based on DoD input, carrier input, or automatic payment.
+Yet DoD had not established basic controls over establishing carrier profiles or
+ensured that Transportation Officers understood how to create and use them. In
+addition, DoD does not monitor carrier profiles to ensure that they are properly
+defined in the system. As a result, the Transportation Officer at the Blue Grass
+Army Depot did not know that at least three carrier profiles were defined with
+unlimited dollar thresholds, which meant that carrier invoices were automatically
+approved for payment in PowerTrack® on notice of delivery without further
+transportation office involvement. DoD needs to establish and monitor profiles to
+maintain an acceptable level of operating security.
+
+Transportation Officer Liabilities. Control procedures over the certification of
+PowerTrack invoices were not adequate to ensure segregation of duties as
+required by internal control standards. Transportation Officers were provided
+neither the training nor the tools to successfully function as Certifying Officers.
+
+Certifying Officer Delegation. In June 1999, the DFAS “Interim Manual
+Operating Procedures for Commercial Transportation Purchased Through the U. S.
+Bank PowerTrack® Service,” requires Transportation Officers to function in both an
+approval and certification capacity contrary to basic principles of internal controls.
+GAO publication, GAO/AIMD-00-21.3.1, “Standards for Internal Control in the
+Federal Government,” November 1999, prescribes that, “Key duties and
+responsibilities need to be divided or segregated among different people to reduce the
+risk of error or fraud.” This should include separating the responsibilities for
+authorizing transactions, processing and recording them, reviewing the transaction,
+and handling any related assets. One individual should not control all key aspects of
+a transaction process. Further, as previously discussed, Transportation Officers
+have neither sufficient visibility over funding nor were they adequately trained to
+conduct Certifying Officer duties. The Certifying Officer responsibilities are
+
+
+                                     21
+specified in 31 U.S.C. 3325 and 3528, which states that the Certifying Officer is
+responsible for information stated in the voucher, supporting documentation and
+records, computation, and the legality of a proposed payment under the
+appropriation or fund involved. The Certifying Officer responsibility is consistently
+described in the DoD Financial Management Regulations, Volume 5, Chapter 33,
+“Accountable Officials and Certifying Officers.” Thus, the Certifying Officer is
+responsible for ensuring and validating that the appropriate funding is available and
+used on the PowerTrack® monthly invoice. Procedural guidance was not sufficient
+to ensure data accuracy or consistent and efficient processing of PowerTrack 
+invoices. Therefore, we consider the delegation of the certification responsibility to
+be unacceptable because Transportation Officers are inappropriately exposed to
+pecuniary liabilities without due preparation.
+
+Certifying Officer Responsibilities. Each month, the transportation office
+obtains a PowerTrack® billing statement aggregated by LOA. The Transportation
+Officer is supposed to certify the statement within 5 business days. To
+accomplish this, the Transportation Officer must review the billing statement to
+ensure that it is correct, certify the statement for payment, and submit it to the
+appropriate DFAS office for disbursement. The DoD goal appears to be that
+DFAS will disburse funds based on the Transportation Officer's approval, without
+further review or certification. Inspector General, DoD, Report No. D2000-139,
+“Controls Over the Integrated Accounts Payable System,” June 5, 2000,
+identified numerous deficiencies in the Department's procedures for handling
+vendor payments. GAO/AIMD-00-21.3.1, “Standards for Internal Control in the
+Federal Government,” November 1999, requires access restrictions and
+segregation of key duties in authorizing, processing, recording, and reviewing
+transactions. The majority of DoD transportation payments are processed using
+vendor pay systems. Therefore, the internal control environment for receipt and
+acceptance of transportation shipments prescribed by 5 Code of Federal
+Regulations Part 1315, “Prompt Pay Act: Final Rule,” must apply and DoD must
+ensure that sufficient controls exist so that no single individual is responsible for
+the entire transportation freight transaction.
+
+Pecuniary Liabilities. Title 31, U.S.C., 3528, and the DoD Financial
+Management Regulation, Volume 5, Chapter 33, section 3302, hold Certifying
+Officers pecuniarily liable for erroneous payments. Draft Certifying Officer
+business rules delegating certification responsibilities will result in undue risk of
+pecuniary liability to DoD Transportation Officers. In 1998, DoD implemented
+31 U.S.C. 3325, which requires certification of Departmental disbursements.
+Under these regulations, Certifying Officers are considered pecuniarily liable for
+erroneous payments resulting from the negligent performance of their duties.
+They are responsible for paying payments that are determined to be illegal,
+improper, or incorrect because of inaccurate or misleading certification that does
+not represent a legal obligation under the appropriation or are prohibited by law.
+For most vendor pay actions, DFAS performs Certifying Officer functions. DoD
+procedures for reimbursing U.S. Bank for PowerTrack® invoices rely heavily on
+the controls in vendor pay systems. Yet DoD is deviating from those controls for
+transportation freight payments by recommending that the Military Departments
+and Defense agencies appoint Transportation Officers to certify carrier payments.
+The Transportation Officers do not have access to the accounting systems and
+have no visibility over the supporting obligation data for funding payments,
+besides their own. Therefore, they have no ability to validate (or certify) the
+validity of other LOAs, but DFAS does.
+
+
+                                      22
+   In July 2000, DFAS reported that 45 percent of the certified PowerTrack® invoices
+   were delayed for payment because of missing or inadequate obligations or
+   inaccurate and incomplete LOAs. After certification for payment, the Certifying
+   Officer should be prepared to assume full liability for all improper payments,
+   because the GAO may not provide relief for transportation officials who make
+   improper certifications, especially when not initially supported by a valid
+   obligation. The use of the Transportation Officer as certifying official is a choice of
+   last resort. We believe that transportation payment certification responsibilities
+   should be retained by DFAS along with their vendor payment responsibilities to
+   ensure total visibility of all payments.
+
+   Certifying Officer Training. The training provided to date was insufficient to
+   instruct the Transportation Officers in their roles and responsibilities for
+   certifying PowerTrack® invoices. In most cases, officials required to perform
+   certification functions were not and could not comply with requirements. At
+   the sites visited, we received mixed responses regarding what constitutes
+   PowerTrack® invoice certification procedures and responsibilities. This lack of
+   understanding made clear that Transportation Officer certifications of
+   PowerTrack® invoices were all too often superficial at best. Certifying Officers
+   are also required to review Transportation Account Codes and LOAs for
+   accuracy prior to certifying invoices, but this was not being done at the sites we
+   visited. Furthermore, as previously discussed, Transportation Officers simply
+   were not provided the level of training commensurate with the Certifying
+   Officer obligations and responsibilities imposed on them. The Certifying
+   Officers need to receive Certifying Officer training. According to the Assistant
+   Deputy Under Secretary of Defense (Transportation Policy), DFAS developed a
+   Certification Officer Legislation Training compact disk. The Military
+   Components and Defense agencies provided comments to the training disk in
+   November 2000. Once the Component and agency comments are considered,
+   the training disk could be used as a training tool for the Certifying Officers.
+
+   Post Payment Random Reviews. Draft Certifying Officer business rules
+   provide for post payment random reviews. The intent of a post payment
+   review is to ensure payment accuracy and minimize the risk of errors and
+   fraud. However, the business rules assign responsibility for the post payment
+   random reviews to the same office that has control over the transportation
+   freight process. The transportation freight process includes establishing user
+   profiles, authorizing shipments, and certifying invoices for payment.
+   Furthermore, the business rules did not specify the decision rules or corrective
+   actions needed based on the result of the review. Therefore, we question
+   whether the reviews will be an effective tool to detect error or fraud unless
+   designed and conducted at the DFAS level by individuals who do not have
+   control over the transportation freight process.
+
+Summary
+   Although PowerTrack® is a commercially owned electronic commerce
+   application, it is incorporated into the DoD transportation payment process.
+   PowerTrack® processes, stores, transmits, and displays sensitive DoD financial
+   information and contractor proprietary data. The PowerTrack® data are used by
+   DoD to pay the carrier and to reimburse U.S. Bank. Therefore, PowerTrack®
+   should comply with the same provisions as other DoD financial management
+
+
+                                         23
+    systems. The Federal Financial Management Improvement Act and supplemental
+    OMB and DoD guidance are applicable to PowerTrack®. Controls over the
+    automated transportation freight payment process were not adequate to safeguard
+    sensitive information or to ensure the production of reliable data. DoD must
+    fully assess and mitigate the risks associated with using the PowerTrack® service.
+    Continuing to operate without effective security and internal controls is
+    imprudent. Likewise, DoD efforts to expedite an implementation strategy that
+    circumvents prescribed management controls and places DoD employees at
+    unneeded risk is not in the best interest of the Department. Delegated
+    certification authority inappropriately exposed Transportation Officers to
+    pecuniary liabilities. Also, Transportation Officers were inadequately trained to
+    accomplish Certifying Officer responsibilities. All too often PowerTrack®
+    invoice certifications were superficial at best. Lastly, we do not believe the post
+    payment random reviews as structured will be effective deterrents to error or
+    fraud unless designed and conducted at the DFAS level by individuals who do
+    not have control over the entire transportation freight payment process.
+
+Recommendations, Management Comments, and Audit Response
+    Deleted and Renumbered Recommendations. As a result of the comments, we
+    revised Recommendation B.1.a. to incorporate the intent behind draft report
+    Recommendations B.1.b. and B.1.c. We deleted draft report
+    Recommendations B.1.b. and B.1.c. and renumbered the remaining
+    recommendation to Recommendation B.1.b.
+
+    B.1. We recommend that the Under Secretary of Defense for Acquisition,
+    Technology, and Logistics:
+
+           a. Appoint an executive agent to take responsibility for operation of
+    PowerTrack® within DoD and to ensure that all control risks associated with
+    its use are understood and mitigation of risks are planned and PowerTrack® is
+    compliant will all applicable DoD policies.
+
+          b. Contract with U.S. Bank to phase out the use of ActiveX or use
+    ActiveX in accordance with DoD policy.
+
+    Management Comments. The Assistant Deputy Under Secretary of Defense
+    (Transportation Policy) nonconcurred with the Recommendations B.1.a., B.1.b.,
+    and B.1.c., stating that the recommendations propose a bureaucratic process for
+    assessing the security implications of a commercial off-the-shelf application.
+    PowerTrack® is a commercial off-the-shelf web-based application and DoD has no
+    software rights to this application. As such, DoD Information Technology
+    Security Certification and Accreditation Process (DITSCAP) requirements do not
+    apply. The Assistant Deputy Under Secretary of Defense (Transportation Policy)
+    agreed that DoD needs and would strongly support an effective commercial off-
+    the-shelf assessment policy to ensure security of DoD systems.
+
+    The Assistant Deputy Under Secretary of Defense (Transportation Policy)
+    concurred with Recommendation B.1.b., stating that it complies with DoD policy.
+    On April 12, 2001, the Assistant Secretary of Defense (Command, Control,
+    Communications, and Intelligence) issued a memorandum that stated the use of
+
+
+
+                                         24
+ActiveX in PowerTrack® complies with DoD policy because ActiveX is signed
+with Microsoft Authenticode, an approved commercial code-signing certificate.
+
+Audit Response. The Assistant Deputy Under Secretary of Defense
+(Transportation Policy) met with the Deputy Inspector General, DoD, on
+April 16, 2001, to discuss the recommendations and tone of the report prior to
+submitting comments. The Assistant Deputy Under Secretary of Defense
+(Transportation Policy) comments on renumbered Recommendation B.1.b. (draft
+report Recommendation B.1.d.) are fully responsive. The Assistant Deputy
+Under Secretary of Defense (Transportation Policy) comments on revised
+Recommendation B.1.a. are nonresponsive. PowerTrack® is more than a
+commercial off-the-shelf web-based application. PowerTrack® is an electronic
+commerce application that stores DoD data and is an integral part of the DoD
+transportation payment process. Regardless of whether the electronic commerce
+application is a new means for doing business within DoD, management is
+ultimately responsible for implementing sound financial management practices and
+systems. Current policy exists that defines management responsibility for
+establishing effective internal and system controls. With the Department’s plans
+for PowerTrack® to operate as a subsidiary ledger for transportation, it is
+imperative for PowerTrack® to substantially comply with the same Federal
+financial system requirements as the rest of DoD accounting, finance, and feeder
+systems.
+
+It is not bureaucratic to recommend the responsible proponent to act prudently
+to protect DoD data and aggressively implement information assurance
+requirements. Although appointment of a Designated Approving Authority and
+Information System Security Officer seems appropriate for security risk
+management of PowerTrack, the execution of the requirements placed on the
+Under Secretary of Defense for Acquisition, Technology, and Logistics by the
+Assistant Secretary of Defense (Command, Control, Communications, and
+Intelligence) August 30, 2000, memorandum will also meet the intent of draft
+report Recommendations B.1.a, B.1.b., and B.1.c. The memorandum stated
+that integration of commercial services with existing DoD legacy systems is a
+new implementation model but does not require a DITSCAP certification and
+accreditation. However, the Assistant Secretary of Defense (Command,
+Control, Communications, and Intelligence) memorandum elaborated by stating
+that up front consideration to understand the impact of the implementation on
+DoD network information assurance is required. In addition, the executive
+agent responsible for the business process should ensure that risks associated
+with the use of commercial off-the-shelf web-based applications are understood
+and the mitigation of those risks is planned. The executive agent, in
+collaboration with each affected Component CIO, will determine the DoD–wide
+approach for determining, mitigating and accepting risk of implementation.
+Establishing an executive agent responsible for overall management controls
+associated with the automated transportation payment process and executing the
+requirements established by the Assistant Secretary of Defense (Command,
+Control, Communications, and Intelligence) will meet the intent of our draft
+report Recommendations B.1.a., B.1.b., and B.1.c. Therefore, we request the
+Under Secretary of Defense for Acquisition, Technology, and Logistics
+reconsider the revised recommendation.
+
+
+
+
+                                    25
+B.2. We recommend that the Under Secretary of Defense (Comptroller):
+
+     a. Retain Certifying Officer responsibilities at the Defense Finance
+Accounting Service for PowerTrack® payments.
+
+       b. Revise the DoD Financial Management Regulation to reflect changes
+in the Defense Transportation Regulation as they pertain to Funds Managers’
+use of PowerTrack®.
+
+Management Comments. The Deputy Chief Financial Officer, Under Secretary of
+Defense (Comptroller) concurred in principle with Recommendation B.2.b. stating
+that the Defense Transportation Regulations would be reviewed and the DoD
+Financial Management Regulation updated as appropriate. The Deputy Chief
+Financial Officer, Under Secretary of Defense (Comptroller) nonconcurred with
+Recommendation B.2.a. stating that the Transportation Officers do have the
+expertise to certify the monthly billing statement because the Transportation Officer
+is the only one responsible for assuring that the transportation services requested are
+for valid purposes. The Transportation Officer must understand and have access to
+financial data and rely on the controls in place to ensure that the information
+obtained is valid and funding is available. Sound financial management and internal
+controls for disbursing practices dictate that Certifying Officers be independent and
+organizationally separate whenever practical.
+
+Audit Response. The Deputy Chief Financial Officer, Under Secretary of Defense
+(Comptroller) comments are responsive to Recommendation B.2.b. and
+nonresponsive to Recommendation B.2.a. To ensure strong internal controls, the
+Certifying Officer must know the subject matter (that is, transportation), voucher
+preparation, appropriations, accounting classifications, and payment process.
+Although we agree with the Deputy Chief Financial Officer, Under Secretary of
+Defense (Comptroller) that the Transportation Officer is the most knowledgeable
+individual for assuring that the transportation services requested are valid, he is not
+the most knowledgeable individual on the obligation data supporting the 13,000
+LOAs. A representative from the Under Secretary of Defense (Comptroller) stated
+during a meeting with us on April 16, 2001, that a task force was formed to explore
+ways to provide the Transportation Offices with the additional funding knowledge
+but to date it has yet to occur. Current practice is asking the Transportation Officer
+to rely on the financial data even though during a 14-month period DFAS was unable
+to validate 73 percent of the financial data in PowerTrack. DFAS, which is
+knowledgeable in voucher preparation, appropriations, accounting classifications,
+and the payment process and has access to appropriations, should rely on the
+Transportation Officer with regard to the legality and validity of the shipment. The
+Transportation Officer acting as the accountable official would be responsible for the
+internal controls related to the shipment and approval of carrier payment; applicable
+DoD regulations; providing the Certifying Officer with timely and accurate data to
+ensure that payments are supportable, legal, and computed correctly; and timely
+reconciliation of possible or actual erroneous payments. The Transportation Officer
+will still be pecuniarily liable for erroneous payments made as a result of negligent
+performance of official duties. We request the Under Secretary of Defense
+(Comptroller) reconsider Recommendation B.2.a. and provide additional comments
+to the final report.
+
+
+
+
+                                      26
+B.3. We recommend that the Assistant Secretary of Defense (Command,
+Control, Communications, and Intelligence):
+
+       a. Establish guidance to clarify management responsibilities and ensure
+that the appropriate level of information security is applied and associated
+risks are assessed when using any information system that transmits, stores, or
+displays DoD information. The guidance should be specific to commercial off-
+the-shelf products and electronic commerce applications used but not owned
+by the Government, such as PowerTrack®.
+
+      b. Establish standard contracting language for all information systems
+contracts. The contracting language should identify the responsibilities for
+ensuring compliance with financial management systems requirements and
+systems and data security for electronic commerce applications that are used
+but not owned by the Government.
+
+       c. Update policy to establish the applicability of Defense Information
+Technology Security Certification and Accreditation Process to commercial
+off-the-shelf products and electronic commerce applications used but not
+owned by the Government, such as PowerTrack®.
+
+      d. Provide guidance to clarify the Designated Approving Authority
+responsibilities with respect to the coverage of DoD-wide information systems
+including the use of commercial off-the-shelf products and electronic
+commerce applications, such as PowerTrack®.
+
+      e. Validate the security connection and all security controls associated
+with using PowerTrack®.
+
+Management Comments. The Deputy Chief Information Officer, Assistant
+Secretary of Defense (Command, Control, Communications, and Intelligence)
+concurred in principle with all recommendations, stating that current guidance
+already exists that describes management responsibilities with regard to systems
+security and risk assessments and the Designated Approving Authority. A
+distinction was made between commercial off-the-shelf products and electronic
+commerce applications. A new 8500-series Information Assurance policy is being
+issued that will consolidate current guidance and policies and include additional
+policy and procedures that will explicitly address commercial off-the-shelf products
+and electronic commerce applications, such as PowerTrack®. Management is
+working with the Under Secretary of Defense for Acquisition, Technology, and
+Logistics to determine whether additional contracting language is necessary.
+Management stated that DITSCAP instructions are also being reviewed and will
+incorporate instructions on commercial off-the-shelf products and electronic
+commerce applications. Management has already taken action to validate the use
+of ActiveX mobile code to ensure its use complies with DoD policy.
+
+
+
+
+                                     27
+Audit Response. The Deputy Chief Information Officer, Assistant Secretary of
+Defense (Command, Control, Communications, and Intelligence) comments are
+partially responsive. Management validated and approved the use of ActiveX
+mobile code in the PowerTrack® application, however, no specific actions were
+discussed about actions taken to validate the security controls in PowerTrack.
+Therefore, management is requested to provide additional comments to the final
+report on Recommendation B.3.e. explaining specific actions planned and expected
+completion date for validating the security controls in PowerTrack.
+
+B.4. We recommend that the U.S. Transportation Command:
+
+      a. Ensure that each transportation office assigns an individual who is
+not involved in payment approving and certifying processes to administer and
+control PowerTrack® profiles.
+
+      b. Implement Public Key Infrastructure access based on Federal
+Information Protection Standard 228, level 2 for all PowerTrack®
+transactions, access, and data transmission.
+
+     c. Revise the Defense Transportation Regulation to reflect the current
+automated transportation freight payment process.
+
+      d. Ensure that Transportation Officers are trained and fully understand
+the transportation payment process and functionality of PowerTrack®.
+
+     e. Develop and implement standard operating procedures to establish
+and monitor PowerTrack® access, user privileges and carrier profiles.
+
+Management Comments. The Assistant Deputy Under Secretary of Defense
+(Transportation Policy) coordinated her response with the U.S. Transportation
+Command. Management concurred with Recommendation B.4.c. stating that the
+Defense Transportation Regulation was updated and reflected the current process
+for all transportation modes. Management concurred with
+Recommendation B.4.c., and concurred in principle with Recommendations
+B.4.a., B.4.b., B.4.d., and B.4.e. stating that the actions recommended are
+needed, but did not believe that U.S. Transportation Command is responsible for
+implementing the recommended actions and believes that Recommendations B.4.a.,
+B.4.b., B.4.d., and B.4.e. are more appropriately suited for the Military
+Components and Defense agencies.
+
+Audit Response. Management comments are nonresponsive. We believe that the
+U.S. Transportation Command needs to take responsibility for the automated
+transportation payment process and ensure that management controls are
+established and effective to safeguard DoD assets. We request that the Under
+Secretary of Defense for Acquisition, Technology, and Logistics reconsider its
+responsibilities and provide comments to Recommendations B.4.a., B.4.b., B.4.c.,
+and B.4.d. on the final report.
+
+
+
+
+                                   28
+B.5. We recommend that the each of the Chief Information Officer of the
+Military Components:
+
+      a. Ensure that the System Security Authorization Agreement associated
+with each transportation office includes the PowerTrack® application.
+
+      b. Disable the downloading and execution of all mobile code on all local
+systems unless the mobile code is compliant with DoD policy.
+
+Army Comments. The Army did not comment on the draft of this report.
+
+Navy Comments. The Navy concurred with the recommendations, stating that it
+will ensure that System Security Authorization Agreements associated with each
+transportation office are updated to include the PowerTrack® application and ensure
+that all mobile code is executed in compliance with DoD policy.
+
+Air Force Comments. The Air Force concurred with the
+Recommendation B.5.b., stating that it will issue instruction for all relevant parties
+to comply with DoD mobile code policy. The Air Force did not comment on
+Recommendation B.5.a.
+
+Audit Response. The Navy comments are fully responsive. The Air Force
+comments are responsive on Recommendation B.5.b. We request that the Army
+provide comments on the final report and that the Air Force provide comments on
+Recommendation B.5.a. on the final report.
+
+
+
+
+                                      29
+Appendix A. Audit Process
+
+Scope and Methodology
+    Work Performed. We evaluated the controls over the automated transportation
+    freight payment process, data accuracy, financial reporting requirements, and the
+    implementation of the PowerTrack® service. Specifically, in February 2000, we
+    judgmentally selected 12 transportation offices from a universe of 440 offices using
+    PowerTrack® to review their automated transportation payment process. The sites
+    visited included two Army, two Air Force, three Navy, three Defense Logistics
+    Agency activities, and two Defense Contract Management Agency activities. The
+    sites were selected based on geographic location, volume of transactions processed
+    through PowerTrack®, and Defense activity.
+
+    At 11 of the 12 sites, we reviewed monthly bank statements certified during the
+    months of December 1999 through March 2000. We reviewed 1,833 transactions
+    processed on 19 certified monthly bank statements. We interviewed personnel
+    involved in the transportation payment process including Transportation Officers
+    and Funds Managers. We extracted and analyzed PowerTrack® data processed
+    from February 1999 through May 2000. We researched laws and regulations
+    governing financial reporting requirements. We met with representatives from the
+    Office of the Assistant Deputy Under Secretary of Defense (Transportation
+    Policy); DFAS; the DoD transportation community; PricewaterhouseCoopers,
+    Limited Liability Partnership; and U.S. Bank.
+
+    DoD-Wide Corporate Level Government Performance and Results Act
+    Goals. In response to the Government Performance and Results Act, the
+    Secretary of Defense annually establishes DoD-wide corporate level goals,
+    subordinate performance goals, and performance measures. This report pertains
+    to achievement of the following goals, subordinate performance goals and
+    performance measures.
+
+    FY 2001 DoD Corporate Level Goal 2: Prepare now for an uncertain future by
+    pursuing a focused modernization effort that maintains U.S. qualitative superiority
+    in key warfighting capabilities. Transform the force by exploiting the Revolution
+    in Military Affairs, and reengineer the Department to achieve a 21st century
+    infrastructure. (01-DoD-2)
+
+           •   FY 2001 Subordinate Performance Goal 2.4: Meet combat forces’
+               needs smarter and faster, with products and services that work better
+               and cost less, by improving the efficiency of DoD acquisition processes.
+               (01-DoD-2.4) FY 2001 Performance Measure 2.4.5: Percentage of
+               DoD Paperless Transactions. (01-DoD-2.4.5)
+
+           •   FY 2001 Subordinate Performance Goal 2.5: Improve DoD financial
+               and information management. (01-DoD-2.5) FY 2001 Performance
+               Measure 2.5.3: Qualitative Assessment of Reforming Information
+               Technology Management. (01-DoD-2.5.3)
+
+
+
+
+                                         30
+DoD Functional Area Reform Goals. Most major DoD functional areas have
+also established performance improvement reform objectives and goals. This
+report pertains to achievement of the following functional area objectives and
+goals.
+
+       •   Financial Management Functional Area. Objective: Consolidate
+           finance and accounting operations. Goal: Reduce and improve
+           accounting systems. (FM-2.2)
+
+       •   Financial Management Functional Area. Objective: Eliminate
+           problem disbursements. Goal: Reduce problem disbursements by over
+           60 percent. (FM-3.1)
+
+       •   Financial Management Functional Area. Objective: Strengthen
+           internal controls. Goal: Improve compliance with the Federal
+           Managers’ Financial Integrity Act. (FM-5.3)
+
+GAO High-Risk Area. The GAO has identified several high-risk areas in the
+DoD. This report provides coverage of the Defense Financial Management
+high-risk area.
+
+Use of Computer-Processed Data. To achieve the audit objectives, we relied on
+computer-processed data contained in PowerTrack®. Our review of data processed
+through the system showed an error rate that questions the validity of the data.
+However, when the data are reviewed in context with other available evidence, we
+believe that the opinions, conclusions, and recommendations in this report are
+valid.
+
+Audit Type, Dates, and Standards. We performed this financial-related
+program audit from October 1999 through February 2001, in accordance with
+auditing standards issued by the Comptroller General of the United States, as
+implemented by the Inspector General, DoD. We did our work in accordance
+with generally accepted Government auditing standards except that we were
+unable to obtain an opinion on our system of quality control. The most recent
+external quality control review was withdrawn on March 15, 2001, and we will
+undergo a new review.
+
+Universe and Sample. Of 440 total transportation offices identified by
+U.S. Bank, we judgmentally sampled 12 transportation offices. At 11 of the 12
+sites, we extracted and totaled, by site, for each month, the number of commercial
+freight shipments and electronic bills with the corresponding dollar amount,
+number of transportation control numbers and LOAs processed through
+PowerTrack®.
+
+Use of Technical Assistance. The Quantitative Methods Division of the Office of
+Assistant Inspector General for Auditing assisted the audit by computing late
+payment charges incurred from January 2000 through September 2000. The
+charges were computed based on simple interest computations assuming an annual
+interest rate of 6.75 percent and 365 days in a year. Interest was calculated based
+on past due DoD PowerTrack® balances on intervals of 15 days, 45 days,
+75 days, 105 days, 135 days, and 165 days during the period.
+
+
+
+
+                                     31
+     Contacts During the Audit. We visited or contacted individuals and organizations
+     within DoD; PricewaterhouseCoopers, Limited Liability Partnership; and
+     U.S. Bank. Further details are available upon request.
+
+Management Control Program Review
+     DoD Directive 5010.38, “Management Control (MC) Program,” August 26,
+     1996, and DoD Instruction 5010.40, “Management Control (MC) Program
+     Procedures,” August 28, 1996, require DoD organizations to implement a
+     comprehensive system of management controls that provides reasonable
+     assurance that programs are operating as intended and to evaluate the adequacy
+     of the controls.
+
+     Scope of the Review of the Management Control Program. We reviewed the
+     adequacy of management controls over the automated transportation payment
+     process accomplished through the PowerTrack® service. Specifically, we reviewed
+     transportation office management controls over approving carrier payments,
+     certifying monthly invoices, and system security. We did not review
+     management’s self-evaluation applicable to those controls because the PowerTrack®
+     service was not fully implemented or operational.
+
+     Adequacy of Management Controls. We identified material management control
+     weaknesses within the automated transportation payment process and PowerTrack®
+     service as defined by DoD Instruction 5010.40. The management controls over the
+     automated transportation payment process and PowerTrack® service were not
+     adequate to ensure DoD resources were safeguarded. For a detailed discussion on
+     the management control weaknesses identified during our review, see finding B of
+     the report. A copy of the report will be provided to the senior official responsible
+     for management controls in the Office of the Under Secretary of Defense for
+     Acquisition, Technology, and Logistics.
+
+Prior Coverage
+General Accounting Office
+     GAO Report No. NSIAD-00-72 (OSD Case No. 2014), “Defense Management:
+     Actions Needed to Sustain Reform Initiatives and Achieve Greater Results,”
+     July 25, 2000
+
+     GAO Report No. NSIAD-00-108 (OSD Case No. 2006), “Defense Management:
+     Electronic Commerce Implementation Strategy Can Be Improved,” July 18, 2000
+
+     GAO Report No. NSIAD-00-7 (OSD Case No. 1890), “Defense Transportation:
+     Process Reengineering Could Be Enhanced by Performance Measures,”
+     December 20, 1999
+
+     GAO Testimony No. T-AMID/NSIAD-00-264, “Implication of Financial
+     Management Issues,” testimony of Jeffrey C. Steinhoff before the Task Force on
+     Defense and International Relations, Committee on the Budget, House of
+     Representatives, release date July 20, 2000
+
+
+
+                                          32
+     GAO, “Results of FY 1999 Financial Audit of the Department of Defense,”
+     testimony of Jeffrey C. Steinhoff before a hearing of the Subcommittee on
+     Government Management, Information, and Technology, release date May 9, 2000
+
+
+Inspector General
+     Inspector General, DoD, Report No. 96-044, “Freight Shipment Deliveries,”
+     December 12, 1995
+
+     Inspector General, DoD, Report No. 98-016, “Controls over Government Bills of
+     Lading,” November 3, 1998
+
+     Inspector General, “Department of Defense Financial Management,” testimony of
+     Robert J. Lieberman before the Task Force on Defense and International Relations,
+     House Committee on the Budget, release date July 20, 2000
+
+     Inspector General, “Results of FY 1999 Financial Audit of the Department of
+     Defense,” testimony of Robert J. Lieberman - Assistant Inspector General for
+     Auditing, Department of Defense, before a hearing of the Subcommittee on
+     Government Management, Information, and Technology, release date May 9, 2000
+
+
+
+
+                                        33
+                   1                                                                                                 Carrier
+                       Obtain
+                                L OA
+      Requestor                              $   $                                        nt                                                   8
+                                               $                           4       Shipme n
+                                                                                        a tio
+                                                                                  inform
+
+
+                                                                                                                                        U.
+                                             Fund
+                                                                                                                                          S
+                                           Fund
+                                           Manager                                                                                            .B
+                                                                                                                                                 a
+                                                                                                                           6
+                                          Manager              Shipper
+                                                                                                                                                nk
+                                                                                                                                                     pa
+
+
+                                                               System
+                                                                                                                                                        y
+
+
+
+
+                                                                                              5                             No
+                                                                                                                                                       sc
+
+
+
+
+       request
+                                              ion                                                                              tif
+
+
+
+
+      Shipment
+                                                                                                                                   i
+                                                                                                                                                        ar
+                                                                                                                                                                                Process
+
+
+
+
+                                       f ormat                                                     Shi
+                                                                                                       p
+                                  i   n
+                                                                                                                                                           rie
+
+
+
+
+                                                                                                           me                de es b
+                                                                                                                                                               r
+
+
+
+
+                         ent                                                                                                     liv an
+                                                                                                                                                             s
+
+
+
+
+                                                                                                             nt i
+                  3 Shipm                                                                                         nfo                er k
+      2                                                  9                                                            rm
+                                                                                                                        atio           y of
+
+
+
+
+34
+                                                                                                                            n
+                                                                      U.S. B
+                                                                               ank in
+                                                                                        v oi c e
+
+                                                     9       U.S. Bank invoice
+                                                             Approves carrier payments
+
+     Transportation                                  7                                                                                        PowerTrack(R)
+        Officer                                                                                                                                U.S. Bank
+                    10
+                            Certifie
+                                     s                                                                                    nk
+                           invoice U.S. Bank                                                                     .   Ba
+                                   for pay                                                                   U.S
+                                          ment                                                11      ys
+                                                                                                    Pa
+                                                                                                                                Manual Process
+                                                                                                                                Electronic Process
+                                                                  DFAS
+                                                                                                                                Future Proposed Process
+                                                                  Center
+                                                                                                                                                                   Appendix B. Automated Transportation Payment
+Implementation Steps
+    1.   Requestor obtains the designated and funded LOA for the shipment from the
+         Funds Manager.
+
+    2.   Requestor provides shipment request to the Transportation Officer.
+
+    3.   Shipment information is entered into the shipper systems (Defense Supply
+         Services/Electronic Transportation Acquisition/Cargo Movement Operation
+         Systems) and carriers are assigned.
+
+    4.   Carrier picks up shipment and a hardcopy of the bill of lading.
+
+    5.   Shipment information is released to PowerTrack® from the shipper systems.
+
+    6.   The carrier delivers the shipment and enters notice of delivery into
+         PowerTrack®. The invoice is then generated using one of the following
+         invoicing methods.
+
+             Self Invoicing. The invoice is generated using the Transportation Officer
+             shipping data.
+
+             Matching. Two invoices are generated. One invoice is generated using
+             the Transportation Officer shipping data (self invoicing) and the other
+             invoice is generated using the carriers shipping data (carrier invoicing).
+             The invoices are matched electronically in PowerTrack®.
+
+             Carrier Invoicing. The invoice is generated using the carrier’s shipping
+             data.
+
+    7.   Carrier payments are approved. U.S. Bank defines the method of approval in
+         PowerTrack® by carrier and the transportation office.
+
+             Manual Approval. Transportation Officer manually reviews and
+             approves carrier payment in PowerTrack® after the carrier posts the
+             notice of delivery in PowerTrack®.
+
+             Automatic Approval. PowerTrack® automatically approves carrier
+             payment without the Transportation Officer review once the carrier posts
+             the notice of delivery in PowerTrack®.
+
+    8.   U.S. Bank pays carrier based on approved invoice.
+
+    9.   Transportation office in coordination with the Funds Managers’ review
+         U.S. Bank monthly invoice to ensure it reflects appropriate LOAs and actual
+         carrier charges.
+
+    10. Transportation Officer certifies U.S. Bank monthly invoice and submits it to
+        DFAS for payment to U.S. Bank.
+
+    11. DFAS pays U.S. Bank.
+
+
+
+                                         35
+Appendix C. Examples of Lines of Accounting
+   We randomly selected 15 LOAs for review. Nine LOAs were selected from the
+   Transportation Officer's certified invoices and the other six LOAs were selected
+   from the PowerTrack® system April 2000 invoices. Of the 15 LOAs reviewed,
+   9 LOAs were inaccurate.
+
+  Army Lines of Accounting. We reviewed five Army LOAs. Four of the LOAs
+  were inaccurate. For example, one LOA identified the expenditure of Army
+  Procurement funds belonging to the Army Tank Automotive Command that were
+  used for the Heavy Tactical Vehicles Program. The LOA also identified that the
+  funds were used for commercial land transportation. The program identification code
+  for the Heavy Tactical Vehicles Program and the fiscal year were incorrectly stated.
+  Transportation of Things object class for the Army Tank Automotive Command,
+  Heavy Tactical Vehicles program makes up less than 0.78 percent of the total
+  FY 2000 Heavy Tactical Vehicles Program budget.
+
+  Navy Lines of Accounting. We reviewed two different Navy LOAs that were
+  extracted from the PowerTrack® database. According to the Navy, the LOAs were
+  missing the accounting classification reference number. In addition, one LOA was
+  missing the standard document number and the other was missing the fiscal year.
+  The LOAs identified Operation and Maintenance Navy appropriation allocated to
+  the Naval Transportation Support Center which centrally manages the Naval Supply
+  System Command Operation and Maintenance funds for the Transportation of
+  Things object class. Transportation represents roughly 44 percent of the total
+  FY 2000 Naval Supply System Command total Operation and Maintenance budget.
+
+  Marine Corps Lines of Accounting. We reviewed one Marine Corps LOA, which
+  was incorrect because the fiscal year and transportation account code did not agree.
+  The fiscal year annotated in the LOA identified Headquarters, Marine Corps
+  Operation and Maintenance funds for FY 1999 for the Transportation of Things
+  object class. The transportation account code, MG50, was a FY 2000 code.
+  Nevertheless, the Transportation Officer certified the LOA and submitted it to DFAS
+  for payment. The Marine Corp funds for the Transportation of Things object class
+  were centrally managed and represented less than one percent of Headquarters,
+  Marine Corps Operation and Maintenance funds.
+
+  Air Force Lines of Accounting. We reviewed three Air Force LOAs and one was
+  inaccurate. The Transportation Officer certified an invoice with an inaccurate LOA.
+  The LOA misstated the Operation and Maintenance appropriation code. The LOA
+  identified the Air Combat Command, 1st Fighter Wing, Traffic Management
+  Squadron at Langley Air Force Base, FY 2000 Operation and Maintenance funds for
+  the Transportation of Things object class. For FY 2000, Transportation of Things
+  object class represents roughly .06 percent of the 1st Fighter Wing Operation and
+  Maintenance budget.
+
+  Defense Logistics Agency Lines of Accounting. We reviewed four LOAs belonging
+  to the Defense Logistics Agency working capital fund. According to the Defense
+  Logistics Agency, only one of the LOAs contained an error. The object class was
+  alphanumeric and not numeric. For FY 1999 and FY 2000 Transportation of Things
+  object class represented roughly 0.0025 percent and 0.0036 percent, respectively, of
+  Defense Logistics Agency working capital fund budget.
+
+                                        36
+Appendix D. Criteria
+   Section 3512, Title 31, United States Code. The U.S. Code requires agencies
+   to establish and maintain systems of accounting and internal controls to provide
+   adequate financial information the agency needs for management purposes. The
+   systems should also provide effective control over and accountability for assets
+   for which the agency is responsible.
+
+   Federal Financial Management Improvement Act (FFMIA). The FFMIA
+   requires agencies to implement and maintain financial management systems that
+   comply substantially with Federal financial management systems requirements,
+   applicable Federal accounting standards, and the Standard General Ledger at the
+   transaction level. In addition, the FFMIA states that financial management
+   systems include the financial systems and the financial portions of mixed systems
+   necessary to support financial management, including automated and manual
+   processes, procedures, controls, data, hardware, software, and support personnel
+   dedicated to the operation and maintenance of system functions.
+
+   Computer Security Act of 1987. The “Computer Security Act of 1987,” Public
+   Law 100-235, requires the establishment of security plans by agencies of Federal
+   computer systems that contain sensitive information. The Act defines a “Federal
+   computer system” as “. . . a computer system operated by a Federal agency or by
+   a contractor of a Federal agency or other organization that processes information
+   on behalf of the Federal Government to accomplish a Federal function . . .”. The
+   Act defines the term “sensitive information” to mean “. . . any information, the
+   loss, misuse, or unauthorized access to or modification of which could adversely
+   affect the … conduct of Federal programs, or the privacy to which individuals are
+   entitled under 5 U.S.C. 552a (the Privacy Act).” PowerTrack®, by virtue of its
+   application within DoD, is a Federal computer system and contains sensitive data,
+   and the requirements established in Public Law 100-235 are applicable.
+
+   Prompt Payment Act. OMB final rule on the Prompt Payment Act, 5 Code of
+   Federal Regulations, Part 1315, and OMB Circular No. A-123, “Management
+   Accountability and Control,” which implements the Prompt Payment Act, requires
+   agency heads to issue internal procedures for monitoring the causes of late
+   payments and interest charges incurred. In addition, the agency head must ensure
+   that effective internal control systems are established and maintained.
+   Administrative activities required for payments to vendors under this part are
+   subject to periodic quality control validation to be conducted no less frequently than
+   once a year. Quality control processes will be used to confirm that controls are
+   effective and that processes are efficient. Each agency head is responsible for
+   establishing a quality control program in order to quantify payment performance,
+   qualify corrective actions, aid cash management decision-making, and estimate
+   payment performance if actual data are unavailable.
+
+   OMB Circular No. A-130. The OMB Circular No. A-130, “Management of
+   Federal Information Resources,” February 8, 1996, establishes policy for the
+   management of Federal information resources and links automated information
+   security programs and management control systems established in accordance with
+   OMB Circular A-123. The established criteria require that the automated
+   information systems safeguard information against tampering, loss, and
+   destruction. Automated information systems are defined as an assembly of
+
+                                        37
+computer hardware, software, firmware, or some combination of the three,
+configured to collect, create, communicate, compute, disseminate, process, store,
+or control data or information and includes application and operating system
+software. Because PowerTrack® is an integral part of the transportation payment
+process, the requirements established in OMB Circular A-130 are applicable.
+
+OMB Circular No. A-127. OMB Circular No. A-127, “Financial Management
+Systems,” revised June 10, 1999, outlines the financial management system
+requirements that are now statutorily required by the FFMIA. It prescribes policy
+and standards to follow in developing, operating, evaluating, and reporting on
+financial management systems. The financial management system requirements
+require compliance with security controls in accordance with the Computer Security
+Act of 1987 and OMB Circular A-130. It also requires a system of internal controls
+that ensures resources are used consistent with laws, regulations, and policies;
+resources are safeguarded against waste, loss, and misuse; and reliable data are
+obtained, maintained, and disclosed, as prescribed in OMB Circular A-123.
+Financial management systems are defined as information systems that collect,
+process, maintain, or transmit financial events to support financial management.
+PowerTrack® collects, maintains, and transmits financial data and is integral to the
+financial management of transportation and therefore is considered a financial
+management system.
+
+OMB Circular No. A-123. OMB Circular No. A-123, “Management
+Accountability and Control,” June 21, 1995, incorporates provisions of the Federal
+Managers’ Financial Integrity Act. OMB Circular A-123 provides guidance to
+Federal managers on improving accountability and effectiveness as they reengineer
+agency operations and programs. It requires that management controls be
+established to ensure that laws and regulations are followed; intended results are
+achieved; programs and resources are protected from waste, fraud and
+mismanagement; and information is reliable, timely, and available for decision
+making.
+
+GAO Publication GAO/AIMD-00-21.3.1. GAO Publication
+GAO/AIMD-00-21.3.1, “Standards for Internal Control in the Federal
+Government,” November 1999, establishes the overall framework for controls in
+the Federal Government. The five standards for internal controls are Control
+Environment, Risk Assessment, Control Activities, Information and
+Communications, and Monitoring. The standards require the minimum level of
+quality acceptable for internal controls in the Government and provide the basis
+against which all are to be evaluated and applied to all aspects of an agency's
+operations.
+
+DoD Directive 5200.28. DoD Directive 5200.28, “Security Requirements for
+Automated Information Systems,” March 21, 1988, applies to all automated
+information systems including application system software. DoD
+Directive 5200.28 incorporates requirements of OMB Circular A-130. DoD
+Directive 5200.28 states that each Component head shall assign a Designated
+Approving Authority that is responsible for the accreditation of each automated
+information system.
+
+       •   Accreditation is the formal declaration of the automated information
+           system or application to operate. The accreditation is based on a
+           certification process.
+
+
+                                    38
+       •   Certification is a comprehensive evaluation of the technical and non-
+           technical security features of an information technology system and
+           other safeguards made in support of the accreditation process.
+
+DoD Directive 5200.28 also outlines the minimum system security necessary for
+automated information systems. Each automated information system should
+safeguard information against tampering, loss, and destruction. Because
+PowerTrack® service is part of the DoD automated transportation payment process,
+the automated information systems requirements established in DoD
+Directive 5200.28 are applicable.
+
+DoD Instruction 5200.40. DoD Instruction 5200.40, “Defense Information
+Technology Certification and Accreditation Process,” December 30, 1997,
+implements the system security requirements identified in Public Law 100-235,
+“Computer Security Act of 1987,” OMB Circular A-130, and DoD
+Directive 5200.28. DoD Instruction 5200.40 prescribes procedures for the
+certification and accreditation process with an emphasis on the system life-cycle
+management approach. In addition, it creates a process for the Certification and
+Accreditation of DoD systems. DoD Instruction 5200.40 is applicable to the DoD
+Components and their contractors, including U.S. Bank, and any system
+incorporated into a DoD infrastructure, including PowerTrack®. It applies to the
+acquisition, operation, and sustainment of any DoD system that collects, stores,
+transmits, or processes information including PowerTrack®.
+
+
+
+
+                                     39
+Appendix E. Report Distribution
+
+Office of the Secretary of Defense
+Under Secretary of Defense for Acquisition, Technology, and Logistics
+  Assistant Deputy Under Secretary of Defense (Transportation Policy)
+Under Secretary of Defense (Comptroller)
+  Deputy Chief Financial Officer
+  Deputy Comptroller (Program/Budget)
+Assistant Secretary of Defense (Command, Control, Communications, and Intelligence)
+
+Department of the Army
+Auditor General, Department of the Army
+Commander, Army Materiel Command
+Commander, Blue Grass Army Depot
+Commander, Fort Knox
+
+Department of the Navy
+Commandant, Marine Corps
+Naval Inspector General
+Auditor General, Department of the Navy
+Commander, Naval Air Systems Command
+  Commanding Officer, Naval Air Station Oceana
+Commander, Naval Supply Systems Command
+  Commanding Officer, Fleet and Industrial Supply Center Norfolk
+Commander, Space and Naval Warfare Systems Command
+
+Department of the Air Force
+Assistant Secretary of the Air Force (Financial Management and Comptroller)
+Auditor General, Department of the Air Force
+Commander, Air Force Materiel Command
+Commander, Langley Air Force Base
+Commander, Wright-Patterson Air Force Base
+
+Unified Command
+Commander in Chief, U.S. Transportation Command
+
+
+
+
+                                          40
+Other Defense Organizations
+Director, Defense Contract Management Agency
+   Defense Contract Management District East
+      Defense Contract Management Command Dayton
+   Defense Contract Management District West
+      Defense Contract Management Command San Diego
+Director, Defense Finance and Accounting Service
+   Cleveland
+      Norfolk
+   Columbus
+   Denver
+      Dayton
+   Indianapolis
+   Kansas City
+Director, Defense Information Security Agency
+Director, Defense Logistics Agency
+   Defense Distribution Center
+      Defense Depot Center Susquehanna
+      Defense Distribution Depot Center Norfolk
+      Defense Distribution Depot Center San Diego
+
+Non-Defense Federal Organizations
+Office of Management and Budget
+
+Congressional Committees and Subcommittees, Chairman and
+  Ranking Minority Member
+Senate Committee on Appropriations
+Senate Subcommittee on Defense, Committee on Appropriations
+Senate Committee on Armed Services
+Senate Committee on Governmental Affairs
+House Committee on Appropriations
+House Subcommittee on Defense, Committee on Appropriations
+House Committee on Armed Services
+House Committee on Government Reform
+House Subcommittee on Government Efficiency, Financial Management, and
+  Intergovernmental Relations, Committee on Government Reform
+House Subcommittee on National Security, Veterans Affairs, and International Relations,
+  Committee on Government Reform
+House Subcommittee on Technology and Procurement Policy, Committee on Government
+  Reform
+
+
+
+
+                                          41
+Under Secretary of Defense (Comptroller)
+ Comments
+
+
+
+
+                       43
+44
+45
+46
+Under Secretary of Defense for Acquisition,
+ Technology, and Logistics Comments
+
+                                                 Final Report
+                                                  Reference
+
+
+
+
+                                              Revised and
+                                              renumbered as
+                                              Recommendation
+                                              B.1.a.
+
+
+
+
+                        47
+48
+       Final Report
+        Reference
+
+
+
+
+     Revised and
+     renumbered as
+     Recommendation
+     B.1.a.
+
+
+
+
+     Renumbered as
+     Recommendation
+     B.1.b.
+
+
+
+
+49
+50
+     Final Report
+      Reference
+
+
+
+
+51
+Final Report
+ Reference
+
+
+
+
+Page 7 & 8
+
+
+
+
+  Page 14
+
+
+
+
+               52
+     Final Report
+      Reference
+
+
+
+
+       Page 14
+
+
+
+
+       Page 16
+
+
+
+
+       Page 16
+
+
+
+
+       Page 18
+
+
+
+
+53
+  Final
+ Report
+Reference
+
+
+
+
+Page 19
+
+
+
+Page 20
+
+
+
+
+Page 22
+
+
+
+
+Page 26
+
+
+
+
+Page 26
+
+
+
+
+Page 29
+
+
+
+
+            54
+     Final Report
+      Reference
+
+
+
+
+       Page 35
+
+
+
+
+55
+Assistant Secretary of Defense (Command, Control,
+ Communications, and Intelligence) Comments
+
+
+
+
+                       56
+57
+Department of the Navy Comments
+
+
+
+
+                     58
+Department of the Air Force Comments
+
+
+
+
+                      59
+Audit Team Members
+The Finance and Accounting Directorate, Office of the Assistant Inspector General for
+Auditing, DoD, prepared this report. Personnel of the Office of the Inspector General,
+DoD, who contributed to the report are listed below.
+
+Paul J. Granetto
+Richard B. Bird
+Addie M. Beima
+Danny B. Convis
+Suellen R. Brittingham
+Dorothy Jones
+Carolyn J. Davis
+Stacey A. Sowers
+Shanell T. Deal
+Brentley B. Roberts
+Joyce L. Clayton
+Innocencio E. Penaranda
+Wen-Tswan Chen
+

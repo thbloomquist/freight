@@ -1,0 +1,665 @@
+                         IN THE UNITED STATES DISTRICT COURT
+                              FOR THE DISTRICT OF KANSAS
+
+SOUTHERN FURNITURE LEASING, INC.,           )
+                                            )
+                         Plaintiff,         )                       CIVIL ACTION
+                                            )
+v.                                          )                       No. 19-2129-KHV
+                                            )
+YRC, INC., YRC WORLDWIDE INC.,              )
+ROADWAY EXPRESS, INC. and                   )
+YELLOW TRANSPORTATION, INC.,                )
+                                            )
+                         Defendants.        )
+____________________________________________)
+
+                                 MEMORANDUM AND ORDER
+
+          On June 21, 2019, Southern Furniture Leasing, Inc., on behalf of itself and others similarly
+
+situated, filed suit against YRC, Inc., YRC Worldwide Inc., Roadway Express, Inc. and Yellow
+
+Transportation, Inc. First Amended Class Action Complaint (Doc. #10). Plaintiff alleges that
+
+defendants systematically overcharged customers for shipments, and bring claims for breach of
+
+contract (Count 1), breach of the duty of good faith and fair dealing (Count 2), unjust enrichment
+
+(Count 3) and violation of the Florida Deceptive and Unfair Trade Practices Act, Fla. Stat.
+
+§ 501.201 (Count 4). This matter is before the Court on Defendants’ Motion To Dismiss Amended
+
+Complaint (Doc. #12) filed July 2, 2019. For reasons stated below, the Court sustains defendants’
+
+motion.
+
+                                        Factual Background
+
+       Highly summarized, plaintiff’s complaint alleges the following:
+
+       Plaintiff is a business that rents furniture to various individuals and other businesses.
+
+Plaintiff entered into a contract with defendants whereby defendants would ship its goods pursuant
+
+to a standard bill of lading.       This form agreement requires customers to provide certain
+information, including the weight of the shipment. The weight of the shipment primarily drives
+
+the price that defendants charge for a given shipment. The agreement provides that the weight will
+
+be subject to correction and that the shipping charges will ultimately reflect the actual weight of
+
+the goods that defendants ship. Accordingly, for many years, defendants would reweigh shipments
+
+and correct the weight in their billing system to accurately reflect the actual weight of a given
+
+shipment. Where the actual weight of a shipment was greater than initially indicated (“positive
+
+reweighs”), the price that the customer owed increased. Where the actual weight of a shipment
+
+was less than initially indicated (“negative reweighs”), the price decreased. By 2006, however,
+
+defendants instituted a practice whereby it systematically and deliberately eliminated any negative
+
+reweighs from registering in its customer billing system. As a result, defendants overcharged their
+
+customers, who were unaware of this practice.
+
+       Plaintiff brings claims for breach of contract (Count 1), breach of the duty of good faith
+
+and fair dealing (Count 2), unjust enrichment (Count 3) and violation of the Florida Deceptive and
+
+Unfair Trade Practices Act (Count 4). Plaintiff seeks to recover on its own behalf and on behalf
+
+of two putative classes. The first putative class consists of “[a]ll persons or entities who reside in
+
+the United States who, from March 1, 2006 through the date of class certification, entered into a
+
+standard contract with [defendants] and whose charges were not credited for a negative reweigh.”
+
+First Amended Class Action Complaint (Doc. #10) ¶ 18. The second putative class consists of
+
+“[a]ll persons or entities who reside in Florida who, from March 1, 2006 through the date of class
+
+certification, entered into a standard contract with [defendants] and whose charges were not
+
+credited for a negative reweigh.” Id. ¶ 19.
+
+
+
+
+                                                 -2-
+                                         Legal Standards
+
+       Defendants assert that the Court should dismiss plaintiff’s claims under Fed. R. Civ P.
+
+12(b)(1) and 12(b)(6) because (1) the Court does not have subject matter jurisdiction and
+
+(2) plaintiff’s amended complaint fails to state a claim upon which relief can be granted.1
+
+       When defendants seek dismissal under Rule 12(b)(1) and 12(b)(6) in the alternative, the
+
+Court must first decide the motion under Rule 12(b)(1) because the latter challenge would be moot
+
+if the Court lacks subject matter jurisdiction. See Creamer v. Gildemeister, No. 15-4871-KHV,
+
+2015 WL 6828186, at *2 (D. Kan. Nov. 6, 2015). Dismissal pursuant to Rule 12(b)(1) is
+
+appropriate when the Court lacks subject matter jurisdiction over a claim for relief. The party
+
+asserting jurisdiction has the burden of establishing subject matter jurisdiction. Id. (citing Port
+
+City Props. v. Union Pac. R.R. Co., 518 F.3d 1186, 1189 (10th Cir. 2008)).
+
+       In ruling on a motion to dismiss under Rule 12(b)(6), the Court assumes as true all well-
+
+pleaded factual allegations and determines whether they plausibly give rise to an entitlement of
+
+relief. Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009). To survive a motion to dismiss, a complaint
+
+must contain sufficient factual matter to state a claim which is plausible – and not merely
+
+conceivable – on its face. Id. at 679-80; Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555 (2007).
+
+To determine whether a complaint states a plausible claim for relief, the Court draws on its judicial
+
+experience and common sense. Iqbal, 556 U.S. at 679. Plaintiff makes a facially plausible claim
+
+when it pleads factual content from which the Court can reasonably infer that defendants are liable
+
+for the misconduct alleged. Id. at 678. However, plaintiff must show more than a sheer possibility
+
+
+
+       1
+               For purposes of this motion, the Court will only consider plaintiff’s claims, and not
+those of the two putative classes. If plaintiff does not have viable claims, it cannot represent the
+putative classes on those claims. See Jenkins v. CARCO Grp., Inc., 339 F. Supp. 3d 1223, 1231
+(D. Kan. 2018) (dismissing putative class claims because plaintiff’s claims dismissed).
+
+
+                                                -3-
+that defendants have acted unlawfully – it is not enough to plead facts that are “merely consistent
+
+with” defendants’ liability. Id. (quoting Twombly, 550 U.S. at 557). Where the well-pleaded facts
+
+do not permit the Court to infer more than the mere possibility of misconduct, the complaint has
+
+alleged – but has not “shown” – that the pleader is entitled to relief. Id. at 679. The degree of
+
+specificity necessary to establish plausibility and fair notice depends on context; what constitutes
+
+fair   notice    under    Fed.    R.    Civ.     P.    8(a)(2)   depends    on     the   type    of
+
+case. Robbins v. Okla., 519 F.3d 1242, 1248 (10th Cir. 2008).
+
+       The Court need not accept as true those allegations which state only legal
+
+conclusions. See Iqbal, 556 U.S. at 678; Hall v. Bellmon, 935 F.2d 1106, 1110 (10th Cir. 1991).
+
+Rather, plaintiff bears the burden of framing its complaint with enough factual matter to suggest
+
+that it is entitled to relief; it is not enough to make threadbare recitals of a cause of action
+
+accompanied by conclusory statements. Twombly, 550 U.S. at 556. A pleading that offers labels
+
+and conclusions, a formulaic recitation of the elements of a cause of action or naked assertions
+
+devoid of further factual enhancement will not stand. Iqbal, 556 U.S. at 678.
+
+                                               Analysis
+
+I.     Subject Matter Jurisdiction
+
+       Defendants assert that the Court should dismiss plaintiff’s claims under Rule 12(b)(1)
+
+because the Court does not have subject matter jurisdiction. Generally, a Rule 12(b)(1) motion to
+
+dismiss for lack of subject matter jurisdiction takes one of two forms: a facial attack or a factual
+
+attack. Hall v. United States, No. 12-1387-KHV, 2013 WL 4047578, at *1 (D. Kan. Aug. 9, 2013).
+
+In a facial attack, a party questions the sufficiency of the complaint’s allegations as to subject
+
+matter jurisdiction. Id. (citing Holt v. United States, 46 F.3d 1000, 1002 (10th Cir. 1995)). In a
+
+
+
+
+                                                 -4-
+factual attack, by contrast, a party may go beyond allegations in the complaint and challenge the
+
+facts upon which subject matter jurisdiction depends. Id. (citing Holt, 46 F.3d at 1002).
+
+       Here, defendants facially attack the complaint by asserting that plaintiff’s allegations fail
+
+to establish subject matter jurisdiction. Defendants’ Motion To Dismiss Amended Complaint
+
+(Doc. #12) at 11-12. Specifically, defendants assert that the Court lacks subject matter jurisdiction
+
+because (1) plaintiff does not have Article III standing2 and (2) plaintiff did not adequately plead
+
+the required amount in controversy under the Class Action Fairness Act (“CAFA”).3
+
+       A.      Article III Standing
+
+       Defendants assert that plaintiff does not have Article III standing because it has not
+
+sufficiently alleged an injury. Article III of the U.S. Constitution limits the exercise of the federal
+
+judicial power to cases and controversies. U.S. Const. art. III, § 2. To satisfy Article III’s standing
+
+requirements, plaintiff must show that (1) it has suffered an “injury in fact” that is concrete and
+
+particularized and actual or imminent, (2) the injury is fairly traceable to the challenged action of
+
+defendants and (3) it is likely, as opposed to merely speculative, that a favorable decision will
+
+redress the injury. Parks, 2015 WL 7295457, at *6.
+
+       Here, defendants argue that plaintiff has not alleged an actual concrete injury because it
+
+has not identified an occasion when it paid more for an underweight shipment. According to
+
+
+
+       2
+               A motion to dismiss for lack of standing implicates the Court’s subject matter
+jurisdiction and, therefore, is construed pursuant to Rule 12(b)(1). See Parks v. Kiewel, No. 15-
+1196-JTM, 2015 WL 7295457, at *6 (D. Kan. Nov. 18, 2015).
+       3
+               Defendants also assert that the Court lacks subject matter jurisdiction because the
+Interstate Commerce Commission Termination Act (“ICCTA”) bars plaintiff’s suit. See 49 U.S.C.
+§ 13710(a)(3)(B). Whether the ICCTA bars plaintiff’s cause of action is not an issue of subject
+matter jurisdiction. The ICCTA is relevant to whether plaintiff has stated a claim upon which
+relief can be granted. Accordingly, the Court will construe defendants’ ICCTA argument as
+brought under Rule 12(b)(6), which the Court addresses below.
+
+
+                                                 -5-
+defendants, plaintiff has merely alleged that defendants instituted a practice of systematically
+
+eliminating negative reweighs, and not that plaintiff itself fell victim to the practice. Defendants
+
+are incorrect. Plaintiff specifically alleges that it entered an agreement with defendants that
+
+required defendants to charge based on the actual weight of shipments. First Amended Class
+
+Action Complaint (Doc. #10) ¶ 30, 32. Plaintiff also alleges that defendants violated this
+
+agreement by eliminating negative reweighs, causing plaintiff to pay more for shipments than it
+
+should have. Id. ¶ 40. These allegations are sufficient to show an actual concrete injury for the
+
+purposes of Article III standing.
+
+       B.      Amount-In-Controversy Under CAFA
+
+       Defendants assert that plaintiff’s allegations do not plausibly satisfy the $5,000,000
+
+amount-in-controversy requirement under CAFA. Under CAFA, the Court has jurisdiction to hear
+
+a class action if the class has more than 100 members, the parties are minimally diverse and the
+
+“matter in controversy exceeds the sum or value of $5,000,000.” Standard Fire Ins. Co. v.
+
+Knowles, 568 U.S. 588, 592 (2013) (citing 28 U.S.C. § 1332(d)(2), (d)(5)(B)). To determine
+
+whether the matter in controversy exceeds that sum, the Court aggregates the claims of the
+
+individual class members, which include “persons (named or unnamed) who fall within the
+
+definition of the proposed or certified class.” Id. (citing § 1332(d)(1)(D)) (emphasis in original).
+
+       Here, plaintiff has sufficiently pled the $5,000,000 amount-in-controversy requirement
+
+under CAFA. Specifically, plaintiff details the following:
+
+               Defendants have imposed the unlawful reweighing practices and fees on
+       more than 1,000 putative class members each year. Senior officers for
+       Defendants—as shown in internal documents discovered by the Department of
+       Justice during its investigation of these practices—estimated that by failing to credit
+       negative revised weights to customers, YR would retain approximately, $2 million
+       per month. Conservatively, that puts $12 million at issue per year, and—given that
+       this conduct extends to 2005, at least—more than $100 million at issue for YRC’s
+       unlawful reweighing practices alone.
+
+                                                -6-
+First Amended Class Action Complaint (Doc. #10) ¶ 9. Defendants assert that plaintiff cannot
+
+base its amount-in-controversy allegation on estimates of the revenue that the reweighing practice
+
+generated.
+
+       This argument is unpersuasive.       Plaintiff alleges that defendants’ reweighing practice
+
+caused it and the other class members to pay more for shipments than they should have. It also
+
+alleges that, as Department of Justice findings can show, this reweighing practice allowed
+
+defendants to wrongfully retain more than $100 million since 2005. In other words, the class
+
+members combined to lose approximately $100 million as a direct result of defendants’ reweighing
+
+practice. These allegations are sufficient for the purposes of pleading the amount-in-controversy
+
+under CAFA. Accordingly, the Court has subject matter jurisdiction.
+
+II.    Failure To State A Claim
+
+       Defendants assert that the Court should dismiss plaintiff’s claims because the ICCTA bars
+
+its cause of action.4 The ICCTA governs billing disputes between shippers and motor carriers.5
+
+49 U.S.C. § 13710(a)(3)(B). In relevant part, the ICCTA states as follows:
+
+       If a shipper seeks to contest the charges originally billed or additional charges
+       subsequently billed, the shipper may request that the [Surface Transportation
+       Board] determine whether the charges billed must be paid. A shipper must contest
+       the original bill or subsequent bill within 180 days of receipt of the bill in order to
+       have the right to contest such charges.
+
+
+
+       4
+              Defendants assert several other reasons why the Court should dismiss plaintiff’s
+claims under Rule 12(b)(6). Because the Court dismisses plaintiff’s claims on ICCTA grounds, it
+does not address defendants’ other arguments.
+       5
+               Here, the parties do not dispute that defendants are “motor carriers” for purposes of
+the ICCTA. See 49 U.S.C. § 13102(14) (defining “motor carrier” as “a person providing motor
+vehicle transportation for compensation”); see also Herrod v. Wilshire Ins. Co., 499 F. App’x 753,
+759 (10th Cir. 2012).
+
+
+                                                -7-
+Id. Plaintiff does not dispute that it failed to contest the alleged inflated bills within 180 days of
+
+receipt. Accordingly, defendants assert that pursuant to the ICCTA, plaintiff lost the right to
+
+contest the bills in a lawsuit. Plaintiff responds by asserting that (1) the ICCTA does not apply to
+
+its claims and (2) even if the ICCTA does apply, plaintiff complied with the statute by contesting
+
+the bills within 180 days of discovering the inflated charges.
+
+       A.       Application Of The ICCTA
+
+       Plaintiff asserts that the ICCTA does not apply to its claims because (1) the ICCTA only
+
+governs proceedings before the Surface Transportation Board (“the Board”), (2) it is not a
+
+“shipper” under the ICCTA and (3) its claims do not involve a “billing dispute.”
+
+               1.      The ICCTA Applied To Lawsuits
+
+       First, plaintiff asserts that the ICCTA does not apply to lawsuits in court, but instead applies
+
+only to proceedings before the Board. Under this interpretation, if a party fails to contest a bill
+
+within 180 days of its receipt, the ICCTA would prevent that party from challenging the bill in
+
+front of the Board, but would not prevent it from challenging the bill in court. This interpretation
+
+is unpersuasive. The goal of statutory interpretation is to “ascertain the congressional intent and
+
+give effect to the legislative will.” In re Taylor, 899 F.3d 1126, 1129 (10th Cir. 2018) (quoting
+
+Ribas v. Mukasey, 545 F.3d 922, 929 (10th Cir. 2008)). To do so, the Court first turns to the
+
+statute’s plain language, as the Court “must presume that a legislature says in a statute what it
+
+means and means in a statute what it says there.” In re McGough, 737 F.3d 1268, 1273 (10th Cir.
+
+2013). If the statute’s words are unambiguous, the plain meaning controls. See id. (when statute’s
+
+words are unambiguous, “judicial inquiry is complete”).
+
+       Here, under the plain and unambiguous language of the ICCTA, a party must contest a
+
+shipping bill within 180 days in order to have the right to contest the charges, whether in court or
+
+
+
+                                                 -8-
+in front of the Board. The first sentence of 49 U.S.C. § 13710(a)(3)(B) provides that if a shipper
+
+wants to contest a bill, it may bring its challenge in front of the Board. Thus, the first sentence is
+
+permissive: a shipper seeking to contest a bill can choose to bring its challenge before the Board,
+
+or it can choose not to. In other words, the shipper has the option to bring its challenge elsewhere,
+
+such as a lawsuit in court. By contrast, the second sentence of 49 U.S.C. § 13710(a)(3)(B) is
+
+mandatory – it provides that the shipper must contest the bill within 180 days of receipt in order to
+
+challenge the charges. Importantly, unlike the first sentence, the second sentence does not limit
+
+its mandate to challenges brought before the Board. Rather, it plainly states that a shipper must
+
+contest the bill within 180 days “in order to have the right to contest such charges” – it does not
+
+state “in order to have the right to contest such charges in front of the Board.” The Court declines
+
+to adopt plaintiff’s interpretation by rewriting the statute. Under its unambiguous language, a
+
+shipper does not have the right to contest a shipping bill, whether in court or in front of the Board,
+
+unless it does so within 180 days of receipt.6 See Cerdant, Inc. v. DHL Express (USA), Inc., No.
+
+08-186, 2010 WL 3397501, at *6 (S.D. Ohio Aug. 25, 2010) (under terms of ICCTA, shipper who
+
+fails to contest bill within 180 days lacks standing); see also Jim Ball Pontiac-Buick-GMC, Inc. v.
+
+DHL Exp. (USA), Inc., No. 08-761C, 2011 WL 815209, at *4 (W.D.N.Y. Mar. 2, 2011) (under
+
+ICCTA, shipper who failed to contest bill within 180 days may not sue); Carolina Traffic Servs.
+
+of Gastonia, Inc.-Petition for Declaratory Order, Fed. Carr. Cas. (CCH) ¶ 38285, 1996 WL 303722
+
+(STB May 31, 1996) (contesting within 180 days is “a precondition for pursuing a claim,” whether
+
+moving party chooses to pursue claim initially at Board or in court); Nat’l Ass’n of Freight
+
+
+
+       6
+                Plaintiff also argues that the 180-day notice requirement under 49 U.S.C. §
+13710(a)(3)(B) only applies to the Board because an action in court is the exclusive remedy for
+challenges under the ICCTA. See 49 U.S.C. § 14101(b)(2). This argument is also unpersuasive.
+The fact that the Board cannot provide a remedy is entirely irrelevant to the issue of whether a
+shipper’s failure to contest within 180 days forecloses a subsequent challenge in court.
+                                                 -9-
+Transportation Consultants, Inc.-Petition for Declaratory Order, Fed. Carr. Cas. (CCH) ¶ 38308,
+
+1997 WL 189658 (STB Apr. 9, 1997) (same).
+
+               2.      “Shipper” Under The ICCTA
+
+       Second, plaintiff asserts that the ICCTA does not apply to its claims because it is not a
+
+“shipper” under the statute. As explained, 49 U.S.C. § 13710(a)(3)(B) governs billing disputes
+
+between motor carriers and “shippers.” According to plaintiff, 49 U.S.C. § 13102(13) defines
+
+“shipper” as, among other criteria, a person who “is the shipper, consignor, or consignee of a
+
+household goods shipment.” Therefore, 49 U.S.C. § 13710(a)(3)(B) only governs billing disputes
+
+between motor carriers and shippers of household goods. Because it shipped only commercial
+
+goods, plaintiff argues that it is not a “shipper” for the purposes of the ICCTA, and therefore the
+
+statute does not apply to this dispute.
+
+       Plaintiff’s argument that it is not a “shipper” under the ICCTA hinges on a false premise.
+
+Specifically, it depends on the ICCTA limiting the definition of “shipper” to household goods.
+
+Yet, the ICCTA does not do so; the ICCTA provision that references household goods is not
+
+actually defining “shipper.” 49 U.S.C. § 13102(13). Instead, it is explicitly defining “individual
+
+shipper,” which is a different term under the ICCTA. See Nat’l Motor Freight Traffic Ass’n, Inc.
+
+v. Gen. Servs. Admin., 68 F. Supp. 3d 136, 140 (D.D.C. 2014) (noting that ICCTA does not
+
+specifically define “shipper” or elaborate on term). This is apparent not only because the statute
+
+actually uses the term “shipper” to define “individual shipper” itself, but also because the ICCTA
+
+does not use the two terms interchangeably. See id. Most importantly, while “individual shipper”
+
+appears elsewhere in the ICCTA, it does not appear in 49 U.S.C. § 13710(a)(3)(B), which confines
+
+its scope to disputes between “shippers” and motor carriers. Accordingly, although the ICCTA
+
+
+
+
+                                               -10-
+limits the definition of “individual shipper” to household goods, it does not do the same for
+
+“shipper.” As a result, plaintiff’s argument that it is not a “shipper” under the ICCTA collapses.7
+
+       The ICCTA does not define who is a “shipper” under the statute. See id. When a statute
+
+does not define a term, the Court applies its “ordinary or dictionary definition[].” Peabody
+
+Twentymile Mining, LLC v. Sec’y of Labor, 931 F.3d 992, 997 (10th Cir. 2019). Black’s Law
+
+Dictionary defines “shipper” as “[s]omeone who ships goods to another.” SHIPPER, Black’s Law
+
+Dictionary (11th ed. 2019). Here, the allegations in plaintiff’s amended complaint establish that
+
+it is a shipper. Plaintiff alleges that it “contracted with [defendants] to ship goods,” “entered into
+
+the form contract with [defendants] and shipped goods” and “shipped goods with [d]efendants.”
+
+First Amended Class Action Complaint (Doc. #10) ¶ 3, 12, 25. Because plaintiff is a shipper,
+
+49 U.S.C. § 13710(a)(3)(B) applies to any billing dispute between it and a motor carrier.
+
+               3.      “Billing Dispute” Under The ICCTA
+
+       Finally, plaintiff asserts that the ICCTA does not apply because its claims do not involve a
+
+“billing dispute.” As explained, 49 U.S.C. § 13710(a)(3)(B) governs billing disputes between
+
+motor carriers and shippers. Plaintiff argues that its claims do not constitute a “billing dispute”
+
+because they involve defendants’ “decade-long practice of systematically overcharging its
+
+customers through a deceptive and unlawful scheme.”              Memorandum In Opposition To
+
+
+
+
+       7
+                 To support its assertion that the ICCTA applies only to shippers of household
+goods, plaintiff also argues that the Board “only has authority to govern a dispute that involves
+residential household goods movements.” Memorandum In Opposition To Defendants’ Motion
+To Dismiss (Doc. #14) at 14. To do so, plaintiff cites (1) a Senate Committee Report describing
+the 1996 transition from the Interstate Commerce Commission to the Board and (2) the
+introduction page from the Board website. Neither of these sources establish that the Board’s
+authority is so limited. See Gaines Motor Lines, Inc. v. Klaussner Furniture Indus., Inc., 734 F.3d
+296, 303 (4th Cir. 2013) (under ICCTA, Board “maintained jurisdiction over all motor carriers
+who transport goods in interstate commerce and between the United States and its territories or a
+foreign country”) (citing 49 U.S.C. § 13501(1)(A)(E)).
+                                                -11-
+Defendants’ Motion To Dismiss (Doc. #14) at 15. The only authority that plaintiff cites in support
+
+of this argument is a decision from the U.S. District Court for the Southern District of New York
+
+that fraudulent business practices do not constitute a “billing dispute” under the ICCTA. Grocery
+
+Haulers, Inc. v. C & S Wholesale Grocers, Inc., No. 11-3130-DLC, 2012 WL 4049955, at *11
+
+(S.D.N.Y. Sept. 14, 2012).        There, however, plaintiff brought its suit under 49 U.S.C.
+
+§ 14704(a)(2), a separate section of the ICCTA with its own limitations period. Id. (citing Owner-
+
+Operator Indep. Drivers Ass’n, Inc. v. Mayflower Transit, LLC, 615 F.3d 790, 793 (7th Cir.
+
+2010)). Here, plaintiff does not bring a cause of action under the ICCTA. Rather, it brings state-
+
+law claims alleging that defendants systematically overcharged for shipments. These claims
+
+constitute a “billing dispute” under 49 U.S.C. § 13710(a)(3)(B). See Cerdant, Inc., 2010 WL
+
+3397501, at *6 (allegations involving “scheme” and “common course of conduct” to overcharge
+
+shippers constitutes “billing dispute” under ICCTA).
+
+       B.    Compliance With The ICCTA
+
+       Plaintiff asserts that even if the ICCTA applies to its claims, it complied with the statute
+
+by contesting the bill within 180 days of discovering the inflated charges.          Thus, plaintiff
+
+essentially requests that the Court toll the 180-day requirement under the ICCTA until a shipper
+
+discovers, or should have discovered, the billing problem. Beyond referencing general principles
+
+of equitable estoppel and fraudulent concealment, plaintiff cites no authority to support such a rule
+
+under the ICCTA.
+
+       Although the Court may toll statutes of limitation, it may not toll repose periods. Nat’l
+
+Credit Union Admin. Bd. v. Nomura Home Equity Loan, Inc., 764 F.3d 1199, 1224 (10th Cir.
+
+2014). An ordinary statute of limitations is a “procedural device” that begins to run when the
+
+claim accrues. Id. Accordingly, the Court may equitably toll the statute of limitations to begin
+
+
+
+                                                -12-
+“when an injury is discovered or reasonably should have been discovered.” Id. By contrast, a
+
+repose period “creates a substantive right in those protected to be free from liability after a
+
+legislatively-determined period of time.” Id. (quoting Amoco Prod. Co. v. Newton Sheep Co., 85
+
+F.3d 1464, 1472 (10th Cir. 1996)). Thus, unlike a statute of limitations, the Court may not
+
+equitably toll a repose period. Id. As a result, a repose period may “extinguish a plaintiff’s cause
+
+of action” whether or not plaintiff should have discovered the violation or injury within the
+
+designated period. Id. (quoting Chang v. Baxter Healthcare Corp., 599 F.3d 728, 733 (7th
+
+Cir. 2010)).
+
+       To determine whether the time specified in a statute is a repose period or a statute of
+
+limitations, the Court identifies “the time at which the respective periods commence.” Id. at n.11
+
+(quoting 54 C.J.S. Limitations of Actions § 7 (2013)). Generally, statutes of limitation begin to
+
+run “upon accrual of the claim,” or when the injury occurs. Id. By contrast, a repose period
+
+“begins when a specific event occurs, regardless of whether a cause of action has accrued or
+
+whether any injury has resulted.” Id. In other words, a repose period is tied to an event
+
+independent of the injury itself, and the designated period begins to run after that event occurs.
+
+Alexander v. Beech Aircraft Corp., 952 F.2d 1215, 1218 n.2 (10th Cir. 1991) (under some products
+
+liability statutes, repose period begins when purchaser receives product); Nat’l Credit Union
+
+Admin. Bd., 764 F.3d at 1224 (statute of repose “is a fixed, statutory cutoff date, usually
+
+independent of any variable, such as claimant’s awareness of a violation.”). Once that period
+
+lapses, the statute of repose “typically bars the right to bring an action.” Alexander, 952 F.2d at
+
+1218 n.2.
+
+       Here, the ICCTA provision requiring shippers to challenge bills within 180 days of receipt
+
+is a repose period. Under the ICCTA, a shipper must contest a bill “within 180 days of receipt of
+
+
+
+                                               -13-
+the bill in order to have the right to contest such charges.” 49 U.S.C. § 13710(a)(3)(B). Thus, the
+
+ICCTA explicitly states that the 180-day period commences when the shipper receives the bill, not
+
+when the shipper’s claims accrue. In other words, under the plain language of the statute, the
+
+designated period is tied to a specific event independent of the injury itself: the receipt of the bill.
+
+See Alexander, 952 F.2d at 1218 n.2 (citing Eddings on Behalf of Eddings v. Volkswagenwerk,
+
+A.G., 835 F.2d 1369, 1371 (11th Cir. 1988) (repose period in products liability statute begins to
+
+run when purchaser receives product)). Because 49 U.S.C. § 13710(a)(3)(B) is a repose period,
+
+the Court may not invoke equitable principles to toll it. Nat’l Credit Union Admin. Bd., 764 F.3d
+
+at 1224. Accordingly, pursuant to the ICCTA, plaintiff does not have a cause of action because it
+
+did not contest the bills within 180 days of receipt. Therefore, the Court dismisses this action
+
+because the amended complaint fails to state a claim upon which relief can be granted.
+
+        IT IS THEREFORE ORDERED that Defendants’ Motion To Dismiss Amended
+
+Complaint (Doc. #12) filed July 2, 2019 is SUSTAINED.
+
+        Dated this 31st day of October, 2019 at Kansas City, Kansas.
+
+                                                        s/ Kathryn H. Vratil
+                                                        KATHRYN H. VRATIL
+                                                        United States District Judge
+
+
+
+
+                                                 -14-
+

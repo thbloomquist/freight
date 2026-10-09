@@ -1,0 +1,452 @@
+                                  TForce Freight
+          210 Motor Carrier Freight Details and Invoice v4010 Specifications
+
+Pos. No. Seg. ID. Name                                     Req. Des.   Max User   Repeat
+
+ 010    ST       Transaction Set Header                      M          1
+ 020    B3       Beginning Segment for Carrier’s Invoice     M          1
+ 060    N9       Reference Identification                    O         300
+ 070    G62      Date/Time                                   O          6
+
+LOOP ID – 0100                                                                      10
+
+ 110    N1       Name                                        O          1
+ 120    N2       Address Name Information                    O          1
+ 130    N3       Address Information                         O          2
+ 140    N4       Geographic Location                         O          1
+
+LOOP ID – 0400                                                                    9999
+
+ 120    LX       Assigned Number                             O           1
+ 140    L5       Description, Marks and Numbers              O          30
+ 170    L0       Line Item – Quantity and Weight             O          10
+ 180    L1       Rates and Charges                           O          10
+ 200    L7       Tariff Reference                            O          10
+
+ 010    L3       Total Weight and Charges                    O          1
+ 020    SE       Transaction Set Trailer                     M          1
+
+
+
+
+                                                   1
+The italic Mandatory or Optional information displayed at the right of every segment
+heading determines whether the information is required by Overnite.
+
+
+ISA - Interchange Control Header                                                     Mandatory
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                         REQ      TYPE     MIN/MAX      CONTENTS
+ISA01 I01         Authorization Info Qual.            M        ID          2/2       '00'
+ISA03 I03         Security Info Qual.                 M        ID          2/2       ‘00’
+ISA05 I05         Interchange ID Qual.                M        ID          2/2       ‘02’
+ISA06 I06         Interchange Sender ID               M        AN          15/15     ‘UPGF’
+ISA07 I05         Interchange ID Qualifier            M        ID          2/2
+ISA08 I07         Interchange Receiver ID             M        AN          15/15
+ISA09 I08         Interchange Date                    M        DT          6/6
+ISA10 I09         Interchange Time                    M        TM          4/4
+ISA11 I10         Interchange Control                 M        ID          1/1       ‘U’
+                   Standards Identifier
+ISA12 I11         Interchange Control                 M        ID            5/5     ‘00400’
+                   Version Number
+ISA13   I12       Interchange Control Number          M        N0            9/9
+ISA14   I13       Acknowledgment Requested            M        ID            1/1     ‘0’
+ISA15   I14       Test Indicator                      M        ID            1/1     'P'
+ISA16   I15       Component Element Separator         M                      1/1     '>'
+
+
+GS - Functional Group Header                                                         Mandatory
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                         REQ      TYPE     MIN/MAX      CONTENTS
+GS01 479          Functional ID Code                  M        ID          2/2       'IM'
+GS02 142          Application Sender's Code           M        AN          2/15      ‘UPGF’
+GS03 124          Application Receiver's Code         M        AN          2/15
+GS04 373          Group Date                          M        DT          8/8
+GS05 337          Group Time                          M        TM          4/4
+GS06 28           Group Control No .                  M        N0          1/9
+GS07 455          Responsible Agency Code             M        ID          1/ 2      ‘X’
+GS08 480          Version/Release Indicator           M        AN          1/12      ‘004010’
+
+ST - Transaction Set Header                                                          Mandatory
+
+Purpose: To indicate the start of a transaction set and to assign a control number
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                         REQ      TYPE     MIN/MAX      CONTENTS
+ST01 143          Transaction Identifier              M        ID          3/3       ‘210’
+                   Identifier
+ST02     329      Transaction Set Control             M        AN            4/9
+                   Number
+
+
+
+
+                                                     2
+B3 - Beginning Segment for Carrier’s Invoice                                                Mandatory
+
+Purpose: To transmit basic data relating to the carrier’s invoice
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                          REQ      TYPE     MIN/MAX            CONTENTS
+B302  76          Invoice Number                       M        AN          1/22            Carrier Pro
+                                                                                            Number
+B303     145      Shipment Identification Number       O        AN            1/30          Bill of Lading
+                                                                                            Number
+B304     146      Shipment Method of Payment           M        ID            2/2           ‘CC’-Collect
+                                                                                            ‘PP’-Prepaid
+                                                                                            ‘TP’-Third Party
+B305     188      Weight Unit Code                     O        ID            1/1
+B306     373      Date                                 M        DT            8/8           Invoice Date
+B307     193      Net Amount Due                       M        N2            1/12
+B308     202      Correction Indicator                 O        ID            2/2           ‘BD’-Balance
+                                                                                            Due
+                                                                                            ‘RC’-Revenue
+                                                                                            Correction
+B309     32       Delivery Date                        X        DT            8/8           Required on
+                                                                                            Collect
+                                                                                            Shipments
+B310     374      Date/Time Qualifier                  X        ID            3/3           ‘035-Delivery
+                                                                                            Date
+B311     140      Standard Carrier Alpha Code          M        ID            2/4           ‘UPGF’
+B312     373      Date                                 O        ID            8/8           Pick-up Date
+
+
+N9 – Reference Identification                                                               Optional
+
+Purpose: To transmit identifying information as specified by the Reference Identification Qualifier
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                          REQ      TYPE     MIN/MAX            CONTENTS
+N901 128          Reference Number Qualifier           M        ID         2/3              ‘PO’-Purchase
+                                                                                            Order Number
+                                                                                            ‘BM’-Bill of
+                                                                                            Lading Number
+                                                                                            ‘BN’-Booking
+                                                                                            Number
+                                                                                            ‘CR’-Customer
+                                                                                            Reference
+                                                                                            Number
+                                                                                            ‘SI’-Shipper’s
+                                                                                            Identification
+                                                                                            Number
+N902     127      Reference Identification             X        AN           1/30
+
+
+
+
+                                                      3
+G62 – Date/Time                                                                 Optional
+
+Purpose: To specify pertinent dates and times
+
+ANSI             ELEMENT
+CODE ID          DESCRIPTION                          REQ     TYPE    MIN/MAX   CONTENTS
+G6201 432        Date Qualifier                       X       ID        2/2     ‘86’-Actual
+                                                                                Pickup Date
+                                                                                ‘35’-Delivered
+                                                                                on this Date
+G6202 373        Date                                 X       DT        8/8
+
+
+N1 – Name                                                                       Optional
+
+Purpose: To identify a party by type of organization, name and code
+
+ANSI             ELEMENT
+CODE ID          DESCRIPTION                          REQ     TYPE    MIN/MAX   CONTENTS
+N101  98         Entity Identifier                    M       ID         2/3    'SH' - Shipper
+                                                                                'CN' – Consignee
+                                                                                ‘BT’-Bill To
+N102     93      Name                                 C       AN        1/60
+N103     66      Identification Code                  C       ID        1/2     'ZZ' - Mutually
+                  Qualifier                                                       Defined
+N104     67      Identification Code                  C       AN        2/80
+
+N3 - Address Information                                                        Optional
+
+
+Purpose: To specify the location of the named party
+
+ANSI             ELEMENT
+CODE ID          DESCRIPTION                          REQ     TYPE    MIN/MAX   CONTENTS
+N301 166         Address                              M       AN         1/5
+
+
+N4 - Geographic Location                                                        Optional
+
+Purpose: To specify the geographic place of the name party
+
+ANSI             ELEMENT
+CODE    ID       DESCRIPTION                          REQ     TYPE    MIN/MAX   CONTENTS
+N401    19       City Name                            O       AN         2/30
+N402    156      State/Province Code                  O       ID         2/2
+N403    116      Postal Code                          O       ID         3/15
+N404    26       Country Code                         O       ID         2/3
+
+
+
+
+                                                      4
+LX - Assigned Number                                                                        Mandatory
+
+Purpose: To reference a line number in a transaction set
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                          REQ      TYPE     MIN/MAX            CONTENTS
+LX01 554          Assigned Number                      M        N0          1/6
+
+
+L5 – Description, Marks and Numbers                                                         Mandatory
+
+Purpose: To specify the line item in terms of description, quantity, packaging, and marks and numbers
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                          REQ      TYPE     MIN/MAX            CONTENTS
+L501 213          Lading Line Item Number              O        N0          1/3
+L502  79          Lading Description                   O        AN          1/50
+
+L0 – Line Item – Quantity and Weight                                                        Mandatory
+
+Purpose: To specify quantity, weight, volume and type of service for a line item including applicable
+                ‘quantity/rate-as” data
+
+ANSI              ELEMENT
+CODE     ID       DESCRIPTION                          REQ      TYPE     MIN/MAX            CONTENTS
+L001     213      Lading Line Item Number              O        N0          1/3
+L004      81      Weight                               X        R           1/10
+L005     187      Weight Qualifier                     X        ID          1/ 2            ‘G’-Gross Weight
+L008      80      Lading Quantity                      X        N0          1/7
+L009     211      Packaging Form Code                  X        ID          3/3             ‘BAG’-Bag
+                                                                                            ‘BBL’-Barrel
+                                                                                            ‘BDL’-Bundle
+                                                                                            ‘BIN’-Bin
+                                                                                            ‘BOX’-Box
+                                                                                            ‘CAG’-Cage
+                                                                                            ‘CAN’-Can
+                                                                                            ‘CAS’-Case
+                                                                                            ‘CNT’-Container
+                                                                                            ‘CYL’-Cylinder
+                                                                                            ‘CRT’-Crate
+                                                                                            ‘DBK’-Dry Bulk
+                                                                                            ‘ENV’-Envelope
+                                                                                            ‘HRB’-On hanger
+                                                                                            or rack in boxes
+                                                                                            ‘PCS’-Pieces
+                                                                                            ‘PKG’-Package
+                                                                                            ‘PLT’-Pallet
+                                                                                            ‘RCK’-Rack
+                                                                                            ‘SKD’-Skid
+                                                                                            ‘TBE’-Tube
+                                                                                            ‘TRY’-Tray
+                                                                                            ‘UNT’-Unit
+
+
+
+                                                      5
+L1 – Rate and Charges                                                                 Mandatory
+
+Purpose: To specifyrate and charges detail relative to a line item including freight charges, advances, special
+                charges, and entitlements
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                           REQ      TYPE      MIN/MAX               CONTENTS
+L101 213          Lading Line Item Number               O        N0           1/3
+L102  60          Freight Rate                          X        R            1/9
+L103 122          Rate/Value Qualifier                  X        ID           2/2                ‘FR’-Flat Rate
+                                                                                                 ‘MN’-Minimum
+                                                                                                 ‘PF’-Per Cubic
+                                                                                                 Foot
+                                                                                                 ‘PG’-Per Gallon
+                                                                                                 ‘PH’-Per Hundred
+                                                                                                 (of Basic Unit)
+                                                                                                 ‘PL’-Per Load
+                                                                                                 ‘PM’-Per Mile
+                                                                                                 ‘PP’-Per Piece
+                                                                                                 ‘PS’-Per
+                                                                                                 Shipment
+                                                                                                 ‘PU’-Per Unit
+                                                                                                 ‘SY’-Square Yard
+L104      58      Charge                                X        N2            1/12              A negative
+                                                                                                 number
+                                                                                                 represents a
+                                                                                                 discount
+L105     191      Advances                              X        N2            1/12              Incidental charges
+L106     117      Prepaid Amount                        X        N2            1/9               Money paid at
+                                                                                                 point of origin
+L108     150      Special Charge/Allowance Code         O        ID            3/3               *See Attached
+                                                                                                 List
+
+L7 – Tariff Reference                                                                 Optional
+
+Purpose: To reference details of the tariff used to arrive at applicable rates or charge
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                           REQ      TYPE      MIN/MAX               CONTENTS
+L701 213          Lading Line Item Number               O        N0           1/3
+L707  59          Freight Class Code                    O        AN           2/5
+
+
+
+
+                                                       6
+L3 – Total Weight and Charges                                                      Optional
+
+Purpose: To specify the total shipment in terms of weight, volume, rates, charges, advances, and prepaid
+                amounts applicable to one or more line items
+
+ANSI              ELEMENT
+CODE     ID       DESCRIPTION                         REQ       TYPE     MIN/MAX              CONTENTS
+L301      81      Weight                              X         R           1/10
+L302     187      Weight Qualifier                    X         ID          1/ 2              ‘G’
+L305      58      Charge                              O         N2          1/12              Total charges
+L306     191      Advances                            O         N2          1/9
+L307     117      Prepaid Amount                      O         N2          1/9
+L311      80      Lading Quantity                     O         N0          1/7               Total lading
+                                                                                              quantity
+
+SE - Transaction Set Trailer                                                                  Mandatory
+
+Purpose: To indicate the end of the transaction set and provide the count of the transmitted segments
+                (including the beginning (ST) and ending (SE) segments
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                         REQ       TYPE     MIN/MAX              CONTENTS
+SE01 96           Number of included segments         M         N0          1/10
+SE02 329          Transaction Set Control Number      M         AN          4/9
+
+
+GE - Functional Group Trailer                                                                 Mandatory
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                         REQ       TYPE     MIN/MAX              CONTENTS
+GE01 97           Number of Transaction Sets          M         N0          1/6
+                   Included
+GE02     28       Group Control Number                M         N0           1/9
+
+
+IEA - Interchange Control Trailer                                                             Mandatory
+
+
+ANSI              ELEMENT
+CODE ID           DESCRIPTION                         REQ       TYPE     MIN/MAX              CONTENTS
+IEA01 I16         Number of Included                  M         N0          1/5
+                   Functional Groups
+IEA02    I12      Interchange Control Number          M         N0           9/9
+
+
+
+
+                                                      7
+                  Special Charge/Allowance Codes
+
+Special Charge/   Description
+Allowance Code
+     ADH          Advance Charges Handling
+     BND          Bond Charges
+     COL          Fee for Collecting COD Charge
+     CUA          Currency Adjustment
+     DAA          Deficit Freight
+     DET          Detention of Trailers
+     DOC          Documentation Charge
+     DSC          Discount
+      EIC         Export/Import Charge
+     FUE          Fuel Charge
+     HAZ          Hazardous Cargo Charge
+      IDL         Inside Delivery
+      IIA         Invoice Adjustment
+      ILD         Island Delivery Charge
+      ILP         Island Pick-Up Charge
+      IPU         Inside Pick-up
+     LFT          Lift Gate or Forklift Service
+     MFC          Manifest Charge
+     MRK          Marking or Tagging Charge
+     MSC          Other Accessorial Service Charge
+     MSG          Miscellaneous Charge
+     NCH          Order Notify Charge
+     NFY          Carrier Notification Charge
+     PAE          Premium Transportation
+     PWT          Pallet Allowance
+     RCC          Reconsignment Charge
+     RCL          Redelivery
+     RES          Residential Delivery
+     SEG          Segregating (Sorting)
+     SER          Service Charge
+     SOC          Stop-off Charge
+     SRG          Storage
+     UND          Unloading Allowance
+
+
+
+
+                                  8
+        Example of EDI Motor Carrier Freight Details and Invoice (210)
+ISA*00*           *00*         *02*UPGF           *02*004999999
+*000817*2119*U*00400*000000001*0*P*>
+GS*IM*UPGF*7181654261*20000725*0837*427*X*004010
+ST*210*004270001
+B3**786394836*408677*PP**20000725*8248*RC***UPGF
+N9*PO*143933016
+G62*86*20000713
+N1*SH*SOME COMPANY PRODUCTS
+N3*5145 W 78TH ST
+N4*INDIANAPOLIS*IN*462684138
+N1*CN*SOME CONSIGNEE STORE
+N3*7770 RICHMOND HWY
+N4*ALEXANDRIA*VA*22313
+LX*1
+L5*1*ELECTRIC EXTENSION CORDS NOI (1 ) SKIDS STC (32 )
+L5*1*CTNS ( ) PALLET PAKS NMFC 063036-02 50
+L0*1***1013*G***1*SKD**L
+L1*1*22.920*PH*23218
+L7*1******050
+LX*2
+L5*2*DISCOUNT
+L1*2***-15092****DSC
+LX*3
+L5*3*FUEL ALLOWANCE
+L1*3***122****FUE****LTL FUEL ADJUSTMENT
+LX*4
+L5*4*SHIPPER LOAD AND COUNT
+L5*4*APPOINTMENT DELIVERY
+L5*4*STANDING
+L5*4*IF ANY PROBLEMS CONTACT SOMEBODY
+L5*4*SOMEBODY’ AT: 1-800-111-3333
+L5*4*TOP LOAD ONLY
+L5*4*1571 DA A08 :PL#
+L5*4*1 SERVICE ADJUSTMENT
+L5*4*OVNT 80844 0000001
+L5*4*OVNT000560               00226
+L3*1013*G***8248******1
+SE*35*004270001
+GE*1*1777^
+IEA*1*000001777^
+
+
+
+
+                                      9
+                                     Business Policies
+
+
+
+   Invoice are transmitted once per day.
+
+   Customers can choose between receiving prepaid, collect or third party invoices.
+
+   Can provide electronically the original, corrected or balance due invoices.
+
+   When the customer requests sending electronic invoices written authorization must be
+    sent to upgfedigroup@tforcefreight.com.
+
+   Once set up electronic invoices, copies of the delivery receipts or bills of lading are no
+    longer mailed to the customer.
+
+   The payment terms for your paper invoices are applied to your EDI invoices.
+
+
+
+
+                                             10
+

@@ -1,0 +1,850 @@
+09/25/2015                                                                                                                                                                                              Motor Carrier Freight Details and Invoice - 210
+
+
+                                                                                      Table of Contents
+210     Motor Carrier Freight Details and Invoice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                          . . . 1
+   GS           Functional Group Header . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                              . . . 2
+   ST           Transaction Set Header . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . <PH>
+                                                                                                                                                                                                                                                                  . . . 4
+   B3           Beginning Segment for Carrier's Invoice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . <PH>
+                                                                                                                                                                                                                                         . . . 5
+   N9           Reference Identification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                                   . . . 6
+   0100 Loop Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                                            . . . 7
+   N1           Name . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                                                             . . . 8
+   N2           Additional Name Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                          . . . 9
+   N3           Address Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                                      . . 10
+   N4           Geographic Location . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . <PH>
+                                                                                                                                                                                                                                                                     . . 11
+   0400 Loop Assigned Number . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                       . . 12
+   LX           Assigned Number . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . <PH>
+                                                                                                                                                                                                                                                                         . . 13
+   L5           Description, Marks and Numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                   . . 14
+   L0           Line Item - Quantity and Weight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . <PH>
+                                                                                                                                                                                                                                                       . . 15
+   L1           Rate and Charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . <PH>
+                                                                                                                                                                                                                                                                          . . 17
+   L7           Tariff Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                                               . . 18
+   L3           Total Weight and Charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . <PH>
+                                                                                                                                                                                                                                                              . . 19
+   SE           Transaction Set Trailer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                                    . . 20
+   GE           Functional Group Trailer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <PH>
+                                                                                                                                                                                                                                                                 . . 21
+
+
+
+
+V4010_210_basic.ecs                                                                                                                           i                                                                                                            For internal use only
+09/25/2015                                                                                       Motor Carrier Freight Details and Invoice - 210
+
+
+
+210 Motor Carrier Freight Details and Invoice
+                    Functional Group=         IM
+Purpose: This Draft Standard for Trial Use contains the format and establishes the data contents of the Motor Carrier Freight Details
+and Invoice Transaction Set (210) for use within the context of an Electronic Data Interchange (EDI) environment. The transaction set
+can be used to provide detail information for charges for services rendered by a motor carrier. It is used both as a motor carrier invoice
+to request payment or as details pertaining to motor freight shipment(s) charges.
+
+Not Defined:
+   Pos         Id        Segment Name                          Req       Max Use        Repeat           Notes                 Usage
+               GS        Functional Group Header                M            1                                                 Used
+
+Heading:
+   Pos         Id        Segment Name                          Req       Max Use        Repeat           Notes                 Usage
+   010         ST        Transaction Set Header                 M            1                                               Must use
+   020         B3        Beginning Segment for Carrier's        M            1                                               Must use
+                         Invoice
+   060         N9        Reference Identification               O           300                                                Used
+   LOOP ID - 0100                                                                          10
+   110         N1        Name                                   O            1                                                 Used
+   120         N2        Additional Name Information            O            1                                                 Used
+   130         N3        Address Information                    O            2                                                 Used
+   140         N4        Geographic Location                    O            1                                                 Used
+
+
+Detail:
+   Pos         Id        Segment Name                          Req       Max Use        Repeat           Notes                 Usage
+   LOOP ID - 0400                                                                         9999
+   120         LX        Assigned Number                        O           1                                                  Used
+   140         L5        Description, Marks and Numbers         O           30                                                 Used
+   170         L0        Line Item - Quantity and Weight        O           10                                                 Used
+   180         L1        Rate and Charges                       O           10                                                 Used
+   200         L7        Tariff Reference                       M           10                                                 Used
+
+Summary:
+   Pos         Id        Segment Name                          Req       Max Use        Repeat           Notes                 Usage
+   010         L3        Total Weight and Charges               O            1                                                Used
+   020         SE        Transaction Set Trailer                M            1                                               Must use
+
+Not Defined:
+   Pos         Id        Segment Name                          Req       Max Use        Repeat           Notes                 Usage
+               GE        Functional Group Trailer               M            1                                                 Used
+
+
+
+
+V4010_210_basic.ecs                                                  1                                                     For internal use only
+09/25/2015                                                                                        Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                          Pos:                          Max: 1
+GS Functional Group Header                                                                                    Not Defined - Mandatory
+                                                                                                          Loop: N/A               Elements: 8
+
+User Option (Usage): Used
+Purpose: To indicate the beginning of a functional group and to provide control information
+
+Element Summary:
+   Ref            Id        Element Name                                          Req       Type         Min/Max                Usage
+   GS01           479       Functional Identifier Code                              M        ID              2/2               Must use
+
+                            Description: Code identifying a group of application related transaction sets
+
+                            CodeList Summary (Total Codes: 234, Included: 1)
+                            Code Name
+                            IM     Motor Carrier Freight Details and Invoice (210, 980)
+
+   GS02           142       Application Sender's Code                               M        AN             2/15               Must use
+
+                            Description: Code identifying party sending transmission; codes agreed to by trading partners
+
+   GS03           124       Application Receiver's Code                             M        AN             2/15               Must use
+
+                            Description: Code identifying party receiving transmission. Codes agreed to by trading partners
+
+   GS04           373       Date                                                    M        DT              8/8               Must use
+
+                            Description: Date expressed as CCYYMMDD
+
+   GS05           337       Time                                                    M        TM              4/8               Must use
+
+                            Description: Time expressed in 24-hour clock time as follows: HHMM, or HHMMSS, or HHMMSSD, or
+                            HHMMSSDD, where H = hours (00-23), M = minutes (00-59), S = integer seconds (00-59) and DD =
+                            decimal seconds; decimal seconds are expressed as follows: D = tenths (0-9) and DD = hundredths
+                            (00-99)
+   GS06           28        Group Control Number                                    M        N0              1/9               Must use
+
+                            Description: Assigned number originated and maintained by the sender
+
+   GS07           455       Responsible Agency Code                                 M        ID              1/2               Must use
+
+                            Description: Code used in conjunction with Data Element 480 to identify the issuer of the standard
+
+                            CodeList Summary (Total Codes: 2, Included: 1)
+                            Code Name
+                            X      Accredited Standards Committee X12
+
+   GS08           480       Version / Release / Industry Identifier Code            M        AN             1/12               Must use
+
+                            Description: Code indicating the version, release, subrelease, and industry identifier of the EDI standard
+                            being used, including the GS and GE segments; if code in DE455 in GS segment is X, then in DE 480
+                            positions 1-3 are the version number; positions 4-6 are the release and subrelease, level of the version;
+                            and positions 7-12 are the industry or trade association identifiers (optionally assigned by user); if code in
+                            DE455 in GS segment is T, then other formats are allowed
+
+                            CodeList Summary (Total Codes: 36, Included: 1)
+                            Code     Name
+                            004010 Draft Standards Approved for Publication by ASC X12 Procedures Review Board through
+                                   October 1997
+
+Semantics:
+   1. GS04 is the group date.
+   2. GS05 is the group time.
+   3. The data interchange control number GS06 in this header must be identical to the same data element in the associated
+      functional group trailer, GE02.
+
+
+
+V4010_210_basic.ecs                                                 2                                                       For internal use only
+09/25/2015                                                                                     Motor Carrier Freight Details and Invoice - 210
+
+Comments:
+  1. A functional group of related transaction sets, within the scope of X12 standards, consists of a collection of similar transaction
+     sets enclosed by a functional group header and a functional group trailer.
+
+
+
+
+V4010_210_basic.ecs                                                3                                                     For internal use only
+09/25/2015                                                                                       Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                         Pos: 010                      Max: 1
+ST Transaction Set Header                                                                                      Heading - Mandatory
+                                                                                                         Loop: N/A               Elements: 2
+
+User Option (Usage): Must use
+Purpose: To indicate the start of a transaction set and to assign a control number
+
+Element Summary:
+   Ref            Id        Element Name                                          Req      Type         Min/Max                Usage
+   ST01           143       Transaction Set Identifier Code                          M      ID              3/3               Must use
+
+                            Description: Code uniquely identifying a Transaction Set
+
+                            CodeList Summary (Total Codes: 298, Included: 1)
+                            Code Name
+                            210    Motor Carrier Freight Details and Invoice
+
+   ST02           329       Transaction Set Control Number                           M      AN              4/9               Must use
+
+                            Description: Identifying control number that must be unique within the transaction set functional group
+                            assigned by the originator for a transaction set
+
+
+Semantics:
+   1. The transaction set identifier (ST01) used by the translation routines of the interchange partners to select the appropriate
+      transaction set definition (e.g., 810 selects the Invoice Transaction Set).
+
+
+
+
+V4010_210_basic.ecs                                                 4                                                      For internal use only
+09/25/2015                                                                                         Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                           Pos: 020                      Max: 1
+B3 Beginning Segment for Carrier's                                                                               Heading - Mandatory
+
+             Invoice                                                                                       Loop: N/A               Elements: 8
+
+
+User Option (Usage): Must use
+Purpose: To transmit basic data relating to the carrier's invoice
+
+Element Summary:
+   Ref            Id        Element Name                                           Req       Type         Min/Max                Usage
+   B302           76        Invoice Number                                           M        AN             1/22               Must use
+
+                            Description: Identifying number assigned by issuer
+
+   B303           145       Shipment Identification Number                           O        AN             1/30                 Used
+
+                            Description: Identification number assigned to the shipment by the shipper that uniquely identifies the
+                            shipment from origin to ultimate destination and is not subject to modification; (Does not contain blanks or
+                            special characters)
+   B304           146       Shipment Method of Payment                               M        ID              2/2               Must use
+
+                            Description: Code identifying payment terms for transportation charges
+
+                            CodeList Summary (Total Codes: 28, Included: 2)
+                            Code Name
+                            CC      Collect
+                            PP      Prepaid (by Seller)
+
+   B306           373       Date                                                     M        DT              8/8               Must use
+
+                            Description: Date expressed as CCYYMMDD
+
+   B307           193       Net Amount Due                                           M        N2             1/12               Must use
+
+                            Description: Total charges to be paid by the receiver of this transaction set expressed in the standard
+                            monetary denomination for the currency specified
+   B309           32        Delivery Date                                            X        DT              8/8                 Used
+
+                            Description: Date for delivery of cargo to final consignee or to next mode expressed in format
+                            CCYYMMDD
+   B310           374       Date/Time Qualifier                                      X        ID              3/3                 Used
+
+                            Description: Code specifying type of date or time, or both date and time
+
+                            CodeList Summary (Total Codes: 1112, Included: 2)
+                            Code Name
+                            017     Estimated Delivery
+                            035     Delivered
+
+   B311           140       Standard Carrier Alpha Code                              M        ID              2/4               Must use
+
+                            Description: Standard Carrier Alpha Code
+
+Syntax Rules:
+   1. P0910 - If either B309 or B310 is present, then the other is required.
+
+
+Semantics:
+   1. B306 is the billing date.
+   2. On collect freight bills the data in B309 will be the actual delivery date. For the shipments invoiced prior to delivery, the B309
+      will be the estimated date of delivery.
+   3. If B314 is used, B304 will indicate the party or parties responsible for payment of the transportation terms identified in B314.
+
+
+
+
+V4010_210_basic.ecs                                                  5                                                       For internal use only
+09/25/2015                                                                                       Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                         Pos: 060                   Max: 300
+N9 Reference Identification                                                                                       Heading - Optional
+                                                                                                         Loop: N/A               Elements: 2
+
+User Option (Usage): Used
+Purpose: To transmit identifying information as specified by the Reference Identification Qualifier
+
+Element Summary:
+   Ref            Id        Element Name                                          Req      Type         Min/Max                Usage
+   N901           128       Reference Identification Qualifier                     M        ID              2/3               Must use
+
+                            Description: Code qualifying the Reference Identification
+
+                            CodeList Summary (Total Codes: 1503, Included: 1)
+                            Code Name
+                            PO     Purchase Order Number
+
+   N902           127       Reference Identification                               X        AN             1/30                 Used
+
+                            Description: Reference information as defined for a particular Transaction Set or as specified by the
+                            Reference Identification Qualifier
+
+Syntax Rules:
+   1. R0203 - At least one of N902 or N903 is required.
+   2. C0605 - If N906 is present, then N905 is required.
+
+
+Semantics:
+   1. N906 reflects the time zone which the time reflects.
+   2. N907 contains data relating to the value cited in N902.
+
+
+
+
+V4010_210_basic.ecs                                                 6                                                      For internal use only
+09/25/2015                                                                                    Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                      Pos: 110                 Repeat: 10
+Loop Name                                                                                                           Optional
+                                                                                                      Loop: 0100           Elements: N/A
+
+User Option (Usage): Used
+Purpose: To identify a party by type of organization, name, and code
+
+Loop Summary:
+   Pos        Id        Segment Name                                           Req       Max Use         Repeat               Usage
+   110        N1        Name                                                    O            1                                 Used
+   120        N2        Additional Name Information                             O            1                                 Used
+   130        N3        Address Information                                     O            2                                 Used
+   140        N4        Geographic Location                                     O            1                                 Used
+
+
+Comments:
+   1. This segment, used alone, provides the most efficient method of providing organizational identification. To obtain this efficiency
+      the "ID Code" (N104) must provide a key to the table maintained by the transaction processing party.
+   2. N105 and N106 further define the type of entity in N101.
+
+
+
+
+V4010_210_basic.ecs                                                7                                                    For internal use only
+09/25/2015                                                                                       Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                         Pos: 110                      Max: 1
+N1 Name                                                                                                           Heading - Optional
+                                                                                                         Loop: 0100              Elements: 2
+
+User Option (Usage): Used
+Purpose: To identify a party by type of organization, name, and code
+
+Element Summary:
+   Ref           Id         Element Name                                          Req      Type         Min/Max                Usage
+   N101          98         Entity Identifier Code                                 M        ID              2/3               Must use
+
+                            Description: Code identifying an organizational entity, a physical location, property or an individual
+
+                            CodeList Summary (Total Codes: 1312, Included: 3)
+                            Code Name
+                            BT     Bill-to-Party
+                            CN     Consignee
+                            SH     Shipper
+
+   N102          93         Name                                                   X        AN             1/60                 Used
+
+                            Description: Free-form name
+
+Syntax Rules:
+   1. R0203 - At least one of N102 or N103 is required.
+   2. P0304 - If either N103 or N104 is present, then the other is required.
+
+
+Comments:
+   1. This segment, used alone, provides the most efficient method of providing organizational identification. To obtain this efficiency
+      the "ID Code" (N104) must provide a key to the table maintained by the transaction processing party.
+   2. N105 and N106 further define the type of entity in N101.
+
+
+
+
+V4010_210_basic.ecs                                                8                                                       For internal use only
+09/25/2015                                                                            Motor Carrier Freight Details and Invoice - 210
+
+                                                                                              Pos: 120                      Max: 1
+N2 Additional Name Information                                                                         Heading - Optional
+                                                                                              Loop: 0100              Elements: 1
+
+User Option (Usage): Used
+Purpose: To specify additional names or those longer than 35 characters in length
+
+Element Summary:
+   Ref           Id        Element Name                                       Req   Type     Min/Max                Usage
+   N201          93        Name                                                 M   AN          1/60               Must use
+
+                           Description: Free-form name
+
+
+
+
+V4010_210_basic.ecs                                              9                                              For internal use only
+09/25/2015                                                                 Motor Carrier Freight Details and Invoice - 210
+
+                                                                                   Pos: 130                      Max: 2
+N3 Address Information                                                                      Heading - Optional
+                                                                                   Loop: 0100              Elements: 1
+
+User Option (Usage): Used
+Purpose: To specify the location of the named party
+
+Element Summary:
+   Ref           Id        Element Name                            Req   Type     Min/Max                Usage
+   N301          166       Address Information                     M     AN          1/55               Must use
+
+                           Description: Address information
+
+
+
+
+V4010_210_basic.ecs                                           10                                     For internal use only
+09/25/2015                                                                                   Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                     Pos: 140                      Max: 1
+N4 Geographic Location                                                                                        Heading - Optional
+                                                                                                     Loop: 0100              Elements: 3
+
+User Option (Usage): Used
+Purpose: To specify the geographic place of the named party
+
+Element Summary:
+   Ref           Id        Element Name                                       Req      Type         Min/Max                Usage
+   N401          19        City Name                                           O        AN             2/30                 Used
+
+                           Description: Free-form text for city name
+
+   N402          156       State or Province Code                              O        ID              2/2                 Used
+
+                           Description: Code (Standard State/Province) as defined by appropriate government agency
+
+   N403          116       Postal Code                                         O        ID             3/15                 Used
+
+                           Description: Code defining international postal zone code excluding punctuation and blanks (zip code for
+                           United States)
+
+Syntax Rules:
+   1. C0605 - If N406 is present, then N405 is required.
+
+
+Comments:
+   1. A combination of either N401 through N404, or N405 and N406 may be adequate to specify a location.
+   2. N402 is required only if city name (N401) is in the U.S. or Canada.
+
+
+
+
+V4010_210_basic.ecs                                             11                                                     For internal use only
+09/25/2015                                                               Motor Carrier Freight Details and Invoice - 210
+
+                                                                                 Pos: 120              Repeat: 9999
+Loop Assigned Number                                                                           Optional
+                                                                                 Loop: 0400           Elements: N/A
+
+User Option (Usage): Used
+Purpose: To reference a line number in a transaction set
+
+Loop Summary:
+   Pos        Id       Segment Name                             Req   Max Use       Repeat               Usage
+   120        LX       Assigned Number                          O       1                                 Used
+   140        L5       Description, Marks and Numbers           O       30                                Used
+   170        L0       Line Item - Quantity and Weight          O       10                                Used
+   180        L1       Rate and Charges                         O       10                                Used
+   200        L7       Tariff Reference                         M       10                                Used
+
+
+
+
+V4010_210_basic.ecs                                        12                                      For internal use only
+09/25/2015                                                                                  Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                    Pos: 120                      Max: 1
+LX Assigned Number                                                                                           Detail - Optional
+                                                                                                    Loop: 0400              Elements: 1
+
+User Option (Usage): Used
+Purpose: To reference a line number in a transaction set
+
+Element Summary:
+   Ref           Id        Element Name                                        Req      Type       Min/Max                Usage
+   LX01          554       Assigned Number                                      M        N0            1/6               Must use
+
+                           Description: Number assigned for differentiation within a transaction set
+
+
+
+
+V4010_210_basic.ecs                                              13                                                   For internal use only
+09/25/2015                                                                                   Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                     Pos: 140                     Max: 30
+L5 Description, Marks and Numbers                                                                             Detail - Optional
+                                                                                                     Loop: 0400              Elements: 2
+
+User Option (Usage): Used
+Purpose: To specify the line item in terms of description, quantity, packaging, and marks and numbers
+
+Element Summary:
+   Ref           Id         Element Name                                         Req      Type      Min/Max                Usage
+   L501          213        Lading Line Item Number                               O        N0           1/3                 Used
+
+                            Description: Sequential line number for a lading item
+
+   L502          79         Lading Description                                    O        AN          1/50                 Used
+
+                            Description: Description of an item as required for rating and billing purposes
+
+Syntax Rules:
+   1. P0304 - If either L503 or L504 is present, then the other is required.
+   2. C0706 - If L507 is present, then L506 is required.
+   3. P0809 - If either L508 or L509 is present, then the other is required.
+
+
+Comments:
+   1. L502 may be used to send quantity information as part of the product description.
+
+
+
+
+V4010_210_basic.ecs                                                14                                                  For internal use only
+09/25/2015                                                                                        Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                          Pos: 170                     Max: 10
+L0 Line Item - Quantity and Weight                                                                                 Detail - Optional
+                                                                                                          Loop: 0400              Elements: 8
+
+User Option (Usage): Used
+Purpose: To specify quantity, weight, volume, and type of service for a line item including applicable "quantity/rate-as" data
+
+Element Summary:
+   Ref            Id        Element Name                                          Req      Type          Min/Max                Usage
+   L001           213       Lading Line Item Number                                O        N0               1/3                 Used
+
+                            Description: Sequential line number for a lading item
+
+   L002           220       Billed/Rated-as Quantity                                X        R              1/11                 Used
+
+                            Description: Basis for rating (miles, value, volume, etc.); Note: Weight may be defined by either data
+                            element 220 or 81
+   L003           221       Billed/Rated-as Qualifier                               X        ID              2/2                 Used
+
+                            Description: Code identifying the type of quantity or value on which the rate or item pricing is based
+
+                            CodeList Summary (Total Codes: 47, Included: 1)
+                            Code Name
+                            LC      100 Pounds
+
+   L004           81        Weight                                                  X        R              1/10                 Used
+
+                            Description: Numeric value of weight
+
+   L005           187       Weight Qualifier                                        X        ID              1/2                 Used
+
+                            Description: Code defining the type of weight
+
+                            CodeList Summary (Total Codes: 51, Included: 2)
+                            Code Name
+                            F       Deficit Weight
+                            G       Gross Weight
+
+   L008           80        Lading Quantity                                         X       N0               1/7                 Used
+
+                            Description: Number of units (pieces) of the lading commodity
+
+   L009           211       Packaging Form Code                                     X        ID              3/3                 Used
+
+                            Description: Code for packaging form of the lading quantity
+
+                            CodeList Summary (Total Codes: 134, Included: 7)
+                            Code Name
+                            BDL     Bundle
+                            BOX     Box
+                            CRT     Crate
+                            CTN     Carton
+                            PCS     Pieces
+                            PLT     Pallet
+                            SKD     Skid
+
+   L011           188       Weight Unit Code                                       O         ID              1/1                 Used
+
+                            Description: Code specifying the weight unit
+
+                            CodeList Summary (Total Codes: 8, Included: 1)
+                            Code Name
+                            L       Pounds
+Syntax Rules:
+
+V4010_210_basic.ecs                                                15                                                       For internal use only
+09/25/2015                                                                                    Motor Carrier Freight Details and Invoice - 210
+
+  1. P0203 - If either L002 or L003 is present, then the other is required.
+  2. P0405 - If either L004 or L005 is present, then the other is required.
+  3. P0607 - If either L006 or L007 is present, then the other is required.
+  4. P0809 - If either L008 or L009 is present, then the other is required.
+  5. C1104 - If L011 is present, then L004 is required.
+  6. P1315 - If either L013 or L015 is present, then the other is required.
+
+
+Semantics:
+  1. L008 is the number of handling units of the line item tendered to the carrier.
+  2. L013 can only be used if the code in L009 is PLT, SKD, or SLP.
+  3. L015 designates whether the carrier will be required to verify the number of units contained on a pallet, slip sheet or skid. Code
+     "Y" indicates that the carrier will be required to verify. Code "N" indicates that the carrier will not be required to verify.
+
+Comments:
+  1. L013 is used to convey the total number of boxes, cartons, or pieces contained on a pallet, skid, or slip sheet for the line item.
+
+
+
+
+V4010_210_basic.ecs                                               16                                                    For internal use only
+09/25/2015                                                                                        Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                          Pos: 180                     Max: 10
+L1 Rate and Charges                                                                                                Detail - Optional
+                                                                                                          Loop: 0400              Elements: 5
+
+User Option (Usage): Used
+Purpose: To specify rate and charges detail relative to a line item including freight charges, advances, special charges, and
+entitlements
+
+Element Summary:
+   Ref            Id        Element Name                                           Req      Type         Min/Max                Usage
+   L101           213       Lading Line Item Number                                 O        N0              1/3                 Used
+
+                            Description: Sequential line number for a lading item
+
+   L102           60        Freight Rate                                            X         R              1/9                 Used
+
+                            Description: Rate that applies to the specific commodity
+
+   L103           122       Rate/Value Qualifier                                    X        ID              2/2                 Used
+
+                            Description: Code qualifying how to extend charges or interpret value
+
+                            CodeList Summary (Total Codes: 163, Included: 3)
+                            Code Name
+                            FR     Flat Rate
+                            MN     Minimum
+                            PH     Per Hundred (of Basic Unit)
+
+   L104           58        Charge                                                  X        N2             1/12                 Used
+
+                            Description: For a line item: freight or special charge; for the total invoice: the total charges -- expressed
+                            in the standard monetary denomination for the currency specified
+   L108           150       Special Charge or Allowance Code                        O        ID              3/3                 Used
+
+                            Description: Code identifying type of special charge or allowance
+
+                            CodeList Summary (Total Codes: 1073, Included: 4)
+                            Code Name
+                            DSC    Discount
+                            FUE    Fuel Charge
+                            HAZ    Hazardous Cargo Charge
+                            PYS    Priority Service Charge
+Syntax Rules:
+   1. P0203 - If either L102 or L103 is present, then the other is required.
+   2. R040506 - At least one of L104, L105 or L106 is required.
+   3. P1415 - If either L114 or L115 is present, then the other is required.
+   4. P1718 - If either L117 or L118 is present, then the other is required.
+
+
+Semantics:
+   1. L119 is the percent used to determine the charge in L104.
+   2. L120, if used, indicates the currency for all monetary amounts in this L1 segment.
+   3. L121 is the origin rated as charge amount.
+
+
+
+
+V4010_210_basic.ecs                                                17                                                       For internal use only
+09/25/2015                                                                                        Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                          Pos: 200                     Max: 10
+L7 Tariff Reference                                                                                                Detail - Mandatory
+                                                                                                          Loop: 0400              Elements: 5
+
+User Option (Usage): Used
+Purpose: To reference details of the tariff used to arrive at applicable rates or charge
+
+Element Summary:
+   Ref            Id         Element Name                                          Req      Type         Min/Max                Usage
+   L701           213        Lading Line Item Number                                O        N0              1/3               Must use
+
+                             Description: Sequential line number for a lading item
+
+   L702           168        Tariff Agency Code                                     O        ID              1/4               Must use
+
+                             Description: Code defining the tariff bureau or tariff publishing agent that governs the rates applied to
+                             this shipment
+   L703           171        Tariff Number                                          O        AN              1/7               Must use
+
+                             Description: Standard tariff number for the tariff which governs the rates applied to the commodity
+                             item(s)
+   L704           172        Tariff Section                                         O        AN              1/2                 Used
+
+                             Description: Number used as an extension of the basic tariff number to identify the rates published
+                             within specific sections of the tariff
+   L707           59         Freight Class Code                                     O        AN              2/5                 Used
+
+                             Description: Code indicating generalized classification that applies to one or more items in the shipment,
+                             i.e., class 70, 77.5, etc.
+
+
+Semantics:
+   1. L710 is the effective date.
+   2. In L715 and L716, "City" and "State" are used for rate combination city and state.
+
+
+
+
+V4010_210_basic.ecs                                                 18                                                      For internal use only
+09/25/2015                                                                                        Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                          Pos: 010                      Max: 1
+L3 Total Weight and Charges                                                                                        Summary - Optional
+                                                                                                          Loop: N/A               Elements: 7
+
+User Option (Usage): Used
+Purpose: To specify the total shipment in terms of weight, volume, rates, charges, advances, and prepaid amounts applicable to one
+or more line items
+
+Element Summary:
+   Ref           Id         Element Name                                           Req      Type         Min/Max                Usage
+   L301          81         Weight                                                  X         R             1/10                 Used
+
+                            Description: Numeric value of weight
+
+   L302          187        Weight Qualifier                                        X        ID              1/2                 Used
+
+                            Description: Code defining the type of weight
+
+                            CodeList Summary (Total Codes: 51, Included: 1)
+                            Code Name
+                            G      Gross Weight
+
+   L303          60         Freight Rate                                            X         R              1/9                 Used
+
+                            Description: Rate that applies to the specific commodity
+
+   L304          122        Rate/Value Qualifier                                    X        ID              2/2                 Used
+
+                            Description: Code qualifying how to extend charges or interpret value
+
+                            CodeList Summary (Total Codes: 163, Included: 2)
+                            Code Name
+                            MN     Minimum
+                            PH     Per Hundred (of Basic Unit)
+
+   L305          58         Charge                                                  O        N2             1/12                 Used
+
+                            Description: For a line item: freight or special charge; for the total invoice: the total charges -- expressed
+                            in the standard monetary denomination for the currency specified
+   L311          80         Lading Quantity                                         O        N0              1/7                 Used
+
+                            Description: Number of units (pieces) of the lading commodity
+
+   L312          188        Weight Unit Code                                        O        ID              1/1                 Used
+
+                            Description: Code specifying the weight unit
+
+                            CodeList Summary (Total Codes: 8, Included: 1)
+                            Code Name
+                            L      Pounds
+Syntax Rules:
+   1. P0102 - If either L301 or L302 is present, then the other is required.
+   2. P0304 - If either L303 or L304 is present, then the other is required.
+   3. P0910 - If either L309 or L310 is present, then the other is required.
+   4. C1201 - If L312 is present, then L301 is required.
+   5. P1415 - If either L314 or L315 is present, then the other is required.
+
+
+Semantics:
+   1. L305 is the total charges.
+
+
+
+
+V4010_210_basic.ecs                                                19                                                       For internal use only
+09/25/2015                                                                                  Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                    Pos: 020                      Max: 1
+SE Transaction Set Trailer                                                                                Summary - Mandatory
+                                                                                                    Loop: N/A               Elements: 2
+
+User Option (Usage): Must use
+Purpose: To indicate the end of the transaction set and provide the count of the transmitted segments (including the beginning (ST)
+and ending (SE) segments)
+
+Element Summary:
+   Ref           Id        Element Name                                         Req      Type      Min/Max                Usage
+   SE01          96        Number of Included Segments                           M        N0          1/10               Must use
+
+                           Description: Total number of segments included in a transaction set including ST and SE segments
+
+   SE02          329       Transaction Set Control Number                        M        AN           4/9               Must use
+
+                           Description: Identifying control number that must be unique within the transaction set functional group
+                           assigned by the originator for a transaction set
+
+
+Comments:
+   1. SE is the last segment of each transaction set.
+
+
+
+
+V4010_210_basic.ecs                                              20                                                   For internal use only
+09/25/2015                                                                                   Motor Carrier Freight Details and Invoice - 210
+
+                                                                                                     Pos:                          Max: 1
+GE Functional Group Trailer                                                                              Not Defined - Mandatory
+                                                                                                     Loop: N/A               Elements: 2
+
+User Option (Usage): Used
+Purpose: To indicate the end of a functional group and to provide control information
+
+Element Summary:
+   Ref            Id        Element Name                                        Req      Type       Min/Max                Usage
+   GE01           97        Number of Transaction Sets Included                  M        N0            1/6               Must use
+
+                            Description: Total number of transaction sets included in the functional group or interchange
+                            (transmission) group terminated by the trailer containing this data element
+   GE02           28        Group Control Number                                 M        N0            1/9               Must use
+
+                            Description: Assigned number originated and maintained by the sender
+
+
+Semantics:
+   1. The data interchange control number GE02 in this trailer must be identical to the same data element in the associated
+      functional group header, GS06.
+
+Comments:
+   1. The use of identical data interchange control numbers in the associated functional group header and trailer is designed to
+      maximize functional group integrity. The control number is the same as that used in the corresponding header.
+
+
+
+
+V4010_210_basic.ecs                                               21                                                   For internal use only
+

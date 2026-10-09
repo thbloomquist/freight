@@ -1,0 +1,361 @@
+© Old Dominion Freight Line, Inc.   Document: Version 1.0   Last Update: 06/04/26
+Contents
+Getting Started ................................................................................................................... 1
+          Overview ............................................................................................................................. 1
+          Testing ................................................................................................................................. 1
+Authentication ................................................................................................................... 2
+          Bearer Token ....................................................................................................................... 2
+                     Request ................................................................................................................... 2
+                     Response ................................................................................................................. 2
+Request ............................................................................................................................... 3
+          Authorization ...................................................................................................................... 3
+          Base Path ............................................................................................................................. 3
+                     Create ...................................................................................................................... 3
+          Fields ................................................................................................................................... 4
+                     Required .................................................................................................................. 4
+                     Optional................................................................................................................... 4
+          Values .................................................................................................................................. 4
+Response ............................................................................................................................ 5
+                     Fields ....................................................................................................................... 5
+                     Flags ........................................................................................................................ 5
+          Authorization / Permissions ................................................................................................ 6
+Sample ................................................................................................................................ 7
+                     Request ................................................................................................................... 7
+                     Response ................................................................................................................. 7
+Best Practice ...................................................................................................................... 9
+                     Bearer Token ........................................................................................................... 9
+                     Sending Request...................................................................................................... 9
+                     Using Tracking Statuses to Trigger Document Request .......................................... 9
+                     Number of Request ................................................................................................. 9
+
+
+
+
+© Old Dominion Freight Line, Inc.                                       Document: Version 1.0                                            Last Update: 06/04/26
+Getting Started
+
+Overview
+The Document API is a REST service which returns documents for an associated PRO number.
+
+
+For more information on all our API services, visit the Shipping API Integrations Page at ODFL.com.
+
+
+
+
+Testing
+We offer a QA environment for onboarding and testing purposes. To get started, visit the Shipping API
+Integrations Page and click “Email an Expert” for help.
+
+
+
+
+© Old Dominion Freight Line, Inc.                                                                1
+Authentication
+To use this service, you need an ODFL.com account with a username and password. This will give
+you access to your account data. To register, visit ODFL.com and click "Sign Up".
+
+If you have questions about your OD account, we're available to help Monday–Friday, 7 a.m.–8 p.m.
+ET.
+    • Telephone: 1-800-235-5569
+    • Email: Internet.CustomerService@odfl.com
+
+
+
+Bearer Token
+Request
+
+Obtain a session token by making a GET request to:
+
+            Environment                                                URL
+
+                 QA                                   https://apiq.odfl.com/auth/v1.0/token
+
+             Production                                https://api.odfl.com/auth/v1.0/token
+
+
+       •   Authorization Type: Basic Auth
+       •   Username: Provide your ODFL.com Username
+       •   Password: Provide your ODFL.com Password
+
+Response
+Code       Message                  Notes
+                                    A session token and expiration are returned. Session tokens
+200        OK
+                                    expire one hour after issue.
+                                    The OD Username or Password you’ve provided is incorrect or
+400        Invalid Credentials
+                                    your account is disabled. Contact API@odfl.com for assistance.
+           Service                  Verify that the URL and Authorization Type is correct. If the
+503
+           Unavailable              problem persists, please notify us at: API@odfl.com.
+
+
+
+
+© Old Dominion Freight Line, Inc.                                                                    2
+Request
+Authorization
+Utilize the session token obtained during Authentication as Authorization.
+        • Type: Bearer Token
+
+
+
+Base Path
+Create
+
+Perform a POST to:
+
+        Environment                                             URL
+
+            QA                      https://apiq.odfl.com/document-retrieval-api/v1.0/getDocument
+
+        Production                  https://api.odfl.com/document-retrieval-api/v1.0/getDocument
+
+
+
+
+© Old Dominion Freight Line, Inc.                                                                   3
+Fields
+Required
+             Name                        Type                                   Description
+proNumber                           Long                 PRO number that the document is linked to.
+documentType                        String               Type of document. (See Values)
+format                              String               Type of document format. (See Values)
+
+Optional
+             Name                        Type                                   Description
+                                                         If the PDF file is separated into pages.
+separatePdfPages                    Boolean
+                                                         -Default is false
+
+
+
+
+Values
+         Field Name                                              Valid Values
+                               Bill Of Lading
+                               Delivery Appointment Document
+                               Delivery Photo
+                               Delivery Receipt
+                               Detention Certificate
+                               Freight Bill Correction
+                               Inspection Certificate
+                                                                  The invoice provided is a snapshot and
+                                                                  subject to change.
+                                                                  -Preliminary invoices are invoices obtained prior to being
+documentType                   Invoice                            finalized.
+                                                                  -New usernames will be granted access to preliminary
+                                                                  invoices by default.
+                                                                  -To add or remove access to preliminary invoices, email
+                                                                  Internet.CustomerService@odfl.com.
+
+                               Lumper Certificate
+                               Overlength Certificate
+                               Packing Slip
+                               Pickup Photo
+                               Research Verification
+                               Weight Certificate
+                               Weight Verification
+
+
+© Old Dominion Freight Line, Inc.                                                                                      4
+         Field Name                                         Valid Values
+format                         PDF
+
+
+Response
+Fields
+            Field                    Type                              Description
+success                             boolean    True or false
+documents                           object
+                                               Identifies the page number when separatePdfPages
+documents.pageNumber                number
+                                               is true
+documents.document             string/binary   Binary data of the requested document
+                                               This field contains validation errors in case of false
+errors                               string
+                                               success status.
+requestId                           number     Unique ID for identifying requests in error logs.
+
+Flags
+Code                        Message                                               Details
+ 200                                                      The request was successful.
+ 400       pro number not found                           An invalid pro number was provided.
+                                                          The pro number provided does not have
+ 400       requested document not found
+                                                          the requested documentType.
+           Requested certificate does not exist for the   The pro number provided does not have
+ 400
+           selected PRO                                   the requested documentType.
+                                                          The invoice is not yet available.
+ 400       Invoice has yet to be generated                - To add or remove access to preliminary invoices, email
+                                                          Internet.CustomerService@odfl.com.
+
+ 400       Pro number must be 9-11 digits in length.      An invalid pro number was provided.
+
+           You are not authorized to view the _____ for   The username is not linked to an account
+ 400                                                      with access to that documentType. (See
+           Pro#: 11111111111                              Authorization / Permissions)
+
+           requested document format is invalid. Valid    An invalid format was provided.
+ 400                                                      - Delivering soon: Updating error message to "Requested
+           types are : PDF, TIFF, JPG                     document format is invalid. Valid types are: PDF."
+
+           requested document type is invalid. Valid
+           types are : Bill Of Lading, Delivery Photo,
+           Delivery Appointment Document, Delivery
+ 400                                                      An invalid documentType was provided.
+           Receipt, Inspection Certificate, Invoice,
+           Lumper Certificate, Overlength Certificate,
+           Packing Slip, Weight Certificate, Pickup
+© Old Dominion Freight Line, Inc.                                                                                5
+Code                        Message                                              Details
+          Photo, Freight Bill Correction, Research
+          Verification, Weight Verification
+          Pickup Photo for PRO# 11111111111 is
+                                                            Accessorial code PVP was not added to
+ 400      unavailable due to the accessorial service
+                                                            the shipment.
+          not being applied.
+          Delivery Photo for PRO# 11111111111 is
+                                                            Accessorial code PVD was not added to
+ 400      unavailable due to the accessorial service
+                                                            the shipment.
+          not being applied.
+
+
+Authorization / Permissions
+If you believe your username should have the listed permissions, please email your username and account to
+Internet.CustomerService@odfl.com for assistance.
+
+          Document Type                                      Username Permission
+Bill of Lading                         Linked to the shipper, consignee and/or bill to party on the pro
+Delivery Appointment Document          Linked to the shipper, consignee and/or bill to party on the pro
+Delivery Photo                         Linked to the bill to party on the pro
+Delivery Receipt                       Linked to the shipper, consignee and/or bill to party on the pro
+Detention Certificate                  Linked to the bill to party on the pro
+Inspection Certificate                 Linked to the bill to party on the pro
+Invoice                                Linked to the bill to party on the pro.
+Lumper Certificate                     Linked to the bill to party on the pro
+Overlength Certificate                 Linked to the bill to party on the pro
+Packing Slip                           Linked to the shipper, consignee and/or bill to party on the pro
+Weight Certificate                     Linked to the bill to party on the pro
+Pickup Photo                           Linked to the bill to party on the pro.
+Freight Bill Correction                Linked to the bill to party on the pro
+Research Verification                  Linked to the bill to party on the pro
+Weight Verification                    Linked to the bill to party on the pro
+
+
+
+
+© Old Dominion Freight Line, Inc.                                                                       6
+Sample
+Request
+    {
+        "proNumber": 11111111111,
+        "documentType": "Delivery Photo",
+        "format": "PDF",
+        "separatePdfPages": false
+    }
+
+Response
+
+// JSON successful response data with separate PDF pages as true
+
+{
+        "success": true,
+        "requestId": "2f3e7975-8506-4c3a-b415-80a3873ad02b",
+        "documents": [
+            {
+                "pageNumber": 1,
+                "document": "JVBERi0xLjQ….BASE64CODE….”
+},
+            {
+                "pageNumber": 2,
+                "document": "JVBERi0xLjQ….BASE64CODE….”
+            }
+        ]
+}
+
+// JSON successful response data with separate PDF pages as false
+
+{
+        "success": true,
+        " document ": [
+            {
+                "pageNumber": null,
+                "document": "JVBERi0xLjU….BASE64CODE….”
+
+© Old Dominion Freight Line, Inc.                                   7
+             }
+    ]
+}
+
+// JSON response data when user doesn’t have access to requested document
+
+{
+        "success": false,
+        "errors": [
+             "You are not authorized to view the Invoice for Pro#: 11111111111"
+        ],
+        "requestId": "1e065924-7c6b-410c-afc9-0d0d26790cd6"
+}
+
+// JSON response data when access to preliminary invoices is not enabled and the finalized invoice is
+not complete
+
+{
+        "success": false,
+        "errors": [
+             "Invoice has yet to be generated"
+        ],
+        "requestId": "c9fc0924-8b82-4f61-a232-f9a096426b56"
+}
+
+
+
+
+© Old Dominion Freight Line, Inc.                                                                8
+Best Practice
+Bearer Token
+       •   Caching the Bearer Token to be used multiple times
+       •   Expires after one hour
+       •   The expiration date and time is returned in response as Epoch time
+Sending Request
+       •   The only documentType that may change is “Invoice”
+       •   Outside of documentType “Invoice”, once a document is obtained, there’s no need to
+           continue sending request for that documentType
+Using Tracking Statuses to Trigger Document Request
+             documentType                                      Tracking Status
+Pickup Photo                               "status": "Pickup Completed"
+                                           "status": "In Transit",
+Bill of Lading                             "desc": "Arrived at Origin Service Center"
+                                           -1 hour after
+
+                                           "status": "In Transit",
+Packing Slip                               "desc": "Arrived at Origin Service Center"
+                                           -1 hour after
+
+Delivery Appointment Document              "status": "Appointment Set/Confirmed"
+Overlength Certificate                     "status": "Out for Delivery"
+Lumper Certificate                         "status": "Out for Delivery"
+Weight Certificate                         "status": "Out for Delivery"
+Inspection Certificate                     "status": "Out for Delivery"
+Delivery Photo                             "status": "Delivered"
+Research Verification                      "status": "Out for Delivery"
+Weight Verification                        "status": "Out for Delivery"
+Delivery Receipt                           "status": "Delivery Confirmed"
+Invoice                                    "status": "Delivery Confirmed"
+Freight Bill Correction                    "status": "Delivery Confirmed"
+
+
+Number of Requests
+Each pro number should be limited to a maximum of 12 requests per hour. Any calls exceeding this
+limit may be throttled at ODFL's discretion.
+
+
+
+
+© Old Dominion Freight Line, Inc.                                                               9
+

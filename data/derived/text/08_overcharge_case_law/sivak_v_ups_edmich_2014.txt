@@ -1,0 +1,1805 @@
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 1 of 40       Pg ID <pageID>
+
+
+
+                   UNITED STATES DISTRICT COURT
+                   EASTERN DISTRICT OF MICHIGAN
+                        SOUTHERN DIVISION
+
+STEVEN B. SIVAK, and INTERNATIONAL
+SAMARITAN, on behalf of themselves and
+all others similarly situated,
+
+                  Plaintiffs,
+                                                            No. 13-cv-15263
+      vs.                                                Hon. Gerald E. Rosen
+
+UNITED PARCEL SERVICE
+COMPANY,
+
+               Defendant.
+___________________________________/
+
+   OPINION AND ORDER GRANTING DEFENDANT’S MOTION TO
+    DISMISS PLAINTIFFS’ FIRST AMENDED COMPLAINT IN ITS
+  ENTIRETY OR, IN THE ALTERNATIVE, FOR JUDGMENT ON THE
+                         PLEADINGS
+
+                                I. INTRODUCTION
+
+      Plaintiffs Steven B. Sivak and International Samaritan contend that United
+
+Parcel Service (UPS) intentionally overcharges customers who purchase additional
+
+liability coverage for packages with a declared value of over $300.00. Each
+
+overcharge may be less than $1.00, but these overcharges can quickly add up given
+
+UPS’s position as the world’s largest package delivery company. Under Plaintiffs’
+
+theory, UPS lines its pockets with these overcharges and pays off those who
+
+complain -- knowing that most will not do so for such a small overcharge per
+
+package. Plaintiffs’ Amended Complaint therefore seeks class-wide relief for a
+
+                                       1
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 2 of 40          Pg ID <pageID>
+
+
+
+variety of causes of action under state and federal law. Presently before the Court
+
+is UPS’s Motion to Dismiss, or in the alternative, for Judgment on the Pleadings.
+
+Having reviewed and considered UPS’s Motion and supporting brief, Plaintiffs’
+
+response thereto, and the entire record of this matter, the Court has determined that
+
+the relevant allegations, facts, and legal arguments are adequately presented in
+
+these written submissions, and that oral argument would not aid the decisional
+
+process. Therefore, the Court will decide this matter “on the briefs.” See Eastern
+
+District of Michigan Local Rule 7.1(f)(2).
+
+                II. PERTINENT BACKGROUND AND FACTS
+
+A.    Federal Law Governing Carrier Liability
+
+      This action relates to -- but does not arise out of -- the Carmack Amendment,
+
+49 U.S.C. § 13101 et seq., which renders common carriers like UPS liable for
+
+“actual loss or injury to . . . property” during interstate transport. 49 U.S.C. §
+
+14706(a). Its purpose is “to relieve shippers of the burden of searching out a
+
+particular negligent carrier from among the often numerous carriers handling an
+
+interstate shipment of goods.” Reider v. Thompson, 339 U.S. 113, 119 (1950).
+
+The Carmack Amendment has the effect of “codif[ing] the common-law rule that a
+
+carrier, though not an absolute insurer, is liable for damage to goods transported by
+
+it unless it can show that the damage was caused by (a) the act of God; (b) the
+
+public enemy; (c) the act of the shipper himself; (d) public authority; (e) or the
+
+
+                                         2
+  2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 3 of 40             Pg ID <pageID>
+
+
+
+inherent vice or nature of the goods.” Mo. Pacific R.R. v. Elmore & Stahl, 377
+
+U.S. 134, 137 (1964) (citations omitted). As pertinent here, it also allows carriers
+
+to limit their liability in exchange for charging a shipper a lower transportation
+
+rate:
+
+        [A] carrier providing transportation or service . . . may . . . establish
+        rates for the transportation of property . . . under which the liability of
+        the carrier for such property is limited to a value established by
+        written or electronic declaration of the shipper or by written
+        agreement between the carrier and shipper if that value would be
+        reasonable under the circumstances surrounding the transportation.
+
+§ 14706(c)(1)(A).
+
+B.      The Parties
+
+        Plaintiff Steven B. Sivak is a resident of Ann Arbor, Michigan. (Plfs’ Am.
+
+Compl., Dkt. # 13, at ¶ 10). Plaintiff International Samaritan is an Ohio nonprofit
+
+corporation with its principal place of business in Ann Arbor, Michigan. (Id. at ¶
+
+11). Defendant UPS is a Delaware corporation and is headquartered in Atlanta,
+
+Georgia. (Id. at ¶ 21). UPS is the “world’s largest package delivery company. . . .
+
+In 2012, [for example, it] delivered an average of 16.3 million pieces per day
+
+worldwide, or a total of 4.1 billion packages.” (Id. at ¶ 34) (citing UPS’s 2012 10-
+
+K filing with the Securities and Exchange Commission).
+
+        At issue in this litigation is UPS’s practice of offering the “Value-Added
+
+Service” of increasing UPS’s default $100.00 liability limit on packages in
+
+exchange for an additional fee. Both Sivak and International Samaritan have used
+
+                                            3
+  2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 4 of 40        Pg ID <pageID>
+
+
+
+UPS to ship items in the past six years. (Id. at ¶ 13). For some of these shipments,
+
+they each declared that the value of their respective shipments was in excess of
+
+$300.00 and therefore purchased additional liability coverage. (Id. at ¶¶ 12-13).
+
+Sivak shipped, for example, home stereo equipment and firearms on multiple
+
+occasions within the past six years, each with a declared value in excess of
+
+$300.00. (Id. at ¶ 14). The same is true for International Samaritan: it shipped two
+
+separate packages in October 2012 with a declared value in excess of $2,000.00.
+
+(Id. at ¶ 15; Ex. A to Plfs’ Resp., Dkt. # 25).
+
+C.    The UPS Shipping Contract
+
+      Three documents govern Plaintiffs’ shipment of packages through UPS: (1)
+
+the UPS Tariff/Terms and Conditions of Service (Terms); (2) the UPS Rate and
+
+Service Guide (Service Guide); and (3) Plaintiffs’ Source Document from the
+
+shipment (collectively, the Shipping Contract). (Ex. A to Plfs’ Am. Compl., Dkt. #
+
+13, § 53). Within the Shipping Contract, three separate provisions are pertinent to
+
+Plaintiffs’ claims: (1) UPS’s $100.00 Liability Limit as set forth in the Terms and
+
+further detailed in the Service Guide and in the Source Document; (2) the Terms’
+
+180-Day Notice Requirement; and (3) the Terms’ discussion of Third-Party
+
+Retailers.
+
+
+
+
+                                           4
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 5 of 40         Pg ID <pageID>
+
+
+
+      1.     UPS’s $100.00 Liability Limit
+
+      Under Section 50 of the Terms and pursuant to the Carmack Amendment,
+
+UPS limits its liability for loss or damage to $100.00:
+
+      UPS’s liability for loss or damage to each UPS domestic package or
+      international shipment, or to each pallet in a UPS Worldwide Express
+      Freight™ shipment, is limited to a value of $100, except as set forth
+      below. Unless a greater value is recorded in the declared value field
+      of the UPS Source Document or the UPS Automated Shipping System
+      used, the shipper agrees that the released value of each domestic
+      package or international shipment, or pallet is no greater than $100,
+      which is a reasonable value under the circumstances surrounding the
+      transportation, and that UPS shall not be liable for more than $100 for
+      each domestic package or international shipment or pallet.
+
+      To increase UPS’s limit of liability for loss or damage above $100,
+      the shipper must declare a value in excess of $100 for each package
+      or pallet in the declared value field of the UPS Source Document or
+      the UPS Automated Shipping System used and pay an additional
+      charge.
+
+(Id. at § 50) (emphasis added). The Service Guide then sets forth the pricing for
+
+this “Declared Value of Carriage” for both domestic and international shipments.
+
+For domestic shipments, it provides as follows:
+
+
+
+
+(Ex. B to Plfs’ Am. Compl., Dkt. # 22, at 74). There is a similar rate structure for
+
+international shipments:
+
+
+
+                                          5
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 6 of 40        Pg ID <pageID>
+
+
+
+
+(Id. at 140).
+
+        In Response, International Samaritan attached a Source Document from its
+
+October 23, 2012 shipment of goods with a declared value of $2,000.00. (Ex. A to
+
+Plfs’ Resp., Dkt. # 25).1      The Source Document is International Samaritan’s
+
+shipping receipt from the UPS Store (a Third-Party Retailer discussed in more
+
+detail below) and sets forth the Declared Value Terms & Conditions:
+
+        Declared value coverage will be available only if You have complied
+        with all Declared Value Terms & Conditions. For an additional fee,
+        We will obtain declared value coverage for Your shipment through
+        the carrier designated on this PSO. We surcharge the cost of this
+        product. You expressly acknowledge that the value of each parcel
+        does not exceed the amount You listed below as Declared Value and
+        stated on the transaction receipt. If no amount is specified, You agree
+        that the value of the parcel(s) shall not exceed $100. If you refuse
+        additional declared value coverage for items of greater value than
+        $100, You will be limited to a maximum declared value coverage of
+        $100. Each declared value provider designates monetary limits
+        coverage. The declared value terms and conditions of the various
+
+1
+  Plaintiffs argue, and UPS does not dispute, that this Court may consider this
+document -- one that was attached to Plaintiffs’ Response -- without converting
+UPS’s Motion to one for summary judgment because it is a transactional document
+relating to facts expressly alleged in Plaintiffs’ First Amended Complaint and is
+central to their claims. This Court agrees. See, e.g., Weiner v. Klais and Co., Inc.,
+108 F.3d 86, 88 (6th Cir. 1997).
+
+                                          6
+  2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 7 of 40            Pg ID <pageID>
+
+
+
+       carriers are listed in the carrier service guide for coverage provided by
+       the carriers and are also available at this location upon request.
+       Consult the Declared Value Terms & Conditions and terms of
+       coverage for further information.
+
+(Id. at ¶ 10). It further sets forth limitations on liability:
+
+       Our liability, the carrier’s liability for loss or damage to Your parcel is
+       limited to Your actual damages or $100, whichever is less, unless you
+       declare and pay for a higher authorized value. . . . Limitations of
+       liability can be found in the carrier’s service guide or tariff.
+
+(Id. at ¶ 11).
+
+       2.        UPS’s 180-Day Notice Requirement
+
+       Under the Terms, a “shipper” is “the party contracting with UPS for
+
+services.” (Ex. A to Plfs’ Am. Compl., Dkt. # 13, at 2). Section 47.1 of the Terms
+
+spell out a shipper’s obligation to bring certain billing disputes to UPS’s attention
+
+within 180 days or else it is deemed waived:
+
+       Shippers requesting an invoice adjustment (e.g., adjustment of
+       Charges based on an incorrect rate, billable weight, account number,
+       failure to tender a shipment, type of service, shipping charge
+       correction, etc.) or a refund due to a duplicate payment must notify
+       UPS of the request within 180 days of receiving the contested invoice,
+       or any billing dispute is waived. Notification to UPS of a request for
+       an invoice adjustment must be made in writing using one of the
+       following methods:
+
+                 –Submit a request through UPS’s online Billing Center at
+                 ups.com/billing;
+                 –Email a request to UPS through ups.com®; or
+                 –Mail a request to United Parcel Service, P.O. Box 7247-
+                 0244, Philadelphia, PA 19170-0001;
+
+
+
+                                             7
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 8 of 40         Pg ID <pageID>
+
+
+
+      The notification to UPS must include the date of shipment, the
+      tracking number for each disputed charge, and the reason for the
+      disputed charge. A partial payment against an invoice is not
+      considered a request for an invoice adjustment or notice to UPS of a
+      disputed charge. UPS reserves the right to refuse to issue any invoice
+      adjustment until all outstanding charges owing to UPS have been paid
+      in full.
+
+(Id. at § 47.1).   In addition, the Source Document attached by International
+
+Samaritan discusses the steps one must take to file a claim: “Any and all claims
+
+must be in writing and received by Us within the carrier’s required time frame.
+
+Claims not made within the prescribed time frame are waived and will not be
+
+paid.” (Ex. A to Plfs’ Resp., Dkt. # 25, at ¶ 12).
+
+      3.     Third-Party Retailers
+
+      Finally, the Terms recognize that UPS utilizes a variety of franchises to
+
+facilitate shipment of packages (such as the one International Samaritan used).
+
+The Terms define these “Third-Party Retailers” as “locations of The UPS Store®,
+
+UPS Authorized Shipping Outlet locations, and UPS Alliance Locations (located
+
+within Office Depot® and Staples® retail locations).” (Ex. A to Plfs’ Am. Compl.,
+
+Dkt. # 13, at § 2). And as pertinent here, the Terms describe the relationship
+
+between UPS and these “Third-Party Retailers:”
+
+      The UPS Store® locations . . . [and o]ther Third-Party Retailers are
+      independently owned and operated businesses and are not agents of
+      UPS. UPS assumes no liability other than to the Third-Party Retailer
+      as the shipper of the package, for lost, damaged or delayed packages
+      sent via the Third-Party Retailer. Any such liability to the Third-Party
+      Retailer is subject to the limitations set forth in the Terms. All
+
+                                          8
+  2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 9 of 40         Pg ID <pageID>
+
+
+
+       inquiries regarding packages shipped via any Third-Party Retailer
+       must be directed to the Third Party Retailer that shipped the package.
+       UPS will deal solely with the Third-Party Retailer in all matters
+       concerning packages shipped via any Third-Party Retailer including,
+       but not limited to: . . . billing. Even if UPS responds directly to
+       customers of the Third-Party Retailer regarding tracking requests,
+       UPS will not be liable to those customers. The Third-Party Retailer is
+       solely responsible for the issuance of any refunds and claims to those
+       who shipped packages via the Third-Party Retailer. . . . The Third-
+       Party Retailer shall indemnify and hold harmless UPS in any action
+       against UPS arising from the loss, damage, or delay of a package
+       shipped via the Third-Party Retailer.
+
+(Id. at § 15).
+
+D.     Plaintiffs’ Claims
+
+       Based on the “Declared Value for Carriage” language above, Plaintiffs
+
+contend that “UPS plainly states in its Terms that the first $100 of coverage is free
+
+or at no additional charge, whether or not a shipper purchases additional declared
+
+value coverage.”    (Plfs’ Am. Compl., Dkt. # 13, at ¶ 2).        But the problem,
+
+according to Plaintiffs, is that when a shipper declares a value in excess of $100.00
+
+and is therefore charged $0.85 per each portion of $100.00, UPS does not actually
+
+provide the first $100.00 of coverage for free:
+
+       Despite the promise by UPS that the first $100 of declared value
+       coverage is free or at no additional charge, UPS has systematically
+       charged and caused its agent and sales network to charge customers
+       an additional amount for coverage for the first $100 when they
+       purchase additional declared value coverage.
+
+(Id. at ¶ 3). This “problem” actually kicks in when a shipper declares a value in
+
+excess of $300.00. (Id. at ¶¶ 30-31). This is because the Service Guide provides
+
+                                          9
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 10 of 40       Pg ID <pageID>
+
+
+
+for a $2.55 minimum for additional coverage, which divided by $0.85 equates to 3
+
+portions of $100.00. In other words, when a customer declares a value between
+
+$100.01 and $300.00, UPS charges the customer $2.55 for additional declared
+
+value coverage without apportioning $0.85 per $100.00 in coverage.
+
+      But when a customer declares a value above $300.00, Plaintiffs claim that
+
+UPS overcharges that customer by $0.85 by failing to account for the first $100.00
+
+in free coverage that they assert the Shipping Contract promises. (Id. at ¶ 32). A
+
+simple chart perhaps better illustrates Plaintiffs’ argument as to how UPS charges
+
+its customers versus how UPS should charge its customers:
+
+       Declared            UPS Charges                  UPS Should Charge
+         Value
+       $0.00 -  $0.00                              $0.00
+       $100.00
+
+       $100.01 - $2.55                             Plaintiffs make no claim that
+       $300.00                                     UPS overcharges customers in
+                                                   this category.
+
+       $300.01 - $3.40 (4 portions of $100.00 -- $2.55 (3 portions of $100.00
+       $400.00   $0.85 times 4 equals $3.40).    over the initial first $100.00 in
+                                                 free coverage -- $0.85 times 3
+                                                 equals $2.55).
+
+
+       $400.01 - $4.25 (5 portions of $100.00 -- $3.40 (4 portions of $100.00
+       $500.00   $0.85 times 5 equals $4.25).    over the initial first $100.00 in
+                                                 free coverage -- $0.85 times 4
+                                                 equals $3.40).
+
+
+
+
+                                       10
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 11 of 40          Pg ID <pageID>
+
+
+
+And, these overcharges add up dramatically when one considers how many parcels
+
+UPS ships annually (referenced above), as well as its business structure: there are
+
+more than 4,700 independently-owned UPS Store locations and an additional
+
+13,000 authorized shipping outlets (such as in Staples office supply stores) across
+
+the globe. (Id. at ¶ 9).
+
+      These overcharges, assert Plaintiffs, “reflect a deliberate breach of contract
+
+with and intentional effort to defraud its customers.” (Id. at ¶ 8). For evidence of
+
+this deliberative misconduct, Plaintiffs note that a cottage industry has developed
+
+over the last 18 months of shipping consultants who audit large companies’
+
+shipping costs for savings and overcharges. (Id. at ¶¶ 4, 39). These shipping
+
+consultants have raised this practice of charging for the first $100.00 with UPS,
+
+which despite “acknowledg[ing] that the charge was not proper,” has not “fix[ed]
+
+the problem.” (Id. at ¶¶ 5, 42). UPS’s standard practice is to just credit accounts
+
+for those customers who complain -- namely large volume shippers -- knowing that
+
+the bulk of its customers lack the means or sophistication to hire consultants to
+
+audit their shipping expenses. (Id. at ¶¶ 6, 8, 33, 40, 42).
+
+      Plaintiffs’ purported class action seeks to halt this practice of defrauding its
+
+customers in the name of a “critical loss theory” scheme. (Id. ¶ 43). That is,
+
+deliberately overcharging all of its customers and then issuing refunds to those
+
+who complain, while knowing that most will not. Given the amount of packages
+
+
+                                          11
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 12 of 40       Pg ID <pageID>
+
+
+
+UPS ships in a given year, this scheme is quite lucrative: “[A]ssuming UPS earns
+
+$200 million in overcharges, and it refunds $10 million to those [large volume
+
+shippers who complain], UPS knows that it will get way with a net profit from the
+
+scheme of $190 million without risk of being held accountable.” (Id.).
+
+        Several factual intricacies and processes help facilitate this scheme. “[T]he
+
+additional declared value charges are not itemized” for its customers; in order to
+
+properly evaluate the declared value charge, allege Plaintiffs, “a customer would
+
+have to ‘back out’ the math” which is “impracticable and normally practically or
+
+actually impossible to do while standing in line at a UPS shipping counter or UPS
+
+drop box or store.” (Id. at ¶ 38). For example, International Samaritan’s Source
+
+Document does not contain a separate line detailing how much the UPS Store
+
+charged when it declared a value of $2,000.00. (Ex. A to Plfs’ Resp., Dkt. # 25, at
+
+4). Plaintiffs also note that UPS has contractually limited its exposure to liability
+
+by requiring shippers to raise billing disputes “within 180 days of receiving the
+
+contested invoice.” (Ex. A to Plfs’ Am. Compl., Dkt. # 13, § 47.1).2 Accordingly,
+
+
+2
+  Both Plaintiffs allege that they substantially complied with the Terms’ 180-day
+requirement. Sivak tried to file a claim through UPS’s website, but could not do so
+because he does not have a tracking number and does not have a UPS account.
+(Plfs’ Am. Compl., Dkt. # 13, at ¶ 16). And even if he did have a tracking number,
+UPS’s website would not permit him to submit a formal claim without registering
+and agreeing to a separate agreement, which he chose not to do. (Id.).
+International Samaritan also tried to file a claim through UPS’s website, but was
+rejected from doing so because the tracking numbers it submitted were outside the
+180-day limit. (Id. at ¶ 18).
+
+                                          12
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 13 of 40       Pg ID <pageID>
+
+
+
+when one combines the “concealment” of the overcharges, the 180-Day limit to
+
+contest such charges, and the simple fact that the typical overcharge is less than
+
+$1.00 per package, it is just “not rationally worth the effort” for most consumers to
+
+contest this practice. (Plfs’ Am. Compl., Dkt. # 13, at ¶ 44).
+
+        Plaintiffs’ Amended Complaint therefore sets forth six different causes of
+
+action: (1) Breach of Contract; (2) Declaratory Relief; (3) Violation of 49 U.S.C. §
+
+13708, which regulates a motor carrier’s billing and collection practices; (4) Unjust
+
+Enrichment; (5) Violation of RICO, 18 U.S.C. § 1962(c); and (6) Violation of
+
+RICO, 18 U.S.C. § 1962(d). UPS has now moved to dismiss Plaintiffs’ Amended
+
+Complaint pursuant to Federal Rule of Civil Procedure 12(b)(6), or in the
+
+alternative, for Judgment on the Pleadings pursuant to Federal Rule of Civil
+
+Procedure 12(c). (Def’s Mtn., Dkt. # 14). 3 As set forth below, the Court agrees
+
+with UPS’s Motion and dismisses Plaintiffs’ Amended Complaint.
+
+                                III. DISCUSSION
+
+A.      Standard of Review
+
+        Because UPS answered Plaintiffs’ original Complaint before moving to
+
+dismiss (Dkt. # 4), UPS’s Rule 12(b)(6) motion is arguably untimely. Scheid v.
+
+3
+  Plaintiffs have also moved for leave to file a sur-reply (Dkt. # 30) addressing the
+Supreme Court’s recent preemption decision in Northwest, Inc. v. Ginsberg, 134 S.
+Ct. 1422 (2014) and responding to what they characterize as “new” arguments
+regarding the 180-Day notice requirement. (Dkt. # 30). Because the Court does
+not need to address these issues as set forth in footnote 4, the Court denies
+Plaintiffs’ Motion.
+
+                                         13
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 14 of 40           Pg ID <pageID>
+
+
+
+Fanny Farmer Candy Shops, Inc., 859 F.2d 434, 436 n.1 (6th Cir. 1988). Plaintiffs
+
+subsequently amended their Complaint as a matter of course pursuant to Federal
+
+Rule of Civil Procedure 15(a)(1)(B). (Dkt. # 13). UPS did not answer Plaintiffs’
+
+Amended Complaint and instead filed the present Motion under Rule 12(b)(6), and
+
+in the alternative under 12(c). Whether Rule 12(b)(6) or 12(c) applies to UPS’s
+
+Motion is but an academic exercise: even if Defendants’ Motion is more properly
+
+construed as one for judgment on the pleadings, a 12(c) motion is “evaluated . . .
+
+under the standards for dismissal under Rule 12(b)(6).” Scheid, 859 F.2d at 436
+
+n.1.
+
+       In deciding such a motion, the Court must construe the complaint in the light
+
+most favorable to Plaintiffs and accept all well-pled factual allegations as true.
+
+League of United Latin Am. Citizens v. Bredesen, 500 F.3d 523, 527 (6th Cir.
+
+2007). To withstand a motion to dismiss, however, a complaint “requires more
+
+than labels and conclusions, and a formulaic recitation of the elements of a cause
+
+of action will not do.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555 (2007). The
+
+factual allegations in the complaint, accepted as true, “must be enough to raise a
+
+right to relief above the speculative level,” and must “state a claim to relief that is
+
+plausible on its face.” Id. at 570. “A claim has facial plausibility when the
+
+plaintiff pleads factual content that allows the court to draw the reasonable
+
+inference that the defendant is liable for the misconduct alleged.” Ashcroft v.
+
+
+                                          14
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 15 of 40         Pg ID <pageID>
+
+
+
+Iqbal, 556 U.S. 662, 678 (2009). “The plausibility of an inference depends on a
+
+host of considerations, including common sense and the strength of competing
+
+explanations for defendant’s conduct.” 16630 Southfield Ltd. P’ship v. Flagstar
+
+Bank, F.S.B., 727 F.3d 502, 504 (6th Cir. 2013).
+
+        The Sixth Circuit has emphasized that the “combined effect of Twombly and
+
+Iqbal [is to] require [a] plaintiff to have a greater knowledge . . . of factual details
+
+in order to draft a ‘plausible complaint.’” New Albany Tractor, Inc. v. Louisville
+
+Tractor, Inc., 650 F.3d 1046, 1051 (6th Cir. 2011) (citation omitted). Put another
+
+way, complaints must contain “plausible statements as to when, where, in what or
+
+by whom,” Center for Bio-Ethical Reform, Inc. v. Napolitano, 648 F.3d 365, 373
+
+(6th Cir. 2011), in order to avoid merely pleading an “unadorned, the-defendant-
+
+unlawfully-harmed-me accusation.” Iqbal, 556 U.S. at 678.
+
+B.      Plaintiffs’ State Law Claims 4
+
+        1.    Plaintiffs’ Contractual Claims -- Counts I and II -- Fail as a
+              Matter of Law
+        The crux of Plaintiffs’ case rests upon the notion that UPS’s Shipping
+
+Contract provides customers with the first $100.00 of liability coverage for free
+
+and that despite this “contractual obligation,” UPS charges its customers for this
+
+4
+  Given this Court’s conclusion regarding the insufficiency of Plaintiffs’ state law
+claims, it declines to decide whether Plaintiffs were obligated to contest the
+overcharges within 180 days under both the Shipping Contract and 49 U.S.C. §
+13710(a)(3)(B), as well as whether the Federal Aviation Administration
+Authorization Act preempts Plaintiffs’ unjust enrichment claim.
+
+                                          15
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 16 of 40          Pg ID <pageID>
+
+
+
+“free” coverage when it ships items with a declared value in excess of $300.00.
+
+Counts I and Counts II -- Breach of Contract and Declaratory Relief -- expressly
+
+arise out of the terms of the Shipping Contract and rise and fall together. As set
+
+forth below, Plaintiffs’ construction of the Shipping Contract renders its plain and
+
+unambiguous language meaningless.
+
+      It is well-settled under Michigan law that courts must construe contracts
+
+according to their unambiguous terms. Wilkie v. Auto-Owners Ins. Co., 469 Mich.
+
+41, 53 (2003). The initial determination whether contract language is ambiguous is
+
+a question of law; if there is no ambiguity, the meaning of the contract likewise is a
+
+question of law for the Court to decide. Port Huron Educ. Ass’n v. Port Huron
+
+Area School Dist., 452 Mich. 309, 323 (1996). “If the plain language is clear, there
+
+can be only one reasonable interpretation of its meaning and, therefore, only one
+
+meaning the parties could reasonabl[y] expect to apply.” Wilkie, 469 Mich. at 61
+
+(citation omitted). Only “[w]here the contract language is unclear or susceptible to
+
+multiple meanings” does its interpretation become a question for the trier of fact.
+
+Port Huron, 452 Mich. at 323.        A court, however, must take care to avoid
+
+“creat[ing] ambiguity where none exists.” Smith v. Physicians Health Plan, Inc.,
+
+444 Mich. 743, 759 (1994). Rather, a contract is ambiguous only if “its words may
+
+reasonably be understood in different ways.” Raska v. Farm Bureau Mut. Ins. Co.,
+
+412 Mich. 355, 362 (1982). In resolving this matter, a court must construe a
+
+
+                                         16
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 17 of 40           Pg ID <pageID>
+
+
+
+contract “according to its plain and ordinary meaning, and technical or constrained
+
+constructions are to be avoided.” Dillon v. DeNooyer Chevrolet Geo, 217 Mich.
+
+App. 163, 166 (1996). And as with statutory construction, the Court should “give
+
+effect to every word, phrase, and clause in a contract and avoid an interpretation
+
+that would render any part of the contract surplusage or nugatory.” Klapp v. United
+
+Ins. Grp. Agency, Inc., 468 Mich. 459, 468 (2003). “Courts may [also] rely on
+
+dictionary definitions to find the meaning of terms used in a contract.” Morley v.
+
+Auto. Club of Michigan, 458 Mich. 459, 470 (1998) (citation omitted).
+
+      Upon review of the Declared Value for Carriage language and the Shipping
+
+Contract as a whole, the Court concludes that the Shipping Contract
+
+unambiguously precludes Plaintiffs’ constrained contractual interpretation. The
+
+Shipping Contract makes clear that “UPS’s liability for loss or damage to a
+
+shipment is limited to $100.00 without a declaration of value.” For packages with
+
+a declared value of “$0.00 - $100.00,” it provides a charge of $0.00. In cases
+
+where a customer wants to increase UPS’s liability, he or she must do so “by
+
+making a declaration of value for an additional charge.” As set forth in the table
+
+directly across from this statement, an $0.85 charge applies “for each $100.00 . . .
+
+of the total value declared.” Though the term “total value declared” is not defined
+
+in the Shipping Contract, its core modifier -- “total” -- plainly means relating to the
+
+“whole,” “not divided” and “of or relating to something in its entirety.” BLACK’S
+
+
+                                          17
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 18 of 40           Pg ID <pageID>
+
+
+
+LAW DICTIONARY (9th ed. 2009); WEBSTER’S THIRD NEW INTERNATIONAL
+
+DICTIONARY, UNABRIDGED (2014). The Shipping Contract’s use of the phrase
+
+“total” therefore unambiguously means that packages shipped with a declared
+
+value of between $100.01 and $50,000.00 are charged $0.85 for each $100.00 (or
+
+portion of $100.00 thereof) of the total value declared.
+
+      Plaintiffs argue that the word “‘total’ clearly qualifies a specified range
+
+($100.01 - $50,000.00) such that for all of the increments . . . there is a charge of
+
+$0.85 for the total value declared.” (Plfs’ Resp., Dkt. # 19, at 16). By placing the
+
+“total value declared” language after the specified range, Plaintiffs argue, the
+
+Shipping Contract “indicates that [the ‘total’ qualifier] means the total declared
+
+value in that range.” (Id.) In so stretching this language, Plaintiffs’ Response
+
+shows the nature of their constrained reading as they must add language -- “in that
+
+range” -- in order to phrase the contract in a way that fits their theory. Essentially,
+
+Plaintiffs ask that this Court add the following language to give life to their
+
+contractual theories: “$100.01 - $50,000 for each $100.00 . . . of the total value
+
+declared above $100.00.” This Court will not rewrite an unambiguous contract.
+
+      Indeed, the placement of the phrase “total value declared” supports a finding
+
+of unambiguity. That phrase is immediately preceded not by a “specified range” as
+
+Plaintiffs insist, but rather by the dollar value that provides the applicable
+
+apportionment of the $0.85 cents: “for each $100.00 (or portion of $100.00) of the
+
+
+                                          18
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 19 of 40          Pg ID <pageID>
+
+
+
+total value declared.” The only possible reading is that when one declares a value
+
+of $100.01 - $50,000.00, UPS charges $0.85 “for each $100.00 (or portion of
+
+$100.00) of the total value declared.” Accordingly, the “total value declared”
+
+language clarifies that the additional charge applies to the entire value and not just
+
+the entire value above $100.00.
+
+      Plaintiffs’ interpretation also cannot be reconciled with the $2.55 minimum
+
+charge, a charge that must be read in conjunction with the rest of the table.
+
+Plaintiffs essentially maintain that the Shipping Contract charges $0.85 for each
+
+$100.00 or portion thereof and that the “first” $100.00 is free. In sum, this would
+
+operate as follows:
+
+                 Declared Value                          Additional Charge
+       $0.00 - $100.00                          $0.00
+       $100.01 - $ 200.00                       $0.85
+       $200.01 - $ 300.00                       $1.70
+       $300.01 - $ 400.00                       $2.55
+
+But Plaintiffs do not assert that UPS “overcharges” its customers for shipments
+
+with declared values between $100.01 and $300.00. Nor could they. The presence
+
+of the $2.55 minimum charge confirms that UPS does not provide the first $100.00
+
+in free coverage for declared values over $100.00. To accept Plaintiffs’ premise,
+
+this Court would also need to read out the minimum charge. This Court will not so
+
+modify unambiguous language.
+
+      The same is true with respect to declared values of more than $50,000 for
+
+
+                                         19
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 20 of 40         Pg ID <pageID>
+
+
+
+international shipments.    As set forth above, the language in that provision
+
+instructs shippers that “for shipments with a declared value of more than $50,000,
+
+multiply the total declared value by the rate to determine the declared value charge
+
+for the shipment.” Or, “$0.0085 times the declared value.”         If the Shipping
+
+Contract provides the first $100.00 for free as alleged by Plaintiffs, this
+
+unambiguous language certainly does not reflect such a promise.
+
+      Finally, the Court notes that other provisions within the “Value-Added
+
+Services” section of the Service Guide references some “free” services that UPS
+
+provides to certain shippers:
+
+
+
+
+(Ex. B to Plfs’ Am. Compl., Dkt. # 19, at 128). The Service Guide also references
+
+offering other services for “no additional charge.” (Id. at 62, 87, 190, 199). UPS’s
+
+
+
+                                        20
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 21 of 40            Pg ID <pageID>
+
+
+
+use of these terms -- especially the use of the word “free” within the same “Value-
+
+Added Services” section -- completely undermines any argument that the Shipping
+
+Contract does not permit billing for the first $100.00 of declared value coverage
+
+without charge for packages with a declared value of over $300.00.
+
+      The Court therefore finds that the Shipping Contract is unambiguous and
+
+may not be rewritten to fit Plaintiffs’ interpretation. Plaintiffs’ claims for breach of
+
+contract and declaratory relief must be dismissed.
+
+      2.     Plaintiffs’ Unjust Enrichment Claim -- Count IV -- Fails as a
+             Matter of Law
+      Plaintiffs plead their Unjust Enrichment claim in the alternative to their
+
+contract claim. (Plfs’ Am. Compl., Dkt. # 13, at ¶¶ 75-81). There is no question
+
+that the Federal Rules of Civil Procedure permit parties to plead alternative
+
+theories, even theories that are inconsistent. Detroit Tigers, Inc. v. Ignite Sports
+
+Media, LLC, 203 F. Supp. 2d 789, 793 (E.D. Mich. 2002) (Borman, J.) (citing Fed.
+
+R. Civ. P. 8(d)(2)-(3)). “In other words, a pleading does not become insufficient
+
+by reason of a party having made alternative, or even contradictory, claims.” Id.
+
+(citing Rowe v. Cleveland Pneumatic Co., 690 F.2d 88, 92 (6th Cir. 1982)).
+
+      With that said, the Federal Rules’ mere permission to plead in the alternative
+
+does not automatically necessitate a finding that an unjust enrichment claim may
+
+proceed in the face of pleading that a contract exists.         It is well-settled that
+
+“[u]njust enrichment . . . is not applicable when the parties are bound by an express
+
+                                          21
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 22 of 40        Pg ID <pageID>
+
+
+
+written agreement.” APJ Associates, Inc. v. N. Am. Philips Corp., 317 F.3d 610,
+
+617 (6th Cir. 2003). Under Michigan law,
+
+       The elements of a claim for unjust enrichment are: (1) receipt of a
+       benefit by the defendant from the plaintiff and (2) an inequity
+       resulting to plaintiff because of the retention of the benefit by
+       defendant. In such instances, the law operates to imply a contract in
+       order to prevent unjust enrichment. However, a contract will be
+       implied only if there is no express contract covering the same subject
+       matter.
+
+Barber v. SMH (US), Inc., 202 Mich. App. 366, 375 (1993) (internal citations
+
+omitted and emphasis added).
+
+       Here, Plaintiffs’ Amended Complaint only relies upon the existence of the
+
+Shipping Contract to form the basis of their claim that UPS systematically
+
+overcharges those who declare values in excess of $300.00. It unequivocally
+
+asserts that “Plaintiffs and the members of the [purported] Class are parties to
+
+uniform contracts with UPS regarding the shipment of items.” (Plfs’ Am. Compl.,
+
+Dkt. # 13, at ¶ 56). Their Amended Complaint also makes clear that UPS’s Terms
+
+“contain[] ‘the general terms and conditions of contract under which . . . [UPS] is
+
+engaged in the transportation of shipments.’” (Id. at ¶ 26) (citing the Terms). And
+
+“[p]ursuant to the terms of [the Shipping Contract], UPS is contractually obligated
+
+to provide[] Plaintiffs and the members of the [purported] Class with $100 of
+
+coverage for loss of damage at no additional charge for each shipment.” (Id. at ¶
+
+57).
+
+
+                                        22
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 23 of 40        Pg ID <pageID>
+
+
+
+        Plaintiffs have failed to adequately plead unjust enrichment. They have
+
+identified no conduct by UPS representing that it would provide the first $100.00
+
+of liability coverage free of charge other than the express language addressed
+
+above within the Shipping Contract. It is clear under Michigan law that Plaintiffs
+
+and UPS have a contractual relationship by virtue of Plaintiffs shipping packages
+
+pursuant to the Shipping Contract, and that this contractual relationship precludes
+
+Plaintiffs from bringing their unjust enrichment claim. Simply, Michigan law does
+
+not permit this Court to imply a contract where there is an express contract
+
+covering the same subject matter. Barber, 202 Mich. at 375; Ealey v. Benjigates
+
+Estates, LLC, 2013 WL 6409987, at *5 (E.D. Mich. Dec. 9, 2013) (Berg, J.)
+
+(similar); Savett v. Whirlpool Corp., 2012 WL 3780451, at *7 (N.D. Ohio Aug. 31,
+
+2012) (“[C]ommon sense dictates that an ordinary consumer transaction . . . is
+
+governed by a contract. Because the dispute centers around whether defendant
+
+delivered what it promised, the existence of an express contract bars an unjust
+
+enrichment claim.”). Plaintiffs have just not put forth any argument distinguishing
+
+this well-settled principle from those deviating cases where there was a question as
+
+to whether the contract at issue applied. (Plfs’ Resp., Dkt. # 19, at 18-19).5
+
+
+5
+  Plaintiffs’ briefing also argues that Defendant’s “lack of contractual privity”
+affirmative defense (presumably in reference to its use of third-party retailers)
+raises issues regarding the scope of the Shipping Contract that are not appropriate
+at this procedural posture. (Plfs’ Resp., Dkt. # 19, at 19). “For purposes of a
+motion for judgment on the pleadings, all well-pleaded material allegations of the
+
+                                          23
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 24 of 40         Pg ID <pageID>
+
+
+
+      Accordingly, Plaintiffs’ Unjust Enrichment claim fails.
+
+C.    Plaintiffs’ Federal Claims
+
+      1.     Plaintiffs’ 49 U.S.C. § 13708 Claim -- Count III -- Fails as a
+             Matter of Law
+      49 U.S.C. § 13708 sets forth UPS’s various billing and collection obligations
+
+as a motor carrier. In relevant part, it provides as follows:
+
+      (a) Disclosure. A motor carrier subject to jurisdiction under
+      subchapter I of chapter 135 shall disclose, when a document is
+      presented or electronically transmitted for payment to the person
+      responsible directly to the motor carrier for payment or agent of such
+      responsible person, the actual rates, charges, or allowances for any
+      transportation service and shall also disclose, at such time, whether
+      and to whom any allowance or reduction in charges is made.
+
+      (b) False or misleading information. No person may cause a motor
+      carrier to present false or misleading information on a document about
+      the actual rate, charge, or allowance to any party to the transaction.
+
+§ 13708(a-b). Plaintiffs allege that by charging customers for the first $100.00 for
+
+packages with a declared value in excess of $300.00 notwithstanding its
+
+representations in the Shipping Contract to the contrary, UPS violates both of these
+
+subsections. (Plfs’ Am. Compl., Dkt. # 13, at ¶¶ 70-71).
+
+
+
+pleadings of the opposing party must be taken as true, and the motion may be
+granted only if the moving party is nevertheless clearly entitled to judgment.”
+JPMorgan Chase Bank, N.A. v. Winget, 510 F.3d 577, 581 (6th Cir. 2007) (citation
+omitted and emphasis added). As set forth in text, Plaintiffs expressly alleged that
+they were “parties to uniform contracts with UPS” and are bound by this
+admission. Hughes v. Vanderbilt Univ., 215 F.3d 543, 549 (6th Cir. 2000). And,
+more importantly, Plaintiffs have not identified any conduct sufficient to support
+their “overcharge” theory that is divorced from the Shipping Contract.
+
+                                          24
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 25 of 40          Pg ID <pageID>
+
+
+
+      Very few federal courts have addressed such claims. At the outset and
+
+though not raised by the parties, the Court notes that the Sixth Circuit has not
+
+examined whether 49 U.S.C. § 14704(a)(2) -- the Interstate Commerce
+
+Commission Termination Act’s “Rights and remedies of persons injured by
+
+carriers or brokers” provision -- creates a private right of action for Plaintiffs’
+
+claims. See also Mason and Dixon Lines, Inc. v. Steudle, 761 F. Supp. 2d 611, 622
+
+(E.D. Mich. 2011) (Lawson, J.) (“Courts have reached inconsistent results on
+
+whether 49 U.S.C. § 14704(a)(2) creates a private right of action.”). The bulk of
+
+the case law suggests that because Section 14704(a)(2) makes a “carrier or broker .
+
+. . liable for damages sustained by a person as a result of an act or omission of that
+
+carrier or broker in violation of this part” and because the legislative history and
+
+regulatory guidance suggest private enforcement, Section 14704(a)(2) creates a
+
+private right of action. See, e.g., Fulfillment Servs. Inc. v. United Parcel Serv.,
+
+Inc., 528 F.3d 614, 620-21 (9th Cir. 2008) (rejecting UPS’s argument that §
+
+14704(a)(2) did not authorize a right of action to bring a claim under another
+
+provision of the Interstate Commerce Commission Termination Act, § 13703,
+
+noting that “[a]lthough Congress may have had different purposes in enacting
+
+different provisions of the [Motor Carrier Act], the plain language of § 14704(a)(2)
+
+provides equally a damages remedy for ‘an act or omission . . . in violation’ of the
+
+[Act], without discriminating as to provisions under the Act.”); see also Owner-
+
+
+                                         25
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 26 of 40          Pg ID <pageID>
+
+
+
+Operator Indep. Drivers Assoc., Inc. v. New Prime, Inc., 192 F.3d 778, 783-85 (8th
+
+Cir. 1999) (similar); Fitzpatrick v. Morgan Southern, Inc., 261 F. Supp. 2d 978,
+
+979-81 (W.D. Tenn. 2003) (similar); Tayssoun Transp., Inc. v. Universal Am-Can,
+
+Ltd., 2005 WL 1185811, at *12-16 (S.D. Tex. Apr. 20, 2005) (collecting cases).
+
+This Court need not reach a conclusion on this issue because even assuming that
+
+Section 14704(a)(2) authorizes Plaintiffs to sue UPS for violations of Section
+
+13708, Plaintiffs have not stated a claim for relief under Section 13708 for two
+
+reasons.
+
+      First, Plaintiffs premise their Section 13708 claim solely on their view of the
+
+Shipping Contract.     Having comprehensively addressed this constrained view
+
+above, Plaintiffs’ Section 13708 theory collapses and therefore fails to state a claim
+
+for relief. They have not set forth any facts indicating that UPS failed to disclose
+
+“the actual rates, charges, or allowances” and “whether and to whom any
+
+allowance or reduction in charges [was] made.” Nor have they set forth any facts
+
+indicating that a person caused UPS to “present false or misleading information on
+
+a document about the actual rate, charge, or allowance to any party to the
+
+transaction.”   Twombly, 550 U.S. at 570; Iqbal, 556 U.S. at 678; see also
+
+U1IT4less, Inc. v. FedEx Corp., 896 F. Supp. 2d 275, 293-94 (S.D.N.Y. 2012)
+
+(discussed in more detail infra); Grocery Haulers, Inc. v. C & S Wholesale
+
+Grocers, Inc., 2012 WL 4049955, at *9 (S.D.N.Y. Sept. 14, 2012) (holding that
+
+
+                                         26
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 27 of 40       Pg ID <pageID>
+
+
+
+subsection (b) did not apply to a common carrier “because it did not ‘cause a motor
+
+carrier to engage in the relevant conduct; rather, [the common carrier] itself
+
+engaged in this conduct”); Haley Hill Designs, LLC v. United Parcel Services.,
+
+Inc., 2009 WL 4456209, at *3 (C.D. Cal. Nov. 23, 2009) (dismissing plaintiffs’
+
+claims under Section 13708(a) and (b) because they did not allege “that the rate
+
+was falsely inflated or otherwise inaccurate,” could not “point to any ‘false or
+
+misleading information’ given by [UPS],” did not allege that UPS’s “invoices
+
+failed to disclose the actual rates and charges,” and “that Section 13708(b) does not
+
+even apply to motor carriers, but rather to ‘person[s]’ who ‘cause a motor carrier to
+
+present false or misleading information,’ i.e., a customer who receives an off-bill
+
+discount that it does not want the carrier to disclose to the ultimate payer.”)
+
+(second alteration in original)).6
+
+        Second, even if this Court concluded otherwise, it is persuaded that Section
+
+13708 does not support a claim that a common carrier overbilled for shipping
+
+services. Though very few district courts have addressed the scope of Section
+
+13708, the U1IT4less matter out of the Southern District of New York presents
+
+6
+  Plaintiffs apparently recognize their pleading problem with respect to subsection
+(b), arguing in Response that discovery may reveal that UPS “caused its affiliated
+motor carriers to present false and misleading rate information in the alleged
+billing scheme” or that “UPS gives third-party retailers a portion of the alleged
+overcharge.” (Plfs’ Resp., Dkt. # 19, at 36-38 & n.24). There are two problems
+with this argument. First, Plaintiffs have not alleged such facts in their Amended
+Complaint. Second and even if they did, their “overcharge” allegation falls apart
+when one reviews the plain language of the Shipping Contract.
+
+                                         27
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 28 of 40           Pg ID <pageID>
+
+
+
+analogous facts and claims and contains significant on-point discussion that is
+
+well-reasoned. Accordingly, this Court finds it to be persuasive and therefore
+
+alternatively finds that Plaintiffs’ Section 13708 claim is not supported in law.
+
+      In U1IT4less, the plaintiff shipped hundreds of packages weekly via FedEx.
+
+896 F. Supp. 2d at 281. The plaintiff did so by licensing FedEx’s shipping
+
+software so that it “could transmit details of each of its shipments to [FexEx], print
+
+shipping labels, and schedule pick-ups with FedEx.” Id. As pertinent here, the
+
+plaintiff alleged that FedEx charged plaintiff “for a shipment weight that was
+
+greater than the actual package weight.” Id. This “upweighting” occurred because
+
+FedEx’s software “cause[d] package weight . . . to be fixed at a fictive higher
+
+weight than its actual weight.” Id. at 282. FedEx knew this, alleged plaintiff, but
+
+concealed it by utilizing “a labyrinthine and corrupt” billing model that
+
+“obscure[d] billing discrepancies, and . . . include[d] draconian billing adjustment
+
+terms and conditions, and other unfair and deceptive structures, terms and tools
+
+designed to disadvantage customers in their transactions with [FexEx].” Id. “For
+
+example, [FedEx’s] billing system disaggregates charges for a single shipment into
+
+many different statements, ‘with no single invoice itemizing and totaling all the
+
+charges included in each transaction,’ making it difficult for shippers to piece
+
+together the total charge for a single shipment.” Id.
+
+
+
+
+                                         28
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 29 of 40         Pg ID <pageID>
+
+
+
+      In addition to “upweighting,” the plaintiff also alleged FedEx overcharged
+
+for custom fees on shipments to Canada and failed to apply certain discounts. Id.
+
+at 283-84. As to the former, the shipper was to pay Canadian customs charges
+
+under FedEx’s standard shipping agreement unless the shipper informed FedEx
+
+that the recipient would pay. Id. at 283. The plaintiff so informed FedEx, but
+
+FedEx charged customs fees anyway. Id. As to the latter, the plaintiff alleged that
+
+FedEx’s pricing agreement entitled it to certain discounts that FedEx did not apply.
+
+Id. at 284.
+
+      On these facts, the plaintiff alleged that FexEx violated Section 13708(b)’s
+
+prohibition against presenting “false or misleading information on a document
+
+about the actual rate, charge, or allowance to any party to the transaction.” The
+
+U1IT4less court dismissed this claim, finding that “Section 13708 requires
+
+disclosure of (and prohibits false or misleading information associated with) off-
+
+bill discounts and the like. . . . [Accordingly, it] proscribe[s] presentation of a
+
+document (such as an invoice) indicating that a customer was charged a certain
+
+amount, when in fact the carrier actually charged that customer a lesser amount.”
+
+Id. at 294. In so holding, the court discussed the section’s legislative history and
+
+agency guidance:
+
+      Section 7 of the Negotiated Rates Act of 1993 amended the
+      predecessor of Section 13708 to state:
+
+
+
+                                        29
+2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 30 of 40         Pg ID <pageID>
+
+
+
+          (a) REGULATIONS LIMITING REDUCED RATES.—
+          Not later than 120 days after the date of the enactment of
+          this section, the Commission shall issue regulations that
+          prohibit a motor carrier subject to the jurisdiction of the
+          Commission under subchapter II of chapter 105 of this
+          title from providing a reduction in a rate set forth in its
+          tariff or contract for the provision of transportation of
+          property to any person other than (1) the person paying
+          the motor carrier directly for the transportation service
+          according to the bill of lading, receipt, or contract, or (2)
+          an agent of the person paying for the transportation.
+
+          (b) DISCLOSURE OF ACTUAL RATES, CHARGES,
+          AND ALLOWANCES.—The regulations of the
+          Commission issued pursuant to this section shall require
+          a motor carrier to disclose, when a document is presented
+          or transmitted electronically for payment to the person
+          responsible directly to the motor carrier for payment or
+          agent of such responsible person, the actual rates,
+          charges, or allowances for the transportation service and
+          shall prohibit any person from causing a motor carrier to
+          present false or misleading information on a document
+          about the actual rate, charge, or allowance to any party to
+          the transaction. Where the actual rate, charge, or
+          allowance is dependent upon the performance of a
+          service by a party to the transportation arrangement, such
+          as tendering a volume of freight over a stated period of
+          time, the motor carrier shall indicate in any document
+          presented for payment to the person responsible directly
+          to the motor carrier for the payment that a reduction,
+          allowance, or other adjustment may apply.
+
+    Negotiated Rates Act of 1993, Pub. L. No. 103–180, § 7, 107 Stat.
+    2044, repealed by ICC Termination Act of 1995, § 102(a), Pub. L.
+    No. 104–88, 109 Stat. 803, 804. Section 7(a) mandated regulations
+    prohibiting “off-bill discounting” -- that is “a practice by which motor
+    carriers provide discounts, credits or allowances to parties other than
+    the freight bill payer, without notice to the payer.” See Regulations
+    Implementing Section 7 of the Negotiated Rates Act of 1993, Ex Parte
+    No. MC–180 (Sub–No. 3), 2 S.T.B. 73, 1997 WL 106986, at *1 (Feb.
+
+                                       30
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 31 of 40          Pg ID <pageID>
+
+
+
+      25, 1997). Section 7(b) -- the nearly-verbatim predecessor to Section
+      13708 -- mandated “truth-in-billing” regulations, i.e., regulations
+      requiring disclosure of the “actual rate, charge or allowances for the
+      transportation service[s].” See id. at *1 & n. 6. The ICC Termination
+      Act of 1995 (which created the STB) repealed the Section 7(a)
+      mandate to issue off-bill discount regulations, and placed the Section
+      7(b) truth-in-billing requirements directly into Section 13708. See §§
+      102(a), 103, 109 Stat. at 804, 873; Regulations Implementing Section
+      7 of the Negotiated Rates Act of 1993, 1997 WL 106986, at *2 (“Now,
+      the statute no longer requires that we maintain regulations prohibiting
+      the practice of granting off-bill discounts; it does, however,
+      affirmatively require carriers to disclose certain information when
+      they engage in the practice.”); id. at *4 (“Off-bill discounting is not
+      prohibited by statute, while truth-in-billing provisions are expressly
+      embodied in the statute.”).
+
+Id. at 293-94.
+
+      Against this statutory and regulatory backdrop, the U1IT4less court drew a
+
+distinction between what the statute proscribed and what the plaintiff alleged:
+
+      [T]he statute is not directed at activity alleged in connection with the
+      upweighting and Canadian Customs schemes. The statute prohibits
+      invoices hiding off-bill discounts; Plaintiff does not allege that
+      Defendants did that. While the upweighting or Canadian Customs
+      schemes might be said to involve invoices that overcharged Plaintiff,
+      it cannot be said that these invoices misrepresented that a higher rate
+      was charged when actually a lower rate was charged.
+
+      With respect to the “missing discounts,” Plaintiff alleges it was
+      entitled to receive certain discounts, and that “defendants failed to
+      apply or improperly applied the discounts to which plaintiff was
+      entitled.” This is not the hiding of off-bill discounts to which Section
+      13708(b) is directed; Defendants are not alleged to have actually
+      granted a discount that did not appear on a bill. Instead, Plaintiff
+      alleges it was entitled to discounts it did not receive. Section
+      13708(b) simply does not apply to this activity.
+
+
+
+                                         31
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 32 of 40       Pg ID <pageID>
+
+
+
+        In other words, Section 13708(b) prohibits issuing a bill for amount x
+        when the actual charge is less than x. Here, Defendants are alleged to
+        have actually charged x when by contract Plaintiff should have been
+        charged less than x. Defendants’ conduct did not misrepresent the
+        “actual rate [or] charge” within the meaning of Section 13708(b), and
+        thus the Motion to Dismiss Count IV is granted.
+
+Id. at 294 (internal record citations omitted).
+
+        This Court finds the U1IT4less decision to be well-reasoned and persuasive.
+
+Both matters present the indistinguishable allegation that a common carrier
+
+overbilled for shipping services.      Section 13708(a) and (b) address “truth-in-
+
+billing,” mandating that bills reflect the actual charges assessed -- including an
+
+explanation of discounts that are applied off the four corners of an invoice. It
+
+simply does not apply to Plaintiffs’ allegations that UPS’s bills reflect charges that
+
+were more than agreed to. 7
+
+        2.    Plaintiffs’ RICO Claims -- Counts V and VII -- Fail as a Matter of
+              Law
+        In coordination with its affiliated franchises and sales network, Plaintiffs
+
+
+7
+  Plaintiffs’ reliance on Grocery Haulers does not change this Court’s conclusion
+that Section 13708 does not apply to “other types of misleading billing practices.”
+(Plfs’ Resp., Dkt. # 19, at 37). In that matter, a carrier transported goods directly
+to customers instead of to a consignee as agreed with the shipper. Grocery
+Haulers, 2012 WL 4049955, at *2-4. The carrier invoiced the shipper as if it had
+delivered the goods to the consignee (and saved the consignee the cost of shipping
+the goods to the end-customer). Id. The court, without significant discussion,
+found that the carrier violated subsection (a) by presenting invoices that contained
+inaccurate miles driven and inappropriate road use taxes. Id. at *8. But as set forth
+in text, Plaintiffs have not identified any false or misleading billing practices by
+UPS outside of their alleged “overbilling” claim.
+
+                                          32
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 33 of 40             Pg ID <pageID>
+
+
+
+allege that UPS “engaged in a scheme to defraud Plaintiffs” by fraudulently
+
+overcharging customers for declared value coverage. (Plfs’ Am. Compl., Dkt. #
+
+13, at ¶¶ 82-99). By “using the wires and mail to bill and cause charges to be
+
+billed to Plaintiffs . . . that include the Declared Value Overcharge,” Plaintiffs
+
+assert that UPS is liable under RICO for participating in an enterprise of
+
+racketeering activity in violation of 18 U.S.C. § 1962(c) and for conspiring to do so
+
+in violation of 18 U.S.C. § 1962(d). (Id. at ¶ 87). More “specifically,” Plaintiffs
+
+assert that “UPS and the Declared Value Enterprise members knew the bills for the
+
+first $100 of Declared Value coverage was fraudulent and unauthorized. UPS has
+
+been repeatedly informed of the impropriety of this charge, as has its partners, and
+
+they nonetheless have failed to take corrective action and instead have knowingly
+
+or at least recklessly failed to alter its behavior.” (Id. at ¶ 90). UPS argues that this
+
+Court should dismiss these claims for a host of reasons, including because
+
+Plaintiffs have not identified a “misrepresentation” sufficient to infer a scheme to
+
+defraud. This Court agrees.
+
+      18 U.S.C. § 1962(c) provides that:
+
+      It shall be unlawful for any person employed by or associated with
+      any enterprise engaged in, or the activities of which affect, interstate
+      or foreign commerce, to conduct or participate, directly or indirectly,
+      in the conduct of such enterprise’s affairs through a pattern of
+      racketeering activity or collection of unlawful debt.
+
+It is well-established that in order to prevail on a RICO cause of action, a plaintiff
+
+
+                                           33
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 34 of 40        Pg ID <pageID>
+
+
+
+must establish “(1) conduct (2) of an enterprise (3) through a pattern (4) of
+
+racketeering activity.” Moon v. Harrison Piping Supply, 465 F.3d 719, 723 (6th
+
+Cir. 2006) (quoting Sedima, S.P.R.L. v. Imrex Co., Inc., 473 U.S. 479, 496 (1985)).
+
+“Racketeering activity” is any act that is indictable under certain enumerated
+
+federal criminal statutes. 18 U.S.C. § 1961(1)(B); Advocacy Org. for Patients &
+
+Providers v. Auto Club Ins. Ass’n, 176 F.3d 315, 322 (6th Cir.1999). In this case,
+
+Plaintiffs have identified UPS’s alleged “racketeering activity” as mail fraud in
+
+violation of 18 U.S.C. § 1341 and wire fraud in violation of § 1343. (Plfs’ Am.
+
+Compl., Dkt. # 13, at ¶ 89).
+
+      The Sixth Circuit recently described the pleading requirements for setting
+
+forth predicate acts of mail and wire fraud sufficient to state a RICO claim as
+
+follows:
+
+      Mail fraud consists of “(1) a scheme to defraud, and (2) use of the
+      mails in furtherance of the scheme.” United States v. Jamieson, 427
+      F.3d 394, 402 (6th Cir. 2005). The elements of wire fraud are
+      essentially the same except that one must use the wires in furtherance
+      of the scheme to defraud. United States v. Daniel, 329 F.3d 480, 486
+      n.1 (6th Cir. 2003) (noting that the statutes share the same relevant
+      language and the same analysis should be used for each). “A scheme
+      to defraud includes any plan or course of action by which someone
+      uses false, deceptive, or fraudulent pretenses, representations, or
+      promises to deprive someone else of money.” Jamieson, 427 F.3d at
+      402. A plaintiff must also demonstrate scienter to establish a scheme
+      to defraud, which is satisfied by showing the defendant acted either
+      with a specific intent to defraud or with recklessness with respect to
+      potentially misleading information. United States v. DeSantis, 134
+      F.3d 760, 764 (6th Cir. 1998).
+
+
+                                        34
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 35 of 40          Pg ID <pageID>
+
+
+
+      When pleading predicate acts of mail or wire fraud, in order to satisfy
+      the heightened pleading requirements of Rule 9(b), a plaintiff must
+      “(1) specify the statements that the plaintiff contends were fraudulent,
+      (2) identify the speaker, (3) state where and when the statements were
+      made, and (4) explain why the statements were fraudulent.” Frank v.
+      Dana Corp., 547 F.3d 564, 570 (6th Cir. 2008) (quoting Gupta v.
+      Terra Nitrogen Corp., 10 F. Supp. 2d 879, 883 (N.D. Ohio 1998)). A
+      RICO plaintiff is not required to plead or prove first-party reliance on
+      an allegedly false statement. See Bridge v. Phoenix Bond & Indem.
+      Co., 553 U.S. 639, 648, 128 S.Ct. 2131, 170 L.Ed.2d 1012 (2008). To
+      allege a valid RICO claim, however, a plaintiff must show not only
+      that the predicate act was a “but for” cause of plaintiff's injuries, but
+      also that it was a proximate cause. Holmes v. Sec. Investor Prot.
+      Corp., 503 U.S. 258, 268, 112 S.Ct. 1311, 117 L.Ed.2d 532 (1992). A
+      plaintiff must show “some direct relation between the injury asserted
+      and the injurious conduct alleged.” Id.
+
+Heinrich v. Waiting Angels Adoption Servs., Inc., 668 F.3d 393, 404-05 (6th Cir.
+
+2012). Plaintiffs’ RICO claims do not satisfy this standard.
+
+      Courts, including the Sixth Circuit, are skeptical of finding RICO claims that
+
+“sound[] in contract. [One] cannot successfully transmute them into RICO claims
+
+by simply appending the terms ‘false’ and ‘fraudulent.’” Kolar v. Preferred Real
+
+Estate Investments, Inc., 361 F. App’x 354, 363 (3d Cir. 2010). In Blount v.
+
+Financial Services, Inc. v. Walter E. Heller & Company, for example, the Sixth
+
+Circuit dismissed a RICO claim “arising from a financing contract” where the
+
+plaintiff alleged that the defendant “charged a rate of interest which was illegal
+
+under the contract between the parties:”
+
+      The fact that the parties take different positions under the contract as
+      to the appropriate prime rate, or the fact that the defendant charged
+      too high a “prime rate” and thereby concealed or refused to disclose
+
+                                           35
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 36 of 40            Pg ID <pageID>
+
+
+
+      what the plaintiff considers the true prime rate called for under the
+      contract, does not give rise to a valid claim for fraud. . . . The plaintiff
+      has not alleged with particularity any such false statement of fact and
+      therefore the District Court was correct in dismissing the complaint.
+      Sending a financial statement which misconstrues the prime rate
+      provided by the terms of the contract may breach the contract but it
+      does not amount to a RICO mail fraud cause of action. Rule 9(b)
+      requiring “averments of fraud . . . with particularity” is designed to
+      allow the District Court to distinguish valid from invalid claims in just
+      such cases as this one and to terminate needless litigation early in the
+      proceedings.
+
+819 F.2d 151, 152-53 (6th Cir. 1987) (emphasis added).
+
+      Other courts within this District and across the United States are in accord
+
+with Blount’s general holding that RICO claims arising out of contracts must
+
+sufficiently plead fraudulent acts independent of a breach of contract.              In
+
+Kevelighan v. Trott & Trott, P.C., for example, Judge Duggan of this District
+
+dismissed an allegation that various entities fraudulently enforced mortgage
+
+agreements through “Pooling and Servicing Agreements” “by sending billing
+
+notices that attempted to collect excessive attorney fees and/or repayment of
+
+advances not yet due.” 771 F. Supp. 2d 763, 778 (E.D. Mich. 2010) (Duggan, J.).
+
+In so dismissing the plaintiffs’ RICO claims, Judge Duggan noted that the claims
+
+“primarily sound[ed] in contract. The parties simply dispute, under the relevant
+
+mortgage terms, the amount of attorney fees that can be charged and when
+
+repayment of advancements become due. Plaintiffs cannot transform these claims
+
+into RICO claims by merely alleging that the purported attempts to breach the
+
+
+                                          36
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 37 of 40             Pg ID <pageID>
+
+
+
+mortgage terms were done ‘fraudulently.’”            Id. (citing Blount and Kolar).
+
+Similarly, Judge Steeh recently dismissed RICO claims where the plaintiff
+
+“claim[ed] that [the] defendants billed plaintiff for tax related services at a rate that
+
+was not agreed to by the parties.         However, sending billing invoices which
+
+erroneously apply a charge for tax related services under the terms of a contract
+
+does not amount to fraud.” C & L Ward Bros., Co. v. Outsource Solutions, Inc.,
+
+2012 WL 3157005, at *5 (E.D. Mich. Aug. 3, 2012) (Steeh, J.); see also
+
+Renaissance Ctr. Venture v. Lozovoj, 884 F. Supp. 1132, 1144 (E.D. Mich. 1995)
+
+(Hackett, J.) (similar); Kolar, 361 F. App’x at 363 (collecting cases).
+
+      To be sure, the Sixth Circuit has subsequently clarified that “Blount does not
+
+stand for a blanket prohibition of RICO claims related to contract disputes.” Dana
+
+Corp. v. Blue Cross & Blue Shield Mut. of N. Ohio, 900 F.2d 882, 885 (6th Cir.
+
+1990). In that case, Dana Corporation entered into an agreement with Blue Cross,
+
+whereby Blue Cross would administer its benefits plan. Id. at 884. Under the
+
+terms of the contract, Dana was to pay Blue Cross a refund if it exceeded certain
+
+cost limitations. Id. Blue Cross was supposed to adjust its charges to Dana to
+
+reflect these refunds, but allegedly never did. Id. Dana also alleged that “Blue
+
+Cross represented at meetings that Dana was receiving the benefit of Blue Cross’s
+
+cost reductions resulting from any hospital rebates.” Id.
+
+      The district court dismissed Dana’s RICO claims for failing to state a claim
+
+
+                                           37
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 38 of 40          Pg ID <pageID>
+
+
+
+and denied leave to amend, even though Dana alleged, as pertinent here, “specific
+
+instances of intentional false representations made by Blue Cross to Dana” and
+
+“that Blue Cross similarly defrauded a number of other [similar] clients.” Id. at
+
+884-85. In reversing, the Sixth Circuit contrasted the lack of allegations of specific
+
+misrepresentations in Blount with those in Dana:
+
+      We hold that Dana made sufficient allegations of intentional fraud by
+      Blue Cross to withstand a Fed.R.Civ.P. 12(b)(6) motion to dismiss,
+      for the focus is upon the pleadings, not any proof or evidence. Blount
+      does not stand for a blanket prohibition of RICO claims related to
+      contract disputes. Rather, the reason for dismissal in Blount was that
+      the plaintiff failed to make sufficient allegations of
+      “misrepresentations or omissions which were ‘reasonably calculated
+      to deceive persons of ordinary prudence and comprehension.’” 819
+      F.2d at 153 (citation omitted). In contrast, Dana has made such
+      allegations of misrepresentations and omissions by Blue Cross. . . .
+      We also note that Dana’s allegations are partially based upon
+      “information and belief.” However, in the proposed second amended
+      complaint, Dana made specific allegations of fraud, including the
+      letters alleged to contain misrepresentations. Issues as to Dana’s
+      proof of its allegations can be decided at a later stage; Dana’s present
+      allegations of intent are sufficient to state a claim.
+
+Id. at 885-86 (emphasis added).
+
+      Here, Plaintiffs’ Amended Complaint makes clear that the “fraudulent
+
+activity” about which they complain is derived solely from their flawed
+
+interpretation of the Shipping Contract. As discussed above, they do not allege any
+
+“fraudulent conduct” outside of Plaintiffs’ own attempt to twist the Shipping
+
+Contract’s language into something that it does not say.         They have not, for
+
+example, pointed to any other writing by UPS or a statement by one of its
+
+                                         38
+    2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 39 of 40      Pg ID <pageID>
+
+
+
+employees that could be construed as being part of a scheme to misrepresent the
+
+manner in which UPS charges for declared values in excess of $300.00. 8 Just like
+
+their other claims, Plaintiffs’ § 1962(c) claim collapses upon exposure of their
+
+contractual misreading. And because that claim fails, so does their conspiracy
+
+claim. Craigshead v. EF Hutton & Co., 899 F.2d 485, 495 (6th Cir. 1989).9
+
+                               IV. CONCLUSION
+
+        For these reasons,
+
+        IT IS HEREBY ORDERED that Defendant’s Motion to Dismiss Plaintiffs’
+
+First Amended Complaint in its Entirety or, in the alternative, for Judgment on the
+
+Pleadings [Dkt. # 14] is GRANTED;
+
+
+
+8
+   At best, Plaintiffs have alleged “on information and belief” that unidentified
+“shipping consultants” have brought “UPS’s practice of charging for the first $100
+. . . to UPS’s attention” and that “UPS routinely acknowledges the overcharge and
+credits the account.” (Plfs’ Am. Compl., Dkt. # 13, at ¶¶ 5, 8, 33, 42). Such an
+allegation falls well short of Rule 9(b)’s heightened pleading standards. Plaintiffs
+have not identified a specific shipping consultant, a shipper who received a credit,
+or set forth specific facts as to how UPS acknowledged that the charge was
+improper.
+9
+   It is this Court’s general practice to provide a plaintiff with an opportunity to
+amend a Complaint when faced with a dismissal that is readily curable because
+slight defects should not condemn an otherwise viable complaint. This practice
+need not be followed here, however, because amendment would be futile. See,
+e.g., Rose v. Hartford Underwriters Ins. Co., 203 F.3d 417, 420-21 (6th Cir. 2000).
+In response to Defendant’s Motion, Plaintiffs did not hint at additional factual
+allegations they could add to save their claims from dismissal. Lewis v. Wheatley,
+528 F. App’x 466, 470 (6th Cir. 2013) (amendment is futile when, among other
+things, a plaintiff does not “provide[] any additional factual allegations that [it]
+would submit in an amended complaint”).
+
+                                        39
+ 2:13-cv-15263-GER-RSW Doc # 36 Filed 07/01/14 Pg 40 of 40        Pg ID <pageID>
+
+
+
+      IT IS FURTHER ORDERED that Plaintiffs’ First Amended Complaint is
+
+dismissed with prejudice; and
+
+      IT IS FURTHER ORDERED that Plaintiffs’ Motion for Leave to File Sur-
+
+Reply in Opposition to Motion to Dismiss [Dkt. # 30] is DENIED.
+
+      IT IS SO ORDERED.
+
+
+
+Dated: July 1, 2014                   s/Gerald E. Rosen
+                                      Chief, Judge, United States District Court
+
+
+
+I hereby certify that a copy of the foregoing document was served upon the parties
+and/or counsel of record on July 1, 2014, by electronic and/or ordinary mail.
+
+                                      s/Julie Owens
+                                      Case Manager, (313) 234-5135
+
+
+
+
+                                        40
+

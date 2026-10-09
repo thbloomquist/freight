@@ -1,0 +1,81 @@
+                                             NATIONAL MOTOR FREIGHT CLASSIFICATION NMF 100-AV
+                                       DOCUMENTS AND GOVERNING RULES FOR TENDERING SHIPMENTS
+
+ITEM 250150-Continued
+                                          UNIFORM STRAIGHT BILL OF LADING TERMS AND CONDITIONS
+
+      Sec. 1. (a) The carrier shown as transporting the property                      (d) Absent carrier negligence, a carrier does not bear the risk of
+ described in this bill of lading shall be liable as at common law for any       loss or damage after unloading the shipment or tendering a trailer for
+ loss or damage to the shipment, except as provided herein.                      consignee unload if the freight is delivered in the quantity and condition
+       (b) No carrier shall be liable for any loss or damage caused by an        tendered to the carrier, and is in compliance with the carrier-accepted
+ Act of God, the public enemy, the authority of law, the act or default of       terms and conditions on the bill of lading, or in a written contract
+ the shipper, the defect or vice in the property, strikes and labor              between the parties to the transportation arrangement.
+ disputes, or any related causes. The burden to prove negligence is on                Sec. 5. (a) In the event of loss or damage, when one or more
+ the shipper.                                                                    articles, packages or pieces of property are tendered individually or
+      (c) The shipper is responsible that the packaging of the shipment          secured or unitized for shipment under one bill of lading, and where a
+ tendered to the carrier complies with the requirements of the current           released value has been stated in writing by the shipper on the bill of
+ National Motor Freight Classification (NMFC) for the transportation of          lading or is established in the applicable carrier’s tariff, the carrier’s
+ that commodity. Failure of the shipper to do so can result in the denial        maximum liability will be determined by multiplying the released value
+ of a claim, in whole or in part, for loss or damage attributable to the         times the weight of each individual article, package or piece lost or
+ failure to tender to the carrier properly packaged freight.                     damaged, not on the total weight of the handling unit or the shipment.
+      Sec. 2. (a) Unless arranged or agreed to in writing or electronically           (b) No carrier hereunder will carry or be liable in any way for any
+ prior to shipment, the carrier is not required to deliver a shipment by a       financial and commercial documents, currency, or for any articles of
+ particular schedule or in time for a particular market, but will transport      extraordinary value not specifically classified in the NMFC or tariffs
+ the shipment in the regular course of its providing transportation              unless an agreement in writing between the carrier and the shipper
+ services. If such arrangement or agreement exists the carrier shall not         which specifically identifies and authorizes the transportation of such
+ be liable for any delay or default in delivery if caused by any of the          articles to do so and a stipulated value of the articles are endorsed on
+ conditions identified in Sec. 1 (b) above, or from a faulty or impassable       this bill of lading.
+ highway, construction, congestion or an accident, or by the lack of                  Sec. 6. Every party, whether principal or agent, who ships
+ capacity of a highway, bridge or ferry.                                         explosives or dangerous goods, without previous full written disclosure
+      (b) When physical circumstances involving equipment or drivers             to the carrier of their nature, shall be liable for and indemnify the carrier
+ arise during transit which prevent the carrier from delivering a shipment,      against all loss or damage caused by such goods. Such goods may be
+ the carrier may forward the shipment by another carrier.                        warehoused at owner’s risk and expense or destroyed without
+      Sec. 3. (a) The terms and conditions governing the filing,                 compensation.
+ substantiation and processing of a claim for loss or damage are found                Sec. 7. (a) The consignor, consignee, or shipper shall be liable for
+ in Items 300100 through 300107 of the NMFC. A claim must be filed               the freight and other lawful charges accruing on the shipment, as billed
+ with the carrier within nine months of the date of the bill of lading, and      or corrected as specified in 49 U.S.C. §13710, and carrier may require
+ a civil action must be commenced within two years of the final                  prepayment of the charges prior to delivery and refuse to give up
+ disposition of the claim by the carrier. Failure to comply with either of       possession at the destination until payment is made, as specified in 49
+ the foregoing time limits will result in the carrier not being liable for the   U.S.C. § 13707(a).
+ claim. If different or additional terms and conditions for handling a loss           (b) Notwithstanding the provisions of subsection (a) above, the
+ or damage claim are established in a written agreement between the              consignee’s liability for payment of additional charges that may be
+ carrier and the shipper, or in the carrier's tariff, those provisions shall     found to be due after delivery shall be as specified by 49 U.S.C.
+ govern the filing, substantiating and processing of a loss or damage            §13706, except that the consignee need not provide the specified
+ claim.                                                                          written notice to the delivering carrier if the consignee is a for-hire
+         (b) Claims for damage must be filed with the carrier not more           carrier.
+ than nine (9) months from the date of delivery (or in the case of export             (c) In compliance with the carrier’s legal duties under 49 U.S.C.
+ traffic, not more than nine (9) months after delivery at the port of export,    Section 80113, the Federal Bill of Lading Act, 49 U.S.C. Section 13708,
+ or in the case of import traffic, not more than nine (9) months after           Billing and Collecting Practices, and 49 U.S.C. Section 14706, Liability
+ pickup at the place of tender). Claims for loss must be filed with the          of Carriers under Receipts and Bills of Lading, the carrier has the right
+ carrier not more than nine (9) months from the date of the bill of lading.      to inspect any shipment tendered to it for transportation.
+      Sec. 4. (a) If the property is stopped and held in transit upon                 (d) If the description of the articles, including weight or density of
+ request of the shipper, owner or party entitled to make such request, or        shipments, or other information on this bill of lading is found to be
+ the consignee refuses the shipment tendered for delivery by carrier or          incorrect or incomplete, the freight charges must be paid based upon
+ if carrier is unable to deliver the shipment, because of fault or mistake       the articles actually shipped.
+ of the consignor or consignee, the carrier’s liability shall then become             Sec. 8. (a) No agent of the shipper or other third party shall have
+ that of a warehouseman. Carrier shall promptly attempt to provide               the power to waive or vary any of the terms of this or any bill of lading,
+ notice, by telephonic or electronic communication as provided on the            unless such waiver or variation is in writing and is specifically
+ face of the bill of lading, if so indicated, to the shipper or the party, if    authorized or ratified by the shipper and the carrier.
+ any, designated to receive notice on this bill of lading. Storage charges,           (b) If this bill of lading is issued on the order of the shipper or its
+ based on carrier’s tariff, shall start no sooner than the next business         agent, with shipper and carrier authorization, in exchange or in
+ day following the attempted notification. Storage may be, at the carrier’s      substitution for a prior bill of lading, the signature of the shipper or its
+ option, in any location that provides reasonable protection against loss        agent on the prior bill of lading, or in connection with the prior bill of
+ or damage. The carrier may place the shipment in public storage at the          lading, as to a statement of value or the election of the applicable
+ owner’s expense and without liability to the carrier.                           liability shall be considered as part of and the same as if they were
+      (b) If the carrier does not receive disposition instructions within 24     written on or made in connection with this bill of lading.
+ hours from the time of the carrier’s attempted telephonic or electronic              Sec. 9. When a written contract has been negotiated and executed
+ notification, carrier shall advise that if it does not receive disposition      by the shipper, or its agent, and the carrier for the services provided,
+ instructions within five (5) days of that notification, carrier has the right   the terms and conditions set forth in the bill of lading which are not
+ to offer the shipment for sale, and carrier may sell the property under         covered in the contract, and are not in conflict with its provisions, also
+ such circumstances as may be authorized by law.                                 govern the transportation services provided for the shipment.
+      (c) When perishable goods cannot be delivered and disposition
+ instructions are not given within a time that is reasonable depending
+ upon the nature, purpose, and circumstances of the shipment, the
+ carrier may dispose of the property in a manner that the carrier deems
+ best serves its disposition.
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                       For explanation of abbreviations and reference marks, see last page of this Classification. ©NMFTA 2022                             669
+

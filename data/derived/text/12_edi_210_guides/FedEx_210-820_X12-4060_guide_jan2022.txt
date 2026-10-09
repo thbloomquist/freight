@@ -1,0 +1,2458 @@
+EDI INVOICING AND REMITTANCE IMPLEMENTATION
+GUIDE
+
+210 MOTOR CARRIER INVOICE DETAIL
+820 PAYMENT ORDER/REMITTANCE ADVICE
+VERSION 4060
+
+
+
+
+FedEx Express
+FedEx Ground
+FedEx Non-Transportation
+FedEx Smart Post Shipments
+
+U.S. & Canada Payors
+
+December 2022
+
+This version is effective as of December 2022.
+This document contains information proprietary and confidential to FedEx Corporation and may not be disclosed
+without authorization from FedEx. The proprietary and confidential information is contained on each page of the
+document and may not be copied or otherwise reproduced or distributed without authorization from FedEx.
+
+
+© 1992–2018 FedEx Corporation unpublished. FedEx and the FedEx “logo” are registered service marks of
+FedEx Corporation. All rights reserved.
+                                                                                                                  1
+                                                                                                                       FedEx Electronic Invoice and Remittance
+
+Contents
+Document Revision History .............................................................................................................................................. 3
+Introduction ...................................................................................................................................................................... 4
+What is EDI? ...................................................................................................................................................................... 4
+   Electronic Data File Process Flow ................................................................................................................................. 4
+   Guidelines and Limitations ........................................................................................................................................... 5
+   Duty/Tax Invoicing ........................................................................................................................................................ 6
+   Transmissions ............................................................................................................................................................... 6
+   Remittance Data Files and Payment Information ........................................................................................................ 6
+       Remittance Data File Information ............................................................................................................................ 6
+       Payment Guidance - U.S. Payor Only ........................................................................................................................ 6
+       EDI Remittance Data File and Payment Best Practices ............................................................................................. 7
+       Electronic Invoice Adjustment Notification - U.S. Payor Only .................................................................................. 7
+   Communication / File Delivery Options ........................................................................................................................ 8
+       sFTP (secure File Transfer Protocol) ......................................................................................................................... 8
+       AS2 ............................................................................................................................................................................ 8
+       Secured Website ....................................................................................................................................................... 8
+       Value Added Network............................................................................................................................................... 8
+Getting Started ................................................................................................................................................................. 9
+   Resources.................................................................................................................................................................... 10
+INVOICE RECORD LAYOUT - 210 TRANSACTION SET ..................................................................................................... 11
+   TRANSMISSION ENVELOPE ......................................................................................................................................... 11
+   SEGMENT SYNTAX ...................................................................................................................................................... 12
+   SEGMENT SYNTAX - NON TRANSPORTATION INVOICING .......................................................................................... 14
+   SEGMENT SYNTAX – LATE FEE ONLY INVOICE ............................................................................................................ 15
+   SAMPLE LATE FEE ONLY INVOICE ............................................................................................................................... 17
+   SEGMENT / MULTI PIECE SHIPMENT .......................................................................................................................... 18
+   DETAIL INVOICE LAYOUT ............................................................................................................................................ 19
+   SAMPLE EXPRESS/GROUND/SmartPost INVOICE FILE ................................................................................................ 32
+   CODES DICTIONARY .................................................................................................................................................... 34
+REMITTANCE FILE RECORD LAYOUT (820 TRANSACTION SET) ....................................................................................... 34
+   REMITTANCE ENVELOPE – ISA HEADER ...................................................................................................................... 34
+   SEGMENT SYNTAX ...................................................................................................................................................... 35
+   DESCRIPTION OF DATA ELEMENTS ............................................................................................................................. 36
+
+                                                                                                                                                                                      2
+                                                                                                               FedEx Electronic Invoice and Remittance
+
+ ADJUSTMENT REASON CODES (Used in the ADX02) .................................................................................................. 42
+ COMMON ABBREVIATIONS (Used in the NTE02) ...................................................................................................... 43
+ BREAKDOWN OF EIA FILES WITH OVER 10,000 ADJUSTMENT REQUESTS ................................................................. 44
+ EIA FILE CYCLE TIME.................................................................................................................................................... 44
+ X.12 820 Parcel Remittance Advice Examples ............................................................................................................ 45
+
+
+
+
+Document Revision History
+                                          Section                                                       Page             Date Updated
+FedEx Freight Bill Audit and Pay (FBAP) Certification Program                                             10              October 2022
+
+Payment Guidance - U.S. Payor Only                                                                         6              October 2022
+
+EDI Remittance Data File and Payment Best Practices                                                        7            December 2022
+
+X.12 820 Parcel Remittance Advice Examples                                                                45            December 2022
+
+
+
+
+                                                                                                                                                                        3
+                                                                       FedEx Electronic Invoice and Remittance
+
+Introduction
+The purpose of this guide is to assist electronic data trading partners with information about implementing
+an Electronic Data Interchange (EDI) process with FedEx for Invoicing and Remittance data of FedEx
+Express® and FedEx Ground® shipments. The guide discusses benefits of EDI and how to get started with
+implementation. This guide will also provide resources for obtaining additional information.
+
+What is EDI?
+Electronic Data Interchange (EDI) is the electronic exchange of business documents using a standardized
+format. The entities that transmit or receive this electronic data are called trading partners. EDI can be
+used to transfer invoice and remittance data for FedEx Express and Ground shipments between FedEx and
+authorized trading partners.
+
+EDI processing helps FedEx deliver top-quality service that takes advantage of advanced information
+management technology. EDI can help customers increase efficiency while reducing errors and operating
+costs. Additional specific benefits of implementing EDI with FedEx include:
+   •   Reduced paper handling and mailing costs. In most cases the costs to transmit an electronic
+       document is considerably less than mailing costs.
+   •   Invoices for multiple FedEx accounts can be combined into a single transmission. Electronic
+       invoicing enhances your control over accounts payable, even when shipments originate from
+       multiple sites.
+   •   Eliminates keying of invoice data and reduces errors, so you’ll spend less time and effort verifying
+       and processing your bills.
+   •   Electronic invoicing provides convenient verification of shipping charges and proof of delivery
+       (FedEx Express only).
+   •   Electronic invoicing allows for quick and accurate allocation of shipping costs to internal
+       departments and third parties, streamlining your accounting and improving cash flow.
+   •   Invoice adjustments can be submitted electronically.
+   •   Multiple data formats allow easy integration with Accounts Payable processes.
+
+ Electronic Data File Process Flow
+
+
+
+
+                                                                                                              4
+                                                                        FedEx Electronic Invoice and Remittance
+
+Guidelines and Limitations
+In addition to the terms and conditions stated in the FedEx Service Guide:
+ •   To be eligible for electronic invoicing, you must send your remittance data electronically
+     (US). Payment can be made via paper check or Electronic Funds Transfer (EFT).
+ •   Past due charges will be sent electronically unless otherwise specified. In accordance with the
+     FedEx Service Guide, payment must be made within 15 days of the invoice date.
+ •   Packaging Supplies/Retail Sales and Electronic Export Information/EEI charges will be included
+     with EDI files unless otherwise requested.
+ •   On your normal billing cycle, you will receive an invoice file for all account numbers requested to
+     be billed electronically.
+ •   All shipments billed to the accounts that you provide to us for electronic invoicing will be included
+     in the invoice transmission with the exception of Same Day Service.
+ •   You can receive Intra-U.S. and International invoices (separate invoice files) for both Express and
+     Ground.
+ •   Duty/tax invoices for International shipments will be included in the International file. Unless
+     otherwise instructed.
+ •   Electronic documents are not considered “received” until they are accessible on the receiving
+     mailbox.
+ •   Electronic documents transmitted for electronic invoice and remittance are considered written
+     documents. They constitute an original when they are printed from electronic files or records
+     established and maintained in the course of business.
+ •   Failure to retrieve electronic invoice files in a timely manner may result in termination of electronic
+     invoicing by FedEx. Paper invoicing will resume.
+ •   Lack of reference data provided by the shipper is NOT a valid reason for invoice adjustments.
+ •   Short payment problems identified by FedEx that are related to programming in your accounts
+     payable system or databases must be corrected immediately.
+ •   FedEx may modify electronic invoice and remittance formats at any time.
+ •   After implementation, either party can terminate electronic invoice and remittance with prior
+     notice.
+ •   Shipments are governed by service conditions in the current FedEx Service Guide and
+     Addendum.
+ •   If there is a conflict between this guide and the FedEx Service Guide, the Service Guide will take
+     precedence.
+
+
+
+
+                                                                                                               5
+                                                                        FedEx Electronic Invoice and Remittance
+
+Duty/Tax Invoicing
+The following guidelines and limitations apply to the FedEx Electronic Duty/Tax Invoicing process:
+   • Duty/tax adjustment requests may not be submitted electronically – these must be submitted in
+        writing.
+   • Duty/tax Customs documentation may be mailed or available online.
+   • The duty/tax tracking number in the duty/tax record will be the same tracking number used for
+        the transportation charges of the shipment.
+   • The International freight charges and duty/tax charges may be billed on separate invoices and
+        may appear in different electronic invoice files.
+
+Transmissions
+FedEx will transmit your invoice files either daily or weekly on your preferred billing day. The
+following guidelines and limitations apply:
+
+    •     Your ERS Analyst will assign a mailbox to you on our network, FedEx Net.
+
+    •     At no cost to you, FedEx will pay for the transmission of invoice and remittance files to an
+          electronic mailbox or to a value-added network of our choice. However, if you choose a
+          different network, FedEx pays the costs of the transmission interconnect only. Your company is
+          responsible for all charges from your value-added network provider.
+
+    •     You will provide and maintain your equipment, software, services, and testing necessary to
+          effectively and reliably send and receive electronic documents.
+
+    •     You are responsible for using proper mailbox procedures to ensure that all electronic
+          documents are duly authorized and protected from improper access.
+
+
+Remittance Data Files and Payment Information
+
+Remittance Data File Information
+For an explanation of how to structure a remittance/invoice adjustment file, refer to the Remittance File
+Record Layout section.
+
+Payment Guidance - U.S. Payor Only
+•       If paying by paper check:
+           ♦ Mail paper checks via the USPS to Attn: FedEx EDI, P.O. Box 371741, Pittsburgh, PA 15250-
+              7741.
+           ♦ Ship Overnight Letters to Attn: FedEx EDI, Box 371741, 500 Ross Street, Room 154-0455,
+              Pittsburgh, PA 15250-7741.
+                                .
+•       If paying by ACH/EFT:
+           ♦ Please email ACH-Request@fedex.com to request banking details.
+
+NOTE: Non-U.S. accounts should contact the billing or Credit & Collections department of your
+Country/Territory for payment options and address.
+
+                                                                                                              6
+                                                                         FedEx Electronic Invoice and Remittance
+
+EDI Remittance Data File and Payment Best Practices
+1. The remittance data file may contain the intra-U.S. Ground and Express and International invoices
+    (electronic or paper).
+2. Customer must transmit to FedEx an EDI remittance data file containing invoice numbers only
+    (preferred) or invoice and airwaybill numbers to indicate which shipments are being paid.
+3. Pay full amount of invoice. If you pay all of the tracking numbers on an invoice, create only one
+    payment record for that invoice
+4. If you make a partial payment, create a separate record for each tracking number.
+5. You have the option of submitting payments and invoice adjustments in the same remittance file, or in
+    separate files.
+6. EDI remittance data file header dollar amount must match detail lines total dollar amount within the
+    EDI remittance data file.
+7. There must be a one-payment-to-one-remittance-data-file ratio; the payment amount and remittance
+    data file totals must match dollars/cents exactly.
+8. The EDI remittance file reference number should be a unique number and included in the payment
+    remarks field for ACH/EFT payments or on the paper check stub for check payments.
+9. The remittance data file should arrive at FedEx prior-to or same-day-as the payment is deposited at
+    the bank.
+10. Please do not also email a remittance data file and/or print the invoice level detail on the check stub.
+11. If paying any invoice that exceeds $99,999.99 by Credit Card be sure to:
+     -   Create additional records in the remittance data file for that same invoice number as needed until
+         the amount of the invoice has been satisfied ensuring that no one invoice record exceeds
+         $99,999.99.
+     -   Provide a unique, never been used before, Reference Number for each record pertaining to that
+         same invoice number that is being paid. This will result in separate charges to the credit card
+         equal to the payment amount provided for each unique Reference Number.
+
+
+     Note: Paying by credit card requires you to work with your FedEx Sales Representative to obtain
+           approval and also requires additional EDI process setup. To request approval to pay by Credit
+           Card, please contact your Sales Representative for next steps.
+
+
+
+Electronic Invoice Adjustment Notification - U.S. Payor Only
+You may also use the remittance file to dispute invoicing charges. These are referred to as invoice
+adjustment items. Once FedEx has processed the invoice adjustment items submitted in your remittance
+file, you will receive an electronic invoice adjustment resolution file. The invoice adjustment resolution file
+uses the same structure as the invoicing file. You will receive the invoice and tracking number detail along
+with the invoice adjustment information. The file will contain one of the following resolution types for each
+tracking number:
+     •   Credit
+     •   Denial
+     •   Reject
+     •   Other
+
+                                                                                                                  7
+                                                                   FedEx Electronic Invoice and Remittance
+
+NOTE:
+•   Duty/tax adjustment requests must be submitted in writing.
+•   Adjustment requests for service failure or no proof of delivery must be submitted through the
+    invoice adjustment feature on fedex.com or the telephone invoice adjustment system at (800)
+    622-1147.
+
+
+Communication / File Delivery Options
+It is a FedEx Information Security requirement that customer data, both inbound and outbound, either
+be encrypted or be sent via a secured website. FedEx offers the following options for communication of
+data to trading partners.
+
+    sFTP (secure File Transfer Protocol)
+    sFTP (secure File Transfer Protocol) uses dedicated ports to transfer data securely between FedEx
+    and the customer. The connection is secure so no certificates or keys need to be exchanged. This
+    also means that the commands, as well as the passwords, are secure. This option uses secure shell
+    (SSH) encryption and a binary transfer. The data can either be pushed or delivered to a mailbox on
+    FedEx Net for customers retrieval
+
+
+    AS2
+    AS2 also known as EDI INT, or EDI over the internet is also supported by FedEx. AS2 essentially
+    creates a wrapper around EDI or flat files that enables sending them over the Internet. AS2 is a real-
+    time technology that provides security and encryption around the HTTP packets. It enables
+    information transmitted over public and private global networks to be digitally signed, secured, and
+    non-repudiated. The customer must have AS2 software to be able to use this option, but there are
+    no network charges.
+
+
+    Secured Website
+    Trading Partners may wish to access their mailbox via a secured website. This is a manual process
+    whereby the trading partner connects to a secure URL using a provided User ID and password. The
+    FedEx Net website allows the trading partner to upload and download files. Only one file can be
+    uploaded or downloaded at a time.
+
+
+    Value Added Network
+    FedEx has the ability to transmit to a Value-Added Network (VAN). GXS is the VAN FedEx uses
+    and GXS can interconnect to the trading partner’s VAN. There are transmission costs for this
+    option. FedEx will incur up to 50% of the transmission costs.
+
+
+
+
+                                                                                                         8
+                                                                      FedEx Electronic Invoice and Remittance
+
+Getting Started
+Once you have decided to use electronic invoice and remittance, follow this guide for onboarding and
+implementation. If you need help along the way, consult the ‘Resources’ section.
+
+You will need to successfully complete these steps before electronic invoice and remittance may begin:
+
+1. Please send requests for electronic invoice testing to EDI-InvandRemit@fedex.com. Please include
+   Company Name, Account Number, Contact Name, Contact Email, Contact Phone, and description of
+   request.
+
+2. If you need your Account Executive’s name and telephone number, call Customer Service at 800-463-
+   3339. Your Account Executive will submit the request to Electronic Revenue Support (ERS).
+
+3. Program your system to read the invoice file FedEx sends you, process it through your Accounts
+   Payable System, generate and send the remittance transmission (U.S. Payor only) (refer to the
+   ‘Invoice’ section) and return to FedEx a remittance data file.
+
+4. If you request invoice adjustments electronically, program your system to generate and send
+   adjustment information and receive adjustment resolution files (U.S. Payor only) (refer to the
+   ‘Remittance/Adjustment’ section).
+
+5. Validate in coordination with FedEx (Refer to the Implementation Guide for details).
+
+6. When electronic invoice process validation is complete and remittance (US payor only) testing is
+   approved, provide a list of all shipping accounts and the associated company names you want
+   implemented. At your requested production date, paper invoicing will be replaced with electronic
+   invoicing.
+
+
+
+
+                                                                                                            9
+                                                                                  FedEx Electronic Invoice and Remittance
+
+Resources
+
+
+             WHAT IS NEEDED                                                    WHAT TO DO
+
+ To request a specific EDI Implementation
+                                              Please email EDI-InvandRemit@fedex.com for assistance.
+ Guide:
+
+ To validate Electronic Invoice &
+                                              Please email EDI-InvandRemit@fedex.com for assistance.
+ Remittance processes:
+
+                                              Obtain your account executive’s name and telephone number by calling
+ To contact your account executive:
+                                              Customer Service at 800 463-3339 (800 Go FedEx).
+
+
+ Answers to billing questions or to request   Call FedEx Revenue Services at: 800 622-1147 between 7 A.M. and 6 P.M.
+ Duties & Taxes adjustments:                  (CST).
+
+
+                                              Consult the current FedEx Service Guide. It is the official source
+                                              for service offerings, delivery schedules, and conditions for Money-Back
+ To obtain service information:               Guarantee. It is an essential reference for programming when auditing the
+                                              electronic invoice. To obtain the latest FedEx Service Guide visit
+                                              http://www.fedex.com/us/service-guide/.
+
+ FedEx Billing Online Technical Support       Call 877- 339-2774, when prompted say: “Billing Online”
+
+                                              1. Contact the EDI Hotline at 855-408-9440 and select the EDI Electronic
+ To obtain shipment data upload from             Package Data Interchange (EPDI) support option.
+ FedEx approved devices assistance.           OR
+                                              2. Email a request email to FedEx at edihelp@fedex.com.
+
+
+
+
+FedEx Freight Bill Audit and Pay (FBAP) Certification Program
+The FedEx Freight Bill Audit and Pay (FBAP) Certification program recognizes Freight Bill, Audit, and Pay
+Providers that have consistently met FedEx standards for receiving invoices electronically, processing, and
+remitting payment details, and managing disputes on behalf of customers. Although FedEx works with
+many Freight Bill, Audit, and Pay providers, only these providers have demonstrated their ability to
+effectively provide freight bill, audit, and payment services to their customers in accordance with FedEx
+standards, thereby earning recognition as a Certified FBAP Provider. For information about the FedEx
+Freight Bill Audit and Pay (FBAP) Certification program please visit FedEx Billing Solutions.
+
+
+
+
+                                                                                                                          10
+                                                                            FedEx Electronic Invoice and Remittance
+
+INVOICE RECORD LAYOUT - 210 TRANSACTION SET
+TRANSMISSION ENVELOPE
+   ISA                      Interchange Control Header                                      Req     Type     Min/Max
+
+ ISA01    (I01)    Authorization Information Qualifier    ‘00’                             M       ID        2/2
+
+ ISA02    (I02)    Authorization Information              All blanks                       M       AN        10/10
+
+ ISA03    (I03)    Security Information Qualifier         ‘00                              M       ID        2/2
+
+ ISA04    (I04)    Security Information                   All blanks                       M       AN        10/10
+
+ ISA05    (I05)    Interchange Sender ID Qualifier        ‘14’                              M           ID         2/2
+
+ ISA06    (I06)    Interchange Sender ID                  ‘055001924INV’                    M           AN     15/15
+
+ ISA07    (I05)    Interchange Receiver ID Qualifier      Receiver ID Qualifier             M           ID         2/2
+
+ ISA08    (I07)    Interchange Receiver ID                Receiver ID                       M           AN     15/15
+
+ ISA09    (I08)    Interchange Date                       Current Date – YYMMDD             M           DT         6/6
+
+ ISA10    (I09)    Interchange Time                       Current Time – HHMM               M           TM         4/4
+
+ ISA11    (I65)    Repetition Separator                   ‘\’                               M                      1/1
+ ISA12    (I11)    Interchange Control Version Number     ‘00406’                           M           ID         5/5
+
+ ISA13    (I12)    Interchange Control Number             Provided by Sender                M           NO         9/9
+
+ ISA14    (I13)    Acknowledgment Requested               Provided by Sender                M           ID         1/1
+
+ ISA15    (I14)    Interchange Usage Indicator            ‘P’                               M           ID         1/1
+
+ ISA16    (I15)    Component Element Separator            Hex ‘1F’                          M                      1/1
+
+ GS                Functional Group Header
+
+ GS01     (479)    Functional Identifier Code             ‘IM’                              M           ID         2/2
+
+ GS02     (142)    Application Sender’s Code              Sender Code                       M           AN     2/15
+
+ GS03     (124)    Application Receiver’s Code            Determined by Receiver            M           AN     2/15
+
+ GS04     (373)    Date                                   Current Date – CCYYMMDD          M/Z          DT         8/8
+
+ GS05     (337)    Time                                   Current Time                     M/Z          TM         4/8
+
+ GS06     (28)     Group Control Number                   Provided by Sender               M/Z          NO         1/9
+
+ GS07     (455)    Responsible Agency Code                ‘X’                               M           ID         1/2
+
+ GS08     (480)    Version/Release/Industry ID Code       ‘004060’                          M           AN     1/12
+
+ GE                Functional Group Trailer
+
+ GE01     (97)     Number of Transaction Sets Included    As calculated per the standard    M           NO         1/6
+ GE02     (28)     (28) Data Interchange Control Number   Same as GS06                     M/Z          NO         1/9
+
+ IEA               Interchange Control Trailer
+
+IEA01    (I16)    Number of Included Functional Groups          As calculated per the
+                                                                standard                       M        NO     1/5
+IEA02    (I12)    Interchange Control Number                    Same as ISA13                  M        NO     9/9
+
+
+
+                                                                                                                     11
+                                                                                   FedEx Electronic Invoice and Remittance
+
+SEGMENT SYNTAX
+                                                                                                 Max    Loop
+     Segment/ID                                   Segment                              Req                     Loop Repeat
+                                                                                                 Use     ID
+Table 1 - Header
+ST                  Transaction Set Header
+                                                                                      M      1
+
+B3                  Beginning Segment for Carrier’s Invoice                           M      1
+
+C3                  Currency Identifier                                               0      1
+
+ITD                 Terms of Sale/Deferred Terms of Sale                              0      1
+
+L11                 Business Instructions and Reference Number                        0      300
+
+K1                  Remarks                                                           0      10
+Table 2 - Detail
+
+Bill-To Name & Address Information:
+N1                  Name
+                                                                                      0      1         0100    10
+N2                  Additional Name Information                                       0      1         0100
+
+N3                  Address Information                                               0      2         0100
+
+N4                  Geographic Location                                               0      1         0100
+
+L11                 Business Instructions and Reference Number                        0      5         0100
+
+US or Canada Payor Remittance Name & Address Information:
+N1                  Name
+                                                                                      0      1         0100    10
+N3                  Address Information                                               0      2
+
+N4                  Geographic Location                                               0      1
+
+OID                 Order Information Detail                                          0      1         0250    999999
+
+LX                  Transaction Set Line Number                                       0      1         0400    >1
+
+L11                 Business Instructions and Reference Number                        0      20
+
+L5                  Description, Marks and Numbers                                    0      30
+
+L0                  Line Item - Quantity and Weight                                   0      10
+
+L1                  Rate and Charges                                                  0      10
+
+L4                  Measurement                                                       0      10
+
+L7                  Tariff Reference                                                  0      10
+
+K1                  Remarks                                                           0      10
+
+OID                 Order Information Detail                                          0      1         0430    999999
+
+Shipper Name & Address Information:
+N1                  Name
+                                                                                      0      1         0460    999999
+N2                  Additional Name Information                                       0      1
+
+N3                  Address Information                                               0      2
+
+N4                  Geographic Location                                               0      1
+
+L11                 Business Instructions and Reference Number                        0      10
+(N1 & L11 segments repeat for Recipient Name, Address and Reference Information)
+
+CD3                 Carton (Package) Detail                                           0      1         0463    999999
+
+
+
+                                                                                                                        12
+                                                                                  FedEx Electronic Invoice and Remittance
+
+                                                                                                Max    Loop
+     Segment/ID                                    Segment                            Req                     Loop Repeat
+                                                                                                Use     ID
+L11                  Business Instructions and Reference Number                      0      20
+
+POD                  Proof of Delivery                                               0      1
+
+OID                  Order Information Detail                                        0      1         0465    999999
+
+Original Consignee Name & Address Information (occurs if address is corrected):
+N1                   Name
+                                                                                     0      1         0460    999999
+N2                   Additional Name Information                                     0      1
+
+N3                   Address Information                                             0      2
+
+N4                   Geographic Location                                             0      1
+(N1 segment repeats for ‘Alternate Pickup’ Address Information)
+
+Table 3 - Summary
+L3                   Total Charges
+                                                                                     0      1
+
+SE                   Transaction Set Trailer                                         M      1
+
+
+
+
+                                                                                                                       13
+                                                                                  FedEx Electronic Invoice and Remittance
+
+SEGMENT SYNTAX - NON TRANSPORTATION INVOICING
+There are two types of ‘Non-Transportation’ invoices:
+1) Retail Sales - these are generally packaging supplies (such as boxes, mailers, bubble wrap, etc.)
+   purchased at our service centers, including FedEx Office, but may also be cards, T-shirts and hats.
+2) EEI - Electronic Export Information (previously known as SED/Shipper Export Declaration) For
+   certain international shipments, this mandatory report filing must be made to the U.S.
+   Government’s Automated Export System (AES). The current government charge is $10.00. (See
+   www.fedex.com/us/sed or www.aesdirect.gov for more information
+
+                  Segment/ID RETAIL SALES                          Segment/ID EEI-SED’s                       Comments
+   LX Outline:                                             LX Outline:
+   (Begin Loop 0400)                                       (Begin Loop 0400)
+
+   LX     01                                               LX       01
+
+   L11    01     Tracking Number                           L11      01    Tracking Number
+
+          02     ‘SW’ (Seller’s Sale Number) (like ‘AW’)            02    ‘ED’ (Export Declaration) (like ‘AW’)
+
+          03     Net Charge                                         03    Net Charge
+
+          04     Transaction Date                                   04    Transaction Date
+
+   L11    01     ‘1’ (Bill Sender/Account Holder)          L11      01    ‘1’ (Bill Sender/Account Holder)y
+
+          02     ‘9W’ (Payer Type)                                  02    ‘9W’ (Payer Type)
+
+   L5     01     ‘1’                                       L5       01    ‘1’
+
+          02     ‘RETAIL SALE’                                      02    ‘EEI FEE’
+
+          03     FedEx Company Code (‘2’ for Express)               03    FedEx Company Code (‘2’ for Express)
+
+          04     ‘Z’                                                04    ‘Z’
+
+   L1     02     Item Unit Cost (X12 ‘Freight Rate’)
+          03     ‘CO’ (Cost P/Unit)
+
+          04     Charge Amount                             L1       04    Charge Amount
+
+          08     Charge Code                                        08    Charge Code
+
+          12     Charge Description Code                            12    Charge Description Code
+
+          17     Pieces (‘Billed/Rated As Quantity’)                17    n/a
+
+          18     ‘NU’ (Unit)                                        18    n/a
+
+          20     Billed Currency Code                               20    Billed Currency Code
+
+   (Begin N1 Loop 0460)                                    (Begin N1 Loop 0460)
+
+   N1     01     ‘SE’ (‘Selling Party’)                    N1       01    ‘CN’ (Consignee Info)
+
+          02     ‘FEDEX’                                            02    Recipient Company
+
+   N3     01     Purchase Address, Line 1                  N3       01    n/a
+
+          02     Purchase Address, Line 2                           02    n/a
+
+   N4     01     Purchase City                             N4       01    Recipient City
+
+          02     Purchase State/Province                            02    n/a
+
+          03     Purchase Postal Code                               03    n/a
+
+          04     Purchase Country / Territory Code                  04    Recipient Country / Territory Code
+
+   L11    01     Payer’s FedEx Account Number              L11      01    Payer’s FedEx Account Number
+
+          02     ‘IT’                                               02    ‘IT’
+
+
+                                                                                                                         14
+                                                                            FedEx Electronic Invoice and Remittance
+
+                 Segment/ID RETAIL SALES                      Segment/ID EEI-SED’s                      Comments
+   L11    01     Purchaser’s Name or Employee Number   L11     01     ITN Reference Number (US Gov’t)
+
+          02               ‘YD’ (Buyer ID)                     02      ‘TN’ (Transaction Reference #)
+
+   (End N1 Loop 0460)                                  (End N1 Loop 0460)
+   (End LX Loop 0400)                                  (End LX Loop 0400)
+
+   SE                                                  SE
+
+
+
+
+SEGMENT SYNTAX – LATE FEE ONLY INVOICE
+
+If your billed account on EDI has past-due invoices for Express, Ground and SmartPost, and a late fee
+charge is assessed for the open balance, this will generate a new separate late fee only invoice to be
+included in your normally scheduled EDI transmission. The original invoice will remain the same, it will
+not be amended for a late charge. The new late fee invoice for EDI accounts will only contain late fees,
+it will not include any transportation shipments or other charges. Your invoice file, however, may
+contain a combination of charges.
+
+Please refer to 210 file syntax shown on the following page. The header information will not change;
+the B3_11 SCAC code will be ‘FDE’ for FedEx for all past-due invoices. Late fees on past-due invoices
+are not specific to any particular FedEx operating company.
+
+Likewise, the LX detail will not include segment L5 with an operating company indicator.
+A Late Fee invoice may include multiple line items, each ‘LX’ and ‘AW’ representing a late fee
+assessment for a past-due invoice being assessed a late charge.
+
+The L11 ‘CR’ Reference will show “LATE FEE ON INVOICE (past-due original invoice number
+inserted)”. A L11 ‘R7’ Reference will also provide the invoice number that is being assessed as past-
+due, its original invoice date, and its original invoice amount.
+
+The assessment date will be provided in the L11 ‘AW’ segment, element 04. The assessment will be
+calculated on the past-due open balance amount provided in the L1_21.
+
+A 210 example invoice also follows.
+
+
+
+
+                                                                                                                   15
+                                                                                  FedEx Electronic Invoice and Remittance
+
+
+
+
+Segment/Late Fee Only Invoice
+
+
+                                                                     (Begin 400 Loop)
+LX     01
+
+
+
+L11     01    Tracking/Transaction
+        02
+              ‘AW’
+        03    Net Charge
+        04    Late Fee Assessment Date
+L11     01    Billed Account Number
+        02    ‘IT’
+L11     01    ‘LATE FEE ON INVOICE [past due invoice number inserted]’ ‘CR’
+        02
+L11     01    Original Invoice Number now Past-Due
+        02    ‘R7’
+        03    Date of Past-Due Invoice, space, Past-due Original Amount (example: 20210125 455.01)
+
+
+
+L1      04    Charge Amount
+        08
+               ‘LPC’ (Standard Charge Code)
+        12
+               ‘LF1’ (FedEx Charge Description)
+        19     Late Fee Rate (Percentage Expressed as a Decimal)
+        20     Bill Currency Code (4010 only)
+        21     Past-Due Amount Assessed as Late
+
+
+                                                                       (End 400 Loop)
+                                                                     (Begin 460 Loop)
+
+N1      01    ‘SF’
+        02     ‘LATE FEE BILLING’                                    (End 460 Loop)
+
+L3      01     Net Charge for the Invoice
+SE
+
+
+
+
+                                                                                                                      16
+                                                           FedEx Electronic Invoice and Remittance
+
+SAMPLE LATE FEE ONLY INVOICE
+    ISA*00* *00* *ZZ*FDE *12*RECEIVERID *200912*1115*\*00406*000000335*0*P*>~
+    GS*IA*FDE*RECEIVERID*20200912*1115*100*X*004060~
+    ST*210*1000001~
+    B3**960043535**MX**20200914*2921****FDE~
+    C3*USD~
+    N1*BT*XL COMPANY-SHIPPING~
+    N2*GREG BREWERT~
+    N3*999 FRYSON RD*ROOM 222~
+    N4*COLUMBUS*OH*430041234*US~
+    N9*IT*505400708~
+    N9*14*128772888~
+    N9*ST*56789
+    N1*RI*FEDEX ERS~
+    N3*ATTN EDI PAYMENT*PO BOX 371741~
+    N4*PITTSBURGH*PA*152507741*US~
+    LX*1~
+    L11*000000014533*AW*27.36*20200911~
+    L11*505400708*IT~
+    L11*LATE FEE ON INVOICE 594949814*CR~
+    L11*594949814*R7*20200807 455.97~
+    L1****2736****LPC****LF1*******6*USD*45597~
+    N1*SF*LATE FEE BILLING~
+    LX*2~
+    L11*000000014534*AW*1.85*20200911~
+    L11*505400708*IT~
+    L11*LATE FEE ON INVOICE 594946853*CR~
+    L11*594946853*R7*20200807 61.82~
+    L1****185****LPC****LF1*******6*USD*3082~
+    N1*SF*LATE FEE BILLING~
+    L3*****2921~
+    SE*29*1000001~
+
+
+
+
+                                                                                               17
+                                                                   FedEx Electronic Invoice and Remittance
+
+SEGMENT / MULTI PIECE SHIPMENT
+
+ (Begin LX Loop)
+ LX              01
+ L11             01 MPS Tracking Number
+ L11             02 'MA'
+                     Package Message Code or Miscellaneous
+ L11              01 Description (can repeat up to five times)
+ L11              02 'E7'
+ L0               01 '1'
+ L0               04 Original Weight
+ L0               05 'G'
+ L0               11 Weight Unit
+                       Send zero amount until new charge records
+ L1               04   are mapped.
+ L1               14   Declared Value
+ L1               15   'PS'
+ L1               20   Currency code
+ L4               06   Dim Divisor
+ L4               01 Length
+ L4               02 Width
+ L4               03 Height
+ (Begin N1
+ Loop)
+ N1               01 'VD'
+ N1               02 MULTIP PIECE SHIPMENT'
+ (Begin CD3
+ Loop)
+ CD3              01 'B'
+ CD3              02 Billed Weight
+ (End CD3 Loop)
+ (End L1 Loop)
+ (End LX Loop)
+
+SAMPLE MULTI PIECE SHIPMENT PACKAGE DETAIL
+
+LX^8
+L11^12346789012^MA
+L11^CDE1^E7
+L0^1^710^G^^^^^^^^L
+L1^^^^0^^^^^^^^^^200^PS^^^^^USD
+L4^38^29^29^C^^139
+N1^VD^MULTIPIECE SHIPMENT
+CD3^B^849
+
+
+                                                                                                       18
+                                                                          FedEx Electronic Invoice and Remittance
+
+DETAIL INVOICE LAYOUT
+  DATA SEGMENTS AND ELEMENTS USED
+   Data/
+   Segment              ----    Data/Elements -------
+  ST           ST01             ST02
+  B3           B302             B304       B306         B307    B308    B311
+                                                                                            B312         B313
+  C3           C301
+  ITD          ITD01            ITD02       ITD06       ITD07
+  L11          L1101            L1102
+  K1           K101             K102
+
+   - BEGIN 100 LOOP-
+  N1            N101            N102
+  N2            N201
+  N3            N301            N302
+  N4            N401            N402        N403        N404
+  L11           L1101           L1102
+   -END 100 LOOP-
+
+
+   -BEGIN 250 LOOP-
+  OID          OID01            OID04       OID05
+   -END 250 LOOP-
+   -BEGIN 400 LOOP-
+  LX           LX01
+  L11          L1101            L1102       L1103       L1104
+  L5           L501             L502        L503        L504    L505
+  L0           L001             L004        L005        L008    L009    L011                    L013     L015
+  L1           L104       L108              L109        L112    L114    L115                    L119     L120
+  L4           L401       L402              L403        L404    L405    L406
+  L7           L703
+  K1           K101       K102
+               -BEGIN 430 LOOP-
+              OID          OID01            OID06       OID07
+               -END 430 LOOP-
+               -BEGIN 460 LOOP-
+              N1           N101             N102        N103    N104
+              N2           N201             N202
+              N3           N301             N302
+              N4           N401             N402
+                                                        N403    N404
+              L11               L1101       L1102       L1103
+                                -BEGIN 0463 LOOP-
+                               CD3          CD301
+                                                        CD302   CD303   CD305      CD306
+                               L11          L1101       L1102
+                               POD          POD01       POD02   POD03
+                                -END 463 LOOP-
+               -END 460              -
+               LOOP
+   -END 400 LOOP-
+  L3          L305              L308
+  SE          SE01              SE02
+
+
+
+
+                                                                                                                19
+                                                                                                  FedEx Electronic Invoice and Remittance
+
+DESCRIPTION OF DATA ELEMENTS
+                                                                                        Max     Loop          Loop                              Min/
+                                                                            Req                                                Req      Type
+                                                                                        Use      ID          Repeat                             Max
+
+ST                              Transaction Set Header                  M           1
+
+ST01               (143)        Transaction Set Identifier Code           ‘210’—Detail Invoice                             M/Z          ID     3/3
+
+ST02               (329)        Transaction Set Control Number            Program Supplied                                 M            AN     4/9
+
+                                Beginning Segment for Carrier’s
+B3                                                                          M       1
+                                Invoice
+
+B302               (76)         Invoice Number                                                                             M            AN     1/22
+
+NOTE: Non-Pay Resolution records will reflect zeros for the ‘Invoice Number’ if you have provided FedEx with an invalid tracking number.
+
+B304                 (146)      Shipment Method of Payment                ‘MX’—Mixed                                       M            ID     2/2
+
+B306                 (373)      Date                                      Invoice Date (YYYYMMDD)                          M/Z          DT     8/8
+
+B307                 (193)      Net Amount Due                            Total Charges Due                                M            N2     1/12
+
+NOTE: Non-Pay Resolution records will reflect zeros for ‘Net Amount Due’ if you have provided FedEx with an invalid tracking number
+
+NOTE: Non-Pay Resolution files will reflect the balance due remaining on the invoice
+
+B308               (202)          Invoice Type                            ‘AD’ - Adjustment of Previous Freight Bill       O            ID     2/2
+                                                                                Charges
+                                                                         ‘BD’ - Balance Due Billing
+                                                                         ‘PD’ - Past Due Billing
+                                                                         ‘RB’ - Rebilling (Resend)
+NOTE: Suppressed for original invoice files. ‘Demand For Payment’ and Final Demand’ invoices will default to ‘PD’ (Past Due Billing).
+B311               (140)        SCAC                                      ‘FDE’ - Express Only                             M            ID     2/4
+                                                                          ‘FDEG’ - Ground Only
+                                                                          ‘FDEN’ - Express & Ground and/or
+                                                                                   Smart Post
+                                                                          ‘FXSP’ - Smart Post
+B312               (373)        Date                                      Current Date (YYYYMMDD)                          O            DT     8/8
+
+B313               (375)        Settlement Option                         ‘B1’- Intra-U.S. (Domestic)                      O            ID     2/2
+                                                                          ‘BF’ - International
+
+C3                              Currency Identifier                         O           1
+
+C301               (100)        Currency Code                               Identifies Billing Currency                    M/Z          ID     3/3
+
+                                Terms of Sale/ Deferred Terms of
+ITD                                                                         O           1
+                                Sale
+
+ITD01              (336)        Terms Type Code                             ‘05’ —Discount Not Applicable                  O            ID     2/2
+
+ITD02              (333)        Terms Basis Date Code                       ‘3’ — Invoice Date                             O            ID     1/2
+
+ITD06              (446)        Terms Net Due Date                          Invoice Date + 15 days (YYYYMMDD)              O            DT     8/8
+
+ITD07              (386)        Terms Net Days                              ‘15’                                           O            N0     1/3
+
+                                Business Instructions and
+L11                                                                         O           300
+                                Reference Number
+
+L1101              (127)        Reference Identification                    Master EDI Acct Number                         X            AN     1/50
+
+L1102              (128)        Reference Identification Qualifier          ‘14’                                           X            ID     2/3
+
+K1                              Remarks                                     O           10
+
+
+                                                                                                                                                      20
+                                                                                                   FedEx Electronic Invoice and Remittance
+
+                                                                                       Max        Loop        Loop                      Min/
+                                                                            Req                                           Req   Type
+                                                                                       Use         ID        Repeat                     Max
+
+NOTE: K1 segment is applicable to Canada payers only.
+                                                                            Tax Number + ‘GST/HST’                    M         AN     1/30
+K101       (61)           Free-form Information
+
+K102       (61)           Free-form Information                             Tax Number + ‘QST’                        O         AN     1/30
+           -BEGIN 0100 LOOP-
+
+N1                        Name                                              O          1          0100      10
+
+ N101      (98)          Entity Identifier Code                             ‘BT’— Bill-to Party                       M          ID      2/3
+
+ N102      (93)          Name                                               Bill-to Company Name                      X          AN      1/60
+
+ N2                      Additional Name Info                           0             1        0100
+
+ N201      (93)          Name                                               Bill-to Contact Name                      M          AN      1/60
+
+ N3                      Address Information                            0             2        0100
+
+ N301      (166)         Address                                            Bill-to Street Address 1                  M          AN      1/55
+
+ N4                      Geographic Location                            0             1        0100
+
+ N401      (19)          City Name                                          Bill-to City                              0          AN      2/30
+
+ N402      (156)         State/Province Code                                Bill-to State/Province                    X          ID      2/2
+
+ N403      (116)         Postal Code                                        Bill-to Zip/Postal Code                   0          ID      3/15
+
+ N404      (26)          Country / Territory Code                           Bill-to Country / Territory               X          ID      2/3
+
+                         Business Instructions and Reference
+ L11                                                                    0             5              0100
+                         Number
+
+ L1101     (127)         Reference Identification                           Bill-to Account Number                    X          AN      1/50
+
+ L1102     (128)         Reference Identification Qualifier                 ‘IT’                                      X          ID      2/3
+
+                         Business Instructions and Reference
+ L11                                                                    0             5              0100
+                         Number
+
+NOTE: The Store Number applies to the Billed Account.
+L1101      (127)         Reference Identification
+                                                                            Store Number                              X          AN      1/50
+L1102      (128)         Reference Identification Qualifier                 ‘ST’                                      X          ID      2/3
+
+N1                       Name                                           0             1              0100   10
+
+NOTE: The following ‘N                                                 U.S. payors.
+                         1’, ‘N3’ & ‘N4’ segments are applicable for
+N101       (98)
+                         Entity Identifier Code                             ‘RI’— Remit To Party
+                                                                                                                      M          ID      2/3
+N102       (93)          Name                                               ‘FEDEX ERS’                               X          AN      1/60
+
+N3                       Address Information                            0             2              0100
+
+N301       (166)         Address Information                                ‘ATTN EDI PAYMENT’                        M          AN      1/55
+
+N302       (166)         Address Information                                ‘P O BOX 371741’                          0          AN      1/55
+
+
+
+                                                                                                                                               21
+                                                                                           FedEx Electronic Invoice and Remittance
+
+N4                      Geographic Location                        0           1           0100
+
+                                                                                                     Loop
+                                                                         Loop ID     Max Use                        Req        Type     Min / Max
+                                                                                                    Repeat
+
+N401       (19)         City Name                                      ‘PITTSBURGH’                             0           AN         2/30
+
+N402       (156)        State/Province Code                            ‘PA’                                     X           ID         2/2
+
+N403       (116)        Postal Code                                    ‘152507741’                              0           ID         3/15
+
+N404       (26)         Country / Territory Code                       ‘US’                                     X           ID         2/3
+
+ NOTE: The following ‘N1’, ‘N3’ & N4’ segments are applicable for Canada payors.
+N1                      Name                                       0           1           0100
+
+N101       (98)         Entity Identifier Code                         ‘RI’— Remit To Party                     M           ID         2/3
+
+N102       (93)         Name                                           ‘FEDERAL EXPRESS CANADA LTD’             X           AN         1/60
+
+N3                      Address Information                        0           2         0100
+
+N301       (166)        Address Information                            ‘PO BOX 4626, TORONTO STN A’             M           AN         1/55
+
+N4                      Geographic Location                        0           1         0100
+
+N401       (19)         City Name                                  ‘TORONTO’                                          0   AN          2/30
+N402       (156)        State/Province Code                        ‘ON’                                               X   ID          2/2
+
+N403       (116)        Postal Code                                ‘M5W 5B4’                                          0   ID          3/15
+ N404      (26)         Country / Territory Code                       ‘CA’                                     X           ID         2/3
+           -END 0100 LOOP- -BEGIN
+           0250 LOOP-
+
+
+ OID                    Order Information Detail                   0           1          0250     999999
+
+ OID01     (127)        Reference Identification                       ‘1’                                      X/Z         AN         1/50
+
+ OID04     (211)        Packaging Form Code                            ‘UNT’                                    X           ID         3/3
+
+ OID05     (380)        Quantity                                       Number of Transactions                   X           R          1/15
+
+           -END 0250 LOOP-
+           -BEGIN 0400 LOOP-
+
+ LX                     Sequential Number                          0           1          0400     >1
+
+
+                                                                       Number beginning at ‘1’ and
+ LX01      (554)        Assigned Number                                                                         M           N0         1/6
+                                                                       incrementing to the count in OID05
+
+                        Business Instructions and Reference
+ L11                                                               0           20        0400
+                        Number
+
+ L1101     (127)        Reference Identification                       Tracking Number                                      X          AN
+
+NOTE: You may see the message “INCORRECT TRACKING #” for packages not properly processed through an automated system with
+noncorresponding package tracking numbers tendered to the FedEx courier.
+NOTE: For customer level ground charges the Tracking Number will be systematically generated and not related to any specific package
+Tracking Number.
+NOTE: Non-Pay Resolution records will reflect zeros for the ‘Tracking Number’ if you have provided FedEx with an invalid tracking number.
+L1102     (128)       Reference Identification Qualifier             ‘AW’                                       X            ID      2/3
+
+
+                                                                                                                                             22
+                                                                                          FedEx Electronic Invoice and Remittance
+
+L1103      (352)        Description                                  Net Charge                                  X      AN     1/80
+L1104      (373)        Date                                         Ship Date                                   0/Z    DT     8/8
+NOTE: Non-Pay Resolution record ‘Ship Date’ will be zeros if you have provided FedEx with an invalid tracking number.
+
+L11                     Business Instructions and Reference          0            20     0400
+                        Number
+
+ L1101     (127)        Reference Identification                     Ground/SmartPost Tracking Number            X      AN     1/50
+NOTE: The Ground Tracking Number may reflect spaces within the 20 character field. Customers may suppress spaces if necessary.
+ L1102   (128)       Reference Identification Qualifier         ‘2I’                                       X           ID      2/3
+ L11                    Business Instructions and Reference           0           20     400
+                        Number
+
+ L1101     (127)        Reference Identification                      Non-Duplicate Indicator                    X      AN     1/50
+ L1102     (128)        Reference Identification Qualifier            ‘RA’                                       X      ID     2/3
+ NOTE: If included, FedEx has validated that the repetitive tracking number being billed is a unique shipment.
+
+ L11                    Business Instructions and Reference          0            20     0400
+                        Number
+
+ L1101     (127)        Reference Identification                     Returns Merchandise Authorization Number X         AN     1/50
+
+
+ L1102     (128)        Reference Identification Qualifier           ‘RZ’
+
+ L11                    Business Instructions and Reference          0            20     0400      >1
+                        Number
+
+ L1101     (127)        Reference Identification                     Express and Ground/SmartPost Service       X       AN     1/50
+                                                                     Codes
+                                                                     See Codes Dictionary for list of all codes
+
+
+ L1102     (128)        Reference Identification Qualifier           ‘QY’                                        X      ID     2/3
+
+
+
+L11                     Business Instructions and Reference 0                20        0400      Number
+
+
+
+L1101      (127)        Reference Identification                     Miscellaneous Description Code              X      AN     1/50
+                                                                     See Codes Dictionary for list of all
+                                                                     codes
+
+L1102      (128)        Reference Identification Qualifier           ‘E7’                                        X      ID     2/3
+
+NOTE: The ‘E7’ Miscellaneous Description Code can occur multiple times.
+L1103      (352)        Description                                  Original Tracking Number
+                                                                                                                 X      AN     1/80
+ NOTE: Element 03 is only applicable when element 01 equals 47007 indicating a Return shipment.
+
+L11                     Business Instructions and Reference 0                20        0400      Number
+
+
+
+L1101      (127)        Reference Identification                     Cross-Reference Tracking Number             X      AN     1/50
+
+L1102      (128)        Reference Identification Qualifier           ‘6O’                                        X      ID     2/3
+
+NOTE: The ‘6O’ (alpha ‘O’, not numeric zero) segment is applicable to Ground Shipments only.
+
+
+L11                     Business Instructions and Reference 0                20        0400
+                        Number
+
+
+
+
+                                                                                                                                     23
+                                                                                             FedEx Electronic Invoice and Remittance
+
+L1101      (127)       Reference Identification                      Zone Jump Postal Code                     X        AN    1/7
+
+L1102      (128)       Reference Identification Qualifier            ‘3Y’                                      X        ID    2/3
+
+NOTE: The ‘3Y’ segment is applicable to Ground Drop Shipments only.
+
+ L11                   Business Instructions and Reference       0               20          0400
+                       Number
+
+ L1101     (127)       Reference Identification                      Payor Type ‘1’–Bill                       X        AN    1/50
+                                                                     Shipper
+                                                                     ‘2’–Bill Recipient
+                                                                     ‘3’–Bill Third Party
+
+ L1102     (128)       Reference Identification Qualifier            ‘9W’                                      X        ID    2/3
+
+ L1103     (352)       Description                                   ‘REBILLED’                                X        AN    1/80
+
+ L1104     (373)       Date                                          Tender Date                               D        8     8/8
+
+ L11                   Business Instructions and Reference       0               20          0400
+                       Number
+
+ L1101     (127)       Reference Identification                      Region Origin Zip                         X        AN    1/50
+
+ L1102     (128)       Reference Identification Qualifier            ‘RU’                                      X        ID    2/3
+
+ L11                   Business Instructions and Reference       0               20          0400    >1
+                       Number
+
+L1101      (127)       Reference Identification                  Batch Number -or- Multiweight ID              X        AN    1/50
+
+L1102      (128)       Reference Identification Qualifier            ‘BT’                                      X        ID    2/3
+
+NOTE: This segment provides either the Batch Number for Express shipments or the Multiweight ID for Ground
+
+L11                    Business Instructions and Reference 0                20        0400          Number
+
+L1101      (127)       Reference Identification                      Revenue Threshold Amount                  X        AN    1/50
+
+L1102      (128)       Reference Identification Qualifier            ‘OT’                                      X        ID    2/3
+
+L11                    Business Instructions and Reference 0                20        0400          Number
+
+
+ L1101     (127)       Reference Identification                      Master Tracking Number                    X        AN    1/50
+ L1102     (128)       Reference Identification Qualifier            ‘9F’                                      X        ID    2/3
+
+NOTE: For Express IPD and IPDF shipments (Service Base codes ‘IE’ and ‘MW’ in the CD_305 segment), when shipped on a FXRS or CAFÉ
+device, this field will relay the ‘Master Tracking Number’ for the associated children tracking numbers.
+
+ L11                   Business Instructions and Reference       0               20         0400
+                       Number
+
+ L1101     (127)       Reference Identification                      Call Tag Access Code                      X        AN    1/50
+
+ L1102     (128)       Reference Identification Qualifier            ‘JH’                                      X        ID    2/3
+
+ L5                    Descriptions, Marks and Numbers           0               30         0400
+
+ L501      (213)       Lading Line Item Number                       ‘1’                                       0        N0    1/3
+
+
+
+                                                                                                                                    24
+                                                                                            FedEx Electronic Invoice and Remittance
+
+ L502      (79)         Lading Description                              ‘INTRA U.S. SHIPMENT ’ -or-          0                AN       1/50
+                                                                        ‘INTERNATIONAL SHIPMENT’ - or-
+                                                                        ‘INTERNATIONAL DUTY TAX’ -or-
+                                                                        ‘INTL FRT & DUTY/TAX COMBINED’ - or-
+                                                                        ‘NONPAY RESPONSE’ or ‘RETAIL SALE’
+                                                                        or ‘EEI Fee’
+
+
+
+                                                                              Loop ID          Max Use                 Req    Type     Min / Max
+
+ L503      (22)         Commodity Code                                  Company Code ‘2’–FedEx                     X          AN       1/30
+
+                                                                        Express‘
+
+                                                                        ‘3’–FedEx Ground
+                                                                        ‘9’–SmartPost
+ L504      (23)         Commodity Code Qualifier                        ‘Z’                                        X          ID       1/1
+
+ L505      (103)        Packaging Code                                  Packaging Type                             0          AN       3/5
+                                                                        See Codes Dictionary for list of available
+                                                                        codes
+
+ L0                     Line Item - Quantity & Weight               0              10      0400         >1
+
+ L001      (213)        Lading Line Item Number                         ‘1’                                        0          N0       1/3
+
+ L004      (81)         Weight                                          Original Weight                            X          R        1/10
+
+ L0                     Line Item - Quantity & Weight               0              10      0400         >1
+
+ L005      (187)        Weight Qualifier                                ‘G’—Actual Net Weight                      X          ID       1/2
+
+ L008      (80)         Lading Quantity                                 Number of pieces                           X/Z        N0       1/7
+
+ L009      (211)        Packaging Form Code                             ‘PCS’—Pieces                               X          ID       3/3
+
+ L011      (188)        Weight Unit Code                                ‘L’—Pounds                                 0          ID       1/1
+                                                                        ‘K’—Kilograms (International)
+
+ L013      (380)        Charge Count                                    Total Count of Transactions                X/Z        R        1/15
+
+ L015      (1073)       Charge Count Qualifier                          ‘W’                                        X/Z        ID       1/1
+
+ L1                     Rate and Charges                                0          10      0400
+
+ L104      (58)         Charge Amount                                   Freight weight charge for shipment -or-    X          N2       1/12
+                                                                        miscellaneous charges for the tracking
+                                                                        number corresponding to the special
+                                                                        charge code. Amount will be negative
+                                                                        in the case of discount.
+NOTE: Supplemental charges relating to service corrections, weight corrections, and dimensional weight are included in the freight charge. To
+obtain total tracking number charges, add all L104 charges. Rebates are not included in net amount. Supplemental charges for Ground
+shipments may appear on a different invoice/file than the freight charges. Zero amount charges are possible in the event fees are waived.
+ L108        (150)       Special Charge Code                           Special Charge Code for miscellaneous      0          ID       3/3
+                                                                       charges
+                                                                       See Codes Dictionary for list of all codes
+
+ L109      (121)        Rate Class Code                                 ‘Y’ – Package Pre-rated                    0          ID       1/3
+NOTE: The L109 is suppressed if package is not pre-rated.
+L112      (276)      Special Charge Description                         Special Charge Description Code            0          AN       2/25
+                                                                        See Codes Dictionary for list of all
+                                                                        codes
+ L114        (74)       Declared Value                                  Declared Value                             X          N2       2/12
+ NOTE: For freight records, the declared value is for insurance. For duty/tax records, the declared value is the customs value. If you have
+ provided FedEx with an invalid tracking number, L1 segment will be suppressed for the Non-Pay Resolution record.
+                                                                                                                                              25
+                                                                                        FedEx Electronic Invoice and Remittance
+
+ L115    (122)     Rate/Value Qualifier                                 ‘PS’—Per Shipment                         X     ID    2/2
+ L119    (954)     Percent                                              Fuel Surcharge Factor                     0/Z   R     1/10
+ L120    (100)     Currency Code                                        Billed Currency Code                      0/Z   ID    3/3
+
+ L4                Measurement                                          0         10            0400        >1
+
+NOTE: The L4 segment is applicable only to packages billed dimensional weight
+                                                                                                                               Min /
+                                                                                      Loop ID          Max Use     Req Type
+                                                                                                                               Max
+
+ L401    (82)      Length                                               Length                                    M     R     1/8
+
+ L402    (189)     Width                                                Width                                     M     R     1/8
+
+ L403    (65)      Height                                               Height                                    M     R     1/8
+
+ L404    (90)      Measurement Unit Qualifier                           ‘N’—Inches                                M     ID    1/1
+                                                                        ‘C’—Centimeters
+
+ L405    (380)     Quantity                                             ‘1’                                       0     R     1/15
+
+ L406    (1271)    Industry Code                                        Dim Divisor                               0/Z   AN    1/30
+
+ L7                Tariff Reference                                     0         10            0400
+
+ L703    (171)     Rate Scale                                Rate Scale Code –Express                             0     AN    1/7
+                                                             ‘GROUND’ – Ground
+                                                              ‘SMARTPO’ – SmartPost
+                                                             ‘RETAILSALE’ – Non-Transportation purchase
+                                                             ‘EEI FILING’ – Electronic Export Information
+
+ K1                Remarks                                   0        10          0400
+
+NOTE: The K1 segment is applicable to Express International shipments only.
+
+ K101    (61)      Origin ID                                            Identifies origin                         M     AN    1/30
+
+ K102    (61)      Destination ID                                       Identifies destination                    0     AN    1/30
+
+ OID               Order Information Detail                             0         1             0430    999999
+
+Note: The OID segments is applicable to Ground Multiweight shipments only.
+
+ OID01 (127)       Reference Identification                  ‘GROUND’                                             X/Z   AN    1/50
+
+ OID06 (188)       Weight Unit                               ‘L’—Pounds ‘K’—Kilograms (International)             X     ID    1/1
+
+
+ OID07 (81)        Multiweight Weight                        Total Weight                                         X     R     1/10
+                   -END 0430 LOOP-
+                   -BEGIN 0460 LOOP-
+
+
+ First Occurrence of Name and Address Loop (Shipper)
+
+
+N1                      Name                                      0           1          0460      999999
+
+
+ NOTE: Limited information may be provided for bill shipper Ground
+ Service
+                                                                        ‘SH’— Shipper Information
+N101        (98)        Entity Identifier Code                                                                    M     ID    2/3
+N102        (93)        Name                                            Shipper Company Name                      X     AN    1/60
+
+
+
+                                                                                                                               26
+                                                                                                      FedEx Electronic Invoice and Remittance
+
+      N1                        Name                                                    0        1        0460    999999
+
+      N103       (66)         Identification Code Qualifier                     ‘FA’                                      X            ID          1/2
+
+
+                                                                                        Max                                                        Min/
+                                                               Req                              Loop ID     Loop Repeat       Req      Type
+                                                                                        Use                                                        Max
+
+ N104         (67)        Identification Code                         Automation Device Number and Name                       X        AN          2/80
+ NOTE: If applicable - Automation Device Number (7 digits) followed by the Automation Device Name. NOTE: Non-
+ Pay Resolution record ‘Name’ segment will show ‘Field Not Available’ if you have provided FedEx with an invalid
+ tracking number.
+
+ N2                       Additional Name Information          0            1           0460
+
+ N201         (93)        Name                                 Shipper Contact Name                                           M        AN          1/60
+
+ N202         (93)        Name                                 Shipper Department or Domestic
+                                                               Express shipping.
+ NOTE: From automated shipping device, if available. Applicable for Domestic Express shipping only
+
+ N3                          Address Information               0            2           0460
+
+ N301            (166)       Address Information               Shipper Street Address 1                                       M        AN          1/55
+
+ N302            (166)       Address Information               Shipper Street Address 2                                       0        AN          1/55
+
+ N4                          Geographic Location               0            1           0460
+
+ N401            (19)        City Name                         Shipper City                                                   0        AN          2/30
+
+ N402            (156)       State/Province Code               Shipper State/Province                                         X        ID          2/2
+
+ N403            (116)       Postal Code                       Shipper Zip/Postal Code                                        0        ID          3/15
+
+ N404            (26)        Country / Territory Code          Shipper Country / Territory Code                               X        ID          2/3
+
+L11                      Business Instructions and Reference         0             10          0460
+                         Number
+
+L1101        (127)       Reference Identification                    Shipper Account Number                         X             AN        1/50
+L1102        (128)       Reference Identification Qualifier          ‘IT’                                           X             ID        2/3
+NOTE: FedEx account number of shipper, if billed to shipper.
+
+L11                      Business Instructions and Reference         0             10          0460
+                         Number
+
+L1101        (127)       Reference Identification                    Consolidated Account Number                    X             AN        1/50
+L1102        (128)       Reference Identification Qualifier          ‘11’                                           X             AN        2/3
+
+L11                      Business Instructions and Reference         0             10          0460     999999
+                         Number
+
+L1101        (127)       Reference Identification                    Reference Notes                                X             AN        1/50
+NOTE: Reference Notes are limited to 40 characters if shipped from an automated source. US airbill shipments, Ground Shipments and
+International Shipments are limited to 24 characters.
+L1102        (128)       Reference Identification Qualifier          ‘CR’                                           X             AN        2/3
+
+L11                      Business Instructions and Reference         0             10          0460
+                         Number
+
+L1101        (127)       Reference Identification                    Reference 2 -or- Ground PO Number              X             AN        1/50
+L1102        (128)       Reference Identification Qualifier          ‘ACT’                                          X             ID        2/3
+
+                                                                                                                                                          27
+                                                                                              FedEx Electronic Invoice and Remittance
+
+L11                    Business Instructions and Reference         0       10          0460
+                       Number
+
+L1101      (127)       Reference Identification                    Reference 3 -or- Ground Invoice Number     X            AN        1/50
+L1102      (128)       Reference Identification Qualifier          ‘ADI’                                      X            ID        2/3
+
+L11                    Business Instructions and Reference         0       10          0460
+                       Number
+
+NOTE: The ‘Customer Department Number’ segment is applicable to Ground shipments only.
+L1101      (127)       Reference Identification                    Customer Dept. Number                      X            AN        1/50
+L1102      (128)       Reference Identification Qualifier          ‘DP’                                       X            ID        2/3
+
+L11                    Business Instructions and Reference         0       10          0460
+                       Number
+
+NOTE: This L11 segment is applicable to Invoice Adjustment Resolution files only.
+L1101      (127)       Reference Identification                    ‘Invoice Adjustment’                       X            AN        1/50
+L1102      (128)       Reference Identification Qualifier          ‘1X’                                       X            ID        2/3
+L1103      (352)       Description                                 ‘C’–Credit                                 X            AN        1/80
+                                                                   ‘D’–Denial
+                                                                   ‘F’–Refund
+                                                                   ‘M’-Invalid EDI Master # for
+                                                                   Customer Bill-to Account
+                                                                   ‘R’–Reject
+                                                                   ‘B’, ‘O’ or ‘W’- Other
+L11                    Business Instructions and Reference         0       10          0460
+                       Number
+
+NOTE: This L11 segment is applicable to Invoice Adjustment Resolution files only and will only be populated when the L1103 in the previous L11
+segment is ‘D’ (Denial) or ‘R’ (Reject).
+L1101      (127)       Reference Identification                    Resolution Complaint                       X            AN        1/50
+                                                                   See Codes Dictionary for list of
+                                                                   available codes
+L1102      (128)       Reference Identification Qualifier          ‘ADT’                                      X            ID        2/3
+
+L11                    Business Instructions and Reference         0       10          0460     999999
+                       Number
+
+NOTE: This L11 segment is applicable to Invoice Adjustment Resolution files only.
+L1101      (127)       Reference Identification                    Adjustment Amt Requested                   X            AN        1/50
+L1102      (128)       Reference Identification Qualifier          ‘BP’                                       X            AN        2/3
+L1103      (352)       Description                                 Control/Check Number                       X            AN        1/80
+
+L11                    Business Instructions and Reference         0       10          0460
+                       Number
+
+NOTE: This L11 segment is applicable to Invoice Adjustment Resolution files only.
+L1101      (127)       Reference Identification                    Amount Adjusted                            X            AN        1/50
+L1102      (128)       Reference Identification Qualifier          ‘AM’                                       X            ID        2/3
+L1103      (352)       Description                                 Amount Due                                 X            AN        1/80
+                       Second Occurrence of Name and Address Loop (Consignee)
+
+
+
+ N1                        Name                              0         1        0460
+
+ N101           (98)       Entity Identifier Code            ‘CN’— Consignee Information                               M        ID         2/3
+
+ N102           (93)       Name                              Consignee Company Name                                    X        AN         1/60
+
+                                                                                                                                                  28
+                                                                                                          FedEx Electronic Invoice and Remittance
+
+ NOTE: The recipient company name may not be available for packages processed on automated systems. Non-Pay Resolution record ‘Name’
+ segment will show ‘Field Not Available’, and the N2, N3 and N4 segments will be suppressed if you have provided FedEx with an invalid tracking
+ number.
+N2                      Additional Name Information          0          1                  0460
+
+N201         (93)       Name                                 Consignee Name                                                   M       AN   1/60
+
+ NOTE: The recipient’s name may not be available for packages processed on automated systems.
+N3                      Address Information                             0              2           0460
+N301         (166)      Address Information                             Consignee Street Address 1                            M       AN   1/55
+
+ L11                    Business Instructions and Reference                 0              10       0460        Number
+
+
+
+ L1101                  (127)           Reference Identification            Consignee Account Number                          X       AN   1/50
+
+L1102       (128)       Reference Identification Qualifier              ‘IT’                                                      X   ID    2/3
+
+ NOTE: FedEx account number of consignee, if billed to Consignee.
+ L11                    Business Instructions and Reference                 0              10       0460        Number
+
+ NOTE: This L11 segment does NOT apply to SmartPost shipments.
+ L1101      (127)          Reference Identification COD Cross-Reference Tracking Number                                           X   AN    1/50
+ L1102          (128)      Reference Identification Qualifier                   ‘OD’                                              X   ID    2/3
+
+ L11                       Business Instructions and Reference 0                       10          0460       Number
+
+NOTE: This L11 segment does NOT apply to SmartPost shipments.
+ L1101          (127)      Reference Identification              COD Check Amount                                                 X   AN    1/50
+
+ L1102          (128)      Reference Identification              ‘4N’                                                             X   ID    2/3
+                           Qualifier
+ L11                       Business Instructions and         0              10              0460
+                           Reference Number
+ NOTE:          This L11 segment applies to Express IPD service only.
+
+ L1101          (127)      Reference Identification              # of Distribution Addresses                                      X   AN    1/50
+
+ L1102          (128)      Reference Identification              ‘1O’                                                             X   ID    2/3
+                           Qualifier
+ NOTE: ‘1O’ = alpha ‘O’, not numeric.
+
+ L11                       Business Instructions and         0              10              0460
+                           Reference Number
+ L1101          (127)      Reference Identification              Customs Entry Number -or- International Ground                   X   AN    1/50
+                                                                 Shipment Number
+ L1102          (128)      Reference Identification              ‘DD’                                                             X   ID    2/3
+                           Qualifier
+                           -BEGIN 0463 LOOP-
+ CD3                       Carton (Package) Detail           0              1               0463     999999
+
+CD301           (187)      Weight Qualifier                  ‘B’— Billed Weight                                               X       ID   1/2
+CD302           (81)       Weight                            Package Weight                                                   X       R    1/10
+
+CD303           (619)      Zone                              Region/Zone Code                                                 0       AN   2/3
+
+CD305           (284)      Service Base Code                 X12 Standard Service Codes — See Codes Dictionary                X       ID   2/2
+                                                             for list of all codes
+NOTE: Future Enhancement, also refer to the L11 ‘QY’ for FedEx Express proprietary service codes. Due to the limited number of unique
+Standard codes for this data element, you may need the FedEx Express code that will uniquely describe the billed service.
+
+
+                                                                                                                                                  29
+                                                                                              FedEx Electronic Invoice and Remittance
+
+CD306           (108)      Pickup or Delivery Code ‘CC’—Convenience Center                                        0            ID         1/2
+                                                   ‘CT’—City Terminal
+                                                   ‘DB’–Drop Box ‘SD’—Shipper’s Door
+NOTE: The CD306 segment applies to Express shipments only.
+
+L11                        Business Instructions and         0           20         0463
+                           Reference Number
+
+L1101       (127)          Reference Identification          Handling Code                                        X           AN          1/50
+                                                             ‘H’– Hold
+                                                             ‘D’ - or- (space) – Delivery
+
+L1102       (128)          Reference Identification          ‘AHC’                                                X           ID          2/3
+                           Qualifier
+L11                        Business Instructions and         0           20         0463
+                           Reference Number
+
+   NOTE: This L11 segment applies to Express shipments only
+. L1101      (127)       Reference Identification           Delivery Schedule Code                                    X            AN      1/50
+                                                            See Codes Dictionary for list of available codes
+L1102       (128)          Reference Identification              ‘XX2’                                                X            ID      2/3
+                           Qualifier
+L11                        Business Instructions and         0            20         0463
+                           Reference Number
+ NOTE: This L11 segment applies to Express shipments only
+L1101       (127)          Reference Identification          Delivery Exception Code                                  X            AN      1/50
+                                                              See Codes Dictionary for list of codes
+L1102       (128)          Reference Identification              ‘EVI’                                                X            ID      2/3
+                           Qualifier
+L11                        Business Instructions and         0            20         0460
+                           Reference Number
+
+ NOTE: This L11 segment applies to Express shipments only.
+
+L1101       (127)       Reference Identification                 Delivery Exception Code – Final                      X            AN      1/50
+                                                                 Disposition
+                                                                 See Codes Dictionary for list of codes
+
+L1102       (128)       Reference Identification Qualifier       ‘ACC’                                                X            ID      2/3
+
+The following four L11 segments apply to SmartPost Only
+ L11                       Business Instructions and         0            20         0463
+                           Reference Number
+ L1101          (127)      Reference Identification              Sub-Class Postal                                     X            AN      1/50
+ L1102          (128)      Reference Identification              ‘PRT’                                                X            ID      2/3
+                           Qualifier
+ L11                       Business Instructions and         0            20         0463   999999
+                           Reference Number
+ L1101          (127)      Reference Identification          Process Category                                         X            AN     1/50
+
+ L1102          (128)      Reference Identification          ‘PHC’
+                                                                                                                      X            ID     2/3
+                           Qualifier
+ L11                       Business Instructions and         0
+                                                                                                                      20           0463
+                           Reference Number
+ L1101          (127)      Reference Identification          Parcel Size                                                  X         AN          1/50
+
+ L1102          (128)      Reference Identification          ‘ACD’
+                                                                                                                          X         ID          2/3
+                           Qualifier
+ L11                       Business Instructions and         0            20         0463
+                           Reference Number
+
+
+
+                                                                                                                                                  30
+                                                                                              FedEx Electronic Invoice and Remittance
+
+ L1101          (127)       Reference Identification        Delivery Confirmation Flag                                       X        AN     1/50
+
+ L1102          (128)       Reference Identification        ‘DQ’
+                                                                                                                             X         ID     2/3
+                            Qualifier
+ POD                        Proof of Delivery               0              1       0463
+
+POD01           (373)       Date                            Actual Delivery Date                                             M        DT      8/8
+POD02           (337)       Time                            Actual Delivery Time                                             0        TM      4/8
+POD03           (93)        Name                          Recipient Signature                                                 M     AN        1/60
+NOTE: The POD segment contains the actual date and time of delivery. Delivery exception information is contained in the following G62 segments.
+The POD segment is suppressed if the POD date, time, and recipient signature are not available at the time of billing, or an incorrect tracking
+number message is present in the L11 ‘AW’ segment. Only element 01 may be provided for Ground/SmartPost.
+G62                      Date/Time                        0           1         0463
+NOTE: This G62 segment applies to Express shipments only.
+G6201            (432)     Date Qualifier                   ‘89’ or ‘18’                                                  X           ID      2/2
+G6202            (373)     Date                             First attempt Date                                            X           DT      8/8
+G6203            (176)     Time Qualifier                   ‘0’ or ‘EP’                                                   X           ID      ½
+G6204        (337)       Time                                         First Attempt Time
+                                                                                                                          X           TN      4/8
+ Third Occurrence of the N1 Name and Address Loop for Original Consignee Address - if Corrected
+
+ N1                        Name                             0              1       0460      999999
+
+ N101            (98)      Entity Identifier Code               ‘KN’— Consignee Information                               M           ID     2/3
+ N102            (93)      Name                                 Consignee Company Name                                    X           AN     1/60
+
+ N2                        Additional Name Information      0              1       0460
+
+ N201            (93)      Name                                 Consignee Name                                            M           AN     1/60
+ N3                        Address Information              0              2       0460
+
+ N301            (166)     Address Information                  Consignee Street Address 1                               M            AN    1/55
+
+ N302            (166)     Address Information                  Consignee Street Address 2                               0            AN    1/55
+
+ N4                        Geographic Location              0              1       0460      999999
+
+ N401            (19)      City Name                            Consignee City                                           0            AN    2/30
+
+ N402            (156)     State/Province Code                  Consignee State/Province                                 X            ID    2/2
+
+ N403            (116)     Postal Code                          Consignee Zip/Postal Code                                0            ID    3/15
+
+N404         (26)        Country / Territory Code                     Consignee Country / Territory Code         X               ID         2/3
+Fourth Occurrence of the N1 Name and Address Loop (if applicable - Alternate Pickup Address - Ground shipments only)
+ N1                        Name                             0              1       0460
+
+ N101            (98)      Entity Identifier Code               ‘PW’—Consignee Information                                   M         ID     2/3
+ N102            (93)      Name                                 Consignee Company                                            X        AN      1/60
+ N2                        Additional Name Information      0              1       0460
+
+ N201            (93)      Name                                 Consignee Contact Name                                       M        AN      1/60
+
+ N3                        Address Information              0              2       0460
+
+ N301            (166)     Address Information                  Consignee Street Address 1                                   M        AN      1/55
+
+ N302            (166)     Address Information                  Consignee Street Address 2                                   0        AN      1/55
+
+ N4                        Geographic Location              0              1       0460
+
+
+                                                                                                                                                   31
+                                                                                      FedEx Electronic Invoice and Remittance
+
+ N401      (19)    City Name                            Consignee City                                        0      AN             2/30
+
+ N402      (156)   State/Province Code                  Consignee State/Province                              X          ID          2/2
+
+ N403      (116)   Postal Code                          Consignee Zip/Postal Code                             0          ID         3/15
+
+ N404      (26)    Country / Territory Code             Consignee Country / Territory Code                    X          ID          2/3
+                   -END 0460 LOOP-
+                   -END 0400 LOOP-
+
+ L3                Total Weight and Charges         0           1
+
+ L305      (58)    Amount Charged                       Total Invoice Charges                                 0/Z        N2         1/12
+ L308      (150)   Special Charge or Allowance          ‘IIA’
+                                                                                                              0          ID          3/3
+                   Code
+ SE                Transaction Set Trailer          M           1
+SE01       (96)    Number of Included Segments              Program Supplied                              M         N0        1/10
+SE02       (329)   Transaction Set Control Number           Program Supplied                              M         AN        4/9
+
+
+
+
+  SAMPLE EXPRESS/GROUND/SmartPost INVOICE FILE
+
+  Segment Terminator, NL (New line) Hex ‘15’
+  Data Element Separator, GS (Group Separator) Hex ‘1D’
+  Sub element Separator, US (Unit Separator) Hex ‘1F’
+
+  ISA*00* *00* *ZZ*055001924 *ZZ*CUST210 *061121*191
+  7*\*00406*000001627*0*P*
+  GS*IM*055001924*CUST210*20061121*1917*1627*X*004060
+  ST*210*2079279_ (210 INVOICE TRANSACTION SET; CONTROL # OF FILE)
+  B3**123456789**MX**20060701*6141****FDE*20061121*B1 (INVOICE NUMBER; DATE/TIME;
+  SCAC) C3*USD
+  ITD*05*3****20060716*15 (DUE DATE; TERMS 15 DAYS)
+  L11*199999999*14 (MASTER EDI #, ASSIGNED BY FEDEX)
+  N1*BT*BILL-TO COMPANY NAME (BILL-TO NAME LOOP)
+  N2*BILL-TO CONTACT NAME
+  N3*BILL-TO ADDRESS LINE 1
+  N4*BILL-TO CITY*CA*900010001*US
+  L11*114114114*IT (BILL-TO ACCOUNT NUMBER)
+  L11*STORE #*ST (ACCOUNT LEVEL REFERENCE FIELD)
+  N1*RI*FEDEX ERS (REMITTANCE ADDRESS LOOP)
+  N3*ATTN EDI PAYMENT*REMIT ADDRESS
+  N4*REMIT CITY*PA*152507741*US (IF US PAYOR)
+  OID*1***UNT*2 (NUMBER OF TRANSACTIONS)
+  LX*1_ (1ST TRACKING NUMBER)
+  L11*333333333333*AW*925*20060622 (TRACKING NUMBER; NET CHARGE; SHIP DATE)
+  L11*1*9W (PAYOR TYPE; 1 = BILL SHIPPER)
+  L11*900*RU
+  L11*123*BT (BUNDLE NUMBER; OR GROUND MULTIWEIGHT ID)
+  L5*1*INTRA U.S. SHIPMENT*2*Z*ENV (ENV = ENVELOPE PACKAGING)
+  L0*1***1*G***1*PCS**L (LADING LINE 1; 1(LB); GROSS WT; 1 PIECE; POUNDS)
+                                                                                                                                      32
+                                                 FedEx Electronic Invoice and Remittance
+
+L1****1660****080****050********USD (FREIGHT CHARGE)
+L1****75****405****010*******11.5*USD (FUEL SURCHARGE)
+L1****200****RES****022********USD (RESIDENTIAL SURCHARGE)
+L1****-1010****DSC****257********USD (DISCOUNT)
+L7*AC4556 (RATE SCALE)
+N1*SH*SHIPPER COMPANY NAME*FA*0048845 CAFE (SHIPPER NAME LOOP; SHIPPING DEVICE
+NAME)
+N2*SHIPPER 1 NAME*SHIPPER DPT
+N3*SHIPPER ADDRESS LINE 1*SHIPPER ADDRESS LINE 2
+N4*SHIPPER CITY*CA*90007*US
+L11*114114114*IT (SHIPPER’S ACCOUNT NUMBER, WHEN BILLED TO SHIPPER)
+L11*REFERENCE: THIS IS AN EXPRESS INVOICE*CR
+L11*2ND REFERENCE FIELD*ACT (EXPRESS REFERENCE 2 OR GROUND PO NUMBER)
+L11*3RD REFERENCE FIELD*ADI (EXPRESS REFERENCE 3 OR GROUND INVOICE NUMBER
+REFERENCE)
+N1*CN*CONSIGNEE COMPANY NAME (CONSIGNEE NAME LOOP)
+N2*CONSIGNEE NAME
+N3*CONSIGNEE ADDRESS LINE 1*CONSIGNEE ADDRESS LINE 2
+N4*CONSIGNEE CITY*WY*85555*US
+CD3*B*1*6*ON*SD (BILLED WEIGHT; REGION/ZONE; SERVICE CODE; PICKUP CODE)
+L11*D*AHC (DELIVER OR HOLD CODE)
+POD*20060627*1134*POD SIGNATURE (POD – PROOF OF DELIVERY INFORMATION)
+G62*89*20060621*0*1010 (FIRST ATTEMPT DELIVERY INFORMATION)
+LX*2 (2ND TRACKING NUMBER)
+L11*222222222222*AW*1117*20050622
+L11*1*9W
+L11*900*RU
+L11*123*BT (BUNDLE NUMBER; OR GROUND MULTIWEIGHT ID)
+L5*1*INTRA U.S. SHIPMENT*2*Z*ENV
+L0*1***1*G***1*PCS**L
+L1****1590****080****050********USD
+L1****74****405****010********11.5*USD
+L1****200****260****492********USD
+L1****200****RES****022********USD
+L1****-947****DSC****185********USD
+L7*AC4556 (RATE SCALE)
+N1*SH*SHIPPER COMPANY NAME*FA*0048845 CAFE
+N2*SHIPPER 1 NAME
+N3*SHIPPER ADDRESS LINE*SHIPPER ADDRESS LINE 2
+N4*SHIPPER CITY*CA*90007*US
+L11*114114114*IT
+L11*REFERENCE NOTES (BILL SHIPPER)*CR
+L11*2ND REFERENCE FIELD*ACT
+L11*3RD REFERENCE FIELD*ADI
+N1*CN*CONSIGNEE COMPANY NAME
+N2*CONSIGNEE 2 NAME
+N3*CONSIGNEE ADDRESS LINE 1*CONSIGNEE ADDRESS LINE 2
+N4*CONSIGNEE CITY*UT*84442*US
+CD3*B*1*6*ON*SD
+
+                                                                                     33
+                                                                                FedEx Electronic Invoice and Remittance
+
+L11*D*AHC
+POD*20050625*1019*POD SIGNATURE
+L3*****2042***IIA
+SE*1593*00013
+GE*2*1627
+IEA*1*000001627
+
+
+CODES DICTIONARY
+The codes dictionary is a separate document. It is an Excel spreadsheet that lists the available code values used
+for an element. There is a separate TAB at the bottom of the document that correlates to each element, i.e.: V908
+DEL EXCEP, V912 DEL DISP
+
+
+For a copy of the Codes Dictionary, send a request to EDI-InvandRemit@fedex.com.
+
+
+
+REMITTANCE FILE RECORD LAYOUT (820 TRANSACTION SET)
+REMITTANCE ENVELOPE – ISA HEADER
+   ISA                  Interchange Control Header                                               Req    Type   Min/Max
+ ISA01    (I01)     Authorization Information Qualifier   ‘00’                                    M      ID      2/2
+ ISA02    (I02)     Authorization Information             All blanks                              M      AN     10/10
+ ISA03    (I03)     Security Information Qualifier        ‘00’                                    M      ID      2/2
+ ISA04    (I04)     Security Information                  All blanks                              M      AN     10/10
+ ISA05    (I05)     Interchange Sender ID Qualifier       Sender ID Qualifier                     M      ID      2/2
+ ISA06    (I06)     Interchange Sender ID                 Sender ID                               M      AN     15/15
+ ISA07    (I05)     Interchange Receiver ID Qualifier     ‘ZZ’                                    M      ID      2/2
+ ISA08    (I07)     Interchange Receiver ID               ‘055001924’                             M      AN     15/15
+ ISA09    (I08)     Interchange Date                      Current Date—YYMMDD                     M      DT      6/6
+ ISA10    (I09)     Interchange Time                      Current Time—HHMM                       M      TM      4/4
+ ISA11    (I65)     Repetition Separator                  ‘\’                                     M              1/1
+ ISA12    (I11)     Interchange Control Version           ‘00406’, ‘00401’ or ‘00307’
+                                                                                                  M      ID      5/5
+                    Number
+ ISA13    (I12)     Interchange Control Number            Provided by Sender                      M      N0      9/9
+ ISA14    (I13)     Acknowledgment Requested              ‘0’                                     M      ID      1/1
+ ISA15    (I14)     Usage Indicator                       ‘P’                                     M      ID      1/1
+ ISA16    (I15)     Component Element Separator           ‘*’                                     M              1/1
+ GS                 Functional Group Header                                                       Req   Type   Min/Max
+ GS01    (479)     Functional ID Code                     ‘RA’                                     M     ID       2/2
+ GS02    (142)     Application Sender’s Code              Last 12 digits of ISA06                  M     AN      2/15
+ GS03    (124)     Application Receiver’s Code            Last 12 digits of ISA08                  M     AN      2/15
+ GS04    (373)     Data Interchange Date                  Current Date – CCYYMMDD                 M/Z    DT       8/8
+ GS05    (337)     Data Interchange Time                  Current Time                            M/Z    TM       4/8
+ GS06    (28)      Group Control Number                   Provided by Sender                      M/Z    N0       1/9
+ GS07    (455)     Responsible Agency Code                ‘X’                                      M     ID       1/2
+ GS08    (480)     Version/Release/Industry ID Code ‘004060’                                       M     AN      1/12
+ NOTE: The Remittance Transaction Set is inserted after the Functional Group header.
+ GE                 Functional Group Trailer
+ GE01     (97)      Number of Transaction Sets            As calculated per the standard
+                                                                                                  M      N0      1/6
+                    Included
+ GE02     (28)      Group Control Number                  Same as GS06                            M/Z    N0      1/9
+ IEA                Interchange Control Header
+
+                                                                                                                       34
+                                                                                FedEx Electronic Invoice and Remittance
+
+   ISA                      Interchange Control Header                                                 Req        Type    Min/Max
+ IEA01     (I16)       Number of Included Functional      As calculated per the standard
+                                                                                                       M          N0        1/5
+                       Groups
+ IEA02     (I12)       Interchange Control Number         Same as ISA13                                M          N0        9/9
+
+
+NOTE: ISA05 and ISA06 will be used to set up your trading partnership. Please have this data available for your
+assigned FedEx ECS analyst.
+
+
+SEGMENT SYNTAX
+ Segment/ID        Segment                                   Requirement       Max Use       Loop ID         Loop Index
+ ST                Transaction Set Header                    M                 1
+ BPR               Payment Order/Remittance Advice           M                 1
+ CUR               Currency                                  0                 1
+ REF               Reference Identification                  0                 >1
+ DTM               Date/Time Reference                       0                 >1
+ N1                Name                                      0                 1             N1              >1
+ ENT               Entity                                    0                 1             ENT             >1
+ NM1               Name                                      0                 >1            NM1             >1
+ RMR               Remittance Advice                         0                 1             RMR             >1
+ REF               Reference Identification                  0                 1             REF             >1
+ ADX               Adjustments                               0                 1             ADX             >1
+ NTE               Note/Special Instructions                 0                 >1            ADX             >1
+ SE                Transaction Set Trailer                   M                 1
+
+
+
+
+                                                                                                                                  35
+                                                                                      FedEx Electronic Invoice and Remittance
+
+DESCRIPTION OF DATA ELEMENTS
+                                                                     Max      Loop                                      Min/
+                                                            Req      Use       ID                            Type       Max
+ ST       Transaction Set Header                           M        1
+
+ ST01    (143)        Transaction Set ID                   ‘820’                                            ID          3/3
+ ST02    (329)        Transaction Set Control Number       At user’s discretion, not used by FedEx          AN          4/9
+ BPR      Beginning Segment                                M        1
+
+ BPR01    (305)       Transaction Handling Code            ‘I’                                                ID        1/2
+ BPR02    (782)       Monetary Amount                      Total currency amount of all items being           R         1/18
+                                                                      paid must total RMR04s
+ BPR03    (478)       Credit/Debit Flag Code               Code per Standards ‘C’—Credit                      ID        1/1
+ BPR04    (591)       Payment Method Code                  Code per Standards                                 ID        3/3
+                                                           ‘ACH’— Automated Clearing House
+                                                           ‘CHK’— Check
+                                                           ‘FEW’— Federal Reserve Funds/Wire
+                                                           Transfer - Repetitive
+                                                           ‘FWT’— Federal Reserve Funds/Wire
+                                                           Transfer – Non-repetitive
+ BPR10    (509)       Originating Company ID               Last 10 digits of ISA06                            AN       10/10
+ BPR16    (373)       Date                                 Provide settlement date if paying via EFT          DT        8/8
+ CUR      Currency                                         M            1
+
+ CUR01   (98)         Entity ID Code                       ‘RM’– Party that remits payment                    ID        2/3
+ CUR02   (100)        Currency Code                        ‘USD’–U.S. Payers must remit in USD                ID        3/3
+ REF      Reference Numbers                                M
+
+ REF01   (128)        Reference Identification Qualifier   ‘14’—Master Account Number                         ID        2/3
+ REF02   (127)        Reference Identification             Customer FedEx Master Account Number               AN        9/9
+ REF      Reference Numbers                                M
+
+ REF01   (128)        Reference Identification Qualifier   ‘TN’– Transaction Ref #                            ID        2/3
+                                                           ‘CK’– Check Number
+ REF02   (127)        Reference Identification             Check # or Reference # (8 characters max           AN        1/8
+                                                           – must be unique) Required for FedEx
+                                                           processing
+
+ DTM      Date/Time References                             M
+
+ DTM01    (374)       Date/Time Qualifier                  ‘097’– Transaction Creation Date                   ID        3/3
+ DTM02    (373)       Date                                 Transaction Creation Date (CCYYMMDD)               DT        8/8
+ N1       Name                                             C            1     N1
+
+ N101       (98)      Entity Identifier Code               ‘PR’– Payer                                        ID         2/3
+ N102       (93)      Name                                                                                    AN        1/60
+ N103       (66)      ID Code Qualifier                    ‘ZZ’ (See Note)                                    ID         1/2
+ N104       (67)      ID Code                              Customer FedEx Account Number (See Note)            N         9/9
+ NOTE:          -   The account number is the account number of the company billed for the FedEx service. N1 segment is
+                    limited to one occurrence.
+                -   N1 is required if paying only one billed account per ST / SE loop.
+                -   If multiple bill-to accounts are being paid, do not use N1 – use the NM1 segment instead. N1 or NM1 must be
+                    used. Do not use both.
+ ENT      Entity                                               M          1       ENT
+
+ ENT01   (554)        Assigned Number                      ‘1’                                                   N       1/6
+
+ NM1      Individual or Organizational Name                C            >1    NM1
+
+
+                                                                                                                                  36
+                                                                                           FedEx Electronic Invoice and Remittance
+
+                                                                        Max       Loop                                    Min/
+                                                              Req       Use        ID                        Type         Max
+NM101    (98)         Entity Identifier Code                 ‘AO’–Account Of                                   ID               2/3
+NM102    (1065)       Entity Type Qualifier                  ‘3’                                               ID               1/1
+NM103    (1035)       Name                                                                                    AN            1/35
+NM108      (66)       Identification Code Qualifier          ‘ZZ’                                              ID           1/2
+NM109      (67)       Identification Code                    Customer FedEx Account Number (See Note)          N            9/9
+NOTE:     The account number in NM109 is the account number of the company billed for the FedEx service.
+
+           - N1 is required if paying only one billed account per ST / SE loop.
+           - If multiple bill-to accounts are being paid, do not use N1 – use the NM1 segment instead. N1 or NM1 must be used.
+             Do not use both
+RMR        Remittance Advice                                  M         1          RMR
+
+RMR01      (128)      Reference Identification Qualifier     ‘AW’—Tracking Number                              ID
+                                                             ‘IV’— Invoice Number                                           2/3
+
+RMR02      (127)       Reference Identification              Tracking Number, if RMR01 = ‘AW’ (See            AN
+                                                             Note) Invoice Number, if RMR01 = ‘IV’                         1/30
+
+RMR04      (782)      Monetary Amount                        Payment Amount (MUST BE POSITIVE)                 R           1/18
+NOTES: The Tracking Number that should be sent can be found in the 110 Invoice in the N9 segment with qualifier AW.
+       Do not return the Ground Tracking Number found in the N9 segment with qualifier 2I on the invoice. This
+       Ground Tracking Number is for informational purposes only.
+         If paying by tracking number the invoice number is required in the following REF segment. Tracking number level
+         payments are required if adjustments are made. Repeat this segment for multiple invoices and tracking numbers.
+         If requesting an Invoice adjustment by tracking number:
+                     •    If disputing the full amount, the amount paid should be ‘0’ (zero)
+                     •    If disputing a partial amount, enter the amount being paid.
+REF        Reference Number                                  C                1      REF
+
+REF01      (128)      Reference Identification Qualifier     ‘IV’ - Invoice                                    ID         2/3
+
+REF02      (127)      Reference Identification               Invoice Number                                   AN          1/30
+
+NOTE:    This segment is required if paying by Tracking Number. To ensure proper credit and decrease processing time, please
+         include invoice number for all adjustment requests.
+ADX        Adjustments                                      O          1     ADX
+
+ADX01      (782)      Monetary Amount                        Invoice Adjustment Request Amount—
+                                                                                                                     R      1/18
+                                                             Amount you are disputing
+ADX02      (426)      Adjustment Reason Code                                                                        ID          2/2
+           ‘18’ - Not Company Bill
+           ‘19’ - Duplicate Billing
+           ‘21’ - Rebill Other Account (Account Number Required)
+           ‘30’ - Saturday Delivery Surcharge Invalid
+           ‘34’ - Declared Value Incorrect
+           ‘38’ - Service Incorrect
+           ‘40’ - Address Correction Surcharge Invalid
+           ‘51’ - Delivery Area Surcharges (DAS) Applied in Error
+           ‘53’ - Pickup Fees or Weekly On-Call Fees - Not Requested
+           ‘60’ - Late Fee Applied in Error
+           ‘H2’ - Payment Previously Sent
+           ’PD’ - Balance Due Requested (an inquiry, not a dispute)
+
+           NOTE: If you use code ‘21’, ‘34’, ‘38’, ‘H2’ then an NTE02 is required.
+ADX03      (128)      Reference Identification Qualifier     ‘AW’ – Tracking Number                                 ID          2/3
+ADX04      (127)      Reference Identification               Tracking Number                                        N      12/12
+NOTES: Adjustment requests for service failure or no proof of delivery must be submitted through the invoice adjustment
+       feature on fedex.com or the telephone invoice adjustment system at 800-622-1147.
+
+
+
+                                                                                                                                      37
+                                                                                             FedEx Electronic Invoice and Remittance
+
+                                                                          Max       Loop                                     Min/
+                                                             Req          Use        ID                         Type         Max
+
+           For Incorrect Pricing, Discount, Dimensions, Weight, or Miscellaneous invoice adjustment support please contact
+           your FedEx Sales Executive as these reasons cannot be submitted via EDI.
+
+          Code ‘H2’ is to be used for ‘Payment Previously Sent’ disputes only. Do not use code ‘H2’ to dispute items in process,
+          duplicate billing, partial balances or any other adjustment reason codes.
+
+          Duty/tax disputes (air express shipments only) must be submitted in Email to dutytaxdisputes@fedex.com
+
+          No adjustment requests for Retail Sales purchases (packaging supplies) should be included. Call (800) 622-1147 for
+          inquiries.
+ NTE        Note/Special Instructions                       O             1           ADX
+
+ NTE02      (352)      Free-Form Message                                                                         AN       1/21
+        *If ADX02 =
+           21: Provide FedEx account number to be rebilled.
+           34: Provide correct declared value per your records.
+           38: Provide correct service per your records (i.e. 2nd day vs. Priority).
+           H2: Provide original check number and date (i.e. ABC12345..MMDDYYYY).
+NOTE: FedEx reads a maximum of 21 characters.
+                     -END of Detail section-
+
+
+ SE         Transaction Set Trailer                         M             1
+
+ SE01       (96)       Number of Included Segments          Program Supplied                                     N0       1/10
+ SE02       (329)      Transaction Set Control Number       Same as ST02                                         AN          4/9
+
+
+
+
+                                                                                Max        Loop                                     Min/
+                                                                   Req          Use         ID                  Req      Type       Max
+
+ST          Transaction Set Header                                  M           1
+ST01        (143)      Transaction Set ID                           ‘820’                                         M/Z        ID       3/3
+ST02        (329)      Transaction Set Control Number               At user’s discretion, not used by FedEx        M         AN       4/9
+                                                                    M       1
+BPR                    Beginning Segment
+
+                                                                    ‘I’
+BPR01       (305)      Transaction Handling Code                                                                   M          ID      1/2
+
+                                                                    Total currency amount of all items
+BPR02       (782)      Monetary Amount                                                                            M/Z         R      1/18
+                                                                    being paid must total RMR04s
+BPR03       (478)      Credit/Debit Flag Code                       Code per Standards ‘C’—Credit                  M          ID      1/1
+                                                                    Code per Standards
+                                                                    ‘ACH’— Automated Clearing House
+                                                                    ‘CHK’— Check
+BPR04       (591)      Payment Method Code                          ‘FEW’— Federal Reserve Funds/Wire              M          ID      3/3
+                                                                    Transfer - Repetitive
+                                                                    ‘FWT’— Federal Reserve Funds/Wire
+                                                                    Transfer – Non-repetitive
+
+                                                                    For ACH payments only, not used by
+BPR05       (812)      Payment Format                               FedEx                                          O          ID     1/10
+
+BPR06       (506)      (DFI) ID Number Qualifier                    For ACH payments only, not used by
+                                                                    FedEx                                         X/Z         ID      2/2
+
+BPR07       (507)      (DFI) ID Number                              For ACH payments only, not used by
+                                                                    FedEx                                          X         AN      3/12
+
+BPR09       (508)      Account Number                               For ACH payments only, not used by
+                                                                    FedEx                                         X/Z        AN      1/35
+
+
+                                                                                                                                           38
+                                                                                        FedEx Electronic Invoice and Remittance
+
+                                                                           Max        Loop                                     Min/
+                                                                  Req      Use         ID                      Req   Type      Max
+
+BPR10       (509)      Originating Company ID                       Last 10 digits of ISA06                   0/Z     AN       10/10
+
+BPR11       (510)      Originating Company Supplemental             Not used by FedEx                         0       AN       9/9
+                       Code
+BPR12       (506)      (DFI) ID Number Qualifier                   For ACH payments only; not used by         X/Z     ID       2/2
+                                                                   FedEx
+BPR13       (507)      (DFI) ID Number                             For ACH payments only; not used by         X       AN       3/12
+                                                                   FedEx
+BPR15       (508)      Account Number                              For ACH payments only; not used by         X/Z     AN       1/35
+                                                                   FedEx
+BPR16                                                              (373)        Date      Provide settlement date    0/Z       DT
+                                                                     8/8 if paying via EFT
+
+CUR                    Currency                                     0          1
+
+CUR01       (98)       Entity ID Code                              ‘RM’ - Party that remits payment           M       ID       2/3
+CUR02       (100)      Currency Code                               ‘USD’ - U.S. Payors must remit in USD      M       ID       3/3
+
+REF                    Reference Numbers                           O           >1
+
+REF01       (128)      Reference Identification Qualifier           ‘14’ - Master Account Number              M       ID       2/3
+                                                                   Customer FedEx Master Account
+REF02       (127)      Reference Identification                                                               X       AN       1/50
+                                                                   Number
+REF                    Reference Numbers                           O           >1         O        >1
+
+REF01       (128)      Reference Identification Qualifier ‘TN’ ‘CK’–– Transaction Ref # Check Number                  M        ID
+ 2/3
+
+
+REF02       (127)      Reference Identification                    Check # or Control #                       X       AN       1/50
+                                                                   (First 8 characters only) Required for
+                                                                   FedEx processing
+DTM                    Date/Time References                        O           >1         O        >1
+
+DTM01       (374)      Date/Time Qualifier                          ‘097’– Transaction Creation Date          M       ID       3/3
+DTM02       (373)      Date                                        Transaction Creation Date                  X       DT       8/8
+                                                                   (CCYYMMDD)
+                                                            -BEGIN N1 LOOP-
+
+
+N1                     Name                                        O           1          N1       >1
+
+N101        (98)       Entity Identifier Code                      ‘PR’– Payor                                M       ID       2/3
+N102        (93)       Name                                                                                   X       AN       1/60
+N103        (66)       ID Code Qualifier                            ‘ZZ’ (See Note)                           X       ID       1/2
+                                                                   Customer FedEx Account Number
+N104        (67)       ID Code                                     (See Note)                                 X       AN       2/80
+NOTE: The account number here is the account number of the company receiving the FedEx service. N1 segment is limited to one
+occurrence.
+                                                             -END N1 LOOP-
+
+
+                                                            -BEGIN ENT LOOP-
+
+
+ENT                    Entity                                       0          1          ENT      >1
+
+ENT01       (554)      Assigned Number                             ‘1’                                        0       N0       1/6
+                                                            -BEGIN NM1 LOOP-
+
+
+
+                                                                                                                                      39
+                                                                                          FedEx Electronic Invoice and Remittance
+
+                                                                             Max       Loop                                      Min/
+                                                                    Req      Use        ID                     Req     Type      Max
+
+ NM1                    Individual or Organizational Name             0          >1        NM1      >1
+
+ NM101       (98)        Entity Identifier Code                      ‘AO’–Account Of                          M         ID       2/3
+ NM102       (1065)      Entity Type Qualifier                       ‘3’                                      M/Z       ID       1/1
+ NM103       (1035)     Name                                                                                  X         AN       1/60
+ NM108       (66)       Identification Code Qualifier                 ‘ZZ’                                    X         ID       1/2
+ NM109       (67)        Identification Code                                                                  X         AN       2/80
+                                                               -END NM1 LOOP-
+
+
+                                                              -BEGIN RMR LOOP-
+
+
+ NOTE: The RMR, REF & ADX segments are required by FedEx for Non-Pay and Remittance processing.
+ RMR                     Remittance Advice                            0          1         RMR      >1
+
+ RMR01        (128)      Reference Identification Qualifier           ‘AW’, ‘CN’, or ‘FR’—Tracking Number     X         ID       2/3
+                                                                     or ‘IV’, ‘OI’, or ‘BM’— Invoice Number
+                                                                     (See Note)
+ RMR02        (127)      Reference Identification                    Tracking Number, if RMR01 = ‘AW’         X         AN       1/50
+                                                                     (See Note) Invoice Number, if RMR01
+                                                                     = ‘IV’ or ‘OI’
+NOTE: If RMR01 = ‘AW’, ‘CN’ or ‘FR’, the RMR02 is the Tracking Number that is found in the 110 Transaction Set, N902 segment, following
+the N901 ‘AW’ qualifier. The ‘2I’ Ground Tracking Number found in the N902 segment is for informational purposes only and should not be
+used in the RMR02 segment when remitting to FedEx.
+ RMR04        (782)      Monetary Amount                             Payment Amount (MUST BE                  0/Z       R        1/18
+                                                                     POSITIVE)
+NOTE: If paying by tracking number put tracking number in this segment and put invoice information in the REF segment. Tracking number
+level payments are required if adjustments are requested. Repeat this segment for multiple invoices and tracking numbers.
+                         -BEGIN REF LOOP-
+
+ REF                     Reference Number                             0          1         REF      >1
+
+ REF01        (128)      Reference Identification Qualifier           ‘IV’, ‘OI’, or ‘BM’—Invoice             M         ID       2/3
+ REF02        (127)      Reference Identification                     Invoice Number                          X         AN       1/50
+NOTE: This segment is required. To ensure proper credit and decrease processing time, please include invoice number for all adjustment
+requests.
+                         -END REF LOOP-
+                         -BEGIN ADX LOOP-
+
+ ADX                     Adjustments                                  0          1         ADX      >1
+
+
+
+
+                                                                                                                                         40
+                                                                                           FedEx Electronic Invoice and Remittance
+
+                                                                              Max       Loop                                           Min/
+                                                                     Req      Use        ID                         Req     Type       Max
+
+ ADX01        (782)       Monetary Amount                             Adjustment Amount— Amount you                M/Z        R        1/18
+                                                                      are not paying
+NOTE: Adjustment requests for service failure or no proof of delivery must be submitted through the invoice adjustment feature on fedex.com
+or the telephone invoice adjustment system at 800-622-1147.
+NOTE: Refer to the ‘ELECTRONIC INVOICE ADJUSTMENTS HELPFUL TIPS’ section following this page for more information on submitting
+invoice adjustment requests.
+
+ ADX02        (426)       Adjustment Reason Code                       See codes Under “ELECTRONIC                 M/Z        ID       2/2
+                                                                      INVOICE ADJUSTMENTS
+                                                                      HELPFUL TIPS”
+NOTE: *Code ‘H2’ is to be used for ‘Payment Previously Sent’ disputes only. Do not use code ‘H2’ to dispute items in process, duplicate billing,
+      partial balances or any other adjustment reason codes.
+NOTE: Duty/tax disputes (air express shipments only) must be submitted in writing.
+NOTE: No adjustment requests for Retail Sales purchases (packaging supplies billed via paper invoice) should be included. Call (800) 622-
+     1147 for inquiries.
+ ADX03        (128)       Reference Identification Qualifier           ‘AW’ or ‘FR’—Tracking Number                X/Z        ID       2/3
+ ADX04        (127)       Reference Identification                     Tracking number                             X          AN       1/50
+NOTE: If you use code ‘21’, ‘34’, ‘38’, ‘H2’ an NTE02 is required.
+ NTE                      Note/Special Instructions                    0          >1         ADX
+
+ NTE02        (352)       Free-Form Message                                                                        M          AN       1/80*
+If ADX02 =     21: Provide FedEx account number to be rebilled.
+               34: Provide correct declared value per your records.
+               38: Provide correct service per your records (i.e. 2nd day vs. Priority).
+               H2: Provide original check number and date (i.e. 2040102AB..010104).
+
+
+NOTE: *X-12 standards allow for 80 characters in the free-form message; FedEx reads a maximum of 21 characters.
+                        - END ADX LOOP-
+                        - END RMR LOOP-
+                        - END ENT LOOP-
+
+ SE                       Transaction Set Trailer                      M          1
+
+ SE01         (96)        Number of Included Segments                  Program Supplied                            M          N0       1/10
+
+                                                                                Max      Loop      Loop Repeat                         Min/Ma
+                                                                       Req      Use      ID                        Req        Type     x
+
+ SE02         (329)       Transaction Set Control Number               Same as ST02                                M          AN       4/9
+
+
+NOTE: Repeat RMR, REF, ADX and NTE, segments as needed for multiple tracking numbers.
+
+
+
+
+                                                                                                                                              41
+                                                                                               FedEx Electronic Invoice and Remittance
+
+ADJUSTMENT REASON CODES (Used in the ADX02)
+ Code                   Description                                                   Explanation of Code
+                                                     Tracking number was billed to the recipient or third party without authorization. Company
+   18       Billed to Company in Error
+                                                     was billed in error as the shipping account.
+
+   19       Duplicate Billing                        Tracking number was billed twice for the same charges
+
+ NOTES
+  1. Out-of-week billings, supplemental charges, duty and tax billings, Past Due or Balance Due invoices and ground return shipment billings
+     are not duplicate billings.
+  2. Duplicate information should not be processed as duplicate billing.
+
+                                                     Code should be used when requesting billing away from the
+   21       Rebill to Another Account                shipping party such as to the recipient or third party. A valid FedEx account number must
+                                                     be entered in the ‘NTE02’ segment when using this code.
+
+   30       Saturday Surcharge Invalid               Saturday delivery or Pick up surcharge invalid
+
+                                                     Tracking number was billed using the incorrect declared value. The
+   34       Declared Value Incorrect                 correct declared valued per your records must be entered in the ‘NTE02’ segment when
+                                                     using this code.
+
+                                                     Tracking number was billed using the incorrect service type. The
+   38       Service Incorrect                        correct service per your records must be entered in the ‘NTE02’ segment when using this
+                                                     code. Ex: SO vs. PL.
+
+   40       Address Correction Surcharge Invalid     Address Correction Surcharge Invalid
+
+            Delivery Area Surcharges (DAS)
+   51                                                Code should only be used when Delivery Area Surcharges have been applied in error.
+            Applied in Error
+
+            Call Fees Pickup Fees or Weekly On-      Code should only be used when Pickup Fees or Weekly On– Not Requested have been
+   53
+            Call Fees Applied in Error               applied in error.
+
+   60       Late Fee Applied in Error                Late Fee Applied in Error
+
+                                                     Code should only be used to inform FedEx that payment has been
+   H2       Payment Previously Sent                  previously sent. Check number, check date, and reference number of the previous
+                                                     payment must be entered in the ‘NTE02’ segment when using this code.
+
+            Balance Due Requested (this is an
+   PD*                                               This request will return the Balance Due of the transaction in the ‘RMT-06’ field.
+            inquiry - not a dispute)
+
+
+NOTE
+For Incorrect Pricing, Discount, Dimensions, Weight, or Miscellaneous invoice adjustment support
+please contact your FedEx Sales Executive as these reasons cannot be submitted via EDI.
+
+
+
+
+                                                                                                                                                 42
+                                                                  FedEx Electronic Invoice and Remittance
+
+COMMON ABBREVIATIONS (Used in the NTE02)
+
+The NTE02 segment is limited to 21 characters on the FedEx side. A list of common abbreviations is
+being provided to assist in the entering of comments and conveying messages.
+
+ Abbreviation         Description                         Abbreviation            Description
+ #                    Number                              GRND                    Ground
+ 3rd                  Third Party                         HAZ                     Hazardous
+ A/C                  Address Correction                  INFO                    Information
+ AB                   Tracking                            INQ                     Incorrect Quantity
+ ACCT                 Account                             INS                     Incorrect Service
+ ADJ                  Adjustment                          INT’L                   International
+ ADR                  Address                             INV                     Invoice
+ AE                   Account Executive                   INW                     Incorrect Weight
+ AGT                  Agent                               LB                      Pound
+ AH                   Additional Handling                 LTE                     Late
+ CC                   Credit Card                         MSC                     Miscellaneous
+ CK                   Check                               O/C                     On Call
+ CNTL                 Control                             OT                      On Time
+ COD                  Cash On Delivery                    OVS                     Oversize
+ CONS                 Consignee                           P/U                     Pick Up
+ CR                   Credit                              PKG                     Package
+ CTG                  Call Tag                            PO                      Priority Overnight
+ D&T                  Duty & Tax                          PTY                     Party
+ D/O                  Drop Off                            PYMNT                   Payment
+ DAS                  Delivery Area Surcharge             RB                      Rebill
+ DB                   Debit                               RECIP                   Recipient
+ DEL                  Delivery                            REF                     Reference
+ DIM                  Dimensions                          REP                     Representative
+ DIS                  Discount                            REQ                     Request
+ DN                   Denial                              RESI                    Residential
+ DOC                  Document                            RF                      Refund
+ DOM                  Domestic                            RTN                     Return
+ DSP                  Dispute                             SDR                     Saturday Delivery
+ DTE                  Date                                SHPMNT                  Shipment
+ DUP                  Duplicate                           SHPR                    Shipper
+ DV                   Declared Value                      SIG                     Signature
+ EIA                  Electronic Invoice                  SPU                     Saturday Pick Up
+                      Adjustments
+ ERS                  Electronic Revenue                  SVC                     Service
+                      Support
+ ES                   Economy Service                     WKLY                    Weekly
+ EXP                  Express                             WT                      Weight
+ FSU                  Fuel Surcharge                      XS                      Express Service
+
+
+
+
+                                                                                                       43
+                                                                 FedEx Electronic Invoice and Remittance
+
+BREAKDOWN OF EIA FILES WITH OVER 10,000 ADJUSTMENT REQUESTS
+EIA files containing 10,000 or more adjustment requests will be separated into smaller files of
+5,000 on the FedEx side, and the resolution files will return in the smaller files. The assigned EIA
+control number will remain the same except for the last digit which will change to an alpha or
+numeric character (A through Z, or 1, 2, 3...). Example:
+EIA control number EAST0123 is sent with 17,123 adjustment requests. The file will be separated
+into smaller files and the resolution files will return as shown below:
+
+           Control Number          Adjustment Line Items
+           EAST0123                       5,000
+           EAST012A                       5,000
+           EAST012B                       5,000
+           EAST012C                       2,123
+             Total of 4 Files       Total 17,123 Adjustment Requests
+
+
+EIA FILE CYCLE TIME
+EIA files transmitted and received in FedEx net prior to 2:00 PM CST will download in the
+Electronic Invoice Adjustment system the same day. Files received after 2:00 PM CST will
+download in the Electronic Invoice Adjustment system the next business day.
+
+
+
+
+                                                                                                     44
+                                                                 FedEx Electronic Invoice and Remittance
+
+X.12 820 Parcel Remittance Advice Examples
+
+
+
+
+HELPFUL REMINDERS:
+ • The sum of all RMR “Payment Amount” must equal header BPR “Payment Amount”
+ • When paying at the tracking number level you MUST include a REF*IV segment with the invoice number.
+ • The RMR “Payment Amount” must always be a positive number
+ • The following Adjustment Reason codes require an NTE segment to be sent with additional information:
+    o 21, 22, 34, 38, H2
+
+                                                                                                     45
+

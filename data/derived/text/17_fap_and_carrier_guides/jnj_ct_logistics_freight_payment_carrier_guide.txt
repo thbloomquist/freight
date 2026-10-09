@@ -1,0 +1,387 @@
+                        Official Johnson & Johnson Regional Transportation Freight Payment Carrier Guide
+J&J RTO Freight Pay Contacts                                          CT Logistics Freight Pay Contact
+Monika Roszkowski MRoszkow@its.jnj.com 732 623‐4586                   Team 17 team17@ctlogistics.com or 800‐243‐4100
+Jose Ortiz jortiz18@its.jnj.com (732)623‐4560 Ex. 7028
+GTO Web Res Mailbox Rtowebres@its.jnj.com                             Mail Invoices to: Johnson & Johnson “Name of Johnson &
+Johnson & Johnson Freight Pay Team:                                   Johnson Operating Company” (see Appendix B)
+Kanna Smith ksmith52@its.jnj.com 908 904‐3917                         C/O CT Logistics, Attn: Team 17
+                                                                      PO BOX 42121, Cleveland, OH 44142
+Johnson & Johnson Services, Inc. Accounts Payable (JJAP)
+ARAVO Supplier : SupplierAccount@corus.jnj.com                        FedEx, UPS, DHL overnight packages can be sent to:
+A/P Customer Service Hotline (Payments):                              Johnson & Johnson “Name of Johnson & Johnson Operating
+http://www.ap.jnj.com 877‐557‐4487 or 732‐524‐1154                    Company” (see Appendix B)
+                                                                      C/O CT Logistics, Attn: Team 17
+                                                                      12487 Plaza Drive, Cleveland, OH 44130
+
+Also refer to the CT Website/Documentation/Freight Pay 101
+
+Frequently Asked Questions
+1. What can I do to help ensure we get paid on time?
+   Successful freight pay takes teamwork. CT & J&J will assist you in every way possible to ensure that your freight bills are
+   processed timely and accurately, but we also need your proactive follow up.
+
+2. What is the processing time and where do I send the bills? Send Freight Bills (FB) to CT Logistics (CT) for audit and processing.
+
+
+                                         Invoice Processing Steps            Days
+                                         CT Review/Processing                  10
+                                         LMS Review (Web Res)                  7
+                                         RTO Assignment (Web Res)              10
+                                         AP Process Payment*                   1
+                                         * If current age to terms
+
+     a. If the FB passes audit it will be sent to AP for payment. Past due bills will be paid the following day it is received by
+        Johnson & Johnson Accounts Payable (JJAP). Current bills will age to terms.
+     b. If the FB fails audit it will go to Carrier Web Resolution or Client (J&J) Web Resolution for further review.
+             i.  Carrier Web: This is action that the carrier must take e.g. verify BOL was provided correctly, further documents
+                 needed, and rate issues.
+            ii.  Client (J&J) Web: This is action that J&J RTO team must take, FBs have up to 17 calendar days to be reveiwed.
+           iii.  Upon passing audit it will be sent to JJAP to issue payment
+
+3. When to resubmit versus contacting someone?
+   a. Status Says Web Resolution…..
+          o ……Carrier – this is for your company to resolve (if you need assistance contact Team17@ctlogistics.com) – Do Not
+              resubmit this will only cause rejections and duplicate copies of invoices.
+                   For paper invoices submit only backup (not invoice) otherwise the invoice will be processed a 2nd time and
+                      will count as a duplicate submittal.
+                   Exception is EDI – may require invoice.
+          o …..Client – this is for JNJ to resolve – Do not resubmit contact RTOWebres@ITS.JNJ.com
+   b. Status says Rejected
+          o There should be a description as to why.
+                   States – resubmit Invoice & BOL – send to CT logistics via mail, email, etc.
+                   States – Rejected per AP – contact JJAP
+Last Updated: January 2014
+                     States – Do Not Pay per JNJ – contact Team17@ctologistics.com
+     c. Status says Not Found – Please refer to question 4 to prevent this.
+            o Please verify that confirmation was received on submittal – Without an itemized list is this comment valid?
+            o If yes – contact team17@ctlogistics.com before resubmitting
+
+4. I submitted the FB but CT is showing as not received.
+   CT cannot tell what invoices were supposed to be submitted unless there is an itemized list. Prevent FBs not found ‐ send a
+   list of FB#s with the submittals so CT can cross check what should have been received in the email/FTP upload.
+
+5. Why do I have to go to two different portals?
+   As of April 2012 JJAP issues payments. JJAP will have the most accurate and up to date payment information.
+
+6. Why is CT is showing my FB as rejected by J&J AP?
+           a. JJAP audits for potential duplicates for FBs with the same FB# or BOL#.
+                   o If the FB is found to be a duplicate then AP will reject.
+                   o If JJAP finds that an invoice has been duplicate paid a credit will be taken off of the next payment.
+           b. Due to system compatibility issues CT can only show the first status of an invoice. If the FB was initially rejected
+               by JJAP but subsequently paid CT will show the status as Rejected. This is why the AP portal must be checked for
+               the latest payment information.
+
+7.   I did not receive the check, is it missing?
+     Check the AP portal, www.ap.jnj.com, to determine if payment on your invoice was initiated.
+         a. If it has been 30 days since a paper check payment was initiated, you may request a stop payment and a reissue via
+             the AP portal.
+         b. Contact JJAP to convert to an ACH (electronic) payment method for future payments.
+
+8. I did not receive remittance advise.
+   Check the AP portal, www.ap.jnj.com for check & ACH numbers, encashment dates, & remittance advise. If changes to your
+   email addresses are needed, these requests must be done via Aravo, to be initiated by a J&J contact.
+
+9. I cannot identify the invoice on the remittance.
+   Check the CT portal to view the invoice image. If the FB # on the remittance is not your invoice contact Team 17 and
+   ksmith@its.jnj.com.
+
+10. What Reports are available that can help manage receivables and how do I sign up?
+     CT‐ email Team 17 to receive any of CT’s reports.
+         9 Data Grabber – allows you to run any report you want
+         9 Short pay Reports – available weekly reports on all invoices that are short paid and the reasonings
+         9 Web Resolution – available weekly to what is on the web and what is needed
+         9 Status Reports – all open invoices in our systems and where they are
+         9 Rejection reports – all rejected invoices and the reasoning why.
+     JJAP Open Item Report ‐ Call the AP Hotline at 877‐557‐4487.
+         9 Open Item Report ‐ weekly emails with attachments containing all open invoice items with Johnson & Johnson
+            Services, Inc.
+
+Best practices
+11. Invoices must be submitted within 1 week of shipment.
+12. Submit all paperwork to CT, even if you don’t think it’s relevant. Let CT filter out unnecessary paperwork.
+13. Ensure invoice scans are legible and dark.
+14. Check both CT http://rto.ctlogistics.com & J&J AP portals http://www.ap.jnj.com for the latest status before contacting the
+    team and resubmitting invoices and contacting CT or J&J. This is where we get our answers too.
+15. Check your outstanding invoices weekly to identify any potential short pay trends in a timely manner. On the Freight Bill
+    Inquiry/Web Res page select Real Time Inquiry.
+Last Updated: January 2014
+16. Make sure you check Web Res daily for invoices requiring attention. On the Freight Bill Inquiry/Web Res page select Web
+    Resolution.
+17. Before submitting your FBs, make sure that the right invoice components and supporting paperwork (See Appendix A, B & C)
+    are included. This will prevent processing delays.
+18. Ensure J&J is aware of any new rates, including spot rates. If we do not know about them, neither will CT and your invoice will
+    be short paid or delayed indefinitely. For spot quotes, attach emails that contain approvals and/or back‐up documentation to
+    show that the rate/invoice was approved by someone within J&J. If this documentation is not included your FB it will be
+    rejected for”no rate on file” and sent to Carrier Web Resolution.
+19. Be specific if you have a past due or short pay issues. Do the research first and be sure to have specific FB numbers for us to
+    look up. For Balances Due ‐ Reference the original payment amount.
+20. Do not wait until FBs are 90+ days past due. A technical or procedural issue is preventing payment if you invoices are past due
+    or consistently short paid. Proactive communication = quicker resolution.
+21. Do not submit an invoice multiple times. Multiple submittals will not result in faster payments. Contact Team 17 if you are
+    unsure if an invoice has been received. Check the portals & sign up for reports to help manage your receivables.
+22. Highly recommended that duplicate FB#s are not used. It may result in rejection.
+23. Send the appropriate BOL# to CT.
+24. Leverage Technology such as FTP (electronic FB file upload), EDI billing (when possible), attaching images in Carrier Web
+    Resolution, and Excel spreadsheets for balance dues. You have many options to make this process easier and more efficient,
+    use them.
+25. Ensure that any changes to your vendor profile are communicated in a timely fashion: (1) J&J ‐ sourcing lead & freight pay, (2)
+    CT Logistics and (3) JJAP.
+
+CT Logistics
+1) How do I access the freight pay website and how do I sign up?
+   a. http://rto.ctlogistics.com
+   b. To sign up contact Team 17 at team17@ctlogistics.com
+
+2) What is the freight pay website?
+   a. The freight pay website is an online portal that carriers can use to find out the status of their FBs.
+   b. Carrier Web Resolution is part of the freight pay portal. It is a tool CT uses to alert business partners that invoices require
+      attention. FBs that need Carrier input are sent to Carrier Web Resolution and will be displayed online for 30 days for your
+      review. After 30 days, the FBs will be rejected.
+   c. Invoices that require allocation detail or approval are sent to Client Web Resolution and reviewed by J&J.
+   d. Best Practice: Attach electronic images of supporting paperwork. Any invoices that are missing supporting documents will
+      be put on Carrier Web Res and may be delayed indefinitely.
+
+3) How do I find out the status of my invoices?
+   a. Go to http://rto.ctlogistics.com. Under Carrier Options, select Freight Payment Inquiry. Input your carrier code (the
+      version of your SCAC used by CT) and invoice numbers separated by a comma. You can also search by BOL# (for auto paid
+      invoices). You can input more than 20 invoice numbers at a time. You can copy and past from your AR screen or MS Excel.
+      (Excel tip – use the concatenate function to easily generate a comma after each invoice #).
+
+          The following are the statuses you will see:
+               i. Key From Image, Audit Resolution and Match Resolution ‐ processing in CT’s system
+              ii. Match Resolution (data issues)– Reviewing for concerns
+            iii.  Audit Resolution (rate issues) – reviewed keyed information against rate agreements
+             iv.  Web resolution client – JNJ needs to resolve
+              v.  Web resolution carrier – Action required by the Carrier to resolve
+             vi.  Ready for payment – completed and waiting to send to AP
+            vii.  Transmitted to AP – sent to AP waiting for payment data back, contact JJAP
+           viii.  Paid ‐ The invoice has been paid, contact JJAP.
+             ix.  Rejected ‐ The invoice has been rejected by the J&J Global AP. The Invoice Message may provide additional
+                  relevant info.
+Last Updated: January 2014
+4) Can I send electronic copies of invoices to CT Logistics?
+   a. Yes, invoices for end‐customer bound shipments from Exel, Genco, Litiz, Franklin DC, Bridgewater DC and Memphis
+      Logistics Center can be submitted via EDI. This includes shipments to the pool distributor. Contact CT to set up.
+   b. FTP ‐‐ electronically upload FBs straight into CT’s system – if you are interested please contact Team 17.
+   c. Balance dues can be submitted in a spreadsheet. Contact Team 17 for the template. Certain paper invoices can be
+      emailed with back up.
+
+5)   I submitted a bill and I do not see it on CT’s website.
+     Contact Team 17 before resubmitting to see if it is in process. Further instruction will be given upon contact.
+
+6) How are rejected bills communicated to us?
+   CT will send a weekly remittance file to the carrier. Another way is for the carrier to log into CT’s website.
+
+7) Who do I contact if I am not sure why my invoice was rejected or short paid?
+   On the freight pay website, utilize Image Archive (under J&J Options). See Authority on the bottom of the screen for the
+   reason why the invoice was rejected. For short payments see Rating Information and Authority for the reason of the short
+   payment. If you still need help, contact Team 17.
+
+8)   How do I submit an invoice with a Balance Due?
+     Balance dues must be approved before submitting to CT. Upon approval, balance due invoices must be clearly marked as a
+     balance due on the invoice. Otherwise, the invoice will be rejected as a duplicate. You can also avoid pulling paperwork by
+     utilizing spreadsheets. Contact Team 17 for a template.
+
+Effective April 30, 2012, payments are issued by Johnson & Johnson Services, Inc. Accounts Payable (JJAP)
+
+1) How can I find out the payment status of a Freight Bill?
+   a. Carriers can access payment information through the AP supplier portal. You must register with your Supplier ID and an
+      invoice that has been paid within the system.
+   b. Log onto www.ap.jnj.com to register and view the portal or call the hotline at 877‐557‐4487 or 732‐524‐1154.
+
+1) What is my Supplier ID?
+   a. A Supplier ID is required in order for CT to process FBs and send them to JJAP. The Supplier ID is your payment account
+      number used by JJAP.
+
+2) What if I do not have a Supplier ID?
+   a. Carriers must be registered in ARAVO (JJAP System) in order to be assigned a Supplier ID.
+   b. Please send the following information to Kanna Smith ksmith52@its.jnj.com to initiate the ARAVO process.
+      i.    W‐9
+     ii.    Accounts Receivable Contact Name, E‐Mail, & Ph#. A link will be sent to the contact provided to complete company
+            and remittance information.
+   c. After the carrier is set up in JJAP’s system as a supplier, a notice will be sent advising of your Supplier ID or you can
+         contact Kanna Smith ksmith52@its.jnj.com. Please note that the supplier ID is not the same as a SCAC (ID used by CT).
+        The Supplier ID is a unique JJAP issued number.
+
+3) What if I am having difficulty registering or making change requests in ARAVO?
+   a. Contact SupplierAccount@corus.jnj.com.
+   b. Call the JJAP Hotline, 877‐557‐4487 or 732‐524‐1154.
+
+4) Does J&J offer electronic funds transfer (EFT)?
+   JJAP has the capability to send funds via ACH. This is the preferred method as it eliminates float time and lost checks. Please
+   contact ACETEAM@its.jnj.com or contact the at Hotline 877‐557‐4487 to initiate the process. A link will be sent in which you
+   will complete your banking information.
+Last Updated: January 2014
+5) What type of information can be viewed on the AP supplier portal?
+   a. Inv #
+   b. Inv date
+   c. Inv due date
+   d. Dynamic discount
+   e. Total inv amt
+   f. Tax amt
+   g. Inv status
+   h. Inv paid amt
+   i. Check/EFT trace #
+   j. Payment date
+   k. Total payment amt
+   l. Check cashed date
+   m. Supplier #
+   n. J&J Company Code
+
+6) The status is payment sent but I have not received the check.
+   a. Please contact the JJAP hotline, 877‐557‐4487 or 732‐524‐1154, to verify the address that the payment was sent to.
+   b. If needed, a stop payment/reissue request may be requested via the JJAP portal, www.ap.jnj.com
+
+7) How do I receive remittance advice?
+   a. If you are paid via ACH/EFT (direct deposit) (this is the preferred payment method), you may request to have your
+      remittance sent to you via email. When requesting ACH payment set up select email as your “communication method.”
+      You will need to indicate a contact email address. If in the future, you need to update that address, then send an email to
+      SupplierAccount@corus.jnj.com.
+   b. If you are receiving paper checks, remittance is provided on the check stub.
+   c. You may also check payment information via the JJAP portal, www.ap.jnj.com
+
+8) Does J&J offer discount payment terms?
+     The transition of freight payment disbursement to JJAP enables discount payment terms for our carriers that opt to
+     participate in the program.
+
+9) If my vendor profile changes (tax ID, name change, address change, etc) who do I reach out to?
+   a. It is very import to communicate any changes to the following contacts to ensure no disruptions to freight payment: (1)
+       J&J ‐ sourcing lead & freight pay, (2) CT Logistics and (3) JJAP.
+   b. Contact Kanna Smith ksmith52@its.jnj.com to have a link sent in which you can make your changes.
+
+10) Who should refund checks be made payable to and where should they be sent?
+    a. Due to systematic constraints J&J cannot accept credits.
+    b. Remittance should include orginal FB # or BOL that it is refunding against and reason for the refund.
+       Make checks payable to Johnson & Johnson SLC and send to:
+               Johnson & Johnson SLC
+               Regional Transportation Organization
+               23 Orchard Rd.
+               Skillman, NJ 08858
+               Attn: Kanna Smith
+
+
+
+
+Last Updated: January 2014
+ Appendix A: INVOICE COMPONENTS – Assume for all modes unless otherwise noted
+
+ INVOICE REQUIREMENTS
+    9 Invoice #
+    9 BOL
+    9 AWB & supporting documents (Air)
+    9 Carrier name
+    9 Bill to
+    9 Ship Date
+    9 Johnson & Johnson Operating Company clearly referenced (See Appendix B)
+    9 Origin & Destination (Physical/Actual Shipping Location)
+             Note: This may not be the Johnson & Johnson Corporate Operating Company Office
+    9 Shippers reference #
+    9 Commercial invoice
+    9 Currency that charges are based on
+    9 Service level
+    9 Equipment Type (Ocean)
+    9 Chargeable Weight (Air)
+    9 Cubic Volume (Ocean LCL)
+    9 Product/material description/quantity
+    9 Amounts itemized by component
+    9 Rate correct
+    9 Rates ‐ “As Agreed” is not acceptable.
+        1) Rate should match contractual rate as per agreement with J&J.
+        2) Expressed as per LB or per KG and/or flat rate.
+    9 Fuel surcharge or bunker surcharge
+    9 Accessorial Detail/documentation
+    9 Accessorials correct description
+    9 Pieces
+    9 Pallets (air)
+    9 Base Rate in KG (Air)
+
+ If Applicable
+      9 Ad Hoc or Spot Quotes or new lanes where there are no previous rates on file require supporting
+          documentation (email) of J&J person who requested/approved.
+      9 Supporting documents for any additional costs on freight bills.
+
+
+
+
+Last Updated: January 2014
+Appendix B: JOHNSON & JOHNSON OPERATING COMPANIES
+
+     9    ADVANCED STERILIZATION PRODUCTS
+     9    ALZA
+     9    ANIMAS CORPORATION
+     9    BIOSENSE WEBSTER INC
+     9    CANADA ANIMAS
+     9    CANADA CONSUMER
+     9    CANADA JANSSEN
+     9    CANADA JJMC
+     9    CANADA LIFESCAN
+     9    CANADA OCD
+     9    CANADA VISION CARE
+     9    CONSUMER PRODUCTS COMPANY
+     9    CORDIS CORP
+     9    DEPUY INC
+     9    ETHICON ENDO SURGERY
+     9    ETHICON INC
+     9    GLOBAL BIOLOGICS SUPPLY CHAIN
+     9    HEALTH CARE SYSTEMS
+     9    INDEPENDENCE TECHNOLOGY
+     9    J&J MEDICAL COMPANIES CANADA
+     9    JANSSEN BIOLOGICS
+     9    JANSSEN ORTHO MCNEIL
+     9    LIFESCAN INC
+     9    MCNEIL CONSUMER HEALTHCARE
+     9    MCNEIL NUTRITIONALS
+     9    MENTOR
+     9    MAERK JOINT VENTURE
+     9    NEUTROGENA CORP
+     9    NORAMCO
+     9    ORTHO‐CLINICAL DIAGNOSTICS INC
+     9    PERSONAL PRODUCTS COMPANY
+     9    PHARMACEUTICAL SOURCING GROUP OF THE AMERICAS
+     9    SALES AND LOGISTICS COMPANY
+     9    VISTAKON
+
+
+
+
+Last Updated: January 2014
+ Appendix C: BILL OF LADING GUIDE
+ Which BOL to send
+
+ Definitions
+ TL ‐ Truck Load, LT ‐ Less Than Truck Load
+ 204 ‐ EDI Load Tender
+ 210 ‐ EDI Invoice
+ STO ‐ Stock Transport Order
+ FG: Finished Good, RM: Raw Material
+
+ Notes
+ J&J Ref# is required to be sent: Vics# (Consumer), ……S (MDD), 551…..(Pharm).
+ Send ALL information related to the shipment
+ International Bills: Must send the J&J ref# (VICs BOL# or Healthcare BOL ending S) on the invoice or airway bill.
+ For product shipping across multiple operating companies, the weight of product per OpCo must be listed.
+ Packing list & Commercial invoices do not qualify as a BOL
+ No stickers should be placed over the BOL #
+
+                                                                BOL#/EDI transaction to send to CT
+             Sector/System              EDI (Electronic Feed)          EDI Example                     Paper
+
+
+                                                                                           Straight BOL, HAWB (air), J&J
+ Consumer (Mercury SAP)                  VICS BOL (17 digits)           038137…..                      ref#
+                                                                                           Straight BOL, HAWB (air), J&J
+ MDD (Marc)                               BOL# ending in S             0001…………..S                     ref#
+                                      551….. (normally 8 to 10                             Straight BOL, HAWB (air), J&J
+ Pharm (Marc)                                  digits)                    551…..                       ref#
+                                       PO or STO that starts
+                                      with 450 (normally 8 or                              Straight BOL, HAWB (air), J&J
+ McNeil                                       9 digits)                   450…..                       ref#
+                                       204 & 210,BOL# ending
+ TMS                                   with M for TL & S for LT      TL00….., LT00…..            M for TL & S for LT
+ TOTAL                                  204 & 210, TL or LT#                                 TL or LT# (dispatch sheet)
+
+
+
+
+Last Updated: January 2014
+

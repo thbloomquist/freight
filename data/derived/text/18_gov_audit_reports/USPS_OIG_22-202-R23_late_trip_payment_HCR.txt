@@ -1,0 +1,918 @@
+OFFICE OF INSPECTOR GENERAL | UNITED STATES POSTAL SERVICE
+
+
+
+
+Late Trip Payment Process for
+Highway Contract Routes
+
+AUDIT REPORT
+Report Number 22-202-R23 | April 25, 2023
+               COVER                          TABLE OF CONTENTS                                  HIGHLIGHTS                                   RESULTS                         APPENDICES
+
+
+
+Table of Contents
+Cover
+Highlights�����������������������������������������������������������������������������������������������������������������������������������������������������������1
+         Background�����������������������������������������������������������������������������������������������������������������������������������������������1
+         What We Did��������������������������������������������������������������������������������������������������������������������������������������������1
+         What We Found�������������������������������������������������������������������������������������������������������������������������������������1
+         Recommendations��������������������������������������������������������������������������������������������������������������������������������1
+Transmittal Letter�������������������������������������������������������������������������������������������������������������������������������������2
+Results����������������������������������������������������������������������������������������������������������������������������������������������������������������� 3
+         Introduction/Objective��������������������������������������������������������������������������������������������������������������������� 3
+         Background��������������������������������������������������������������������������������������������������������������������������������������������� 3
+         Finding #1: e5429 Payments in the Service Change Request System��������������4
+                   Recommendation #1.................................................................................................................5
+                   Recommendation #2................................................................................................................5
+                   Recommendation #3................................................................................................................6
+         Finding #2: Lump Sum Payments in the Transportation Contract Support
+         System���������������������������������������������������������������������������������������������������������������������������������������������������������6
+                   Recommendation #4................................................................................................................6
+                   Recommendation #5................................................................................................................6
+         Management’s Comments�������������������������������������������������������������������������������������������������������������6
+         Evaluation of Management’s Comments�������������������������������������������������������������������������������7
+Appendices���������������������������������������������������������������������������������������������������������������������������������������������������� 8
+         Appendix A: Additional Information����������������������������������������������������������������������������������������9
+                   Scope and Methodology������������������������������������������������������������������������������������������������������9
+                   Prior Audit Coverage��������������������������������������������������������������������������������������������������������������9
+         Appendix B: Examples of Noncompliance With the Management
+         Instruction����������������������������������������������������������������������������������������������������������������������������������������������� 10
+         Appendix C: Management’s Comments������������������������������������������������������������������������������17
+Contact Information��������������������������������������������������������������������������������������������������������������������������20
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES
+REPORT NUMBER 22-202-R23
+        COVER            TABLE OF CONTENTS          HIGHLIGHTS              RESULTS   APPENDICES
+
+
+
+Highlights
+Background
+The Postal Service uses Highway Contract Route (HCR) suppliers to transport
+mail and equipment between plants, post offices, and other designated points.
+When the Postal Service is responsible for a delayed HCR trip, the origin facility
+must issue a late slip to the HCR driver to receive compensation for the delay.
+During fiscal years (FY) 2021 and FY 2022, the Postal Service caused suppliers
+to be late for a total of about 2.9 million trips and paid about $28.7 million in
+late trip payments to suppliers. The number of HCR late trips caused by the
+Postal Service increased by 121,563, or 8.8 percent from FY 2021 to FY 2022.
+What We Did
+Our objective was to evaluate the U.S. Postal Service’s management of the
+HCR late trip payment process. To accomplish our objective, we selected
+three samples of late trip payment transactions to review for accuracy of the
+payments. The first was a statistical sample of 208 of the 52,446 payment
+transactions for FY 2021 and FY 2022. The second was a judgmental sample
+of 55 transactions greater than 200 hours late. The last was a judgmental
+sample of 163 of the 1,629 lump sum payment transactions.
+What We Found
+
+                                “Postal Service personnel
+We found that
+Postal Service personnel
+were not consistently
+following the process for
+                                   were not consistently
+reviewing and approving            following the process for
+late trip payments
+outlined in its internal
+                                   reviewing and approving
+policy, Highway Contract           late trip payments outlined
+Route Exceptional Service
+Performance Payment
+                                   in its internal policy. ”
+Reconciliation. Specifically,
+the Postal Service did not always review and validate the accuracy of the
+supplier claims for the payments. Additionally, Postal Service personnel did not
+always review and validate the accuracy of lump sum payments. As a result,
+we estimated the Postal Service incurred unsupported questioned costs of
+about $12.5 million annually.
+Recommendations
+We recommended management (1) develop a plan to periodically monitor
+compliance and provide refresher training to personnel on the late slip
+payment process outlined in the Management Instruction; (2) develop and
+implement a standardized supplier claim form; (3) perform periodic reviews
+to ensure trips are entered correctly for inbound highway contract trips; (4)
+implement periodic reviews to ensure the correct budget account code,
+routes, cost segments, and service types are used for late slip payments;
+(5) develop and issue a Standard Work Instruction to require the inclusion of
+supporting documentation and a justification when correct late slip rates are
+not used.
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                              1
+REPORT NUMBER 22-202-R23
+       COVER              TABLE OF CONTENTS               HIGHLIGHTS                    RESULTS                  APPENDICES
+
+
+
+Transmittal Letter
+
+
+
+
+               April 25, 2023
+
+               MEMORANDUM FOR:	ROBERT CINTRON
+                                VICE PRESIDENT, LOGISTICS
+
+                                          PETER ROUTSOLIAS
+                                          VICE PRESIDENT, TRANSPORTATION STRATEGY
+
+               			
+
+
+               FROM: 			Mary Lloyd
+                         Deputy Assistant Inspector General
+                          for Mission Operations
+
+               SUBJECT: 		Audit Report – Late Trip Payment Process for Highway Contract Routes
+                           (Report Number 22-202-R23)
+
+               This report presents the results of our audit of Late Trip Payment Process for Highway Contract
+               Routes.
+
+               We appreciate the cooperation and courtesies provided by your staff. If you have any questions or
+               need additional information, please contact Adam Bieda, Director, Transportation, or me at 703-248-
+               2100.
+
+               Attachment
+
+               cc: P
+                    ostmaster General
+                   Corporate Audit Response Management
+                   Chief Logistics Officer
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                         2
+REPORT NUMBER 22-202-R23
+           COVER                     TABLE OF CONTENTS                        HIGHLIGHTS                            RESULTS                         APPENDICES
+
+
+
+Results
+Introduction/Objective                                                                  fiscal year (FY) 2021 to FY 2022. The Postal Service
+This report presents the results of our self-initiated                                  caused suppliers to be late on about 2.9 million
+audit of the Late Trip Payment Process for Highway                                      trips (see Table 1) and paid about $28.75 million in
+Contract Routes (HCR) (Project Number 22-202). Our                                      payments to suppliers for late trips during FY 2021 and
+objective was to evaluate the U.S. Postal Service’s                                     FY 2022 (see Table 2).6
+management of the HCR late trip payment process.
+See Appendix A for additional information about this                                    Table 1. Late Trips (FY 2021 – FY 2022)
+audit.
+                                                                                                          Postal Service Difference                          Percent
+Background                                                                                    FY          Delayed Trips                                      Change
+The Postal Service uses HCRs to transport mail
+and equipment between plants, post offices, and                                              2021               1,376,053
+other designated points. When the Postal Service                                             2022               1,497,616                 121,563               8.8%
+is responsible for delaying an HCR trip, the origin
+facility must issue a Postal Service (PS) Form 5466,                                         Total             2,873,669
+Late Slip,1 to the HCR driver authorizing compensation                                  Source: Surface Visibility Web HCR Supplier Dashboard as of
+for the delay. HCR suppliers must consolidate PS                                        February 21, 2023.
+Forms 5466 for each route monthly and list them on
+the claim form when submitting to Postal Service                                        Table 2. Late Trip Payments (FY 2021 – FY 2022)
+administrative officials (AO).2 The claim form must be
+submitted within 90 days of the issuance of PS Form
+                                                                                                                                Number of
+5466, summarizing the time and number of hours                                                               Paid
+                                                                                             FY                                  Payment                   Amount
+they were delayed and are claiming. The AO must                                                             Source             Transactions
+review and validate each PS Form 5466 for accuracy
+and ensure all required fields are complete. The AO                                                          Service
+should also verify the times indicated for each delay                                       2021            system –                 27,033               $13,399,234
+                                                                                                             e5429
+against the data in Surface Visibility Web3 before
+approving the claim for payment.                                                                            Contract
+                                                                                            2021            system –                   645                 5,857,260
+Once approved, requests for payments are                                                                   Lump sum
+processed through the electronic Service Change
+                                                                                           Total
+Request system (service system). The AO is                                                FY 2021
+                                                                                                                                     27,678                19,256,494
+responsible for making complete, timely, and
+accurate entries of payment information into the                                                             Service
+                                                                                            2022            system –                 25,474                8,844,244
+electronic PS Form 5429 (e5429 form), Certification                                                          e5429
+of Exceptional Contract Service Performed — a
+component in the service system — for processing                                                            Contract
+                                                                                            2022            system –                   984                   615,282
+and approving payments. Additionally, the                                                                  Lump sum
+Postal Service uses the Transportation Contract
+                                                                                            Total
+Support System (contract system) to manually
+                                                                                             FY                                      26,458                9,459,526
+process lump sum payments4 not processed in the                                             2022
+service system.
+                                                                                            Total                                    54,136              $28,716,020
+The number of HCR late trips caused by the
+Postal Service increased by 121,563 (8.8 percent) from                                  Source: Contract system pay data.
+1   Late trip claims normally result when an origin facility delays a trip past its scheduled departure time.
+2   Responsible for monitoring the performance of mail transportation and related services by suppliers.
+3   A system that provides the Postal Service with real-time data and reporting on the movement and delays of HCRs.
+4   PS Forms 5429 that could not be processed in the service system are consolidated and manually processed as a lump sum payment in the contract system.
+5   The late trip payments for FY 2021 and FY 2022 may include prior service. Additionally, late trips caused by Postal Service are not always paid in the same service year.
+6   The Postal Service paid less in late trip payments for FY 2022 despite the increase in the number of late trips. During the FY 2021 peak season, the Postal Service
+    experienced significant prolonged delays and paid higher rates to suppliers causing an increase in total payments.
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                                                                       3
+REPORT NUMBER 22-202-R23
+           COVER                     TABLE OF CONTENTS                         HIGHLIGHTS                            RESULTS                          APPENDICES
+
+
+The Postal Service requires AOs to use Management                                        During our audit, we selected three samples of
+Instruction PO-530-2017-1, Highway Contract                                              transactions to review the accuracy of the payments
+Route Exceptional Service Performance Payment                                            in the service system and the contract system for
+Reconciliation,7 to process payments. Below are the                                      FY 2021 and FY 2022. The first was a statistical sample
+specific requirements in the Management Instruction                                      of e5429 payment transactions in the service system.
+the AOs must adhere to when processing e5429                                             The second was a judgmental sample of e5429
+payments in the service system and lump sum                                              payment transactions greater than 200 hours late.8
+payments in the contract system:                                                         For payment transactions, HCR suppliers consolidate
+■ Must not pay suppliers for more hours than the                                         PS Forms 5466 which consist of multiple late trips that
+                                                                                         could make the total late hours more than 200. The
+  amount on the claim form or hours issued on PS
+                                                                                         last was a judgmental sample of lump sum e5429
+  Form 5466.
+                                                                                         payment transactions in the contract system.
+■ Must review each PS Form 5466 and validate
+                                                                                         Finding #1: e5429 Payments in the Service
+  its accuracy and ensure all required fields are
+  complete. The AO verifies the times indicated
+                                                                                         Change Request System
+  for each delay against the data in Surface                                             We found that the Postal Service could improve its
+  Visibility Web or in the Enterprise Data Warehouse                                     management of the late trip payment process for
+  database. The AO also verifies that payments are                                       suppliers. Specifically, the Postal Service did not
+  processed in the correct month with the correct                                        always review and validate the accuracy of e5429
+  budget account code.                                                                   forms and payments in the service system. We
+                                                                                         reviewed a statistical sample of 208 of the 52,446
+■ Must reconcile the departure delay at the origin
+                                                                                         payment transactions for FY 2021 and FY 2022 and
+  facility that issued the PS Form 5466 against the
+                                                                                         found 191 of the 208 (92 percent) transactions were
+  actual trip arrival time at the office of destination.
+                                                                                         not in compliance with multiple policies outlined in
+  The supplier is entitled only to the net amount of
+                                                                                         the Management Instruction:
+  the late minutes at the
+  end of the trip.
+■ Convert the total minutes                       “We reviewed a statistical sample of 208
+  to decimal hours and                                out of 52,446 payment transactions and
+  enter the decimal hours
+  in the total hours column                           found 191 (or 92 percent) transactions were
+  on the e5429 form.                                  not in compliance with multiple policies
+■ Must confirm that the                               outlined in the Management Instruction.”
+  suppliers submitted
+  all required materials,
+  including the claim forms, copies of PS Forms                                           ■ 80 transactions did not include the supporting
+  5466, and supporting documentation.                                                       PS Form 5466 issued to the supplier by the
+                                                                                            Postal Service for the late trips.
+■ Must complete the e5429 forms and submit them
+  no later than 30 days after receipt of a proper                                         ■ 44 transactions were paid to the supplier without
+  invoice.                                                                                  submission of the claim forms.
+
+■ Make complete, timely, and accurate entries for                                         ■ 136 transactions had incomplete claim forms
+  payment information in the e5429 component of                                             submitted by suppliers or were not completed by
+  the service system.                                                                       the AOs to document the payment review and
+                                                                                            verification. See Appendix B, Figure 1.
+■ Process a claim form submitted by suppliers
+  within 90 days of the issuance of PS Form 5466,                                         ■ 101 transactions were incorrectly paid due to
+  summarizing the time and number of delay                                                  missing supporting documentation, late minute
+  hours claimed.                                                                            calculation errors, duplicate payments, multiple
+                                                                                            legs of the trip included for payments, or the last
+7   This Management Instruction, dated August 31, 2017, contains information for Postal Service officials directly involved in the reconciliation of payment to suppliers.
+8   The transactions greater than 200 hours were based on whole numbers without a decimal point. We judgmentally selected over 200 hours with no decimal point
+    because it provided a reasonable assessment of these transactions.
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                                                                        4
+REPORT NUMBER 22-202-R23
+            COVER                      TABLE OF CONTENTS                        HIGHLIGHTS                            RESULTS                          APPENDICES
+
+
+     leg of the trip was not used to determine the total                                  These issues occurred because the AOs did not
+     allowable late minutes. See Appendix B, Figure 2                                     always perform their roles and responsibilities
+     and Figure 3.                                                                        efficiently and in accordance with the requirements
+                                                                                          outlined in the Management Instruction and
+■ 145 transactions were not reconciled to Surface
+                                                                                          management did not always monitor compliance
+  Visibility Web based on last destination scans for
+                                                                                          or hold the AOs accountable. Additionally, suppliers
+  accurate payment processing.
+                                                                                          were using a variety of claim forms that lacked the
+■ 64 transactions did not include a claim or                                              required, detailed trip information.12 Furthermore,
+  submission date to determine if the claim was                                           scans were not performed for some of the
+  submitted within 90 days. Additionally, one claim                                       inbound trips at the receiving facilities resulting
+  form was submitted over the 90-day requirement.                                         in trip information not being available in Surface
+  See Appendix B, Figure 4.                                                               Visibility Web and making it difficult to validate trip
+                                                                                          information against the supplier claim forms.
+■ 47 transactions were paid over 30 days past the
+  claim submission date and 59 transactions were                                          When the prescribed policies and procedures for
+  missing receipt dates by the Postal Service. See                                        the payment process are not followed, inaccurate
+  Appendix B, Figure 5.                                                                   payments to suppliers are made. Consequently, we
+                                                                                          estimated the Postal Service incurred about $19.7
+■ 1,217 trips9 did not have the Surface Visibility                                        million in unsupported questioned costs13 during FY
+  Web destination scans for verification and                                              2021 and FY 2022.
+  determination of the correct late minutes.
+  Additionally, 141 of the 1,217 trips did not have
+  the trip numbers on the claim forms or PS                                           “Develop a plan to periodically
+  Forms 5466.                                                                             monitor compliance and provide
+Additionally, we reviewed a judgmental sample of                                          refresher training on the late slip
+                                                                                          payment process requirements”
+55 payment transactions10 greater than 200 hours
+late and determined 43 (78 percent) transactions
+were incorrectly paid. We identified the following
+issues that were not compliant with multiple policies                                        Recommendation #1
+within the Management Instruction:                                                           We recommend the Vice President, Logistics, and
+                                                                                             Vice President, Transportation Strategy, develop
+■ 12 transactions, totaling $344,496, were overpaid
+                                                                                             a plan to periodically monitor compliance and
+  to suppliers due to late minutes not being                                                 provide refresher training to administrative officials
+  accurately converted to decimal hours or entered                                           and contracting personnel on the late slip payment
+  incorrectly in the service system for payment. See                                         process outlined in Management Instruction PO-
+  Appendix B, Figure 6 and Figure 7. During our audit,                                       530-2017-1, Highway Contract Route Exceptional
+                                                                                             Service Performance Payment Reconciliation.
+  management took corrective action to recover
+  the overpayments by adjusting errors in the                                                Recommendation #2
+  service system.                                                                            We recommend the Vice President, Logistics, develop
+                                                                                             and implement a standardized supplier claim form.
+■ 12 transactions, totaling $125,984, were incorrectly
+  recorded as regular service instead of late trip                                           Recommendation #3
+  service.11                                                                                 We recommend the Vice President, Logistics,
+■ 19 transactions, totaling $28,806, did not reconcile                                       perform periodic reviews to ensure final trip
+                                                                                             destination scans are performed in Surface
+  to the supporting documentation for the total late                                         Visibility for highway contract trips.
+  hours paid.
+
+
+
+
+9    A payment transaction may consist of consolidation of multiple late trips and delayed hours.
+10   The 55 transactions were excluded from the 52,446 statistically sampled payment transactions.
+11   AOs were unable to provide the contract agreements for these services.
+12   The detailed trip information required on the claim form includes date, delayed and final destination facility, trip number, actual scheduled departure and arrival time,
+     late minutes claimed and allowed, supplier name, AO name and signature, and certification date.
+13   A subset of questioned costs that are called into question because of missing or incomplete documentation, or because of failure to follow required procedures.
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                                                                            5
+REPORT NUMBER 22-202-R23
+            COVER                    TABLE OF CONTENTS                       HIGHLIGHTS                          RESULTS         APPENDICES
+
+
+Finding #2: Lump Sum Payments in the                                                   These issues occurred because management did not
+Transportation Contract Support System                                                 monitor or hold contracting personnel accountable
+We found that the Postal Service could improve its                                     for not following the Management Instruction for
+management of the lump sum payment process                                             lump sum payments. Specifically, personnel were
+for suppliers. Specifically, the Postal Service did not                                not held accountable for failing to segregate routes;
+always review and validate the accuracy of the                                         using incorrect cost segments, finance numbers, and
+e5429 forms in the contract system. We selected a                                      service types; and using improper budget account
+judgmental sample of 16314 of the 1,629 lump sum                                       codes when processing lump sum payments.
+payment transactions in the contract system for                                        Additionally, the Postal Service did not have a
+FY 2021 and FY 2022 and found the Postal Service did                                   policy for adding supporting documentation and a
+not follow multiple policies within the Management                                     justification when contracting personnel did not use
+Instruction for all 16315 sampled transactions as                                      the correct contract rates in the contract system.
+follows:                                                                               Since the Management Instruction for the lump
+■ 162 transactions were not reviewed for                                               sum payment process is not always being followed,
+  completeness when the supplier submitted claim                                       it results in inaccurate payments to suppliers and
+  forms including PS Form 5466, trip information,                                      creates opportunities for fraud, waste, and abuse.
+  and late minutes or hours claimed.                                                   Additionally, using incorrect budget account codes
+                                                                                       and cost segments and underreporting payments
+■ 30 transactions contained calculation errors,                                        could result in management using incorrect data to
+  duplicate payments, and payments were made                                           make business decisions. Due to the lack of adequate
+  for multiple legs of the same trip.                                                  supporting documentation for the payments,
+■ 162 transactions were not reviewed and                                               we estimated the Postal Service incurred about
+                                                                                       $5.4 million in unsupported questioned costs for
+  reconciled with the Surface Visibility Web data
+                                                                                       FY 2021 and FY 2022.
+  for late minutes against the amounts claimed by
+  suppliers.
+                                                                                          Recommendation #4
+■ 122 transactions, representing 1,843 late trips,                                        We recommend the Vice President, Transportation
+  were approved at flat rates ranging from $600 to                                        Strategy, implement periodic reviews to ensure the
+  $4,500 per trip and 2,715 late trips were approved                                      correct budget account code, routes, cost segments,
+                                                                                          and service types are used when late slip payments are
+  with a rate per hour that ranged from $50 to $92                                        entered in the Transportation Contract Support System.
+  without justification or supporting documentation.
+  See Appendix B, Figure 8 and Figure 9.                                                  Recommendation #5
+                                                                                          We recommend the Vice President, Transportation
+■ 33 transactions were submitted over the 90-
+                                                                                          Strategy, develop and issue a Standard Work Instruction
+  day requirement or did not have the date                                                to require the inclusion of supporting documentation
+  of submission on the claim to determine if it                                           and a justification when correct late slip rates in the
+  was submitted timely. For example, a supplier                                           Transportation Contract Support System are not used.
+  submitted claim form for service performed as far
+  back as November 2018. See Appendix B, Figure 10.
+                                                                                       Management’s Comments
+■ 105 transactions with multiple routes, cost
+                                                                                       Management agreed with the findings,
+  segments, finance numbers, or service types16
+                                                                                       recommendations, and monetary impact. See
+  were processed incorrectly by being combined
+                                                                                       Appendix C for management’s comments in their
+  into one payment transaction.
+                                                                                       entirety.
+In addition, we found that 1,596 (or 98 percent) of the                                Regarding recommendation 1, management stated
+1,629 transactions were recorded using 19 different                                    they will redistribute Management Instruction,
+budget account codes in the contract system, which                                     PO-530-2017-1, and provide a service talk on
+resulted in about $6.0 million recorded to the wrong                                   the responsibilities of the AOs for the late trip
+budget account codes.
+
+
+14   The 163 lump sum payment transactions represented payments over $10,000.
+15   One transaction had two payments due to rate adjustment, therefore only 162 transactions had trip information.
+16   Other service types were extra trips and detour.
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                                               6
+REPORT NUMBER 22-202-R23
+        COVER           TABLE OF CONTENTS          HIGHLIGHTS              RESULTS             APPENDICES
+
+
+performance and payment process. The target               system in 2024 and Surface Transportation’s role
+implementation date is April 30, 2023.                    in entering budget account codes in the contract
+                                                          system will end. The target implementation date is
+Regarding recommendation 2, management stated
+                                                          April 30, 2023.
+they recognize the need for standardization of the
+claim form and will reiterate to the field to use the     Regarding recommendation 5, management stated
+form in Management Instruction, PO-530-2017-1. They       they will provide a service talk on the inclusion
+will distribute the form via email to the field and the   of supporting documentation and a justification
+form will also be available to download. The target       when late slip payment rates differ from the rates
+implementation date is April 30, 2023.                    maintained in the contract system. The target
+                                                          implementation date is April 30, 2023.
+Regarding recommendation 3, management
+stated they will continue to focus on scanning            Evaluation of Management’s Comments
+improvement. Additionally, they will share examples
+                                                          The U.S. Postal Service Office of Inspector General
+of improvements to scanning, daily scorecard
+                                                          (OIG) considers management’s comments
+updates, and areas where Regional Logistics Directors
+                                                          responsive to the recommendations and corrective
+are working with Processing Directors to improve
+                                                          actions should resolve the issues identified in the
+scanning performance. The target implementation
+                                                          report.
+date is April 30, 2023.
+                                                          All recommendations require OIG concurrence
+Regarding recommendation 4, management stated
+                                                          before closure. The OIG requests written confirmation
+they will provide a service talk on the importance
+                                                          when corrective actions are completed. All
+of using correct budget account codes, route
+                                                          recommendations should not be closed in the
+numbers, cost segments and service types when
+                                                          Postal Service’s follow-up tracking system until
+processing late slip payments in the contract
+                                                          the OIG provides written confirmation that the
+system. Additionally, management stated Surface
+                                                          recommendations can be closed.
+Transportation will migrate to a new contract writing
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                           7
+REPORT NUMBER 22-202-R23
+           COVER                       TABLE OF CONTENTS                           HIGHLIGHTS                              RESULTS           APPENDICES
+
+
+
+Appendices
+Appendix A: Additional Information�����������������������������������������������������������������������9
+       Scope and Methodology�����������������������������������������������������������������������������������������������������9
+       Prior Audit Coverage�������������������������������������������������������������������������������������������������������������9
+Appendix B: Examples of Noncompliance With the
+Management Instruction����������������������������������������������������������������������������������������������������10
+Appendix C: Management’s Comments�������������������������������������������������������������17
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES
+REPORT NUMBER 22-202-R23
+        COVER             TABLE OF CONTENTS             HIGHLIGHTS               RESULTS                APPENDICES
+
+
+
+Appendix A: Additional Information
+Scope and Methodology                                           ■ Reviewed supporting documents for the three
+The scope of this project was a nationwide review of              samples to determine if the transportation
+payment data for FY 2021 and FY 2022. To accomplish               and contracting personnel followed the
+our objective, we:                                                Management Instruction and whether payments
+                                                                  were processed accurately and supported in
+■ Interviewed Logistics and Transportation Strategy
+                                                                  the service system and the contract system.
+  personnel regarding the payment process in                      Determined if AOs and contracting personnel
+  e5429 in the service system and lump sum                        verified the late minutes claimed by the suppliers
+  payments in the contract system. Documented                     against the data in Surface Visibility Web.
+  the payment process and requirements.
+                                                               We conducted this performance audit from
+■ Determined how the hourly rate is established for
+                                                               October 2022 through April 2023 in accordance with
+  payment calculation.                                         generally accepted government auditing standards
+■ Obtained and analyzed HCR pay data in the                    and included such tests of internal controls as we
+  contract system to determine the costs of                    considered necessary under the circumstances.
+  payment transactions during FY 2021 to FY 2022.              Those standards require that we plan and perform
+  Selected three samples for review:                           the audit to obtain sufficient, appropriate evidence
+                                                               to provide a reasonable basis for our findings and
+   ● Selected a statistical sample of 208 from a total
+                                                               conclusions based on our audit objective. We believe
+     of 52,446 e5429 payment transactions using                that the evidence obtained provides a reasonable
+     the OIG standard of a 95 percent confidence               basis for our findings and conclusions based on our
+     level in the service system, excluding                    audit objective. We discussed our observations and
+     transactions with greater than 200 hours late             conclusions with management on April 4, 2023, and
+     without decimal points and any associated                 included their comments where appropriate.
+     adjustments.
+                                                               We assessed the reliability of the contract system for
+   ● Selected a judgmental sample of 55 e5429                  payment data by interviewing Postal Service officials,
+     payment transactions in the service system                testing selected data fields, comparing data to e5429
+     that were greater than 200 hours late and                 payment data in the service system, reviewing and
+     had no decimal points and any associated                  tracing the sample payment transactions to the
+     adjustments.                                              source documents in the service system and data
+   ● Selected a judgmental sample of 163 from a                in Surface Visibility system. We determined that the
+                                                               data were sufficiently reliable for the purposes of this
+     total of 1,629 lump sum payment transactions
+                                                               report.
+     in the contract system greater than $10,000 per
+     payment transaction.
+Prior Audit Coverage
+
+                                                                         Report        Final Report       Monetary
+          Report Title                         Objective                 Number            Date            Impact
+                                    To assess the effectiveness of the
+ Trips Operating More Than Four     USPS management of HCR and
+                                                                          21-116-R22       11/08/2021     $16,530,844
+ Hours Late                         PVS trips operating more than
+                                    four hours late.
+
+                                    To assess the management
+ Management of Highway Contract
+                                    of HCR irregularities due to
+ Route Contractor Failures at the
+                                    contractor failure at the New        21-075-R21        03/30/2021         $0
+ New Jersey International Network
+                                    Jersey International Network
+ Distribution Center
+                                    Distribution Center.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                   9
+REPORT NUMBER 22-202-R23
+         COVER                TABLE OF CONTENTS   HIGHLIGHTS             RESULTS             APPENDICES
+
+
+
+         Appendix B: Examples of Noncompliance With
+         the Management Instruction
+Figure 1 shows the supplier and AO did not complete the required highlighted information on the supplier
+claim form before approving the payment.
+
+Figure 1. Incomplete Supplier Claim Form
+
+
+
+
+Source: e5429 in the service system.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                      10
+REPORT NUMBER 22-202-R23
+         COVER                TABLE OF CONTENTS    HIGHLIGHTS              RESULTS              APPENDICES
+
+
+Figure 2 shows the supplier claimed late minutes twice. The AO approved the duplicate payment.
+
+Figure 2. Duplicate Payment for Same Trip
+
+
+
+
+Source: e5429 in the service system.
+
+Figure 3 shows the supplier claimed late minutes for multiple legs of the trip. The AO incorrectly approved the
+payment when the supplier was only entitled to the net amount of the late minutes at the end of the trip.
+
+Figure 3. Multiple Legs Paid for Same Trip
+
+
+
+
+Source: e5429 in the service system.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                             11
+REPORT NUMBER 22-202-R23
+         COVER                TABLE OF CONTENTS   HIGHLIGHTS             RESULTS             APPENDICES
+
+
+
+Figure 4 shows the supplier and AO did not complete the date fields as required to determine the timely
+submission of the claim form.
+
+Figure 4. Claim Form without Submission Review Date
+
+
+
+
+Source: e5429 in the service system.
+
+Figure 5 shows the AO did not process the supplier claim within the 30-day requirement. The claim was
+received on July 27, 2020, and was processed on November 4, 2020, which was 70 days late.
+
+Figure 5. Claim Processed Over 90 Days
+
+
+
+
+Source: e5429 in the service system.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                     12
+REPORT NUMBER 22-202-R23
+         COVER                TABLE OF CONTENTS   HIGHLIGHTS             RESULTS             APPENDICES
+
+
+Figure 6a shows the supplier claimed 2,550 minutes and the AO approved. In Figure 6b, the AO input 2,550
+hours in the service system instead of entering 42.5 hours, resulting in an overpayment of $85,608 to the
+supplier.
+
+Figure 6a. Hours Conversion Error
+
+
+
+
+Source: e5429 in the service system.
+
+
+Figure 6b. Service Change Request System Print Screen
+
+
+
+
+Source: e5429 in the service system.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                       13
+REPORT NUMBER 22-202-R23
+         COVER                TABLE OF CONTENTS    HIGHLIGHTS              RESULTS               APPENDICES
+
+
+Figure 7a shows the supplier claimed 1,102 minutes and the AO correctly converted the minutes to hours.
+However, Figure 7b shows it was incorrectly entered as 1,102 hours instead of 18.37 hours in the service system,
+resulting in an overpayment of $22,365 to the supplier.
+
+Figure 7a. Hours Input Error in Service Change Request
+
+
+
+
+Source: e5429 in the service system.
+
+
+Figure 7b. Service Change Request System Print Screen
+
+
+
+
+Source: e5429 in the service system.
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                          14
+REPORT NUMBER 22-202-R23
+         COVER             TABLE OF CONTENTS       HIGHLIGHTS              RESULTS              APPENDICES
+
+
+
+Figure 8 shows the per trip rates claimed by the supplier ranging from $600 to $4,500, which was approved by
+contracting officers without appropriate supporting justification and documentation in the contract system.
+
+Figure 8. Approved Late Trip Rates
+
+
+
+
+Source: Contract system.
+
+Figure 9 shows the supplier claimed a rate of $92 per hour on five trucks for 24 hours over a period of 21 days
+and the contracting officers approved it without appropriate supporting justification and documentation in
+the contract system.
+
+Figure 9. Approved Per Hour Late Trip Rates
+
+
+
+
+Source: Contract system.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                             15
+REPORT NUMBER 22-202-R23
+         COVER             TABLE OF CONTENTS       HIGHLIGHTS              RESULTS              APPENDICES
+
+
+Figure 10 shows the supplier submitted a claim form on March 4, 2021, to the contracting officer for service
+performed as far back as November 2018, which was over the 90-day requirement.
+
+Figure 10. Claim Submitted Over 90 Days
+
+
+
+
+Source: Contract system.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                          16
+REPORT NUMBER 22-202-R23
+       COVER            TABLE OF CONTENTS                HIGHLIGHTS                    RESULTS                  APPENDICES
+
+
+
+Appendix C: Management’s Comments
+
+
+
+                   04/20/23
+
+                   JOHN CIHOTA
+
+                   DIRECTOR, AUDIT SERVICES
+
+                   SUBJECT: Management Response: Late Trip Payment Process for Highway Contract
+                   Routes 22-202-DRAFT
+
+                   Thank you for providing the Postal Service with an opportunity to review and comment
+                   on the findings and recommendations contained in the draft audit report, Late Trip
+                   Payment Process for Highway Contract Routes.
+
+                   Vice President of Logistics and Transportation Strategies agree with the findings
+                   in this report as it relates to improvements needed within the processes to
+                   manage the late trip payment process and lump sum payment processes for HCR
+                   Suppliers
+
+                   Vice President of Logistics and Transportation Strategies also agree with the calculations
+                   used towards monetary impact.
+
+                   Following are our comments on each of the five recommendations.
+
+                   Recommendation [1]:
+                   We recommend the Vice President, Logistics, and Vice President, Transportation
+                   Strategy, develop a plan to periodically monitor compliance and provide refresher
+                   training to administrative officials and contracting personnel on the late slip payment
+                   process outlined in Management Instruction PO-530-2017-1, Highway Contract Route
+                   Exceptional Service Performance Payment Reconciliation.
+
+                   Management Response/Action Plan:
+                   Management agrees with this recommendation.
+
+                   Management will redistribute Management Instruction – PO-530-2017-1, Highway
+                   Contract route Exceptional Service Performance Payment Reconciliation, to all Logistics
+                   EAS and provide a service talk to summarize the responsibilities of the Administrative
+                   Official as it pertains to the Late trip performance process.
+
+                   Target Implementation Date: 04/30/2023
+
+                   Responsible Official:
+                   Senior Director, Surface Logistics
+
+                   Recommendation [2]:
+                   We recommend the Vice President, Logistics, develop and implement a standardized
+                   supplier claim form.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                        17
+REPORT NUMBER 22-202-R23
+       COVER            TABLE OF CONTENTS                  HIGHLIGHTS                     RESULTS                APPENDICES
+
+
+
+
+                   Management Response/Action Plan:
+                   Management agrees with this recommendation.
+
+                   Attachment A in Management Instruction PO-530-2017-1 is provided as an example
+                   of a supplier claim form. Management recognizes the need for standardization and the
+                   example listed provides all the inputs necessary to submit a claim for payment. We will
+                   reiterate to the field to utilize the form in the management instruction. The form will be
+                   distributed to the field via email and will be readily available to download for the field.
+
+                   Target Implementation Date: 04/30/2023
+
+                   Responsible Official:
+                   Senior Director, Surface Logistics
+
+                   Recommendation [3]:
+                   We recommend the Vice President, Logistics, perform periodic reviews to ensure final
+                   trip destination scans are performed in Surface Visibility for highway contract trips.
+
+                   Management Response/Action Plan:
+                   Management agrees with this recommendation.
+
+                   Management has been and will continue to focus on scanning improvement.
+                   Management will share examples of improvements to scanning indicators to SPLY, will
+                   supply examples of daily updates via our Director Scorecard, and an example of where
+                   the Regional Logistics Directors are working with their Processing Directors to improve
+                   scanning performance.
+
+                   Target Implementation Date: 04/30/2023
+
+                   Responsible Official:
+                   Senior Director, Surface Logistics
+
+                   Recommendation [4]:
+                   We recommend the Vice President, Transportation Strategy, implement periodic reviews
+                   to ensure the correct budget account code, routes, cost segments, and service types
+                   are used when late slip payments are entered in the Transportation Contract Support
+                   System.
+
+                   Management Response/Action Plan:
+                   Management partially agrees with this recommendation.
+
+                   Transportation Strategy will provide a service talk to staff informing of the importance
+                   of using correct budget account code, route number cost segment and service type in
+                   making late slip payments through TCSS. Transportation Strategy has only a custodial
+                   role in updating budget account numbers in the Transportation Contract Support System
+                   (TCSS). Surface Transportation will migrate over to ILE and the new contract writing
+                   system in 2024 – at that point the Surface Transportation role entering budget account
+                   numbers in TCSS will end.
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                         18
+REPORT NUMBER 22-202-R23
+       COVER            TABLE OF CONTENTS                 HIGHLIGHTS                    RESULTS                APPENDICES
+
+
+
+
+                   Target Implementation Date: 04/30/2023
+
+                   Responsible Official:
+                   Director, Surface Transportation CMC
+
+                   Recommendation [5]:
+                   We recommend the Vice President, Transportation Strategy, develop and issue a
+                   Standard Work Instruction to require the inclusion of supporting documentation and a
+                   justification when correct late slip rates in the Transportation Contract Support System
+                   are not used.
+
+                   Management Response/Action Plan:
+                   Management agrees with this recommendation.
+                   Transportation Strategy will provide a service talk to staff emphasizing the inclusion of
+                   supporting documentation and a justification in instances where late slip payment rates
+                   differ from the rate maintained in TCSS.
+
+                   Target Implementation Date: 04/30/2023
+
+                   Responsible Official:
+                   Director, Surface Transportation CMC
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                                       19
+REPORT NUMBER 22-202-R23
+       COVER            TABLE OF CONTENTS         HIGHLIGHTS             RESULTS               APPENDICES
+
+
+
+
+                                        Contact us via our Hotline and FOIA forms. Follow us
+                                        on social networks. Stay informed.
+                                        1735 North Lynn Street, Arlington, VA 22209-2020
+                                        (703) 248-2100
+                                        For media inquiries, please email press@uspsoig.gov
+                                        or call (703) 248-2100
+
+
+
+
+LATE TRIP PAYMENT PROCESS FOR HIGHWAY CONTRACT ROUTES                                                       20
+REPORT NUMBER 22-202-R23
+

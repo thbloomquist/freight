@@ -1,0 +1,311 @@
+         INFORMATION TECHNOLOGY
+
+
+
+Freight Bill Authorization (FBA)
+    Enhancements Tutorial
+
+
+
+
+             © Cass Information Systems
+              13001 Hollenberg Drive
+               Bridgeton, MO 63044
+                                             Table Of Contents
+Introduction .................................................................................................................................. 1
+Resolving a Single Rejected Freight Bill Exception .............................................................................. 2
+  Reprocessing a Single Freight Bill Exception ...................................................................................3
+  Reprocessing a Single Rejected Freight Bill Exception - Adjust Pay Amount ........................................ 7
+  Rejecting a Single Freight Bill Exception to the Carrier ................................................................... 10
+  Discarding a Single Freight Bill Exception ..................................................................................... 12
+Conclusion .................................................................................................................................. 14
+
+
+
+
+                                                                        i
+Introduction
+The interface for resolving rejected freight bill exceptions through the Freight Bill Authorization
+(FBA) application on CassPort has been enhanced to make your portion of the resolution process
+clearer, and allow confirmation so that you can review your resolution before submitting it. The
+change is only to the interface – you have the same resolution options as before.
+Enhancements have been made to FBA resolution for single invoices and mass modify resolution
+for resolving multiple invoices at once.
+The enhancements fall into several categories:
+   Navigation – Enhancements to improve your ability to know where you are in the resolution
+   process and confirm or change data before completing the process.
+   Option Clarification – Enhancements to ensure all users understand the action being selected
+   or reviewed.
+   Standardized Reasons – Enhancements to reduce the amount of data entry required while
+   providing useful information for carriers.
+This document provides you with a quick tutorial showing you how these enhancements affect your
+use of FBA to resolve rejected freight bill exceptions.
+
+
+
+
+9/1/2009                      © 2009 Cass Information Systems, Inc.                                   1
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+Resolving a Single Rejected Freight Bill Exception
+You will begin the resolution process as you always have – by clicking the pro number of a rejected
+freight bill exception on the Freight Bill Exception report.
+
+
+
+
+There have been no changes to the Freight Bill Exceptions Report.
+When you close the freight bill image, the first enhanced Reject Resolution – Single dialog will
+display:
+
+
+
+
+9/1/2009                      © 2009 Cass Information Systems, Inc.                                2
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+Reprocessing a Single Freight Bill Exception
+1.   Click Reprocess from the first Reject Resolution – Single dialog.
+     The second Reject Resolution – Single dialog displays.
+
+
+
+
+2.   Enter information in the Other Instructions field, such as a different location to pay.
+3.   Choose whether to complete the reprocess stamp:
+          If you need to complete the stamp, click Complete Reprocess Stamp. Go to the next
+          step.
+          The Reject Resolution – Reprocess stamp dialog displays overlapping the second Reject
+          Resolution – Single dialog.
+     or
+          If you do not need to complete the stamp, go to step 6.
+
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                              3
+                         Enhancements to Freight Bill Authorization (FBA)
+
+
+
+
+4.   Complete the Reprocess stamp.
+     Note: The stamp in this image is a generic stamp used as an example. Your stamp may look
+     different.
+5.   When the stamp is complete, click Save.
+     The Reject Resolution – Reprocess Stamp dialog closes.
+6.   Click Continue.
+     The Reject Resolution – Reprocess Exception dialog displays to provide a confirmation dialog.
+
+
+
+
+9/1/2009                      © 2009 Cass Information Systems, Inc.                                  4
+                           Enhancements to Freight Bill Authorization (FBA)
+
+
+
+
+7.   Review the information on the dialog to confirm everything is correct for the resolution.
+8.   Review the reprocess stamp, if you completed it and need to confirm your entries:
+          Click View Reprocess Stamp to review the Reject Resolution – Reprocess Stamp dialog
+          with the completed stamp. Go to the next step.
+          The Reject Resolution – Reprocess stamp dialog displays overlapping the second Reject
+          Resolution – Reprocess Exception dialog.
+     or
+          If you did not complete the stamp, go to step 9.
+
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                              5
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+
+8.   When you are finished reviewing the completed reprocess stamp, click Cancel to close the
+     Reject Resolution – Reprocess Stamp dialog.
+     Note: You cannot save edits to the reprocess stamp from this screen. You must click Return
+     to Previous Step to return to the second Reject Resolution – Single dialog to edit and save
+     any changes.
+9.   Click Finish to reprocess the freight bill exception.
+     The Reject Resolution – Reprocess Exception dialog closes and the resolved freight bill
+     exception begins reprocessing.
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                               6
+                         Enhancements to Freight Bill Authorization (FBA)
+
+
+Reprocessing a Single Rejected Freight Bill Exception
+- Adjust Pay Amount
+You are not required to adjust the pay amount when reprocessing a bill. The steps in this section
+will be executed during reprocessing when you wish to pay a different amount than the amount
+originally billed.
+1.   Click Reprocess from the first Reject Resolution – Single dialog.
+     The second Reject Resolution – Single dialog displays.
+
+
+
+
+2.   Enter a new value in the Pay Amount field.
+3.   Click Continue.
+     The Reject Resolution – Adjustment Reason dialog displays.
+
+
+
+
+9/1/2009                      © 2009 Cass Information Systems, Inc.                                 7
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+
+4.   Select a standard adjustment reason from the drop down box.
+     Reasons are the same for all clients. These reasons provide an overview of the reasons the
+     pay amount might be adjusted for a reprocessed freight bill exception:
+     Weight Incorrect             Incorrect Mileage                Service Failure
+     Rate Error                   Amount Cut Per Client            Discount Taken
+     Error in Extension           Declined Balance Due             Invalid Accessorial Charge
+     Discount Incorrect           Other Audit Adjustment           Service Failure - POD
+     Reversed Balance Due
+     Note: The Reject Resolution – Adjustment Reason dialog displays only if you adjusted the
+     Pay Amount field on the second Reject Resolution – Single dialog.
+5.   Click Continue.
+     The Reject Resolution – Reprocess Exception dialog displays to provide a confirmation
+     dialog.
+
+
+
+
+9/1/2009                      © 2009 Cass Information Systems, Inc.                               8
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+
+6.   Review the information on the dialog to confirm everything is correct for the resolution.
+7.   Click Finish to reprocess the freight bill exception.
+     The Reject Resolution – Reprocess Exception dialog closes and the resolved freight bill
+     exception begins reprocessing.
+
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                             9
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+Rejecting a Single Freight Bill Exception to the Carrier
+1.   Click Reject to Carrier from the Reject Resolution – Single dialog.
+     The first Reject Resolution – Reject Exception dialog displays.
+
+
+
+
+2.   Select from a list of up to 99 client-specific reject reasons. If no reject reasons are defined, a
+     single standard reason is available for selection: Rejected to Carrier by Client.
+     Work with your Cass Client Relations Representative to define the specific reject reasons you
+     need.
+3.   If necessary, enter additional information in the Other Instructions field.
+4.   Click Continue.
+     The final Reject Resolution – Reject Exception dialog displays.
+
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                                  10
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+
+5.   Review the information on the dialog to confirm everything is correct for the resolution.
+6.   Click Finish to reprocess the freight bill exception.
+     The Reject Resolution – Reject Exception dialog closes and the resolved freight bill exception is
+     rejected to the carrier.
+
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                               11
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+Discarding a Single Freight Bill Exception
+1.   Click Discard from the Reject Resolution – Single dialog.
+     The first Reject Resolution – Discard Exception dialog displays.
+
+
+
+
+2.   Enter information about why the bill is being discarded in the Other Instructions field.
+3.   Click Continue.
+     The final Reject Resolution – Discard Exception dialog displays.
+
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                            12
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+
+5.   Review the information on the dialog to confirm everything is correct for the resolution.
+7.   Click Finish to reprocess the freight bill exception.
+     The Reject Resolution – Discard Exception dialog closes and the resolved freight bill exception
+     is discarded.
+
+
+
+
+9/1/2009                       © 2009 Cass Information Systems, Inc.                              13
+                          Enhancements to Freight Bill Authorization (FBA)
+
+
+
+Conclusion
+Confirmation dialogs, data entry configured for the resolution option you have selected, and a
+separate stamp dialog will enable you to resolve bills in FBA more easily and accurately.
+For your reference, here is a complete list of the enhancements by category:
+   Navigation
+       Only those fields related to the selected resolution option display for completion. So, the
+       path for resolving the freight bill exception is always clearly delineated.
+       The account number and name display at the top of the dialog to ensure you know the
+       account under which the freight bill exception is being processed.
+       The reprocess stamp remains hidden unless you choose to complete it. When you choose to
+       complete it, the stamp displays in a separate dialog. So, you can review the freight bill
+       information without scrolling while you are completing the stamp.
+       For each resolution option, a confirmation dialog displays to enable you to review all entered
+       or selected information before completing the resolution process.
+       When using mass modify, all criteria selected for the freight bill exceptions included in the
+       mass modification display at the top of all dialogs.
+   Option Clarification
+       The Approve option has been renamed Reprocess for clarification and consistency with
+       suspense options. When you select Reprocess, the bill will be reprocessed at Cass with any
+       options or instructions you have entered, such as processing the bill in a different shipper
+       account. To approve a bill while reprocessing, simply fill out the approval stamp.
+       The watermark on the Discard stamp has been changed from “Paper” to “Discard” so all
+       resolution stamps match the resolution option selected.
+   Standardized Reasons
+       Easily selected standard reasons for an adjustment to the pay amount reduce the amount of
+       data you must enter and provide a standardized reason for review. (single resolution only)
+       Customizable reasons for a reject to the carrier reduce the amount of data you must enter
+       and provide a standardized reject reason for review.
+       The selected reason (adjustment or reject) displays with other information on the resolution
+       stamp.
+If you have additional questions, please contact your Cass Client Relations Representative.
+
+
+
+
+9/1/2009                      © 2009 Cass Information Systems, Inc.                                    14
+

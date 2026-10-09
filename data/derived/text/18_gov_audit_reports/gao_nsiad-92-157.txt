@@ -1,0 +1,704 @@
+                          United   States Gcsuxal Accounting   Office
+
+                          Report to the Honorable
+       GAO                ,Jon Kyl, House of Representatives
+
+
+
+
+                          TRANSPORTATION
+,; I
+
+
+
+I
+
+
+
+
+1;                        AUDITS
+                          Contract Costs Can Be
+                          Reduced
+
+                                                                 1111111
+                                                                   Ill  146651
+
+
+
+
+       GAO/NSIAD-92-157
+                 United States
+                 General Accounting Office
+                 Washington, D.C. 20548
+
+                 Natlcnal Security and
+                 International Affairs Division
+
+                 B-214149
+
+                 June 3,1992
+
+                 The Honorable Jon Kyl
+                 House of Representatives
+
+                 Dear Mr. Kyl:
+
+                 This report responds to your request that we examine certain aspects of
+                 the General Services Administration’s (GSA) use of private companies to
+                 audit commercial transportation charges paid by federal departments and
+                 agencies. In 1989 GSAbegan requiring contractors to collect certain data
+                 from paid transportation bills, in addition to conducting their standard
+                 audit. You raised several questions about that requirement and asked the
+                 GSAInspector General to review the matter. After you received the
+                 Inspector General’s response, you asked us to look into the adequacy of it.
+
+                 The Inspector General reported to you that he was unable to fully answer
+                 or resolve all the concerns you raised because the program manager had
+                 not yet implemented his plans to use the data. Therefore, as agreed with
+                 your staff, we independently examined the questions you had raised.
+                 Specifically, we assessed whether
+
+             l   collecting the additional data was resulting in a more thorough audit,
+             l   GSAwas adequately verifying that the contractors were providing the
+                 required data and whether GSAwas using it,
+             l   the contractors were duplicating the Department of Defense’s (DOD) data
+                 collection efforts, and
+             l   GSAhad a basis for establishing its fees for data collection.
+
+
+                 GSAis responsible for auditing commercial transportation   charges billed to
+Background       the federal government. It has authority to audit charges before or after
+                 payment, or both, and to contract for commercial auditor services. In
+                 recent years, GSAhas delegated most of the prepayment auditing authority
+                 to other agencies and has kept the postpayment audit authority for itself.
+                 For example, GSAhas authorized DOD to audit its own bills before payment
+                 with the understanding that DOD will forward them to GSAfor postaudit.
+
+                 At the time of our review, GSAhad under contract three prepayment
+                 auditors that agencies could use. It had five other contractors that it used
+                 for postpayment audits. For these audits, GSAused “first-audit
+                 contractors” to audit bibs immediately after payment. “Second-audit
+
+
+
+                 Page 1                                GAOINSIAD-92.157   GSA Transportation   Audlto
+I                                                                                                           .
+
+                      B-214149
+
+
+
+
+                      contractors” audited bills that the first auditors had already examined to
+                      ensure that they had not overlooked overbillings.
+
+                      Historically, compensation for postpayment auditing was based solely on a
+                      commission for each overcharge identified and collected. These
+                      commissions varied greatly depending on the mode of transportation and
+                      the contractor involved. In 1989 GSAnegotiated new postpayment
+                      contracts in which it agreed to pay first-audit contractors a
+                      per-document-audited fee, called a transaction fee, in addition to the
+                      commission they received from collected overcharges. According to GSA,
+                      the primary purpose for adding fee payments to the first-audit contracts
+                      was to ensure that the first auditors examined all documents carefully.
+                      Also, GSAwanted data from the transportation documents (bills) to help it
+                      assessthe quality of the prepayment audit and to monitor the payments
+                      government agencies were making for commercial transportation.
+
+                      GSApays a transaction fee after a contractor certifies that it has audited a
+                      bill and provided the data from it. The data differs depending on the mode
+                      of transportation paid for. Examples of data are the bill of lading number,
+                      passenger ticket number, transportation mode and carrier identification
+                      number, origin and destination, paying office, date and amount paid,
+                      symbol for the paying agency’s appropriation, account number of the
+                      charge card used for payment, and the symbol for any previous contract
+                      auditor.
+
+                      No transaction fees are payable to second-audit contractors. Their only
+                      compensation is the commission they earn on overcharges they identify.
+
+
+                      Although GSAstated that the primary purpose for adding transaction fee
+    Resultsin Brief   payments to the first-audit contracts was to ensure that the first auditors               4
+                      reviewed all documents carefully for overcharges, GSAdoes not know
+                      whether this has occurred. Many overcharges still are not identified until
+                      the second audit. GSA’sown statistics show that since October 1989 (the
+                      beginning of transaction fees in postpayment audits), more than
+                      20 percent of the overcharges were not identified until the second audit.
+                      Moreover, fees-not commissions-represent the greater part of the
+                      compensation paid under these contracts. From October 1989 to the end
+                      of calendar year 199 1, fees represented more than 75 percent of the
+                      payments GSAmade to first auditors.
+
+
+
+
+                      Page 2                               GAO/NSIAD-92-157   GSA Transportation   Audits
+                        B-214149
+
+
+
+
+                        GSAhas not adequately verified that contractors are providing the required
+                        data and that the data is useful. The agency had hoped to use the data to
+                        assess the performance of the auditors who examined the transportation
+                        bills before payment and to obtain information about agency transportation
+                        expenditures and carrier overcharge patterns. However, GSAhas not
+                        examined most of the data and has therefore, neither used it as expected
+                        nor been able to ensure that the contractors are providing it.
+
+                        DOD, as part of its own traffic management programs, has already captured
+                        nearly all the same data that GSAis requiring from its contractors. The bills
+                        from which DOD collected this data represent more than 80 percent of the
+                        bills that GSAaudited. Therefore, for the most part, GSA'Sdata collection is
+                        a duplication of effort.
+
+                        GSA established its pay schedule for transaction fees by comparing various
+                        fees specified in its prepayment audit contracts. In these contracts,
+                        contractors are paid one fee to audit charges before payment and another
+                        fee if the contracting agency asks for data in addition to the audit service.
+                        GSAused the difference between these two fees as the fee to be paid for
+                        data collection under the first-audit contracts. However, the difference
+                        between the fees in the prepayment contracts was not applicable to data
+                        collection alone.
+
+
+                        GSAoffered to pay contractors transaction fees to audit bilks and collect
+Transaction Fee         certain data on them as an incentive to review all documents more carefully
+Payments Have Not       and to identify more overcharges. However, GSAhas no support to show
+Been Shown to Ensure    that these fee payments have motivated the auditors to be more thorough.
+                        GSA’s own statistics show that on the bills reviewed in both a first and
+Thorough First Audits   second audit, more than 20 percent of the overcharge amounts were not
+                        identified until the second audit. For example, from October 1989 through              6
+                        December 199 1, GSA collected $10.2 million in overcharges related to
+                        motor carrier payments. About 22 percent of this amount was not
+                        identified until the second audit..For whatever reason, the first auditor,
+                        who was paid a fee to audit these bills, missed the overcharges. Were these
+                        overcharges identified during first audit, GSAwould have paid only a
+                        3.9-percent commission rate. As it was, GSAhad to pay the contractors a
+                        26-percent commission rate, the rate for a second audit of motor carrier
+                        bills.
+
+                        Audits of domestic household goods presented a similar example.
+                        Twenty-eight percent of the overcharge amounts were not identified until
+
+
+
+                        Page 3                                GAO/NSiAD-92-167   GSA Transportation   Audits
+                                        B-214149
+
+
+
+
+                                        the second audit, in which the commission rate was more than twice that of
+                                        the first audit.
+
+                                        Whether the percentage of overpayments missed in the first audit
+                                        decreased when transaction fees were initiated is not known, because GSA
+                                        had not developed comparative percentages from previous contracts. Even
+                                        if such data were available, fee payments would not necessarily have been
+                                        the sole reason for any change. New contractors with new qualifications
+                                        could have had as much influence as a change in the compensation
+                                        method.
+
+                                        Considering the high amounts of overcharges overlooked by the first
+                                        auditors, it is doubtful that adding transaction fees to first-audit contracts
+                                        has led to more thorough audits. Nevertheless, GSA continues to make
+                                        these payments. From the beginning of the contracts (October 1989) to the
+                                        end of calendar year 199 1, fees represented more than 75 percent of the
+                                        payments made under the contracts. GSAhas spent less than 25 percent of
+                                        the monies paid to first auditors specifically for commissions, or something
+                                        directly related to overcharges.
+
+                                        Table 1 compares first-audit fee payments with first-audit commission
+                                        payments for overcharges and lists the payments by the type of billing
+                                        document.
+
+
+Table 1: Comparl8on of Flrstdudlt Fee
+Payment8 With Flrotdudlt Commlralon                                           Fee                                Commirslon
+                                        Mode of                                                                                                           Total
+Payment8 (October 1969 Through          transportation              Payment                Percent            Payment            Percent            29cent--._-
+December 1991)
+                                        Motor freight
+                                        ---_                 ..--.$1 ,I 40,788                 78.6            $311,2l4              21.4         $1,452,002
+                                        Rail freight              ---4,225 --_I_               28.9                10,419 -_--       71.1               14644
+                                                                                                                                                           .L-.-
+                                        Water    freight
+                                        - ..._- -.---__-------           5,122
+                                                                          - .._._.-- . . -     91.2                     492    ____-   8.8                5814
+                                                                                                                                                    I-r--.-.       6
+                                        Air  freight__-.-~-------.__-..-.-
+                                        ----.--_..                      65,274 ..._-___---_I__ 96.2                 2,602
+                                                                                                                  --.--.._-~           3.8
+                                                                                                                                     ---.               67,awJ
+                                        Pipeline_-. ------..--L-.--..-- 1 992
+                                        -_--.                                                  74.9         -__------ 668            25.1
+                                                                                                                                 ___---                   2680
+                                                                                                                                                       -..L--
+                                        Domestic
+                                            household
+                                            goods                     134,105                  26.1----‘-.-...------.--
+                                                                                                                 380 574             73.9             614,679
+                                        Foreign
+                                            household
+                                            goods                     210,970                 40.7               222 321
+                                                                                                            _-L-.--.---              51.3
+                                                                                                                                      .. -            433,291
+                                        Passenger                  2  732   828                86.6
+                                        .- ..._-_----~-.-..- _.._ ‘. _ I-. --_-- .-..--------.-.L-.----          421   910           13.4          3154738
+                                                                                                                                      .-.-_-.---... !..- .I-----
+                                        Total                   $4.295.304                    70.1         $1.350.200                23.9         95.646.504
+                                        Source: GSA Office of Transportation Audits.
+
+
+
+
+                                        Page 4                                                    GAOINSIAD-92-157           GSA Transportation        Audita
+When we discussed this data with GSA program officials, they had no
+supporting documents to show that the audits were more thorough. They
+did, however, express concern that we had compared fee payments with
+commission payments to assess the effectiveness of the new 1989
+contracts. They believed that we were incorrectly taking the position that
+fee payments were made solely in exchange for data collection. According
+to these officials, fee payments are primarily made in exchange for audits
+and are not contingent on data collection.
+
+We disagree with the GSA program officials. Even though the audit
+contracts do not specifically define the term “transaction fee,” their
+requirements indicate that payment of this fee is contingent on data
+collection. Specifically, the contracts provide that
+
+“The first postpayment audit contractor shall capture the following information from each
+document received for audit and furnish same not later than 10 calendar days following the
+completion of each account to GSA in a to be prescribed media and format.“’
+(p. 34, paragraph H.1.)
+
+“The contractors shah submit an account month statement indicating the number of bills
+audited along with any cost for the ‘per transaction cost.“’ (p. 63, paragraph I.21 .)
+
+Supplementing the contracts are instructions explaining how the auditors
+must prepare their invoices to bill GSA for the transaction fees2 These
+instructions provide that
+
+“. . Standard Form 1034, Public Voucher for Purchases and Services other than
+Personal. . .is to be used for invoicing the Government for ‘per transaction costs.‘” (p. H-3.)
+
+These instructions make it clear that the contractor must
+
+“Enter [a] description of services rendered aa ‘Bills audited during the month of (enter
+Month and Year) as documented by the attached magnetic tape submission.‘” (p. H-6.)
+[Underlining added.]
+
+Wording in the contracts and the GSA invoicing instructions leads us to
+believe that the transaction fees are conditional on the contractors’
+furnishing data and, therefore, are not simply fees paid in exchange for
+audits. In fact, some contractors expressed concern that they could even
+
+
+‘The required information is listed in the contract.
+2G.S.A.Post PaymentAudit Guide,December1,1989.
+
+
+
+Page 5                                             GAO/TVSIAD-92-157   GSA Transportation   Audita
+                       B-214140
+
+
+
+
+                       collect the data required by GSA for the fee offered. Also, the method used
+                       to establish the fee-the difference between the fee for auditing and the fee
+                       for auditing and collecting data on prepayment audit contracts
+                       (see table 3)-suggests that data collection was the primary reason for the
+                       fee.
+
+
+                       GSA believed that the data provided by the contractors might also help GSA
+GSA Makes Little Use   check on the quality of its prepayment audit contractors and provide a
+of the Data            means of overseeing the government’s commercial transportation
+                       payments. For example, the data might show that an overcharge was
+                       missed during the preaudit, which agency was making transportation
+                       payments and for how much, what type of transportation was used, which
+                       routes were traveled, and which carriers were overcharging.
+
+                       In his December 27, 1990, letter to you, the GSA Inspector General
+                       reported that GSA had still not fully developed an automated system to
+                       retrieve the information the contractors were loading onto its system. The
+                       data, therefore, was available only for ad hoc inquiries. The Inspector
+                       General pointed out that although the GSA audit officials said that the
+                       collected information was valuable, there was no way to evaluate this
+                       assessment because the system was not functional and reports were
+                       nonexistent.
+
+                       We found only one use that GSA had made of the collected data. The agency
+                       used it to identify the various federal agencies making commercial
+                       transportation payments and to find out how much they were paying and
+                       whether they were conducting prepayment audits. GSA was under
+                       congressional direction to encourage and help agencies preaudit their bills,
+                       but before October 1989 the agency was unaware of who was making
+                       commercial transportation payments and could benefit from a preaudit.                 b
+                       With the information provided by the audit contractors, GSA knew to whom
+                       it should promote the use of the preaudit contractors.
+
+                       GSA had not, however, used the data to assess prepayment auditor quality
+                       or agency traffic management performance. For example, GSA planned to
+                       use this data to advise government traffic and travel managers who
+                       negotiated with carriers for reduced freight rates and passenger air fares
+                       about the government’s shipping and travel patterns. We found that the
+                       data had only limited use, however, because it was outdated and
+                       represented shipments made or travel taken more than a year previous to
+                       the audits.
+
+
+
+                       Page tl                              GAO/NSLAD-92-157   GSA Transportation   Audits
+                        B-214140
+
+
+
+
+                        Although the data may also have given GSA the opportunity to improve its
+                        oversight of carrier overcharge patterns, GSA was not using that data for
+                        this purpose. Moreover, that information was already available from other
+                        sources, such as the payment agencies themselves and GSA'S own
+                        overcharge processing and accounting system.
+
+                        GSA program officials defended the need for transaction fees; they believed
+                        that any contractor attempting to bid on these contracts would have
+                        problems surviving financially on commissions alone. The officials said
+                        that heavy investment was necessary to obtain all the tariffs and tenders
+                        required to audit government bills, and they presumed that most
+                        contractors did not already have these tariffs and tenders for use in
+                        conducting their normal business. The officials also believed that
+                        inadequate cash flow could be a problem for the contractors because GSA
+                        does not pay contractors for their work until it collects the overcharges.
+
+                        That GSA would have problems obtaining audit services without offering a
+                        transaction fee is questionable. We were unable to establish that
+                        contractors had been reluctant to bid on GSA audit work before the 1989
+                        provision.
+
+
+                        By the end of calendar year 199 1, GSA had paid more than $4 million for
+GSA Does Not            27 months of data. However, the agency was not certain that the
+AdequatelyVerify That   contractors had provided the data as required under the terms of the
+Contractors Provide     contract or that the data was useful to GSA. Often GSA paid a single
+                        contractor as much as $100,000 for a single month’s data, with only
+the Required Data       minimal verification of it.
+
+                        We reviewed a May 199 1 invoice for the work a contractor had performed
+                        and checked GSA'S verification of the quality of the collected data. The          A
+                        invoice showed that the contractor had collected data on 508,340
+                        passenger transportation billing documents and 124,509 freight bills.
+                        Under the GSA-establishedfee schedule, the contractor was therefore due
+                        $161,947.52 ($0.25 for each passenger bill and $0.28 for each freight bill).
+
+                        GSA'S only examination of the data was a verification that the contractor’s
+                        magnetic tapes containing the data included the number of invoiced
+                        records and that, on the basis of a statistical sampling of records, each
+                        record contained data. GSA did not verify that (1) the number of invoiced
+                        records was the same as the number of billing documents GSAhad given
+                        the contractor for audit, (2) the data conformed to the terms of the
+
+
+
+                        Page7                                GAO/NSIAD-92-157   GSATransportationAudita
+B-214149
+
+
+
+
+contract, or (3) the data provided information on which GSA could make
+analyses or draw meaningful conclusions. Had GSA reviewed the data, it
+could have seen that some data was unlikely to provide any useful
+information for GSA's oversight purposes.
+
+In table 2, we list examples of problems we identified concerning data that
+GSA paid for. The examples are from the previously cited invoice.
+
+
+
+
+Page 8                              GAO/NSIAD-92-167   GSA Transportation   Audits
+Tablo 2: Problomr With the Data on an
+Involoo Provldod to QSA In May 1991     Data olomont                       CoTment
+                                        Bill of lading and ticket          Many bill of lading and ticket numbers were duplicates Of
+                                        number                             the 124,509 bill of lading records, 777 had the same
+                                                                           numbers. Of the 508,340 ticket records, 2,117 had
+                                                                           duplicated numbers. Sometimes, the same ticket number
+                                                                           was shown three or more times, and each of the
+                                                                           corresponding tickets had the same data.
+
+                                                                           Consequently, not only was GSA paying for the same data
+                                                                           more than once, it did not know whether the data base it had
+                                                                           received represented a true universe of the records under
+                                                                           audit. Also, GSA had no procedure to decide whether the
+                                                                           contractor had billed for data collection for the same billing
+                                        -----       ---__--                document in a previous month.
+                                        Carrier account code               Of the 1,293 different codes listed for motor carrier records,
+                                                                           181 were not readily identifiable motor carrier, surface freight
+                                                                           forwarder, or cartage company codes, Most of these 181
+                                                                           codes were air carrier, water carrier, or other transportation
+                                                                           mode codes. Thus, any data purporting to show payments
+                                                                           by mode would be misleading. Moreover, since GSA’s data
+                                                                           entry instructions were not clear as to which carrier’s
+                                                                           code-origin or billing-was to be used, use of the data was
+                                                                           meaningless to GSA in identifying the carriers overcharging
+                                                                           most
+                                                                             ___~often.
+                                        6&$n/destination                   Records for air passenger tickets almost never showed each
+                                                                           destination in a traveler’s multidestination itinerary.
+                                                                           Consequently, GSA could not use the data to show an
+                                                                           accurate
+                                                                               -_- representation of the government’s travel patterns.
+                                        Date paid                          Even though the data was supposed to show payments
+                                                                           made in a single month, it showed payments made in
+                                                                           different months. For example, this invoice purported to
+                                                                           show payments made in October 1990. Yet, individual
+                                                                           records indicated that payments were made in August,
+                                                                           September, and October 1990, and January and February
+                                                                           1991, Because this invoice covered payments made in more
+                                                                           than 1 month, GSA would have had to look at several months
+                                                                           of data to be certain that it was not paying for the same data
+                                                                           twice. It had not, however, validated any of the data to           b
+                                        ---              --                ensure against duplicate payments.
+                                                                    ~--_~~__-.---
+                                        Agency location code               More than half of the codes for the agency making the
+                                                                           transportation payment on passenger ticket records were
+                                                                           missing, making it impossible for GSA to know which agency
+                                                                           was paying the transportation charges.
+
+
+
+
+                                        Page 9                                           GAO/NSIAD-82-157     GSA Tramportation     Audits
+                         B-214149
+
+
+
+
+                         DOD, under its own traffic and travel management programs, has already
+Data Collection Effort   captured most of the data that GSArequires its first audit contractors to
+Mostly Duplicates        collect. DOD traffic represents more than 80 percent of the bills furnished
+Work Done Previously     to the contractors. The Military Traffic Management Command (MTMC), a
+                         component of the U.S. Transportation Command, has a freight bill data
+by DOD                   collection program called the Freight Information System. This system
+                         collects paid freight bilI data on computer tapes from the various military
+                         transportation payment centers, and the tapes are readily available to GSA.
+
+                         MTMC also has a data collection program called the Worldwide Household
+                         Goods Information System for Traffic Management, which captures data
+                         on paid bills for household goods shipments. Moreover, MTMC has a
+                         passenger data collection program called the Statistical Passenger Data
+                         Collection Cost program in which travel contractors provided MTMC data
+                         on airline, bus, and rail tickets issued.
+
+                         Each of these programs provides substantially the same data that GSAhas
+                         requested from its audit contractors. Missing payment data, of course, is
+                         available at any of the military payment centers that capture data for
+                         MTMC's data collection programs.
+
+                         GSA officials told us that GSAand DOD were developing a system to send and
+                         receive transportation biIls by Electronic Data Interchange. The system is
+                         planned for implementation in October 1992.
+
+
+                         At the time GSAsolicited its first-audit contracts, it had negotiated several
+DOD Had a Basis for      contracts for prepayment audit services. The prepayment audit contracts
+Data Collection Fees     provided for two types of services. The first was a basic auditing service in
+                         which the contractor would review each transportation bilhng document,
+                         identify overcharges, and as appropriate, request refunds. The second was             6
+                         an enhanced service in which, in addition to performing the basic auditing
+                         service, the contractor would perform other duties.
+
+                         Duties for the enhanced service might include processing the bills in an
+                         electronic data interchange format, converting them to microform or
+                         electronic media, and capturing up to 20 data elements from each
+                         document received for audit. The contractors agreed to perform the
+                         required services on a fee-per-document basis: the amount of the fee
+                         depended on the type of billing document (motor freight, rail freight, water
+                         freight, air cargo, pipeline, domestic household goods, foreign household
+                         goods, or passenger); the location where the audit was to be performed
+
+
+
+                         Page 10                              GAO/NSIAD-92-157   GSA Transportation   Audits
+                                         B-214149
+
+
+
+
+                                         (contractor site or government-furnished facility); and the type of service
+                                         required (basic audit or basic audit plus enhanced service).
+
+                                         GSAused the difference between the basic auditing service and the
+                                         enhanced auditing service as the foundation for establishing the
+                                         transaction fees for the 1989 first-audit contracts, even though the
+                                         difference was not applicable to data collection alone. At the time it sent
+                                         out its request for proposals, GSA decided to offer only half of this
+                                         difference for the majority of the modes. At the preproposal conference
+                                         some prospective bidders questioned the pay scale, and GSA subsequently,
+                                         but before the offers were due, doubled most of the fees and lessened the
+                                         amount of data it required from each document.
+
+                                         The differences between the two types of fees in the prepayment contracts,
+                                         the original fees, and the fees GSA eventually established, are listed by
+                                         mode of transportation, in table 3.
+
+
+Table 3: The Ba8la for Data Collection
+Few Compared Wlth the Fee8 That Were                                        Difference between                   Fees orlglnally
+Orlglnally and Eventually Established    Mode of                            fees In prepayment                 prescribed In the      Fee as eventually
+                                         transportation                                      contract                sollcitatlon           establlshed
+                                         Motor freight                                            $0.29                    -90.14                   $0.28
+                                         Rail freight
+                                         .---      ----_-~-.-.                                     0.29
+                                                                        .--- .--.---. .--- -.----~--~~~~~         ~~~          0.15                  0.29
+                                         Water freight                                             0.29                        0.15                  0.29
+                                         Air freight                                               0.29                        0.20                  0.39
+                                         Pipeline                                                  0.29                        0.15                  0.29
+                                         Domestic household
+                                         goods                                                     0.14                        0.07                 0.14
+                                         Foreign household
+                                         goods
+                                         .___..
+                                              --- . . -----..-.---.-..------.-.-.                  0.14
+                                                                                         - - _... ~~~
+                                                                                                    __......._                 0.07                 0.14
+                                         Passenger                                                 0.29                        o.i3                 0.25    4
+
+
+                                         GSA officials said that the fees were reasonable in comparison with what the
+                                         agency would have had to pay to obtain the same service from government
+                                         sources, such as the Federal Prison Industries. The officials said that the
+                                         Federal Prison Industries was the only alternative to obtaining the data
+                                         under the audit contracts and, therefore, they did not attempt to find what
+                                         the private sector may have charged for the same services. Moreover, they
+                                         did not attempt to find out whether the fees were high enough for an audit
+                                         contractor to recover its costs.
+
+
+
+
+                                         Page 11                                                   GAO/NSIAD-92-157          GSA Transportation   Audits
+                  B-214148
+
+
+
+
+                  GSAprogram officials noted that the October 1989 contracts expire on
+                  September 30, 1992. Data collection requirements may be discontinued,
+                  provided an alternate source of data is available. However, whether GSA
+                  will continue a commission and transaction fee payment system and how
+                  the fee, if any, will be determined is still under review by GSA'SOffke of
+                  Transportation Audits and Services Contracts Division. The decision will be
+                  reflected in the solicitation for the new postpayment audit contract.
+
+
+                  We recommend that the Administrator of GSA,when contracting for future
+Recommendations   postpayment audit services, not request or pay for data collection services
+                  unless GSA can show that collecting data on every billing document has
+                  made the audits more thorough and that the data already collected by DOD
+                  is not adequate for oversight purposes. If GSAdetermines that some data
+                  collection is necessary, it should establish adequate controls over data
+                  collection payments.
+
+
+                  Our review focused on contract solicitation number FCGX-SI-89008-N
+otiope and        issued by GSAon May 24,1989, and the postpayment audit contracts
+Methodology       awarded later that year. We also reviewed the GSAprepayment audit
+                  contract awards made earlier in 1989.
+
+                  We performed our review at the Office of the Inspector General, GSA,
+                  Washington, DC.; the Services Contracts Division, Federal Supply Service,
+                  GSA,Arlington, Virginia; the Office of Transportation Audits, Federal
+                  Supply Service, GSA,Washington, D.C.; and the Directorates of Passenger
+                  Traffic and Inland Traffic, MTMC, Falls Church, Virginia.
+
+                  We interviewed GSA officials and reviewed documents relating to
+                  contracting and audit contract administration procedures. We reviewed the
+                  correspondence and supporting materials prepared by GSA'SOffice of
+                  Inspector General concerning various transportation audit contracts and
+                  discussed the Inspector General’s work with his staff. We also interviewed
+                  MTMC officials to discuss their data collection programs.
+
+                  At our request, the GSA Office of Transportation Audits provided us with
+                  magnetic tapes containing contractor-prepared passenger and motor
+                  freight data, which we used to assess the completeness and usefulness of
+                  the data GSA collected. Transportation Audits officials also provided us data
+                  showing the expenses they had incurred under the postpayment audit
+                  contracts.
+
+
+
+                  Page 12                              GAO/NSIAD-92-167   GSA Transportation   Audits
+B-21414@
+
+
+
+
+As requested, we did not obtain official agency comments on this report.
+We did, however, discuss our findings with GSAofficials and incorporated
+their views where appropriate. We conducted our review from February
+1991 through March 1992 in accordance with generally accepted
+government auditing standards.
+
+
+We are sending copies of this report to the Chairmen of the House
+Committee on Government Operations and Senate Committee on
+Governmental Affairs and the Administrator of GSA. Copies will also be
+made available to other interested parties upon request.
+
+Please contact me on (202) 275-4141 if you or your staff have any
+questions concerning this report. Other major contributors to this report
+are listed in appendix I.
+
+Sincerely yours,
+
+
+
+
+Richard Davis
+Director, Army Issues
+
+
+
+
+Page 13                             GAOjNSIAD-92-167   GSA Transportation   Audito
+Appendix I
+
+Major Contributors to This Report
+
+
+                        Henry L. Hinton, Associate Director
+National Security and   Edward M. Balderson, Assistant Director
+International Affairs   J. Kenneth Brubaker, Evaluator-in-Charge
+Division, Washington,   Jay Waler, Evaluator
+D.C.
+
+
+
+
+                                                                                                            4
+
+
+
+
+(888441)                Page 14                            GAO/NSIAD-92-157   GSA Transportation   Audits
+The first copy of each GAO report and testimony is free. Additional
+copies are $2 each. Orders should be sent to the following address,
+accompanied by a check or money order made out to the Superin-
+tenclent of Documents,  when necessary. Orders for 100 or more
+copies to be mailed to a single address are discounted 29 percent,.
+
+173. General Accounting Office
+I’.(). Box 6015
+(Gaithc~rs burg, MD 20877
+
+Orders may also be placed by calling   (202) 2756241.
+1Jnitcsd States                First Class Mail
+Genwal Accounting   Office   Postage & Fees Paid   ’
+Washington 11.C. 20548               GAO
+                               Permit No. GlOO
+

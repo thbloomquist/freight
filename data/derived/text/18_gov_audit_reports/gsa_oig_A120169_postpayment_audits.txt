@@ -1,0 +1,872 @@
+           Office of Audits
+           Office of Inspector General
+           U.S. General Services Administration
+
+
+
+
+           Audit of the Postpayment
+           Audit Process
+           Transportation Audits Division
+           Federal Acquisition Service
+           Report Number A120169/Q/9/P14002
+           March 31, 2014
+
+
+
+
+A120169/Q/9/P14002
+                       Office of Audits
+                       Office of Inspector General
+                       U.S. General Services Administration
+
+
+                                         REPORT ABSTRACT
+OBJECTIVE                       Audit of the Postpayment Audit Process, Transportation Audits Division,
+ To determine whether the       Federal Acquisition Service
+ Transportation Audits          Report Number A120169/Q/9/P14002
+ Division's postpayment audit   March 31, 2014
+ process effectively ensures    WHAT WE FOUND
+ the maximum recovery of        We identified the following during our audit:
+ transportation overpayments    Finding 1 – The Transportation Audits Division needs to analyze existing performance
+ within the 3-year timeframe    data and assess its staffing levels to ensure maximum recovery of overcharges.
+ established under 31 United    Finding 2 – The Contracting Officer’s Technical Representative’s lack of enforcement of
+ States Code Section 3726.      the terms and conditions in the postpayment contract’s Statement of Work exposes the
+                                Government’s interests to non-compliance.
+                                Finding 3 – The Transportation Audits Division’s exclusion of a required security provision
+                                in its Statement of Work and non-compliance with GSA’s Information Technology Security
+                                Policy subjects government data to risk.
+                                Finding 4 – The Transportation Audits Division is not updating its internal audit tracking
+                                system to ensure that agencies comply with 41 CFR 102-18.425.
+                                WHAT WE RECOMMEND
+                                Based on our audit findings, we recommend the Commissioner of the Federal Acquisition
+                                Service:
+                                1. Strengthen the Transportation Audits Division’s postpayment audit process to
+                                    maximize collections by:
+                                         a. Performing in-depth analysis of available transportation data;
+                                         b. Maximizing the use of tolling agreements;
+                                         c. Conducting a study that addresses the staffing requirements needed to meet
+                                             its future workload; and
+                                         d. Developing procedures within the Office of Travel and Transportation under
+                                             FAS’s Travel, Motor Vehicle, and Card Service portfolio to minimize any
+                                             perceived conflict of interest.
+                                2. Provide proper guidance and supervision to ensure that the Contracting Officer’s
+                                    Technical Representative enforces the terms and conditions outlined in the
+                                    Statement of Work.
+                                3. Immediately modify the current Statement of Work to include the required security
+                                    provisions and ensure that those provisions are notated in any future solicitation
+                                    and/or Statement of Work for postpayment audits.
+                                4. Ensure the required security clearances for their postpayment auditors complies with
+                                    GSA Order CIO P 2100.1D.
+                                5. Ensure that the Accounts Receivable Tracking System is current by updating the
+Pacific Rim                         number of invoices received for postpayment audit.
+Field Audit Office (JA-9)       MANAGEMENT COMMENTS
+450 Golden Gate Avenue          The Commissioner of the Federal Acquisition Service concurred with our
+Room 7-5262                     recommendations. Management’s comments can be found in their entirety in
+San Francisco, CA 94102         Appendix B.
+(415)522-2744
+
+
+
+
+     A120169/Q/9/P14002                                  i
+                  Office of Audits
+                  Office of Inspector General
+                  U.S. General Services Administration
+
+ DATE:            March 31, 2014
+ TO:              Thomas A. Sharpe, Jr.
+                  Commissioner, Federal Acquisition Service (Q)
+
+
+
+
+ FROM:            Perla Corpus
+                  Audit Manager, Pacific Rim Field Audit Office
+ SUBJECT:         Audit of the Postpayment Audit Process,
+                  Transportation Audits Division, Federal Acquisition Service
+                  A120169/Q/9/P14002
+
+This report presents the results of our audit of the postpayment audit process in the
+Transportation Audits Division of the Federal Acquisition Service. Our findings and
+recommendations are summarized in the Report Abstract. Instructions regarding the
+audit resolution process can be found in the email that transmitted this report.
+
+Your written comments to the draft report are included in Appendix B of this report.
+
+If you have any questions regarding this report, please contact me or any member of
+the audit team at the following:
+
+ Perla Corpus     Audit Manager        perla.corpus@gsaig.gov        (415) 522-2733
+ Jeremy Martin    Auditor-In-Charge    jeremy.martin@gsaig.gov       (202) 273-7378
+ Eric Madariaga   Auditor              eric.madariaga@gsaig.gov      (415) 522-2730
+
+On behalf of the audit team, I would like to thank you and your staff for your assistance
+during this audit.
+
+
+
+
+A120169/Q/9/P14002                         ii
+Table of Contents
+
+Introduction .............................................................................................................. 1
+
+Results
+Finding 1 – The Transportation Audits Division needs to analyze existing
+           performance data and assess its staffing levels to ensure maximum
+           recovery of overcharges. ......................................................................... 3
+           Recommendation 1 ................................................................................. 6
+           Management Comments ......................................................................... 7
+Finding 2 – The Contracting Officer’s Technical Representative’s lack of
+           enforcement of the terms and conditions in the postpayment
+           contract’s Statement of Work exposes the Government’s interests to
+           non-compliance. ...................................................................................... 7
+           Recommendation 2 ................................................................................. 8
+           Management Comments ......................................................................... 8
+Finding 3 – The Transportation Audits Division’s exclusion of a required security
+           provision in its Statement of Work and non-compliance with GSA’s
+           Information Technology Security Policy subjects government data to
+           risk. .......................................................................................................... 9
+           Recommendations 3 and 4.................................................................... 10
+           Management Comments ....................................................................... 10
+Finding 4 – The Transportation Audit Division is not updating its internal audit
+           tracking system to ensure that agencies comply with 41 CFR 102-
+           18.425. .................................................................................................. 10
+           Recommendation 5 ............................................................................... 11
+           Management Comments ....................................................................... 11
+Other Observations. ................................................................................................. 11
+
+Conclusion.............................................................................................................. 12
+
+Appendixes
+Appendix A – Purpose, Scope, and Methodology ............................................. A-1
+Appendix B – Management Comments .............................................................. B-1
+Appendix C – Report Distribution ....................................................................... C-1
+
+
+
+
+A120169/Q/9/P14002                                        iii
+Introduction
+Each agency that receives a bill for transporting individuals or property on behalf of the
+United States Government must verify the bill’s accuracy, as delineated in 31 United
+States Code (U.S.C.) Section 3726. This regulation grants authority for oversight of this
+process to the General Services Administration (GSA).               GSA established the
+Transportation Audits Division within the Travel, Motor Vehicle, and Card Services
+portfolio of the Federal Acquisition Service (FAS) to perform this oversight.
+
+The Division is responsible for identifying and recovering overcharges and other debts
+related to the estimated $16.3 billion in annual transportation bills paid by federal
+agencies to transportation service providers. Provider services include shipping goods
+(household and commodities) and transporting individuals (via airlines, trains, and
+ships). The Division is organized into three branches: Audit Policy and Review,
+Accounts and Collections, and Disputes Resolution.
+
+GSA developed detailed rules and regulations, incorporated into the Code of Federal
+Regulations (CFR), to assist federal agencies in complying with 31 U.S.C.
+Section 3726. The CFR provides agencies with an interpretation of statutes and other
+policies to assure that payments and payment systems for agency transportation
+services are uniform and appropriate.
+
+The Division oversees compliance with 31 U.S.C. Section 3726 and the CFR by
+ensuring postpayment audits are performed on all federal transportation invoices. To
+fulfill this responsibility, the Division awarded three contracts for postpayment audit
+services using a two-tiered audit process. 1 Each contractor was awarded as either first
+or second tier for specific transportation modes. 2 For each transportation mode, the first
+tier contractor is given the initial opportunity to audit the transportation invoices. Once
+the first tier contractor has been given the opportunity to conduct its audit, the invoices
+are made available to the second tier contractor. This two-tier postpayment audit
+process allows for a second independent review, which has proven to be effective since
+second tier contractors are finding additional overcharges missed by the first.
+
+The postpayment audit process begins when the Division receives an agency’s paid
+transportation invoice in paper or electronic format. Paper invoices are entered into an
+internal tracking system and sent to the appropriate first tier contractor on a monthly
+basis. 3 Electronic invoices, received through an automated payment system, are
+
+
+
+
+1
+ The three contracts: GS-33F-V0029 Mid-South Transportation Analysts, Inc.; GS-33F-V0028 The
+Commercial Traffic Company; and GS-33F-V0030 Parsifal Corporation, were awarded on April 1, 2009,
+for 1 year with four 1-year options.
+2
+ The Division is responsible for auditing the following transportation modes: air cargo, air passenger,
+domestic household goods, foreign household goods, motor freight, rail freight, and steam ship.
+3
+ Paper invoices are any invoice mailed to the Division, including submissions through e-mail.
+
+
+A120169/Q/9/P14002                            1
+managed by the Division through internal audit schedules. 4 Depending on the
+transportation mode, the electronic invoices are available to the first tier contractor 60 to
+90 days after payment and to the second tier contractor 90 to 180 days after payment.
+
+Once received, the first tier contractor audits the invoices and issues an overcharge, if
+found. 5 The first tier contractor holds invoices with identified overcharges and makes
+clear invoices available to the second tier contractor for review. 6 The contracts require
+all audits to be completed within 30 days from the contractor’s receipt of invoice.
+
+Upon the contractor issuing an overcharge, the provider has 60 days to dispute or
+protest all or any portion of the amount due to the Government. Within 30 days of a
+notice of protest, the contractor that issued the overcharge has two options: (1) allow
+the protest, which cancels the overcharge; or (2) deny the protest, which requires the
+provider to pay the full amount. The Accounts and Collections Branch is responsible for
+collecting all overcharges due from the provider. 7
+
+Our objective was to determine whether the Division's postpayment audit process
+effectively ensures the maximum recovery of transportation overpayments within the 3-
+year timeframe established under 31 United States Code Section 3726.
+
+See Appendix A – Purpose, Scope, and Methodology for additional details.
+
+
+
+
+4
+ The Division prepares audit schedules to provide notice to contractors when electronic invoices will be
+available to audit. The audit schedule for each contractor is organized by transportation mode and helps
+prevent first and second tier contractors from auditing electronic invoices simultaneously.
+5
+ An overcharge is notification that there is an overbilling on an invoice. Once an overcharge is issued, it
+is entered into the Division’s Transportation Accounts Receivable Payable System (TARPS) and a paper
+notification is mailed to the responsible provider.
+6
+ Clear invoices are paid transportation bills where no billing errors or overbillings were found.
+7
+ Based on a negotiated percentage, the contractors are compensated for the overcharges that are
+successfully collected by the Division.
+
+
+A120169/Q/9/P14002                              2
+Results
+Finding 1 – The Transportation Audits Division needs to analyze existing
+performance data and assess its staffing levels to ensure maximum recovery of
+overcharges.
+
+The Division cannot ensure it is recovering the maximum amount of overcharges from
+transportation providers because it does not analyze existing performance data and has
+not assessed its staffing levels. GSA may conduct postpayment audits of transportation
+invoices of any federal agency after an invoice is paid under 31 U.S.C. Section 3726;
+however, the collection of overcharges is limited to 3 years after payment (excluding
+time of war). We also identified a conflict of interest within the FAS Office of Travel and
+Transportation that may impede recovery of overcharges.
+
+Performance Data
+
+The Division is not analyzing existing data to assess its performance or that of its
+postpayment audit contractors. Consequently, the Division is unable to either evaluate
+the strengths and weaknesses of its postpayment audit processes or make sound
+business decisions affecting the collection of overcharges. We were able to evaluate
+the performance of the Division and its contractors using available data for the following
+areas: 8
+
+        •   Lag Times 9
+        •   Collection Rates
+        •   Expiring Collections
+
+Lag Times. From 2009 through 2011, contractors issued overcharges 260 days after
+the invoice paid date for the first tier audit and 738 days for the second tier audit (see
+Figure 1).
+
+                 Figure 1 – Postpayment Lag Times by Audit Tier (Days)
+
+                    Calendar                  First                   Second
+                 Year Bill Paid In         Tier Audits              Tier Audits
+                       2009                     288                      745
+                       2010                     240                      742
+                       2011                     259                      588
+                             10
+                     Average                    260                      737
+
+
+
+8
+ Data used during this audit was captured in TARPS.
+9
+ Lag time is equal to the number of calendar days elapsed from the date the invoice was paid to the date
+the overcharge was issued. The lag includes the time it takes for agencies to mail paper invoices to the
+Division and the one-month processing time it takes for the Division to forward paper invoices to the
+contractors.
+10
+  Average days are weighted by the number of overcharges issued during the year in which the bill was
+paid.
+
+
+A120169/Q/9/P14002                             3
+Division officials informed us that an agreement with the Department of Defense to
+delay audits of transportation bills for 180 days for quality assurance purposes
+contributed to contractor lag times. However, accounting for this exception, no other
+explanation was provided for lag times exceeding this 180-day delay by 80 and 557
+days for first tier and second tier audits, respectively. 11 We note that the length of time
+between the date when the contractor received the invoice and issued an overcharge
+could not be determined as the contractors’ invoice receipt date is not tracked;
+therefore, we could not account for this in our analysis.
+
+We determined a correlation exists between the number of days an overcharge was
+issued after payment and the percentage of overcharges uncollected (see Figure 2).
+The longer contractors took to issue an overcharge, the likelihood increased that an
+overcharge was not collected.
+
+                                               Figure 2 Correlation between Increased Lag Times and Percentage of
+                                                                     Overcharges Uncollected
+
+
+                                                          Overcharges Issued for Bills Paid During 2007 - 2009
+                                          40
+     Percent of Overcharges Uncollected
+
+
+
+
+                                          35
+
+                                          30
+
+                                          25
+
+                                          20
+
+                                          15
+
+                                          10
+
+                                          5
+
+                                          0
+                                                    0 - 199         200 - 399              400 - 599                600 - 799   800+
+                                                                       Number of Days Overcharge was Issued After Payment
+
+
+
+
+For bills paid during 2007 to 2009 the Division issued overcharges of $33.1 million, of
+which, $6.3 million were written off as uncollectible. 12 Less than 10 percent of the
+overcharges were uncollected if the lag time was less than 400 days. For overcharges
+with lag times between 600 and 799 days, the percentage of uncollected overcharges
+rose to over 25 percent and for lag times of at least 800 days nearly 35 percent. The
+correlation between the lag time of an overcharge and the percent uncollected
+highlights the importance of identifying overcharges early in the postpayment audit
+process.
+
+
+
+11
+  Weighted average of 260 days less 180 days equals an 80 day lag for first tier audits. Weighted
+average of 737 days less 180 days equals a 557 day lag for second tier audits.
+12
+  Since the majority of invoices paid during 2010 and all invoices paid since 2011 have not yet exceeded
+the 3-year limitation, the collection implications for the lag times in Figure 1 cannot yet be determined.
+
+
+A120169/Q/9/P14002                                                                    4
+Collection Rates. While data are readily available, the Division is not tracking its
+collection rates and cannot determine its collections performance. We calculated the
+collection rate to ascertain the Division’s performance for the years 2007 to 2009 (see
+Figure 3). 13 The Division could use these annual collection rates to continuously
+improve its postpayment audit process.
+
+        Figure 3 - Collection Rates for 3-year Period by Contractor (Percent)
+
+            Year
+          Bill Paid           Mid-South           Commercial Traffic             Parsifal
+           2007                   96                    45                         96
+           2008                   92                    63                         89
+           2009                   96                    66                         94
+
+Expiring Collections. The Division does not use available data to prevent overcharges
+from expiring. As of the end of August 2012, overcharges worth $3.6 million were due
+to expire by December 31, 2012. In response to a 2010 Civilian Board of Contract
+Appeals decision that reduced the statute of limitations for overcharge collection from
+10 to 3 years, the Division introduced tolling agreements. 14 However, of the top ten
+providers with the most outstanding overcharges, only three had a tolling agreement.
+
+We performed further analysis on the $3.6 million in overcharges and identified that 21
+percent ($770,059) were not protected by a tolling agreement and were written off by
+the Division. Had the Division been able to establish a tolling agreement, the likelihood
+of collection could have increased.
+
+By collecting, analyzing, and benchmarking lag times, collection rates, and expiring
+collections, the Division can prioritize its collection efforts to increase the likelihood of
+recovering overcharges. The Division needs to improve data analysis techniques to
+increase collections. In addition, the Division should use tolling agreements to the
+maximum extent possible to extend the collection of overcharges beyond the 3-year
+statute.
+
+Staffing Analysis
+
+The Division has not completed an analysis of staffing requirements needed to meet its
+current and future workload, jeopardizing its ability to maximize the collection of
+transportation overcharges.
+
+Division management has not formally addressed how it will accomplish its mission with
+current staff levels. In the last 2 years, the Division lost 40 percent of its management
+team with at least 35 years of experience. As of February 2013, the Division lost its
+
+13
+  We calculated the collection rate by dividing the total number of overcharges collected by the total
+number of overcharges for each year respectively.
+14
+  A tolling agreement is a contract between the provider and the Division that allows collection of
+transportation overcharges exceeding the 3-year statute of limitations.
+
+
+A120169/Q/9/P14002                            5
+Director (GS-15), one branch chief (GS-14), two supervisors (GS-13s), and three senior
+employees (GS-11s or GS-12s) to retirement. The Accounts and Collections Branch
+alone lost its branch chief, two GS-13 supervisors, and two senior employees to
+retirement, 33 percent of the Branch’s employees.
+
+Although the Director position was filled through internal promotion, the Division was
+unable to backfill other vacancies due to an agency-wide hiring freeze. 15 To ensure
+coverage for all branches, management has informally shuffled personnel to cover the
+workload. However, temporarily reassigning employees between branches is not a
+long-term solution to resolving staff issues.
+
+The Division is currently commissioning a study to assess its business processes. 16 As
+part of this study, the Division should include a thorough analysis of staffing
+requirements needed to meet future workload.
+
+Perceived Conflict of Interest
+
+A perceived conflict of interest could occur within the Office of Travel and Transportation
+due to competing interests. As a result, management decisions affecting the Division
+could be unduly influenced by secondary interests, which may affect recovery of
+overcharges.
+
+The Division is part of the Office of Travel and Transportation under FAS’s Travel, Motor
+Vehicle, and Card Service portfolio. The Director of the Office of Travel and
+Transportation oversees not only the Division but also travel and transportation
+programs such as the City Pair Program, 17 whereby the Division is responsible for
+collecting provider overcharges. Hence, management decisions regarding providers
+who participate in travel and transportation programs could impact the postpayment
+auditing process. To minimize or eliminate the perceived conflict of interest FAS should
+develop procedures to ensure that competing interests are addressed.
+
+Recommendation 1
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+1. Strengthen the Transportation Audits Division’s postpayment audit process to
+   maximize collections by:
+   a. Performing in-depth analysis of available transportation data;
+   b. Maximizing the use of tolling agreements;
+
+
+15
+  The Acting GSA Administrator imposed a GSA-wide hiring freeze on July 17, 2012.
+16
+  The purpose of the proposed study is to acquire business process management and consulting services
+for the Division. These services include an assessment of the Division’s personnel and database
+systems.
+17
+  The City Pair Program offers travelers on official government business airline fares with considerable
+discounts from comparable commercial fares.
+
+
+A120169/Q/9/P14002                             6
+     c. Conducting a study that addresses the staffing requirements needed to meet its
+        future workload; and
+     d. Developing procedures within the Office of Travel and Transportation under
+        FAS’s Travel, Motor Vehicle, and Card Service Portfolio to minimize any
+        perceived conflict of interest.
+
+Management Comments
+
+The Commissioner of the Federal Acquisition Service concurred with our
+recommendation. Management’s written comments to this report are included in their
+entirety as Appendix B.
+
+Finding 2 – The Contracting Officer’s Technical Representative’s lack of
+enforcement of the terms and conditions in the postpayment contract’s
+Statement of Work exposes the Government’s interests to non-compliance.
+
+The Contracting Officer’s Technical Representative (COTR) is not enforcing the terms
+and conditions of the contract’s Statement of Work (SOW) due to the Division’s lack of
+oversight. As a result, the Government’s interests are not protected against contractor
+non-compliance.
+
+Despite receiving the required COTR training, the Division has not provided adequate
+supervision to ensure that the appointed COTR enforces the SOW requirements. We
+noted that several of the SOW’s terms and conditions were not enforced, including:
+(1) obtaining certain deliverables from contractors, (2) monitoring contractor compliance
+based on the contract’s 30-day completion timeframe, (3) ensuring that second tier
+audits are performed as specified in the SOW, and (4) verifying qualifications of
+contractors.
+
+Deliverables. The SOW requires that contractors provide two monthly deliverables:
+Number of Transportation Bills Audited and Number of Protests Processed. 18 However,
+the COTR did not obtain these reports from all contractors. In fact, we could only
+confirm that one contractor was even tracking the data necessary to provide the
+required deliverables. The Division cannot determine the universe of audits completed
+without these deliverables.
+
+Completion Timeline. Audit schedules are not being followed by a second tier
+contractor. The contractor had not reviewed available foreign household good
+transportation bills for the life of the contact due to a miscommunication between the
+Division and the contractor and the Division’s lack of oversight. 19 A minimum of 4,000
+transportation bills, valued at $21 million, were available for review in 2011 alone. Also,
+as of September 2012, the contractor was reviewing domestic household good
+electronic bills paid over 2 years prior, instead of 90-180 days as specified in the audit
+
+18
+  A protest is any dispute by the transportation service provider concerning a Notice of Overcharge or
+other type of billing error.
+19
+  The period of performance was initiated on April 1, 2009.
+
+
+A120169/Q/9/P14002                            7
+schedule. The COTR’s lack of follow-up on the audit schedules hindered the Division’s
+ability to issue and collect potential overcharges.
+
+Second Tier Audits. The SOW requires each second tier contractor to audit all
+transportation bills it receives. The COTR is not ensuring required audits under each
+transportation mode are undergoing the second tier audit, specifically audits of rail
+freight bills from 2009 to 2012. 20 In 2011 alone, there were over 6,000 rail freight bills
+not audited by the second tier contractor. The Division did not provide an explanation
+for the failure to conduct a second tier audit on rail freight transportation bills.
+Management’s lack of COTR oversight has reduced the likelihood of recovering
+additional overcharges.
+
+Contractor Qualifications. The SOW states that postpayment auditors must have a
+minimum of 7 years general transportation experience and 4 years of specialized
+experience in auditing freight and/or passenger bills. The COTR did not verify the
+qualifications of contractor personnel because she was not aware it was a COTR
+responsibility. As a result, two postpayment auditors performed audits while not
+qualified.
+
+Had the COTR ensured contractors were submitting required deliverables, complying
+with audit schedules, and conducting second tier audits of all transportation modes, the
+Division could have identified and corrected issues in a timely manner and increased
+collection of overcharges.     In addition, unqualified personnel hired to perform
+postpayment audits may have increased the risk of inaccurate audits and potentially
+reduced collections resulting from overlooked overcharges. With proper COTR
+supervision, deficiencies may have been avoided.
+
+Recommendation 2
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+     2. Provide proper guidance and supervision to ensure that the Contracting Officer’s
+        Technical Representative enforces the terms and conditions outlined in the
+        Statement of Work.
+
+Management Comments
+
+The Commissioner of the Federal Acquisition Service concurred with our
+recommendation. Management’s written comments to this report are included in their
+entirety as Appendix B.
+
+
+
+
+20
+ All transportation bills are required to undergo a second tier audit except for steam ship bills.
+
+
+A120169/Q/9/P14002                               8
+Finding 3 –The Transportation Audits Division’s exclusion of a required security
+provision in its Statement of Work and non-compliance with GSA’s Information
+Technology Security Policy subjects government data to risk.
+
+As mandated by GSA’s Information Technology (IT) Security Policy, the Division did not
+include security provisions in the SOW and did not ensure its contractors underwent
+background screenings prior to gaining access to GSA systems. As a result, personally
+identifiable information (such as social security numbers) available on GSA systems
+was at risk. According to GSA Order CIO P 2100.1D, dated June 21, 2007, GSA
+contractors accessing GSA information systems must undergo background screenings,
+before being allowed to use GSA systems. 21
+
+Exclusion of security provision in the SOW
+
+Because security provisions were not stated in the SOW, Division personnel and
+contractors were not aware of the requirement to obtain background screenings prior to
+accessing GSA systems. GSA Order CIO P 2100.1D, dated June 21, 2007, states,
+“contracting officers shall ensure that security requirements are included in task orders
+and contracts for all GSA IT systems.”
+
+Non-compliance with GSA IT Security Policy
+
+For each contract award, postpayment auditors did not have the required security
+clearance prior to obtaining access to the Division’s database systems. Management
+officials representing two contractors stated that they were not required to obtain
+employee background screenings to access systems, such as TARPS, which contained
+personally identifiable information. We determined that 12 of the 23 postpayment
+auditors with access to TARPS did not undergo background investigations, 8 had
+insufficient clearance, and the remaining 3 obtained the required security clearance 6
+months after the award date. 22 As a result, none of the postpayment auditors completed
+the required background screening prior to gaining access to GSA systems, as
+stipulated in GSA Order CIO P 2100.1D. 23
+
+To ensure compliance, the Division must immediately modify the current SOW to
+include security provisions and ensure that these provisions are notated in any future
+solicitation and/or SOW for postpayment audits.
+
+
+
+
+21
+  Postpayment auditors were granted access to TARPS during calendar years 2008 - 2010.
+22
+  The Director of the Transportation Audits Division stated that postpayment auditors are required to
+undergo background investigations at the moderate public trust risk level. However, 8 postpayment
+auditors only had clearance for the low public trust risk level and the remaining 12 did not have any
+security clearance.
+23
+  With the current postpayment contract due to expire on March 31, 2014, contractors are subject to the
+same requirements for obtaining background screenings prior to gaining access to a GSA system
+(GSA Order CIO P 2100.1H effective September 24, 2012).
+
+
+A120169/Q/9/P14002                            9
+Recommendations 3 and 4
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+3. Immediately modify the current Statement of Work to include the required security
+   provisions and ensure that those provisions are notated in any future solicitation
+   and/or Statement of Work for postpayment audits.
+4. Ensure the required security clearances for their postpayment auditors complies with
+   GSA Order CIO P 2100.1D.
+
+Management Comments
+
+The Commissioner of the Federal Acquisition Service concurred with our
+recommendations. Management’s written comments to this report are included in their
+entirety as Appendix B.
+
+Finding 4 – The Transportation Audit Division is not updating its internal audit
+tracking system to ensure that agencies comply with 41 CFR 102-18.425.
+
+During 2012, the Division had a 4-month backlog of transportation bills that were not
+recorded into the Accounts Receivable Tracking System (ARTS). 24 As a result, the
+Division is unable to ensure agencies are submitting transportation bills as required by
+41 CFR 102-118.425.
+
+To initiate the postpayment audit process for paper transportation bills, the GSA
+Transportation Audits Handbook requires customer agencies to send the Division their
+transportation bills on a monthly basis. The Division tabulates the number and
+monetary amount of transportation bills received, sorts transportation bills by
+transportation mode, and inputs the results into ARTS. The system then generates
+letters to agencies that failed to submit their monthly transportation bills. However,
+since the Division failed to input transportation bills into ARTS, no letters were
+generated during April to July of 2012.
+
+In addition to the lack of letters from ARTS, there is no documentation available to
+support that the Division attempted to contact agencies to obtain monthly paper
+transportation bills; however, follow-up is further complicated due to missing contact
+information on certain invoice submissions. Without proper follow-up, agencies are able
+to hold transportation bills for extended amounts of time, delaying the initiation of audits.
+In October 2012, the Division received nearly 3,000 transportation bills paid in 2008,
+totaling approximately $18 million.             Since the 3-year limitation expired, the
+transportation bills did not undergo the postpayment audit process. Timely submission
+of transportation bills is critical to recovering overcharges before expiration.
+
+
+
+24
+  This database is critical in the postpayment audit process because it tracks agencies’ paid paper
+transportation bills submitted to GSA.
+
+
+A120169/Q/9/P14002                          10
+Recommendation 5
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+5. Ensure that the Accounts Receivable Tracking System is current by updating the
+   number of invoices received for postpayment audit.
+
+Management Comments
+
+The Commissioner of the Federal Acquisition Service concurred with our
+recommendation. Management’s written comments to this report are included in their
+entirety as Appendix B.
+
+Other Observations
+
+During the course of our audit, we noted issues that we want to bring to management’s
+attention. There are no recommendations for the following issues:
+
+   •   The Division ceased issuing travel overcharges by Foreign Service Officers
+       (FSO) resulting in an estimated $814,000 of uncollected overcharges in 2010.
+       According to 5 U.S.C. Sections 5701-09, FSOs are not required to use the City
+       Pair Program. In addition, State Department policy designates any of its
+       employees on foreign travel as a FSO. Through discussions, the Division agreed
+       with the State Department that FSOs are not mandatory users of the City Pair
+       Program and notified its contractors to stop issuing overcharges on
+       corresponding air passenger transportation bills.
+
+   •   The Division is unable to audit transportation bills from freight shippers
+       (subcontractors) under the Defense Transportation Coordination Initiative
+       because the shipper’s rates are not available to Division contractors. The
+       Division has been in contact with the Defense Transportation Coordination
+       Initiative’s contracting officer; however, the contracting officer does not want to
+       make the subcontractor rates available.           A contractor estimated annual
+       overcharges of $3 million under the Defense Transportation Coordination
+       Initiative contract.
+
+
+
+
+A120169/Q/9/P14002                      11
+Conclusion
+The Division is not performing effective oversight of the postpayment audit process to
+ensure the maximum recovery of transportation overpayments within the 3-year
+timeframe established by 31 U.S.C. Section 3726. As a result, the Division was unable
+to collect $6.3 million in overcharges during calendar years 2007 – 2009.
+
+To improve collection of overcharges before they expire, the Division should analyze
+existing data to assess postpayment audit performance to reduce the significant lag
+between the bill pay date and the issuance of an overcharge. A reduction in lag time
+could improve its collection rates and amounts.
+
+Additionally, the Division has not formally addressed how it will accomplish its mission
+with the loss of significant experience through retirement, including 40 percent of its
+management team and 33 percent of its staff in the Accounts and Collections Branch.
+
+To minimize potential conflicts of interest within the Travel, Motor Vehicle, and Card
+Service portfolio, FAS must develop and implement procedures regarding management
+decisions affecting the collection of overcharges.
+
+FAS management should also address the fact that the contracting officer’s technical
+representative is not enforcing the terms and conditions of the contract’s statement of
+work including: deliverables, timelines, second tier audits, and contractor qualifications.
+
+To adhere to GSA IT Security Policy, the Division must ensure that security provisions
+are notated on current and future solicitations and/or statements of work for
+postpayment audits. In addition, contractors must have background screenings prior to
+accessing GSA IT systems for the Division to be in compliance with the security policy.
+
+Finally, the Division is not updating its internal audit tracking system to ensure agencies
+are submitting paper transportation bills, as required by 41 CFR 102-118.425, in a
+timely manner. This reduces the Division’s ability to assess its performance.
+
+Given the $16.3 billion spent in government-wide transportation expenses in fiscal
+year 2012, implementing the audit report’s recommendations could reduce
+transportation overcharges that may remain uncollected.
+
+
+
+
+A120169/Q/9/P14002                      12
+Appendix A – Purpose, Scope, and Methodology
+Purpose
+
+This is the second of two transportation audits included in the Office of Inspector
+General Audit Plan for fiscal year 2012. The first audit focused on the Division’s
+prepayment audit process. 25 This audit is focused on the Division’s postpayment audit
+process. We performed both audits at the request of the Federal Acquisition Service’s
+Office of Travel, Motor Vehicle, and Card Services.
+
+Scope
+
+Our audit focused on the Division’s postpayment audit processes for transportation bills
+paid by agencies during 2007 – 2011.
+
+Methodology
+
+To accomplish the audit objective, we:
+
+     •   Reviewed relevant criteria, including the United States Code and the Code of
+         Federal Regulations;
+     •   Interviewed the Division’s Director, three Branch Chiefs, and postpayment audit
+         staff;
+     •   Conducted site visits to review the postpayment contractors’ processes for
+         auditing transportation bills;
+     •   Obtained and analyzed postpayment audit data from the Division’s TARPS
+         database; 26
+     •   Determined lag times of overcharges for 2009 – 2011 bills based on payment
+         and overcharge issuance dates;
+     •   Determined whether a correlation exists between the lag times of overcharges
+         and the likelihood of collection;
+     •   Calculated collection rates of the postpayment contractors for bills paid during
+         2007 – 2009;
+     •   Determined the amount of overcharges that were to expire during the 4-month
+         period ended December 31, 2012;
+     •   Ascertained the number of employee retirements in the Division during 2012 and
+         2013;
+     •   Assessed potential conflicts of interest between the Division and FAS
+         management;
+     •   Reviewed the SOW and the COTR’s oversight of the postpayment contractors;
+
+
+
+25
+  Final Report titled, Audit of the Prepayment Audit Process, Transportation Audits Division, Federal
+Acquisition Service, Report Number A120060/Q/9/P13001 issued March 14, 2013.
+26
+  We did not audit the reliability of TARPS data.
+
+
+A120169/Q/9/P14002                          A-1
+Appendix A – Purpose, Scope, and Methodology (cont.)
+   •   Examined the security clearance process for the Division’s contractors; and
+   •   Evaluated the Division’s timeliness of updating ARTS.
+
+We conducted the audit from August 2012 to December 2012 in accordance with
+generally accepted government auditing standards. Those standards require that we
+plan and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+
+Internal Controls
+
+The scope of our work was limited to addressing the objective of this audit. Thus, our
+assessment and evaluation of internal controls was restricted to those issues identified
+in the Results section of this report.
+
+
+
+
+A120169/Q/9/P14002                     A-2
+Appendix B – Management Comments
+
+
+
+
+A120169/Q/9/P14002    B-1
+Appendix B – Management Comments (cont.)
+
+
+
+
+A120169/Q/9/P14002     B-2
+Appendix B – Management Comments (cont.)
+
+
+
+
+A120169/Q/9/P14002     B-3
+Appendix C – Report Distribution
+Commissioner, Federal Acquisition Service (Q)
+
+Deputy Commissioner, Federal Acquisition Service (Q1)
+
+Chief of Staff, Federal Acquisition Service (Q0A)
+
+Controller, Federal Acquisition Service (BF)
+
+Assistant Commissioner, Office of Travel, Motor Vehicle, and Card Services (QM)
+
+Director, Office of Travel and Transportation Services (QMC)
+
+Program Manager, GAO/IG Audit Response Branch (H1C)
+
+Federal Acquisition Service Audit Liaison, GAO/IG Audit Response Branch (H1C)
+
+Assistant Inspector General for Auditing (JA)
+
+Deputy Assistant Inspector General for Investigations (JID)
+
+Director, Audit Planning, Policy, and Operations Staff (JAO)
+
+
+
+
+A120169/Q/9/P14002                     C-1
+

@@ -1,0 +1,1218 @@
+2010
+HorizonLogistics, LLC
+
+Michael J. Curry, CTB
+
+
+
+
+[LTLMODULE ]1
+A Whitepaper on the ins and outs of shipping LTL
+                                                           LTL Module 1
+
+Table of Contents
+Overview................................
+                                     ................................
+                                                                  ................................
+                                                                                               ................................
+                                                                                                                            .......................3
+What is LTL?
+           ................................
+                                        ................................
+                                                                     ................................
+                                                                                                  ................................
+                                                                                                                               ..................4
+What is a Capacity Load?
+                      ................................
+                                                   ................................
+                                                                                ................................
+                                                                                                             .............................
+                                                                                                                                        5
+What are Cubic Capacity Rules?
+                            ................................
+                                                         ................................
+                                                                                      ................................
+                                                                                                                   ..................8
+How are Freight Charges Calculated?
+                                ................................
+                                                             ................................
+                                                                                          ................................
+                                                                                                                       ........11
+What are Classes and where can I find them?
+                                         ................................
+                                                                      ................................
+                                                                                                   ..........................
+                                                                                                                           15
+What are Accessorial Charges?
+                           ................................
+                                                        ................................
+                                                                                     ................................
+                                                                                                                  ..................19
+What are Liability Limitations?................................
+                                                            ................................
+                                                                                         ................................
+                                                                                                                      ..................21
+Preparing the Bill of Lading
+                           ................................
+                                                        ................................
+                                                                                     ................................
+                                                                                                                  ........................27
+Glossary................................
+                                     ................................
+                                                                  ................................
+                                                                                               ................................
+                                                                                                                            ......................29
+
+
+
+
+                                                                                                                                    2| P a g e
+                                         LTL Module 1
+
+                                             OVERVIEW
+
+The purpose of this tutorial is to give those with little or no experiencein LTL transportation the basic
+information needed to do their jobs . It provides an overview of the mechanics of the business and then
+goes into detail on specific areas that cause troublesboth  for new and experienced shippers. If there are
+still questions after reading the document, please feel free to call me at 972.81
+                                                                               3.5370.
+
+LTL carriers are generally defined by how much of the countrythey serve(territory) suchas nationwide,
+super-regional, regional, intrastateand niche.
+        Nationwide carriers service most points from coast  -to-coast and border to border.Examples
+        include YRC, ABF Freight, UPS Freight and Old Dominion.
+        Super-Regional carriersservice large areas made up of two or more regions. Examples include
+        AAA Cooper, Southeastern Freight Lines , R&L Transfer and Vitran.
+        Regional carriers service an area made up   group
+                                                       a of states that are within a defined area or
+        contiguous to each other. Examples include Dayton Freight, Wilson Trucking and New England
+        Motor Freight.
+        Intrastate carriers only service points within a single state. Examples include Cal State Xpress,
+        CalTop Logistics, SMT Transportation.
+        Niche carriers service lanes such as from coast-to-coast (California direct to the Carolinas for
+        instance).
+
+LTL carriers make their money by loading several shipments         theon
+                                                                       same trailer. A typical shipmentcan
+be handled(loaded and unloaded)        several times:
+       The o l cal (city) driver will pick up and return to the terminal with the shipment
+       It is unloaded at the terminal and reloaded on a line haul trailer to its next destination.    Note:
+       The shipment may go througheveral     s    terminals before reaching its destination.
+       The line haul or over    -the-road (OTR) driver will deliver the trailer to its next destination and so
+       on until it reaches the final destination.
+       Once at the final destination, the shipment will be unloaded           omfr the line haul trailer and
+       reloaded on a local trailer (sometimes called a city unit) and taken out for delivery.
+
+Most LTL carriers runon a schedule. Just like a bus or plane schedule, the loads are moved in certain
+lanes at the same time each day. Mov
+                                   ing on a schedule means that a trailer must complete loading by a
+ƐƉĞĐŝĨŝĐƚŝŵĞ;ŬŶŽǁŶĂƐĐƵƚŽĨĨƚŝŵĞͿƐŽŝƚĐĂŶĚĞ
+in time to unload or transfer the freightto another trailer for delivery accordingto the carriers
+͞standardƚƌĂŶƐŝƚƚŝŵĞƐ͘͟
+
+͞Standard transit time
+                     ͟is ĐĂƌƌŝĞƌ͛Ɛ
+                               ĂĚǀĞƌƚŝƐĞĚ͞
+                                          estimate͟ĨŽƌƚƌĂǀĞůĚĂǇƐƚŽĚĞƐƚŝŶ
+of scheduled delivery. The day of pick ŝƐĐŽŶƐŝĚĞƌĞĚ͞ĚĂǇϬ͘͟dŚĞĚĂǇĨ
+                                       up
+As an example, a shipment pickup on up Monday (day 0) with a three day transitshould
+                                                                                time deliver on
+Thursday (day 3).
+
+                                                                                             3| P a g e
+                                       LTL Module 1
+
+
+There are different types of service available from most carriers.
+       Standard serviceis the advertised transit time
+                                                    . It is an͞estimate͟
+                                                                        but not guaranteed.
+       Guaranteed servicetypically means the shipment willtendered for delivery by 5pm on the
+       standard delivery day. The charge for this service is usually 20 to 25% of ine   thehaul
+                                                                                            l   charge
+       added as anextra or accessorialcharge. Since most carriers advertise 90% or better-time     on
+       ƐĞƌǀŝĐĞ͕ǇŽƵƐŚŽƵůĚŶ͛ƚƵƐĞƚŚŝƐ
+                                      serviceunless the carrier has a history of missed deliveries or a
+       late shipment would cause a plant shutdown ormething  so     equally aspainful for the customer
+       and you.
+       Time definite deliverycan have several different components and vary by carrier. Needless to
+       say, the earlier the delivery, the higher the accessorial charge for the service. Appointment
+       deliveries or h
+                     sipments going to convention centers are often denied these service levels.
+           o Deliver by 3pm on the scheduled transit time
+           o Deliver by noon on the scheduled transit time
+           o Delivery by 10am on the scheduled transit time
+           o Delivery by 8am on the scheduled transit     imet
+
+Thenormal charges paid for a shipment cover the pickup, line haultransportationand deliveryonly. The
+carrier expects the shipper to have a dock to back their trailer in for loading, the freight to be staged and
+ready for loading upon arrival, assi
+                                 stance in loading of large items, pallet jack for loading pallets and the
+same conditions at the time of delivery. Anything over and above these conditionsis subject toextra or
+͞ĐĐĞƐƐŽƌŝĂů           ĐĐĞƐƐŽƌŝĂů
+                               ŚĂƌŐĞƐ͘͟ ĐŚĂƌŐĞƐ ĂƌĞ ĨŽƵŶĚ ŝŶ ƚŚĞ
+ĚŽǁŶůŽĂĚĞĚ ĨƌŽŵ ƚŚĞ ĐĂƌƌŝĞƌ͛Ɛ ǁĞďƐŝƚĞ͘ dŚĞƌĞ ĂƌĞ
+designed to obtain fees for any extra vices
+                                      ser performed by the carrier.
+
+Chargesare due and payable in 15 days unless you have negotiated longer terms with carrier. When the
+15 days starts varies by carrier but typically it is from the date of the invoice. Some are from the date of
+pickup and others are from the date of delivery.   Failure to pay within terms can result in the loss of
+discount and other fees for collection.
+
+The most common areas that create problems for shippers and result in higher charges are:
+      Freight that is not properly classified and packaged (See Chapter 5)
+      Freight that has the wrong weight (yes, you must include the pallet weight)
+      Accessorial charges not identified or added to the bill (Chapter 7)
+      Using too much of a trailerfor one shipment(See Chapters 2 and 3)
+
+
+
+
+                                                                                         4| P a g e
+                                         LTL Module 1
+
+                                            CHAPTER 1
+
+            What is LTL(less-than-truckload) and how is it different from TL (truckload)
+                                                                                      ?
+
+LTLcarrierswill define LTL in the
+                                ir rules tariffsdifferently. Below aretwo tariff examples:
+
+UPS Freight
+         :
+
+DEFINITION OF LESS THAN TRUCKLOAD (LTL) AND TRUCKLOAD
+                                             (SeeNotes 1 &2)
+
+1. Less than truckload
+                     (LTL) shipments  are those shipments which
+                                                              have an actual or billed weight of less
+than 20,000 lbs.and do not exceed 28 linear feet of a trailer
+                                                          .
+2. Truckload shipmentsare those shipments which have actual or billed weights of 20,000 lbs. or more
+and/or exceed 28 linear feet of a trailer.
+
+Note 1: When two or more shipments are tendered to Carrier from the same place during one calendar
+day for delivery to one place and the aggregate is equal to or exceeds 20,000 lbs. or 28 linear feet of a
+vehicle, theywill be consolidated and considered as one shipment.
+Note 2: LTL shipments are subject to weight groups L5C through M10M. Truckload shipments are
+subject to weight groups of M20M or greater.
+
+Con-Way Freight:
+In the application of this tariff, the terms
+                                           LTL, AQ, and TL shall be defined as follows:
+
+(a) LTLͶ ͚>ĞƐƐƚŚĂŶdƌƵĐŬůŽĂĚ͛ƐŚĂůůŵĞĂŶ
+                                all shipments subject to LTL class in the NMFC, weighing or
+rated as 19,999 pounds or less.
+(b) AQ Ͷ ͚ŶǇYƵĂŶƚŝƚǇ͛ƐŚĂůůŵĞĂŶĂůůƐŚŝƉŵĞŶƚƐƐƵďũĞ    the NMFC, weighing or rated as
+19,999 pounds or less.
+(c) TL Ͷ ͚dƌƵĐŬůŽĂĚ͛ ƐŚĂůů ŵĞĂŶ Ăůů ƐŚŝƉŵĞŶƚƐ ƐƵďũĞĐƚ
+20,000 pounds or more.
+
+Note that there are two conditions that must be met to qualify as LTL. is First
+                                                                            the weight and the second
+is the floor room taken up by a shipment. Using UPS Freight as an example, a shipment of Ping Pong
+balls might weigh 5,000 lbs but take up 30 feet of floor room when loaded. Even though the shipment
+meets the first criteria (le
+                           ss than 20,000 lbs), it fails the second (exceeds 28 feet of a trailer) and would
+be classified by UPS Freight as a truckload.
+
+EŽƚŝĐĞƚŚĂƚŽŶĞĐĂƌƌŝĞƌƐĂǇƐ͞ůĞƐƐƚŚĂŶϮϬ͕ϬϬϬůď
+same thing.If a shipment weighs 20,000 lbs or more     , the LTL carriers consider it a truckload or
+Capacity Load. LTL pricingwill not apply! For a truckload carrier this is called a partial (depending on
+how much floor room the shipment actually takes up when loaded)    and can be combined with one or
+more shipments to make a full truckload
+                                      .
+
+
+
+
+                                                                                             5| P a g e
+                                        LTL Module 1
+
+                                           CHAPTER
+                                                 2
+
+                                      What is a Capacity Load?
+
+A Capacity Load, sometimes called Full Visible Capacity, typically means single        that a shipment has
+utilized a large portion or all of the
+                                     available floor space on a trailer(usually a 28 foot trailer known as a
+pup). In order to be profitable, LTL carriers must maximize every cubic foot of space possible when
+loading a trailer.Space on a trailer is a perishable commodity      so once the trailerdeparts the carrier
+cannot go back and retrieve the unused space.     Just like empty seats on an airplane, the revenue is gone
+forever. When a shipment takes up a large part of a trailer,          a carrier may be forced to leave a
+shipment(s) behind because the trai  ler fills before all shipments are loaded. For that reason, the carriers
+have special rules designed to adjust the cost to the customer to recover the lost room for other
+shipments.ĂĐŚĐĂƌƌŝĞƌ͛ƐĚĞĨŝŶŝƚŝŽŶ  of Capacityis a little different but the one be
+                                                                                   low covers most cases.
+
+UPS Freight:
+ITEM 390-A
+CAPACITY LOAD
+           ʹMINIMUM CHARGE
+Any shipment tendered to Carrier that occupies the full visible capacity    (fills the trailer)of a vehicle or
+doubles trailer (See Note A) shall be subject to the minimum charge as provided below.
+1. The provisions of this item shall have no application in any case where the otherwise applicable
+charge is greater than the minimum charge providedein.      her
+Ϯ͘ dŚĞ ƚĞƌŵ ͞ŽĐĐƵƉŝĞƐ ƚŚĞ ĨƵůů ǀŝƐŝďůĞ ĐĂƉĂĐŝƚǇ͕͟
+extent each vehicle or doubles trailer is loaded and shall mean:
+         a. That quantity of freight which because of unusual shape or dimensions or                  ause
+                                                                                                        becof
+         necessity for segregation from other freight requires the entire capacity of a vehicle or doubles
+         trailer; or
+         b. That quantity of freight which exceeds 25 linear feet of vehicle or doubles trailer or 19,999
+         lbs.
+3. Each vehicle or doubles trailer loaded to capacity will be rated as a separate shipment and will be
+subject to the minimum charge provided below. When the charge is applicable to any vehicle or doubles
+trailer in the tender, the charge for that portion of the shipment loaded into the      st vehicle
+                                                                                           la       or doubles
+trailer (not loaded to capacity) will be rated as a separate shipment.
+4. Carrier shall notate on the bill of lading, freight bill or inspection report the size of the shipment or the
+number of vehicles or doubles trailers loaded capacityto         and if any additional vehicles or doubles
+trailers carrying less than capacity were furnished. Carrier will indicate the weight of that portion of the
+shipment on the vehicle or doubles trailer carrying less than a capacity load.
+5. On request ofthe consignor, Carrier will attempt to furnish the largest vehicle or doubles trailer
+available. The consignor will have the right to refuse the vehicle or doubles trailer offered, but once
+loading has begun, the provisions of this item shall apply.
+6. Should Carrier receive two or more shipments from one consignor, at one origin address, destined to
+one or more consignees at the same delivery address, during one calendar day, that if combined would
+ĐĂƵƐĞƚŚĞ͞ĨƵůůĐĂƉĂĐŝƚǇ͟ŽĨĂǀĞŚŝĐůĞŽƌĚŽƵďůĞƐ      r, then the aggregate shipments will be combined
+and considered as one shipment and will be subject to the provisions of this item.
+
+
+                                                                                           6| P a g e
+                                       LTL Module 1
+
+
+Notice that with this particular carrier, the shipment does not have to fill the pup but only take up 25
+feet. Some carriers are less.
+
+Pay particular attention to paragraph 6.
+                                       Some shippers will try to avoid the Capacity Load minimum
+charge by splitting the shipment.
+                               This will only work if the split shipments go out on different days.
+                                                                                                 If
+they are shipped onthe same day,they will be considered one shipment.
+
+
+
+
+                                                                                       7| P a g e
+                                       LTL Module 1
+
+                                          CHAPTER
+                                                3
+
+                                  What are Cubic Capacity Rules
+                                                             ?
+
+As mentioned earlier, carriers make their money  by utilizing as much of a trailer as they can. Light
+density freight takes up more room than high density freight. To balance out the trade off, the carriers
+ŚĂǀĞǁŚĂƚŝƐŬŶŽǁŶĂƐ͞ƵďŝĐĂƉĂĐŝƚǇDŝŶŝŵƵŵŚĂ        Žƌ͞ĞŶƐŝƚǇDŝŶŝŵƵŵŚĂƌŐ  . If a shipment
+takes up a predetermined amount of space, usually 750 cubic (varies
+                                                                  feet by carrier)and weighs less
+than 6 pounds (varies by carrier) per cubic foot, then the Cubic Capacity Rule kicks in and the weight of
+the shipment is recalculated and a new charge iserated.
+                                                   gen
+
+As an example, a 48x48x96 inch pallet = 1 28 cubic feet ((48x48x84 220,184
+                                                                     =       cubic inches/1728 (number
+of cubic inches in 1 cubic foot)). The pallet weighs
+                                                   640 lbs including the pallet weight.
+                                                                                     This works out to 5
+lbs per cubic foot640lbs/128cubi
+                   (              c feet). The first condition is met becauseisitless than 6 lbs per cubic
+fooƚ͘,ŽǁĞǀĞƌ͕ŝƚĚŽĞƐŶ͛ƚŵĞĞƚƚŚĞƐĞĐŽŶĚĐŽŶĚŝƚŝŽŶ                shipmenttakes upless than 750 cubic
+feet. How many pallets for one   shipment like this onecan be loaded before thecubic capacity rule
+would come into play?Five, the sixth pallet would exceed the second requirement of 750 cubic feet and
+cause the implementation of the rule.
+
+Below are two examples of the Cubic Capacity Rule:
+
+Estes Freight Lines:
+
+ITEM 615 MINIMUM CH
+                  ARGEʹCUBIC CAPACITY AND DENSITY
+                                             APPLICATION
+
+1. Any shipment which as tendered exceeds 250 cubic feetŽĨ ĐĂƌƌŝĞƌ͛Ɛ ǀĞŚŝĐůĞ ǁŝ
+Minimum Chargebased on4 pounds per cubic foot͕ĂƚƚŚĞĐƵƐƚŽŵĞƌ͛ƐĂƉƉůŝĐĂď
+to a minimum discount of50%. Where a customer presently has a discount, either greater or lower than
+50%, such present discount will
+                            ĂƉƉůǇ͕;^ĞĞyDW>ͿŝĨƚŚĞĐƵƐƚŽŵĞƌ
+a Class 125 rate, the Minimum
+                            Charge for shipments su
+                                                 bject to this item will be 211% of the applicable
+base rate.
+
+CONDITIONS AND DEFINITIONS
+1. The cubic capacity of the shipment shall be determined by totaling the cubic feet of all articles, pieces
+and packaged units in the shipment, in accordance with NMFC Item 110, Section 8(a) and (b). If the Bill
+of Ladingor packaging provided instructions that in any way prohibits the utilization of the trailer space
+between the trailer ceiling and the top of the articles, the height of the article or articles will be
+considered as 84 inches.
+2. The provisions of this item are not applicable in connection with shipments subject to VOL or TL rates
+or chargesor minimum charges per vehicle used.
+------
+
+
+
+
+                                                                                        8| P a g e
+                                       LTL Module 1
+
+EXAMPLE: A shipment occupying 300 cubic feet and moving between       nts poi
+                                                                          subject to Rate Basis
+number 500, would be subject to a minimum charge, as follows: (NOTE)
+       ϯϬϬĐƵďŝĐĨĞĞƚĂƚϰƉŽƵŶĚƐƉĞƌĐƵďŝĐĨĞĞƚ͙͙͙͙͙  .͙͙͙͙͙͙͙͙͘͘͘ϭ͕ϮϬϬƉŽƵŶĚƐ
+       ůĂƐƐϭϮϱƌĂƚĞĨŽƌZĂƚĞĂƐŝƐEƵŵďĞƌ͙͙͙͙͙͙͙͙͙͙
+       1,200 pounĚƐŵƵůƚŝƉůŝĞĚďǇΨϲϳ͘ϳϭĐǁƚ͙͙͙͙͙͙͙͙͙͙͙͙͙͙͘
+       ΨϴϭϮ͘ϱϮĚŝƐĐŽƵŶƚĞĚďǇϱϱйƉƌŽĚƵĐĞƐĂŵŝŶŝŵƵŵĐ
+------
+NOTEʹThe figures used in this example are merely for the purpose of providing an example and may,
+or may not, reflect the char
+                          ges for any particular shipment.
+
+
+SMTL
+ITEM 611
+       -1
+                                   DENSITY MINIMUM CHARGE (NOTE)
+
+SUBJECT TO THE CONDITIONS LISTED    - Any shipment whichoccupies 750 cubic feet or more cubic
+capacity, and has an average density of less than 4 pounds per cubic , will
+                                                                        footbe subject to a minimum
+charge as follows. A calculated weight shall be determined by multiplying the cubic capacity of the
+shipment by 6 pounds for each cubic foot or portion thereof. Multiply the calculated weight by the class
+100 rate from the cu
+                   rrent SMT 500 base class rate. Apply the customer published discount.
+
+CONDITIONS:
+1. When this item has application, the freight bill will indicate both the actual weight and the
+   calculated weight upon which the minimum charge will be assessed.
+2. Shipments subject to the provisions of this item will be subject to any otherwise applicable
+   discounts.
+3. The minimum charge applicable via this rule will not be greater than the TL or capacity load charge
+   (See Item 390) per vehicle used.
+4. The cubic capacity of thehipment
+                                s       will be determined by totaling the cubic feet of each packaged
+   unit in the shipment, in accordance with NMF 100 Series, Item 110, Section 8(a) and (b), except a
+   vertical dimension of eight(8) feet shall be used to determine the cube of the individu  al shipping
+   unit(s) when top loading of like cargo is precluded because of:
+               A) the nature of the article;
+               B) packaging or lack of packaging used;
+               ͿƉĂůůĞƚŝǌĂƚŝŽŶŝŶ͞ƉǇƌĂŵŝĚĞĚ͕͞͞ƌŽƵŶĚĞĚ
+               D) Specificinstructions by the shipper in the form of a Bill of Lading notation.
+   For the purpose of applying this item, if more than one shipment is tendered by one shipper at one
+   time of pickup, destined to the same consignee at one address, all shipments will be considered as
+   one shipment for the application of cube or density requirements.
+5. The density of each packaged unit will be determined in accordance with NMFC 100 Series, Item
+   110, Sections 8 (a) and (b).
+
+Note that in the firstexample, the cubic capacity rule goes into
+                                                               effect at 250 cubic feet, not 750. In the
+second example the density has to be less than 4 pounds per cubic         . Infoot
+                                                                                both cases, the vertical
+measurements will be 8 feet additional
+                                if        freight cannot be loaded on top of the skid. This means that if
+your pallet is only 4 feet tall but no other freight can be loaded on top due because it would damage
+
+
+
+                                                                                       9| P a g e
+                                      LTL Module 1
+
+your freight, then the carrier will calculate the cube using 8 feet of height (capturing the cube they
+cannot utilize in the calculation).
+                                 This willreduceyour pounds per cubic feet calculation.
+
+The takeaway here is that the shipments that are subject to this rule are going to be recalculated at a
+much higher charge  . Know how the rules vary by carrier that you are using and make sure you know
+when thisrule will apply to your shipments.
+
+Note: This is one occasion where splitting a shipment to avoid this rule will pay
+                                                                                Beoff.
+                                                                                   sure and verify
+with your customer that this is okay
+                                   with them and make sure the split shipments do not go out the
+same day.
+
+
+
+
+                                                                                      10 | P a g e
+                                       LTL Module 1
+
+                                          CHAPTER
+                                                4
+
+                                How are freight charges calculated
+                                                                ?
+
+To obtain a rate from a carrier, you need a minimum of 4 items, and preferably 5:
+
+   1.   Origin Zip
+   2.   Destination Zip
+   3.   Weight of the shipment
+   4.   Class of the freight (See Chapter
+                                      5)
+   5.   Any extra services that may be required (see Chapter
+                                                        6?)
+
+In most cases carriers prefer to use their own rate base (aka rate tables). These rates are created using
+zip code O/D (origin/destination) pairs
+                                     (lanes), classes and rate breaks or groupings. See
+                                                                                    ablet belowfor
+an example of a lane
+                   :
+
+
+
+
+The Origin and Destination Zip pairs
+                                   (lane)are in the top left hand corner.
+TheClasses run down the left side starting at 500.
+The Weight Break Category Labels run across the top of the table starting with L5C.
+The rates shown in the columns are the charges per each 100     (cwt-hundredweight
+                                                                  lbs            ) in the shipment.
+Note that as the weightbreaksincrease, the rate per cwt decreases.
+Note that as the class
+                     increases, the rate per cwt increases.
+
+
+                                                                                       11 | P a g e
+                                    LTL Module 1
+
+The weight breaks
+                are defined as:
+L5C Less than 500 lbs (applies from 1 through 499 lbs)
+M5C Minimum of 500 lbs (applies from 500 to 999 lbs)
+M1M Minimum of 1,000 lbs (applies from 1,000 to 1,999)
+M2M Minimum of 2,000 lbs (applies from 2,000 to 4,999)
+M5M Minimum of 5,000 lbs(applies from 5,000 to 9,999)
+M10M Minimum of 10,000 lbs (applies from 10,000 to 19,999)
+M20M Minimum of 20,000 lbs (applies from 20,000 to 29,999)
+M30M Minimum of 30,000 lbs (applies from 30,000 to 39,999)
+M40M Minimum of 40,000 lbs (applies to 40,000 and
+                                               above)
+
+Note1: The last three weight breaks are rarely used in the LTL industry. Most carriers define LTL as
+being less than 20,000 lbs.
+
+Note2: There is a provision in the rate base known as the alternation clause. The alternation clause
+provides that a carrier must charge a customer the lowest
+                                                        possiblerate. At certain weight breaks it
+becomes less expensive to go theto next higher weightgroup to get a lower charge. Below are the
+ƉŽŝŶƚƐǁŚĞƌĞƚŚĞƌĂƚĞǁŽƵůĚ͞
+                            jƵŵƉ͟ƚŽƚŚĞŶĞǆƚŚŝŐŚĞƐƚ
+                                                  weight break for this particular zip combination
+                                                                                                .
+For the L5C weight group, shipments weighing 445 lbs would be less expensive rated at the M5C group
+(500 lbs).
+
+
+
+
+                                                                                12 | P a g e
+                                        LTL Module 1
+
+The differencebetween the actual weight and the higher    weight break is known as the deficit weight. In
+this case that is40 lbs. To calculate the rates, take the weight 460)
+                                                                    ( and divide by 100 (4.
+                                                                                          60). Use the
+resulting number to multiply times the Rate.  The example below 4.   60 x 93.26 = 2
+                                                                                  49.00 plus .4 x 93.26
+(the deficit weight) givesa total of $466.30
+                                           . Had the alternation provisionnot been applied, the rate for
+this shipment would have been    4.60 x 104.98 =$482.91. The alternation provision provides a savings of
+$53.91.
+
+
+
+
+As stated above, most carriers prefer to use their own rate base and there arereasons
+                                                                                   good for this. The
+top two reasons are:
+    1. The carriers have adjusted their rates accordingtheir
+                                                           to needs. In areas where they are in need
+       of more freight (typically known as backhaul lane), they may have lower rates that benefit your
+       companyif you shipin those lanessaving you money and providing good service     . In other areas
+       they may have more freight than the lane can handle and raise their rates to either reduce the
+       amount of the freight or compensate for the additional runs that must be made to make   service.
+           a. Carriers have three types of lanes:
+                    i. Headhaul (plenty of freight and good revenue)
+                   ii. Balanced (roughly the same amount of freight in both directions)
+                  iii. Backhaul (need freight to fill empties or partials
+                                                                      on the return leg)
+    2. There are some parts of the country that are subject to extra charges, specifically New York City,
+       DĂƌƚŚĂ͛Ɛ sŝŶĞǇĂƌĚ͕ &ůŽƌŝĚĂ <ĞǇƐ͕ ĞƚĐ͘ dŚĞƐĞĐŚ
+
+                                                                                         13 | P a g e
+                                      LTL Module 1
+
+       but when using n a older or foreign rate base can be subjecto t additional charges (See
+       Accessorials, Chapter
+                          6)
+
+There are other rate bases available that carriers will use if asked. When a carrier uses a rate base that is
+ŶŽƚƚŚĞŝƌŽǁŶ͕ƚŚĞǇƌĞĨĞƌƚŽŝƚĂƐĂ͞ĨŽƌĞŝŐŶ
+                                          tariff or foreign ƌĂƚĞďĂƐĞ͘͟ŶĞǆĂŵƉůĞof a foreign tariff is
+                                        3
+the CzarLite Rating series created by SMC. These rates are  consideredrevenue neutral meaning they
+are the same both ways in a specific lane.  Having all carriers on the same rate base simplifies the
+comparison betweenĐĂƌƌŝĞƌ͛Ɛ rates by focusing on the discount s; the larger the discount, the lower the
+net charge to you.
+
+Most of the LTL carriers have their rates available for download from their websites. If you are going to
+                                                                       3
+use one of the Czarlite rate bases,
+                                you must buy a license. You ca
+                                                             n reach SMC at www.smc3.com.
+
+Every carrier will offer a company a discount. If no discount is published for your company,
+                                                                                          ofmost
+                                                                                             the
+carriersŚĂǀĞǁŚĂƚŝƐŬŶŽǁŶĂƐĂ͞ĐŽƵƌƚĞƐǇ͟ĚŝƐĐŽƵŶƚ͘d
+carrier.
+
+Smaller shipmentsgenerally
+                  (        ƵŶĚĞƌϱϬϬůďƐͿŵĂǇďĞƐƵďũĞĐƚƚŽĂ͞D
+DŝŶŝŵƵŵ ŚĂƌŐĞ͟ Žƌ ũƵƐƚe͞DŝŶŝŵƵŵ                  charge that your shipments
+                                                                          ŚĂƌŐĞ͘͟  cannot bedŚŝƐ ŝ
+discounted below. For instance, suppose you have shipment that has a gross charge (before discount) of
+$100.
+
+                      $100.00        Gross charge
+                       (60.00)       Less 60% discount
+                      $ 40.00        Net Charge
+                      $ 60.00        Minimum chargeapplies in lieu of discounted rate
+
+
+
+
+                                                                                     14 | P a g e
+                                         LTL Module 1
+
+                                            CHAPTER
+                                                  5
+
+                             What are classes and where do I find them?
+
+Classes areassignedin the National Motor Freight Classification Guide, commonly referred to as the
+NMFC. Every item that can be shipped can be found in this guide, although it is not always y to find.
+                                                                                                 eas
+Two different organizations have an electronic version of the NMFC,   e National
+                                                                         th      Motor Freight Traffic
+                                                                3
+Association(NMFTA) whose product   is known as Class IT and SMC   whose product is known as FastClass.
+The electronic versionsare only useful if you are very familiar with how a product may be described in
+the NMFCso you can find itor you already know the Item number. My recommendation is that you buy
+the book from NMFTA  (www.nmfta.org). It is easier touse and you can often find a better description by
+reading the items above orbelow your original selection.
+
+TheNMFCis divided into several sections:
+        Participating carriersʹin order to use the classifications found within this guide, the carriers
+        are required to participate or join the NMFTA.If they are not participants, theycannot use
+        the classes or the rules.
+        Generic Headings   ʹList of groups you can use to search for a specific item you cannot find
+        listed in the next section
+        Index to Articlesʹa specific list of products that can be found by their item numbers in the
+        Articles section of the book
+        Rulesʹthis section contains all the rules from definitions of terms, conversion from US
+        system to Metric to Bill of Lading information
+        Articles ʹspecific items listed by Item number providing a description of the product,
+        packaging requirements and class for each.
+        Specifications for Numbered Packages   ʹwhen a packaging nu  mber is referred to in an item,
+        it means that that type of packaging is required to protect the shipment.      ou Ycan the
+        descriptionin this section.
+        Principles and Practices for the Investigation and Disposition of Freight Claims ʹHow to
+        section
+        Sample Loss and Damage and Overcharge claim forms
+
+Freight classes run from a low of 50 to a high of (18
+                                                   500classes in total)
+                                                                     . Class 55 will be higher than
+Class50; Class 60 will be higher than Class 55 and so on and so forth.
+
+FreightClass is determined by four different factors:
+    1. Density of the item (heavier items will generally have a lower classification)
+    2. Value of the item (higher value items will generally have
+                                                             a higher class)
+    3. Packaging or Stowability (how does it load in a trailer, will it damage other freight?)
+    4. Handling characteristics (how easy is it to get on and off a trailer, pallet vs. 12 foot roll of carpet)
+
+
+
+                                                                                           15 | P a g e
+                                     LTL Module 1
+
+^ŽŵĞƚŝŵĞƐĂƉƌŽĚƵĐƚ͛ƐĐůĂƐƐŝƐĚĞƚĞƌŵŝŶĞĚďǇĚ  ĞĐůĂƌŝŶŐĂ͞ƌĞůĞĂƐĞĚǀĂůƵĞ͘͟d
+a lower classification, the shipper releases the value of the shipment to a lower
+                                                                              dollar level in the event
+of a claim. See example below   and note the class differences
+                                                            :
+
+
+
+
+^ŽŵĞƚŝŵĞƐĂƉƌŽĚƵĐƚ͛Ɛ class is determined by whether the product is setup (SU) or knocked down (KD)
+or nested (means one placed within another, like trash
+                                                   cansstackedinside each other ). Many furniture
+items are classed in this manner. See the example below and note thedifferences:
+                                                                       class
+
+
+
+
+                                                                                  16 | P a g e
+                                        LTL Module 1
+
+
+
+
+The greatest areaof problems for shippersrelates to density. See example
+                                                                       of a density based shipment
+below:
+
+
+
+
+Every LTL carrier checking
+                  is       for freight that is classed
+                                                     improperly or has the wrong weight. Some carriers
+have experienced up to a 20% increase in revenue by correcting classes and weights.      Refer back to
+Chapter 3 for instructions on how to calculate pounds per cubic foot. Remember , if your freight cannot
+be top loadedwith other freight, most carriers are going to calculate the height of the shipment at least
+ϵϲ͟ƵŶůĞƐƐƚŚĞƐŚŝƉŵĞŶƚŝƐƚĂůůĞƌ͘/ŶĐůƵĚĞƚŚĞǁĞ
+by increasing thepoundsper cubic foot. Be sure when you create the bill of ding
+                                                                             la that you write the full
+description,poundsper cubic foot and the class in the description.
+
+Note: Failure to do this will result in the freight being rated at Class 400 as described in the
+                                                                                             below:
+                                                                                                 rule
+
+
+
+
+                                                                                          17 | P a g e
+                                       LTL Module 1
+
+dŚĞƌĞŝƐĂǁĂǇƚŽ͞ďƵŵƉ͟ƚŚĞĐůĂƐƐĚŽǁŶ   one level using Item 171. There are specific rules that must be
+followed to insure the rule is applied. There are two main points to remember:
+     1. The item must specifically refer to Item 171 (see Plantersillustrations
+                                                                      two       abovefor reference)
+     2. It must be exercised at the time of shipment. You cannot send a corrected bill of lading later
+        trying to exercise the bumping rule.
+The Item below contains a good illustration of how the bumping rules works and what needs to be
+written in the body of the bill of lading.
+
+
+
+
+The takeaways from this section are:
+   1. Be sure you class all of your freight correctly using the NMFC Guide
+   2. Be sure and write the correct description and utilize the NMFC number and class when
+       completing the Bill of Lading
+
+
+
+
+                                                                                       18 | P a g e
+                                       LTL Module 1
+
+                                          CHAPTER
+                                                6
+
+                                  What are Accessorial Charges?
+
+Accessorials are  any services performedabove and beyond the normal pickup, transport and delivery of
+a shipment. Remember, the carrier expects to pick up the shipment at a dock and deliver to a dock. That
+is all the basic freight charges cover.If you need alift gate equipped truck because you ĚŽŶ͛ƚ ŚĂǀĞ Ă
+dock there is an extra charge. If the shipment has a COD, there is an extra charge. If the shipment is
+going to a convention center, private residence, fair grounds, or penitentiary, there is an extra charge. If
+you are shipping into remotereasa or high density population areas   (NYC), there is an extra charge.
+                                                                                                   In
+ƐŚŽƌƚ͕ ũƵƐƚ ĂďŽƵƚ ĞǀĞƌǇƚŚŝŶŐ ŚĂƐ ĂŶ ĞǆƚƌĂ                                             (regional ĐŚĂƌŐĞ
+carrier) for their rulesand accessorials
+                                      :
+                                      Index Sorted by Description
+
+Application of Rates for Accounts with no Published Pricing                        Item 1001
+Application of Weight Groups                                                       Item 998
+Arrival Notice and Undelivered Freight                                             Item 330
+Bills of Lading                                                                    Item 360-1
+Bills of Lading Corrections                                                        Item 360
+Bill of Lading Order-Notify Shipments                                              Item 360-2
+Bill of Lading- Third Party Billing                                                Item 360-3
+Blind Shipment Charge                                                              Item 605
+Classes, Rates & Discounts                                                         Item 420
+Classification of Combined Articles                                                Item 422
+Collecton Delivery (C.O.D) Shipments                                               Item 430
+Concealed or Un   -Noted Damage                                                    Item 450
+Control and Exclusive Use of Vehicle                                               Item 370
+Delivery and Unloading Service                                                     Item 751
+Delivery Service to Walmart or Target Distribution Centers                         Item 751-1
+Delivery to McLane Midwest Danvill, IL or Supervalue Oglesby, IL                   Item 751-2
+Detention- Truckload Shipments 10,000 Pounds or more billed weight                 Item 504
+Detention- Vehicles with Power Units                                               Item 500
+Detention- Vehicles withou   t Power Units                                         Item 501
+Diversion or Reconsignment or Diversion                                            Item 820
+Expedited Service                                                                  Item 530
+Extra Labor- Loading or Unloading                                                  Item 560
+Extraordinary Value Articles                                                       Item 625
+Freight Broker Procedures                                                          Item 1005
+Fuel Surcharge Program                                                             Item 998
+Guaranteed Services                                                                Item 565
+General Provisions                                                                 Item 110
+Governing Publications                                                             Item 100
+Hazardous Materials Charge                                                         Item 600
+Hydraulic Liftgate Service                                                         Item 520
+Impracticable Operations                                                           Item 570
+Inside Delivery -Handling Freight at Positions Not Immediately Adjacent to Vehicle Item 566
+
+                                                                                      19 | P a g e
+                                      LTL Module 1
+
+Inspecting and Repackaging                                                        Item 888
+Interline Service Charges                                                        Item 1004
+Limitation of Liability                                                          Item 625
+Marking or Tagging Freight                                                       Item 575
+Method of Cancelling Original & Revised Pages                                    Item 200
+Minimum Charge Capacity Loads                                                    Item 300
+Minimum Charge- Cubic Capacity and Density                                       Item 615
+Non-Payment of Freight Charges & Returned Check                                  Item 720
+Notification Prior to Delivery                                                   Item 647
+Over Dimension Freight                                                           Item 670
+Packaging Requirements                                                           Item 680
+Pallet Interchange                                                               Item 710
+Pickup or Delivery at mited
+                        Li   Access Locations                                    Item 651
+Pickup or Delivery Private Residence                                             Item 650
+Pickup or Delivery Service on Sat, Sun, Holidays or Service Before or After HoursItem 756
+Precautionary Markings                                                           Item 790
+Precedence of Pricing Progra ms                                                  Item 760
+Prepayment and Payment of Freight Charges                                        Item 770
+Prohibited or Restricted Articles                                                Item 625
+Protective Service-Freezables from Shippers                                      Item 810
+Protective Service-Freezables from Interline Carriers or Brokers                 Item 810-1
+Quotations of Estimated Freight Charges                                          Item 815
+Re-Delivery                                                                      Item 830
+Reference to Publications, Items, Groups, Notes or Rules                         Item 845
+Released Value and Excess Declared Value Coverage                                Item 625
+Reweight or Inspection Charges                                                   Item 1002
+Shipments Consigned to Trade Shows                                               Item 320
+Sort and Segregate Service                                                       Item 886
+Stopping of Truckload for Partial Loading or Unloading                           Item 900
+Storage                                                                          Item 910
+Time Limit or
+            f Filling Shortage and Damage Claims                                 Item 1000
+Time Limit for Filling Shortage and Damage Claims for Interlines                 Item 1000-1
+Vehicle Ordered But Not Used                                                     Item 1003
+Verification of Count or Damage                                                  Item 635
+
+The most common and recognized accessorial is the Fuel Surcharge.
+                                                           As you can see there are a number
+services consideredchargeable services.ŽƉŝĞƐ ŽĨ ĐĂƌƌŝĞƌ͛Ɛ ƌƵůĞƐ                     .   ƚĂƌŝĨ
+Often they are available directly from
+                                     ĐĂƌƌŝĞƌ͛Ɛ
+                                         websites.
+
+Carriers do not always use the same description for a particular service. For instance, one carrier might
+ƵƐĞ ͞/ŶƐŝĚĞ ĞůŝǀĞƌǇ͟ ĂŶĚ ĂŶŽƚŚĞƌ ͞,ĂŶĚůŝŶŐ &ƌĞŝ
+ĚĞƐĐƌŝďĞƚŚĞƐĂŵĞƐĞƌǀŝĐĞ͘͞
+                         Lift gate͟Žƌ͞
+                                     'ƌŽƵŶĚĞůŝǀĞƌǇ͟ŽĨƚĞŶĚĞƐĐƌŝďĞƐ
+Access>ŽĐĂƚŝŽŶƐ͟ and ͞
+                     Non-Commercial locations
+                                            ͟often mean the same.
+
+There are specific Convention Centersand Retailersthat have extra charges for delivery or pickup as
+well. See Item 751
+                 -1 and 751-2 above for examples.
+
+                                                                                    20 | P a g e
+                                       LTL Module 1
+
+                                          CHAPTER
+                                                7
+
+                                  What are Liability Limitations?
+
+Each carrier maintains a cap on how much liability they will acceptloss     for or damage to freight.
+Knowing these limitations will help when selecting carriers, especially if youhigh
+                                                                                shipvalue cargo. These
+liability limitations begin with the NMFC, Item 172:
+
+
+
+
+The items listed above are automatically released to the Value Limitation in the far right column,
+whether declared by the shipper or not.
+
+The next place to look for the
+                             ůŝŵŝƚĂƚŝŽŶƐŝƐŝŶƚŚĞĐĂƌƌŝĞƌ͛ƐƌƵůĞƐ
+
+FXFE
+CARRIER LIABILITY
+
+   1.   Carrier shall not be liable for any loss or damage to a shipment or for any delay caused by an act
+        of God, the public enemy, the authority of law, the inherent vice of the goods or the act or
+        default of the shipper. The burden to prove freedom from neglig
+                                                                      ence is on the carrier or the
+        party in possession. IN NO CASE WILL CARRIER BE LIABLE FOR ANY TYPE OF CONSEQUENTI
+        SPECIAL, INDIRECT OR EXEMPLARY DAMAGES, including but not limited to loss of income or
+
+                                                                                       21 | P a g e
+                                   LTL Module 1
+
+     profits, regardless of whether or not Carrier knew should   or      have known that such damages
+     might have been incurred.
+2.    Customer shall, at its cost and expense, comply with all applicable federal, state, local and
+     International laws, rules and regulations pertaining to its shipments and shall be responsible for
+     all costs, liabilities, delays, fines and expenses caused by, resulting from or otherwise associated
+     ǁŝƚŚ ĂŶǇ ŶŽŶĐŽŵƉůŝĂŶĐĞ ďǇ ƵƐƚŽŵĞƌ Žƌ ƵƐƚŽŵĞ
+     ƌĞŐƵůĂƚŝŽŶƐ͘ƵƐƚŽŵĞƌƐŚĂůůĂůƐŽďĞƌĞƐƉŽŶƐŝďů                        ges pertaining to any services
+     ƉĞƌĨŽƌŵĞĚ ďǇ ĂƌƌŝĞƌ Ăƚ ƵƐƚŽŵĞƌ͛Ɛ ƌĞƋƵĞƐƚ Ĩ
+     regulations.
+3.    Corrected bills of lading or letters of authority to add or change the valuation of any shipment
+     will not be accepted, excep  t as noted in paragraph 5.A herein.
+4.    Whether new, used or reconditioned articles and regardless of NMFC released, declared or
+     ĂĐƚƵĂůǀĂůƵĞƉƌŽǀŝƐŝŽŶƐ͕ĂƌƌŝĞƌ͛ƐůŝĂďŝůŝƚǇĨ
+     the lesser of the actual valu  e or the applicable liability limitations referenced in this tariff Item
+     420.
+5.    Items described in the NMFC and shipped under RELEASED VALUE provisions will be subject to
+     the maximum released value depending on the class listed at the time of shipment.
+     A. When the NMFC offers the Consignor or Consignee the option to declare an actual,
+          declared or released value on the Bill of Lading, and such valuation is NOT declared by the
+          Consignor or Consignee and the shipment is inadvertently accepted by Carrier, charges     will
+          be assessed based on the wording of the applicable NMFC item covering the shipment.
+              1. On shipments that are classed based on value, either actual, declared or released,
+              and the NMFC does not advise within the item ornotes    its how to rate a shipment  when
+              such value is not present on the bill of lading, the Carrier will rate at the highest class
+              provided withinthe item at a maximum liability not to exceed $5 per pound. Specifically
+              so covered within this item, but not limited to, are NMFC items   149420 and 161850 that
+              will be rated as follows if no value is provided on the bill of lading:
+                       NMFC Item # Apply Class Subject to Maximum Liability of:
+                       149420 300 $5 per pound
+                       161850 125 $1 per pound
+     B. When a Freight All Kinds (FAK) class or an exceptionrating         class is provided in any tariff
+     governed by the provisions of this tariff for a commodity that has    available declared or released
+     value provisions in the NMFC to obtain a lower class, the commodities are released to the
+     lowest declared or released value    provided in the NMFC, regardless of the shipment weight or
+     whether rated truckload, LTL, minimum charge or absolute minimum charge.
+6.   In lieu of the valuation indicated in the NMFC, valuation, rates and charges on USED or
+     RECONDITIONED articles will be       follows:
+                                            as
+     A. When Consignor or Consignee declares no value or declares an actual or released value of 50
+     cents or less per pound per package or failsdescribe
+                                                       to        articles as used or reconditioned on the
+     original Bill of Lading:
+              1. Apply 100 percent of theƵƐƚŽŵĞƌ͛Ɛ
+                                                c                        ŽƚŚĞƌǁŝƐĞ ĂƉƉůŝĐĂďůĞ
+              tariffs subject to this item.
+              Ϯ͘ ĂƌƌŝĞƌ͛Ɛ ŵĂǆŝŵƵŵ ůŝĂďŝůŝƚǇ ƐŚĂůů ŶŽƚ Ğ
+              $10,000 per incident, whichever is lower.
+     B. When Consignor or Consignee requests EXCESS                 LIABILITY COVERAGE for used or
+     reconditioned articles exceeding 50 cents per pound package    per       and describes the articles as
+     used or reconditioned on the original Bill of Lading:
+
+
+                                                                                22 | P a g e
+                                   LTL Module 1
+
+              1. Apply 80 cents per pound per package, subject to a minimum charge of in              $132,
+              ĂĚĚŝƚŝŽŶƚŽϭϬϬƉĞƌĐĞŶƚŽĨƚŚĞĐƵƐƚŽŵĞƌ͛ƐŽ              applicable charges as published in
+              tariffs subject to this item.
+              Ϯ͘ ŽŶƐŝŐŶŽƌ Žƌ ŽŶƐŝŐŶĞĞ ǁŝůů ŝŶĚŝĐĂƚĞ ŽŶ
+              the designated area under Note 2 that excess       liability coverage of $5 per pound per
+              package has been requested for the used or reconditioned articles. If Consignor or
+              Consignee is using a bill  of lading form where no designated area is provided, Consignor
+              or Consignee shall indicate on the original   bill of lading in the description ofarticles
+              ƐĞĐƚŝŽŶ͗ ͞ǆĐĞƐƐ ůŝĂďŝůŝƚǇ ĐŽǀĞƌĂŐĞ ƌĞƋƵĞƐ
+              ƉĂĐŬĂŐĞ͘͟
+              ϯ͘/ŶŶŽĞǀĞŶƚƐŚĂůůĂƌƌŝĞƌ͛ƐŵĂǆŝŵƵŵůŝĂď
+              the actual value or $5 per po    und per package,whichever is less, with a maximum of
+              $10,000 per incident.
+   C. In all cases, the weight of packaging and/or shipping container, pallets, skids and the like shall
+   not be included when determining excess liability coverage             Žƌ ĂƌƌŝĞƌ͛Ɛ    m liability. ŵĂǆŝŵƵ
+   Additional liability coverageIS NOT AND WILL NOT BE CONSIDERED AS INSURANCE FOR THE
+   CARGO    .
+7. ƉƉůŝĐĂƚŝŽŶ ŽĨ ƚŚŝƐ ƉĂƌĂŐƌĂƉŚ ŝƐ ŽŶůǇ ǁŚŝůĞ ƚ
+   points within the US and cross border shipments        between the US and Canada. Unless EXCESS
+   LIABILITY COVERAGE is requested for NEW articles and so noted as outlined in paragraph 8
+   herein, ĂƌƌŝĞƌ͛ƐŵĂǆŝŵƵŵůŝĂďŝůŝƚǇƐŚĂůůďĞƚŚĞĂĐ
+   of original invoice not to exceed 5           $2per pound per packageor $100,000 per incident,
+   whichever is lower. In all cases, the weight of packaging and/or shipping container, pallets, skids
+   and the like shall not be   ŝŶĐůƵĚĞĚǁŚĞŶĚĞƚĞƌŵŝŶŝŶŐĂƌƌŝĞƌ͛Ɛ
+8. When the Consignor or Con           signee requests EXCESS LIABILITY COVERAGE for new articles
+   exceeding $25 per pound per package, the following       charges and provisions will apply:
+   ͘ ŽŶƐŝŐŶŽƌ Žƌ ŽŶƐŝŐŶĞĞ ǁŝůů ŝŶĚŝĐĂƚĞ ŽŶ ƚŚ
+   designated areaunder Note 2 the amount of the         excess liability coverage requested for the new
+   articles, not to exceed a maximum of $50 per pound per package. If Consignor or Consignee          is
+   using a bill of lading form where no designated area is provided, Consignor          Consignee
+                                                                                           or        shall
+   indicate on the original bill of lading in       ƚŚĞ ĚĞƐĐƌŝƉƚŝŽŶ ŽĨ ĂƌƚŝĐůĞƐ
+   coverage requested: (total amount of excess coverage requested in dollars per pound, not to
+   ĞǆĐĞĞĚĂŵĂǆŝŵƵŵŽĨΨϱϬƉĞƌƉŽƵŶĚƉĞƌƉĂĐŬĂŐĞͿ
+   B. Charges for excess liability coverage will be assessed based on 3% of the requested excess
+   liability coverage, subject to a minimum charge of $58.
+   ͘/ŶŶŽĞǀĞŶƚƐŚĂůůĂƌƌŝĞƌ͛ƐŵĂǆŝŵƵŵůŝĂďŝůŝ
+   articles or $50 per pound per package, whichever         is less, with a maximum of $100,000 per
+   incident. In all cases, the weight of packaging and/or shipping container, pallets, skids and the
+   like shall not be included when determining excess liability coverage or Carrie        ƌ͛Ɛ ŵĂǆŝŵƵŵ
+   liability.
+9. Excess liability coverage is not available for the following:
+   A. Articles with actual, declared or released values as described in the NMFC
+   B. Articles listed in paragraph 6 and 10 herein may not be covered by the excess liability
+   coverage set forth in paragraph 8.
+   C. Excess liability contained within paragraph 8 herein, is expressly disallowed on shipments to
+   points outside of the US, its possessions, orpoints   to located in Canada. Any excess liability to
+   points outside of the US,      its possessions or to points located in Canada is the responsibility of
+   ƚŚĞ^ŚŝƉƉĞƌƚŚƌŽƵŐŚƚŚĞ^ŚŝƉƉĞƌ͛ƐŽǁŶŝŶƐƵƌĞƌ͘
+
+                                                                                  23 | P a g e
+                                   LTL Module 1
+
+10. For shipments moving from points in the US to points in Puerto Rico, Hawaii, and/or Alaska and
+    shipments moving from points in Puerto o,          RicHawaii, and/or Alaska to points in the US, the
+    following limitations of cargo liability provisions will apply:
+    ͘/ĨůŽƐƐŽƌĚĂŵĂŐĞŽĐĐƵƌƐƚŽŐŽŽĚƐŝŶƚƌĂŶƐ
+    lesser of the actual value supported by a tified   cer copy ofthe original invoice or the applicable
+    liability limitations referenced in this tariff Item 420.
+    B. If loss or damage occurs to goods in transit before the loading or after the discharge of said
+    ŐŽŽĚƐĨƌŽŵƚŚĞŽĐĞĂŶǀĞƐƐĞů͕ƚŚĞĂƌƌŝĞƌ͛Ɛh^     domesticliability limitations will apply, except that
+    ŶŽĞǆĐĞƐƐůŝĂďŝůŝƚǇĐŽǀĞƌĂŐĞŝƐĂǀĂŝůĂďůĞĂŶĚ
+    lesser of theactual value supported by a certified copy of the original invoice or the applicable
+    liability limitations referenced in this tariff Item 420. In the event that       the point of loss or
+    damage cannot be determined, the liability limitations detailed in section 10.A of this item will
+    apply.
+11. For shipments requiring customs clearance, the Shipper,           nsignee,
+                                                                         Co      Third Party, Broker and/or
+    Agent is responsible for complying with applicable
+                                                    all          domestic and international treaties, laws,
+    government regulations, orders or requirements including but not limited to customs and
+    import laws and regulations of any       country to, from, through or over which the shipment may
+    be carried and agrees to furnish such information            and complete such documents as are
+    necessary to comply with such treaties, laws, regulations, orders or requirements. Under no
+    circumstancewill the Carrier be liable for failure to comply with any such provisions.
+12. For shipments moving from or to points within Mexico and for shipments moving from or to
+    points in Mexico on the one hand and from or to points          in the US on the other, the following
+    limitations of cargo liability provisions will apply:
+    A. If loss or damage occurs to a shipment while within the Border of Mexico, or at a Border
+    Gateway of Mexico, maximum liability will be limited        to $0.50 cents per pound per package or
+    $5,000 per incident, whi    chever is lower.
+    B. If the Shipper desires to tender a shipment requiring carrier liability coverage in excess of the
+    $5,000 maximum liability noted in A above,        the Shipper must indicate in writing on the Bill of
+    Lading or service order, as applicable he      at ttime of shipment the total dollar or Mexican    peso
+    amount of excess coverage requested. The maximum available carrier excess liability coverage is
+    $45,000 per shipment for a total of     $50,000 when added to the initial maximum coverage. In no
+    event will CaƌƌŝĞƌ͛Ɛ ŵĂǆŝŵƵŵ ůŝĂďŝůŝƚǇ ĐŽǀĞƌĂŐĞ                                         package or ĞǆĐĞĞ
+    $50,000 whichever is less.
+              1. Application of this provision is only while the shipment is within the Borders of
+              Mexico or at a Border Gateway of Mexico.
+              2. Excess liability coverage is not available for the following:
+                       a. Articles with actual, declared or released values as described in the NMFC.
+                       b. Articles listed in paragraph 6 of Item 420 herein.
+                       C. If loss or damage occurs to a shipment within the Border of the U.S. and not a
+                       ŽƌĚĞƌ 'ĂƚĞǁĂǇ ŽĨ DĞǆŝĐŽ͕ ƚŚĞ                                   limitationsĂƌƌŝĞƌ͛Ɛ
+                                                                                                        will
+                       ĂƉƉůǇ͕ ĞǆĐĞƉƚ ƚŚĂƚ ŶŽ ĞǆĐĞƐƐ ůŝĂďŝůŝƚǇ
+                       maximum liability will not exceed the lesser the    of actual value supported by a
+                       certified copy of the original invoice, not to exceed the limitations and exclusion
+                       as detailed in Item 420herein. In the event that the point of loss or damage
+                       cannot be determined, the liability limitations detailed in section 9.A or 9.B
+                       herein, in theevent excess cov    erage has been declared at time of shipment, of
+                       this item will apply. Additional liability coverage    IS NOT AND WILL NOT        BE
+                       CONSIDERED AS INSURANCE FOR THE                 . CARGO
+
+                                                                                   24 | P a g e
+                                      LTL Module 1
+
+       D. Charges for excess liability coverage (Mexico) will be assessed based on the following:
+                 1. A charge of $1.12 per each 100 pounds of excess coverage,    prorated accordingly
+                 (equal to $0.01 per pound charge.)
+                 2. Subject to a minimum charge of $56.
+                 3. Not to exceed a maximum charge of $504.
+       E. The parties agree that FedEx Freight will be exempt any   fromobligation or liability that may
+       arise from:
+                 1. Accidents or Acts of God, or from any other reasonable cause that is beyond FedEx
+                 Freight control;
+                 2. Governmental actions;
+                 3. Erasures or scratches caused by electric or magnetic damage or from any other
+                 damage to electronic, photographic or any other kind of images;
+                 4. Incomplete or inaccurate information stated in the SERVICE ORDER;
+                 5. Any of the following: theft, with or without violence, assault, attacks, disruption of
+                 public peace, kidnapping, fire,  earthquake, revision of theMERCHANDISE at fiscal
+                 inspection stations or customs offices run by different administrative authorities and in
+                 general any disaster or action,with or without violence which may happen to FedEx
+                 Freight, FedEx Freight US, and/or   to the CARRIER and by which the conservation,
+                 keeping and/or delivery of the MERCHANDISE, total or partial, is prevented, in
+                 conditions different to the conditions when it was received.
+       &͘ &ĞĚǆ &ƌĞŝŐŚƚ͛Ɛ ĂĚĚŝƚŝŽŶĂůent                                       ůŝĂďŝůŝƚǇ
+                                                                                    of the additional       ǁŝƚŚ
+       liability coverage shall only be applicable in the event
+                                                             that FedEx Freight is directly liable for the
+       damage or loss suffered by the MERCHANDISE. In case FedEx Freight is not liable, CUSTOMER
+       shall not have the right to claim that ditional
+                                                ad      coverage payment. Likewise, FedEx Freight shall
+       have at any time the right to refuse the additional coverage and expansion of the liability limit if
+       at its own discretion, considers inconvenient to expand the liability additional       coverage.
+       Furthermore, the parties agree that FedEx Freight shall not have any obligation before the
+       CUSTOMER in case the damage or that       lossthe MERCHANDISE suffers is caused by the events
+       stated in 9.E. of Item 420.
+       13. ANY EFFORT TO REQUEST EXCESS LIABILITY COVERAGE            DECLAREOR   A VALUE IN EXCESS OF
+       THE MAXIMUMS ALLOWED IN THIS TARIFF IS                 ANDNULL
+                                                                    VOID, AND THE ACCEPTANCE FOR
+       CARRIAGE OF ANY SHIPMENT BEARING A REQUEST FOR EXCESS LIABILITY COVERAGE O
+       DECLARED VALUE      IN EXCESS OF THE ALLOWED MAXIMUMS DOES NOT CONSTITUTE                  AIVER A W
+       OF ANY PROVISION OF THIS TARIFF AS TO SUCH SHIPMENT.
+
+Takeaways:
+   1. The carrier assumes no liability for consequential damages. Examples of consequential damages
+      include loss of sale, plant shutdowns, missed tradeshows, etc.
+   2. Once a shipment has departed   your dock you cannot revise the Bill of Lading (BOL) and request
+      additional coverage
+   3. Maximum liability for used equipment is $.50 per pound unless excess coverage is purchased
+      and then it is limited to a maximum of $5 per pound
+   4. Mexico, Canada, Hawaii, Ala ska and Puerto Rico have different liability caps
+   5. This particular carrier has a maximum liability of $25 per pound PER PACKAGE but offers
+      additional insurance up to $50 per pound
+   6. Carrier exempts itself for acts falling under Force
+                                                      Majeure (Acts of God, etc.)
+
+                                                                                     25 | P a g e
+                                         LTL Module 1
+
+Some carriers limit their liability by
+                                     spot quotes, pallet rates and/or
+                                                                   class, see below:
+
+AACT
+
+PART IIIʹ>/D/dd/KEK&ZZ/Z͛^>//>/dz
+(See NOTES A and B)
+   A. Except as otherwise provided, AACT maximum liability for cargo loss or damage shall                         limited
+                                                                                                                        be
+      as follows (in the event more than one limit of liability rule may apply to a shipment, the rule
+      with the lesser maximumimit l of liability will apply):
+              (77)d͛Ɛ ŵĂǆŝŵƵŵ ůŝĂďŝůŝƚǇ ŽŶ ƐŚŝƉŵĞŶƚƐ ƐƵ
+                  Rate orVolume/Truckload charges published in Tariff AACT 200 series and Per Pallet
+                  Rates will be:
+                      Per Pound per package    ͙........................................................... $2.00
+                      Maximum per shipment     ͙.................................................... $20,000.00
+              ď͘hŶůĞƐƐŽƚŚĞƌǁŝƐĞƉƌŽǀŝĚĞĚ͕d͛ƐŵĂǆŝŵƵ
+              the lesserof the following not to exceed $100,000.00 per shipment (whichever is less):
+                      (1) Actual invoice value;
+                      (2) Limited liability provisions shown on the billlading;       of
+                      (3) Applicable Released Value or Actual Value liability provisions of STB NMF 100
+                      series;or
+                      (4) As shown in the table below which shall be arrived at by determining the
+                      Rated Class  of the articles as published in STB NMF 100 series, or the applica                 ble
+                      Freight AllKinds (FAK)/Exception Class rating provided for the shipment. AACT
+                      maximum liabilitywill be that which is shown in Column B opposite the class
+                      shown in Column A.
+
+  Column A          Column B          Column A         Column B          Column A          Column B
+   Class            Max Liab           Class           Max Liab           Class            Max Liab
+     50              $1.05               85             $8.55              175              $16.05
+     55              $2.30              92.5            $9.80              200              $17.30
+     60              $3.55              100             $11.05             250              $20.00
+     65              $4.80              110             $12.30             300              $20.00
+     70              $6.05              125             $13.55             400              $20.00
+    77.5             $7.30              150             $14.80             500              $20.00
+
+
+Again, the takeaway here are that you ŵƵƐƚ ƌĞĂĚ ƚŚĞ ĐĂƌƌŝĞƌ͛Ɛ ůŝĂďŝůŝƚ
+your commodities will be covered in the event of a claim.
+
+
+
+
+                                                                                           26 | P a g e
+                                        LTL Module 1
+
+                                            CHAPTER
+                                                  8
+
+                                     Preparing the Bill of Lading
+
+
+The Bill of Lading (BOL) is
+                          Contract
+                              a      between the Shipper and the Carrier    . Preparing it properly will help
+insure that the product gets where it is going-time
+                                                  on and intact. Iffor some reasonŝƚĚŽĞƐŶ͛ƚ͕ƚŚĞ
+provides the basis for a loss and/or damage claim.   Fill it out incorrectly and you run the risk of higher
+freight rates and the inability to get the full dollar value for your claim. The next page contains a blank
+BOL.
+
+Step 1. Fill in your information completely including your phone number and name in the Shipper box.
+
+Step 2. Complete the Consignee box including their
+                                               complete address, phone number and contact name
+for delivery (if you know it).
+
+Step 3. Who is paying the freight for this shipment? If your company is, in the Terms box, check
+͞WƌĞƉĂŝĚ͘͟
+         /ĨƚŚĞŽŶƐŝŐŶĞĞŝƐƉĂǇŝŶŐƚŚĞĐŚĂƌŐĞƐ͕ĐŚĞĐŬ
+
+Step 4.If you have special instructions for where the freight bill is to be sent, complete the Bill To box. If
+not, leave it blank.
+
+Step 5. Identification of the shipment. If your company identifies each shipment with some kind of
+reference number, enter it in th
+                               Ğ͞^ŚŝƉƉĞƌ͛ƐZĞĨĞƌĞŶĐĞEŽ͘͟ůŝŶĞ͘/Ĩ
+Žƌ ŽƚŚĞƌ ƌĞĨĞƌĞŶĐĞ ŶƵŵďĞƌ ƚŽ ŝĚĞŶƚŝĨǇ ƚŚĞ ƐŚŝƉŵ
+ZĞĨĞƌĞŶĐĞͬWKEŽ͘͟ůŝŶĞ͘
+
+Step 6. /Ɛ ƚŚĞ ƐŚŝƉŵĞŶƚ ŵŽǀŝŶŐ ͞ŽůůĞĐƚ ŽŶ ĞůŝǀĞƌǇ͟
+COMPLETELY. Be sure and indicate what type of funds are acceptable (Cash, certified check, company
+check). Complete the Remit to address so the carrier knows where end
+                                                                   to the
+                                                                       s funds. Also, before you
+use this section, contact the carrier and make sure they will handle a COD in the amount you are
+requesting and ask how much they charge for collecting the fee. Finally, be sure you write in Large
+Capital Letters, COD in nt
+                        froof the consignee name in the Consignee box.
+
+Step 7.Complete the description section of the BOL
+                                                 .
+       A. Start with the number of pieces. Note: this should be the actual number of pieces being
+          shipped and not just the pallets. For instance, you might have     boxes
+                                                                               25 on a pallet. If the
+          driver cansee tocount all the pieces, make him count them.
+       B. If the pallet isshrink-wrappedbefore the carrier arrives and all the pieces are not visible, the
+          driver will notate the number of pallets STC (said to contain) thember
+                                                                               nu of pieces.
+       C. If the shipment is Hazardous, the Hazardous items must be listed first. Be sure and check the
+          HM box.
+
+                                                                                          27 | P a g e
+                            LTL Module 1
+
+D. Enter the description of the products being shipped and the type of packaging. For instance:
+   ĂƌƚŽŶƐŽĨϱϬ͟,dĞůĞǀŝƐŝŽŶƐ͘
+E. Enter the NM&ŶƵŵďĞƌĨŽƌƚŚĞĐŽŵŵŽĚŝƚǇ͘ŽŶ͛ƚĚŽƚ                                   to
+   pick whatever NMFC they think applies to your description.
+F. Enter the class of the shipment. Make sure it matches the NMFC number you used.
+G. Enter the weight of the shipment. Carrie
+                                         rs will reweigh the shipment if they think the weight
+   is inaccurate and charge an extra fee (in addition to the extra freight charges) if the
+   shipment increases in weight.
+H. Total the pieces and weight in the area indicated.
+I. Sign and date at the bottom. Your
+                                   signature verifies what is being shipped.
+J. Have the driver sign and date at the bottom as well. His signature verifies what he is picking
+   up.
+
+
+
+
+                                                                       28 | P a g e
+

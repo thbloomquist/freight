@@ -1,0 +1,961 @@
+Documents API
+  User Manual
+Documents API Manual
+Table of Contents
+
+
+Notices                                            1
+
+Documents API Rules                                2
+     Business Processes and Rules                  2
+
+     Additional Rules                              2
+
+Introduction                                       3
+
+     About the TForce Freight Documents API        3
+
+     Who Should Read This Manual                   3
+
+     Manual Organization                           3
+
+     Prerequisites                                 3
+
+Getting Started with Documents API                 4
+     Key Steps to Begin                            4
+
+     Helpful Resources                             4
+
+Documents API Endpoints                            5
+
+     Get Document by Document ID (Base64 Format)   5
+
+     Get Documents by PRO Number (Base64 Format)   6
+
+     OpenAPI Metadata                              6
+
+Making a Request                                   7
+
+     Base URL                                      7
+
+     Headers                                       7
+
+     Query Parameters                              7
+
+     Details for /pro endpoint                     8
+
+     Details for /id endpoint                      9
+
+     Details for /openapi endpoint                 9
+
+     API Throttling                                10
+Response Structure and Codes                      11
+
+     Documents Response Body Properties           11
+
+Formatting and Common Element Constraints         13
+
+     Data Types                                   13
+
+     Property details                             14
+
+Application Integration and Testing               15
+     PRO Numbers for Testing in CIE               15
+
+Appendix                                          16
+     HTTP Response Codes                          16
+
+     Document Error Codes                         17
+
+     Document Category Codes                      18
+
+     Handling Base64 Encoded Documents Appendix   19
+
+     Response Data                                20
+Documents API Manual                                                                        September 06, 2024
+
+
+
+
+Notices
+This section contains important legal and regulatory information that governs the use of TForce Freight
+APIs. By accessing or using the API, you agree to comply with the terms outlined in this section. Please
+take a moment to review the following notices before proceeding.
+Copyright Information
+The content and materials provided in this documentation are the property of TForce Freight and are
+protected by applicable copyright laws. All rights are reserved. You may use the documentation for your
+internal purposes related to using this TForce Freight API, but you may not reproduce, distribute, modify,
+or otherwise exploit the content for commercial purposes without express written consent from TForce
+Freight.
+Trademarks
+"TForce Freight" and the TForce Freight logo are trademarks or registered trademarks of TForce Freight
+in various jurisdictions. Other names, logos, and trademarks appearing in this documentation are the
+property of their respective owners.
+Terms of Use
+Your use of this TForce Freight API is subject to the TForce Freight Terms of Use, which can be accessed
+on our official website. By using the API, you acknowledge that you have read, understood, and agreed to
+abide by the Terms of Use.
+API Usage Policies
+Please note that the use of this TForce Freight API is subject to specific usage policies, which may
+include rate limits, acceptable use guidelines, and data usage restrictions. These policies are designed to
+ensure fair and responsible use of the API and to maintain the quality of service for all users. Be sure to
+review and adhere to these policies to avoid any disruptions to your API access.
+Legal Disclaimers
+The information and materials provided in this documentation are for informational purposes only and are
+provided "as is" without any warranties, expressed or implied. TForce Freight makes no representations
+or warranties regarding the accuracy, completeness, or suitability of the information contained herein.
+TForce Freight disclaims any liability for any errors or omissions in the documentation.
+Privacy Policies
+Your privacy is important to us. TForce Freight's privacy practices are outlined in our Privacy Policy, which
+can be accessed here on our official website. The Privacy Policy describes how we collect, use, disclose,
+and safeguard your personal information in connection with the use of our services, including this API.
+Attribution Requirements
+If you are a third-party developer using this API to provide services to your clients, you may need to
+adhere to certain attribution requirements as specified by TForce Freight.
+Contact Information
+For inquiries related to this API, its usage, or any other matter, please contact our support team at
+groundfreightapisupport@forcefreight.com.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                          Page 1
+Documents API Manual                                                                       September 06, 2024
+
+
+
+
+Documents API Rules
+The TForce Freight Documents API facilitates clients in accessing and managing the documents
+associated with their shipments. The following sections discuss the rules governing access and use of
+this API.
+
+Business Processes and Rules
+        TForce Freight APIs require you to follow the request structures defined in this manual. The API
+        enforces strict adherence to these definitions.
+        Use of undefined elements will result in unsuccessful request operations.
+        API access is restricted to customers (and their authorized agents) shipping packages manifested,
+        tendered, and delivered by TForce Freight. Access is further restricted to the performance of
+        legitimate shipping activities and operations.
+        Abusing or data mining TForce Freight APIs will result in revocation of API access.
+        Documentation access requires a registered TForce Freight profile.
+        You will only be able to view documents to which your approved account has permissions to view.
+        In both production and CIE environments, developers need to be enrolled with TForce Freight and
+        receive OAuth Credentials. For more details, see our website to help you get started.
+
+
+Additional Rules
+        The API is available to brokers or resellers of transportation services possessing a current and
+        active TForce Freight agreement/partnership.
+        LTL Freight origins include the US, CA, & MX, with specific rates for non-contiguous US regions
+        obtainable through TForce Freight Customer Service.
+
+
+    Important: By accessing and using this API, users confirm their understanding of these terms and
+    agree to use the API in a manner consistent with its intended purposes. Non-compliance with these
+    rules will result in immediate revocation of API access. TForce Freight reserves the right to monitor
+    API usage to ensure compliance with these terms. Please please contact our support team at
+    groundfreightapisupport@forcefreight.com to address any concerns or questions regarding API
+    usage or to seek clarification on these rules.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                       Page 2
+Documents API Manual                                                                      September 06, 2024
+
+
+
+
+Introduction
+Welcome to the TForce Freight Documents API Manual. This comprehensive guide is designed to assist
+developers use the TForce Freight Documents API for accessing and managing shipment-related
+documentation. Whether you are building applications to enhance customer experience or streamline
+internal operations, this manual will provide you with the knowledge to seamlessly integrate with TForce
+Freight’s document handling capabilities.
+
+About the TForce Freight Documents API
+The TForce Freight Documents API provides a robust suite of endpoints enabling the retrieval and
+management of shipping documents such as bills of lading, invoices, and delivery receipts. Integrate our
+API into your systems to offer your users instant access to critical documents, ensuring an informed and
+updated shipment process.
+
+
+Who Should Read This Manual
+This manual is intended for developers, software engineers, and technical teams who are responsible for
+integrating the TForce Freight Documents API into their applications. Whether you are new to APIs or an
+experienced developer, this guide will provide you with the necessary information to get started and make
+the most out of TForce Freight's document management services.
+
+
+Manual Organization
+The manual is structured into sections to guide you through the various facets of the TForce Freight
+Documents API:
+
+        Notices: Important legal and disclaimer information.
+        Introduction: An overview of the manual's purpose and organization.
+        Getting Started with the TForce Freight Documents API: Guidelines on accessing the API,
+        including authentication, base URLs, and versioning.
+        Documents API Endpoints: Comprehensive coverage of the available documents endpoints, their
+        functionalities, and usage instructions.
+        Request and Response Format: Specifications for the API requests and responses, including
+        headers, URL patterns, and data encoding.
+        Integration and Testing Reference Information: Recommendations for testing your integration,
+        including a testing environment, sample PRO numbers, and rate limiting considerations.
+        Appendix: Additional resources, including error codes and document types.
+
+
+Prerequisites
+Before you proceed, it's recommended that you have a basic understanding of HTTP, API concepts, and a
+programming language you intend to use for API integration. Additionally, you should have an active
+TForce Freight developer account and the necessary credential approval to access the API endpoints.
+
+Please reach out to the TForce Freight API support team if you have any questions or need assistance
+during the integration process.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                        Page 3
+Documents API Manual                                                                           September 06, 2024
+
+
+
+
+Getting Started with Documents API
+TForce Freight APIs offer streamlined integration options, enabling customers of TForce Freight to link
+their accounts with your application for direct access and management of their shipping documents.
+
+Key Steps to Begin
+The following is a high level overview of the client registration and authorization process:
+
+     1. User Onboarding: Users can sign up for a new TForce Freight account or log into an existing one.
+        Once enrolled, they'll grant consent for your application to access their TForce Freight account
+        data. This process is managed by the TForce Freight Customer Identity and Access Management
+        (CIAM) platform.
+     2. Configuring Your Application: Visit your developer portal profile to configure your application
+        settings:
+               Set up your application's display information (e.g., logo, display name, home page URL).
+               Provide a webhook URL for receiving events from the TForce Freight API.
+               Manage your OAuth client secrets for secure exchanges.
+     3. Handling Webhook Events: Upon user consent, an event (UserOnboardedEvent) will be
+        dispatched to your configured webhook. This event contains essential information about the
+        onboarded user, which you can use to make further requests to the TForce Freight Documents
+        API.
+     4. Token Management: Use the provided JSON Web Token (JWT) from the UserOnboardedEvent to
+        retrieve access and refresh tokens from the TForce Freight CIAM platform. These tokens are
+        essential for accessing user data through the API.
+     5. Accessing the API: With a valid token, you can then access the TForce Freight API to retrieve or
+        update the onboarded user's data.
+     6. Recovering Access Rights: If tokens expire, users will need to reaffirm their consent. To
+        streamline this process, consider implementing a mechanism to refresh tokens before they expire.
+
+
+Helpful Resources
+For a more detailed and technical guide on integrating with the TForce Freight API, visit the Third Party
+Integration Guide.
+
+Additional references:
+
+        Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow
+        Overview of the Microsoft Authentication Library (MSAL)
+        CloudEvents
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                           Page 4
+Documents API Manual                                                                      September 06, 2024
+
+
+
+
+Documents API Endpoints
+The TForce Freight Documents API provides endpoints to access image documents associated with
+shipments. This includes retrieving documents by their document ID or by the PRO number, with options
+for different formats. This section provides an overview of the main document-related endpoints available
+for use.
+
+This overview provides a glimpse of the endpoints offered by the TForce Freight Documents API. Each
+endpoint serves a specific purpose and provides different ways to access and retrieve document data. As
+you explore this API manual, you'll find more in-depth information on how to utilize these endpoints
+effectively.
+
+
+Get Document by Document ID (Base64 Format)
+
+    POST                                                                                            /id
+
+
+   Description:
+   This endpoint allows you to retrieve an image associated with a specific document ID, delivered in a
+   base64 format. To obtain the document id and last update date, you must first run the 'Get by PRO'
+   operation.
+
+   Key Parameter(s):
+   docId : The document ID of the image document you want to retrieve.
+   lastUpdatedDate : The updated date of the document id you want to retrieve. Please see the
+   below note for more information.
+
+
+
+      Note: Both docID and lastUpdatedDate are found in the response for Get Documents by PRO
+      Number operation. They must match to retrieve the document requested.
+
+
+                                                      Request Details
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                      Page 5
+Documents API Manual                                                                     September 06, 2024
+
+
+
+
+Get Documents by PRO Number (Base64 Format)
+
+    POST                                                                                         /pro
+
+
+   Description:
+   This endpoint allows you to retrieve documents associated with a PRO number, delivered in a
+   base64 format.
+
+   Request Body Description:
+   Includes properties like pro (the PRO number) and documentCategories (an array of image
+   categories to retrieve).
+
+
+                                                      Request Details
+
+
+OpenAPI Metadata
+
+    GET                                                                                   /openapi
+
+
+   Description:
+   This endpoint provides the OpenAPI metadata for the TForce Freight Documents API, allowing you
+   to access a structured description of the available endpoints, request and response formats, and
+   other essential API details.
+
+
+                                                      Request Details
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                       Page 6
+Documents API Manual                                                                                     September 06, 2024
+
+
+
+
+Making a Request
+This section will focus on the specifics of making a request, including any required headers, parameters,
+and request body formats.
+
+Base URL
+The following URLs allow you to access TForce Freight Documents API Endpoints
+
+
+
+  Production                                  https://api.tforcefreight.com/documents
+
+
+Headers
+Below is a table of the headers supported and required by the API:
+
+    Header Name                             Description                           Requirement           Example Value
+                                                                             Required (for
+                            Used for passing the OAuth2.0                                             Bearer [Access-
+ Authorization                                                               authenticated
+                            access token.                                                             Token]
+                                                                             endpoints)
+ Cache-Control              Directive for caching mechanism.                 Optional                 no-cache
+                            Type of content that is acceptable for
+ Accept                                                                      Optional                 application/json
+                            the response.
+                            The media type of the body of the
+                                                                             Required for requests
+ Content-Type               request (used with POST, PUT and                                          application/json
+                                                                             with a body
+                            PATCH).
+
+
+Query Parameters
+Below is a table of the query parameters supported by the API:
+
+     Parameter Name                                      Description                         Req?      Example Value
+                                 Specifies the version of the API to use.
+
+                                         'v*' (e.g., v1) for live production
+                                         'cie-v*' (e.g., cie-v1) for customer                        v1, cie-v1, cie-
+ api-version                             integration environment matching the                REQ
+                                                                                                     vNext
+                                         production version
+                                         'cie-vNext' for testing upcoming versions
+                                 Please visit the APIs page for available versions.
+
+
+    Note: It is critical to understand the way versioning is handled through query parameters. Review
+    the section on testing environments for an example of the version query parameter in use.
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                                         Page 7
+Documents API Manual                                                                              September 06, 2024
+
+
+
+
+Details for /pro endpoint
+This endpoint retrieves documents associated with a PRO number in base64 format.
+
+Headers
+When sending a JSON request body, most clients will automatically set Content-Type: application/json.
+
+Request Body
+
+             Property Name                       Type               Description             Example Value
+ pro                                           String       9 digit PRO number.     "885728922"
+                                                        Categories of
+                                               Array of documents to retrieve.
+ documentCategories                                                                 ["BOL"]
+                                               Strings See the appendix for
+                                                        more details.
+                                                       True returns only
+                                                       document ids and false
+ returnDocumentIdsOnly                         Boolean                              false
+                                                       returns document
+                                                       stream.
+                                                       True returns only latest
+                                                       versions of a document
+ returnLatestDocuments                         Boolean                              true
+                                                       and false returns all
+                                                       versions.
+                                                            It will only bring back
+                                                            the document if newer
+                                                            than
+ clientCache                                   Array                                clientCache[].lastUpdatedDate
+                                                            lastUpdatedDate.Please
+                                                            see below clientCache
+                                                            note for more details.
+
+
+    Note: To obtain a valid document ID, run the 'Get by PRO' operation for your shipment. The 'Get
+    by PRO' operation will return the IDs associated with your shipment, which can be used to run the
+    'Get by ID' operation.
+
+
+
+    Note: About ClientCache, If you put lastUpdatedDate in request, equals to or higher than the
+    returned lastUpdatedDate, it will return data as null and status as "Not-Modified", otherwise it is
+    going to return the data if it is lesser than lastUpdatedDate.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                              Page 8
+Documents API Manual                                                                                 September 06, 2024
+
+
+
+
+Details for /id endpoint
+This endpoint retrieves an image by its document ID in base64 format.
+
+Headers
+When sending a JSON request body, most clients will automatically set Content-Type: application/json.
+
+Request Body
+
+                 Property Name                         Type                 Description           Example Value
+                                                                The unique identifier for the
+ docId                                                String                                    123456789
+                                                                document
+                                                                The Last updated date for the 2022-02-
+ lastUpdatedDate                                      String
+                                                                documentID                    23T08:11:44-05:00
+
+
+Details for /openapi endpoint
+This endpoint does not require a request body, specific headers, or parameters.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                                 Page 9
+Documents API Manual                                                                                  September 06, 2024
+
+
+
+
+API Throttling
+TForce Freight APIs implement throttling mechanisms to ensure equitable distribution of resources among
+all users and to safeguard the system's stability and reliability. This section clarifies the different throttling
+policies in place.
+
+
+    Note: Customer Integration Environment (CIE) endpoints and Production endpoints maintain
+    separate throttling counters. Reaching a limit in one environment won’t impact your request
+    allowance in the other.
+
+
+Rate Limiting
+Our system implements rate limiting when a large volume of requests is received in a short time frame.
+This limiting helps balance server load and maintain consistent performance even during traffic spikes.
+
+        Renewal Time: 60 seconds.
+
+High request volumes may result in a 429 error response. This indicates that there's a temporary hold on
+requests to ensure optimal experience for all users. The rate limit resets after 60 seconds.
+
+Quota Limiting
+Different from rate limiting, quota limiting controls the number of requests an individual user can send
+over an extended period. Quota limiting ensures no single user overwhelms the system. Each user has a
+generous request allowance for this time frame.
+
+        Renewal Time: 300 seconds.
+
+Crossing the quota limit threshold will trigger a 403 error response for the user who exceeded the limit.
+This error is exclusive to the user who has exceeded their quota, and normal access is restored after 300
+seconds.
+
+Summary of Throttle Limits
+The following table summarizes the different throttling limits.
+
+      Throttle Type               Error Code                Renewal Time                      User Affected
+ Rate Limit                   429                      60 seconds                 All users
+ Quota Limit                  403                      300 seconds                Requesting user only
+
+Recommendations
+The following recommendations will help you manage your API requests to minimize throttling.
+
+        Continuously monitor your API usage.
+        If you receive a 429 or 403 response, consider implementing a method like exponential back-off for
+        your requests. Wait for the specified renewal time before sending another batch of requests.
+        Review the HTTP header of our responses. It can offer insights about your current usage relative
+        to potential limits.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                                 Page 10
+Documents API Manual                                                                                   September 06, 2024
+
+
+
+
+Response Structure and Codes
+The following section details the various codes and responses you may receive from the Documents API.
+
+Documents Response Body Properties
+This table summarizes and describes the different response body properties you may encounter.
+
+Understanding this table
+This table represents nested JSON structures using dots to denote parent structures.
+
+ For example, consider the following field from our table:
+
+ summary.responseStatus.code
+
+ This corresponds to the nested structure in the JSON response:
+
+ {
+  "summary": {
+     "responseStatus": {
+       "code": "IMG_000204",
+       "message": "The combination of PRO and
+  Categorie(s) would result in a large data set
+  that cannot be returned in single requeset.
+  If other images are required, please resend                                     In the response, the
+  request by adding the provided image ids by
+ using the 'clientCacheState' parameter."                                         code
+     },
+     "transactionReference": {                                                    is nested within
+       "transactionId": "d9734ed8-16d7-407f-8cc
+ a-da55bc8a0b07"                                                                  responseStatus
+     }
+   },                                                                             which itself is nested within
+   "detail": [
+                                                                                  summary
+   {
+    "detailStatus": {                                                             Hence, the dot notation
+      "code": "1",
+      "message": "Success",                                                       summary.responseStatus.code
+      "documentStatus": "Active"
+     },
+     "documentType": {
+      "name": "BOL",
+      "description": "Bill of Lading"
+     },
+     "id": "548489",
+     "documentSize": 92016,
+     "updateDate": "2022-02-23T08:11:44-05:00",
+     "category": "BOL"
+   }
+   ]
+ }
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                                   Page 11
+Documents API Manual                                                                                 September 06, 2024
+
+
+
+
+      Property            Type                                               Description
+ id                    string        Unique identifier of the document.
+ documentSize          integer       Size of the document in bytes.
+                       date-
+ updateDate                          Date and time when the document was last updated.
+                       time
+                                     Category of the document. Possible values: BILL_OF_LADING, CLAIMS,
+ category              string
+                                     DELIVERY_RECEIPT, INVOICE, WEIGHT_CERTIFICATE
+ type.name             string        Name of the document type.
+ type.description string             Description of the document type.
+                       string
+ data                                Base64-encoded string of the document's data.
+                       (byte)
+
+
+              Property                       Type                                   Description
+                                                         Overall status of the request. Possible values: Success,
+ status.type                             string
+                                                         Warning, Error
+ status.infos[]                          array           Array containing additional information or warnings.
+ status.infos[].code                     string          Code related to the specific information or warning.
+ status.infos[].message                  string          Message related to the specific information or warning.
+ imagesData[]                            array           Array of image data objects.
+ imagesData[].id                         string          Unique identifier of the document.
+ imagesData[].documentSize               integer         Size of the document in bytes.
+ imagesData[].updateDate                 date-time       Date and time when the document was last updated.
+ imagesData[].category                   string          Category of the document.
+ imagesData[].type.name                  string          Name of the document type.
+ imagesData[].type.description string                    Description of the document type.
+                                         string
+ imagesData[].data                                       Base64-encoded string of the document's data.
+                                         (byte)
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                                 Page 12
+Documents API Manual                                                                           September 06, 2024
+
+
+
+
+Formatting and Common Element
+Constraints
+Understanding the constraints on data elements is crucial when integrating with the TForce Freight
+Shipping API. This section outlines common element constraints specific to this API.
+
+Data Types
+The Shipping API utilizes various data types, including:
+
+        String: Used for textual data such as names, email addresses, codes, and other descriptive
+        information.
+        Integer: Represents numeric values without decimals, used for properties like pieces and weight.
+        Boolean: Indicates true/false values, used for flags such as 'pomIndicator'.
+        Array: A collection of elements, often used for lists like 'service options' and 'email notifications'.
+        Object: Represents complex data structures, like 'shipFrom', 'shipTo', and 'commodities'.
+
+Value Constraints
+Certain elements have specific constraints. For example:
+
+        Service Options: Must be one of the predefined enumeration values (e.g., 'INPU', 'LIFO').
+
+Review the appendix and property tables for additional enumerations.
+
+Length and Format Constraints
+Some string values have specific formats or patterns they must adhere to.
+
+ PRO number                        Must be a 9-digit number. Pattern: ^\d{9}$
+
+
+    Note: Adhering to these constraints is essential for successful API requests. Ensure that your
+    requests conform to these guidelines for effective integration with the TForce Freight Shipping API.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                          Page 13
+Documents API Manual                                                                     September 06, 2024
+
+
+
+
+Property details
+The following section details constraints for each property.
+
+Details for /pro requests
+
+{
+                                                                                  Req: Yes
+      "pro": "",                                                                  Characters: =9
+                                                                                  Format: PRO
+                                                                                  Req: Yes
+      "documentCategories": [""],                                                 Enum: Appendix
+                                                                                  Items Allowed: ≥1
+                                                                                  Req: Opt
+      "returnDocumentIdsOnly": ,
+                                                                                  Enum: Boolean
+                                                                                  Req: Opt
+      "returnLatestDocuments": ,
+                                                                                  Enum: Boolean
+}
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                    Page 14
+Documents API Manual                                                                            September 06, 2024
+
+
+
+
+Application Integration and Testing
+TForce Freight's integration environment is available 24/7 for your application testing.
+
+
+    Note: All API URLs are case-sensitive.
+
+
+Integration Testing
+For integration testing, please point your Documents RESTful API requests to:
+
+
+
+  CIE                                       /documents/[endpoint]?api-version=cie-v1
+
+
+Production Environment
+Upon the conclusion of testing, redirect your Documents RESTful API to the following production URL:
+
+
+
+  Production                                        /documents/[endpoint]?api-version=v1
+
+
+PRO Numbers for Testing in CIE
+Below is a table with PRO numbers specifically intended for use within the CIE. It offers a breakdown of
+the results developers can anticipate when initiating a Documents RESTful API query.
+
+If any PRO number not listed for CIE testing is used, the API will return an error response.
+
+                Value                                                             Description
+ 885728922                               Supports all document types
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                           Page 15
+Documents API Manual                                                                            September 06, 2024
+
+
+
+
+Appendix
+HTTP Response Codes
+These are some of the HTTP status codes that the API may return in response to your requests:
+
+  Status
+                Description                                               Additional Info
+  Code
+ 200         OK                    The request was successful and returned the expected data.
+                                   The server could not understand the request due to invalid syntax. Check
+ 400         Bad Request
+                                   your request body or parameters.
+                                   The user is not authenticated. Ensure that your API key or authentication
+ 401         Unauthorized
+                                   token is valid.
+                                   When the user's request quota is exceeded. The response will include a
+ 403         Forbidden             Retry-After header indicating the recommended retry interval in seconds.
+                                   This typically affects the requesting user only.
+                                   The server could not find the requested endpoint or resource. Ensure your
+ 404         Not Found
+                                   URL is correct.
+                                   The call rate for the API has been exceeded. The response will include a
+             Too Many
+ 429                               Retry-After header indicating the recommended retry interval in seconds.
+             Requests
+                                   This affects all users.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                           Page 16
+Documents API Manual                                                                        September 06, 2024
+
+
+
+
+Document Error Codes
+      Code                                                           Description
+ IMG_000100 Invalid Request
+ IMG_000101 Unsupported output file format( 'application/pdf' is only available now )\
+ IMG_000102 'DocumentCategories' is required.
+ IMG_000201 Enrollment is required.
+ IMG_000202 Internal server error! Please try again later.
+                    Unable to return all requested images. For more information please check the status of
+ IMG_000203
+                    each item.
+            The combination of PRO & Categories resulted in a large data set that we can't return all
+ IMG_000204 at once. If other images are required Please resend request by adding the provided
+            image ids <id:reqestTime> by using the 'clientCacheState' parameter.
+ IMG_000205 PRO Number is required.
+ IMG_000206 PRO Number is invalid.
+ IMG_000404 Unable to retrieve the requested document.
+                    Could not find any document with this ID under provided PRO Number and requested
+ IMG_000405
+                    criteria.
+                    Could not find any document with this ID under provided PRO Number and requested
+ IMG_000406
+                    criteria.
+ IMG_000407 Could not find any document for provided PRO Number.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                       Page 17
+Documents API Manual                                                                                       September 06, 2024
+
+
+
+
+Document Category Codes
+The following tables serve as a reference for document types and their associated codes used within our
+shipping and handling systems. They provide a comprehensive guide to identifying documents based on
+their codes and descriptions.
+
+                  Categories                                                      Description
+ BOL                                               Bill of Lading
+ CLM                                               Claims
+ DR                                                Delivery Receipt
+ INVC                                              Invoice
+ WGHT                                              Weight Certificate
+
+Document Type Value Definitions
+
+      Document Type                   Document Category                                      Description
+ BOL                            BOL                                    Bill Of Lading
+ CCDL                           CLM                                    Cargo Claims Declination Letter
+ CBOL                           BOL                                    Corrected Bill Of Lading
+ CMC                            WGHT                                   Cube Measurement Certificate
+ CUSX                           WGHT                                   Customer Exception Sheet
+ CUSD                           BOL                                    Customs Document
+ DR                             DR                                     Delivery Receipt
+ FREE                           BOL                                    Free Astray
+ INSP                           WGHT                                   Inspection Report
+ LOA                            BOL                                    Letter Of Authority
+ RECN                           BOL                                    Letter Of Reconsignment
+ OVHD                           BOL                                    On Hand Notice
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                                      Page 18
+Documents API Manual                                                                        September 06, 2024
+
+
+
+
+         Type Value                                                   OnBase Description
+ OSD                              OS&D Report
+ OTH                              Other
+ PACK                             Packing Slip
+ PALT                             Pallet Return
+ REWE                             Reweigh Ticket
+ THFT                             Theft Report
+ WRC                              Weighing And Research Certificate
+
+
+Handling Base64 Encoded Documents Appendix
+The Documents API provides documents as Base64 encoded images. By using Base64 encoding, binary
+data like images can be encoded as text. This format is commonly used for transferring image data in
+web applications. The following sections provide a few examples of how you can process this data to
+retrieve your decoded document:
+
+Displaying the Document
+To display a Base64 encoded document, you can set it directly into an <img> tag's src attribute using the
+Data URL scheme:
+
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJR..."/>
+
+Replace the /9j/4AAQSkZJR... with your actual Base64 data. The browser will decode and render the
+document automatically.
+
+Saving the Document
+If you want to save the document image to a file, you can:
+
+     1. Use a server-side language (like PHP, Node.js) to decode the Base64 string and write it to a file.
+     2. Use JavaScript's atob() function to decode the data and save it using the File API if you're
+        working in a browser environment.
+
+Handling Base64 Images Summary
+Base64 encoded images offer a flexible way to work with image data in web applications, allowing for
+easy storage, transmission, and manipulation without needing to use binary file streams directly.
+
+
+    Note: The handling methods for Base64 encoded images described herein are provided for
+    informational purposes only. TForce Freight does not endorse any specific method of image data
+    decoding. You are responsible for adhering to best practices and complying with relevant
+    regulations when manipulating or storing image data. TForce Freight accepts no responsibility for
+    any damages, data loss, or security breaches that may occur from use of these methods.
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary                       Page 19
+Documents API Manual                                                              September 06, 2024
+
+
+
+
+Response Data
+The below is the sample response with data.
+
+                                                       Sample Response
+
+ {
+     "summary": {
+         "responseStatus": {
+             "code": "1",
+             "message": "Success"
+         },
+         "transactionReference": {
+             "transactionId": "d84d46e3-342f-4794-a64e-1a0f3ef2e1b0"
+         }
+     },
+     detail": [{
+         "detailStatus": {
+             "code": "1",
+             "message": "Success",
+            "documentStatus": "Active"
+         },
+         "documentType": {
+             "name": "OSD",
+             "description": "OS&D"
+         },
+             "id": "493315",
+             "documentSize": 17400,
+             "updateDate": "2018-11-16T15:01:04-05:00",
+             "category": "CLM",
+             "data": "JVBERi0xLjYNJeLjz9MNCjcgMCBvYmoNPDwvTGluZWFyaXplZCAxL0wgMTc0MDA
+ vTyA5L0UgMTMyOTAvTiAxL1QgMTcxMTEvSCBbIDQzNSAxMzJdPj4NZW5kb2JqDSAgICAgICAgICAgICAg
+ ICAgICAgDQoxMiAwIG9iag08PC9EZWNvZGVQYXJtczw8L0NvbHVtbnMgMy9QcmVkaWN0b3IgMTI"
+     }
+ }
+
+
+
+
+© 2024 TFI International Inc. All Rights Reserved. Confidential and Proprietary             Page 20
+

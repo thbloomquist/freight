@@ -1,0 +1,2981 @@
+                   United   States   General   Accounting   Office
+
+GAO                Report to the Chairman, Subcommittee
+                   on Readiness,Committee on Armed
+                   Services, House of Representatives
+
+December   1991
+                   DOD COMMERCIAL
+                   TRANSPORTATION
+                   Savings Possible
+                   Through Better Audit
+                   and Negotiation of
+                   Rates
+
+
+
+
+GAO/NSIAD-92-61,
+_            -
+    :   ‘.
+United States
+General Accountind Office
+Washington, D.C. 26648
+
+National Security and
+International Affairs Division
+
+B-245288
+
+December 27,199l
+
+The Honorable Earl Hutto
+Chairman, Subcommittee on Readiness
+Committee on Armed Services
+House of Representatives
+
+Dear Mr. Chairman:
+
+As you requested, we evaluated the effectiveness of the Department of Defense’s efforts to
+control commercial transportation costs. This report contains several recommendations to
+the Secretary of Defense for improving prepayment audits and making rate negotiations for
+international ocean cargo and domestic household goods transportation more effective.
+
+We are sending copies of this report to the Secretaries of Defense, the Army, and the Navy;
+the Commanders of the Transportation Command, the Military Traffic Management
+Command, and the Military Sealift Command; the Administrator of the General Services
+Administration; and the Director of the Office of Management and Budget.
+
+Please contact me at (202) 275-4141 if you or your staff have any questions concerning the
+report. Major contributors to this report are listed in appendix II.
+
+Sincerely yours,
+
+
+
+
+Richard Davis
+Director, Army Issues
+Ekeeutive Summary
+
+
+                   The Department of Defense (DOD) spends approximately $3 billion a
+Purpose            year for commercial transportation services to move cargo, personnel,
+                   and their personal effects worldwide. DOD sometimes overpays its trans-
+                   portation bills or does not effectively negotiate for reduced rates.
+
+                   The Chairman of the Subcommittee on Readiness, House Committee on
+                   Armed Services, asked GAO to assess the effectiveness of DOD'S efforts to
+                   control commercial transportation costs. He asked specifically that GAO
+                   (1) determine whether DOD is preventing excess payments to commercial
+                   carriers through preauditing-that   is, auditing bills prior to payment-
+                   and (2) identify any other areas where DOD could improve its traffic and
+                   travel management programs.
+
+
+                   Each DOD service and agency budgets for and controls its own commer-
+Background         cial transportation expenses and is responsible for determining its ship-
+                   ping requirements. Other transportation managers assist the services
+                   and agencies in carrying out their traffic and travel management pro-
+                   grams. Under the overall policy direction and guidance of the Assistant
+                   Secretary of Defense (Production and Logistics), the Military Traffic
+                   Management Command advises the services and agencies how to select
+                   domestic freight carriers and route shipments or make travel arrange-
+                   ments. It also negotiates rates for freight transportation in the United
+                   States and for household goods transportation worldwide. The Military
+                   Sealift Command negotiates rates for ocean freight transportation and
+                   provides information to the Military Traffic Management Command for
+                   selecting ocean carriers and routing ocean shipments.
+
+                   Since late 1988, DOD has had the authority to preaudit commercial trans-
+                   portation bills and to retain whatever overcharge amounts it identifies.
+                   Prior to that time, DOD paid most of its bills for commercial transporta-
+                   tion services prior to audits performed by the General Services Adminis-
+                   tration (GSA). GSA still performs postaudits for DOD.
+
+
+                   Preauditing since 1988 has prevented nearly $10 million in domestic
+Results in Brief   freight expenditures that DOD would have otherwise made. It has also
+                   helped indirectly, in non’s opinion, to deter another $34 million in
+                   overcharges by prodding carriers to adopt more careful billing practices.
+                   However, GSA'S postaudit data shows that some overcharges were not
+                   identified during DOD'S preaudits. DOD has not compared GSA'S audit
+                   results with its own results to determine why this may have occurred.
+                   Moreover, DOD has not provided feedback to transportation officials at
+
+
+                   Page 2                           GAO/NSIAD-92-61 DOD Commercial Transportation
+                            Executive Summary
+
+
+
+
+                            local installations to make them aware of overcharging so that they can
+                            take corrective actions to prevent future overcharges.
+
+                            DOD may be missing opportunities   to control costs more effectively in
+                            two other transportation areas, First, the Military Sealift Command, in
+                            negotiating container shipping rates with commercial ocean carriers,
+                            does not (1) provide prospective offerors useful information about its
+                            requirements in terms of the specific commodities to be shipped and
+                            shipping origins and destination points or (2) solicit and evaluate rate
+                            offers for the same pattern of service for which DOD actually procures
+                            the service. Second, the Military Traffic Management Command has not
+                            yet implemented or proposed to the household goods moving industry
+                            any changes to its process for soliciting domestic rates, as GAO had rec-
+                            ommended in a February 1990 report, to ensure competitive bidding for
+                            DOD business. The existing bidding process does not provide carriers ade-
+                            quate incentives to encourage them to offer DOD their lowest rates.
+
+
+
+Principal Findings
+
+Strengthened Preauditing    While DOD’S system of preauditing has helped prevent millions of dollars
+Would Help Lower            of overcharges on domestic freight costs, DOD has not tested the audits to
+                            determine whether they are detecting all overcharges. The data to per-
+Domestic Freight Costs      form such tests could be obtained from GSA.For example, in GAO’S
+                            review of 135 DOD-preaudited bills of lading issued in fiscal year 1989 in
+                            conjunction with training exercises at Ft. Irwin, California, GAO found
+                            subsequent GSA-identified overcharges on about 16 percent of the bills,
+                            involving more than $75,000.
+
+                            DOD has not routinely provided transportation personnel initiating the
+                            shipments with preaudit results. Consequently, these officials have been
+                            unable to meet with local carrier representatives to correct repeated
+                            overcharging at the earliest opportunity.
+
+
+Improved Rate Negotiation   The Military Sealift Command, in attempting to negotiate favorable
+Strategy Would Enhance      rates with the containerized ocean carriers, does not provide prospective
+                            offerors specific information about the commodities, number of con-
+Competition for             tainers, and the shipping origin and destination points. W ithout such
+Containerized Ocean Cargo   information, carriers are handicapped in formulating informed offers.
+Shipping Service            Further, the Command’s ability to evaluate the reasonableness of rates
+
+
+                            Page 3                             GAO/NSIAD92Sl   DOD Commercial Transportation
+                                Executive Summary
+
+
+
+
+                                offered is weakened because it cannot precisely compare the offers with
+                                the carriers’ commercial rates.
+
+                                In addition, the Command complicates rate negotiations by soliciting and
+                                evaluating rates by segments-that is, from inland origin to port, port to
+                                port, and port to inland destination-and not for the through shipment.
+                                Since transportation services are procured on a through basis, seg-
+                                mented rate solicitation and evaluation distorts the significance of the
+                                rate offers and complicates the evaluation process.
+
+
+Negotiating Process for         The Military Traffic Management Command’s process for soliciting rates
+                                for moving the domestic household goods of DOD personnel does not pro-
+Moving Domestic                 vide carriers an incentive to offer their best rates up front, Its two-step
+Household Goods                 bidding process allows carriers to match the bids of the initial low-bid
+Continues to Lack               carriers and to share equally in all the DOD shipments. GAO identified this
+Incentives for Offer sing       problem in a previous report and recommended that the Command
+Low Rates                       replace or modify its bidding process to reward the initial low bidders.
+                                Although DODconcurred with the recommendation and offered a plan to
+                                revise the process, it has not met its milestones for implementing the
+                                plan or offered the carriers any proposals for change.
+
+
+                                GAO recommends that    the Secretary of Defense
+Recommendations
+                            9 direct the Military Traffic Management Command and other units per-
+                              forming preaudits to (1) test the effectiveness of their preaudits by com-
+                              paring the results with bills audited after payment and (2) develop a
+                              system for ensuring the timely notification of local installation transpor-
+                              tation officials when the auditing activities detect overcharges;
+                            . direct the Military Sealift Command to (1) develop and provide to all
+                              prospective offerors detailed information on what it has shipped in
+                              terms of specific commodities and number of containers in specific
+                              traffic patterns, and its best estimate of what it will be shipping in the
+                              future, and (2) change its solicitations to request rates for the same pat-
+                              tern of service for which DOD actually procures the service; and
+                            l direct the Military Traffic Management Command to accelerate imple-
+                              mentation of GAO’S previous recommendation to replace or modify the
+                              current domestic household goods bidding process so that all carriers
+                              have an incentive to initially bid the lowest possible rates and the lowest
+                              bidder is appropriately rewarded.
+
+
+
+
+                                Page 4                            GAO/NSLAD92-61 DOD Commercial Transportation
+                      Executive Summary
+
+
+
+
+                      DOD concurred   with the report recommendations concerning preauditing
+Agency Comments and   and said that it will formally request GSA postaudit results and compare
+GAO Evaluation        them with DOD'S preaudit results. It also said that it will implement a
+                      system for ensuring timely notice to local transportation officials when
+                      the preauditors detect overcharges.
+
+                      DOD generally  agreed with GAO'S recommendations concerning ocean rate
+                      negotiation but believed that detailed shipping information was already
+                      available to those bidders who desire it. GAO believes that the Military
+                      Sealift Command should provide such information to the carriers with
+                      the request for proposals without the carriers having to ask for it.
+
+                      DUD believed that changing the solicitation process to obtain through-
+                      shipment rates would complicate, rather than simplify, the process.
+                      Nevertheless, DOD stated that the Military Sealift Command, in conjunc-
+                      tion with the Military Traffic Management Command, would investigate
+                      the feasibility of soliciting, in its next request for proposals, single
+                      factor rates for the highest-volume point-to-point routes. GAO believes
+                      that this is a step in the right direction.
+
+                      DOD supported the timely modification of the domestic household goods
+                      rate bidding process but said that implementation of the action plan had
+                      been delayed, in part, as a result of Operation Desert Storm. DOD said
+                      that a revised action plan should be implemented in late 1992.
+
+
+
+
+                      Page 6                           GAO/NSIAD92Ql   DOD Commercial Transportation
+Contents
+
+
+Executive Sun-u-nary
+Chapter 1
+Introduction            Transportation Budgeting and Cost Responsibilities
+                        DOD Began Preauditing in 1988
+                        Objectives, Scope, and Methodology
+
+Chapter 2                                                                                            12
+Preaudits Are Useful    Activities Directed to Establish Preaudit Capability                         12
+                                                                                                     12
+                        Domestic Freight Bills Are Being Preaudited
+but Can Be Further      Preauditing Is Helping DOD Avoid the Loss of                                 13
+Strengthened to Help         Transportation Dollars
+Reduce Domestic -       DOD Has Not Used GSA Postaudit Results to Test the                           15
+                             Adequacy of Its Preaudits
+Freight Costs           Local Installation Transportation Officials Not Apprised                     15
+                             of Preaudit Findings
+                        Conclusions                                                                  16
+                        Recommendations                                                              17
+                        Agency Comments                                                              17
+
+Chapter 3                                                                                            18
+Ocean Rate              Rate Negotiation and Procurement                                             18
+                        Problem of Ensuring That Rates Are Fair and Reasonable                       19
+Negotiation Should Be   MSC Does Not Provide Carriers Necessary Information                          20
+Strengthened                for Making Informed Offers
+                        Rates Are Not Requested on the Same Basis as DOD                             24
+                            Procures the Service
+                        Conclusions                                                                  25
+                        Recommendations                                                              25
+                        Agency Comments and Our Evaluation                                           25
+
+Chapter 4                                                                                            27
+Progress Slow in        Rate Process Involves “Me-Too” Negotiation                                   27
+                        Prior GAO Report Identified Weaknesses in Rate                               28
+Implementing Changes         Negotiation Process
+to Household Goods      Progress in Making Any Change Has Been Slow                                  29
+Rate Negotiation        Recommendation                                                               29
+                        Agency Comments and Our Evaluation                                           30
+Process
+
+
+                        Page 6                           GAO/NSIAD-92-61 DOD Commercial Transportation
+             Contents
+
+
+
+
+Appendixes   Appendix I: Comments From the Department of Defense                       32
+             Appendix II: Major Contributors to This Report                            61       f
+
+
+Tables       Table 2.1: Preaudit Status of GBLs Covering Rail                          13
+                 Shipments to and From the National Training Center
+             Table 2.2: Results of Preaudits                                           14
+             Table 2.3: Preaudit Accomplishments for GBLs Covering                     15
+                 Rail Shipments to and From the National Training
+                 Center
+             Table 3.1: Most Frequently Used Commodity Codes for                       23
+                 Containers Shipped From the East and Gulf Coasts
+                 During January 1991
+
+
+
+
+             Abbreviations
+
+             DOD        Department of Defense
+             GAO        General Accounting Office
+             GBL        government bill of lading                                           I
+             GSA        General Services Administration                                     1
+             MSC        Military Sealift Command                                            /
+             MTMC       Military Traffic Management Command                                 p
+
+
+             Page 7                         GAO/NSIAD-9241 DOD Commercial Transportation    I
+Introduction
+
+
+                     The Department of Defense (DOD) relies heavily on commercial transpor-
+                     tation services to meet its national defense mission, Each year, DOD pays
+                     approximately $3 billion for commercial transportation services to move
+                     its cargo, passengers, and their personal effects worldwide. It is DOD
+                     policy to procure safe, secure, reliable, and quality commercial transpor-
+                     tation services that will meet DOD requirements at the lowest overall
+                     cost. It is also DOD policy to review applicable carrier rates and charges
+                     on DOD movements to ensure that they are fairly, reasonably, and prop-
+                     erly applied, and to take action to obtain relief from rates or charges
+                     found to be unfairly, unreasonably, or improperly applied,
+
+
+                     Each branch of service and WD agency is responsible for budgeting for
+Transportation       and controlling its transportation expenses. Each determines its ship-
+Budgeting and Cost   ping requirements-what,      when, and where to ship-and how much
+Responsibilities     funding is needed to meet these requirements.
+
+                     Transportation officials at military bases, posts, and other activities and
+                     DOD offices procure the services individually   or have other DOD compo-
+                     nents procure the services for them. The Military Traffic Management
+                     Command (MTMC)-an Army component of the U.S. Transportation
+                     Command-is responsible for negotiating domestic freight and interna-
+                     tional and domestic household goods rates and maintaining carrier tar-
+                     iffs and rate tender files. MTMC is also responsible for routing carload
+                     and truckload shipments and other shipments requiring premium or spe-
+                     cialized services and for providing local transportation personnel with
+                     general routing guidance for all other shipments, It also selects the
+                     routing for ocean shipments and books shipments to specific ship voy-
+                     ages. The Military Sealift Command (Msc)-a Navy component of the
+                     Transportation Command-is responsible for negotiating ocean cargo
+                     rates and serves as DOD'S procuring and contracting office. All transpor-
+                     tation activities and personnel are subject to overall policy direction and
+                     guidance by the Assistant Secretary of Defense (Production and
+                     Logistics).
+
+                     Procurement documentation for commercial transportation services,
+                     except ocean cargo services procured under MSC contracts and agree-
+                     ments, is governed by rules issued by the General Services Administra-
+                     tion (GSA). GSA requires the use of the government bill of lading (GBL) to
+                     procure domestic commercial freight and all commercial household
+                     goods transportation. GBLS are issued at military installations and
+                     Defense offices throughout the United States but are paid centrally.
+                     Army, Air Force, and Defense agency GBLS are paid at the Defense
+
+
+                     Page8                             GAO/NSIAD-9241   DOD Commercial Transportation
+                         Chapter 1
+                         Introduction
+
+
+
+
+                         Finance and Accounting Service, Indianapolis, Indiana; Navy GBLS at the
+                         Naval Station, Norfolk, Virginia; and Marine Corps GBLS at the Marine
+                         Corps Logistics Base, Albany, Georgia. MSC procures most ocean service
+                         under shipping and container agreements and contracts. Ocean service is
+                         ordered and paid on the basis of shipping or clearance orders, cargo
+                         manifests, and equivalent documents. Charges are paid at MSC offices at
+                         Bayonne, New Jersey; Oakland, California; and overseas locations.
+
+
+                         It has not been unusual for government shippers to overpay for trans-
+DOD Began                portation services, and DOD is no exception. Sometimes it has overpaid
+Preauditing in 1988      single GBLS by thousands of dollars. For example, in a 1988 report, Army
+                         Transportation: Alleged Overcharges on Rail Shipments to and From Ft.
+                         Irwin, California (GAO/WAD-88-174, May 13, I988), GAO found that DOD
+                         was repeatedly overpaying railroad carriers to ship training equipment
+                         to and from Ft. Irwin, California, and recommended that the Army begin
+                         to audit these bills of lading prior to payment.
+
+                         Until 1986, federal statutes prohibited the federal government from
+                         auditing transportation charges on GBLS prior to payment. Charges were
+                         paid and subsequent auditing was performed by GSA. Any DOD
+                         overcharges recouped by GSA were returned to DOD, but because the
+                         audits were performed a year or more after payment, DOD'S authority to
+                         reuse the money had often expired. Moreover, information about the
+                         overcharges was not timely for use in helping prevent future
+                         overcharges.
+
+                         Public Law 99-627 (Nov. 7, 1986) changed the rules for auditing GBL
+                         transportation payments. No longer was GSA required to return the
+                         money it had collected to DOD, but it could use the money to pay the
+                         audit expenses and return what was left to the U.S. Treasury. For the
+                         first time, however, GSA could audit bills prior to payment and delegate
+                         preaudit authority to other departments and agencies.
+
+                         DOD requested preaudit authority soon after the law was passed but did
+                         not receive the authority until July 26, 1988. Its first preaudits began in
+                         late 1988.
+
+
+                         The Chairman of the Subcommittee on Readiness, House Committee on
+Objectives, Scope, and   Armed Services, asked us to follow up on our May 1988 report con-
+Methodology              cerning rail shipments to and from Ft. Irwin, California, and assess
+
+
+
+                         Page 9                            GAO/NSLAD-92-61 DOD Commercial Transportation
+Chapter 1
+lntrmhction
+
+
+
+
+whether DODis preventing excess transportation payments to commer-
+cial carriers through preauditing. He also asked that we identify any
+other areas where DODcould improve its traffic and travel management
+programs. Our review focused on three areas of transportation-
+domestic freight, international ocean cargo, and domestic household
+goods-because these were areas where we had identified problems in
+the past.
+
+We met with officials of the Assistant Secretary of Defense (Production
+and Logistics) to discuss DODpolicies for auditing transportation
+vouchers, paying transportation bills, and other matters related to
+transportation cost controls. We also interviewed officials of the GSA
+Office of Transportation Audits, Washington, D.C., the unit responsible
+for conducting transportation rate audits and for reviewing requests for
+preaudit delegation authority, and reviewed the laws and regulations
+concerning preaudit authority. We also reviewed various Defense, Logis-
+tics Management Institute, Army Audit Agency, and Air Force Audit
+Agency reports related to transportation procurement and payment
+audits.
+
+We visited the three central military transportation payment centers to
+observe the payment and preaudit activities in pIace. We also met with
+officials at MTMC-EasternArea, Military Ocean Terminal, Bayonne, New
+Jersey, and observed the audits being conducted there.
+
+To follow up on our May 1988 report, we met with MTMC officials
+responsible for establishing a preaudit unit in M T M Cand for routing ship-
+ments. We also met with transportation personnel responsible for moni-           r
+toring and preparing documentation for the shipments discussed in the
+May 1988 report at the US. Forces Command, Ft. McPherson, Georgia,
+and the National Training Center, Ft. Irwin, California. We subsequently
+met with transportation officials at Ft. Carson, Colorado, and Ft.
+Stewart, Georgia, to observe the procedures they followed to prepare
+GELS and procure rail transportation services.
+
+To verify that GBLSwere being preaudited at MTMC,we reviewed GBLS
+covering shipments moving by railroad into and out of the National
+Training Center. Transportation officials at Ft. Irwin provided us a
+listing of all fiscal years 1989 and 1990 railroad GBL~issued in conjunc-
+tion with training exercises at the National Training Center, and we
+examined whether they had been preaudited and what action, if any,
+GSAhad taken on them in its postaudits.
+
+
+
+Page 10                           GAO/NSIAD-92-61 DODCommercial Transportation
+Chapter 1
+Introduction
+
+
+
+
+To identify potential improvements for procuring ocean cargo services,
+we met with MSC officials at the Command’s headquarters in Wash-
+ington, D.C., and at the Atlantic area office, Military Ocean Terminal,
+Bayonne, New Jersey, to discuss matters related to the negotiation of
+rates, payments, and voucher audits. In addition, we reviewed carrier
+protests submitted to the Comptroller General concerning the proce-
+dures used by MSC to evaluate ocean cargo rates.
+
+Finally, to identify potential improvements for procuring household
+goods services, we met with MTMC officials responsible for negotiating
+household goods rates and observed the preaudits being performed at
+the central payment offices.
+
+We performed our review from June 1990 to August 1991 in accordance
+with generally accepted government auditing standards. DOD provided
+written comments on a draft of this report. DOD’S comments and our
+evaluation are discussed in chapters 2,3, and 4, and a complete copy of
+the comments is included as appendix I.
+
+
+
+
+Page 11                          GAO/NSIAD-92-61DOD Commercial Transportation
+Preaudits Are Useful but Can l3e Further
+Strengthened to Help Reduce Domestic
+Freight Costs
+                         DOD has implemented a system of preauditing that has helped it prevent
+                         millions of dollars in overcharges, but some aspects of the auditing could
+                         be strengthened. DOD has not taken necessary steps to obtain reasonable
+                         assurances that its preaudits are thorough. GSA postaudit data shows
+                         that some overcharges were not uncovered during preauditing. Even
+                         when overcharging has been detected, DOD has not provided feedback to
+                         transportation officials at local installations who prepare the shipment
+                         documentation to make them aware that overcharging has occurred so
+                         that they can take corrective actions to prevent overcharges in the
+                         future.
+
+
+                         On July 26, 1988, DOD received authority to conduct its own preaudits.
+Activities Directed to   Two months later, the Assistant Secretary of Defense (Production and
+Establish Preaudit       Logistics) advised the assistant secretaries of each branch of service and
+Capability               the directors of the Defense agencies that DOD could save millions of dol-
+                         lars a year by auditing its transportation vouchers prior to payment. He
+                         said that with a significant opportunity to reduce budget shortfalls, it
+                         was critical that DOD immediately implement a preaudit capability.
+                         Accordingly, he directed the three military payment offices and MTMC to
+                         immediately establish the capability to preaudit domestic freight GRLS.
+                         MTMC was to assist the payment offices by developing the data bases
+                         required to support the audits. MTMC was also to develop procedures to
+                         manually audit GBLS offering a high potential return.
+
+                         Each of the central payment offices established the capability to per-
+                         form preaudits, some using in-house staff and others using contractors
+                         or a combination of in-house staff and contractors. MTMC also established
+                         a preaudit unit at Bayonne, New Jersey, in January 1989 to assist the
+                         payment offices with a portion of their work load.
+
+                         MTMC'S auditors explained to us that preauditing was intended to
+                         (1) detect overcharges early, thereby avoiding the lengthy delay
+                         inherent in the GSA postaudit process; (2) prevent DOD from losing trans-
+                         portation funds through overcharges, as had been occurring in the past
+                         when GSA audited the vouchers only after payment; and (3) provide the
+                         shippers, MTMC, and the carriers timely feedback about the overcharges
+                         so that the overcharging could be reviewed and remedial action taken.
+
+
+                         Our review of the GBLS issued by transportation offices showed that
+Domestic Freight Bills   most domestic freight GBLS are being properly sent by the military pay-
+Are Being Preaudited     ment offices to MTMC for preaudit. By agreement with MTMC, the central
+
+
+                         Page 12                          GAO/NSLAD-9281DOD Commercial Transportation
+                                          Chapter 2
+                                          Preaudits Are Useful but Can Be Further
+                                          Strengthened to Help Reduce Domestic
+                                          Freight Costs
+
+
+
+
+                                          payment offices flag certain GBLS and make copies available to MTMC for
+                                          preaudit. At first, only GBLS with charges of $10,000 or more and those
+                                          from certain depots were sent to MTMC. The dollar threshold was lowered
+                                          to $8,000 in April 1989 and then to $5,000 in June 1989.
+
+                                          MI-MC, which at the time of our review had six full-time preauditors,
+                                          audited the GBLS within 2 weeks of receiving them and reported back to
+                                          the payment offices on the amounts that should be paid. The payment
+                                          offices then advised the billing carriers of any reductions to their bills.
+                                          Carriers could appeal any reductions through the payment offices to
+                                          MTMC and, if necessary, to GSA. MTMC reported that in fiscal year 1990 it
+                                          preaudited more than 8,000 GBLS.
+
+                                          Our review of rail shipment GBLS issued in connection with training exer-
+                                          cises at the National Training Center during fiscal years 1989 and 1990
+                                          showed that most GBLS were preaudited as called for in the agreements.
+                                          Of the 209 GBLS that met the dollar threshold and were issued after MTMC
+                                          began conducting preaudits, 204, or 97.6 percent, had been sent to MTMC.
+                                          Program officials could not explain why the other five had not been sent
+                                          to MTMC for preaudit; however, we do not consider that number to be
+                                          significant. Table 2.1 provides a summary of the GBLS.
+
+Table 2.1: Preaudit Status of GBLs
+Covering Rail Shipments to and From the                                                                  Fiscal year
+National Training Center (Fiscal Years                                                              1989               1990   Total
+1989 and 1990)
+                                          GBLs meeting the preaudit dollar threshold                 165                 73    238
+                                          GBLs issued before MTMC began preaudiis or unpaid
+                                            at the time of our review                                 28                  1     29
+                                          GBLs that should have been Dreaudlted                      137                 72    209
+                                          GBLs that were preaudited                                  135                 69    204
+                                          Percentage preaudited                                     98.5               95 a   97.6
+
+
+
+
+Preauditing Is Helping Since DOD began preauditing in 1988, it has identified nearly $10 million
+                       in overcharges, according to data provided by the Office of the Assistant
+DOD Avoid the Loss of secret ary of Defense (Production and Logistics). The $10 million repre-
+Transportation Dollars sents freight, household goods, and other carrier charges DOD had been
+                                          billed but did not pay based on the auditors’ findings.
+
+                                          DOD estimated that another $34 million in overcharges was avoided
+                                          because the existence of the preaudits deterred overcharging. GSA data
+                                          showed that fewer overcharges were being identified during postaudit
+                                          after DOD began preauditing its bills. DOD'S calculation of the $34 million,
+
+
+                                          Page 13                                   GAO/NSIAD92-61 DOD Commercial Transportation
+                                  Chapter 2
+                                  Preaudits Are Useful but Can Be Further
+                                  Strengthened to Help Reduce Domestic
+                                  Freight Costs
+
+
+
+
+                                  however, cannot be verified, inasmuch as it is only an estimate of how
+                                  the carriers changed their bills considering that they would be
+                                  preaudited. A DOD summary of overpayments prevented or considered to
+                                  have been deterred is shown in table 2.2.
+
+Table 2.2: Results of Preaudits
+                                  Dollars in millions
+                                                                                                       Fiscal year
+                                  Military payment center                                      1988         1989         1990        Total*
+                                  Army
+                                    Overpayments prevented                                      $1 1        $2.4         $5.4         $8 9
+                                    Overcharges deterred                                         4.5        11.4         16.8         32.8
+                                    Total*                                                       5.6        13.8         22.2         41.6
+
+                                  Navy
+                                    Overpayments        prevented                                  0          0.3          06           10
+                                    Overcharges deterred                                           0         1.0           0.8          1.8
+                                    Total’                                                         0         1.4           1.4          2.8
+
+                                  Marine Corps
+                                                                                                       b            b            b            b
+                                    Overpayments        prevented
+                                    Overcharges deterred                                               b     0.1                 b      0.2
+                                    TotaP                                                        0.1         0.1          0.1           0.3
+
+                                  All servtces
+                                    Overpayments preventeda                                      1.1          2.8          6.1          9.9
+                                    Overcharges deterred;                                       4.6          126          17.6        34.8
+                                    Total’                                                     $5.6        $15.4        $23.7        $44.7
+                                  aTotaldollar amounts may not add due to rounding
+                                  bFigure is less than $50,000
+                                  Note The amounts attnbuted to each payment center Include figures provided by both M T M C and each
+                                  center
+                                  Source: DOD.
+
+
+                                  A specific example that DOD is avoiding unnecessary payments through
+                                  preauditing involves the GBLS paid for shipments moving by railroad
+                                  into and out of the National Training Center at Ft. Irwin, California.
+                                  MTMC'S preaudits enabled the payment offices to avoid paying more than
+                                  $500,000 on fiscal year 1989 and 1990 GBLS. Table 2.3 summarizes the
+                                  results of preauditing on these GBLS.
+
+
+
+
+                                  Page 14                                      GAO/NSW92-61       DOD Qutnnercial Transportation
+                                            Chapter 2
+                                            Preaudits Are Useful but Can Be Further
+                                            Strengthened to Help Reduce Domestic
+                                            Freight Costs
+
+
+
+
+Table 2.3: Preaudit Accomplishments   for
+GBLs Covering Rail Shipments to and                                                                Fiscal year
+From the National Training Center (Fiscal                                                          1989           1990          Total
+Years 1989 and 1990)                                                                        $24,132,230    $18,714,656   $42,846,886
+                                            Amount Dresented for Davment
+                                                                     I
+
+
+
+
+                                            Amount approved for payment following
+                                              preaudit                                       23,660,671     18,610,349    42,271,020
+                                            Overcharae Drevented                                471,559        104,307       575,866
+                                            Percentage of GBLs with overcharges                     16.3          26.1           19.6
+                                            Averaoe overcharae                                  $21,434         $5,795       $14,397
+
+
+
+
+                                            The effectiveness of preaudits could be determined by comparing the
+DOD Has Not Used                            results of bills audited before payment with those audited after pay-
+GSA Postaudit Results                       ment; however, DOD is not making these comparisons. At the same time,
+to Test the Adequacy                        GSA continues to identify overcharges after DOD'S preaudits.
+
+of Its Preaudits                            To compare the results of DOD'S preaudits with those of GSA'S postaudits,
+                                            we asked GSA to provide us with the audit status of all the MTMC-
+                                            preaudited railroad GBLS issued in conjunction with training exercises at
+                                            the National Training Center during fiscal years 1989 and 1990. GSA
+                                            found overcharges on about 16 percent of the fiscal year 1989 GBLS that
+                                            had been preaudited. The overcharges totaled more than $75,000.
+                                            Because GSA performs postaudits nearly a year after payment, not all
+                                            1990 preaudited GBLS had been postaudited at the time of our review.
+
+                                            MTMC'S auditors were unaware that GSA had identified further
+                                            overcharges on the preaudited GBLS. MTMC officials advised us that some
+                                            time ago they had asked for GSA results but that GSA was not able to
+                                            provide the information, Our discussion with GSA officials indicates that
+                                            the data is now available, and it could be used to provide some type of
+                                            measure of the effectiveness of the preaudits. We also found no record
+                                            to show that payment office personnel were aware that GSA had identi-
+                                            fied an overcharge on a GBL they or their contractors had preaudited.
+                                            Again, GSA had such information and could have provided it to the
+                                            offices for their use in comparing audit results.
+
+
+                                            One of the primary benefits of preauditing is that it surfaces billing
+Local Installation                          problems early and can provide for timely analysis of billing problems.
+Transportation                              DOD, however, has not taken advantage of this opportunity for analysis.
+Officials Not Apprised                      Transportation personnel initiating the shipments have not been
+                                            informed of the overcharging. Consequently, repeated overcharging is
+of Preaudit Findings                        not corrected.
+
+
+                                            Page 15                                   GAO/NSI.AD-92-61 DODGxnmercialTransportation
+              Chapter 2
+              Preaudits Are Useful but Can Be Further
+              Stl-engtbened to Help Reduce Domestic
+              Freight CO8tS
+
+
+
+
+              As shown in table 2.3, nearly one of every five GBLS issued in connection
+              with rail shipments to and from the National Training Center at
+              Ft. Irwin, California, was found to have an overcharge. However, none
+              of the local transportation officials we spoke with who issue GBLS at
+              Ft. Irwin, California; Ft. Carson, Colorado; or Ft. Stewart, Georgia, for
+              example, was notified about the overcharging. Most of their GBLS
+              involved more than $100,000, some more than $1 million, and had
+              overcharges amounting to thousands of dollars.
+
+              In our May 1988 report, we concluded at that time that DOD was being
+              overcharged in connection with moves to and from the Ft. Irwin pri-
+              marily because the railroads were not billing properly for the cars
+              ordered or because the transportation officers had not prepared the GBLS
+              correctly. Subsequently, in July 1989, Forces Command internal audi-
+              tors found that overcharging related to cars was still occurring. The
+              internal auditors found that in the six exercises they reviewed, the
+              Army had been overcharged nearly $500,000 and MTMC preaudits had
+              not detected them. They concluded that the overcharges had occurred
+              because the GBLS had been prepared incorrectly, the instructions for pre-
+              paring GBLS had been inadequate, or the carriers had billed improperly.
+
+              During our current review, we found that the instructions for preparing
+              GBLS are clearer and that the GBLS are being prepared more accurately;
+              nevertheless, overcharges are still occurring. In no case, however, did
+              we find that a local transportation officer had been alerted about the
+              overcharges to learn what may have caused them or whether actions
+              could be taken to prevent them from happening in the future. In fact,
+              many of the officials were surprised that they had been overcharged
+              because it was their understanding that under the terms of the rail
+              agreements, carriers were required to notify them if there was a disa-
+              greement with the estimated charges the local officials had annotated on
+              the GBLS. According to these officials, no carrier had inquired about dis-
+              parate charges. Had they been informed, the officials said, they could
+              have possibly avoided an overcharge. The local officials also believed
+              that had they known about the overcharges, they could have used the
+              information to confront the local carrier representatives about
+              overcharging and helped deter future overcharging.
+
+
+              DOD has not taken necessary steps to obtain reasonable assurances that
+Conclusions   its preaudits are thorough+ GSA postaudit data shows that some
+              overcharges were not uncovered during preaudit, but DOD has not
+
+
+
+              Page 16                                   GAO/NSIAD9241   DOD Commercial Transportation
+                  Chapter 2
+                  Preaudits Are Useful but Can Be Further
+                  Strengthened to Help Reduce Domestic
+                  Freight COSt8
+
+
+
+
+                  obtained the GSA results to evaluate its preaudits. Use of GSA postaudit
+                  results would help ensure that the preaudits are thorough.
+
+                  Even when overcharging has been detected during preaudit, DOD has not
+                  provided feedback to local installation transportation officials who pre-
+                  pare the shipment documentation to make them aware that
+                  overcharging has occurred. Consequently, overcharging was continuing.
+                  Were the local officials advised that overcharges had been detected
+                  during preaudit, they could have taken steps to see that the
+                  overcharging was not repeated.
+
+
+                  We recommend that the Secretary of Defense direct the Military Traffic
+Recommendations   Management Command and other units performing preaudits to (1) test
+                  the effectiveness of their preaudits by comparing the results with bills
+                  audited after payment and (2) develop a system for ensuring the timely
+                  notification of local installation transportation officials when preaudits
+                  detect overcharges.
+
+
+                  DOD concurred with our findings and recommendations and is initiating
+Agency Comments   action to implement the recommendations. According to DOD, in the
+                  second quarter of fiscal year 1992, GSA will be formally asked to provide
+                  the results of its postaudits. The GSA results will be compared with the
+                  DOD preaudits to assess the effectiveness of the preaudits.
+
+                  DOD also indicated that in fiscal year 1992, MTMC and other units per-
+                  forming preaudits would implement a system for ensuring the timely
+                  notification of local installation transportation officials when the
+                  auditing activities detect overcharges.
+
+
+
+
+                  Page 17                                   GAO/NSIAD-92-61 DOD Commercial Transportation
+Chapter 3
+
+Ocean Rate Negotiation Should Be Strengthened
+
+
+                       MSC needlessly complicates its negotiations    with the commercial ocean
+                       carrier industry at a time when reduced competition among carriers is
+                       impeding MSC’S ability to obtain favorable rates. As the size of the U.S.
+                       shipping fleet declines, fewer carriers compete for DOD shipments. Thus,
+                       each year MSC faces a more difficult task relying on competition to pro-
+                       duce fair and reasonable rates or rates appropriate for a shipper of
+                       DOD’S size. In this context, the manner in which MSC negotiates rates does
+                       little to put it in a favorable negotiating position. Because MSC has not
+                       developed and does not provide carriers adequate proposal informa-
+                       tion-such as specific commodities, number of containers, and traffic
+                       patterns-carriers       are handicapped in making offers and MSC’S ability to
+                       effectively evaluate these offers is weakened because they cannot be
+                       compared with commercial rates.
+
+                       Further, MSC solicits and evaluates rates for segments of a shipment-
+                       that is, from inland origin to port, port to port, and port to inland desti-
+                       nation Since the required service will eventually be procured as a
+                       through shipment from inland origin to the ultimate destination, such
+                       segmented evaluation distorts the significance of the rate offers and
+                       complicates the process for evaluating offers.
+
+
+                       Each year DOD spends about $600 million for commercial ocean trans-
+Rate Negotiation and   portation. MX negotiates rates for millions of tons of DOD cargo, the bulk
+Procurement            of which moves in intermodal containers. These are basically 20- and
+                       40-foot-long boxes in which the cargo can be hauled by truck, railroad,
+                       or ship without further rehandling of the contents,
+
+                       MSC’S negotiations occur at g-month intervals under terms of the govern-
+                       ment’s Federal Acquisition Regulation. Offers are based on (1) ocean
+                       route-further    delineated as to the direction in which cargo will be
+                       moving, broad type of cargo (general, refrigerated, or vehicular), and
+                       size of container (basically, 20-foot or 40-foot) in which the cargo will
+                       move- and (2) land route or drayage area-that is, the route from
+                       origin to the port or from the port to the ultimate destination in which
+                       the container will move in coujunction with its ocean voyage.
+
+                       MSC bases its evaluation   on criteria stated in requests for proposals. Cri-
+                       teria generally include comparisons of old and new rates, of one
+                       offeror’s rates with those of another offeror, and of the offerors’ rates
+                       with commercial rates. MSC advises the offerors that it has the right to
+                       reject a rate outright, to negotiate with them for better rates, or to
+
+
+
+                       Page 18                            GAO/NSLkD92-61 DOD Commercial Transportation
+                      Chapter 3
+                      Ocean Rate Negotiation Should
+                      Be Strengthened
+
+
+
+
+                      accept a rate without any negotiation. Accepted rates are provided to
+                      MTMC, which uses them to route shipments.
+
+
+                      MSC is faced with competing objectives: (1) obtaining the lowest rates
+Problem of Ensuring   possible for DODand (2) maintaining an adequate sealift base for mobili-
+That Rates Are Fair   zation. On most of the routes for which it sought rates, MSC historically
+and Reasonable        found adequate competition to produce low rates and still have ade-
+                      quate lift capability. Accordingly, it did not have to engage in extensive
+                      face-to-face negotiations with carriers to obtain low rates. Carriers,
+                      however, complained to DOD and Congress that the system resulted in
+                      destructive competition, driving rates excessively low and forcing car-
+                      riers out of business. They argued that the heavy dependency of the
+                      U.S. merchant marine on Defense cargo and MSC'S policy of distributing
+                      the preponderance of its cargo to the low-cost carrier over the entire
+                      6-month contract period often meant that one carrier could receive sub-
+                      stantial DOD business in one 6-month period but almost none the next,
+                      effectively threatening its survival.
+
+                      DOD recognized that   distributing all its cargo to the low-cost carrier
+                      might not be in its best interests. In 1974 it began limiting the amount of
+                      cargo any one carrier could receive on certain major routes. For
+                      example, MTMC, which books the cargo with specific carriers, is required
+                      to see that no carrier on the East Coast to continental Europe and the
+                      United Kingdom route, the East Coast to the western Mediterranean
+                      area route, and the West Coast to the Far East area route receives more
+                      than 75 percent of the total container cargo moving on these routes.
+
+                      Cargo allocation, however, has not necessarily supported a mobilization
+                      base that DOD had in the past. The US. fleet continues to decline in size.
+                      Only a few years ago, four carriers offered DOD service from the East
+                      Coast to Europe. Now there are only two carriers. A few years ago, five
+                      carriers served the West Coast to the Far East route. Now there are only
+                      two carriers.
+
+                      The allocation system has not necessarily provided DOD the lowest pos-
+                      sible rates either. Carriers sometimes lack incentives to offer their
+                      lowest rates. W ith fewer carriers, often of varying cargo-carrying capa-
+                      bility, competition does not work as well as it had in the past. For
+                      example, a carrier with a large carrying capacity competing against a
+                      smaller carrier can intentionally offer a high rate knowing that the over-
+                      flow cargo from the smaller carrier will be substantial and produce sig-
+                      nificant revenues. On the other hand, the smaller carrier can also offer a
+
+
+                      Page 19                           GAO/NSIAIWMl   D0D Commercial Transportation
+                              Chapter 3
+                              Ocean Rate Negotiation Should
+                              Be Strengthened
+
+
+
+
+                              high rate knowing that whatever cargo comes its way under the cargo
+                              limitation rules will produce significant revenues for it, too. Therefore,
+                              past incentives for low offers are often no longer operative.
+
+                              One way MSC has attempted to address this problem has been to take a
+                              closer look at the rate offers by comparing them with commercial rates.
+                              MSC determined that some offers were not fair and reasonable and con-
+                              cluded that they should be rejected. This, however, has resulted in a
+                              series of disputes with the carriers over what constitutes fair and rea-
+                              sonable. Not obtaining satisfaction with MSC, the carriers have brought
+                              many of these rejections to the Comptroller General’s attention for reso-
+                              lution. In a number of instances, the Comptroller General has found the
+                              rejections insupportable.
+
+
+                              In soliciting rates for the movement of military cargo, MSC asks carriers
+MSC Does Not Provide          to make offers without benefit of information on the specific types of
+Carriers Necessary            commodities and the number of containers to be moved between specific
+                              origins and destinations-information    that the carriers need to make
+Information for               informed offers and MSC needs to evaluate them properly. W ithout such
+Making Informed               information, carriers do not have the basic foundation as to how to for-
+Offers                        mulate their proposals. Also, to the extent that it has not developed this
+                              information, MSC may be left without a sound basis for deciding whether
+                              a rate is fair and reasonable.
+
+
+M ilitary Rate Descriptions   Instead of providing prospective offerors information about commodi-
+Broader Than Those of         ties and volumes between specific origins and destinations, M&S semi-
+                              annual requests for proposals simply say that the cargo intended to be
+Commercial Rates              shipped is “military cargo and cargo owned by or intended for sale to
+                              servicemembers and their families (herein ‘military cargo’) (not for
+                              resale in commerce) and mail, with usual characteristics of shipments in
+                              substantial volume and varied makeup.” They provide statistics
+                              showing tonnages shipped on ocean routes during some prior year but
+                              urge caution to offerors intending to use the figures for predicting
+                              future cargo movements.
+
+                              Carriers are to submit the ocean rates as either “cargo, not otherwise
+                              specified,” “refrigerated cargo,” or “vehicles.” These broad categories
+                              are in sharp contrast with commercial shipping practices, where rates
+                              are generally formulated on the basis of specific commodity descriptions
+                              and volumes of cargo between specific origins and destinations. Com-
+                              mercial rates are named for many different specific commodities-for
+
+
+                              Page 20                            GAO/NSIAD-9241 DOD Commercial Transportation
+                         Chapter 3
+                         Ocean Rate Negotiation Should
+                         Be Strengthened
+
+
+
+
+                         example, beverages, film , paint, rocket motors, and weed killers. These
+                         rates, however, are sometimes conditioned on shipping a minimum
+                         number of containers over a specified period of time and from one
+                         named point or through one named point to another. Although carriers
+                         maintain commercial rates for shipments described in MSC’S terms-
+                         “cargo, not otherwise specified”-they    use them essentially for ship-
+                         ments moving in irregular, low-volume patterns. Consequently, these
+                         rates are usually higher than specific commodity rates.
+
+
+MSC Evaluates Offers     Despite the differences between military cargo rates and commercial
+                         shipping rates, MSC uses commercial rates to attempt to determine
+Using Commercial Rates   whether the carriers’ offers are fair and reasonable. However, instead of
+                         using the carriers ’“cargo, not otherwise specified” rates for compari-
+                         sons, MSC selects other rates, those with more specific descriptions and
+                         having certain other restrictions. For example, MSC may select a rate
+                         specifically applicable to clothing or one requiring the shipper to move
+                         50 containerloads a year of some named commodity, compare it with the
+                         “cargo, not otherwise specified” rate, and decide the offered rate is too
+                         high and should be rejected. Many such rates have been rejected in the
+                         past year and a half.
+
+                         Carriers argue that such comparisons are unfair because MSC should not
+                         be allowed to reject a rate on the basis of a commercial rate that may or
+                         may not apply to traffic DOD will be shipping. The carriers are not told
+                         what DOD is planning to ship or how much and they are not told what
+                         rates MSC will be using to make the comparisons.
+
+                         Carriers have protested or supported others in protesting these rejec-
+                         tions to the Comptroller General and have had their arguments sup-
+                         ported. MSC'S efforts to find and reject unfair and unreasonable rates are
+                         laudable, but unless MSC provides the carriers information about what
+                         they are submitting offers on and what their proposals will be compared
+                         with, its efforts are not likely to be successful.
+
+
+
+
+                         Page 21                          GAO/NSIAD92-61 DOD Commercial Transportation
+                           Chapter 3
+                           Ocean Rate Negotiation Should
+                           Be Strengthened
+
+
+
+
+Providing Specific         In a 1981 report we previously voiced our concern about carriers having
+                           to compete for unknown requirements.’ We recommended that MSC
+Commodity Descripti .ons   canvas each of its shippers to identify-in  terms of origin/destination,
+Could
+-      Help Ensure         volume of cargo over time and per container, and type of cargo-its spe-
+Reasonable Rates           cific requirements; review this data to establish what DOD shipping pat-
+                           terns existed; and make these requirements known to the carrier
+                           industry. MSC did not concur with our recommendations and, accord-
+                           ingly, took no action on them.
+
+                           The situation seems to us to have changed since that report in that the
+                           number of carriers offering rates has dropped significantly. Where four
+                           or five carriers may have offered rates on a route before, now only two
+                           or three are doing so. To ensure that DODwill continue to receive
+                           favorable rates, MSC could provide the carriers its most detailed histor-
+                           ical shipping data, specifically that showing the specific commodities it
+                           has shipped, and then use that data to compare the offers with commer-
+                           cial rates.
+
+                           In addition, if MSC clearly stated in its requests for proposals that it will
+                           use specific descriptions to compare carriers’ offers with commercial
+                           rates, there would be no misunderstanding that commercial rates would
+                           serve as a factor for determining whether a rate is fair and reasonable.
+
+
+Specific Commodity         Specific commodity data that MSC could provide to carriers is readily
+Information Is Readily     available from MTMC. Commodity descriptions-those basically adequate
+                           for comparing military rates with those for commercial shipments-are
+Available                  coded on the manifests MTMC prepares in connection with every
+                           container it books. The commodity codes are listed and spelled out in
+                           DOD Regulation 4500.32-R, “Military Standard Transportation and Move-
+                           ment Procedures,” and must be assigned by each shipper to all ship-
+                           ments moving in ocean transportation. There are more than 400 such
+                           codes, many very specific, covering commodities such as furniture,
+                           household goods, medical supplies, beverages, and beer, as are used in
+                           connection with commercial rates.
+
+                           To validate that such codes are used, we reviewed the containers
+                           shipped outbound from the East and Gulf coast ports in January 199 1.
+                           A total of 10,737 containers were listed, with 194 different commodity
+                           codes. Although the code used most often-16.72 percent of the time-
+
+                           ‘Weaknesses in Negotiating Rates and Services for Commercial Containerized Sealift
+                           (cAO/PLRD-81.27,Apri128.1981).
+
+
+
+                           Page 22                                      GAO/NSUD9281        DOD Cmnmercial Transportation
+                                        Chapter 3
+                                        Ocean Rate Negotiation Should
+                                        Be Strengthened
+
+
+
+
+                                        was applied to “general cargo, not otherwise specified,” more than
+                                        62 percent had some specific code suitable for comparing military cargo
+                                        with commercial cargo.
+
+                                        Table 3.1 summarizes the number of containers by code for the most
+                                        frequently used codes. The list covers about 75 percent of the containers
+                                        shipped during January 1991.
+
+Table 3.1: Most Frequently Used
+Commoditv Codes for Containers                                                                                        Number of
+Shipped F;om the East and Gulf Coasts   Code           Commodity description                                          containers
+During January 1991                     700            General cargo, NOSa                                                   1,795
+                                        500            Subsistence, NOS”                                                       659
+                                        70x            Hazardous materials, other than ammunition or explosives                600
+                                        700            Consumer commodity goods                                                496
+                                        51A            Meals, combat                                                           472
+                                        867            Vehicles, military ambulances, buses, trucks, not exceeding
+                                                         Z-l/Z-ton caDacltv                                                   455
+                                        192            Freeze subsistence, NOS”                                               351
+                                        505            Beverages, nonalcoholic, in tins                                       342
+                                        534            Medical suooJies. NOSa
+                                                                   II
+                                                                                                                              276
+                                        51J            Combat rations. sundry Dack                                            269
+                                        320            Automobiles, space required                                            262
+                                        401            Bulk propellants, hazardous                                            227
+                                        503            Beer                                                                   227
+                                        603            Petroleum. lubricatina or similar oils                                 204
+                                        613            Parcel post, sacked                                                    173
+                                        712            Furniture, new, other than household goods                             149
+                                        882            Vehicles, military trucks, exceedkng 2-l/2-ton capacity                t33
+                                        664            Barbed wire                                                            127
+                                        102            Beef. chilled, boxed or carcass                                        121
+                                        741            Troop issue clothincl and ecluiDment                                   104
+                                        501            Bakery goods                                                           101
+                                        634            Cylinders, compressed gas, filled or empty                              95
+                                        635            Chemicals, other than drugs or sundries, NOS”                           91
+                                        515            Flour, areoared. in oackaaes                                            90
+                                        586            Vehicle parts, other than automobile, NOSa                              86
+                                        130            Chill subsistence, NOSa                                                 a4
+                                        721            Paper, other than napkins or towels                                     a4
+                                        aNot otherwise specified
+
+
+
+
+                                        Page 23                                    GAO/NSIAB92-61 DOD Cmnmercial Transportation
+                       Chapter 3
+                       Ocean Rate Negotiation Should
+                       Be Strengthened
+
+
+
+
+                       When DOD buys containerized service using MSC'S negotiated rates, the
+Rates Are Not          individual rates for each segment of the movement-that is, from inland
+Requested on the       origin to port, port to port, and port to inland destination-lose their
+Same Basis as DOD      significance because DOD procures the service as a through shipment.
+                       That one carrier, for example, may have a $10 land rate and another a
+Procures the Service   $1 rate is not important if the higher land rate is offset by a lower ocean
+                       rate. Yet, MSC continues to solicit and evaluate each segment rate on its
+                       own, a practice that distorts and complicates the offer and evaluation
+                       process.
+
+                       In our 1981 report, we pointed out this problem, noting that MSC did not
+                       allow carriers to offer single factor rates based on specific traffic pat-
+                       terns-that is, specific origin and destination combinations. Instead, MSC
+                       required carriers to offer separate rates: (1) the U.S. inland route rate,
+                       (2) the ocean rate, and (3) the overseas inland route rate. MSC evaluated,
+                       accepted, rejected, or negotiated each type of rate separately and then
+                       ranked each carrier from low to high in order of its rates for each seg-
+                       ment. But, ultimately, when MTMC used these rates to determine the low-
+                       cost route for individual shipments, it discarded these rankings for one
+                       of its own-the total cost (land-ocean-land) rank.
+
+                       As it is DOD policy to procure safe, secure, reliable, and quality commer-
+                       cial services that will meet DOD requirements, DOD shippers are advised
+                       to ship direct from vendors to users whenever it is economical and con-
+                       sistent with the need to consolidate shipments to obtain lower transpor-
+                       tation costs. The majority of DOD containerized cargo, therefore, is
+                       loaded at source, meaning the cargo does not have to be taken out of the
+                       containers until it arrives at its final destination. It moves over land,
+                       ocean, and land, and DOD is charged for using the three separate (land,
+                       ocean, land) rates, What is important is not each rate, but the sum of the
+                       rates.
+
+                       MTMC'S manifest data indicates that DOD'S containers commonly move in
+                       well-established patterns from U.S. inland origins to overseas inland
+                       destinations. For example, during January 1991, hundreds of con-
+                       tainerloads of cargo originated at military cargo consolidation points,
+                       such as those at New Cumberland and Mechanicsburg, Pennsylvania,
+                       and Robins Air Force Base, Georgia, and moved to specific overseas
+                       depots or units in regular patterns. Hundreds more moved from GSA,
+                       Army-Air Force Exchange Service, and Navy Resale System Office dis-
+                       tribution centers and vendors in regular, established distribution pat-
+                       terns. All these containers generally moved in a combination land-ocean-
+
+
+
+                       Page 24                           GAO/NSIAD-92-61 DOD Commercial Transportation
+                          Chapter3
+                          Ocean Rate Negotiation Should
+                          Be Strengthened
+
+
+
+
+                          land service. Only a relatively small percentage of containers, princi-
+                          pally those carrying privately owned vehicles or military members’
+                          household goods, moved only in ocean service.
+
+
+Conclusions               vice. Too often carriers are submitting offers for DOD traffic without
+                          adequate information on what they are competing on. MSC can provide
+                          the prospective offerors with substantial data on commodity descrip-
+                          tions in planned shipping patterns. Such data would allow carriers to
+                          formulate their offers more intelligently and would place MSC in a better
+                          position to negotiate for lower rates.
+
+                          Also, MSC is not requesting rates in a manner that allows evaluation of
+                          the total costs of actual shipments. By reviewing and evaluating rates
+                          for segments of a shipment, MSC misses opportunities to enhance compe-
+                          tition for DOD'S major shipping routes. Asking for single factor rates cov-
+                          ering the overall route should place MSC in a better position to negotiate
+                          effectively,
+
+
+                          We recommend that the Secretary of Defense direct MSC to
+Recommendations
+                      l develop and provide to all prospective offerors detailed information         on
+
+
+                        what it has shipped in terms of specific commodities and number of con-
+                        tainers between specific traffic patterns, as well as its best estimate of
+                        what it will be shipping in the future, and
+                      . change its solicitations to request rates for the same pattern of service
+                        for which DOD actually procures the service.
+
+
+                          DOD commented that MSC, in conjunction with MTMC, would make specific
+Agency Comments and       historical data readily available to all carriers. However, the comments
+Our Evaluation            indicated that DOD was not convinced that all carriers would want addi-
+                          tional information and that additional information in and of itself would
+                          not ensure more reasonable rates. Nonetheless, DOD stated that carriers
+                          would be advised that detailed information was available and that it
+                          would be provided at their request.
+
+                          We believe, however, that MSC should provide such information to the
+                          carriers with the request for proposals without the carriers having to
+                          ask for it.
+
+
+
+                          Page 26                           GAO/NSlAIb92-61 DOD Commercial Transportation
+Chapter 3
+Ocean Rate Negotiation Should
+Be Strengthened
+
+
+
+
+DOD generally agreed with the recommendation that MSC change its solic-
+itations to request rates in line with the actual pattern of cargo move-
+ments of significant volume. DOD asserted, however, that to solicit single
+factor rates for more than the highest-volume routes would severely
+complicate the solicitation process. Nevertheless, DOD stated that MSC, in
+conjunction with MTMC, would investigate the feasibility of soliciting, in
+its next request for proposals, single factor rates for the highest-volume
+point-to-point routes.
+
+We believe that soliciting single factor rates for the highest-volume
+routes is a step in the right direction and when this hopefully proves to
+be advantageous to DOD, such solicitations will be expanded to other rel-
+atively high volume routes next and so on down the line.
+
+Our additional annotated evaluations of DOD'S comments are presented
+in appendix I.
+
+
+
+
+Page 26                          GAO/NSIAD9281   DOD Commercial Transportation
+Progress Slow in Implementing Changesto
+Household Goods Rate Negotiation Process
+
+                        DOD'S process for negotiating rates for moving the domestic household
+                        goods of DOD personnel continues to lack an incentive for carriers to
+                        offer their best rates. In a February 1990 report, Household Goods:
+                        Competition Among Commercial Movers Serving DOD Can Be Improved
+                        (GAO/NSIAD-90-50, Feb. 12, 1990), we found that DoD's negotiating process
+                        inhibited competition among commercial household goods carriers.
+                        Because DOD allowed all carriers to meet the low rate bid during the ini-
+                        tial bidding phase, carriers had little incentive to offer their best rates
+                        up front. We recommended that DOD replace or modify its bidding pro-
+                        cess. WD agreed to consider our recommendation but has made slow pro-
+                        gress in implementing any change. Although an implementation plan has
+                        been prepared, as of the time of our review, no date had been set for any
+                        change and no proposal had been submitted to industry representatives
+                        for comment.
+
+
+Rate Process Involves   sonal effects of military members and civilian employees within the con-
+“Me-Too” Negotiation    tinental United States. MTMC is DOD'S agent for negotiating rates for the
+                        movement of household goods.
+
+                        Twice each year MTMC solicits rates from the domestic moving industry
+                        to meet DOD'S household goods shipping requirements. Bidding is done in
+                        two steps under a “me-too” type of negotiation. In the first step, each
+                        carrier submits a qualifying bid-stated as a percentage of a specified
+                        rate-for each route it intends to serve. Once these bids are accepted,
+                        they are made public for review by all bidders. In the second step, which
+                        is commonly called the “me-too” phase, carriers are permitted to change
+                        any rate they had offered to match that of a lower bidder.
+
+                        The carriers’ final bids are ranked in a low-to-high order and provided
+                        to the local shipping office officials for routing shipments. Where more
+                        than one carrier qualified to serve that location has offered the same
+                        low rate, the officials are required to distribute the shipments as equally
+                        as possible to each carrier regardless of which submitted the low rate
+                        first. In other words, the carrier that initially submitted the low bid is
+                        not entitled to any greater reward than another carrier that met the low
+                        rate during the “me-too” bidding phase. When there are more shipments
+                        than the carriers with the lowest rate can handle, the officials are
+                        required to move up the rate ladder to the next level and distribute the
+                        shipments as equally as possible to all qualified carriers at that level.
+
+
+
+
+                        Page 27                           GAO/NSIAD9281   DOD Chnmercial Transportation
+                        Chapter 4
+                        Progress Slow in tmplementing Changes to
+                        Household Goods Rate Negotiation Process
+
+
+
+
+                        In our February 1990 report, we said that DOD’S two-step process for
+Prior GAO Report        obtaining rates was not truly competitive. When carriers submitted bids
+Identified Weaknesses   in the first phase, they had little incentive to offer DOD their lowest
+in Rate Negotiation     rates. Knowing that they would have the opportunity to match the
+                        lowest rate offered and to eventually share equally in any traffic gener-
+Process                 ated, most carriers made no effort to bid competitively during the initial
+                        bidding phase. Instead, most carriers merely bid a qualifying rate-
+                        often the same rate for every route they intended to serve-and then
+                        rebid, as necessary, at lower levels during the second phase of bidding.
+                        As a result, there was often little difference among many carriers’ rates,
+                        and those carriers that did make the effort to initially submit the lowest
+                        rates were not given any greater reward than those that simply waited
+                        to match whatever other rates had been offered.
+
+                        We also found that under this bidding process, many carriers set up sub-
+                        sidiary companies that were nothing more than “paper” companies
+                        whose sole function was to obtain a larger share of the DOD business for
+                        the larger corporate enterprise. These paper companies added nothing to
+                        the industry’s capability to increase its capacity for handling DOD traffic.
+                        By providing an equal share of the traffic to paper companies, DOD’S pro-
+                        cess was inequitable to the bidders that did not establish such
+                        companies.
+
+                        In contrast to this process, the international rate solicitation process was
+                        more equitable, we found in our report. At one time DOD had employed a
+                        similar “me-too” bidding process to obtain rates for its international
+                        moves. In 1976 we reviewed that process and concluded that intro-
+                        ducing more competition by rewarding the carrier offering the initial
+                        low rate would reduce rates, thereby resulting in savings to DOD in trans-
+                        portation costs.’Rates on a test route were reduced by an average of
+                        19 percent when the “me-too” process was modified. Responding to our
+                        1976 report, DOD revised its international rate-setting procedure. It mod-
+                        ified the two-step bidding process to reward the carrier that offered the
+                        low rate first with a guaranteed percentage of traffic on the given route.
+
+                        In our 1990 report we concluded that a change was needed in the
+                        domestic bidding process to encourage carriers to offer their lowest
+                        rates during the initial bidding phase and then reward those with the
+                        best bids. We said that replacing the current two-step bidding process
+                        with a one-step process, whereby all carriers had equal incentive to bid
+
+                        ‘Adoption   of a Single Method of Shipping Household Goods Overseas-Pros   and Cons
+                        (GACl/U?D/76-22~i.
+                                     May6,197G).
+
+
+
+                        Page 28                                      GAO/NSIAD-9261 DOD Commercial Transportation
+                      chapter 4
+                      Progress Slow in Implementing Changes to
+                      Household Goods Rate Negotiation Process
+
+
+
+
+                      the lowest possible rates and those offering the lowest rates for each
+                      route were rewarded with all the traffic they could handle, would prob-
+                      ably provide the carriers the most incentive to offer their lowest rates
+                      initially. However, if DOD determined that such a bidding process would
+                      not provide it the moving capability needed or would result in an unac-
+                      ceptable quality of service, it could modify the process so that the car-
+                      rier offering the lowest rate during the first phase was at least allocated
+                      a greater share of the traffic than any other carrier simply meeting the
+                      low rate.
+
+                      We recommended that MTMC replace or modify the current two-step bid-
+                      ding process so that all carriers have an incentive to initially bid the
+                      lowest possible rates and the lowest bidder is rewarded for offering the
+                      lowest rate.
+
+
+                      MTMC continues to solicit rates using the “me-too” bidding process in the
+Progress in Making    same manner we reported on in February 1990. To date, DOD has not
+Any Change Has Been   changed the domestic household goods rate bidding process, made any
+Slow                  tests of a revised process, or offered industry representatives any pro-
+                      posals for comment.
+
+                      On June 20, 1990, the Assistant Secretary of Defense (Production and
+                      Logistics) responded to our report by saying that DOD concurred with all
+                      the findings and recommendations. He said that MTMC would be tasked
+                      to revise the bidding process, although the time frame for replacing the
+                      current process would be at least 12 to 18 months.
+
+                      In October 1990, MTMC offered the Assistant Secretary an implementa-
+                      tion plan indicating that it would be at least March 1991 before any revi-
+                      sion would be released to industry representatives for coordination and
+                      comment and that no final plan would be included in a solicitation
+                      before October 1991. No proposed revision had been released to
+                      industry representatives. Even if such a proposal were submitted today,
+                      and no opposition were offered, it would probably be November 1992
+                      before any change in the solicitation process would be implemented.
+
+
+                      We recommend that the Secretary of Defense direct MTMC to accelerate
+Recommendation        its efforts to implement our recommendation to replace or modify the
+                      current two-step bidding process so that all carriers have an incentive to
+                      initially bid the lowest possible rates and the lowest bidder is appropri-
+                      ately rewarded.
+
+
+                      Page 29                                    GAO/NSIAD92-61 DOD Commercial Transportation
+                      Chapter 4
+                      Progress Slow in Implementing Changes to
+                      Household Goods Rate Negotiation Process
+
+
+
+
+                      DODcommented that changes to the solicitation process had been
+Agency Comments and   delayed 6 months because of manpower constraints associated with
+Our Evaluation        Operation Desert Storm and the evacuation of military household goods
+                      from the Philippines in the wake of volcanic eruptions, DOD noted that
+                      since rates are solicited only twice a year and MTMC missed its last
+                      window of opportunity, the corrective action plan cannot be accelerated.
+                      The remaining milestones of the implementation plan have accordingly
+                      been set back 6 months, with implementation now planned for
+                      November 1992.
+
+                      It has been nearly 2 years since we first made our recommendation, and
+                      we urge M T M Cto continue moving forward with its implementation plan.
+
+
+
+
+                      Page 30                                GAO/NSLAD-9241 DOD Commercial Transportation
+Page 31   GAO/NSIAD92-61 DOD Commercial Transportation
+Appendix I
+
+Comments From the Department of Defense
+
+
+Note: GAO comments
+supplementing those in the
+report text appear at the                           THE   ASSISTANT       SECRETARY        OF   DEFENSE
+end of this appendix.
+                                                                WASHINGTON,   DC   20301-8000
+
+
+
+                                                                                       November I, 199
+
+
+
+                                 (L/TP)
+
+
+                                 Mr. Frank C. Conahan
+                                 Assistant     Comptroller      General
+                                 National     Security   and
+                                     International      Affairs    Division
+                                 U.S. General Accounting          Office
+                                 Washington,      DC 20548
+
+                                 Dear Mr. Conahan:
+
+                                        This is the Department of Defense (DOD) response to the General
+                                 Accounting     Off ice (GAO) draft  report,    "DOD COMMERCIALTRANSPORTATION:
+                                 Some Programs Can be Made More Effective,"           dated August 20, 1991,
+                                  (GAO Code 393394), OSD Case 8810.          The DOD generally   concurs with the
+                                 report    recommendations;   however, further     clarification   and/or
+                                 explanation     is necessary with respect to several of the report
+                                 findings.
+
+                                        The report      addresses three DOD commercial transportation
+                                 programs.      First,       the GAO concludes that the DOD needs to verify         the
+                                 effectiveness       of its program for conducting       prepayment audits of
+                                 transportation        bills    and to notify  local installation    officials     of
+                                 results     of the audits,        The DOD concurs and is initiating        action to
+                                 implement these recommendations.
+
+                                        Second, the GAO recommends that the Military           Sealift   Command
+                                  (1) provide prospective       bidders   with more detailed     shipment
+                                 information    and (2) change its solicitations         to request rates for the
+                                 same pattern    of service     for which DOD actually      procures   services.
+                                 The DOD is in general agreement with these recommendations,                but
+                                 contends that detailed       information     is now available    to those bidders
+                                 who desire it.      Also, it is the DOD view that changing the
+                                 solicitation    process to obtain single        factor  rates would complicate,
+                                 rather than simplify,      the process.
+
+                                       Finally,     the GAO recommends that the Military   Traffic Management
+                                 Command accelerate        its efforts to replace or modify the current
+                                 two-step     bidding   system  for the procurement of household goods moving
+                             L                                                                                                   -I
+
+
+
+
+                                          Page 32                                  GAO/NSL4D-9241 DOD Commercial Transpmtation
+        Appendix I
+        Comments From the Department of Defense
+
+
+
+
+services.     The DOD supports the timely        resolution    of that issue.     Due
+to manpower constraints          the Military Traffic     Management Command was
+unable to effect        the recommended changes with the latest        bidding
+cycle.     Accordingly,       the proposed changes cannot be accelerated       any
+faster    than called      for under the revised corrective      action plan.
+
+     The DOD appreciates     the opportunity     to review and provide
+comments to the GAO draft      report.     The detailed   DOD comments
+addressing   the report  findings      and recommendations   are provided        in
+the enclosure.
+
+                                  Sin   rely,
+
+
+                                  J
+                                  Dax%gee
+                                  Principal     Deputy Assistant   Secretary      of
+                                     Defense    (Production   and Logistics)
+
+
+
+
+        Page 33                                 GAO/NSIAD-92-61 DOD Commercial Transpwtatlon
+        Appendix I
+        Comments From the Department of Defense
+
+
+
+
+                 GAO DRAFT REPORT - DATED AUGUST 21, 1991
+                      (GAO CODE 393394) OSD CASE 8810
+
+             "DOD CCiMEZCIAL TRANSPORTATION: S=                PROGFWLS
+                      CANBEMADEMDREEFFECTIVE"
+
+
+                                     l   ****
+
+
+
+                       DEPARTMENTOF DEFENSE C-S
+
+
+.   FINDING A:   Transportation    Buduetina and Cost Reswnsibilities.
+    The GAO observed that each Military      Service and Defense agency is
+    responsible  for budgeting    for and controlling  transportation
+    expenses.   The GAO explained    that each such component determines
+    how much money is needed, what to ship, how much to ship, when to
+    ship, and where to ship.
+
+    The GAO found that Local installation               and Defense office
+    transportation       personnel   procure the services          or have other
+    Defense components procure the services.                 The GAO pointed      out,
+    however, that the Military          Traffic     Management Command is
+    responsible       for (1) approving     carriers      to serve the DOD,
+     (2) negotiating      domestic freight       and international      and domestic
+    household goods rates,         and (3) maintaining        rates files.       The GAO
+    further     reported   that the Military        Traffic   Management Command
+    also is responsible        for routing      carload and truckload       shipments
+    and other shipments requiring           premium or specialized         services.
+
+    The GAO observed that the Military               Sealift    Command is responsible
+    for negotiating          ocean cargo rates and serves as the DOD procuring
+    contracting       office     for the Military     Sealift     Command shipping   and
+    container      agreements and contracts.           The GAO learned that the
+    Military      Sealift      Command audits all agreement and contract
+    payments prior         to payment.     The GAO noted, however, that until
+    1986, as was required           by statute,    the Federal Government paid
+    Government Bill          of Lading transportation         charges prior   to audit.
+    The GAO pointed          out that subsequent auditing          was done by the
+    General Services Administration,              and that any overcharges
+    recouped by the General Services Administration                   were returned    to
+    the DOD. The GAO found, however, that because the audits were
+    performed      a year or more after payment, the authority               for the DOD
+    to reuse the money had expired.               The GAO further      found that
+    information      about the overcharges         was not timely      for use in
+    helping     prevent      future  overcharges.
+
+
+                                                                            ENCLOSURE
+
+
+
+
+       Page 34                                  GAO/NSIAD92-61 DOD Commercial Transportation
+                            Appendix I
+                            Comments From the Department of Defense
+
+
+
+
+                        The GAO cited Public Law 99-627 (November 7, 1986), which changed
+                        the rules for auditing           Government Bill       of Lading transportation
+                        payments.       The GAO explained       that the General Services
+                        Administration       no longer is required         to return the money
+                        collected     to the DOD, but it can use the money to pay the audit
+                        expenses and returns         what is left     to the Treasury.       The GAO
+                        further    explained     that,    for the first      time, the General Services
+                        Administration       could audit bills       prior     to payment and delegate
+                        prepayment audit authority           to other departments        and agencies.
+                        The GAO found that the DOD requested               such prepayment audit
+                        authority     soon after      the law was passed, but did not receive the
+Now on pp, 2,8-g.       authority     until   July 26, 1988.        (pp. 2-7, pp. ll-13/GAO Draft
+                        Report)
+
+                        DOD E?ESPON.SE:     Concur.
+
+                    .   FINDING B: Activities           Directed    to Establish       Preaudit   Cauabilitv.
+                        The GAO observed that the Assistant              Secretary      of Defense
+                         (Production     and Logistics)      advised the Assistant          Secretaries      of
+                        the Military       Services and the Directors          of the Defense Agencies
+                        that the DOD could save millions              of dollars      a year by auditing
+                        transportation       vouchers prior      to payment.        The GAO reported       the
+                        Assistant      Secretary    further    advised that,       with a significant
+                        opportunity      to reduce budget shortfalls,            it was critical       that the
+                        DOD immediately        implement a preaudit       capability.
+
+                        The GAO found out that,        when the DOD received            authority    to
+                        conduct prepayment audits on July 26, 1988, the Assistant
+                        Secretary     of Defense (Production         and Logistics)       directed     each
+                        Military     payment office    and the Military         Traffic     Management
+                        Command to begin by immediately            establishing       the capability       to
+                        preaudit     domestic freight     Government Bills         of Lading.       The GAO
+                        noted that the Military        Traffic     Management Command was to assist
+                        the payment offices        by developing      the data bases required           to
+                        support the preaudits.         The GAO further        noted that the Military
+                        Traffic    Management Command was to develop procedures                   to audit
+                        Government Bills       of Lading manually,        which offered        a high
+                        potential     return.     The GAO found that each central              payment office
+                        established      preaudit   capability--some       using in-house staff           and
+                        others using contractors        or a combination         of in-house staff         and
+                        contractors.
+
+
+
+
+                            Page 35                                  GAO/NSIAD-92-61 DOD Commercial Transportation
+                        Appendix I
+                        Comments From the Department of Defense
+
+
+
+
+                    According      to the GAO, the Military       Traffic  Management Command
+                    auditors      explained that preauditing       was intended to do the
+                    following:
+
+                         -   detect overcharges   early,   thereby avoiding the lengthy
+                             delay inherent   in the General Services Administration
+                             post-payment   audit process;
+
+                         -   prevent the DOD from losing transportation       dollars through
+                             overpayments,   as had been occurring     in the past when the
+                             General Services Administration     audited the vouchers Only
+                             after payment; and
+
+                         -   provide   the shippers,  the Military   Traffic  Management
+                             Command, and the carriers     timely  feedback about the
+                             overcharges   so that the overcharging     could be reviewed            and
+Now on p. 12.                remedial action taken.      (pp. 3-7, pp. 1617/GAO Draft
+                             Report)
+
+                    DOD RESPONSE: Concur.
+
+                .   FINDING C: Dcmestic Freiqht             Bills    Are Beina Preaudited.         The GAO
+                    examined Government Bills            of Lading issued by transportation
+                    offices    and found that most domestic freight               Government Bills     of
+                    Lading were being sent correctly               by the military     payment offices
+                    to the Military         Traffic   Management Command for prepayment audit.
+                    The GAO reported         that,   by agreement with the Military          Traffic
+                    Management Command, the central               payment offices    flag certain
+                    Government Bills         of Lading and make copies available           to the
+                    Military    Traffic      Management Command for preaudit.            The GAO noted
+                    that,    at first,      only Government Bills        of Lading with charges of
+                    $10,000 or more and Government Bills                of Lading moving at
+                    guaranteed      traffic     rates from certain       depots were sent to the
+                    Military    Traffic      Management Command. The GAO further             noted
+                    however, that the dollar           threshold     was lowered to $8,000 in April
+                    1989--and then down to $5,000 in June 1989.
+
+                    The GAO indicated    that the Military        Traffic  Management Command,
+                    which had six full-time       prepayment auditors,      audited the
+                    Government Bills    of Lading within       2 weeks of receiving    them and
+                    reported  back to the payment offices           on the amounts that should
+                    be paid.   The GAO further       indicated    that the payment offices     then
+                    advised the billing     carriers     of any reductions    to their  bills.
+                    The GAO explained    that carriers       could appeal any reductions
+
+
+
+
+                        Page 36                                 GAO/NSIAD-926i   DOD Commercial Transportation
+                             Appendix I
+                             Cknment-sFromtheDepartmentofDefense
+
+
+
+
+                          through the payment offices     to the Military   Traffic  Management
+                          Command--and to the General Services Administration,         if
+                          necessary.     The GAO reported   that, according  to the Military
+                          Traffic    Management Command, in FY 1990, it (the Command)
+                          preaudited    more than 8,000 Government Bills    of Lading.
+
+                          The GAO reviewed rail         shipment Government Bills        of Lading issued
+                          in connection       with training     exercises     at the National     Training
+                          Center during FY 1989 and FY 1990.                The GAO found that mOSt
+                          Government Bills        of Lading were flagged and preaudited,             as
+                          called   for in the agreements.             The GAO determined    that,    of the
+                          209 Government Bills        of Lading meeting the dollar          threshold      and
+                          issued after      the Military      Traffic    Management Command began
+                          conducting     preaudits,     204 or 97.6 percent,        had been flagged and
+                          sent to the Military        Traffic     Management Command. The GAO noted
+                          that the DOD could not explain              why the other five Bills       of Lading
+                          had not been flagged and preaudited;               however, the GAO did not
+Nowan   pp   12-13.       consider    that number to be significant.              (pp. 3-7, pp. 17-la/GAO
+                          Draft Report)
+
+                          DOD FUESPONSE: Concur.
+
+                      .   FINDING D:       Prepayment     Auditing is Helping   DOD Avoid Losinq
+                          Transportation       Dollars.   The GAO estimated     that,    since the DOD
+                          prepayment auditing       began, the DOD has identified         nearly
+                          $10 million    in overcharges.        The GAO explained     that the
+                          $10 million    represents    freight,    household goods, and other
+                          carrier   charges the DOD had been billed          but did not pay based on
+                          the auditor    findings.
+
+                          The GAO pointed        out that the DOD estimated            that another
+                          $34 million      in overcharges        were avoided because the existence
+                          of the prepayment audits made the carriers                    less likely         to
+                          overcharge      (i.e.,    sentinel     effect).      The GAO found that,             since
+                          the DOD began preauditing,             the General Services Administration
+                          has been identifying          fewer overcharges         during the
+                          postaudits--and        the reduction        is greater    than the amount
+                          identified     during the preaudits.            According       to the GAO, both the
+                          DOD and the General Services Administration                     attribute       the
+                          improved situation         primarily      to the more careful           billing      habits
+                          by the carriers        after    they recognized       that preauditing            would
+                          prevent    a payment that,         in the past, probably           would have been
+                          made. The GAO observed,              however, that the DOD calculation                  of
+                          the $34 million        cannot be verified,         inasmuch as it is based only
+
+
+
+
+                              Page37                                     GAO/NSIAD92-61 DOD Commercial Transportation
+                               Appendix I
+                               Comments From the Department of Defense
+
+
+
+
+                            on a guess of how the         carriers   changed their     bills   because    they
+                            would be preaudited.
+
+                            AS an example of how the DOD is avoiding        unnecessary PaYmentS
+                            through prepayment auditing,       the GAO reviewed the Government
+                            Bills   of Lading paid for shipments moving by railroad         into and
+                            out of the National     Training   Center at Fort Irwin,   California.
+                            The GAO indicated    that the preaudits    conducted by the Military
+                            Traffic   Management Command enabled the Fort Irwin Payment
+                            offices   to avoid paying more than $500,000 on FY 1989 and
+Now on pp. 2-3, 13-15       FY 1990 Government Bills       of Lading.   (pp. 3-7, pp. 18-Zl/GAO
+                            Draft Report)
+
+                            DOD RESPONSE:       Concur.
+
+                        .   FINDING E: Prepayment Audits             can Be Further       Strenathened.      The
+                            GAO concluded that prepayment auditing                could be strengthened       to
+                            help prevent even more overpayments.                 The GAO found that the DOD
+                            had not tested the audits to determine                if all overcharges       were
+                            being uncovered.          According to the GAO, the General Services
+                            Administration       post-payment      audit data shows that some
+                            overcharges      were not uncovered during preauditing.                  The GAO
+                            further     found that,      even when overcharging        has been detected,
+                            the DOD had not provided           feedback to the local installation
+                            transportation       officials     preparing     the shipment documentation         to
+                            make them aware that overcharging               has occurred.        The GAO pointed
+                            out that such feedback permits the local offices                     to take
+                            corrective      actions to prevent        future    overcharges.
+
+                            The GAO explained   that the effectiveness        of preaudits    could be
+                            determined  by comparing the results       of bills   audited before
+                            payment with those audited after payment.           The GAO found,
+                            however, that the DOD is not making such comparisons.               The GAO
+                            reviewed the audit status of all the Military           Traffic   Management
+                            Command-preaudited    railroad   Government Bills     of Lading issued in
+                            conjunction  with training     exercises   at the National      Training
+                            Center during FY 1989 and found overcharges          on about 16 percent
+                            of the FY 1989 Government Bills        of Lading that had been
+                            preaudited.
+
+                            The GAO reported     that the Military    Traffic   Management Command
+                            auditors    were unaware that any post-payment       overcharge    had been
+                            identified     on a preaudited    Government Bill   of Lading.     The GAO
+                            further    reported  that,   according  to the Military    Traffic
+
+
+
+
+                                Page 38                                  GAO/NSIAD-9261 DOD CommercialTransportation
+                             Appendix I
+                             Comments From the Department of Defense
+
+
+
+
+                         Management Command official,        they had asked for the General
+                         Services Administration     results     of post-audits--but the General
+                         Services Administration     was not able to provide the information.
+
+                         The GAO discussed    that with the General Services Administration
+                         and found that the data are now available,       and could be used to
+                         provide    some type of measure of the effectiveness     of the
+                         preaudits.
+
+                         The GAO previously       addressed the overcharging    problems in
+                         connection   with moves to and from Fort Irwin in a May 1988 report
+                         (OSD Case 7570).        The GAO noted that,  in July 1989, which was
+                         subsequent to that report,        Forces Command internal     auditors found
+                         overcharging    related    to car charges was still    occurring.
+
+                         During its current         review,    the GAO found that the instructions
+                         were better      and that the Government Bills           of Lading were prepared
+                         more accurately;        nevertheless,      overcharges    were still     occurring.
+                         In no case, however, did the GAO find that a local                   transportation
+                         officer   had been alerted          about the overcharges      or advised about
+                         the cause-- or whether the overcharges              could have been prevented.
+                         According     to the GAO, many of the officials            were surprised        to
+                         learn they had been overcharged             because it was their
+                         understanding      that,     under the terms of the rail        agreements,
+                         carriers    were required       to notify    them if there was a disagreement
+                         with the estimated         charges the local officials         had annotated        on
+                         the Government Bills          of Lading.     The GAO noted those officials
+                         indicated     that no carrier        had inquired    about disparate      charges.
+                         The GAO reported        that,    if the carriers     had inquired      about
+                         charges,    the officials        indicated   they could have possibly          avoided
+Nowon pp. 2-$15-16       an overcharge.        (pp. 3-7, pp. 21-24/GAO Draft Report)
+
+                         DOD RESPONSE: Concur.
+
+                     .   FINDING F: Rate Neuotiation            and Procurement.       The GAO observed
+                         that each year the DOD spends about $600 million                  for commercial
+                         ocean transportation.          The GAO explained    that the Military
+                         Sealift    Command negotiates       rates for millions       of tons of the DOD
+                         cargo--the     bulk of which moves in intermodal           containers.      The GAO
+                         described     intermodal    containers    as 20- and 4D-foot-long        trailers
+                         in which the cargo can be hauled by truck,              railroad,     or
+                         ship--without       further  rehandling    of the contents.
+
+                         The GAO reported       that the Military       Sealift Command negotiations
+                         occur at 6-month       intervals under      terms of the Federal Acquisition
+
+
+
+
+                             Page 39                                  GAO/NSL4D&Ml      DOD Commercial Transportation
+                                Appendix I
+                                Comments From the Department of Defense
+
+
+
+
+                                                                                                              - -
+
+                   Regulations.           The GAO pointed      out that    bidding     is based on the
+                   following:
+
+                        -         ocean route--further      delineated    as to the      direction    in
+                                  which cargo will be moving--broad          type of     cargo (general,
+                                  refrigerated,     or vehicular)   --and the size       of container
+                                   (basically,   20-foot   and 40-foot)    in which      the cargo will
+                                  move; and
+
+                        -        o--that
+                                 land r ut                              is, the route from
+                                 origin    to the port or from the port to the ultimate
+                                 destination     in which the container    will move in
+                                 conjunction     with its ocean voyage.
+
+                   The GAO found that the Military       Sealift     Command bases its
+                   evaluation    on criteria   stated in the requests         for proposals.
+                   According   to the GAO, those criteria        generally      include
+                   comparisons     (1) of old and new rates,       (2) of the rates of one
+                   bidder with those of another bidder,          and (3) of the bidder rates
+                   with commercial rates.       The GAO pointed      out the Military        Sealift
+                   Command also advises the bidders        that it has the right          to reject
+                   a rate outright,      or to negotiate   with them for better          rates,    or
+                   to accept a rate without       any negotiation.       The GAO stated that
+                   accepted rates are provided to the Military             Traffic     Management
+                   Command, which uses them to route shipments.
+Nowon pp. l&19.     (pp. 3-7, pp. 25-26/GAO Draft Report)
+
+See comment   1.   DOD RESPONSE:         Partially       concur.   The GAO report gives the
+                   incorrect     impression        that the Military    Sealift  Command
+                   evaluation     relies     almost exclusively       on a comparison of rates
+                   offered    with commercial rates.             The GAO does not, however, fully
+                   define the Military           Sealift    Command's evaluation   criteria, which
+                   are as follows:
+                            -     compliance  with the 1904 Cargo Preference   Act (which
+                                  makes it unlawful   for carriers to charge the Government
+                                  more than private   persons for carriage  of like goods);
+
+                            -      on certain   routes,   Comparison      of 20-foot     container   rates
+                                   with 40-foot   container   rates;      and
+
+                            -     whether prices    are fair and reasonable,     pursuant   to
+                                  Federal Acquisition     Regulation  15.805, evaluated
+                                  separately   for each route except for specified        routes
+                                  having similar    market conditions   or service.
+
+
+
+
+                            Page 40                                  GAO/NSIAD92-61 DOD Commercial Transportation
+      Appendix I
+      Comments From the Department of Defense
+
+
+
+
+    Federal Acquisition      Regulation   15.805-Z provides     for price
+    analysis,     which includes    (1) comparison of prices received under
+    the solicitation,      (2) comparison with prior      proposal prices,
+     (3) comparison with competitive       published  lists,    and (4)
+    comparison with Government estimates.
+
+    Therefore,   under the current evaluation  criteria used by the
+    Military   Sealift Command, comparison with commercial rates is
+    only one of several evaluation   criteria.
+
+.   FINLXNG G: Problem of Ensurinq That Rates Are Fair and
+    Reasonable.     The GAO observed that the Military           Sealift     Command
+    is faced with competing objectives--          (1) obtaining    the lowest
+    rates possible     for the DOD and (2) maintaining          an adequate
+    sealift    base for mobilization.       The GAO found that,        on most of
+    the routes for which it sought rates,           the Military     Sealift
+    Command historically       found adequate competition        to produce low
+    rates and still      have adequate lift     capability.      The GAO pointed
+    out that the Command did not have to engage in extensive
+    face-to-face    negotiations     with carriers     to obtain low rates.
+
+    The GAO noted, however that the carriers                complained to the DOD
+    and the Congress that the bidding             system resulted         in destructive
+    competition--driving           rates excessively     low and forcing          carriers
+    out of business.           The GAO reported     the carriers       argued that the
+    heavy dependency of the U.S. merchant marine on Defense cargo and
+    the Military       Sealift    Command policy      of distributing       the
+    preponderance       of cargo to the low cost carrier              over the entire
+    6-month contract         period often meant that one carrier              could
+    receive    substantial       DOD business in one 6-month period,               but
+    almost none the next--effectively             threatening       survivability        of
+    the carrier.
+
+    The GAO observed that the DOD had recognized              that distributing
+    all cargo to the low-cost         carrier   might not be in the best
+    interest     of the Department.       The GAO explained      that,  as a result,
+    the DOD began limiting         the amount of cargo any one carrier          would
+    receive    on certain     major routes.     The GAO concluded,      however, the
+    cargo allocation        has not necessarily     supported    a mobilization
+    base that the DOD had in the past.            The GAO noted that the U.S.
+    fleet    continues    to decline   in size.     The GAO cited an example
+
+
+
+
+       Page 41                                  GAO/NSIAD-92-61 DOD Commercial Transportation
+                          Appendix I
+                          Comments From the Department of Defense
+
+
+
+
+                   where only a few years ago, four              carriers offered  the Military
+                   Sealift  Command service from the             U.S. East Coast to Europe, but
+                   now there are only two carriers.
+
+                   The GAO also found that the allocation              System has not necessarily
+                   provided   the DOD the lowest possible          rates    either.      The GAO
+                   explained    that carriers     sometimes lack incentives           to offer  their
+                   lowest rates.       The GAO concluded that,        with fewer carriers,        often
+                   of varying     cargo carrying    capability--competition           is not working
+                   as well as it had in the past.            The GAO further        concluded that
+                   past incentives      for bidding   low are often no longer operative.
+
+                   The GAO observed that-- as one way of addressing               the problem of
+                   decreased competition--the          Military   Sealift    Command is taking       a
+                   closer    look at the offers      by comparing them with commercial
+                   rates.      The GAO reported     that,    as a result,    the Military    Sealift
+                   Command found some offers          were not fair     and reasonable,     and
+                   determined      that they should be rejected.          The GAO further
+                   reported,     however, that the process has resulted             in a series of
+                   disputes     with the carriers      over what is fair       and reasonable.       The
+                   GAO noted that the carriers          have brought many of the rejections
+                   to the attention         of the Comptroller    General for resolution.          The
+                   GAO reported       that,   in a number of instances,        the Comptroller
+                   General held the rejections           to beunsupportable--effectively
+                   Leaving the rate evaluation           process in a state of uncertainty.
+Now on pp. 19-20    (pp 3-7, pp. 26-28/GAO Draft Report)
+
+                   DOD RESPONSE: Partially              concur.      A 1989 study of the Military
+                   Sealift      Command competitive         sealift     procurement        system by
+See comment   2.   Harbridge      House concluded that,           "It is inaccurate          to attribute
+                   to DOD procurement         policies     the reduction          in the number of U.S.
+                   liner    vessels and operators          that has occurred           since World
+                   War II."       The Harbridge       House study attributed             those reductions
+                   to factors      such as high U.S. crew and vessel costs, sharp
+                   reductions      in unit transportation            costs due to the use of
+                   increasingly       larger    container      ships, and the economic advantage
+                   enjoyed by large,         vertically      integrated        transportation
+                   companies.        The Harbridge       House study also found that rates paid
+                   by the Military        Sealift      Command were comparable to those paid by
+                   commercial shippers,           and pointed       out that DOD cargo
+                   historically       has provided       a large,      stable,      and assured supply of
+                   cargo for U.S.-flag          carriers     over routes otherwise             characterized
+                   by wide fluctuations           in cargo volumes.
+
+
+
+
+                          Page 42                                   GAO/NSL4D-9281DOD Commercial Transportation
+                          Appendix I
+                          Comments From the Department of Defense
+
+
+
+
+                      The GAO report         also does not mention that,       following       an earlier
+                      1988 review of the Military            Sealift    Command procurement
+                      practices,       the GAO reported     to the House Committee on Merchant
+                      Marine and Fisheries         that:     "MSC's present methods of
+                      contracting        for ship operation     and maintenance        and cargo rate
+                      setting      focus on obtaining      the least cost to the Government,
+                      which is consistent         with Government policy.          If changes are to
+                      be made in order to support the U.S. maritime                  industry,    which
+                      result     in additional     costs,    it is important     that those costs be
+                      identified       and fully   disclosed.        Decision makers will then be in
+                      a position       to make informed judgments about the cost and
+                      benefits       associated   with such a program."
+
+                      The DOD disagrees       with the GAO statement,        "In a number of
+See comment   3       instances,     the Comptroller   General has found the rejections
+                      unsupportable,      effectively   leaving the rate evaluation          process
+                      in a state of uncertainty."          The Military      Sealift    Command is
+                      aware of only one procurement          over a 2%five       year period,    in a
+                      bid proceeding      with two carriers,       where the GAO found the
+                      Military     Sealift Command rejection        of rates was not supported
+                      fully.     Also, as noted above, the Military            Sealift   Command
+                      revised    its rate evaluation      criteria     in light    of the GAO
+                      finding.      In a subsequent finding,        the GAO approved the method
+                      employed for rate reviews.
+
+                      The DOD is currently    evaluating  the methods used for procuring
+                      sealift  in conjunction   with proposals  to improve the DOD Sealift
+                      Readiness Program.
+
+                  .   FINDING A:   M ilitarv Sealift Ccatunan
+                                                           d Does Not Provide Carriers
+                      Necessarv Information for Makina Informed Bids-Militarv    Rate
+                      Descriptions Broader Than Those of Comnercial Rates. The GAO
+                      found that,      instead    of providing     prospective     bidders    information
+                      about commodities,         volumes, or patterns,         the Sealift   Command
+                      semi-annual      requests     for proposals      simply say that the cargo
+                      intended to be shipped is "Military               cargo not for resale in
+                      commerce and mail with usual characteristics                  of shipments in
+                      substantial      volume and varied makeup."             The GAO observed that,
+                      while the requests         do provide    statistics      showing tonnages shipped
+                      on ocean routes during some prior              year, they also urge caution to
+                      bidders     intending    to use the figures         for predicting    future    cargo
+                      movements.
+
+
+
+
+                          Page 43                                 GAO/NSIAD92-61 DOD Commercial Transportation
+                          Appendix I
+                          Comments From the Department of Defense
+
+
+
+
+                   The GAO explained        that carriers     are to Submit the ocean rates as
+                   either    "cargo,    not otherwise     specified,"   "refrigerated      Cargo"' or
+                   "vehicles."       The GAO concluded that those broad categories              were
+                   in sharp contrast        with commercial shipping       practices,     where rates
+                   are generally      formulated    on the basis of specific          commodity
+                   descriptions,      anticipated     volumes of cargo, and traffic         patterns.
+                   The GAO pointed       out that commercial rates were named for hundreds
+                   of specific     commodities--for       example, beverages,       hand tools,    air
+                   conditioners,      lumber, paint,      clothing,   and household goods.
+
+                   According   to the GAO, often     those rates      were conditioned     on
+                   shipping   a minimum number of containers          over a specified     period
+                   of time and from one named point or through one named point to
+                   another.    The GAO indicated     that,    although    carriers  maintain
+                   commercial rates for shipments described            in the Military     Sealift
+                   Command terms, particularly,        "cargo, not otherwise       specified,"
+                   they use them only in isolated         instances--essentially       for
+                   shipments moving in irregular,         low-volume patterns.        The GAO
+                   concluded,    therefore,   that those rates are the highest          the
+Nowon   pp.2021    carriers   maintain.     (pp. 3-7, pp. 28-32/GAO Draft Report)
+
+                   DOD RESPONSE: Partially              concur.      The DOD generally          agrees that
+                   military      rate descriptions        are broader than commercial rate
+                   descriptions.         Commercial tariffs          contain    literally       thousands of
+                   specific      commodity rates,        reflecting      market place and competitive
+                   factors.       Accordingly,       broad commodity descriptions               such as
+                   "cargo,     not otherwise       specified"       are published        in commercial
+                   tariffs     to provide      a rate in the event a specific                rate is not
+                   available.        while they may be the highest              commercial rates,          in
+                   actuality      these rates are rarely,            if ever, used.          Since the DOD
+                   cargo is not for resale in the commercial sense, it is not
+See comment   4.   subject to the same pricing              constraints      as commercial cargo.
+                   There is no need for the DOD to establish                   thousands of commodity
+                   rates found in a commercial tariff.                   Likewise,       from the carrier
+                   standpoint,       it should not matter what the DOD puts into a
+                   container.        The per container         cost to the carrier           to transport     a
+                   container      is the same no matter what it contains.                      However,
+                   since the preponderance            of DOD cargo moves outbound from the
+                   U.S., when the preponderance               of the commercial cargo is moving
+                   in the opposite        direction,      carriers     make economic decisions            to
+                   price DOD cargo incrementally               in order to receive           some
+                   contributions       to fixed costs that might otherwise                   go
+                   unrecovered.         The DOD
+
+
+
+
+                          Page 44                                    GAO/NSIAD-92-61 DOD Commercial Transportation
+       Appendix I
+       Comments From the Department of Defense
+
+
+
+
+    recognizes    a need and provides   carriers    with general information
+    concerning    the nature of the cargo (e.g.,       whether it is
+    hazardous    or whether it is "weight"     cargo).    However, the DOD
+    disagrees    with the GAO statements     (on pages 25 and 26 of the
+    report)   that the carriers   need information      on the specific  types
+    of commodities     to be moved in order to make an "intelligent"        or
+    an "informed"     bid.
+
+    Reducing Military    cargo descriptions      to the level of specificity
+    to which commercial carriers        define commodities would be
+    inefficient   for both the DOD and the carriers.         The DOD tariff
+    rates are greatly    simplified     and far less burdensome than
+    commercial tariffs    for carriers.       These commodity descriptions
+    have evolved over 25 years of use and carriers          have never
+    suggested that they be changed.
+
+    Finally,    Military      Standard Transportation       and Movement
+    Procedures     commodity codes are contained          in the cargo
+    documentation       provided    to the carriers    with the loaded
+    containers     and on the cargo manifest        provided    to the carriers   by
+    the Military      Traffic    Management Command. These codes can be
+    translated     by the carrier      into the specific      commodities   that are
+    being shipped by the DOD, and between what origin                and
+    destination      points.
+
+.   FINDING I:  M ilitary Sealift CorumandDoes Not Provide Carriers
+    Necessary Information for Makinq Informed Bids--the M ilitary
+    Sealift Comman d Evaluates Bids Usins Cammercial Rates. The GAO
+    observed that,        despite   the differences         between military        cargo
+    rates and commercial shipping            rates,      the Military      Sealift     Command
+    uses commercial rates in an attempt to determine                     whether offers
+    by the carriers        are fair    and reasonable.          The GAO found, however,
+    that instead       of using the carrier         I'cargo, not otherwise
+    specified"      rates for comparisons,         the Command selects           other
+    rates,    those with more specific          descriptions         and having certain
+    other restrictions.           The GAO cited an example where the Command
+    may select      a rate specifically       applicable        to clothing      or one
+    requiring     the shipper to move 50 container                loads a year of some
+    named commodity--compare           that rate with the "cargo, not otherwise
+    specified"      rate,   and decide whether the offered              rate is too high
+    and should be rejected.            The GAO learned that many such rates
+    have been rejected         in the past year and a half.
+
+
+
+
+       Page 45                                   GAO/NSIAD-92-61 DOD Commercial Transportation
+                        Appendix I
+                        Comments From the Department of Defense
+
+
+
+
+                  The GAO noted the carriers    argue that such comparisons are unfair
+                  because the Sealift   Command should not be allowed to reject     a
+                  rate on the basis of a commercial rate, which may or may not
+                  apply to the traffic   the DOD will be shipping.     The GAO pointed
+                  out that the carriers    are not told what the DOD plans to ship,
+                  how much, or between which points,     or what rates the Command will
+                  be using to make the comparisons.
+
+                  The GAO observed that several          carriers    have protested      or
+                  supported    others in protesting       the rejections        to the Comptroller
+                  General and, generally,        have had their      arguments supported.         The
+                  GAO concluded that,      although    the Military       Sealift    Command efforts
+                  to find and reject     unfair    and unreasonable         rates are laudable,
+                  unless the Command provides        the bidders       information     on what they
+                  are bidding     on and what their      offers   will    be compared with,     their
+Nowon p 21.       efforts   are not likely     to be successful.           (pp. 3-7, pp. 28-32/GAO
+                  Draft Report)
+
+                  DOD RESPONSE: Nonconcur.              While correct    in stating        the Military
+                  Sealift    Command reviews commercial rates in accordance with the
+                  Cargo Preference       Act of 1904 to determine whether a carrier's
+                  rates are fair      and reasonable,        the GAO is incorrect           in stating
+See comment   5   that the Military         Sealift     Command may reject      a carrier's       offered
+                  general cargo rate as too high (i.e.,               not fair     and reasonable)
+                  based on a comparison with "a" (i.e.,               one only) commercial rate.
+                  The Military      Sealift    Command currently       performs an independent
+                  Government Rate Estimate            of proper price level or value of
+                  services    being purchased by utilizing            a statistically         based
+                  weighted average of commercial commodity rates.                      The latest
+                  historical     data covering        the movement of DOD cargos by Military
+                  Standard Transportation            and Movement Procedures number is
+                  utilized    to establish        the general category of specific             rates
+                  sought.     That general category,           is then weighted by the volume
+                  of DOD cargo shipped to establish              an aggregated       rate,    which
+                  provides    a commercial "benchmark" for reviewing                  rate offerings.
+
+                  The GAO assertion       that a "cargo, not otherwise          specified"    rate
+                  more Clearly    reflects      a more direct    comparison with DOD cargo
+                  rates is clearly      an oversimplification.          Such a rate is placed
+                  in commercial tariffs        to allow carriers      the opportunity      to
+                  publish  a lower rate without         an extended waiting       period and, in
+                  unusual circumstances,         to provide    a rate in the event that no
+                  other rate applies.         In normal commercial practice,           the
+                  commercial   carrier      does not contemplate      extensive    use of such a
+
+
+
+
+                        Page 46                                    GAO/NSIAD-92-61 DOD Commercial Transportation
+        Appendix I
+        Comments From the Department of Defense
+
+
+
+
+    rate,     since it is generally      the highest     rate in the tariff.
+    Thus, such a rate does not reflect            in any way a valid comparison
+    with the cargo shipped by the DOD. The Military                 Sealift   Command
+    does not use commercial rate comparisons that are predicated                 on
+    volume minimums, service         contract   filings,     or other limited
+    restrictions,      as the GAO states.       Specific     commercial rates are
+    not used to reject       offered   rates unless the description
+    corresponds     exactly   with the offered       rate description.
+
+    The GAO also states that the carriers                  are not told what the DOD
+    plans to ship, how much, or between which points,                      or what rates
+    the Command will        use to make the comparisons.              As previously
+    noted, knowledge of the specific                 commodity (dry cargo,
+    privately-owned        vehicles,     etc.)     is unnecessary      in order for the
+    carrier    to construct       a rate.      Cargo manifest       data indicating
+    specific     military    container      cargo descriptions         is provided      to
+    carriers     on request by the Military             Traffic    Management Command
+    on an ongoing basis.           The carriers        analyze the data in
+    conjunction       with their     internal      sales forecasting        information     to
+    arrive    at pricing     strategies.        Additionally,       requests      for
+    proposal     during the acquisition            cycle include historical           cargo
+    movement data for trade routes covered for similar                       movements in
+    prior    years.      That information        is aggregated      in terms of general
+    commodity     descriptions       and stated in the requests             for proposal.
+    The carriers       have been engaged in the business of transporting
+    military     cargo for many years and have knowledge of all the
+    major continental        United States origin           and overseas destination
+    points.      They construct        sophisticated       marketing     reports.      The
+    Department asserts that the level of DOD cargo is very stable
+    and predictable        over long periods          of time, based on troop
+    deployments.
+
+.   FINDING J: M ilitarv  Sealift Ccmnand Does Not Provide Carriers
+    Necessarv Information  for Making Informed Bids--Providinq
+    Specific Ccmmditv Descrivtions   Could Help Ensure Reasonable
+    Rates.     In a prior       1981 report    (OSD Case 5702), the GAO had
+    voiced concern about not giving             the carriers   specific  commodity
+    descriptions       of anticipated      shipments.     The GAO recommended that
+    the Military       Sealift     Command canvas each shipper and identify--in
+    terms of (1) origin/destination,              (2) volume of cargo over time
+    and per container,          and  (3) type of cargo--what     the specific
+    requirements       were-- review the data to establish         what DOD shipping
+    patterns     existed,      and make those requirements      known to the
+    carrier    industry.        The GAO pointed     out that the Department of
+
+
+
+
+        Page 47                                    GAO/NSIAD-92-61 DOD Commercial Transportation
+                             Appendix I
+                             Comments From the Department of Defense
+
+
+
+
+                         Defense did      not concur with       the   1981 recommendations          and,
+                         accordingly,      took no action       on them.
+                         The GAO reported         that,     since 1981, the situation            seems to have
+                         changed in that the number of carriers                   bidding     rates has dropped
+                         significantly.          The GAO noted that,         where four or five carriers
+                         may have had bid rates on a route before,                    now only two or three
+                         are bidding.         The GAO concluded that,           to ensure the DOD will
+                         continue       to receive      favorable     rates,  the Military         Sealift   Command
+                         could provide the carriers               its most detailed        historical      shipping
+                         data--showing        the specific        commodities that had been shipped,               and
+                         then using that data to compare the offers                     with commercial rates.
+
+                         The GAO further   concluded that,      if the requests    for proposal
+                         clearly   state specific  descriptions      will be used to compare
+                         carrier   offers with commercial rates,        there would be no
+                         misunderstanding    that commercial rates would serve as a factor
+                         for determining   whether a rate is fair and reasonable.
+Now on pp 3-4, 22.        (pp. 3-7, pp. 2&32/GAO Draft Report)
+
+                         DOD RESPONSE: Partially    concur.     The Military    Sealift   Command
+                         already provides the carriers    detailed   historical    shipping  data,
+                         showing the specific        commodities   it has shipped.     The DOD will
+See comment   6.         continue    to make the data readily        available  to all carriers,     as
+                         it has in the past.         The Department is not convinced,       however,
+                         that additional      information    will,   in and of itself,   ensure
+                         reasonable    rates.      The DOD asserts     it is the fundamental
+                         economic factors       that will  always influence     the level of rates
+                         offered   the DOD.
+
+                     .    FINDING K: Militarv    Sealift CcmmandDoes Not Provide Carriers
+                         1Necessa
+                          Connnodity Data Is Readily   Available from the Kilitarv Traffic
+                         Manauement Ccmmnd. The GAO observed that commodity
+                         descriptions--those         that basically      would be adequate for
+                         comparing Military         rates with those for commercial shipments--are
+                         coded on the manifests          the Traffic    Management Command prepares      in
+                         connection      with every container        booked.   The GAO further    observed
+                         that the commodity codes are listed              and spelled  out in DOD
+                         Regulation      4500.32-R,     Military    Standard Transportation     and
+                         Movement Procedures,          and must be assigned by each shipper to all
+                         shipments moving in ocean transportation.                The GAO found that
+                         there were more than 400 such codes that were used in connection
+                         with commercial rates--with             many very specific,   covering   such
+
+
+
+
+                            Page 48                                    GAO/NSIAD92-61 DOD Commercial Transportation
+                          Appendix I
+                          Comments From the Department of Defense
+
+
+
+
+                       commodities   as (1) beverages,    (2) hand tools,     (3) air
+                       conditioners,   (4) lumber,   (5) paint,   (6) clothing,    and
+                        (7) household goods.
+
+                       The GAO reviewed the containers    shipped outbound from the East
+                       and Gulf coast ports in January 1991, to validate        that such codes
+                       are used.   The GAO found that 10,137 containers     were listed,
+                       indicating  193 different   commodity codes.   The GAO found that the
+                       code used most often was applied to "general     cargo, not otherwise
+                       specified"   (16.74 percent of the time).    The GAO concluded that
+                       more than 62 percent had some specific     code suitable     for
+                       comparing military    cargo with commercial cargo.
+Now on pp. 22-23        (pp. 3-7, pp. 28-32/GAO Draft Report)
+
+                       DOD RESPONSE: Concur.
+
+                   .   FINDING L:     Pates Are Not Requested on the Same Basis as DoD
+                       Procures the Service.         The GAO found that,      when the DOD buys
+                       containerized     service using the Military         Sealift      Command
+                       negotiated    rates,    the individual     rates for each segment of the
+                       movement loses its significance           because the DOD procures the
+                       service    as through shipment.        The GAO further       found, however,
+                       that the Sealift      Command nevertheless       continues      to solicit     and
+                       evaluate    each segment rate on its own, as though the segment rate
+                       were important.       The GAO concluded the described             practice
+                       distorts    and complicates     the bidding     and evaluation        process.
+
+                       The GAO stated that its 1981 report            (OSD Case 5702) pointed          out
+                       this problem,      noting that the Sealift        Command did not allow
+                       carriers    to bid rates based on specific          traffic     patterns.      The
+                       GAO reported     that the Sealift      Command required        carriers    to bid
+                       three separate       rates:    (1) the United States inland linehaul            or
+                       drayage rate,       (2) the ocean rate,     and (3) the overseas linehaul
+                       or drayage rate.         The GAO explained    that the Sealift          Command
+                       evaluated,     accepted,     rejected,  or negotiated       each type of rate
+                       separately     and then ranked each carrier         from low to high in order
+                       of its rates for each segment.           The GAO emphasized, however, that
+                       when the Traffic        Management Command used those rates to determine
+                       the low-cost     route for individual       shipments,      it discarded     the
+                       ranking    for the total      cost (land-ocean-land)        rank, established       by
+                       the Traffic     Management Command.
+
+                       The GAO found     that the Traffic Management Command cargo manifests
+                       indicate that     most of the DOD containers move in well-defined,
+
+
+
+
+                          Page 49                                 GAO/NSLAB9241     DOD Commercial Transportation
+                              Appendix I
+                              Comments From the Department of Defense
+
+
+
+
+                        U.S. inland points to overseas inland points.        According   to the
+                        GAO, only a relatively   small percentage    of containers,
+                        principally those carrying    privately   owned vehicles    and household
+                        goods, move only from port to port.
+
+                        The GAO pointed  out, however, that the Sealift     Command does not
+                        ask for, and consequently     does not compare or evaluate,  rates on
+                        the basis of those patterns.      The GAO concluded that asking for
+                        rates over such patterns    would enhance competition   among carriers
+Now on pp. 3-4, 24-25   and reduce the rates.     (pp. 3-7, pp, 32-34/GAO Draft Report)
+
+                        DOD RJZSPONSE:        Partially      concur.       The GAO concludes that asking
+                        for rates governing           carriers'      intermodal    movement patterns       (as
+                        opposed to the Military             Sealift     Command's current    practice      of
+                        soliciting      segmented rates)          would enhance competition        among
+                        competing carriers          and reduce rates.           The GAO does not, however,
+                        elaborate      on the factual        basis for the statement or the
+                        analytical      reasoning       behind it.        Despite the lack of
+                        explanation,       the Department agrees generally             with the GAO
+                        premise in connection            with through cargo movements of
+                        significant       cargo volume.          The Department asserts,      however, that
+See comment   7         to solicit      single     factor     rates for more than the highest           volume
+                        routes would complicate,              rather    than simplify,    the solicitation
+                        process,      and force the Military            Sealift   Command to evaluate
+                        significantly        more rates.
+
+                        Many of the inland linehaul               rates are used in connection             with
+                        more than one ocean route,              both domestically        and overseas.
+                        Consequently,        linehaul     rates take on a generic quality               and may
+                        be used    to create many different             shipping     combinations       within
+                        the cargo movements of a given carrier.                    Automated analysis            of
+                        the various      carrier      inland and water rate combinations                results
+                        in booking cargo at the least cost to the Government for the
+                        through movement.           Additionally,       a need would still          exist    for
+                        individual     linehaul       rates to accommodate origin             point to
+                        discharge     port or discharge           port to destination         point shipments.
+                        In summary, the DOD agrees that limited                   implementation        of the
+                        related    recommendation may accrue certain                 benefits     to the
+                        Government.        The Department asserts,           however, that
+                        implementation         across the entire        spectrum of potential
+                        intermodal     rates would place an insupportable                 burden on the
+                        Military     Sealift     Command and further          complicate      the rate
+                        evaluation     process.         In particular,      in the absence of commercial
+                        rates between the same origin                and destination      points,      and unless
+
+
+
+
+                               Page 50                                     GAO/NSLAD9281 DOD Commercial Transportation
+                             Appendix I
+                             Comments From the Department of Defense
+
+
+
+
+                         ocean rates are stated separately,         it will  adversely   affect   the
+                         ability     of the Military    Sealift Command to evaluate     rates for
+                         compliance with the Cargo Preference         Act of 1904.     Nevertheless,
+                         the Military      Sealift   Command, in conjunction   with the Military
+                         Traffic     Management Command, will    investigate   the feasibility       of
+                         soliciting      in its next request for proposals     certain    single
+                         factor     rates for the highest volume, point-to-point        routes.
+
+                     .   FINDING M: Rate Svstem Involves         We-too"     Neaotiation   . The GAO
+                         observed that the DOD pays commercial carriers             about $400 million
+                         a year to move the personal. effects        of Military      members and
+                         civilian  employees within    the continental       United States.     The GAO
+                         reported  that the Military     Traffic   Management Command is the DOD
+                         agent for negotiating    rates for the movement of household goods.
+
+                         According    to the GAO, twice each year the Traffic         Management
+                         Command solicits      rates from the domestic moving industry         to meet
+                         the DOD household goods shipping       requirements.      The GAO explained
+                         that bidding     is done in two steps under a "me-too" type of
+                         negotiation.       The GAO noted that,   in the first    step, each carrier
+                         submits a qualifying       bid--stated as a percentage      of a specified
+                         rate--for    each route it intends to serve.         The GAO further    noted
+                         that once the bids are accepted,       they are made public       for review
+                         by all bidders.
+
+                         The GAO described   the second step, which is commonly called the
+                         “me-too”   phase, which allows carriers  to change any rate they
+                         had offered   to match that of a lower bidder.
+
+                         The GAO found that the final               bids submitted       by the carrier      are
+                         ranked in a low-to-high              order and provided       to the local shipping
+                         office     officials       for routing     shipments.       The GAO pointed      out
+                         that,     where more than one carrier             qualified     to serve a location
+                         had offered         the same low rate, the officials              were required     to
+                         distribute        the shipments as equally           as possible     to each carrier,
+                         regardless        of which one submitted          the low rate first.          The GAO
+                         explained       that,    in other words, the carrier            that initially
+                         submitted       the low bid is not entitled             to any greater      reward than
+                         another carrier          that met the low rate during the "me-too"
+                         bidding phase.           The GAO further       found that,      when there are more
+                         shipments than the carriers               with the lowest rate can handle, the
+                         officials       are required       to move up the rate ladder to the next
+                         Level and distribute            the shipments as equally           as possible    to all
+Now on pp. 3-4, 27       qualified       carriers      at that level.        (pp. 3-72, pp. 36-37i~z-10
+                         Draft Report)
+
+
+
+
+                            Page 61                                    GAO/NSIAD-92-U DOD Commercial Transportation
+        Appendix I
+        Comments From the Department of Defense
+
+
+
+
+    DOD RESPONSE: Concur.               The Department concurred with a GAO
+    recommendation          that addressed the same issue in the February 1990
+    GAO report       entitled,      "HOUSEHOLDGOODS: Competition            Among Movers
+    Serving DOD Can Be Improved"                (OSD Case 8270).        The DOD response
+    stated that the Military             Traffic    Management Command would revise
+    its bidding       system to maximize competition               and to reward the
+    lowest bidder for the movement of domestic household goods.
+    However, due to the lead time required                    to develop a new
+    solicitation        procedure,      coordinate     the procedure with industry,
+    solicit      rates in sequence with scheduled 6-month bid cycles,                      and
+    modify automated systems, changing the solicitation                      process would
+    take at least 12 to 18 months.                 Accordingly,      the earliest     the
+    changes could be implemented would be the solicitation                        cycles for
+    the fall      of 1991 or spring of 1992.              Changes to the solicitation
+    process subsequently            have been delayed another 6 months due to
+    manpower constraints            associated     with Operation       DESERT STORM and
+    the evacuation          of Military     household goods shipments from the
+    Philippines       in the wake of volcanic            eruptions.      The Military
+    Traffic      Management Command expects to incorporate                 changes in the
+    method of negotiating            rates effective        the fall    of 1992.     Since
+    rates are solicited           only twice a year, and the Military              Traffic
+    Management Command missed its last window of opportunity,                         the
+    corrective       action plan cannot be accelerated.
+
+.   FINDING N:       Prior GAOReport Identified             Weaknesses in Rate
+    Neuotiation      System. The GAO referenced              a February 1990 report
+     (OSD Case 8270) in which it had concluded that the DOD two-step
+    system for obtaining          rates was not truly          competitive.       The GAO
+    found that,      when carriers       submitted bids in the first             phase, they
+    had little     incentive      to offer the DOD their          lowest rate initially
+    because they would have the opportunity                 to match the lowest rate
+    offered    and eventually        to share equally        in any traffic       generated.
+    The GAO reported        that,    instead,   most    carriers    merely bid a
+    qualifying     rate--often       the same rate for every route they
+    intended to serve--and           then rebid at lower levels during the
+    second "me-too" phase of bidding.                The GAO had concluded that,             as
+    a result,    there was often little           difference      among many carrier
+    rates and, those carriers            that did make the effort             to submit the
+    lowest rates initially           were not given any greater             reward than
+    those that Simply waited to match whatever other rates had been
+    offered.
+
+    The GAO also      had found that,    under the current            bidding  system,
+    many carriers      Set up subsidiary    companies--most            of which were
+
+
+
+
+        Page 52                                   GAD/N%AD-92-61 DOD Commercial Transportation
+                                 Appendix I
+                                 Comments From the Department of Defense
+
+
+
+
+                             nothing more than "paper" companies, whose sole function             was to
+                             obtain a larger      share of the DOD business      for the larger
+                             corporate   enterprise.       The GAO had concluded that those paper
+                             companies added nothing to the capability           of the industry   to
+                             increase  the capacity      for handling  DOD traffic.       The GAO
+                             concluded that,      by providing   an equal share of the traffic       to
+                             paper companies, the DOD system was inequitable            to the bidders
+                             who did not establish       such companies.
+
+                             In the prior        report,     the GAO had observed that the international
+                             rate solicitation           system was more equitable.           According to the
+                             GAO, at one time the DOD had employed a similar                    "me-too" bidding
+                             system     to obtain      rates for its international           moves.     The GAO
+                             observed a 1976 report              (OSD Case 4126) had found that
+                             introducing       more competition          by rewarding    the carrier      offering
+                             the initial       low rate would reduce rates,            thereby resulting          in
+                             savings in transportation              costs.     The GAO reported      that,    as a
+                             result     of the prior       report,     the DOD revised the international
+                             rate-setting       procedure        by modifying     the two-step   bidding       system
+                             to reward the carrier             that offered     the low rate first        with a
+                             guaranteed      percentage        of traffic     on the given route.         The GAO
+                             calculated      that rates on a test route were reduced by an average
+                             of 19 percent        when the "me-too" system was modified.
+
+                             The GAO noted that in the 1990 report               (OSD Case 8270), it had
+                             concluded that a change also was needed in the domestic bidding
+                             system to encourage carriers            to offer   their   lowest rates during
+                             the initial      bidding    phase and then reward those with the best
+                             offers.      The GAO had recommended replacing           the current     two-step
+                             bidding     system with a one-step system, whereby all carriers                 had
+                             equal incentive        to bid the lowest possible        rates and those
+                             offering     the lowest rates for each route were rewarded with all
+                             the traffic      they could handle.          The GAO observed that would
+                             probably     provide     the carriers     the most incentive     to offer    their
+Now on pp, 3-4, 28-29.       lowest rates initially.             (pp. 3-7, pp. 37-39/(X0      Draft Report)
+
+                             DOD RESPONSE:        Concur.
+
+                         .   FINDING 0: Progress in Makina Any Chanaes Pas Been Slow.         The
+                             GAO found that the Military    Traffic Management Command continues
+                             to solicit  rates using the "me-too" bidding     system in the same
+                             manner reported   on in February 1990.   According    to the GAO, the
+                             DOD has not (1) changed the domestic household goods rate bidding
+
+
+
+
+                                Page 53                                   GAO/NSIAD-9261 DOD Canmercid        Transportation
+                            Appendix I
+                            Comments From the Department of Defense
+
+
+
+
+                     system,     (2) made any tests of a revised              system, or (3) offered
+                     industry     representatives  any proposals            for comment.
+
+                     The GAO referred          to the June 20, 1990 response,               in which the DOD
+                     had concurred         in all the findings        and recommendations--and
+                     indicating       that    (1) the Military       Traffic      Management Command would
+                     be tasked to revise the bidding                system and (2) the time frame for
+                     replacing      the current       system would be at least 12 to 18 months.
+                     The GAO found that,           in October 1990, the Military               Traffic
+                     Management Command offered             the Assistant         Secretary     of Defense
+                      (Production       and Logistics)       an implementation         plan, indicating
+                     that it would be at least March 1991 before any revision                            would be
+                     released     to industry        representatives        for coordination         and comment
+                     and no final        plan would be included           in a solicitation          before
+                     October 1991.           The GAO asserted       however, that as of July 1991, no
+                     proposed revision           had been released       to industry        representatives.
+                     The GAO pointed          out that,    even if such a proposal             were submitted
+                     today (and no opposition             were offered),        it would probably be
+                     October     1992 before any change in solicitation                   is implemented.
+Now on pp. 3-4, 29    (pp. 3-7, pp. 39-4O/GAO Draft Report)
+
+                     WD RESPONSE:         Partially      concur.    As indicated    in the response
+                     to Finding      M, the Military       Traffic   Management Command is unable
+                     to accelerate      changes to its household goods solicitation
+                     process.      The original       plan called    for implementing     program
+                     changes with the spring 1992 bid cycle.                  However, manpower
+                     constraints      associated      with Operation      DESERT STORM and the
+                     emergency evacuation           of household goods shipments from the
+                     Philippines      in the wake of volcanic          eruptions   have delayed
+                     changes to the bidding           process until     the next bidding     cycle
+                      (fall   1992).
+
+
+
+                                                            *****
+
+
+
+
+                           Page 64                                    GAO/NStAD92-61     DOD Commercial Transportation
+                                 Appendix I
+                                 Comments From the Department of Defense
+
+
+
+
+                                                           RECCBWND2kTIONS
+
+                      l       R&occwENDATIoN   1: The GAO recommended that the Secretary       of
+                              Defense direct   the Military   Traffic Management Command and other
+                              units performing    prepayment audits to test the effectiveness     of
+                              their  preaudits   by comparing the results  with bills   audited after
+Now on pp 4, 17.              payment.    (pp. 7-8, p. 24/GAO Draft Report)
+
+                              DOD RESE’ONSE: Concur.        In the second quarter    of FY 1992, the
+                              General Services Administration       will be formally    requested to
+                              provide    results   of post prepayment audits.     The General Services
+                              Administration     results   will be compared with DOD prepayment
+                              audits to assess the effectiveness        of the DOD audit programs.
+
+                      .       REC~ATION           2:     The GAO recommended that the Secretary           of
+                              Defense direct      the Military         Traffic    Management Command and other
+                              units performing       prepayment audits to develop a system for
+                              ensuring     the timely     notification         of local installation
+                              transportation      officials       when the auditing       activities detect
+Now on pp. 4,17.              overcharges.       (pp. 7-8, p. 24/GAO Draft Report)
+
+                              DOD RESPONSE: Concur.         In FY 1992, the Military     Traffic
+                              Management Command and other units performing          prepayment audits
+                              will    implement a system for ensuring the timely        notification  of
+                              local installation     transportation   officials   when the auditing
+                              activities     detect overcharges.
+
+                          l   RECUWENDATION 3:      The GAO recommended that the Secretary         of
+                              Defense direct   the Military    Sealift Command to develop and
+                              provide   to all prospective   bidders detailed    information    on what
+                              it has shipped in the past in terms of (I) specific           commodities,
+                               (2) number of containers,    and (3) traffic   patterns--as     well as
+                              its best estimate    of what it will be shipping      in the future.
+Now   on pp, 4, 25.            (pp. 7-8, p. 34/ GAO Draft Report)
+
+                              DOD RESPONSE:        Partially      concur.   The Military       Sealift  Command,
+                              in conjunction       with the Military      Traffic     Management Command, will
+                              make specific      historical      data readily     available     to all carriers.
+                              The Department       is not convinced that all carriers              will want
+                              additional     information       nor will additional       information    in and of
+                              itself,    ensure reasonable         rates.   Carriers     will be advised that
+                              detailed    information        is available   and will be provided        at their
+                              request.
+
+
+
+
+                                 Page 66                                GAO/NSIAD-9281
+                                                                                    DOD Commercial Transportation
+                                  Appendix I
+                                  Comments From the Department of Defense
+
+
+
+
+                     -
+
+                         .   -TIDN            4:  The GAO recommended that the Secretary    of
+                             Defense direct   the Military  Sealift Command to change its
+                             solicitations  to request rates for the same pattern    of service
+Now on pp. 4,25.             for which the DOD actually    procures the service.   (PP. 7-8, p.
+                             34/GAO Draft Report)
+
+                             DOD RESPONSE: Partially              concur.     The DOD agrees generally           with
+                             the GAO recommendation            in connection      with through cargo movements
+                             of significant         cargo volume.        The Department asserts,          however,
+                             that to solicit         single    factor    rates for more than the highest
+                             volume routes would severely              complicate     rather     than simplify      the
+                             solicitation        process.      Many of the inland        linehaul     rates are used
+                             in connection        with more than one ocean route, both domestically
+                             and overseas.          Consequently,      linehaul    rates take on a generic
+                             quality       and may be used to create many different                 shipping
+                             combinations        within    the cargo movements of a given carrier.
+                             Nevertheless,        the Military       Sealift    Command, in conjunction          with
+                             the Military        Traffic     Management Command, will          investigate     the
+                             feasibility        of soliciting      in its next request for proposals
+                             single      factor   rates for the highest volume, point-to-point                   rates.
+
+                         l   REWTION           5:   The GAO recommended that the Secretary             of
+                             Defense direct    the Military     Traffic    Management    Command to
+                             accelerate   its efforts    to implement the 1990 recommendation to
+                             replace or modify the current         two-step    bidding    system so that all
+                             carriers   have incentive     to initially     bid the lowest possible
+Now   on pp, 4,29.           rates and the lowest bidder is appropriately              rewarded.    (pp.  7-8,
+                             p. 4O/GAO Draft Report).
+
+                             DOD RESPONSE: Partially           concur.     The DOD agrees with the
+                             recommendation      to replace or modify the current              two-step bidding
+                             system that was identified           in the GAO February 1990 report
+                             "HOUSEHOLDGOODS: Competition              Among Movers Serving DOD Can Be
+                             Improved (OSD Case 8270)."             The Military     Traffic    Management
+                             Command had developed an implementation                plan to comply with the
+                             report    recommendation,     citing     a 12-18 month implementation
+                             process.      Accordingly,    the earliest       the changes could have been
+                             implemented would have been during the solicitation                    cycles for
+                             the fall     of 1991 or spring of 1992.            Due to delays      caused by
+                             manpower constraints       associated      with Operation       DESERT STORM and
+                             the emergency evacuation          of household goods shipments out of the
+                             Philippines     in the wake of volcanic          eruptions,     the Military
+                             Traffic     Management Command will        implement the remaining key
+                             milestones     as follows:
+
+
+
+
+                                 Page 56                                   GAO/NSlAD-9261 DOD Commercial Transportation
+        Appendix I
+        Comments From the Department of Defense
+
+
+
+
+             DATE                                  i!?BiE
+Present     to January    15, 1992      Change/Revise        Concept
+                                        (Phase II)
+
+February      1, 1992 - April     1,    Finalize      Concept       (Phase 111)
+1992
+
+April     15, 1992                      Release      Solicitation      to   Industry
+
+November 1, 1992                        Implementation
+
+
+
+Since     the rates are solicited    only twice a year, the earliest
+cycle     for implementing   the recommendation is now November 1,
+1992,     and therefore,   cannot be accelerated.
+
+
+
+
+        Page 67                               GAO/NSIAD-92-61 DOD Commercial Transportation
+               Appendix I
+               Comments From the Department of Defense
+
+
+
+
+               The following are GAO’S comments on DOD’S letter dated November 1,
+               1991.
+
+
+               1. We did not mean to imply that MSC relied exclusively on a comparison
+GAO Comments   of rates offered with commercial rates. Comparison of rates offered
+               with commercial rates was only one of the criteria listed, as the report
+               notes,
+
+               2. Our present findings centered not on the entire 25-year period since
+               MSC began negotiating rates competitively (1966), but only on the period
+               of time since September 1989 when MSC first began rejecting hundreds of
+               carrier rates. Thus, we do not believe that the Harbridge House study or
+               the testimony we prepared for the House Merchant Marine Committee
+               prior to September 1989 are germane to our findings about MSC’S rejec-
+               tion of rates beginning in September 1989.
+
+               3. A number of carriers have filed protests with the Comptroller General
+               concerning MSC’S rejection of rates These included (1) Topgallant Lines,
+               Inc,, and American President Lines, Ltd., following MSC’S rejection of
+               rates in September 1989; (2) Lykes Bros. Steamship Co., Inc., and Amer-
+               ican President Lines (supported by Sea-Land Service, Inc.), following
+               MSC’S rejection of rates in March 1990; and (3) American President Lines,
+               both before and after MSC rejected rates in early 1991. Not all these pro-
+               tests were carried through to a decision, as the carriers withdrew the
+               protests when MSC subsequently decided not to reject some of the offers.
+               All in all, the protests involved hundreds of rates. In Lykes Bros. Steam-
+               ship Co., Inc., B-236834,4, July 23, 1990, the carrier submitted approxi-
+               mately 3,400 rates and MSC rejected more than 900 of them. The
+               Comptroller General found that many of the rejections were insupport-
+               able. In American President Lines, Ltd,, B-236834.3, July 20, 1990, MSC
+               likewise rejected numerous carrier rates, and the Comptroller General
+               found that all but six were improperly rejected.
+
+               4. We are not proposing that MSC establish thousands of commodity
+               rates. We believe that MSC needs to know how its commodities translate
+               to commercial commodity rate descriptions so that MSC can have the
+               information it needs to compare the more generically described military
+               rates with the more specifically described commercial rates. We also
+               believe that more specific information about what DOD is intending to
+               ship, using past shipments as a basis for forecasting future shipments, is
+               vital to helping carriers formulate informed offers and that the same
+               information is vital to helping MSC evaluate the comparability of offers
+
+
+               Page 58                              GAO/NSIAD-92-61 DOD Commercial Transportation
+Appendix I
+Comments From the Department of Defense
+
+
+
+
+with commercial rates. MSC, therefore, should give such information to
+the prospective offerors prior to the bidding and not place the burden
+for obtaining it on them.
+
+5. In our report, we said that MSC used commercial rates to attempt to
+determine whether carriers’ offers were fair and reasonable. We said
+that MSC may select a commercial rate applicable to a specific commodity
+and compare it with the carrier’s offered “cargo, not otherwise speci-
+fied” military rate, We did not, however, say that MSC used a single rate
+comparison for rejecting a rate.
+
+W ith respect to DOD'S explanation of its use of an independent govern-
+ment rate estimate, we assume that DOD was referring to its use of a
+“market basket” of DOD commodity descriptions. For example, MSC used
+23 descriptions, including items such as combat rations, bakery goods,
+beer, and nonalcoholic beverages, to represent its “cargo, not otherwise
+specified” traffic and 13 descriptions to represent its refrigerated cargo.
+While we agree that a market basket could be used to compare offers
+with commercial rates, MSC did not establish that DOD was shipping the
+market basket commodities on each route for which it made the
+comparisons.
+
+We did not say that “cargo, not otherwise specified” rates more clearly
+reflected a direct comparison with DOD rates. We said that if MSC did not
+know the commodities, volumes, or actual routes on which it was ship-
+ping, it had no other rate to compare the offers with.
+
+For MSC to say it does not use commercial rate comparisons that are
+predicated on volume minimums or service contract filings is a misstate-
+ment of fact. The record of rate rejections clearly shows, for example,
+that service contracts were used to compare military rates with commer-
+cial rates.
+
+Finally, while we recognize that historica shipping data is available for
+the carriers should they ask for it, we believe that it would make much
+more sense for MSC to provide it to the carriers with the request for pro-
+posals without the carriers having to ask for it. The primary benefits of
+this practice are that it wouId allow them to make informed offers by
+seeing the actual forecast of specific shipments DOD is planning and
+would provide MSC with information that it could use in comparing the
+offers with commercial rates.
+
+
+
+
+Page 59                               GAO/NSIAD-92-61 DOD Commercial Transportation
+Appendix I
+Comments From the Department of Defense
+
+
+
+
+6. As we stated previously, we believe that it would make more sense
+for MSC to provide such information to the carriers with the request for
+proposals without the carriers having to ask for it.
+
+7. We did not say that MsC should solicit single factor rates for every
+possible combination of origins and destinations. We believe that solic-
+iting single factor rates for the highest-volume routes is a step in the
+right direction and when this hopefully proves to be advantageous to
+WD, such solicitations will be expanded to other relatively high volume
+routes next and so on down the line.
+
+
+
+
+Page 60                              GAO/NSWD-9241 DOD Commercial Transportation
+Appendix II
+
+Major Contributors to This Report
+
+
+National Security and   Edward M. Balderson, Assistant Director
+International Affairs   J. Kenneth Brubaker, Evaluator-in-Charge
+Division, Washington,
+DC.
+
+
+
+
+(393394)                Page 61                         GAO/NSL4BS2-61 DOD Commercial Transportation
+m f@k tipy of each GACI report ia free, Additional copies are $2
+eaqh:t$rders ~skmld be sent to the Whviug       address, accompanied
+by a chreclc or poney order made out tu the Superintendent of Docu-
+ments, when necessary. orders for 100 or more copies to be mailed
+to a single, address ure discounted 26 percent.
+
+U.S. Geueml Accounting Office
+P.‘.o. B&x 6015
+Gaithersbwg, MD 20877
+
+Ordek may’uiso be phwed by calIinjj (2’02) 2756241.
+United Stat&
+General Acetim
+Washington, I$.
+---   I   I’-   .
+

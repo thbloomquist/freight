@@ -1,0 +1,1159 @@
+                                PUBLISHED
+
+                    UNITED STATES COURT OF APPEALS
+                        FOR THE FOURTH CIRCUIT
+
+
+                               No. 12-2269
+
+
+GAINES   MOTOR  LINES,   INC.;   B.A.H.   EXPRESS,  INC.;
+FREIGHTMASTER, INC.; DAVID PHILLIPS TRUCKING CO.; H.G.
+SMITH COMPANY, INC.; TRIANGLE TRANSPORT AND DISTRIBUTION
+SERVICES, LLC; GRAHAM TRUCKING ENTERPRISES, INC.; BIG BEN
+TRUCKING, LLC,
+
+                 Plaintiffs - Appellants,
+
+           and
+
+SOUTHLAND TRANSPORTATION COMPANY,
+
+                 Plaintiff,
+
+           v.
+
+KLAUSSNER FURNITURE INDUSTRIES, INC.,
+
+                 Defendant – Appellee,
+
+           and
+
+SALEM   LOGISTICS   TRAFFIC    SERVICES,    LLC;   SALEM    LOGISTICS,
+INC.,
+
+                 Defendants.
+
+
+
+Appeal from the United States District Court for the Middle
+District of North Carolina, at Greensboro. James A. Beaty, Jr.,
+District Judge. (1:09-cv-00302-JAB-JEP)
+
+
+Argued:   September 18, 2013                 Decided:      October 30, 2013
+
+
+Before SHEDD, DUNCAN, and KEENAN, Circuit Judges.
+Vacated and remanded with instructions by published opinion.
+Judge Duncan wrote the opinion, in which Judge Shedd and Judge
+Keenan joined.
+
+
+ARGUED: Robert D. Moseley, Jr., SMITH MOORE LEATHERWOOD LLP,
+Greenville, South Carolina, for Appellants.   James Aaron Dean,
+WOMBLE CARLYLE SANDRIDGE & RICE, PLLC, Winston-Salem, North
+Carolina, for Appellee.    ON BRIEF: C. Fredric Marcinak III,
+SMITH MOORE LEATHERWOOD LLP, Greenville, South Carolina, Jon
+Berkelhammer, SMITH MOORE LEATHERWOOD LLP, Greensboro, North
+Carolina, for Appellants.    Michael Montecalvo, WOMBLE CARLYLE
+SANDRIDGE & RICE, PLLC, Winston-Salem, North Carolina, for
+Appellee.
+
+
+
+
+                               2
+DUNCAN, Circuit Judge:
+
+      In this appeal, we address a question of first impression
+
+in   this   circuit:   whether,    absent        a    federal   tariff,    federal
+
+courts have subject matter jurisdiction over a motor carrier’s
+
+breach of contract claim against a shipper for unpaid freight
+
+charges.     For the reasons that follow, we find that the district
+
+court lacked jurisdiction to adjudicate this dispute, and we
+
+lack jurisdiction over this appeal.              Accordingly, we vacate the
+
+district     court’s   opinion     and       remand     with    instructions   to
+
+dismiss.
+
+
+                                       I.
+
+                                       A.
+
+      Appellants     are   federally     licensed      motor    carriers   (“Motor
+
+Carriers”)     who     transport       goods      in    interstate     commerce.
+
+Appellee, Klaussner Furniture Industries, Inc. ("Klaussner"), is
+
+a furniture company headquartered in Asheboro, North Carolina.
+
+The parties, with the exception of Appellant Graham Trucking
+
+Enterprises, Inc., are incorporated under North Carolina law.
+
+      Prior to the summer of 2007, Klaussner contracted directly
+
+with the Motor Carriers to deliver its furniture to corporate
+
+customers, including furniture retailers and renters, both in
+
+and outside of North Carolina.               The Motor Carriers would submit
+
+
+
+
+                                         3
+quoted rates directly to Klaussner who would then pick amongst
+
+the bids for each shipment.
+
+     Then, in August 2007, Klaussner contracted with a third-
+
+party broker, Salem Logistics Traffic Services, LLC (“Salem”),
+
+to coordinate all shipping logistics.                Salem charged Klaussner a
+
+uniform rate that was generally higher than the Motor Carriers’
+
+individual bids.         In return, Salem promised to reduce costs and
+
+improve    customer      service     by     coordinating     stops    to     multiple
+
+Klaussner    customers      for    each     scheduled     shipment.        Salem    was
+
+expected    to    deduct    its    commission,      and    then     pay    the    motor
+
+carriers.
+
+     Doyle Vaughn, a Klaussner employee, personally notified the
+
+Motor    Carriers    that    they    would      begin   working      directly      with
+
+Salem.     Shortly thereafter, Salem hired Vaughn, who continued to
+
+work from the same desk at Klaussner.                Vaughn notified the Motor
+
+Carriers of his change in employment.
+
+     The Motor Carriers also received a series of documents,
+
+several    of    which     bore   both      Klaussner’s     and    Salem’s       logos,
+
+explaining       Salem’s    new     role.        Salem’s    Vice     President       of
+
+Logistics, Ralph Raymond, sent a letter explaining that Salem
+
+would manage all “freight payment responsibilities.”                       J.A. 454.
+
+The Motor Carriers were sent a Fuel Surcharge Addendum, a Mutual
+
+Non-Disclosure       Agreement,       and       instructions      from     Salem     on
+
+submitting       quotes.      Finally,       Klaussner’s     Vice     President      of
+
+                                            4
+Supply Chain, Chuck Miller, sent instructions to submit freight
+
+bills     “designated        as    third     party          payment”       to    “Klaussner
+
+Furniture     c/o    Salem    Logistics       Inc.”      and     then      listed    Salem’s
+
+address.     J.A. 461.
+
+      Each    furniture        delivery       the       Motor     Carriers         undertook
+
+required     three    documents:      a    Confirmation          of    Contract      Carrier
+
+Verbal     Rate     Agreement      (“Agreement”);            a   Carrier        Pickup    and
+
+Delivery     Schedule    (“Schedule”);            and   a    bill     of    lading.       The
+
+Agreement memorialized the rate agreed upon by Salem and the
+
+chosen motor carrier, and included the total freight charge for
+
+the load.      A freight charge includes the agreed upon rate and
+
+standardized fees, such as a fuel charge.                             The Agreement was
+
+signed by the motor carrier and does not mention Klaussner.                               The
+
+Schedule listed the pick-up location as “Klaussner Furniture”
+
+and the destination address.                 Salem’s address is listed under
+
+the “Bill-To & Contact Information” section.
+
+        The bills of lading executed by Klaussner and the Motor
+
+Carriers contained standardized provisions generally used in the
+
+trucking industry.           Each bill of lading listed a motor carrier,
+
+a consignor, and a consignee.                The party shipping the goods is
+
+the   consignor.        The       party     who    recieves         the    goods     is   the
+
+consignee.        Here, Klaussner was the consignor, and Klaussner’s
+
+customer was the consignee.                The bills of lading contained the
+
+statement:        “freight        charges        are     prepaid           unless     marked
+
+                                             5
+otherwise,” and three options: “Prepaid,” “Collect,” and “3rd
+
+Party.” 1    Most    of   the   relevant   bills     of    lading   were   marked
+
+“Prepaid.”
+
+     The    bills    of   lading   contained    an      executed    non-recourse
+
+provision that stated:
+
+     SUBJECT TO SECTION 7 OF CONDITIONS, IF THIS SHIPMENT
+     IS TO BE DELIVERED TO THE CONSIGNEE WITHOUT RECOURSE
+     ON THE CONSIGNOR, THE CONSIGNOR SHALL SIGN THE
+     FOLLOWING STATEMENT:
+     THE CARRIER SHALL NOT MAKE DELIVERY OF THIS SHIPMENT
+     WITHOUT PAYMENT OF FREIGHT AND ALL OTHER LAWFUL
+     CHARGES.
+     Klaussner Furniture Industries, Inc.  BY: CAM SMITH 2
+
+J.A. 477-79.        This non-recourse language was repeated, but not
+
+executed, in small print at the bottom of the bills of lading.
+
+     After    initially     making   payments      to     the   Motor   Carriers,
+
+Salem defaulted on its obligations and ultimately went out of
+
+business.    The Motor Carriers filed this action in the Middle
+
+District of North Carolina under 49 U.S.C. § 13706(b) of the
+
+Interstate Commerce Commission Termination Act against Klaussner
+
+
+
+     1
+       The parties dispute the meaning of “Prepaid” but agree
+that, at minimum, it protects the consignee from liability for
+freight charges.   “Collect” generally means the consignee is
+liable for the charges.   “3rd Party” may be used to indicate
+that a third party, such as a broker, is responsible for the
+charges.
+     2
+       A non-recourse provision generally protects the shipper
+from liability for freight charges once the goods are delivered
+to the consignee.   See Illinois Steel Co. v. Baltimore & O. R.
+Co., 320 U.S. 508, 514 (1944).
+
+
+                                      6
+and    Salem 3     on       April    22,       2009        to   recover         the    $562,326.30         in
+
+freight charges Salem had failed to pay.                                        In the alternative,
+
+the Motor Carriers sought to recover based on theories of unjust
+
+enrichment and equitable estoppel.                               After discovery, the Motor
+
+Carriers and Klaussner filed cross-motions for summary judgment.
+
+                                                      B.
+
+       At the summary judgment hearing, the Motor Carriers first
+
+argued      that,       as    a    matter       of    law,      when        a   bill        of   lading    is
+
+designated        “Prepaid,”             the    shipper         is        always      liable       for    the
+
+freight       charges,            even     when       there          is     also       a     non-recourse
+
+provision         or    a     third-party            broker      is        involved. 4           Klaussner
+
+countered that a “Prepaid” designation on a bill of lading means
+
+only       that   the       consignee          will    not      be    liable          for    the   freight
+
+charges.           Klaussner             argued        that      a        non-recourse           provision
+
+protects a shipper from liability for any charges above what it
+
+agreed to pay.               In this case, Klaussner claimed it fulfilled its
+
+contractual obligations by paying Salem.
+
+
+
+
+       3
+       By the summary judgment stage of the litigation, Salem had
+withdrawn. Salem is not a party to this appeal.
+       4
+       The Motor Carriers also claimed the non-recourse provision
+was unenforceable because the non-recourse language in the
+footnote rendered it ambiguous.    The district court found that
+because the language in the footnote was not executed, it was
+irrelevant to its analysis.
+
+
+                                                       7
+      The district court granted Klaussner’s motion for summary
+
+judgment on this issue, finding that the non-recourse provision
+
+protected Klaussner from double payment as a matter of law.                               The
+
+district court agreed with Klaussner that under Illinois Steel
+
+Co. v. Baltimore & O.R. Co., 320 U.S. 508 (1944), a non-recourse
+
+provision      continues       to    protect         shippers     from       any    liability
+
+beyond its contractual obligations even when a bill of lading is
+
+also designated “Prepaid.”             The district court acknowledged that
+
+the designation of “Prepaid” instead of “3rd party” on the bills
+
+of lading introduced some doubt as to whether the Motor Carriers
+
+should      have   expected      a    third-party          broker       to    pay    shipping
+
+charges.      However, the court found that, given Vaughn’s verbal
+
+explanation        of    Salem’s      role          and   the     multiple          confirming
+
+documents, the Motor Carriers were on notice to expect payment
+
+from Salem.
+
+      The    Motor      Carriers     also       sought     to   establish          Klaussner’s
+
+liability      under     actual      and    apparent          agency     theories.         The
+
+district court held, however, that the Motor Carriers’ agency
+
+arguments     failed      to   create       a       triable     issue    of    fact.       The
+
+district court found that the only fact on the record to support
+
+the   Motor    Carriers’       actual       agency        argument      was    that    Vaughn
+
+continued to work from the same desk at Klaussner after Salem
+
+hired him.         Standing alone, this continuity failed to indicate
+
+Klaussner “retained the right to control [Salem].”                                  Hylton v.
+
+                                                8
+Koontz,    532     S.E.2d    252,   257     (N.C.      2000)   (internal     citations
+
+omitted).        The    district    court       held   that    the   Motor   Carriers’
+
+apparent agency argument failed because the documents with the
+
+dual logos, upon which the Motor Carriers’ argument relied, were
+
+insufficient to suggest that Klaussner led the Motor Carriers to
+
+reasonably believe Salem was its agent.                  This appeal followed.
+
+
+                                          II.
+
+                                          A.
+
+     In     a     somewhat    unusual       twist,      it     was   Klaussner,   the
+
+prevailing party below, that argued for the first time on appeal
+
+that the district court lacked jurisdiction over this dispute.
+
+The timing, of course, does not affect our obligation to assure
+
+ourselves of our jurisdiction.
+
+     A challenge to a federal court’s jurisdiction “‘can never
+
+be forfeited or waived’” because it concerns our “very power to
+
+hear a case.”          United States v. Beasley, 495 F.3d 142, 147 (4th
+
+Cir. 2007) (quoting United States v. Cotton, 535 U.S. 625, 630
+
+(2002)).        In fact, we have “an independent obligation to assess
+
+[our] subject-matter jurisdiction” in every case, whether or not
+
+it is challenged.           Constantine v. Rectors & Visitors of George
+
+Mason Univ., 411 F.3d 474, 480 (4th Cir. 2005).
+
+     The party “seeking to adjudicate a matter in federal court
+
+must allege and, when challenged, must demonstrate the federal
+
+
+                                            9
+court’s jurisdiction over the matter.”               Strawn v. AT&T Mobility
+
+LLC, 530 F.3d 293, 296 (4th Cir. 2008).                   The Motor Carriers
+
+first argue that Congress granted federal courts jurisdiction
+
+over     their   claim     under    the     Interstate   Commerce     Commission
+
+Termination Act (“ICCTA”).           Alternatively, they contend that the
+
+ICCTA preempts their state law breach of contract claim.                      The
+
+Motor Carriers argue, therefore, that we should create a cause
+
+of action under federal common law or they will have no forum in
+
+which to adjudicate this dispute.
+
+                                      B.
+
+       Issues of subject matter jurisdiction are questions of law
+
+which we review de novo.            Dixon v. Coburg Dairy, Inc., 369 F.3d
+
+811,   815   (4th   Cir.    2004)    (en    banc).   Were   we   to   reach   the
+
+merits, we would review de novo the district court’s grant of
+
+summary judgment, viewing the facts in the light most favorable
+
+to the non-moving party.            See LeBlanc v. Cahill, 153 F.3d 134,
+
+148 (4th Cir. 1998).         Summary judgment is appropriate only where
+
+“there is no genuine issue of material fact and the moving party
+
+is entitled to a judgment as a matter of law.”               Fed. R. Civ. P.
+
+56(a).
+
+
+                                      III.
+
+       Our jurisdiction in this case depends upon whether, absent
+
+a federal tariff, Congress intended federal courts to adjudicate
+
+
+                                           10
+motor    carriers’      claims   for   unpaid      freight    charges      under       the
+
+ICCTA.        “Within   constitutional       bounds,    Congress       decides     what
+
+cases the federal courts have jurisdiction to consider.”                         Bowles
+
+v. Russell, 551 U.S. 205, 212 (2007).                   As a court of limited
+
+jurisdiction, we will guard against reading Congress’s grant of
+
+authority to the federal courts more broadly than intended.                            See
+
+Kokkonen v. Guardian Life. Ins. Co. of Am., 511 U.S. 375, 377
+
+(1994).
+
+     The issues before us have their genesis in the deregulation
+
+of the trucking industry Congress effected by passing the ICCTA.
+
+Therefore, a brief history of the scope of federal regulation of
+
+the trucking industry is useful at the outset.
+
+
+                                       A.
+
+     In       1935,   Congress     passed   the    Motor     Carrier      Act,    which
+
+extended to motor carriers the tariff system that banned price
+
+competition between railroads under the Interstate Commerce Act
+
+(“ICA”).        See    Munitions    Carriers      Conference,      Inc.    v.    United
+
+States, 137 F.3d 1027, 1028 (D.C. Cir. 1998).                       Motor carriers
+
+were required to file a tariff that included their prices and
+
+conditions      with    the   Interstate     Commerce      Commission.           See    49
+
+U.S.C.    §    10762(a)(1)    (repealed      1995).        Motor   carriers       could
+
+charge each shipper only the rate in the filed tariff and could
+
+
+
+
+                                        11
+not give any shipper “preferential treatment.”                    See 49 U.S.C. §§
+
+10761(a), 10735(a)(1) (repealed 1995).
+
+       In Thurston Motor Lines, Inc. v. Jordan K. Rand, Ltd., 460
+
+U.S.    533    (1983),    the   Supreme     Court     affirmed       Louisville    &
+
+Nashville R. v. Rice, 247 U.S. 201 (1918) where it “squarely
+
+held that federal-question jurisdiction existed over a suit to
+
+recover [unpaid freight charges].”              Thurston, 460 U.S. at 555
+
+(“A carrier's claim is, of necessity, predicated on the tariff-
+
+not    an   understanding   with    the     shipper.”);      see    also    Illinois
+
+Steel v. Baltimore & O. R. Co., 320 U.S. 508, 511 (1944).                         In
+
+these cases, the parties’ “‘dut[ies] and obligation[s] . . .
+
+depend[ed] upon’” the federally filed tariff.                       Thurston, 460
+
+U.S. at 555 (quoting Louisville, 247 U.S. at 202).                         Thus, the
+
+tariff was the “Act of Congress regulating commerce” under which
+
+we had federal question jurisdiction pursuant to 28 U.S.C. §
+
+1337(a).
+
+       After   motor     carriers    operated       under    the     tariff-filing
+
+regime for sixty years, Congress determined that the trucking
+
+industry had become a “mature, highly competitive industry where
+
+competition disciplines rates far better than tariff filing and
+
+regulatory intervention.”           S. Rep. No. 104-176, at 10 (1995).
+
+Thus, Congress passed the ICCTA because pervasive regulation of
+
+the industry had “outlived its usefulness.”                 Id.
+
+
+
+                                       12
+        When the ICCTA went into effect on January 1, 1996, it
+
+repealed price controls for all but two specialized areas of the
+
+trucking industry. Motor carriers transporting household goods
+
+or engaged in noncontiguous domestic trade 5 remained subject to
+
+the tariff-filing requirement.                      See 49 U.S.C. § 13701(a)(1)(A)-
+
+(B).        In    these      two    areas,       Congress         determined        that     price
+
+regulation        was   still      in    the    public       interest.          Consumers      and
+
+small      shippers         contracting        to         ship   household       goods       would
+
+continue to be shielded from potential abuses.                              See S. Rep. No.
+
+104-176,         at   11.         The    tariff       requirement         in    the    area     of
+
+noncontiguous           domestic         trade        would       facilitate          intermodal
+
+transport.            Id.    at    10.         All    other       tariffs      on     file    were
+
+automatically voided by the ICCTA.                        See 49 U.S.C. § 13710(a)(4).
+
+       Congress did not, however, abandon all federal regulation
+
+of   the     motor      carriers        that    were        freed    to   engage       in    price
+
+competition.                The     Surface          Transportation            Board       (“STB”)
+
+maintained jurisdiction over all motor carriers who transport
+
+goods in interstate commerce and between the United States and
+
+its territories or a foreign country.                            49 U.S.C. § 13501(1)(A)-
+
+(E).       All motor carriers subject to the STB’s jurisdiction must
+
+satisfy licensing            requirements            by    meeting    safety,       employment,
+
+       5
+         Noncontiguous    domestic   trade   is   transportation
+“originating in or destined to Alaska, Hawaii, or a territory or
+possession of the United States.” 49 U.S.C. § 13102(17).
+
+
+                                                13
+and accessibility standards.             49 U.S.C. § 13902(a).            Congress’s
+
+goal in passing the ICCTA was to “strike a good balance” between
+
+deregulation and “preserving very important safety and economic
+
+regulatory powers . . . to protect shippers against abuses that
+
+will not be remedied by competition.”                      141 Cong. Rec. 32406
+
+(1995); see also S. Rep. No. 104-176, at 9 (1995)
+
+       Against this framework, we must determine whether Congress
+
+intended    to    grant   federal    courts      jurisdiction      over    federally
+
+licensed motor carriers’ claims for unpaid freight charges when
+
+they were not required to file a tariff.                     We turn now to the
+
+question of whether the ICCTA provides such authority.
+
+
+                                      B.
+
+       We   begin    by      examining     49     U.S.C.    §     14101(b),     which
+
+authorizes       federally    licensed     motor     carriers      to   enter    into
+
+private contracts with shippers.                The Motor Carriers argue that
+
+this    authorization        alone   is        sufficient    to    establish     our
+
+jurisdiction over their claim.
+
+        As in any case of statutory interpretation, we begin with
+
+an analysis of the statutory language.               Chris v. Tenet, 221 F.3d
+
+648, 651-52 (4th Cir. 2000) (citing Landreth Timber Co. v.
+
+Landreth, 471 U.S. 681, 685 (1985)).               The meaning of a statutory
+
+provision is not to be determined in isolation; “we look not
+
+only to the particular statutory language, but to the statute as
+
+
+                                          14
+a whole and to its object and policy.”               Crandon v. United
+
+States, 494 U.S. 152, 158 (1990) (internal citations omitted).
+
+                                    1.
+
+     Section 14101(b)(1) provides:
+
+     In general.—A carrier providing transportation or
+     service subject to jurisdiction under chapter 135 may
+     enter into a contract with a shipper, other than for
+     the movement of household goods described in section
+     13102(10)(A), to provide specified services under
+     specified rates and conditions . . . .
+
+49 U.S.C. § 14101(b)(1).
+
+     This   section   of    the   ICCTA       authorizes    motor    carriers   to
+
+privately   negotiate   their     rates       with   shippers,    replacing     the
+
+prior   tariff-filing       requirement.             In   fact,     this   section
+
+authorizes one of the two categories of motor carriers still
+
+subject to the tariff-filing requirement, carriers involved in
+
+noncontiguous    domestic    trade,      to    contract    around    the   federal
+
+rate schedule.     See 49 U.S.C. § 13702(b).               Section 14101(b)(1)
+
+only excludes motor carriers transporting household goods.
+
+     If a party to a contract authorized by § 14101(b)(1) wants
+
+to sue for breach of contract, § 14101(b)(2) provides:
+
+     The exclusive remedy for any alleged breach of a
+     contract entered into under this subsection shall be
+     an action in an appropriate State court or United
+     States district court, unless the parties otherwise
+     agree.
+
+49 U.S.C. § 14101(b)(2).
+
+
+
+
+                                      15
+       The mere fact that Congress authorized motor carriers to
+
+privately negotiate rates in § 14101(b)(1) does not imply that
+
+Congress intended § 14101(b)(2) to federalize every resulting
+
+breach of contract claim.                     Section 14101(b)(2) more accurately
+
+reflects         Congress’s      goal     of    reducing          federal     involvement        in
+
+motor carriers’ private contracts.                         The fact that the exclusive
+
+remedy      for    breach     of     contract        in    §   14101(b)(2)         is   judicial,
+
+rather than administrative, gains significance in contrast to
+
+the    remedies       available          to   motor       carriers        operating      under   a
+
+tariff.          When their rates are based on a federal tariff, motor
+
+carriers can petition the STB for administrative remedies.                                   See
+
+49    U.S.C.      §   13702(b)(6).             When       their     rates    are    based   on    a
+
+private contract, however, the motor carriers can only sue in an
+
+“appropriate” court.
+
+       Of    course,       for   a    federal        court     to    be     the    “appropriate”
+
+forum       to    adjudicate         a    dispute,         the      aggrieved       party   must
+
+establish a basis for our jurisdiction.                              See United States ex
+
+rel. Vuyyuru v. Jadhav, 555 F.3d 337, 347 (4th Cir. 2009); cf.
+
+Ruckelshaus v. Sierra Club, 463 U.S. 680, 683 (1983) (defining
+
+“appropriate”         as    “specially          suitable:           fit,     proper”).        For
+
+example, although not satisfied in this case, the requirements
+
+for    diversity       jurisdiction            are    likely        often    met     when   motor
+
+carriers contract with shippers to transport goods given the
+
+interstate nature of the trucking industry.                                  See 28 U.S.C. §
+
+                                                16
+1332. 6    The Motor Carriers have established that they are subject
+
+to   the    STB’s   jurisdiction   because    they   transport   goods   in
+
+interstate commerce.      As a result, their contract with Klaussner
+
+was authorized by § 14101(b)(1).             However, this authorization
+
+alone does not provide us with jurisdiction over their breach of
+
+contract claim.
+
+                                   2.
+
+      Comparing § 14706(d) to § 14101(b)(2) also helps to clarify
+
+the limited scope of the latter.         Section 14706(a)(1) 7 provides
+
+that motor carriers are liable for goods damaged in transit.
+
+Section 14706(d) authorizes parties seeking damages against a
+
+motor carrier to file suit in “a United States district court or
+
+in a State court.” 49 U.S.C. § 14706(d)(3).               In every case
+
+brought under § 14706(a)(1), federal jurisdiction is established
+
+because the claimant is enforcing a federal statutory right.
+
+      6
+        One of the threshold requirements to establish our
+jurisdiction under § 1332, complete diversity of citizenship
+between each plaintiff and each defendant, is not met in this
+case because Klaussner and all but one of the Motor Carriers are
+incorporated under North Carolina law. See Exxon Mobil Corp. v.
+Allapattah Services, Inc., 545 U.S. 546, 553 (2005); see also 28
+U.S.C. § 1332(c)(1)(B) (“[A] corporation shall be deemed to be a
+citizen of every State . . . by which it has been
+incorporated”).
+      7
+       The Motor Carriers argue that § 14706(a)(1) establishes
+our jurisdiction over this case.          However, this section
+addresses claims against motor carriers for damages.    It does
+not apply to our case, where motor carriers have filed suit
+against a shipper to recover freight charges.
+
+
+                                    17
+Thus,     the    limiting      word    “appropriate”          does       not   appear     in    §
+
+14706(d)(3).           Section 14101(b)(1), by contrast, authorizes motor
+
+carriers and shippers to enter into private contracts.                                 It does
+
+not   provide      either      the    motor     carrier    or       the    shipper      with    a
+
+federal     statutory        right    to   enforce       in     a       routine    breach      of
+
+contract        claim.         When   operating      under          a    private       contract
+
+authorized        by     §   14101(b)(2)        instead       of     a    federal      tariff,
+
+therefore, a party must first establish an alternative basis for
+
+our jurisdiction before we can adjudicate their dispute.                                       In
+
+this case, the Motor Carriers have failed to meet this threshold
+
+requirement.
+
+
+                                           C.
+
+      We now turn to the sections of the ICCTA that directly
+
+address     motor       carriers’     billing      and    collection           practices       to
+
+determine whether our jurisdiction can be established under one
+
+of these provisions.            See 49 U.S.C. § 13701 et seq.                     Contrary to
+
+the Motor Carriers’ arguments on appeal, these sections do not
+
+provide motor carriers with a federal cause of action when they
+
+sue   a    shipper       for    unpaid     freight       charges          under    a    private
+
+contract.       We discuss each briefly.
+
+                                              1.
+
+      The Motor Carriers first argue that 49 U.S.C. § 13710(a)(1)
+
+is the functional equivalent of the tariff-filing requirement,
+
+
+                                              18
+and therefore, provides a continuing basis for our jurisdiction.
+
+This section requires motor carriers to provide shippers with a
+
+written or electronic copy of “the rate, classification, rules,
+
+and practices, upon which any rate applicable to its shipment or
+
+agreed    to     between    [the    parties]          is    based.”          49    U.S.C.     §
+
+13710(a)(1).       When motor carriers’ rates are based on a private
+
+contracting      process,     it    is    unclear       how    this       provision       would
+
+apply.         Even   if    it     did,       this     section       is     a     disclosure
+
+requirement, and does not impose any obligations regarding the
+
+rates actually charged.            It is not, therefore, the equivalent of
+
+a   tariff     requirement,      and     does    not       provide    a    basis     for    our
+
+jurisdiction in this case.
+
+                                          2.
+
+        The Motor Carriers next argue that their claim arises under
+
+§ 13706, which defines consignee liability for the payment of
+
+freight rates.          49 U.S.C. § 13706(a)-(b).                While this section
+
+does    not    expressly    state      that     its    application         is     limited    to
+
+cases    where    a   federal      tariff       is    filed,    Chapter         137’s     other
+
+provisions       addressing      motor    carriers’          rates    only        apply    when
+
+there is a federal tariff.                See, e.g., 49 U.S.C. § 13702; 49
+
+U.S.C.    §    13704.       Further,       the       regulations          governing       motor
+
+carriers’ collection of rates issued pursuant to chapter 137 are
+
+expressly limited to cases where a federal tariff is filed.                                 See
+
+
+
+                                            19
+49 C.F.R. § 377.101; 49 C.F.R. § 377.203(a)(2). 8           Even if § 13706
+
+could apply in the absence of a federal tariff, this section
+
+does not apply to our facts.           In this case, the Motor Carriers
+
+seek to recover from a shipper, or consignor, not a consignee.
+
+In   sum,    absent   a   federal   tariff,   the   statutory   requirements
+
+regarding the rates and collection practices of motor carriers
+
+in Chapter 137 are not implicated when a motor carrier files
+
+suit against a shipper to recover freight charges.
+
+                                     3.
+
+      This    conclusion    also    negates   the   Motor   Carriers’   final
+
+argument for jurisdiction under the ICCTA.              The Motor Carriers
+
+argue that the eighteen-month statute of limitations period that
+
+governs motor carriers’ claims for unpaid freight charges under
+
+the ICCTA, 49 U.S.C. § 14705(a), establishes our jurisdiction
+
+over their claim.         The Motor Carriers’ argument puts the cart
+
+before the horse.         For § 14705(a) to apply, motor carriers must
+
+first establish that their claim arises under the ICCTA.                   A
+
+statute of limitations period is not an independent grant of
+
+
+      8
+       The Motor Carriers cite these regulations to support their
+argument for our jurisdiction in this case.          Given their
+inapplicability in the absence of a federal tariff, this
+argument is without merit.      We note briefly that the Motor
+Carriers also cite to the regulations issued pursuant to Chapter
+138 of the ICCTA.    These regulations apply only when a party
+files suit against a motor carrier, and therefore are not
+implicated by our facts. See 49 C.F.R. § 378.1.
+
+
+                                      20
+jurisdiction.       In this case, we have not found, and the Motor
+
+Carriers have not alleged, a cause of action arising under the
+
+ICCTA.   Accordingly, we do not have jurisdiction under the ICCTA
+
+to decide this case.
+
+
+
+                                       IV.
+
+       In the alternative, the Motor Carriers argue that their
+
+state law breach of contract claim is preempted by § 14501(c)(1)
+
+of the ICCTA.       The Motor Carriers urge us, therefore, to create
+
+a cause of action under federal common law to establish our
+
+jurisdiction    and    provide     a    forum    for     their   claim    against
+
+Klaussner.     In any preemption analysis, “the purpose of Congress
+
+is the ultimate touchstone.”           Wyeth v. Levin, 555 U.S. 555, 565
+
+(2009) (internal citations and quotations omitted).                      We begin
+
+with the words of the statute which “necessarily contain[] the
+
+best evidence of Congress’ pre-emptive intent.”                    CSX Transp.,
+
+Inc. v. Easterwood, 507 U.S. 658, 664 (1993).                    When a statute
+
+includes an express preemption clause, its presence generally
+
+“‘implies that matters beyond that reach are not pre-empted.’”
+
+Washington Gas Light Co. v. Prince George’s Cnty. Council, 711
+
+F.3d   412,   420   (4th   Cir.   2012)      (quoting   Cipollone   v.    Liggett
+
+Group Inc., 505 U.S. 504, 517 (1992)).                  Further, “[f]ederalism
+
+concerns strongly counsel against imputing to Congress an intent
+
+to displace a whole panoply of state law . . . absent some
+
+                                        21
+clearly expressed direction.”                 Custer v. Sweeney, 89 F.3d 1156,
+
+1167 (4th Cir. 1996) (internal quotation omitted).
+
+      Section 14501(c)(1) of the ICCTA preempts any state law or
+
+regulation “related to a price, route, or service of any motor
+
+carrier . . . ”.          49 U.S.C. § 14501(c)(1).              The Motor Carriers
+
+contend that the North Carolina common law that would decide
+
+this dispute in state court qualifies as “state law” under §
+
+14501(c).    The Motor Carriers argue, therefore, that the ICCTA
+
+preempts    their    claim       because      its   outcome    will    affect    their
+
+prices.     In other words, in their view, Congress intended the
+
+phrase    “related       to”    in   §   14101(c)(2)     to    displace   all    state
+
+contract law that would impact motor carriers’ prices.                          We are
+
+constrained to disagree.
+
+      Congress borrowed the preemption language in § 14501(c)(1)
+
+from the Airline Deregulation Act of 1978 (“ADA”).                        Compare 49
+
+U.S.C. § 41713(b)(1) with 49 U.S.C. § 14501(1).                        Prior to the
+
+ICCTA’s enactment, the Supreme Court broadly defined the phrase
+
+“related    to”     in    the    ADA     to    preempt   all    claims    having    “a
+
+connection with, or reference to” airline prices, routes, or
+
+services.    Morales v. Trans World Airlines Inc., 504 U.S. 374,
+
+384   (1992).        Congress        was      “fully   aware    of    [the]   Court’s
+
+interpretation of that language” in Morales when it opted to
+
+include identical language in the ICCTA, and intended to provide
+
+the same protections against state regulation to motor carriers
+
+                                              22
+as   were provided           to   airlines           in    the    ADA.        See      Rowe    v.    New
+
+Hampshire         Motor      Transport         Ass'n,       552       U.S.    364,      370     (2008)
+
+(citing and quoting legislative history).
+
+      The    broad        preemptive       scope          of    the     phrase      “related        to,”
+
+however, is not without limits.                           The Morales Court noted that
+
+“‘[s]ome      state        actions        may    affect          [airline         fares]       in   too
+
+tenuous, remote, or peripheral a manner’ to have pre-emptive
+
+effect.”          504 U.S. at 390 (quoting Shaw v. Delta Air Lines,
+
+Inc., 463 U.S. 85, 100 n.21 (1983)).                            In American Airlines, Inc.
+
+v. Wolens, 513 U.S. 219 (1995), for example, the Supreme Court
+
+recognized        an   exception          to    preemption         for       routine     breach       of
+
+contract claims against airlines.                          American Airlines argued that
+
+a series of class actions filed in state court by participants
+
+in   its    frequent         flyer    program             for    breach      of     contract        were
+
+preempted by the ADA.                Id. at 230.               The Court determined it was
+
+“[not] plausible that Congress meant to channel into federal
+
+courts      the     business         of    resolving,             pursuant        to     judicially
+
+fashioned     federal         common       law,       the       range    of    contract         claims
+
+relating to airline rates, routes, or services.”                                       Id. at 232.
+
+The Court noted that no state regulation of airlines was at
+
+issue,      and     that      American         had    voluntarily            entered       into     the
+
+frequent-flyer         contracts          with    consumers.             Id.      at    229.        Most
+
+importantly,           the     outcome          of        the     case        depended         on     an
+
+interpretation of the contract’s terms, not on an interpretation
+
+                                                 23
+of any federal law or regulation.                 Id. at 229-31 (“A remedy
+
+confined to a contract’s terms simply holds parties to their
+
+agreements.”).      Therefore,      the    plaintiffs     could    pursue     their
+
+claims against American in state court.
+
+     In   this   case,   as   in    Wolens,    resolution     of    the   dispute
+
+between   the    Motor   Carriers     and     Klaussner    depends     upon    the
+
+court’s interpretation of the parties’ contract.                  The outcome of
+
+the case turns on the meaning of the “Prepaid” designation and
+
+non-recourse provision in their bills of lading.                   No state law
+
+or regulation governing the Motor Carriers’ prices, routes, or
+
+services is implicated.        As analyzed above, no federal statute
+
+or regulation need be interpreted.                The Motor Carriers’ claim
+
+against Klaussner is a routine breach of contract case that is
+
+not preempted by § 14501(c)(1).             Furthermore because, similarly
+
+to the ADA, the ICCTA “contains no hint” that Congress intended
+
+federal courts to adjudicate this category of contract disputes
+
+based on federal common law, we decline to do so in this case.
+
+Wolens, 513 U.S. at 232.
+
+
+
+                                      V.
+
+     Because we conclude that we do not have jurisdiction to
+
+adjudicate   this   appeal,    we    “do    not    and    cannot    express    any
+
+opinion regarding the appeal’s merits.”             United States v. Myers,
+
+593 F.3d 338, 340 n.1 (4th Cir. 2010) (citing Constantine, 411
+
+                                      24
+F.3d at 480).       We have authority only to vacate the district
+
+court’s   opinion    and   remand   with   instructions   to   dismiss.
+
+Therefore, the decision below is
+
+                                                 VACATED AND REMANDED
+                                                   WITH INSTRUCTIONS.
+
+
+
+
+                                    25
+

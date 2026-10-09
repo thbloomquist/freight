@@ -1,0 +1,825 @@
+Additional Information and Copies
+To obtain additional copies of this report, visit the Web site of the Department of Defense
+Inspector General at http://www.dodig.mil/audit/reports or contact the Secondary Reports
+Distribution Unit at (703) 604-8937 (DSN 664-8937) or fax (703) 604-8932.
+
+Suggestions for Audits
+To suggest ideas for or to request future audits, contact the Office of the Deputy Inspector
+General for Auditing at (703) 604-9142 (DSN 664-9142) or fax (703) 604-8932. Ideas
+and requests can also be mailed to:
+
+                       ODIG-AUD (ATTN: Audit Suggestions)
+                       Department of Defense Inspector General
+                       400 Army Navy Drive (Room 801)
+                       Arlington, VA 22202-4704
+
+
+
+
+‘
+
+
+
+
+Acronyms and Abbreviations
+DFAS                          Defense Finance and Accounting Service
+FMR                           Financial Management Regulation
+GSA                           General Services Administration
+IG                            Inspector General
+OMB                           Office of Management and Budget
+TRANSCOM                      U.S. Transportation Command
+                                      INSPECTOR GENERAL
+                                     DEPARTMENT OF DEFENSE
+                                      400 ARMY NAVY DRIVE
+                                 ARLINGTON, VIRGINIA 22202-4704
+
+
+
+                                                                                       April 9, 2009
+
+MEMORANDUM FOR UNDER SECRETARY OF DEFENSE FOR ACQUISITION,
+                  TECHNOLOGY, AND LOGISTICS
+               UNDER SECRETARY OF DEFENSE (COMPTROLLER)IDOD CHIEF
+                  FINANCIAL OFFICER
+
+
+SUBJECT: Report on Monitoring PowerTrack Payments for DoD Freight Transportation
+         (Report No. D-2009-072)
+
+We are providing this report for your review and comment. We considered management
+comments on a draft of this report when preparing the final report and considered unsolicited
+comments on the finding provided by the United States Transportation Command.
+
+The Under Secretary of Defense for Acquisition, Technology, and Logistics did not respond to the
+potential monetary benefits in the draft report. DoD Directive 7650.3 requires all issues to be
+resolved promptly. We request that the Under Secretaty of Defense for Acquisition, Technology,
+and Logistics provide comments by May 9,2009.
+
+If possible, send your comments in electronic format (Adobe Acrobat file only) to Aud-
+Colu@dodig.mil. Copies of your comments must have the actual signature of the authorizing
+official for your organization. We are unable to accept the / Signed / symbol in place of the actual
+signature. If you arrange to send classified comments electronically, you must send them over the
+SECRET Internet Protocol Router Network (SIPRNET).
+
+We appreciate the courtesies extended to the staff. Please direct questions to me
+at (703) 601-5868 (DSN 329-5868).
+
+
+
+
+                                             f~a.m~
+                                             Patricia A. Marsh, CPA
+                                             Assistant Inspector General
+                                             Defense Business Operations
+                 Report No. D-2009-072 (Project No. D2008-D000FJ-0006.001)
+                                        April 9, 2009
+
+              Results in Brief: Monitoring PowerTrack
+              Payments for DoD Freight Transportation
+                                                      a result, the FY 2007 Annual Financial Report
+What We Did                                           did not identify PowerTrack payments as being
+We determined whether DoD has established             a high-risk area.
+procedures to incorporate industry-wide best
+practices to minimize, identify, report, and          What We Recommend
+recover improper payments for transportation          The Under Secretary of Defense for
+services.                                             Acquisition, Technology, and Logistics should:
+                                                         • use data mining to monitor problematic
+The U.S. Transportation Command                              payments for duplicate payment
+(TRANSCOM) is the single manager of the                      indicators;
+DoD global transportation function. In                   • develop a pilot plan to implement
+FY 2007, DoD transportation offices paid                     processes to reduce the likelihood of
+freight shippers $2.3 billion using PowerTrack,              PowerTrack overpayments, identify
+a U.S. Bank system DoD adopted in FY 1999 to                 potential fraud indicators, and quickly
+pay electronically for freight services.                     recover overpayments; and
+                                                         • maintain an agreement with the General
+What We Found                                                Services Administration on delaying its
+DoD internal controls over PowerTrack                        post-payment audits six months to allow
+payments were not adequate. We estimated                     completion of DoD internal reviews.
+DoD should have identified between
+$33.9 million and $68 million in duplicate and        We recommend that the Under Secretary of
+improper payments in FY 2007 for freight              Defense (Comptroller)/DoD Chief Financial
+transportation. It also did not take necessary        Officer include the U.S. Transportation
+steps to recover overpayments before the              Command in future improper payment surveys
+General Services Administration post payment          and ensure that PowerTrack payments are
+auditors recovered the funds and returned them        reported as a high-risk area in accordance
+to the Treasury. These events occurred because        with Office of Management and Budget
+DoD did not have processes in place to identify       Circular A-136, “Financial Reporting
+likely overpayments and did not take advantage        Requirements,” June 29, 2007.
+of the resources available to monitor payments,
+identify overpayments, and immediately recover        Management Comments and
+funds. We estimated that DoD could avoid or           our Response
+recover and retain up to $307.3 million in
+                                                      The Deputy Under Secretary of Defense for
+overpayments over the Future Years Defense
+                                                      Logistics and Materiel Readiness and the Under
+Program by improving the process of
+                                                      Secretary of Defense (Comptroller) agreed with
+monitoring PowerTrack payments.
+                                                      the recommendations. The Deputy Under
+                                                      Secretary of Defense for Logistics and Materiel
+Additionally, the DoD Annual Financial Report
+                                                      Readiness commented on behalf of the Under
+did not contain information on duplicate or
+                                                      Secretary of Defense for Acquisition,
+improper payments for freight transportation
+                                                      Technology, and Logistics.
+actually identified during payment reviews. As
+
+                                                  i
+             Report No. D-2009-072 (Project No. D2008-D000FJ-0006.001)
+                                    April 9, 2009
+
+Recommendations Table
+Management                       Recommendations            No Additional Comments
+                                 Requiring Comment          Required
+Under Secretary of Defense for                              A.1., A.2., and A.3.
+Acquisition, Technology, and
+Logistics
+Under Secretary of Defense                                  B.
+(Comptroller)/DoD Chief
+Financial Officer
+
+
+
+
+                                          ii
+Table of Contents
+
+Results in Brief                                                          i
+
+Introduction
+
+       Objectives                                                        1
+       Background                                                        1
+       Review of Internal Controls                                       2
+
+Finding A. Controls Over Monitoring PowerTrack Transportation Payments   3
+
+       Management Comments on the Finding and Our Response               8
+       Recommendations, Management Comments, and Our Response            9
+
+Finding B. Reporting PowerTrack Overpayments                             11
+
+       Recommendation, Management Comments, and Our Response             12
+
+Appendices
+
+       A. Scope and Methodology                                          13
+             Prior Coverage                                              14
+       B. Summary of Potential Monetary Benefits                         15
+
+Management Comments
+
+       Deputy Under Secretary of Defense for Logistics and
+              Materiel Readiness Comments                                17
+       Office of the Under Secretary of Defense (Comptroller) Comments   19
+       United States Transportation Command Comments                     20
+Introduction
+Objectives
+The audit objective was to determine whether DoD has established procedures to
+incorporate industry-wide best practices to minimize, identify, report, and recover
+improper payments for transportation services. This is the second in a series of audits on
+DoD transportation payments using PowerTrack.
+
+Background
+The U.S. Transportation Command (TRANSCOM) is the single manager of the DoD
+global transportation system. It executes its mission through three Component
+commands: Air Mobility Command, Military Sealift Command, and the Military Surface
+Deployment and Distribution Command. TRANSCOM reported $10.3 billion in
+FY 2007 revenue. In FY 2007, TRANSCOM summary reports indicate it paid freight
+shippers $2.3 billion using PowerTrack, a U.S. Bank system adopted by DoD in FY 1999
+to pay electronically for freight services.
+
+TRANSCOM and its subordinate commands provide support for all of the DoD
+transportation needs. The transportation mission is especially crucial in time sensitive
+scenarios, such as in times of war. For example, since September 11, 2001, the Military
+Sealift Command has delivered more than 97 million square feet of combat vehicles,
+equipment, and supplies to Army, Marine Corps, Air Force, and Navy warfighters
+engaged in worldwide operations. In FY 2007, the Military Surface Deployment and
+Distribution Command synchronized 153 vessel operations and moved more than
+10 million square feet of cargo in support of Operations Iraqi Freedom and Enduring
+Freedom. In addition, the Air Mobility Command moved 702,769 tons of cargo on airlift
+missions in FY 2007. 1
+
+DoD transportation offices used PowerTrack as the electronic system for paying freight
+shipments. PowerTrack is an electronic payment tool that eliminates paper from the
+freight payment process by automatically paying carriers and electronically billing
+shippers. It collects shipment and financial data for both shippers and carriers in a single
+electronic document that is used DoD-wide and is accessible over the internet to all
+other interested parties. According to TRANSCOM, DoD used PowerTrack for about
+52 percent of the payments related to shipments by subordinate commands during
+FY 2007. The other 48 percent of the shipments involved air and sealift charters.
+
+The PowerTrack payment process generally follows this sequence:
+
+      •   The transportation officer receives a request to initiate a cargo movement.
+      •   The Global Freight Management System, or local system, prices the shipment.
+
+
+1
+    According to the FY 2007 TRANSCOM Annual Report
+
+
+                                               1
+   •   The Global Freight Management System generates and sends an electronic billing
+       to PowerTrack.
+   •   The carrier enters delivery status into PowerTrack and submits price
+       confirmation.
+   •   The transportation officer approves payment to the carrier.
+   •   U.S. Bank pays the carrier.
+   •   Once a month, the transportation officer submits a summary invoice to the
+       Defense Finance and Accounting Service (DFAS).
+   •   DFAS remits payment to U.S. Bank.
+
+After DFAS remits payments to U.S. Bank, the General Services Administration (GSA)
+performs post-payment audits to verify the accuracy of the payments. GSA received
+authority to audit Government transportation payments in 1940.
+
+Private industry and the Government use techniques and processes, such as data mining
+and Lean Six Sigma, to detect, analyze, and prevent overpayments and eliminate waste.
+
+Data mining is an automated detection process that uses computer programs to scan
+databases to detect patterns, trends, and anomalies. DFAS and transportation industry
+experts use data mining in risk management or other areas of analysis to identify
+overpayments. Data mining software compares two or more data fields or sets to confirm
+consistent input.
+
+Lean Six Sigma is a methodology that uses metrics and analysis to improve an
+organization’s processes, practices, and performance. The ultimate goal of Lean Six
+Sigma is to use data-driven decision making to optimize business capabilities by
+eliminating non-value added work, focusing on customers, and improving quality.
+
+Review of Internal Controls
+We determined that an internal control weakness in DoD oversight of PowerTrack
+payments existed as defined by DoD Instruction 5010.40, “Managers’ Internal Control
+(MIC) Program Procedures,” January 4, 2006. DoD internal controls were not adequate.
+OMB Circular A-123, “Management’s Responsibility for Internal Control,”
+August 10, 2006, states that Federal agencies should take all necessary steps to ensure the
+accuracy and integrity of Federal payments. DoD did not adequately monitor freight
+payments to identify duplicate and improper payments before GSA post-payment audits.
+Implementing Recommendations A.1., A.2., and A.3. will improve DoD oversight of
+freight payments made through PowerTrack. We will provide a copy of this report to the
+Under Secretary of Defense for Acquisition, Technology, and Logistics, officials
+responsible for internal controls.
+
+
+
+
+                                             2
+A. Controls Over Monitoring PowerTrack
+Transportation Payments
+DoD internal controls over PowerTrack payments were not adequate. We estimated DoD
+should have identified between $33.9 million and $68 million in duplicate and improper
+payments in FY 2007 for freight transportation. It also did not take necessary steps to
+recover overpayments before the General Service Administration post payment auditors
+recovered the funds and returned them to the Treasury. These events occurred because
+DoD did not have processes in place to identify likely overpayments and did not take
+advantage of the resources available to monitor payments, identify overpayments, and
+immediately recover funds. Unless DoD improves its monitoring process, GSA will
+recover the funds through the GSA post-payment audit process and DoD will continue to
+lose the funds. We estimated that DoD could avoid or reclaim up to $307.3 million in
+overpayments over the Future Years Defense Program 2 by improving the process of
+monitoring PowerTrack payments.
+
+Transportation Areas at Risk for Overpayments
+Past studies, audits, and investigations of transportation payments identified many
+areas where PowerTrack transportation payments were vulnerable for overpayment
+and fraud. In FY 2005, the Defense Finance and Accounting Service (DFAS) Office of
+Internal Review coordinated and hosted the “PowerTrack/Transportation Subject Matter
+Expert Conference” to identify potential indicators of fraud and abuse within
+PowerTrack. The conference included data mining experts, auditors, criminal
+investigators, transportation officers, PowerTrack system experts, and a representative
+from U.S. Bank. The subject matter experts identified 138 potential indicators of fraud
+and abuse. Of the 138 potential indicators, 52 were rated as high risk. The following
+shows 10 of the vulnerable (high-risk) areas.
+    1. Invoices from carrier for invalid/non-existent services.
+    2. Preferential treatment given to carrier.
+    3. Use of automated approval.
+    4. Frequent overrides.
+    5. Double/duplicate billing (same amount, date, or bill of lading) (phantom
+        shipment) (shipment made via different mode than billed).
+    6. Prime and subcontractor billed for same services.
+    7. Multiple vendors/carriers using same billing address.
+    8. Multiple vendors/carriers using same bank account.
+    9. Personal use shipments.
+    10. Bills to multiple Military Departments – duplicate.
+
+
+
+
+2
+ The Future Years Defense Program is the program and financial plan for DoD as approved by the
+Secretary of Defense. The Future Years Defense Program organizes cost data and force structure over a
+6-year period and provides this to Congress in conjunction with the President’s budget.
+
+
+                                                   3
+The following describe subsequent reviews and audits that identified other risk areas.
+
+    •    GSA told us they identified $33.9 million in improper or duplicate payments
+         during post-payment audits of DoD PowerTrack transactions in FY 2007.
+
+    •    In FY 2007, a DoD criminal investigation resulted in a $28 million settlement
+         from an air cargo company that handles shipments to Iraq and Afghanistan. 3 The
+         company admitted falsifying a document to show an "on time" delivery date even
+         though the company made the delivery later than the date reported.
+
+    •    A DoD Inspector General (IG) audit found that controls over PowerTrack ocean
+         freight transportation payments were inadequate to prevent duplicate payments
+         and were vulnerable to fraudulent manipulation. The audit projected
+         $14.1 million in refunded and non-refunded duplicate payments that occurred in
+         FY 2007. 4
+
+    •    Another DoD IG audit disclosed problems with PowerTrack transportation
+         payments at Defense Distribution Depot Susquehanna. The auditors identified
+         $252,000 in overpayment refunds from contractors that occurred from February
+         2006 to February 2007. 5
+
+Using Data mining Techniques to Reduce Risk of
+Overpayment
+DoD did not reduce its risk of overpayments by implementing data mining techniques to
+identify potential duplicate or improper payments. At the time of this audit, DoD did not
+have a data mining effort ongoing to monitor transportation payments.
+
+Data mining is an automated detection process that uses computer programs to scan
+databases to detect patterns, trends, and anomalies. DFAS and transportation industry
+experts use data mining in risk management or other areas of analysis to identify
+overpayments. Data mining compares two or more data fields or sets to confirm
+consistent input.
+
+Office of Management and Budget (OMB) Circular A-123, Appendix C, “Requirements
+for Effective Measurement and Remediation of Improper Payments,” August 10, 2006,
+recommends agencies, including DoD, use techniques such as data mining to identify and
+recover improper payments. Although DoD used it in other areas, DoD did not use it for
+
+
+
+
+3
+  According to the Department of Justice, the settlement amount includes a fine of $8.8 million, restitution
+of $4.4 million, a civil forfeiture claim of $7.4 million, and a civil qui tam action of $7.4 million.
+4
+  DoD IG Report No. D-2008-132, “Ocean Freight Transportation Payments Using PowerTrack,”
+September 26, 2008.
+5
+  DoD IG Report No. D-2008-096, “Identification and Reporting of Improper Payments by the Defense
+Logistics Agency,” May 20, 2008.
+
+
+                                                      4
+PowerTrack payments. If DoD implemented data mining techniques, it could minimize
+the risk of undetected improper payments to transportation contractors.
+
+DoD can use data mining techniques throughout the payment process to proactively look
+for indicators of improper or duplicate payments and potentially identify duplicate or
+improper payments before final payment. DoD used the recovery techniques successfully
+in other areas. In particular, DFAS data mining staff have used data mining techniques to
+monitor DoD payments. In addition, in the recent past, the DFAS PowerTrack Program
+Management Office expressed interest in using data mining.
+
+A primary reason DoD should immediately establish a proactive monitoring process is
+that DoD has not been able to recover lost funds. DoD has relied on GSA post-payment
+audits to monitor overpayments. Once GSA is involved in the post-payment process, any
+funds it recovers for DoD are returned to the Treasury and are not provided to DoD again
+for DoD use.
+
+Senior GSA and DoD officials told us that the PowerTrack process includes prepayment
+controls that should prevent payment problems such as those discovered during GSA
+post-payment audits. DoD officials indicated that data mining could be used as an
+effective tool in identifying the problem payments.
+
+Post-Payment Audits
+The Under Secretary of Defense for Acquisition, Technology, and Logistics should work
+with GSA to maintain a delay of GSA post-payment audits in the transportation area.
+GSA routinely performed post-payment audits of DoD PowerTrack transactions as part
+of its responsibility for auditing the accuracy of all Government transportation payments.
+A GSA post-payment audit is an analysis of procurement and payment documents to
+identify overpayments to contractors. In 1940, the Transportation Act of 1940 as
+amended, section 3726, title 31, United States Code (31 U.S.C. 3726), gave GSA
+statutory authority to audit the accuracy of all Government transportation payments.
+According to 31 U.S.C. 3726, GSA has the responsibility and authority to audit payments
+made for transportation services for, and on behalf of, the U.S. Government. At the time
+of our audit, the GSA Office of Transportation and Property Management Audit Division
+performed this function after a delay of six months from date of payment.
+
+We obtained GSA post-payment summary audit results for FY 2006 and FY 2007. The
+results confirmed that the DoD transportation payment area requires DoD to use a more
+proactive monitoring approach. In FY 2006, GSA completed post-payment audits of
+DoD PowerTrack transactions and identified overpayments of $9.4 million. In FY 2007,
+GSA identified another $33.9 million—a 260 percent increase—for a total of
+
+
+
+
+                                            5
+$43.3 million in PowerTrack overpayments in 2 years. 6 GSA is required to return
+recovered funds, less expenses, to the Department of Treasury. As a result, DoD loses
+access to the recovered funds.
+
+Recovery audit companies indicate that GSA will identify between three and five percent
+in transportation overpayments. Three recovery audit companies (vendors involved in
+recovery auditing programs that provided information from their recoveries in the
+transportation field) stated that by using mining techniques and process improvements
+they were able to recover between 3 and 5 percent of their clients’ freight payments. 7 It
+was their collective opinion that transportation payments were risky and subject to error.
+
+DFAS post-payment audit personnel, familiar with DFAS audits of DoD-wide
+payments, told us that the amount of overpayments identified and recovered through
+its post-payment audits is directly related to the time elapsed since the payment was
+disbursed and audited: that is, a rapidly conducted audit identifies more errors.
+Paragraph 220302(d) of the DoD Financial Management Regulation (FMR), volume 10,
+chapter 22, “Recovery Audit,” December 2005, indicates that it takes 180 days to
+complete internal control procedures on other DoD vendor payments before recovery
+audits may begin. GSA indicated that under the current process, it usually does not begin
+its post-payment audits for six months. GSA told us that it is their goal to complete
+PowerTrack payment audits within 60 days and that it has immediate access to
+PowerTrack records. However, GSA told us they are willing to continue the 6-month
+delay for DoD to perform its own review of PowerTrack transactions.
+
+Implementing Other Process Improvements
+According to the DoD Enterprise Transition Plan, DoD did not have a plan to monitor
+and improve the process of paying contractors for freight shipments. In particular, it had
+not engaged in a “Lean Six Sigma” program, a program that is widely used by agencies
+throughout the Federal Government and in many areas of DoD.
+
+In FY 2007, the Deputy Secretary of Defense established a project team to use
+monitoring practices, such as Lean Six Sigma, throughout DoD. Lean Six Sigma is a
+methodology that uses metrics and analysis to improve an organization’s processes,
+practices, and performance. The ultimate goal of Lean Six Sigma is to use data-driven
+decision making to optimize business capabilities by eliminating non-value added work,
+focusing on customers, and improving quality.
+
+The Deputy Under Secretary of Defense for Business Transformation produces an
+Enterprise Transition Plan each year that provides details on DoD transformation
+progress, including Lean Six Sigma. According to the FY 2007 Enterprise Transition
+Plan, DoD was engaged in a massive business transformation effort to become a more
+
+
+6
+  These are summary results as provided by the Director GSA Transportation Audit Division. We did not
+verify their accuracy and we did not analyze the recovered funds to determine whether the accounts were
+active or expired.
+7
+  We did not review or verify the vendor recovery rates.
+
+
+                                                   6
+“nimble, adaptive organization.” The Deputy Under Secretary of Defense for Business
+Transformation testified to the United States Senate Armed Services Committee on
+February 7, 2008, that DoD Components have almost 20,000 active and completed Lean
+Six Sigma projects. He further stated:
+
+                 [Lean Six Sigma] is an important part of the Department’s Continuous
+                 Process Improvement effort. A disciplined improvement methodology,
+                 [Lean Six Sigma] has been endorsed by DoD leadership as the means
+                 by which the Department will become more efficient in its operations
+                 and more effective in its support of the warfighter. By focusing on
+                 becoming a “lean” organization, the DoD will eliminate waste, improve
+                 quality and put its resources and capital to the best use in meeting the
+                 goals of the Enterprise Transition Plan.
+
+DoD successfully implemented Lean Six Sigma across diverse business areas. For
+example: 8
+
+    •   The Naval Air Systems Command joined with Raytheon to complete a Lean Six
+        Sigma project, which ultimately saved $133.5 million across the 2006 Future
+        Year Defense Program and $421 million over the life of the Joint Standoff
+        Weapon Block II program.
+
+    •   The Warner Robins Air Logistics Center in Georgia won the Shingo Gold Prize
+        for Excellence in Manufacturing, named after a Japanese Lean Six Sigma leader,
+        after it used Lean Six Sigma principles to reduce repair times for C-5 aircraft to
+        an average of 210 days from 390 days.
+
+    •   The Army estimates that in calendar year 2007, they achieved an estimated
+        savings of $1.3 billion by using continuous process improvements and Lean Six
+        Sigma. 9
+
+DoD could successfully use the Lean Six Sigma program to monitor and improve its
+freight transportation payment process. We believe DoD should evaluate use of a
+program, such as Lean Six Sigma, to determine how it can better monitor its high-risk
+PowerTrack payment functions. Specifically, DoD should focus on highly vulnerable
+areas and identify ways to reduce non-value added steps and more rapidly complete its
+payment reviews, eliminate errors, and improve its freight payment quality control
+process to minimize potential overpayments and fraud. We believe DoD should develop
+a plan to implement a process to reduce the likelihood of PowerTrack overpayments and
+to identify potential fraud indicators.
+
+
+
+
+8
+ As reported by DoD. We did not audit or verify these for accuracy.
+9
+ Paraphrased excerpt from Prepared Statement of Deputy Under Secretary of Defense for Business
+Transformation before the United States Senate Armed Services Committee, February 7, 2008.
+
+
+                                                    7
+Estimates of Potential Returns
+DoD could recover or prevent overpayments every year by using data mining techniques
+and by using a program such as Lean Six Sigma to improve and monitor the payment
+process.
+
+We believe that the recovery companies’ estimate of a 3-percent error rate is conservative
+and is applicable to PowerTrack freight transportation payments. We believe that
+PowerTrack payments are high risk and a 3-percent recovery rate is a conservative
+estimate because of the complexity and magnitude of the DoD global transportation
+system. Using the 3-percent error rate, we calculated that DoD could recover or prevent
+$68.280 million in overpayments from the $2.276 billion in FY 2007 PowerTrack
+payments annually. We estimated that, to recover the overpayments, costs would be 25
+percent of the amounts recovered. The 25 percent represents contingency fees paid to
+contractors or costs incurred internally to DoD. The net potential monetary benefit could
+be $51.210 million per year or $307.3 million 10 over the Future Years Defense Program
+(FYs 2009 through 2014). See Appendix B for summary of potential monetary benefits.
+
+Conclusion
+We concluded that, because of the risk of overpayments and potential for fraud, DoD
+should use data mining techniques to identify improper payments. It should proactively
+mine the payments before GSA recovers the payments during their post-payment audit
+and the funds are lost to DoD. DoD should also use a process, such as Lean Six Sigma,
+to identify ways to monitor and more rapidly complete its payment reviews, eliminate
+errors, and improve its quality control process to minimize potential fraud.
+
+Management Comments on the Finding and Our
+Response
+U.S. Transportation Command Comments
+Although not required to comment, the U.S. Transportation Command requested a minor
+wording change to clarify information related to a prior audit shown in the third bullet on
+page 4.
+
+Our Response
+We modified the draft report and changed “The audit identified” to “The audit projected.”
+
+
+
+
+10
+     The calculated amount is $307.260 million. The difference is due to rounding.
+
+
+                                                      8
+Recommendations, Management Comments, and Our
+Response
+A. We recommend that the Under Secretary of Defense for Acquisition,
+Technology, and Logistics:
+
+       1. Use data mining to monitor problematic payments for duplicate payment
+indicators.
+       2. Develop a pilot plan to implement a process to reduce the likelihood of
+PowerTrack overpayments, identify potential fraud indicators, and quickly recover
+overpayments.
+       3. Maintain an agreement with the General Services Administration on
+delaying its post-payment audits six months to allow DoD to complete internal
+reviews.
+
+Deputy Under Secretary of Defense for Logistics and Materiel
+Readiness Comments
+A representative from the Deputy Under Secretary of Defense for Logistics and Materiel
+Readiness provided comments on behalf of the Under Secretary of Defense, Acquisition,
+Technology, and Logistics. He agreed with the recommendations in this report. For
+Recommendation A.1, he indicated that DoD would convene a meeting of oversight
+personnel no later than April 30, 2009, to determine the best approach for monitoring
+suspect PowerTrack payments. In response to Recommendation A.2, he partially agreed
+but indicated that DoD will develop a comprehensive plan to prevent overpayments and
+that the General Services Administration would be responsible for the recovery of
+overpayments. DoD will complete the plan by August 31, 2009. For Recommendation
+A.3, he stated that DoD will complete an agreement with the General Services
+Administration by April 30, 2009.
+
+Our Response
+The Deputy Under Secretary of Defense for Logistics and Materiel Readiness comments
+are responsive and meet the intent of our recommendations. Although he partially agreed
+with recommendation A.2, we consider his comments responsive to the recommendation.
+Specifically, he agreed to develop a comprehensive plan to target the upfront validation
+services and charges before payment to the carrier. Successful implementation of his
+plan will improve controls and should prevent erroneous payments that require recovery
+actions by the General Services Administration. We agree that pursuit of recovering any
+overpayments not detected by an improved process will continue to be a responsibility of
+the General Services Administration.
+
+
+
+
+                                           9
+10
+B. Reporting PowerTrack Overpayments
+The DoD Annual Financial Report did not report duplicate or improper payments for
+freight transportation. This occurred because TRANSCOM was not included as a
+respondent to the annual improper payments survey. The annual survey is the current
+method for providing improper payment data to the Under Secretary of Defense
+(Comptroller)/DoD Chief Financial Officer for compilation in the Annual Financial
+Report. As a result, in FY 2007 the amount of improper payments reported in the Annual
+Financial Report did not include $33.9 million identified by GSA or the $14.1 million
+identified by the DoD IG. 11 We estimate overpayments may have been as much as
+$68 million in FY 2007. In addition, the FY 2007 Annual Financial Report did not
+identify PowerTrack payments as being a high-risk area.
+
+Indications of Risk
+DoD functional experts from Defense Manpower Data Center and DFAS, investigators,
+and auditors showed that DoD transportation payments were at high risk for
+overpayments because of the complexity of DoD operations. Specifically:
+
+     •   PowerTrack subject matter experts identified 52 high risk factors.
+     •   GSA told us it identified $33.9 million in PowerTrack overpayments in FY 2007.
+     •   A criminal investigation recovered a $28 million settlement from an air cargo
+         company that falsely manipulated PowerTrack delivery dates. 12
+     •   The DoD IG identified $14.1 million in refunded and non-refunded duplicate
+         payments.
+     •   The DoD IG identified $252 thousand in refunded PowerTrack payments from
+         Defense Distribution Depot contractors.
+
+DoD should report information on the recovery of PowerTrack payments in the FY 2009
+DoD Annual Financial Report and show PowerTrack payments as being at high risk for
+improper payments. OMB Circular A-136, “Financial Reporting Requirements,”
+June 29, 2007, requires agencies to report this information.
+
+The Under Secretary of Defense (Comptroller)/DoD Chief Financial Officer did not
+include TRANSCOM in its FY 2007 improper payments survey. We concluded that,
+because of the risk indicators shown above, the Under Secretary of Defense
+(Comptroller)/DoD Chief Financial Officer should include TRANSCOM in future
+improper payments surveys.
+
+We estimate that the FY 2007 DoD Annual Financial Report did not show between
+$33.9 million and $68 million in PowerTrack overpayments. Specifically, it did not show
+
+
+
+11
+  We did not determine whether these amounts are mutually exclusive.
+12
+  According to the Department of Justice, the settlement amount includes a fine of $8.8 million, restitution
+of $4.4 million, a civil forfeiture claim of $7.4 million, and a civil qui tam action of $7.4 million.
+
+
+                                                    11
+$33.9 million in PowerTrack overpayments identified for recovery by GSA or
+$14.1 million in duplicate payments identified by the DoD IG. 13 Additionally, as
+discussed in Finding A page 8, we estimate that overpayments may have been as much as
+$68 million of the $2.3 billion in PowerTrack freight payments made in FY 2007.
+
+Conclusion
+Recent audits and criminal investigations show that PowerTrack payments were
+susceptible to error and fraud, and the Under Secretary of Defense (Comptroller)/DoD
+Chief Financial Officer should report them as a high-risk area in the Annual Financial
+Report. The Under Secretary of Defense (Comptroller)/DoD Chief Financial Officer
+should also report any duplicate or improper payments identified for recovery in the DoD
+Annual Financial Report.
+
+Recommendation, Management Comments, and Our
+Response
+B. We recommend that the Under Secretary of Defense (Comptroller)/DoD Chief
+Financial Officer include the U.S. Transportation Command in future improper
+payment surveys and ensure that PowerTrack payments are reported as a high-risk
+area in accordance with Office of Management and Budget Circular A-136,
+“Financial Reporting Requirements,” June 29, 2007.
+
+Under Secretary of Defense (Comptroller) Comments
+The Acting Deputy Chief Financial Officer provided comments on behalf of the Under
+Secretary Defense (Comptroller). He agreed to obtain and to report improper
+transportation payment information in the FY 2009 Annual Financial Report. He stated
+that his office will request the Under Secretary of Defense for Acquisition, Technology,
+and Logistics provide the annual amount of improper DoD transportation payments
+identified and recovered by the General Services Administration.
+
+Our Response.
+The Acting Deputy Chief Financial Officer comments are responsive and meet the intent
+of our recommendation.
+
+
+
+
+13
+     We did not determine whether these are mutually exclusive.
+
+
+                                                     12
+Appendix A. Scope and Methodology
+We conducted this performance audit from March 2008 through August 2008 in
+accordance with generally accepted government auditing standards. Those standards
+require that we plan and perform the audit to obtain sufficient, appropriate evidence to
+provide a reasonable basis for our findings and conclusions based on our audit objectives.
+We believe that the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+
+We determined whether DoD complied with the requirements of OMB Circular A-123,
+“Management’s Responsibility for Internal Control,” August 10, 2006, and DoD FMR,
+volume 10, chapter 22, “Recovery Audit,” December 2005. We reviewed past DoD IG
+and Defense Logistics Agency audit reports, criminal investigation press releases,
+Congressional testimony, meeting minutes, DoD reports and plans, and interviewed DoD
+and GSA personnel. We determined whether DoD implemented Lean Six Sigma to
+prevent overpayments and used recovery techniques to identify and recover
+overpayments.
+
+We used FY 2007 and FY 2008 PowerTrack summary data provided by TRANSCOM.
+TRANSCOM provided a spreadsheet and chart showing freight payments made in
+PowerTrack. According to TRANSCOM, they used a prototype data pull to compile the
+summary data. TRANSCOM stated that the data is not from official records and should
+not be audited. We did not verify the accuracy of the data.
+
+GSA provided PowerTrack post-payment audit results for FY 2006 and FY 2007. As a
+result, we did not estimate potential recoveries for prior years.
+
+We obtained information on recovery rates from three recovery audit companies. We
+used this information to corroborate our conclusion that DoD transportation payments are
+risk prone and should be monitored for accuracy. We did not review or verify the
+potential recovery rates claimed by the recovery audit companies. The DoD IG
+Quantitative Methods Division approved our rationale and methodology for determining
+potential monetary benefits using transportation industry estimates.
+
+We reviewed the FY 2007 Annual Financial Report section related to improper payments
+and recovery auditing. We obtained testimony records, DoD Annual Financial Reports,
+DoD Regulations, and DoD Enterprise Transformation Plans from DoD and Government
+internet sites. We also contacted GSA, DFAS, and TRANSCOM for information related
+to reporting transportation overpayments.
+
+Use of Computer-Processed Data
+We reviewed the controls of the PowerTrack system and the testing of the PowerTrack
+system performed by an independent auditor. Because of the specified procedures
+performed by the independent auditor, we believe the PowerTrack computer-processed
+data are reliable and, therefore, will have no affect on the results of the audit. We relied
+
+
+                                             13
+on management reports created by queries and compilations from PowerTrack. GSA did
+not state whether it used computer processing to compile the PowerTrack post-payment
+audit results.
+
+Prior Coverage
+During the last 5 years, the Department of Defense Inspector General (DoD IG) issued
+two reports discussing controls over PowerTrack and improper payments. Unrestricted
+DoD IG reports can be accessed at http://www.dodig.mil/audit/reports.
+
+DoD IG
+DoD IG Report No. D-2008-132, “Ocean Freight Transportation Payments Using
+PowerTrack,” September 26, 2008
+
+DoD IG Report No. D-2008-096, “Audit of Identification and Reporting of Improper
+Payments by the Defense Logistics Agency,” May 20, 2008
+
+
+
+
+                                          14
+Appendix B. Summary of Potential Monetary
+Benefits
+ Recommendation
+     Reference         Type of Benefit      Amount of Benefit    Account(s)
+A.1., A.2., and A.3.   Cost Recovery of     $307.3 million.      Army, Navy, Air
+                       improper payments    The benefit amount   Force and Defense
+                       made to              will be revised as   Operations and
+                       transportation       Components           Maintenance
+                       contractors.         recover freight      Accounts.
+                                            overpayments.
+
+
+
+
+                                           15
+16
+Deputy Under Secretary of Defense for Logistics and
+Materiel Readiness Comments
+
+
+
+
+                   Click to add JPEG file
+
+
+
+
+                                  17
+Click to add JPEG file
+
+
+
+
+               18
+Office of the Under Secretary of Defense (Comptroller)
+Comments
+
+
+
+
+                    Click to add JPEG file
+
+
+
+
+                                   19
+United States Transportation Command Comments
+
+                                                  Final Report
+                                                   Reference
+
+
+
+
+                  Click to add JPEG file
+                                                Revised, Page 4
+
+
+
+
+                                 20
+

@@ -1,0 +1,808 @@
+U.S. Bank Freight Payment Service For Carriers
+Application & Agreement Checklist
+In order to enroll in the U.S. Bank Freight Payment Service Program for payment of Carrier invoices, please read and
+complete the attached U.S. Bank Freight Payment Service for Carriers Application & Agreement. Follow the
+instructions immediately below to submit your completed Carrier Application to U.S. Bank
+
+
+   Carrier Application (the “Carrier Application”), page 2-4. All required fields are marked in red.
+   • Complete Section 1, Company Information.
+   • Complete Section 2, Automated Payment and Banking Information.
+   • Complete Section 3, Administrator and End Users.
+   • Complete Section 4, Transaction Data Submission.
+   • Agreement, pages 5-14: Read carefully and retain a copy for your records.
+
+
+   Sign the Agreement, page 12.
+
+
+    Submit the Carrier Application & Agreement.
+    Send completed Carrier Applications to U.S. Bank by any of the following methods:
+    •    Scan and send by email to U.S. Bank at CPSselleragreement@usbank.com; or
+    •    Scan and send by email to your Sales Manager; or
+    •    Print and send by U.S. mail to U.S. Bank, Set-Up Team, 200 So. Sixth Street, EP-MN-L26C, Minneapolis, MN
+         55347
+    •    U.S. Bank recommends that any sensitive information be sent by a more secure manner than via unsecure
+         email, including secure email with encryption, uploads to secure file share sites, U.S. Mail, and express
+         courier.
+
+
+
+
+Questions?
+
+For more information, or if you have questions about U.S. Bank Freight Payment, please contact your Sales Manager.
+
+© 2019 U.S. Bank. All other trademarks are the property of their respective owner.
+
+
+
+
+     Confidential                                                Page 1 of 14                         R 9.2020
+U.S. Bank Freight Payment Service For Carriers
+Application
+
+Section 1 Company Information.
+     I am a US carrier
+     I am an EU carrier
+     Other
+
+
+
+ Legal Company Name of Carrier (as shown on tax returns or formation documents)                         Federal Tax ID
+
+
+
+ Doing Business As (“DBA”), if applicable. Please list all DBAs.
+
+
+ Standard Carrier Alpha Code (SCAC) assigned by National Motor Freight Traffic Association, Inc.
+
+
+ U.S. Department of Transportation (USDOT) Number
+
+ Business Type:             Corporation    Partnership        Sole Proprietor       Other:
+                                                                                                   If “LLC” select “Other” and write “LLC” above
+
+Corporate Address of Carrier              NOTE: P.O. Boxes cannot be accepted; please insert physical address.
+
+ Corporate Address (Corporate Address: Street Number, Street, City, State, and Zip Code)
+
+
+ Country
+
+
+
+ Attention                                                           Phone Number (to contact Carrier regarding             Fax Number
+                                                                     processing of this application)
+ Email Address for Welcome email
+
+
+ Email Address for Welcome email
+
+
+
+
+ Attention                                                           Phone Number                                           Fax Number
+
+
+
+
+Section 2 Automated Payment and Banking Information.
+Carrier authorizes U.S. Bank to make payment to Carrier on behalf of Shippers by Automated Clearing House (“ACH”) to the account(s) set
+forth below, and agrees to be bound by the National Automated Clearinghouse Association (“NACHA”) Rules at https://www.nacha.org/. This
+authorization remains in effect as long as the Agreement is in effect or until revoked by Carrier. U.S. Bank may terminate this Agreement if this
+ACH authorization is terminated. Carrier may change its account information at any time by providing U.S. Bank with a revised ACH form
+signed by Carrier’s duly authorized representative.
+
+ Carrier authorizes U.S. Bank to debit Carrier’s account(s) in the event of an overpayment or error in the amount of the overpayment or error,
+ or to draw fees not otherwise deducted from any payment made to Carrier. Such debits will occur within five business days of the settlement
+ date or upon discovery of the overpayment or error.
+
+ Complete the sections below as applicable for payments in European currency, U.S. and Canadian Dollars. For Carriers to be eligible
+ for payment in Canadian Dollars, Carrier and Shipper must have contracted for Canadian payment.
+
+ U.S. Dollars. U.S. Bank will make payment in U.S. Dollars to the following remittance account of Carrier in accordance with the Agreement.
+
+
+
+
+             Confidential                                                     Page 2 of 14                                                         R 9.2020
+               Complete this section if you have a European Account – AT A BANK IN EUROPE.
+
+
+
+    IBAN Number
+
+
+    Account Number                                                           Name on Account
+
+
+    Name of the Bank                                                         Bank's BIC (SWIFT) Address
+
+
+    Address of Bank                                                 City                       Country          Zip/Postal Code
+
+
+
+
+                Complete this section if you have a U.S. Dollar Account – AT A BANK IN THE UNITED STATES.
+
+
+
+   ABA Routing Number
+
+    Account Number                                                           Name on Account
+
+
+    Name of the Bank in the United States                                    Bank Phone
+
+
+    Address of Bank in the United States                            City                       State             Zip Code
+
+
+
+
+               Complete this section if you have a U.S. Dollar Account – at a BANK IN CANADA.
+
+
+
+  Transit Number and Banking Number
+
+
+
+   Account Number                                                          Name on Account
+
+
+   Name of the Bank in Canada                                              Bank Phone
+
+
+   Address of Bank in Canada                            City                        Province              Postal Code
+
+
+
+
+ Canadian Dollars. U.S. Bank will make payment in Canadian Dollars to the following Remittance Account of Carrier
+ in accordance with the Agreement.
+
+               Complete this section if you have a Canadian Dollar Account at a BANK IN CANADA.
+
+
+
+ Transit Number and Banking Number
+
+
+
+  Account Number                                                           Name on Account
+
+
+  Name of the Bank in Canada                                               Bank Phone
+
+
+  Address of Bank in Canada                            City                         Province              Postal Code
+
+
+
+
+Confidential                                                  Page 3 of 14                                                   R 9.2020
+ Individuals authorized to change Section 2 Automated Payment and Banking Information.
+
+  NAME                                 TITLE                              PHONE                      EMAIL
+
+
+
+
+ Section 3 Administrator & End Users.
+  Carrier designates the following Administrator and End Users.
+
+
+  Name of Administrator                                                         Address of Administrator
+
+
+  Telephone Number of Administrator                                             Email Address of Administrator
+
+
+            END USER                       TITLE                      PHONE                                      Zip   E-MAIL
+
+
+
+
+ Section 4 Transaction Data Submission. Carrier will submit Transaction Data to the Platform by the following method.
+
+           Enter invoices via the U.S. Bank Freight Payment web site.
+           Send invoices via Electronic Data Interchange (EDI).
+            *Provide contact information below if this is selected.
+           Submit a Comma-Separated Values (CSV) file.
+
+   EDI contact information:
+
+
+    Name                                                                Email
+
+
+    Phone
+
+
+    Address
+
+
+    City                                                     State
+
+
+    Country
+
+
+
+
+Confidential                                                   Page 4 of 14                                                     R 9.2020
+U.S. Bank Freight Payment Service For Carriers
+Agreement
+This U.S. Bank Freight Payment Service for Carriers Agreement (the “Agreement”) is between the entity signing the U.S.
+Bank Freight Payment Service for Carriers Application as “Carrier” and U.S. Bank National Association (“U.S. Bank”). If
+U.S. Bank approves Carrier’s Application, this Agreement shall become effective as of the date signed by Carrier (the
+“Effective Date”).
+
+1. DEFINITIONS: “Accelerated Payment” means U.S. Bank’s prompt initiation of a payment to Carrier on behalf of a
+   Shipper on an invoice under a Shipper/Carrier Agreement after U.S. Bank’s receipt of the Shipper’s approval to pay
+   such invoice. “Administrator” means a Carrier employee designated by Carrier to administer the Program.
+   “Documentation” means the documentation provided to Carrier by U.S. Bank including, but not limited to, electronic
+   and hard copy versions of manuals, instructions, policies, procedures, specifications, product standards, and guidelines
+   for accessing and using the Platform, instructions for electronic debits and credits to account(s), reports, and
+   information and display screens. “End User” means each individual issued End User Credentials by Administrator.
+   “End User Credentials” means the electronic identity assigned to each End User permitting access to and use of the
+   Platform, and functions as the End User’s electronic signature in the Platform. "Identification Information" means
+   legal names, physical street addresses, taxpayer identification or business numbers, dates of births or other
+   information or documentation. “Intellectual Property” means any patent rights, inventions, design rights, copyrights,
+   database rights, trade secrets, trade names, trademarks, service marks, moral rights, know-how and any other similar
+   rights or intangible assets recognized under any laws or international conventions, and in any country or jurisdiction in
+   the world, as intellectual creations to which rights of ownership accrue, and all registrations, applications, disclosures,
+   renewals, extensions, continuations or reissues of the foregoing now or hereafter in force. “Platform” means any online
+   platform that is owned or licensed by U.S. Bank and through which parties may submit and process Transaction Data
+   that will serve as the basis for U.S. Bank to make approved payments on behalf of Shippers. “Shipper” means any
+   entity that has entered into a Shipper/Carrier Agreement with Carrier for transportation services. “Shipper/Carrier
+   Agreement” means the agreement between Shipper and a Carrier regarding the provision of transportation services.
+   “Transaction Data” means data and information regarding the provision of goods and/or services under a Shipper/
+   Carrier Agreement.
+2. SERVICES GENERALLY. U.S. Bank operates a Freight Payment Program (the “Program”) consisting of (i) providing
+   enhanced services and functionality on the Platform and (ii) facilitating payments from Shippers to Carriers with
+   Accelerated Payment. Carrier agrees to participate in the Program and U.S. Bank agrees to allow Carrier to participate
+   in the Program, all in accordance with the terms contained herein.
+3. PLATFORM ACCESS. Subject to the limitations set forth in Section 8, U.S. Bank shall provide Carrier access to the
+   Platform to review and submit Transaction Data. Carrier agrees to U.S. Bank’s use of Transaction Data submitted by
+   Carrier through the Platform to provide reconciliation services to the Shipper associated with such Transaction Data.
+   Carrier’s access to the Platform is conditioned upon Carrier’s adherence to the Documentation, which may be
+   amended and modified from time to time. At all times Carrier shall designate at least one Administrator to manage the
+   Program. The Administrator shall be Carrier’s primary point of contact for U.S. Bank and shall be responsible for
+   issuing End User Credentials. U.S. Bank shall be entitled to rely without further investigation on the directions provided
+   by an Administrator or any party identified by an Administrator as having the authority to provide directions related to
+   the Program.
+4. PAYMENTS.
+   4.1  Payment of Fees. In exchange for participating in the Program, Carrier agrees to pay U.S. Bank for its own
+        account, the fees set forth in Schedule 1 (the “Program Fees”) for each Accelerated Payment. Carrier
+        acknowledges and agrees that the Program Fees will be deducted by U.S. Bank from the invoiced amounts
+        otherwise payable from Shipper to Carrier. Carrier understands and agrees that (i) the timing of Accelerated
+        Payments is dependent upon factors outside of U.S. Bank’s control and that the Program Fees related to such
+        Accelerated Payments are due notwithstanding any such factors outside of U.S. Bank’s control, and (ii)
+        Carrier’s failure to receive Accelerated Payments in one or more instances does not relieve Carrier of its
+        payment obligations for the Program Fees for any other Accelerated Payment.
+        Confidential                                     Page 5 of 14                                        R 9.2020
+    4.2 Processing. Carrier shall provide U.S. Bank, and U.S. Bank may rely and act upon payment information,
+        instructions and Transaction Data that will enable U.S. Bank to make on behalf of Shippers approved
+        payments to Carrier. Shippers may also provide, or may have provided, U.S. Bank with payment information
+        regarding Carrier. Carrier agrees that U.S. Bank may rely and act upon such payment information from
+        Shippers and any additional or modified payment information that may be provided by Carrier. Carrier shall be
+        solely responsible for verifying the accuracy of Transaction Data whether it is provided by Carrier or Shipper.
+        Carrier shall be solely responsible for the security of End User Credentials. Carrier shall be solely responsible
+        for the care, security, use, and retention of Transaction Data.
+   4.3  Disclaimer. U.S. Bank’s obligations are limited to processing of Transaction Data and the remittance of
+        approved payments on behalf of Shippers, and may be subject to applicable limitations under applicable law,
+        rule or regulation. U.S. Bank is not liable for damages, expenses, delays, misdirected payments, or any other
+        claim or liability for making payments in accordance with payment information, instructions or Transaction
+        Data, nor is U.S. Bank liable for delays in payment that may result from outdated payment information or for
+        Carrier’s failure to provide timely or accurate payment information, instructions or Transaction Data. In the
+        event of a conflict in payment information U.S. Bank will rely on payment information provided by Shipper, and
+        Carrier shall hold U.S. Bank harmless from any damages it may incur as a result of such reliance by
+        U.S. Bank.
+5. SECURITY AND CONFIDENTIALITY.
+   5.1  Security. “Secured Information” means information regarding accounts, passwords, personal identification
+        numbers, End User Credentials, and other sensitive information of either party.
+        (a) Either party may receive or otherwise have access to Secured Information and shall implement or maintain
+             an information security program designed to (i) ensure the security, integrity and confidentiality of Secured
+             Information; (ii) protect against any anticipated threats or hazards to the security or integrity of such
+             Secured Information; (iii) protect against unauthorized access to or use of such Secured Information that
+             could result in substantial harm to the person or entity that is the subject of the Secured Information; and
+             (iv) ensure the proper disposal of such Secured Information.
+         (b) U.S. Bank will maintain physical, electronic, and procedural safeguards designed to (i) maintain the
+             security and confidentiality of Identification Information; (ii) protect Identification Information against
+             anticipated threats or hazards to the security or integrity of Identification Information; and (iii) prevent
+             unauthorized access to or use of such Identification Information that could result in substantial harm or
+             inconvenience to Carrier.
+        (c) Carrier will safeguard Secured Information provided by U.S. Bank in a manner that is no less stringent than
+             those applicable to Carrier’s own proprietary information.
+         (d) At a minimum, Carrier will install and maintain commercially reasonable cybersecurity defenses against
+             any feature, routine, or device that is intended or designed to (i) disrupt the operation of any U.S. Bank
+             owned or licensed software or system; (ii) cause any U.S. Bank owned or licensed materials, software, or
+             system to be destroyed, altered, erased, damaged or otherwise made inoperable; or (iii) permit any person
+             or entity to destroy, alter, erase, damage or otherwise render inoperable any U.S. Bank owned or licensed
+             materials, software, or system, including, but not limited to, any cyber-attacks such as any computer virus,
+             trap door, back door, time bomb, malicious program or mechanism such as a software lock or routine for
+             password checking, central processing unit serial number checking or time dependency.
+   5.2  Confidentiality.
+        (a) Confidential Information. Each party may have access to and each party may provide to the other party
+             information that the owner of such information regards as confidential or proprietary. "Confidential
+             Information" includes information of a commercial, proprietary or technical nature whether now in
+             existence or hereafter created and includes, but is not limited to, the following: (i) information marked as
+             "confidential" or similarly marked, or information that a party should, in the exercise of reasonable
+             judgment, recognize as confidential; (ii) Intellectual Property of each party; (iii) Identification Information;
+             (iv) the business, financial or technical information of each party and its respective affiliates; (v) each
+             party’s objectives, materials, results, technological developments and other similar proprietary information
+             and materials; and (vi) notes, memoranda, analyses, compilations, studies and other documents, whether
+             prepared by either party or for either party, which contain or otherwise reflect Confidential Information.
+        (b) Exceptions. Confidential Information does not include information that (i) is already rightfully known to
+             the receiving party at the time it obtains Confidential Information from the disclosing party; (ii) is or becomes
+             generally available to the public other than as a result of disclosure in breach of this Agreement or any other
+             confidentiality obligations between the parties; (iii) is received on a non-confidential basis from a third
+             party reasonably believed to be authorized to disclose such information without restriction and without
+             breach of this Agreement; (iv) is contained in, or is capable of being discovered through examination of,
+             publicly available records or materials; or (v) is developed by U.S. Bank or Carrier without the use of any
+             proprietary, non-public information provided by the other party.
+          Confidential                                   Page 6 of 14                                        R 9.2020
+         (c) Restriction and Care. Each party shall hold Confidential Information in confidence and disclose
+              Confidential Information only to those employees or agents whose duties reasonably require access to
+              such Confidential Information. Each party must protect Confidential Information using at least the same
+              degree of care it uses to protect its own Confidential Information, but in no event, less than a reasonable
+              degree of care to prevent unauthorized disclosure or duplication (except as required for backup systems)
+              of such Confidential Information. Each party shall cause its agents and employees to hold and maintain
+              Confidential Information in confidence, and shall only use and disclose such Confidential Information for
+              the purpose of performing its obligations, exercising its rights, or enforcing its rights under this
+              Agreement, or as otherwise expressly permitted by this Agreement.
+         (d) Disposition of Confidential Information. Upon termination of this Agreement, each party shall
+              immediately, upon election by the disclosing party, return or destroy all Confidential Information in its
+              direct or indirect possession or control that is the property of the disclosing party. Upon written request,
+              the recipient will provide the disclosing party written certification of destruction of any Confidential
+              Information. Notwithstanding, U.S. Bank may retain one copy of Confidential Information for archival
+              purposes in accordance with applicable law, rule or regulation. The receiving party shall return any
+              Confidential Information maintained in an electronic format to the disclosing party in an industry standard
+              format or, at the option of the owner, deleted and removed from all computers, electronic databases, and
+              any other media.
+          (e) Compelled Disclosure. Each party shall promptly provide to the disclosing party notice of any order by a
+              court or governmental agency to disclose any Confidential Information, so the disclosing party may seek
+              an appropriate protective order. U.S. Bank may be prohibited by a governmental agency or court rule or
+              order from disclosing the request for Confidential Information, and under such circumstances U.S. Bank
+              will not notify Carrier of any disclosure of Confidential Information thereunder. Each party shall disclose
+              Confidential Information only to the extent required by applicable law.
+          (f) Non-Publicity. Carrier shall not make any case study, testimonial, press release, or other public
+              announcement regarding this Agreement or any activities performed hereunder. Carrier and its affiliates
+              shall obtain the prior written approval of U.S. Bank’s Media Relations department for any press release
+              that Carrier seeks to release that contains U.S. Bank’s identity. U.S. Bank shall have at least 15 business
+              days to review and respond to any such request for approval.
+6. DEFAULT.
+   6.1  Event of Default. Carrier shall be in default for (i) any violation of its obligations set forth in section 5 (Security
+        and Confidentiality) and section 8 (Intellectual Property); (ii) revocation of its authorization for, or non-payment
+        of, fees or for any failure to have funds available for any payment due to U.S. Bank; (iii) any default of any
+        other agreement between the parties or their affiliates that has not been cured in the time specified in the
+        applicable agreement; (iv) any representations or warranties that fail to be true and correct at any times during
+        this Agreement or (v) any violation of any other covenants, conditions, or provisions set forth in this Agreement
+        (each an “Event of Default”).
+   6.2  Cure. Carrier shall cure any Event of Default under section 6.1.(i)-(ii) within five days of notice of an Event of
+        Default. Carrier shall cure any Event of Default occurring under section 6.1(iii)-(iv) within ten days of notice of
+        an Event of Default. Carrier shall cure any Event of Default under section 6.1(v) within 30 days of notice of an
+        Event of Default. If any such cure reasonably requires more than the allotted time, U.S. Bank and Carrier may
+        agree on an alternative plan to cure. Carrier shall cure in accordance with such a plan agreed upon by U.S.
+        Bank and Carrier.
+   6.3  Remedies. In an Event of Default (after the notice and cure period), in addition to any other remedies at
+        equity or law, U.S. Bank may: (i) immediately cease making Accelerated Payments or immediately suspend
+        the Program; (ii) immediately terminate this Agreement; (iii) accelerate and demand immediate
+        reimbursement, and Carrier shall comply with such demand, of any payables owed by Carrier; and (iv) collect
+        on demand, and Carrier shall promptly comply with such demand any amount directly or indirectly related to
+        any Event of Default, including any fees or losses sustained by U.S. Bank, and any reasonable court and legal
+        costs incurred by U.S. Bank to exercise its rights or remedies under this section 6. For the purposes of any
+        Event of Default under section 6.1.(ii), the due date on the applicable statement will constitute notice of Event
+        of Default. If Carrier violates its obligations under section 5 (Security and Confidentiality) or section 8
+        (Intellectual Property), in the addition to the foregoing, U.S. Bank shall be entitled to injunctive relief in its favor
+        and to specific performance without proof of actual damages and without the requirement of the posting of any
+        bond or similar security because U.S. Bank’s remedies at law may be inadequate to protect U.S. Bank against
+        immediate and irreparable harm caused by any anticipated or actual breach of Carrier’s obligations as set
+        forth in section 5 (Security and Confidentiality) or section 8 (Intellectual Property) and because damages
+        resulting from such a breach may be difficult to ascertain.
+
+        Confidential                                      Page 7 of 14                                         R 9.2020
+7. TERM, TERMINATION AND SUSPENSION. This Agreement will remain in effect for five years from the Effective Date
+   (the “Term”) unless terminated by mutual agreement of the parties upon 60 days prior written notice. This Agreement
+   will automatically extend at the end of the Term for successive one year periods unless either party provides 60 days
+   written notice of termination prior to expiration of the current one year period.
+   7.1      Either party may terminate this Agreement immediately by written notice to the other party upon any of the
+            following events: (i) dissolution or liquidation of the other party or the other party’s parent; or (ii) insolvency of,
+            the filing of a bankruptcy or insolvency proceeding with respect to, or the appointment of an examiner,
+            receiver, or trustee for benefit of creditors of the other party or parent thereof, or the entering by the other
+            party into any other similar proceeding or arrangement for the general benefit of its creditors.
+   7.2      U.S. Bank may terminate this Agreement upon 10 days prior written notice to Carrier upon any of the following
+            events: (i) Carrier’s merger, amalgamation, sale, or transfer of all or substantially all of its assets that causes a
+            material change to Carrier’s business or financial condition; or (ii) U.S. Bank’s determination the overall
+            relationship is unprofitable.
+   7.3      U.S. Bank may immediately suspend or terminate this Agreement, in whole or in part, upon Carrier’s failure to
+            comply with section 17 of this Agreement (Compliance with Applicable Statutes and Regulations); or if U.S.
+            Bank, in its sole discretion, determines provision of services under this Agreement is counter to any existing,
+            new or amended law, regulation, code, regulatory guidance, regulatory interpretation, anticipated regulatory
+            interpretation, or any enforcement of existing, new, or amended law, regulation, code, regulatory guidance
+            regulatory interpretation, or anticipated regulatory interpretation.
+   7.4      U.S. Bank may terminate this Agreement immediately upon written notice to Carrier if there have been no
+            payments made to Carrier by U.S. Bank on behalf of Shippers under this Agreement within 12 months of the
+            Effective Date of this Agreement or for any consecutive 12 month period after the Effective Date of the
+            Agreement.
+   7.5      Upon termination of this Agreement Carrier shall immediately return or destroy, as directed by U.S. Bank, all
+            copies of any Program materials including but not limited to the Documentation. Carrier shall promptly certify
+            its compliance with this provision upon the destruction of such Program materials.
+   7.6      The following provisions shall survive termination of this Agreement: Schedule 1 (Fees and Billing); section 5
+            (Security and Confidentiality); section 6 (Default); section 8 (Intellectual Property); section 10 (Disclaimer,
+            Release and Limitation of Liability); section 11 (Disputes and Indemnification); section 14 (Notices); section 16
+            (Governing Law); section 29 (Cumulative Remedies); and section 30 (Jury Trial Waiver). Without limiting or
+            affecting the foregoing, any provision of the Agreement that expressly or by implication is intended to come
+            into or continue in force on or after termination of this Agreement shall survive termination and shall remain in
+            full force and effect.
+
+8. INTELLECTUAL PROPERTY.
+   8.1   Generally. U.S. Bank or its affiliates are the owner or licensee of any and all Intellectual Property associated
+         with U.S. Bank products and services including, but not limited to, the Program, documentation related
+         materials, and derivatives. Except as expressly stated in this Agreement, copying, redistribution, publication,
+         use, or retransmission of any portion of the foregoing is strictly prohibited without the express written consent
+         of U.S. Bank. Carrier shall not change or delete any proprietary notices. Nothing in this provision grants any
+         ownership right to Carrier, and U.S. Bank remains the sole owner of any and all its Intellectual Property.
+   8.2   Software License.
+         (a) Grant. U.S. Bank grants to Carrier a limited, revocable, non-assignable, non-exclusive, non-sublicensable
+             license to use the Platform for the Services. Carrier is fully responsible for all configuration selections made
+             in the Platform by or on behalf of Carrier.
+         (b) Ownership. U.S. Bank, its affiliates, or their respective third party licensors, retain all rights, title, and
+             ownership of the Program (which for the purpose of this section 8, includes the Platform), any
+             documentation provided to Carrier or its End Users, and any works derived from the Program, or its third
+             party licensors’ Intellectual Property. The Program is protected by copyright and may be protected by
+             patent, trademark, or other proprietary rights and laws of the United States, Canada or other jurisdictions.
+             Any rights not granted in this section are reserved by U.S. Bank or its third party licensors.
+         (c) Updates. U.S. Bank or its third party licensors may, from time to time, provide updates to a Platform.
+             The updates replace the Platform initially licensed to Carrier, and do not constitute an additional license
+             to use the Platform.
+         (d) Restrictions. Carrier may not attempt to gain unauthorized access to any portion or feature of the
+             Program, or any other systems or networks connected to the Program. Carrier agrees not to undertake any
+             actions which would result in any interference with the proper working of the Program or any transactions
+             conducted on the Program. Carrier may not use the Program for any purpose which is unlawful or prohibited
+             by this Agreement. Carrier may not (i) reverse engineer, decompile, or disassemble the Program or bypass
+        Confidential                                        Page 8 of 14                                          R 9.2020
+                      or disable any copy protection or encryption; (ii) reformat or make derivative works of the Program; (iii)
+                      transmit all or any part of the Program by any means, media, or manner that would present the risk of
+                      unauthorized access; (iv) disclose part or all of the Program to any third parties, except as explicitly
+                      authorized herein or in writing by U.S. Bank; (v) use all or part of the Program to advise, consult, or
+                      otherwise assist any third parties; or (vi) otherwise use the Program in any manner that would compete in
+                      any way with U.S. Bank’s business.
+     8.3        Audit. Carrier agrees to permit U.S. Bank reasonable access to any records, systems, or operations to ensure
+                that Carrier is in compliance with the license granted in this section.
+     8.4        Use of Name and Marks. U.S. Bank may use Carrier’s name or marks in presentations, business cases, and
+                product brochures. All publications that do more than simply identify Carrier must be reviewed and approved,
+                in writing, by Carrier before release.
+
+ 9. WARRANTIES. Each party respectively represents and warrants, at all times during the Agreement, that (i) execution of
+    the Agreement and the performance of the obligations hereunder are within such party’s powers; have been
+    authorized by all necessary action within the scope of the normal course of business; do not require action by or
+    approval of any governmental or regulatory body, agency or official, or if required, such approval has been obtained;
+    (ii) execution of this Agreement and the performance of the obligations will not cause a material breach of any duty
+    arising in law or equity; (iii) each party possesses the financial capacity to perform all of its obligations under this
+    Agreement; and (iv) each party shall comply with all applicable laws, rules, regulations and requirements of
+    governmental authorities related to the Program. Carrier represents and warrants, at all times during the
+    Agreement, that (i) the material information provided by Carrier is true, complete and accurate; (ii) no third party
+    consent, including, without limitation, a lender’s consent, is required with respect to the execution of this Agreement,
+    or if any such third party consent or approval is required, Carrier has obtained any and all such consents or
+    approvals; and (iii) Carrier will not, in connection with the services contemplated by this Agreement or in connection
+    with any other business transactions involving U.S. Bank, receive compensation, make, offer or promise to make
+    any payment or transfer anything of value, directly or indirectly if such compensation, payment or transfer would
+    have the purpose or effect of public or commercial bribery, acceptance of or acquiescence in extortion, kickbacks or
+    other unlawful or improper means of obtaining business, in breach of any applicable laws, statutes, regulations and
+    codes relating to anti-kickback, anti-bribery and anti-corruption. The foregoing sentence shall not, however, prohibit
+    normal and customary business entertainment of nominal value or the giving of business mementos of nominal
+    value.
+10. DISCLAIMER, RELEASE AND LIMITATION OF LIABILITY. Except for any warranties explicitly set forth in this
+    Agreement (if any), U.S. Bank hereby disclaims all warranties, express or implied, including warranties of
+    merchantability for fitness for a particular purpose either to Carrier or to any other party, in connection with this
+    Agreement or with respect to the Platform, the Documentation or software products provided or made available by U.S.
+    Bank to Carrier for use in connection with this Agreement. Other than those rights and remedies expressly provided to
+    Carrier by U.S. Bank in this Agreement, Carrier individually and collectively waives and releases U.S. Bank and all of
+    its agents, to the maximum extent permitted by law, from any liabilities, rights, claims, and remedies, whether express
+    or implied, and whether arising by law or otherwise, due to any defects, errors, malfunctions or inadequacies of,
+    inability to access or use, or misuse of, or third-party interference with, the Platform or the Documentation. Other than
+    the mandatory law in each case applicable, U.S. Bank and its affiliates are not liable for any consequential,
+    special, indirect, or punitive damages of any nature (including lost profits) regardless of whether such party
+    has been advised of the possibility of such damages. U.S. Bank is not liable for any damages under the
+    Program except for damages related to the warranties expressly stated herein.
+
+     U.S. Bank provides one or more methods for Carrier to securely transmit Transaction Data to U.S. Bank.
+     Transaction Data transmitted by unsecured electronic communication may be intercepted by third parties.
+     Incorrect Transaction Data submitted to U.S. Bank may result in errors or other problems in Carrier’s business
+     systems. Carrier, for itself, its representatives, its related parties and their respective successors, assigns,
+     subsidiaries and affiliates, hereby releases U.S. Bank and its affiliates and all of their respective employees,
+     agents and representatives from any and all liability or claim of any type arising out of or in connection with:
+     (i) the transmission of Transaction Data via unsecured electronic communications; or (ii) the transmission of
+     inaccurate Transaction Data.
+
+11. DISPUTES AND INDEMNIFICATION.
+    11.1  Disputes. All disputes and claims concerning disposition, condition, or provision of goods or services and
+          costs under a Shipper/Carrier Agreement including payment requests will be resolved between Shipper and
+          Carrier, as applicable. U.S. Bank has no liability or responsibility for the provision of goods or services between
+          Shipper and Carrier, or any related disputes or claims including, but not limited to, fraudulent acts, omissions,
+          damage to goods, loss of goods, or non-performance of services under a Shipper/Carrier Agreement.
+    11.2  U.S. Bank Indemnification. U.S. Bank will indemnify and hold Carrier harmless from and against all liability,
+           Confidential                                      Page 9 of 14                                      R 9.2020
+             damages, losses, costs, expenses (including reasonable attorney and legal fees and expenses) based upon or
+             arising from a third party claim that the Platform licensed to Carrier or any service used by Carrier pursuant to
+             this Agreement infringes a third party’s copyright, trademark or U.S. patent existing as of the date of delivery of
+             such Platform or service to Carrier, or misappropriates a third-party’s trade secrets.
+    11.3     Carrier Indemnification. Carrier will indemnify and hold U.S. Bank, its agents, officers, directors, employees,
+             and contractors harmless from and against all liability, claims, damages, losses, costs, expenses (including
+             reasonable attorney and legal fees and expenses) based upon or arising from: (i) any negligent acts or
+             omissions, fraud or willful misconduct of Carrier or its Administrator, End Users or other representatives; (ii) any
+             breach of the terms of this Agreement, by Carrier or its Administrator, End Users or other representatives; (iii)
+             the inaccuracy of documents, Transaction Data, billing, payment, confirmation, or collection information
+             provided by (or on behalf of) Carrier or any representative of the same, including, but not limited to, information
+             provided to U.S. Bank on any attached schedules, exhibits, addenda, or input into the Platform; (iv) any dispute
+             between Carrier and Shipper, or Carrier and any factor, or any respective representatives of the same; or (v)
+             Carrier’s, its affiliates or its representatives’ failure to comply with applicable law, rule or regulation.
+    11.4     Indemnification Procedures. An indemnified party shall notify the indemnifying party of any claim that is
+             asserted and each action or suit that is filed or served, and provide the indemnifying party with a copy of any
+             written documentation received in relation with the claim, for which the indemnified party is seeking
+             indemnification pursuant to this section 11, provided, however, that the failure to give such notice shall not
+             relieve the indemnifying Party of its indemnification obligations except to the extent it is actually damaged. The
+             indemnifying party may thereafter assume control of such claim, provided that the indemnified party shall have
+             the right to participate in the defense or settlement of such claim. The indemnified party may employ counsel at
+             its own expense to assist with any such claim; however, if such counsel is necessary because of a conflict of
+             interest or because the indemnifying party does not assume control, the indemnifying party shall bear the
+             expense of such counsel. The indemnifying party may not settle any claim, admit to any liability, or consent to
+             any judgment with respect thereto without the consent of the indemnified party (which consent may not be
+             unreasonably withheld, delayed or rejected). The indemnifying party is not obligated to indemnify and defend
+             the indemnified party with respect to a claim (or portions of a claim) if the indemnified party (i) fails to promptly
+             notify the indemnifying party of the claim and fails to provide reasonable cooperation to defend or settle the
+             claim; and (ii) if, and only to the extent that, the failure materially prejudices the indemnifying party’s ability to
+             satisfactorily defend or settle the claim.
+
+12. PROGRAM GOVERNANCE. The provisions of the Uniform Commercial Code do not apply to this Agreement. The
+    Program is governed by the terms of this Agreement only. U.S. Bank is not a party to any Shipper/Carrier Agreement
+    and U.S. Bank does not determine the rights, responsibilities, or remedies regarding the underlying shipping or other
+    transaction, or the offer, acceptance, passing of title, examination of goods, or any other matters related to the sale or
+    lease of goods or services.
+
+13. TAXES. U.S. Bank: (i) does not issue invoices on behalf of Carrier to Shipper, (ii) is not responsible for calculating
+    value added tax, retail sales tax, withholding or other taxes associated with a payment request, and (iii) is not
+    responsible for collecting or reporting taxes owed to any party or authority associated with a payment request. Carrier
+    shall calculate and pay all taxes, duties, levies, tariffs or similar charges of any kind (including withholding or value
+    added taxes) imposed by any federal, state, local, or other governmental entity associated with any payment
+    processed under this Agreement for products or services provided between Carrier and Shipper, except, however,
+    Carrier will not pay taxes based on U.S. Bank’s income. Carrier shall hold U.S. Bank harmless from all claims arising
+    from any failure by any entity to support or pay any such taxes, including duties, levies, tariffs or similar charges.
+
+14. NOTICES. Any notice required to be given to a party pursuant to this Agreement shall be in writing and will be deemed
+    received either (i) two days after the date of mailing if sent by overnight, registered, or certified mail, return receipt
+    requested, or (ii) one day after the date of mailing if sent by a national overnight courier service. Notices shall be sent
+    to the following addresses: to U.S. Bank at U.S. Bank EP-MN-A17S, 901 Marquette Avenue, Minneapolis, MN
+    55402, Attn: Contract Services and to Carrier at the address stated on the Application. Either party may change its
+    notification address at any time by written notice to the other.
+
+15. ASSIGNMENT, TRANSFER. Carrier shall not assign or otherwise transfer or delegate its rights, obligations, or duties
+    under this Agreement without U.S. Bank’s prior written approval at its sole discretion. For the purposes of this
+    provision, “transfer” refers to a merger, acquisition, consolidation, divestiture, change in control, asset transfer,
+    amalgamation, proceeding under bankruptcy laws, or any other transfer, reorganization, or sale (in whole or in part) of
+    Carrier. To the fullest extent not prohibited by applicable law, Carrier will notify U.S. Bank in advance of any material
+    change (and if prohibited, within 15 days after such change) to any information provided to U.S. Bank at any time in
+    contemplation or in furtherance of this Agreement, including, without limitation, Carrier’s primary business, legal
+        Confidential                                       Page 10 of 14                                        R 9.2020
+    organization (e.g., partnership, corporation, etc.) or any change resulting from a transfer as described above. Carrier
+    shall promptly provide any information requested by U.S. Bank associated with the request for approval. In conjunction
+    with Carrier’s request for U.S. Bank’s written approval, Carrier will pay U.S. Bank a fee in the amount of $1,000.00 in
+    consideration of U.S. Bank’s review of changes under this section 15. If U.S. Bank determines, in its sole discretion, its
+    burden (including but not limited to actual costs) associated with the review exceeds $1,000.00, Carrier agrees that it
+    will reimburse U.S. Bank for the additional amount identified by U.S. Bank, without regard to whether U.S. Bank
+    provides its approval.
+16. GOVERNING LAW AND VENUE. The laws of the state of Minnesota and applicable federal laws and regulations of
+    the United States apply to any dispute arising out of this Agreement, its subject matter, or its formation. Any dispute or
+    claim arising out of or related to this Agreement must be brought before a state or federal court located in the city of
+    Minneapolis, Minnesota.
+
+17. COMPLIANCE WITH APPLICABLE STATUTES AND REGULATIONS. The parties will maintain compliance with U.S.
+    Bank policy and all statutes, regulations, economic sanctions laws, anti-money laundering laws, and trade restrictions
+    imposed by the United States, United Nations, European Union or Canada applicable to the products and services
+    contemplated under this Agreement. U.S. Bank may require Identification Information for Carrier, its affiliates, and any
+    authorized signers, beneficial owners, End Users or directors of Carrier and its affiliates. Carrier shall promptly provide
+    any such required Identification Information to U.S. Bank.
+
+18. FORCE MAJEURE AND EXCUSABLE DELAY.
+    18.1  Except for any duty arising under the Agreement to make payments, neither party is responsible for delays or
+          failures in performance resulting from acts of God, acts of civil or military authority, fire, flood, strikes, war,
+          epidemics, pandemics, shortage of power, telecommunications or Internet service interruptions or other acts or
+          causes reasonably beyond the control of that party. The party suffering the force majeure event will (i)
+          implement its applicable disaster recovery plan to the extent appropriate and practicable; (ii) give the other
+          party prompt notice of the occurrence of a force majeure event; (iii) use diligent efforts to re-commence
+          performance as promptly as commercially practicable pursuant to its disaster recovery plan; and (iv) provide
+          periodic updates to the other party regarding its efforts to re-commence performance until performance has
+          re-commenced in accordance with the Agreement.
+    18.2  Either party may terminate the Agreement upon written notice to the other, if the non-terminating party is
+          unable to perform a material portion of its obligations as a direct result of a force majeure event described
+          in the immediately preceding paragraph for more than 30 consecutive days. Delay in either party's
+          performance is excused to the extent its performance is delayed solely due to an act or omission of the
+          other party.
+19. PRIOR AGREEMENT. Upon the Effective Date any prior agreement for the same products and services will be
+    automatically terminated, provided, however, that any payment obligations under the prior agreement shall survive.
+20. CHANGE IN TERMS OF THE AGREEMENT. U.S. Bank may change the terms and conditions of this Agreement at
+    any time upon written notice to Carrier. If permitted by applicable law, the changes will apply to existing balances as
+    well as future transactions. If Carrier refuses to accept the changes, Carrier must notify U.S. Bank in writing within 30
+    days from the date of the notice that it refuses to accept the changes and elects to terminate this Agreement. Should
+    Carrier terminate this Agreement pursuant to this section, all amounts due to U.S. Bank will immediately become due
+    and payable by Carrier to U.S. Bank, according to the terms of this Agreement.
+21. INTERPRETATION. The parties expressly agree this Agreement will not be construed more strongly against the
+    drafting party. This Agreement constitutes the entire agreement between the parties concerning the matters addressed
+    in this Agreement, and cancels and supersedes any prior agreements, undertakings, declarations or representations,
+    written or verbal, in respect thereof. Headings are inserted for convenience of reference only and do not affect the
+    construction or interpretation of this Agreement.
+22. SEVERABILITY. If any clause, provision or section of this Agreement, or any covenant, stipulation, obligation,
+    agreement, act or action, or part, assumed, entered into or taken under this Agreement is for any reason held to be
+    illegal, invalid or inoperable, such illegality, invalidity or inoperability will not affect the remainder of the Agreement.
+23. NO WAIVER. No failure or delay by either party to exercise any right, power or privilege provided under this Agreement
+    or by applicable law will operate as a waiver thereof; nor will any single or partial exercise of any such right, power, or
+    privilege preclude any other or future exercise thereof of the exercise of any other right, power or privilege.
+24. RELATIONSHIP. The relationship between the parties is that of independent contractors. Nothing contained in this
+    Agreement shall be construed as creating an agency, partnership, joint venture, or other form of joint enterprise,
+
+        Confidential                                     Page 11 of 14                                        R 9.2020
+    employment or fiduciary relationship between the parties, and neither party shall have authority to contract for or bind
+    the other party in any manner whatsoever. U.S. Bank shall not be deemed to be an agent, broker or other
+    representative of Carrier or any Shipper.
+
+25. RELATIONSHIP BETWEEN U.S. BANK AND THIRD PARTY SERVICE PROVIDERS. U.S. Bank may enter into
+    agreements with third parties for the purpose of marketing and advertising U.S. Bank’s products and services and
+    providing other services to U.S. Bank. U.S. Bank may compensate the third parties based on revenue generated
+    instead of a flat fee for such services. The products or services provided to Carrier pursuant to this Agreement may
+    include products or services subject to such compensation paid to third parties.
+
+26. DELEGATION. U.S. Bank may delegate duties herein to one or more third parties without Carrier approval or consent
+    so long as U.S. Bank remains responsible for the conduct of and payment to such third parties.
+
+27. NO THIRD-PARTY BENEFICIARIES OR CLAIMS. Except as stated in this Agreement, and with reference to any
+    successors or assigns, any services provided under this Agreement are for the sole and exclusive benefit of Carrier, if
+    any, and nothing in this Agreement will be deemed to create any third party beneficiary rights in any person or entity not
+    party to this Agreement.
+
+28. LEGAL COMPLIANCE. Carrier is solely responsible for its compliance with the terms of this Agreement, all applicable
+    laws, rules, and regulations governing the provision of goods and/or services. Carrier is also solely responsible to
+    consignors, consignees, its agents, governmental agencies or any other persons or entities seeking to enforce such
+    laws, rules, or regulations. U.S. Bank is solely responsible for its compliance with the terms of this Agreement and all
+    applicable laws, rules, and regulations governing banking services. If one party alleges the other party violated such
+    laws, rules, or regulations the alleged violating party shall indemnify and hold the other party harmless against any
+    liability, claims, damages, losses, costs, expenses (including reasonable attorney fees) or arising out of any alleged or
+    actual act or omission of the alleged violating party or its Representatives.
+
+29. CUMULATIVE REMEDIES. Except as expressly provided elsewhere in this Agreement, each party's rights and
+    remedies under this Agreement are cumulative and in addition to, not exclusive of or in substitution for, any rights or
+    remedies otherwise available to that party.
+
+30. JURY TRIAL WAIVER. THE parties waive all rights to trial by jury in any proceeding relating to this Agreement.
+
+31. INCORPORATION. The following are incorporated into the Agreement by reference as if set out at length:
+    31.1  U.S. Bank Freight Payment Service for Carriers Application; and
+    31.2  Schedule 1 – Program Fees.
+
+    AUTHORIZATION AND EXECUTION.
+       This Agreement may be executed and delivered electronically, and fully executed electronic versions of this
+       Agreement, or reproductions thereof, will be deemed to be original counterparts. The signer represents and
+       warrants that (i) he or she is authorized by an applicable bylaw, article or other corporate authority to enter into all
+       transactions contemplated by this Agreement, and (ii) the signatures appearing on all supporting documents of
+       authority are authentic.
+
+
+  Signed this             Day of             20
+                  (day)            (month)    (year)
+
+
+  (Legal Name of Carrier)
+
+  (Signature of Authorized Signer)
+
+  (Printed Name of Authorized Signer)
+
+  (Printed Title of Authorized Signer)
+
+
+
+        Confidential                                     Page 12 of 14                                       R 9.2020
+                                                         14
+    Schedule 1 – Program Fees
+  1.      DISCOUNT FEE.
+         Carrier is charged a fee (the “Discount Fee”) for each Accelerated Payment. Payment of such Discount Fee is made through a deduction
+         from the amount remitted to Carrier. The Discount Fee is calculated as percentage of the face value of the invoice approved for payment.
+         The amount of the Discount Fee is calculated using a base rate identified in the table below (“Base Rate”) based upon the Shipper’s service
+         model (either Advanced Model or Tier One Model) and is adjusted upwards as described in 2(A), 2(B) and 2(C) below.
+
+                                                                                   Advanced Model
+                                                   Base Rate                       1%
+
+  2.           ADJUSTMENTS TO THE DISCOUNT FEE.
+               U.S. Bank may adjust the Discount Fee under any or each of the following conditions.
+               A.         Prime Rate Adjustments.
+                          (i)    The Discount Fee may be adjusted by U.S. Bank without notice to Carrier based on the Wall Street Journal
+                                 Prime Rate on the first business day of each month if such rate exceeds 6% for Advanced Model Shippers or
+                                 3% for Tier One Model Shippers (each rate the “Floor Rate”).
+                         (ii)    For every 0.25% band that the Wall Street Journal Prime Rate exceeds the applicable Floor Rate, the Discount
+                                 Fee will increase by two and one-half basis points. Illustrated below is the total Discount Fee composed of the
+                                 Base Rate plus the adjustment based upon the Prime Rate.
+
+                                              The Wall Street Journal Prime Rate               Advanced Model
+
+                                              <6.00%                                               1.00%
+                                              6.00% – 6.24%                                        1.025%
+                                              6.25% – 6.49%                                        1.05%
+                                              6.50% – 6.74%                                        1.075%
+                                              6.75% – 6.99%                                        1.10%
+
+           The Prime Rate and applicable adjustments to the Discount Fee go higher with each 0.25% band with no maximum.
+           B.       Adjustments based on Shipper/Carrier Agreement Payment Terms.
+                    If the Shipper/Carrier Agreement payment terms on a transaction under the Advance Model provide for payment greater than
+                    30 days, the Discount Fee for such transaction will be adjusted upwards an additional percentage as set forth in the table
+                    below to account for the extended terms and cost of funds.
+
+                           Transaction Agreement Payment Terms Number
+                                                                                      Increase for Advanced Model
+                                             of Days
+
+                               Up to and including 30 Days                                       0.00%
+
+                               31 – 45 Days                                                      0.25%
+
+                               46 – 60 Days                                                      0.50%
+
+                               61 – 75 Days                                                      0.75%
+
+                               76 – 90 Days                                                      1.00%
+
+           C.       Adjustments based upon Carrier Exemption of Certain Shippers.
+                    Carrier agrees to process all payment requests for Platform-capable Shippers through the Program. However, if Carrier
+                    elects, and U.S. Bank permits, to have the transactions with one or more Shippers processing on the Platform exempt from
+                    the Program, then U.S. Bank reserves the right to increase the Discount Fee by up to one hundred basis points (1%) for all
+                    other transactions submitted and paid to Carrier through the Program.
+
+
+
+
+Confidential                                                     Page 13 of 14                                                  R 9.2020
+  3.   ACCESS FEES.
+
+                                                                   TABLE C
+
+               Description                                   Unit of Measure                            Fee
+               base transaction fee                          each approved payment                                 $0.25
+               freight analytics workbench                   monthly, per user                                    custom
+               data storage fees (on line storage)
+               transaction data for 25 months                                                                     included
+
+               images for 6 months                                                                                included
+               non-compliant transaction data 1              per shipment                                           $0.25
+               specific funds transfer 2                     per approved payment                                actual cost
+               remittance account administration3            per remittance account modification                    $25.00
+               declined transaction 4                        per item                                               $30.00
+               custom services 5                             per hour + expenses                                   $150.00
+
+
+  1    U.S. Bank does not make use of Value Added Networks (“VANs”) for receiving data from or delivering data to Carriers. If Carrier elects
+       to deliver data to or receive data from the Platform via VAN, Carrier will be billed by VAN for both originator and receiver charges.
+
+  2    If Carrier requests use of a specific funds transfer mechanism that is not one of U.S. Bank’s standard global funds transfer
+       mechanisms, such as a SWIFT wire, Carrier shall reimburse U.S. Bank for the actual cost of these funds transfers.
+  3    U.S. Bank will charge a remittance account administration fee each time Carrier requests a change to the Agreement for the purpose
+       of ongoing service and support such as changes to remittance account information, or to add or change Standard Carrier Alpha Codes
+       (“SCAC”).
+  4
+       U.S. Bank will charge Carrier or affiliate a declined transaction fee if U.S. Bank is unable to process a transaction as a result of Carrier
+       providing an invalid or closed remittance account.
+
+  5    U.S. Bank will assess custom services fees for custom services outside the scope of standard set up. Such services may include but
+       shall not be limited to: data mapping beyond the appropriate ANSI X12 version 4010 interchange specification, Carrier-specific
+       Platform training, writing reports, or consulting services. U.S. Bank will provide Carrier a written estimate of such custom service fee
+       prior to providing any custom services.
+
+
+
+
+Confidential                                                 Page 14 of 14                                                     R 9.2020
+

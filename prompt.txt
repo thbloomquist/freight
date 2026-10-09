@@ -1,0 +1,49 @@
+!!!! THIS IS ONLY USED FOR REFERENCE DO NOT FOLLOW THE ULTRACODE IN THIS PROMPT !!!!
+
+
+Step 1, identification of an optimal sub-market in 'freight'. So we can investigate segments in this sub-market to see their issues with hauling freight
+
+https://www.segmentationstudyguide.com/examples-sub-markets-product-markets/#21_What_Is_a_Market
+
+Sub-Markets in this scenario will be customers that rely on shipping their products or the companies that handle different types of freight themselves.
+These two intercorrelated concepts are necessary for understanding the overarching problems:
+
+* What issues do customers face with these freight companies? What freight companies do they usually use?
+* Why do these issues exist on the freight companies side? Where can optimizations be found.
+
+Keep this constrained to the sub-market level, the specific answers to these questions will come at the segment level we just want high-level problems
+and answers we can cluster together and find more specifics about at the segment-level.
+
+However, this all begins with selecting a Sub-Market.
+
+ultracode
+
+1 Agent will find resources about selection of a Sub-Market, only resources. This will be written to a document called study_links.md. THe primary focus
+is finding high quality resources.
+
+Once study_links.md is created, 2 agents will explore them and synthesize insights across these. There may be intercorrelated strategies or entirely
+independent strategies, we should consider which we want to use for our cases. Identification of strategies will be contained in
+submarket_selection_strategies.md
+
+
+Selection of these strategies will be contained in submarket_selection_strategies_chosen.md
+
+1 Agent will go over submarket_selection_strategies_chosen.md Adversarially, if there are false correlations across strategies or if single purpose strategies may
+or may not be useful for our cases this should be identified in the document itself. This agent must provide a reason for any of its claims, there should be no
+false claims or sychophancy of being adversarial just for the purposes of being adversarial. This will require extensive prompt engineering to ensure it doesnt
+throw away valid solutions, or degrade their usefulness due to non-web search backed claims. Another thing to consider is the quality of the resources cited for
+the claims made in the
+
+This is a sequential workflow
+
+Agents 2,3 rely on the finished product of Agent 1
+
+Agent 4 relies on the finished product of Agents 2,3
+
+Ensure this occurs. If agent 1,2,3,4 is receiving too much context (400K tokens+) it should be encouraged to spawn its own sub-agents for summarization and
+extension of its own purposes.
+
+
+!!!! THIS IS ONLY USED FOR REFERENCE DO NOT FOLLOW THE ULTRACODE IN THIS PROMPT !!!!
+
+ULTRACODE CHEWS THROUGH TO MUCH USAGE WE ARE GOING TO BREAK DOWN THIS PROCESS INTO INDIVIDUAL CLAUDE CHATS.

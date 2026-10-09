@@ -1,0 +1,422 @@
+Full Report on the Uniform Shipment Law
+Proposal
+National Council on Weights and Measures (NCWM)
+
+
+
+Prepared by:
+
+The Uniform Shipment Law Task Group
+
+
+
+Mission Statement:
+
+To ensure transparent, equitable, and accountable shipment practices.
+
+
+
+Uniform Shipment Law Task Group
+Date:
+
+July 2025
+
+
+
+
+Full Report on the Uniform Shipment Law
+Proposal – NCWM
+Executive Summary
+The Uniform Shipment Law Task Group, under the National Council on Weights and Measures
+(NCWM), aims to harmonize oversight of the weighing and measuring practices within the
+shipping industry across states to address substantiated consumer complaints and inconsistencies
+in the weighing, measuring, and classification of shipments. Since its first meeting on May 1,
+2024, the Task Group has worked diligently to develop a comprehensive proposal that outlines
+the framework for a unified approach to shipping practices as it relates to weights and measures.
+This report delves into the background and purpose of the law, analyzes key components,
+highlights challenges and considerations, and provides a detailed implementation plan. The
+proposed law seeks to create a transparent, equitable, and accountable shipping environment,
+ensuring impartiality and fostering trust within the industry.
+
+Index
+   1.  Introduction
+   2.  Historical Context
+   3.  Background and Purpose
+   4.  Challenges and Considerations
+   5.  Suggestions for Improvement
+   6.  Stakeholder Engagement
+   7.  Key Points from the Updated Proposal
+   8.  Detailed Implementation Plan
+           o Phase 1: Planning and Stakeholder Engagement
+           o Phase 2: Development of Uniform Shipment Law Regulation
+           o Phase 3: Regulatory Framework and Compliance Mechanisms
+           o Phase 4: Guideline Development
+           o Phase 5: Training and Education
+           o Phase 6: Pilot Implementation and Feedback
+           o Phase 7: Full Implementation
+           o Phase 8: Implementation Process Review
+   9. Definitions Section
+   10. Legal Framework
+   11. Budget and Resource Allocation
+   12. Metrics for Success
+   13. Technological Integration
+   14. Conclusion
+   15. Appendices
+   16. References
+
+Introduction
+The Uniform Shipment Law Task Group, convened by the NCWM, is committed to establishing
+a unified approach to shipping practices as it relates to weights and measures across the United
+States. This initiative is a response to the increasing number of consumer complaints regarding
+inconsistencies in the weighing, measuring, and classification practices. The Task Group's first
+meeting on May 1, 2024, marked the official start of this critical project, aiming to create a
+cohesive framework that ensures fairness and accountability in the shipping industry.
+
+Historical Context
+Shipping practices in the United States have evolved significantly over the past century, with
+various state and federal laws attempting to address the complexities of interstate and
+international trade. Historically, the lack of uniformity has led to confusion, inefficiencies, and,
+in some cases, exploitation of entities within the shipping industry. The formation of the NCWM
+and its role in standardizing weights and measures across states was imperative in creating
+consistency. However, the modern shipping industry, with its advanced technologies, logistics
+and global reach, has impacted the shipping industry which necessitates a more unified approach.
+The Uniform Shipment Law is an attempt to address gaps left by existing practices and to create
+a framework that reflects the realities of today's shipping environment.
+
+Background and Purpose
+The proposal stems from substantiated consumer complaints in New Hampshire regarding
+incorrect reweighs, remeasures, and reclassification of goods, particularly in the Less-Than-
+Truckload (LTL) industry. These issues were exacerbated since current weights and measures
+practices do not require the necessary documentation to ensure a thorough and complete
+investigation. The primary goal of the Uniform Shipment Law is to ensure the accurate
+measurement and equitable practices in the shipment of goods. By creating a uniform set of
+standards, the law aims to eliminate the discrepancies that currently disrupt the industry and
+allows for the provision of a clear, enforceable framework for all stakeholders.
+
+Challenges and Considerations
+For the implementation of the Uniform Shipment Law, the task group would like to consider the
+following challenges:
+   •   Determination of Freight Classes: One of the primary issues identified by shippers is
+       how to determine freight class and how to understand why reclassification may be
+       applied.
+   •   Inaccuracies in Reweighing, Remeasuring, and Reclassifying: An example is the use
+       of inaccurate reweighing practices when using forklift scales that are not zeroed or are
+       out of tolerance prior to a transaction which may affect the weight and subsequent
+       reclassification of said handling unit.
+   •   Complexity of Managing Multiple Standards: The current patchwork of state
+       regulations makes it difficult for logistics service providers and shippers to navigate the
+       legal landscape, leading to inconsistencies and confusion. The Uniform Shipment Law
+       seeks to simplify this by creating a single set of standards that may be adopted
+       nationwide. Implementation and enforcement of these standards will require careful
+       coordination with various stakeholders; including industry and state and local authorities.
+   •   Enforcement of Standards: Ensuring that the law is effectively enforced will be critical
+       to its success. This will involve training enforcement officials, developing clear
+       procedures for inspections and audits, and establishing a system for handling complaints
+       and disputes. The proposal outlines a comprehensive enforcement strategy, but its
+       effectiveness will depend on the resources and commitment of state and local authorities.
+
+Suggestions for Improvement
+   1. Standardize Procedures: The proposal includes a comprehensive set of standardized
+      procedures for reweighing and remeasuring shipments. These procedures are designed to
+      eliminate inconsistencies and ensure that all measurements are accurate and consistent
+      with NCWM standards. However, ongoing feedback from stakeholders will be essential
+      to refining these procedures and addressing any unforeseen challenges.
+   2. Strengthen Compliance: Regular audits and inspections are critical to ensuring
+      compliance with the law. Additional resources may be needed to ensure that audits and
+      inspections are carried out effectively. Strengthening the enforcement mechanisms and
+      providing adequate training for inspectors will be crucial to the success of the law.
+   3. Improve Equity: The proposal includes several provisions designed to protect all parties
+      involved, including requirements for detailed shipment documentation and transparency
+      which will help when resolving disputes and enhance equity in the shipping industry.
+   4. Incorporate Stakeholder Feedback: The proposal has been developed with input from a
+      wide range of stakeholders, including industry representatives, consumer advocacy
+      groups, and regulatory bodies. However, ongoing engagement with these stakeholders
+      will be essential to ensuring that the law remains relevant and effective as the shipping
+      industry evolves. Regular consultations and feedback mechanisms should be established
+      to allow stakeholders to voice their concerns and suggest improvements.
+
+Stakeholder Engagement
+Stakeholder engagement is a critical component of the Uniform Shipment Law, ensuring that the
+perspectives and concerns of all relevant parties are considered throughout the development and
+implementation process. The task group is composed of representatives from various sectors of
+the shipping industry, consumer advocates, as well as weights and measures officials,
+Measurement Canada, and a NIST OWM representative. Ongoing engagement with stakeholders
+is critical to refining the proposal and ensuring its successful implementation. The feedback loop
+will also include regular updates and consultations to address any emerging challenges during
+the implementation phase.
+
+
+
+Stakeholder Perspectives
+
+   •   Small Businesses: Small businesses have been among the most vocal proponents of the
+       Uniform Shipment Law, citing numerous instances where there has been inconsistent
+       reweighing, remeasurement, and classification practices. Unclear shipping documentation
+       has resulted in unexpected costs for shippers and challenges in conducting effective
+       weights and measures investigations. Their feedback has been instrumental in shaping the
+       provisions of the Uniform Shipment Law proposal.
+   •   Regulatory Bodies: State and federal regulatory bodies have expressed support for the
+       law, noting that it will provide much-needed clarity and consistency in the shipment of
+       goods. They have also highlighted the importance of adequate training and resources to
+       ensure effective oversight.
+   •   Consumer Advocates: Consumer advocates welcome the law as a significant step
+       forward in protecting consumers from unfair shipping practices. However, they have also
+       emphasized the need for mechanisms to handle consumer complaints, conduct audits, and
+       resolve disputes quickly and fairly.
+   •   Industry Representatives: While industry representatives have expressed concerns
+       about the potential costs and administrative burden of complying with the Uniform
+       Shipment Law, they have also acknowledged the benefits of having a clear and consistent
+       set of standards. Their input has been crucial in ensuring that the law is practical and
+       workable for businesses of all sizes.
+
+Key Points from the Updated Proposal
+The updated proposal includes several key components designed to create a transparent,
+equitable, and accountable shipping environment. These components are outlined below:
+
+   •   Purpose: The law aims to ensure transparent, equitable, and accountable shipment
+       practices across the United States.
+   •   Scope: The law establishes an enforcement program, empowers states to promulgate
+       necessary oversight, and provides for both civil and criminal penalties to ensure
+       compliance.
+   •   Definitions: The proposal includes detailed definitions for critical terms. These
+       definitions are crucial for ensuring a common understanding and consistent application
+       for all stakeholders.
+   •   Enforcing Official: The Director is authorized to enforce the provisions of the law and
+       adopt rules necessary for its implementation.
+   •   Weighing and Measuring Guidelines: The proposal requires the use of measuring
+       systems that have been approved for use in accordance with NCWM adopted standards.
+       Additionally, it requires specific documentation on inspection certificates, ensuring that
+       all information is available to follow-up on investigations.
+   •   Prohibited Acts: The law outlines specific unlawful practices, including providing false
+       shipment data, use of incorrect measuring systems, and obstructing enforcement officials.
+   •   Penalties: The proposal details both civil and criminal penalties for violations, providing
+       a clear framework for enforcement. The penalties are structured to deter non-compliance.
+
+Detailed Implementation Plan
+The implementation plan for the Uniform Shipment Law, which began in April of 2024 is
+designed to be phased in over a period of 5 years, with each phase building on the previous one.
+These phases are crucial for laying the groundwork for the law and involve the following steps:
+
+   1. Phase 1: Planning and Stakeholder Engagement (Months 1-12)
+         o Identify and engage key stakeholders to be part of the Uniform Shipment Law
+             Task Group, including industry representatives, consumer advocacy groups, and
+             regulatory bodies.
+         o Conduct stakeholder meetings and consultations to gather input and build
+             consensus on the proposal.
+         o Draft the regulatory framework for the uniform law, including specific provisions
+             for enforcement and penalties.
+         o Submit updated Uniform Shipment Law proposal to both the NCWM L&R Chair
+             and the NCWM Executive Director.
+   2. Phase 2: Development of Uniform Shipment Law Regulation (Months 12-24)
+         o Address detailed standardized procedures for audits, testing multi-dimensional
+             units, and software used in the reweighing, remeasuring, and reclassifying of
+             shipments.
+   3. Phase 3: Regulatory Framework and Compliance Mechanisms (Months 24-32)
+         o Create templates and documentation that will assist weights and measures
+             officials with audits and inspection protocols, to ensure that the law is effectively
+             enforced.
+
+Subsequent phases will focus on policy, training, pilot implementation, and full rollout:
+
+   4. Phase 4: Guideline Development for Shippers and Logistics Service Providers
+      (Months 24-32)
+         o Create a set of clear guidelines for shippers and logistics service providers on
+             legal requirements, including documentation, packaging, labeling, and reporting
+             obligations, in preparation for compliance with the Uniform Shipment Law.
+   5. Phase 5: Training and Education (Months 24-36)
+         o Develop training materials and programs for weights and measures officials and
+             other stakeholders.
+   6. Phase 6: Pilot Implementation and Feedback (Months 36-48)
+           o Implement the new regulations in a pilot phase with selected states, allowing for
+             real-world testing and feedback.
+         o Gather feedback from stakeholders and weights and measures officials to identify
+             any issues or challenges that arise during the pilot phase, and make necessary
+             adjustments.
+   7. Phase 7: Full Implementation (Months 36-60)
+         o Roll out the Uniform Shipment Law across all states who have adopted the latest
+             version of NIST Handbook 130 or affiliated section of the Uniform Shipment
+             Law, ensuring that all stakeholders are aware of and comply with the new
+             regulations.
+         o Launch awareness campaigns to educate consumers about the new regulations and
+             their rights under the law.
+   8. Phase 8: Implementation Process Review (Months 60+)
+         o Monitor the implementation process, providing ongoing support and training as
+             needed, and making adjustments as necessary based on feedback and emerging
+             trends.
+
+
+
+
+Definitions Section
+The following definitions are included in the proposal to ensure clarity and consistency in the
+application of the law:
+
+   •   Bill of Lading (BOL) / Waybill: A legal instrument used in the transportation and
+       shipment industries which lists the freight being shipped and the terms under which they
+       will be delivered.
+   •   Carrier: A person, company, or entity engaged in handling, transporting, or delivering
+       freight as part of a commercial transaction.
+   •   Freight: Goods or cargo transported by truck, train, ship, or aircraft for commercial
+       purposes.
+   •   Freight Class: A system that groups freight into categories based on four factors:
+       density, handling, stowability, and liability.
+   •   Freight Quote: Documentation provided by a logistics service provider that outlines the
+       cost of transporting goods from one location to another, based on factors such as weight,
+       dimensions, distance, and shipping method.
+   •   Handling Unit: A single item or group of items that are packaged together and handled
+       as a single unit throughout the shipping process. Handling units refer to packages or
+       containers. These units are designed to facilitate the efficient and safe transportation,
+       storage, and management of goods. They can vary in size and form.
+   •   Inspection Certificate: A document used to signify that shipped freight has been
+       inspected pertaining to classification, density, weight, volume, quantity, or measure.
+   •   Logistics Service Provider (LSP): An entity that offers logistics-related services such as
+       transportation, warehousing, freight forwarding, or supply chain coordination on behalf
+       of another party. This includes, but is not limited to, carrier, third party logistics provider,
+       freight forwarder, and consignee (receiver of goods).
+   •   Measuring System: device or combination of devices, including equipment and
+       software, used to measure and record the density, weight, volume, quantity, or
+       measurement of freight, as approved by the jurisdiction where the system is used.
+       National Motor Freight
+   •   Classification (NMFC) Code: A numeric code used in the U.S. freight industry to
+       classify goods for shipping.
+   •   Progressive Number (Pro / Tracking Number): A unique numeric identifier issued by
+       a carrier for identification and tracking of a shipper’s specific order.
+   •   Shipment: A quantity of goods shipped with a logistics service provider.
+   •   Shipper: Individuals or businesses that send or request goods using a logistics service
+       provider.
+   •   Terminal or Service Center: A facility designated for managing and coordinating the
+       movement of trucks and goods, and may facilitate the assessment of goods for weight,
+       measure, and freight classification.
+   •   Unique Identifier: A distinct code or number assigned by a logistics service provider to
+       identify an individual, entity, document, or item within a specific operational or shipment
+       tracking system.
+   •   Director: The __________ of the Department of __________.
+
+Legal Framework
+The proposal includes provisions for clear definitions, uniform standards for weighing and
+measuring shipments, transparency requirements, compliance mechanisms, and penalties for
+violations. It also addresses coordination with international shipping regulations to facilitate
+cross-border trade. The legal framework is designed to be adaptable, allowing for updates and
+modifications as needed to address new challenges or changes in the industry.
+
+Key Legal Provisions
+
+   •   Enforcing Official: The Director is authorized to enforce the provisions of the law, issue
+       regulations, and adopt rules necessary for its implementation. This includes the power to
+       conduct audits and inspections, impose penalties, and take legal action against non-
+       compliant entities.
+   •   Weighing and Measuring Practices: Logistics service providers and shippers are
+       required to use weighing and measuring devices that are approved by the jurisdiction’s
+       Weights and Measures Officials. This ensures that all measurements are accurate and
+       consistent.
+   •   Prohibited Acts: The law outlines specific prohibited acts, including providing false
+       commodity descriptions, classifications, weights, or measurements, and using
+       unapproved or fraudulent devices. Violations of these provisions can result in both civil
+       and criminal penalties.
+   •   Penalties: The proposal includes a structured system of penalties for non-compliance,
+       depending on the severity of the violation. The law also provides for administrative
+       hearings and appeals, ensuring that entities have the opportunity to contest penalties
+       before they are enforced.
+   •   Consumer Rights and Protections: The law includes provisions to protect consumer
+       rights, including the right to accurate information about shipments, the right to dispute
+       incorrect charges, and the right to compensation for losses resulting from fraudulent
+       practices.
+   •   International Coordination: To facilitate cross-border trade, the law is designed to be
+       compatible with international shipping regulations. This includes provisions for
+       coordinating with international bodies. and aligning U.S. standards with those of other
+       countries where appropriate.
+
+Necessary Resource Evaluation
+Efficient resource allocation will be key to the successful implementation and enforcement of the
+law, ensuring that all relevant parties are adequately supported.
+
+Considerations
+
+   •   Training and Education: Expenses related to developing training materials and
+       programs for inspectors, shippers, logistics service providers, and other stakeholders, as
+       well as conducting awareness campaigns for consumers.
+   •   Enforcement: Staffing resources associated with conducting audits and inspections,
+       investigating complaints, and taking legal action against non-compliant entities.
+   •   Technology: Allowances for future advancements in determining accurate weights and
+       measures.
+   •   Ongoing Support and Maintenance: Infrastructure development and maintenance of
+       stakeholders’ systems and processes necessary to comply with the requirements of the
+       Uniform Shipment Law.
+
+Metrics for Success
+Success metrics include reductions in consumer complaints, improved compliance rates, and
+increased transparency in shipment processes. Regular reporting and assessment will ensure
+continuous monitoring and adaptation based on feedback. These metrics will be used to gauge
+the effectiveness of the law and guide any necessary adjustments.
+
+Key Metrics
+
+   •   Reduction in Consumer Complaints: A measurable decrease in the number of
+       complaints related to inaccurate reweighs, remeasures, and reclassification issues.
+   •   Compliance Rates: The percentage of shippers and logistics service providers that
+       comply with the requirements of the law, as determined through audits and inspections.
+   •   Transparency in Shipment Processes: Improvements in the transparency of shipment
+       processes, including the availability of accurate documentation. Logistics service
+       providers must adhere to debits and credits when reweighs and remeasures are
+       determined. Proper and correct documentation ensures that all parties are informed of
+       any changes, leading to more efficient operations, reduced disputes, and adherence to
+       regulatory standards.
+   •   Stakeholder Satisfaction: Increased satisfaction with the shipment process, as measured
+       through surveys and feedback mechanisms.
+   •   Enforcement Outcomes: The number of enforcement actions taken, including fines and
+       penalties are reduced.
+
+Technological Integration
+Technology is crucial in implementing the uniform law, including the use of devices and
+software that are approved by the jurisdiction’s Weights and Measures Officials for tracking
+shipments and ensuring accurate measurements, ultimately benefiting all parties involved.
+
+Emerging Technologies
+
+   •   Automated Weighing Systems: The use of automated systems to weigh and measure
+       shipments accurately, reducing the potential for human error and fraud.
+   •   Artificial Intelligence (AI): AI-powered tools for analyzing shipment data, identifying
+       patterns and anomalies, and predicting potential compliance issues before they occur.
+   •   Data Analytics: The use of data analytics to monitor compliance, track trends, and
+       generate insights that can be used to improve the implementation and enforcement of the
+       law.
+
+Conclusion
+The Uniform Shipment Law represents a significant step forward in improving the transparency,
+fairness, and efficiency of the shipping industry. By addressing inconsistencies and enhancing
+equitable trade practices, the law will foster greater trust in the shipment of goods and help
+ensure that all stakeholders are treated fairly. The implementation plan outlines a structured
+approach to achieving these goals, with active stakeholder engagement and a focus on education
+and training. As the law is rolled out, ongoing monitoring and adaptation will be essential to its
+success, ensuring that it remains relevant and effective in the face of changing industry
+dynamics.
+Guidance and Considered Documents
+  1. Airline Deregulation Act of 1978
+  2. Forklift Scale Inspections conducted by Central PA Weights and Measures officials:
+      July 29, 2024.
+  3. National Motor Freight Traffic Association, Inc. (2016). Petition for Suspension and
+      Investigation: Opening Comments of National Motor Freight Traffic Association, Inc.
+      Docket No. ISM 35008, Surface Transportation Board. Filed September 12, 2016.
+  4. National Motor Freight Traffic Association, Inc. (2016). Petition for Suspension and
+      Investigation: Reply Comments of National Motor Freight Traffic Association, Inc.
+      Docket No. ISM 35008, Surface Transportation Board. Filed October 3, 2016.
+  5. National Motor Freight Traffic Association, Inc. v. General Services
+      Administration. (2014). Memorandum Opinion. United States District Court, District of
+      Columbia, No. 1:2013cv00429, Document 33. Signed by Judge Amy Berman Jackson.
+      Filed September 22, 2014.
+  6. NMFC Code
+  7. NMFTA Classification Guidelines and Standards
+  8. Pipeline and Hazardous Materials Safety Administration. (2009). Hazardous
+      Materials Regulations (HMR) Interpretation Letter. Ref. No. 08-0137. Issued February 6,
+      2009.
+  9. Terms and Conditions of Service from various carriers.
+  10. United States v. Roadway Express, Inc. (1:08-cv-00811)
+  11. White House. (2024). Fact Sheet: President Biden Announces New Actions to Lower
+      Costs for Americans by Fighting Corporate Rip-Offs. Washington, D.C. Released March
+      5, 2024.
+  12. 49 U.S. Code § 14101 - Providing transportation and service. (2021). U.S. Code, Title
+      49, Chapter 135.
+13. 49 U.S. Code § 80113 - Liability for nonreceipt, misdescription, and improper
+    loading. (2002). U.S. Code, Title 49, Chapter 801.
+14. 49 U.S. Code § 80116 - Criminal Penalty. (2011). U.S. Code, Title 49, Chapter 801.
+

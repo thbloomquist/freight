@@ -1,0 +1,177 @@
+agent,query_or_url,where,outcome,note
+C,https://arcb.com/sites/default/files/forms_and_documents/OverchargeClaimForm%20-%20Fillable2017.pdf,download,,"http 200 199910 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://rl-cdn.com/docs/rlc/shipping-forms/overcharge-claim-form.pdf,download,,"http 200 74915 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://my.cassport.com/tutorial/FBAEnhancementsTutorial.pdf,download,,"http 200 1003800 bytes PDF document, version 1.4, 7 pages"
+C,"q: ""ST*210*"" ""B3*"" ""N1*"" sample EDI 210 interchange",websearch,,"Stedi guides (Imperative, CNG, James), XPO 210_spec.pdf, Insight 210 guide, TrueCommerce"
+C,"q: ""CzarLite"" ""FAK"" ""discount"" LTL contract award site:.edu/.gov",websearch,,only SMC3 marketing
+C,"q: ""absolute minimum charge"" LTL contract award state university",websearch,,"Univ of Utah UPS LTL contract page (86.2% discount, 03 AMC)"
+C,q: GSA Notice of Overcharge form sample 41 CFR 102-118,websearch,,"FR 2024-27565 rule PDF, FR 2000 rule, CBCA rate decisions; no form"
+C,q: NTEP certificate Cubiscan dimensioner ncwm,websearch,,"Rice Lake 19-076A5, Mettler TLD250 22-090, CSN210; no Cubiscan NTEP"
+C,q: TForce Freight invoice guide,websearch,,"only EDI 210/211 specs, tariffs"
+C,https://www.xpo.com/cdn/files/s8/210_spec.pdf,download,,"http 200 58734 bytes PDF document, version 1.3, 18 pages"
+C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-210-guidelines.pdf,download,,"http 200 59977 bytes PDF document, version 1.3, 15 pages"
+C,https://www.ricelake.com/media/mqdbc0of/19-076a5.pdf,download,,http 404 0 bytes empty
+C,https://mt.com/dam/ind/IND_PDF/2024/tld250/NTEP%20certificate.pdf,download,,"http 200 455815 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://www.mt.com/dam/mt_ext_files/Editorial/Generic/0/CSN910_certificate_US_CA_NTEPlegal_for_trade_Editorial-Generic_1165324592236_files/ntep_legal_for_tradecertificate.pdf,download,,"http 200 119799 bytes PDF document, version 1.3, 2 pages"
+C,https://govinfo.gov/content/pkg/FR-2024-11-26/pdf/2024-27565.pdf,download,,"http 200 214327 bytes PDF document, version 1.7, 2 pages"
+C,https://www.tforcefreight.com/downloads/TFF-211-4010.pdf,download,,"http 200 387383 bytes PDF document, version 1.5, 11 pages"
+C,https://www.ricelake.com/media/p1fnbv44/19-076a4.pdf,download,,http 404 0 bytes empty
+C,https://www.ricelake.com/media/p1fnbv44/19-076a5.pdf,download,,http 404 0 bytes empty
+C,q: EDI 210 guide SEFL/ODFL/Saia/Averitt/Dayton/Pitt Ohio,websearch,,"FedEx EDI invoicing overview guide, FedEx 4060 guide, CN (rail); no SEFL/ODFL/Saia/Averitt PDFs"
+C,q: LTL contract award Sourcewell/NASPO/E&I/OMNIA/TXMAS/WA DES,websearch,,only Utah UPS page again; Sourcewell courier RFP
+C,q: DTR Part II billing disputes TPPS Syncada,websearch,,"DFAS 1998 freight billing instructions (webharvest), DoD FMR Vol10 Ch13, GAO B-261127"
+C,q: weight and inspection certificate sample image,websearch,,vendor blogs only; Rice Lake article
+C,q: ODFL/Estes/Saia/FedEx Freight how to read freight bill guide,websearch,,generic vendor guides only
+C,q: USPS OIG freight audit HCR,websearch,,"USPS OIG 22-202-R23, 20-295-R21, no-ar-14-012"
+C,https://www.fedexfreight.com/content/dam/web/us/documents/fedex-edi-invoicing-and-remittance-overview-guide-april2021.pdf,download,,"http 200 777514 bytes PDF document, version 1.7, 47 pages"
+C,https://www.fedex.com/content/dam/fedex/us-united-states/services/FedEx_210-820_X12-4060_EDI_Implementation_Guide-January2022.pdf,download,,"http 200 1255642 bytes PDF document, version 1.7, 45 pages"
+C,https://webharvest.gov/peth04/20041017043416/http:/www.dfas.mil/money/transpay/freight.pdf,download,,"http 200 4451 bytes HTML document, Unicode text, UTF-8 text"
+C,https://webharvest.gov/peth04/20041017043416/http:/www.dfas.mil/money/transpay/ppbi.pdf,download,,"http 200 4451 bytes HTML document, Unicode text, UTF-8 text"
+C,https://comptroller.defense.gov/portals/45/documents/fmr/current/10/10_13.pdf,download,,"http 403 454 bytes HTML document, ASCII text"
+C,https://www.uspsoig.gov/sites/default/files/reports/2023-04/22-202-r23.pdf,download,,"http 200 6706620 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://www.uspsoig.gov/sites/default/files/reports/2023-01/20-295-R21.pdf,download,,"http 200 2594212 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://www.govinfo.gov/content/pkg/GAOREPORTS-B-261127/pdf/GAOREPORTS-B-261127.pdf,download,,"http 200 107893 bytes PDF document, version 1.1, 6 pages"
+C,https://www.ricelake.com/media/4gafs0ma/arti_idim_freightundercontrol_en-us_rev-a_web.pdf,download,,"http 200 535595 bytes PDF document, version 1.4, 0 pages"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/1.EDI,download,,http 200 3436 bytes ASCII text
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/2.EDI,download,,"http 200 1705 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/3.EDI,download,,"http 200 2424 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/4.EDI,download,,"http 200 910 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/5.EDI,download,,"http 200 2430 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/6.EDI,download,,"http 200 933 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/7.EDI,download,,"http 200 920 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/8.EDI,download,,"http 200 3456 bytes ASCII text, with very long lines (3456), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/9.EDI,download,,"http 200 5728 bytes ASCII text, with very long lines (5728), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/10.EDI,download,,"http 200 1055 bytes ASCII text, with very long lines (1055), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/11.EDI,download,,"http 200 4746 bytes ASCII text, with very long lines (4746), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/12.EDI,download,,"http 200 2202 bytes ASCII text, with very long lines (2202), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/13.EDI,download,,"http 200 1502 bytes ASCII text, with very long lines (1502), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/14.EDI,download,,"http 200 2235 bytes ASCII text, with very long lines (2235), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/1.EDI,download,,http 200 504 bytes ASCII text
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/2.EDI,download,,"http 200 5200 bytes ASCII text, with very long lines (5200), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/3.EDI,download,,"http 200 2186 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/4.EDI,download,,"http 200 476 bytes ASCII text, with very long lines (476), with no line termina"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/5.EDI,download,,"http 200 644 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/6.EDI,download,,"http 200 1786 bytes ASCII text, with very long lines (1786), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/7.EDI,download,,"http 200 435 bytes ASCII text, with very long lines (435), with no line termina"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/8.EDI,download,,"http 200 584 bytes ASCII text, with very long lines (584), with no line termina"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/204/1.EDI,download,,"http 200 722 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/204/2.EDI,download,,"http 200 849 bytes ASCII text, with very long lines (849), with no line termina"
+C,https://raw.githubusercontent.com/jf-tech/omniparser/HEAD/extensions/omniv21/samples/edi/2_ups_edi_210.input.txt,download,,"http 200 29278 bytes Unicode text, UTF-8 text"
+C,https://raw.githubusercontent.com/KeyMarkInc/OopFactory.X12/HEAD/trunk/tests/OopFactory.X12.Tests.Unit/Parsing/_SampleEdiFiles/TAM/_210/DBSchenker_SampleMotorFreightDetailsAndInvoice.txt,download,,"http 200 832 bytes Unicode text, UTF-8 (with BOM) text"
+C,https://raw.githubusercontent.com/JstuckiPLS/JJ-VolumeQuotes-JJ/HEAD/plstms-pls20-e49a48c5bd95/backend/shipment/src/test/resources/edi/CTSI210_cropped.txt,download,,http 200 2025 bytes ASCII text
+C,https://raw.githubusercontent.com/JstuckiPLS/JJ-VolumeQuotes-JJ/HEAD/plstms-pls20-e49a48c5bd95/backend/shipment/src/test/resources/edi/EDI210ForCustomer.txt,download,,"http 200 572 bytes ASCII text, with very long lines (572), with no line termina"
+C,https://raw.githubusercontent.com/Bridgeflow-Group/bridgeflow-docs/HEAD/docs/examples/sample-210.txt,download,,"http 200 313 bytes ASCII text, with very long lines (313), with no line termina"
+C,https://raw.githubusercontent.com/EdiFabric/X12.NET/HEAD/Files/X12/FreightInvoice.txt,download,,"http 200 1052 bytes Unicode text, UTF-8 (with BOM) text"
+C,https://raw.githubusercontent.com/davidcoles/medici/HEAD/samples/210x12.edi,download,,http 200 846 bytes ASCII text
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_SPXQ_20260106174039.edi,download,,"http 200 1711 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10500_SGCS_20251231183354.edi,download,,"http 200 7052 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/Blvck199/DATAEXTRACTS/HEAD/FEDEX.txt,download,,"http 200 23044 bytes Python script, Unicode text, UTF-8 text executable"
+C,https://raw.githubusercontent.com/brycejech/edi-translator/HEAD/samples/204-MGSEABOARD-RASY-185950827709.edi,download,,"http 200 1428 bytes ASCII text, with very long lines (1428), with no line termin"
+C,https://raw.githubusercontent.com/brycejech/edi-translator/HEAD/samples/204.x12,download,,"http 200 694 bytes ASCII text, with very long lines (694), with no line termina"
+C,https://raw.githubusercontent.com/yurii1exe/freight-dispatch-board/HEAD/samples/204-dry-van-2-stop.edi,download,,http 200 960 bytes ASCII text
+C,https://raw.githubusercontent.com/yurii1exe/freight-dispatch-board/HEAD/samples/204-reefer-multi-stop.edi,download,,http 200 1339 bytes ASCII text
+C,https://raw.githubusercontent.com/pramodnarayana/soopa/HEAD/apps/edi/edi_sample_files/walmart/walmart_204.edi,download,,http 200 647 bytes ASCII text
+C,https://raw.githubusercontent.com/blueseerERP/blueseer/HEAD/sf/edi/sampledata/ACME_204.txt,download,,http 200 815 bytes ASCII text
+C,https://raw.githubusercontent.com/jacqueline-homan/BrandX/HEAD/204-MGCTLYST-BLNJ-16542577549-1.txt,download,,"http 200 1680 bytes ASCII text, with very long lines (1680), with no line termin"
+C,https://raw.githubusercontent.com/yurii1exe/edi-x12-toolkit/HEAD/samples/214-4010.edi,download,,http 200 313 bytes ASCII text
+C,https://raw.githubusercontent.com/aws-samples/aws-b2b-data-interchange-toolkit/HEAD/samples/214.edi,download,,http 200 2810 bytes ASCII text
+C,https://raw.githubusercontent.com/jf-tech/omniparser/HEAD/extensions/omniv21/samples/edi/1_canadapost_edi_214.input.txt,download,,http 200 5704 bytes ASCII text
+C,https://link.kohls.com/content/dam/klink/pdfs/Kohls_EDI_Mapping_Guidelines.pdf,download,,"http 403 455 bytes HTML document, ASCII text"
+C,https://origin-www.gsa.gov/system/files/General_Supplies__Services/dtr_part_ii_app_v_6.pdf,download,,"http 200 1323575 bytes PDF document, version 1.5, 30 pages"
+C,https://comptroller.defense.gov/Portals/45/documents/fmr/current/10/10_13.pdf,download,,"http 403 454 bytes HTML document, ASCII text"
+C,https://newtools.cira.state.tx.us/upload/page/10054/IFB%202021-255%20BID%20TABULATION%20AG%20HAUL%20VIA%20BELLY%20DUMP%20and%20BOB%20TAIL%20FOR%20PCT%204.pdf,download,,"http 200 54046 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://wwwtest.dbschenker.com/resource/blob/1427262/068267b371b7d44ce265e23755228ee6/usa-truck-llc-usit-tariff-2022-data.pdf,download,,"http 200 466257 bytes PDF document, version 1.7, 25 pages"
+C,raw Blvck199/DATAEXTRACTS FEDEX.txt,github,,python script not EDI; deleted
+C,q: Notice of Overcharge GSA form,websearch,,GSA Form 7925 (rev 10/2023) Notice of Overcharge; CBCA rate decisions ABF/PJAX
+C,q: FedEx Freight Billing Online / Estes MyEstes / ODFL invoice guide,websearch,,FedEx FBO Plus user guide 2017; Estes FAQ; ODFL invoices page
+C,q: state contract LTL ODFL/Estes/YRC/Saia discount minimum charge,websearch,,Utah UPS only
+C,q: Cubiscan NTEP certificate number,websearch,,only Australian NMI approvals for Cubiscan; Rice Lake 19-076A4 link
+C,q: Freightview/MyCarrier/FreightPOP/IA/Trax sample invoice,websearch,,generic signnow pages
+C,q: Kohls EDI mapping guide PDF,websearch,,link.kohls.com 403
+C,q: comptroller.defense.gov FMR Vol10 Ch13,direct,,403 both URL cases
+C,q: ustranscom.mil/dtr/part-ii.cfm,direct,,connection failed (000)
+C,q: webharvest.gov DFAS 1998 freight.pdf,direct,,"returns HTML placeholder, not PDF"
+C,https://origin-www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,download,,"http 403 10650 bytes HTML document, ASCII text, with very long lines (1626)"
+C,https://www.fedex.com/content/dam/fedex/us-united-states/services/051617_FBO-Plus-User-Guide.pdf,download,,"http 200 3237514 bytes PDF document, version 1.3"
+C,https://daytonfreight.com/wp-content/uploads/2025/07/DAFG-19-K-26th-Revision-effective-06.01.26.pdf,download,,"http 200 1233590 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.centraltransport.com/!downloads/ctii_rules.pdf,download,,"http 200 2674062 bytes PDF document, version 1.7, 54 pages"
+C,https://www.cbca.gov/files/decisions/2010/SHERIDAN_11-02-10_2014-RATE__ABF_FREIGHT_SYSTEM_INC_508.pdf,download,,"http 200 168353 bytes PDF document, version 1.4, 5 pages"
+C,https://www.cbca.gov/files/decisions/2007/DeGRAFF_04-19-2007_552-RATE__PJAX_FREIGHT_SYSTEM_508.pdf,download,,"http 200 187885 bytes PDF document, version 1.4, 9 pages"
+C,https://www.cbca.gov/files/decisions/2018/GOODMAN_12-06-18_6084-RATE__AARE_LOGISTICS_LLC.pdf,download,,"http 200 113233 bytes PDF document, version 1.4, 4 pages"
+C,https://www.ricelake.com/media/p1fnbv44/19-076a4.pdf,download,,http 404 0 bytes empty
+C,https://www.ricelake.com/media/p1fnbv44/19-076a3.pdf,download,,http 404 0 bytes empty
+C,q: SF 1113 public voucher pdf,websearch,,"gsa.gov SF1113-86a, SF1113A-86, node/165243"
+C,q: LTL price agreement site:edu Estes/ODFL/XPO/Saia/R+L/ABF,websearch,,Utah UPS only
+C,q: Saia/SEFL/ODFL/Averitt EDI 210 guide pdf,websearch,,"CN rail, FedEx, Stedi only"
+C,q: freight audit letter of authority template,websearch,,Logistics Plus LOA .docx only (skipped: docx not allowed? allowed - only docm banned); Hapag FMC LOA (ocean)
+C,q: overcharge claim form ODFL/Estes/Saia/Averitt/Dayton/SEFL,websearch,,"Averitt form, YRC f-154, XPO overview, Central Transport online form"
+C,q: DTR Part II chapters 211-213,websearch,,pointers to dtr_part_ii_203/210 only
+C,https://tools.averitt.com/public/documents/DocumentCenter/Averitt_OverchargeClaimForm.pdf,download,,"http 200 130953 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://my.yrc.com/national/pdf/f-154.pdf,download,,"http 200 79644 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.xpo.com/cdn/files/s1/Overcharge_Claims_Overview_External_LINKED.pdf,download,,"http 404 127 bytes XML 1.0 document, ASCII text, with no line terminators"
+C,https://ship.unisco.com/dl/Overcharge%20Freight.pdf,download,,"http 200 812252 bytes PDF document, version 1.6, 1 pages (zip deflate encoded)"
+C,https://www.gsa.gov/system/files/SF1113-86a.pdf,download,,"http 200 480236 bytes PDF document, version 1.7"
+C,https://www.gsa.gov/system/files/SF1113A-86.pdf,download,,"http 200 640083 bytes PDF document, version 1.7"
+C,https://www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,download,,"http 403 10615 bytes HTML document, ASCII text, with very long lines (1626)"
+C,https://www.logisticsplus.com/wp-content/uploads/2015/10/LP-LOA-Letter-of-Authorization-Template.docx,download,,http 200 17617 bytes Microsoft Word 2007+
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_203.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_210.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_211.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_212.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.xpo.com/cdn/files/s1/Overcharge_Claims_Overview_External_LINKED.pdf,direct,,404
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_2xx.pdf,direct,,connection fails (curl 000) for 203/210/211/212
+C,https://www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,direct,,403 on www and origin-www
+C,q: sample LTL invoice AP training site:edu,websearch,,AGCO carrier instructions NA 2021 (shipper billing requirements); Cornell BM-805
+C,q: truckload contract award per mile site:.gov,websearch,,TN ITB 32101-13354 LTL trucking; Iowa master agreement docs
+C,q: COSTARS/WA DES/Ohio/NASPO LTL pricing attachment,websearch,,nothing state-specific
+C,gh: GS*IM*EXLA / SAIA / ABFS / FXFE / SEFL,github,,only baldr valid/1.EDI (EXLA); others empty
+C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-210-example.pdf,download,,"http 200 84065 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-214-example.pdf,download,,"http 200 122208 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/1.EDI,download,,http 200 1900 bytes ASCII text
+C,https://tn.gov/content/dam/tn/generalservices/documents/cpo/itb-updates/32101-13354/QC_ITB_32101-13354_LTL_Trucking_Final.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/a2e05036-72df-4772-9648-d595f34b0d11,download,,"http 500 9015 bytes HTML document, ASCII text, with very long lines (414), with "
+C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/f061bc73-f734-48c0-9053-712d068bd9d5,download,,"http 200 120234 bytes PDF document, version 1.7, 4 pages (zip deflate encoded)"
+C,https://www.agcocorp.cn/content/dam/agcocorp/Suppliers/Carrier_Instructions_North_America_December_2021.pdf,download,,"http 200 169173 bytes HTML document, Unicode text, UTF-8 text, with very long line"
+C,https://www.estes-express.com/downloads/Digital-Capabilities-Matrix-Mar-2026.pdf,download,,"http 200 2685226 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://dgs.ca.gov/-/media/Divisions/PD/Acquisitions/TMU/Freight-Rate-Analysis-Request---7-10-24.pdf,download,,"http 200 130643 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.agcocorp.cn/.../Carrier_Instructions_North_America_December_2021.pdf,direct,,returned HTML not PDF; deleted
+C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/a2e05036-...,direct,,HTTP 500
+C,https://tn.gov/.../QC_ITB_32101-13354_LTL_Trucking_Final.pdf,direct,,connection failed (curl 000)
+C,q: Averitt EDI 210 DocumentCenter,websearch,,"Averitt Paperless Invoicing PDF, Online Reporting PDF; no EDI spec"
+C,q: site:sefl.com EDI 210 / invoice,websearch,,third-party only
+C,q: site:saia.com EDI 210 / freight bill,websearch,,third-party only
+C,https://tools.averitt.com/public/documents/Averitt_Technology_PaperlessInvoicing.pdf,download,,"http 200 1140565 bytes PDF document, version 1.4"
+C,https://tools.averitt.com/public/documents/Averitt_Technology_OnlineReporting.pdf,download,,"http 200 1288055 bytes PDF document, version 1.4"
+C,q: W&I certificate exhibit courtlistener,websearch,,vendor blogs only
+C,q: ABF fuel surcharge table 2024 archived,websearch,,arcb fuel page (JS-rendered tables); FedEx Freight FTL fuel surcharge PDF
+C,http://web.archive.org/cdx/search/cdx (ABF fuel 2024),cdx,,IA 'Temporarily Offline' then HTTP 429 on 4 attempts over ~25 min
+C,https://www.fedexfreight.com/content/dam/web/us/documents/fs-ftl-fuel-surcharge.pdf,download,,"http 200 126739 bytes PDF document, version 1.7, 4 pages"
+C,q: Pitt Ohio / AAA Cooper / Central Transport EDI 210 pdf,websearch,,Dayton EDI-210 setup form PDF; Pitt Ohio & AAA Cooper EDI pages (no spec); Central Transport online setup form
+C,https://www.ncwm.com/ntep-certificates,webfetch,,NTEP directory PDF Sept 2026 link
+C,https://cdn.ncwm.com/userfiles/files/NTEP/Directories/9%20-%20NTEP_Certificates_September_2026.pdf,download,,"http 200 142534 bytes PDF document, version 1.4, 1 pages"
+C,https://daytonfreight.com/wp-content/uploads/2017/01/EDI-210.pdf,download,,"http 200 176790 bytes HTML document, ASCII text, with very long lines (8832), with"
+C,https://daytonfreight.com/wp-content/uploads/2017/01/EDI-210.pdf,direct,,returned HTML not PDF; deleted
+C,https://archive.org/wayback/available (SEFL fuel),cdx,,HTTP 429
+C,"http://web.archive.org/cdx/search/cdx (ABF fuel 2024, 6th attempt after 100s pause)",cdx,,HTTP 429; gap 3 not fillable this session
+C,dl_C/ntep_directory/NTEP_Certificates_Directory_September_2026.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/estes_digital/Estes_Digital_Capabilities_Matrix_Mar2026.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/averitt_invoicing/Averitt_Technology_OnlineReporting.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_214/omniparser_canadapost_214.txt,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_214/yurii_214-4010.edi,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_204/yurii_204-dry-van-2-stop.edi,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_204/yurii_204-reefer-multi-stop.edi,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_204/blueseer_ACME_204.txt,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/gov_dgs_ca/CA_DGS_Freight_Rate_Analysis_Request_2024.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_210/bridgeflow_sample-210.txt,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,dl_C/edi_gh_misc_204/brycejech_204.x12,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,dl_C/edi_gh_misc_210/medici_210x12.edi,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,dl_C/edi_gh_misc_210/edifabric_FreightInvoice.txt,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0001.pdf,download,,"http 200 44949 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0002.pdf,download,,"http 200 45038 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0003.pdf,download,,"http 200 44755 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0004.pdf,download,,"http 200 44746 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_WIEL_20251231183325.edi,download,,"http 200 6484 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_TQYL_20251216172143.edi,download,,"http 200 12500 bytes ASCII text, with CRLF line terminators"
+C,github e3-solutions/scac-ln-bench README,github,,"700 freight invoice PDFs + 193 EDI 210 ground-truth files (broker-side, Dec 2025-Jan 2026); sampled 4 PDFs + 4 EDI"
+C,raw e3-solutions/scac-ln-bench data/pdfs/0001-0004.pdf,github,,"all four are Sterling Courier (K+N) air-courier invoices, out of TL/LTL scope and carry individuals' names; deleted"
+C,raw scac-ln-bench 10500_SGCS_20251231183354.edi,github,,"air-courier (Sterling) invoices, out of scope; deleted. WIEL/TQYL/SPXQ kept (truckload)"

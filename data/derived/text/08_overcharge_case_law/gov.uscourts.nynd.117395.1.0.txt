@@ -1,0 +1,919 @@
+                        IN THE UNITED STATES DISTRICT COURT
+                          NORTHERN DISTRICT OF NEW YORK
+
+                                                        Case No.: 1:19-cv-00001 (DNH/ATB)
+  CHRISTINA LEWIS, Individually and on behalf
+  of all others similarly situated,
+                                                        CLASS ACTION COMPLAINT FOR
+         Plaintiff,                                     VIOLATION OF THE FEDERAL
+                                                        SECURITIES LAWS
+         v.
+                                                        JURY TRIAL DEMANDED
+  YRC WORLDWIDE INC., JAMES L. WELCH,
+  JAMIE G. PIERSON, and STEPHANIE D.
+  FISHER,
+
+        Defendants.
+
+       Plaintiff Christina Lewis (“Plaintiff”), individually and on behalf of all other persons
+
+similarly situated, by Plaintiff’s undersigned attorneys, for Plaintiff’s complaint against
+
+Defendants (defined below), alleges the following based upon personal knowledge as to Plaintiff
+
+and Plaintiff’s own acts, and information and belief as to all other matters, based upon, inter alia,
+
+the investigation conducted by and through Plaintiff’s attorneys, which included, among other
+
+things, a review of the Defendants’ public documents, conference calls and announcements made
+
+by Defendants, United States Securities and Exchange Commission (“SEC”) filings, wire and
+
+press releases published by and regarding YRC Worldwide Inc. (“YRC Worldwide” or the
+
+“Company”), analysts’ reports and advisories about the Company, and information readily
+
+obtainable on the Internet. Plaintiff believes that substantial evidentiary support will exist for the
+
+allegations set forth herein after a reasonable opportunity for discovery.
+
+                                  NATURE OF THE ACTION
+
+       1.      This is a federal securities class action on behalf of a class consisting of all persons
+
+and entities other than Defendants who purchased or otherwise acquired the publicly traded
+
+                                                 -1-
+securities of YRC Worldwide from March 10, 2014 through December 14, 2018, both dates
+
+inclusive (the “Class Period”). Plaintiff seeks to recover compensable damages caused by
+
+Defendants’ violations of the federal securities laws and to pursue remedies under Sections 10(b)
+
+and 20(a) of the Securities Exchange Act of 1934 (the “Exchange Act”) and Rule 10b-5
+
+promulgated thereunder.
+
+                                  JURISDICTION AND VENUE
+
+        2.       The claims asserted herein arise under and pursuant to §§10(b) and 20(a) of the
+
+Exchange Act (15 U.S.C. §§78j(b) and §78t(a)) and Rule 10b-5 promulgated thereunder by the
+
+SEC (17 C.F.R. §240.10b-5).
+
+        3.       This Court has jurisdiction over the subject matter of this action under 28 U.S.C.
+
+§1331 and §27 of the Exchange Act.
+
+        4.       Venue is proper in this judicial district pursuant to §27 of the Exchange Act (15
+
+U.S.C. §78aa) and 28 U.S.C. §1391(b) as the Company conducts business within this judicial
+
+district, and the alleged misstatements entered and subsequent damages took place within this
+
+judicial district.
+
+        5.       In connection with the acts, conduct and other wrongs alleged in this Complaint,
+
+Defendants, directly or indirectly, used the means and instrumentalities of interstate commerce,
+
+including but not limited to, the United States mail, interstate telephone communications and the
+
+facilities of the national securities exchange.
+
+
+
+
+                                                  -2-
+                                             PARTIES
+
+       6.      Plaintiff, as set forth in the accompanying Certification, purchased the Company’s
+
+securities at artificially inflated prices during the Class Period and was damaged upon the
+
+revelation of the alleged corrective disclosure.
+
+       7.      Defendant YRC Worldwide provides various transportation services primarily in
+
+North America. It operates as a holding company with two reporting segments: YRC Freight
+
+(longer haul trucking) and Regional Transportation (regional and next-day delivery markets). The
+
+Company is incorporated in Delaware and has facilities throughout the United States, including
+
+Albany, New York. The Company’s securities are traded on the NASDAQ under the ticker
+
+symbol “YRCW.”
+
+       8.      Defendant James L. Welch (“Welch”) has served as the Company’s Chief
+
+Executive Officer (“CEO”) since July 2011.
+
+       9.      Defendant Stephanie D. Fisher (“Fisher”) has served as the Company’s Chief
+
+Financial Officer (“CFO”) since May 2017. Fisher served as the Company’s acting CFO from
+
+January 2017 until May 2017. Fisher was the Company’s Vice President and Controller from
+
+May 2012 until May 2017.
+
+       10.     Defendant Jamie G. Pierson (“Pierson”) served as the Company’s Executive Vice
+
+President and CFO from November 2011 until December 2016.
+
+       11.     Defendants Welch, Fisher and Pierson are sometimes referred to herein as the
+
+“Individual Defendants.”
+
+       12.     Each of the Individual Defendants:
+
+       (a)     directly participated in the management of the Company;
+
+
+
+                                                   -3-
+       (b)    was directly involved in the day-to-day operations of the Company at the highest
+
+              levels;
+
+       (c)    was privy to confidential proprietary information concerning the Company and its
+
+              business and operations;
+
+       (d)    was directly or indirectly involved in drafting, producing, reviewing and/or
+
+              disseminating the false and misleading statements and information alleged herein;
+
+       (e)    was directly or indirectly involved in the oversight or implementation of the
+
+              Company’s internal controls;
+
+       (f)    was aware of or recklessly disregarded the fact that the false and misleading
+
+              statements were being issued concerning the Company; and/or
+
+       (g)    approved or ratified these statements in violation of the federal securities laws.
+
+       13.    The Company is liable for the acts of the Individual Defendants and its employees
+
+under the doctrine of respondeat superior and common law principles of agency because all of
+
+the wrongful acts complained of herein were carried out within the scope of their employment.
+
+       14.    The scienter of the Individual Defendants and other employees and agents of the
+
+Company is similarly imputed to the Company under respondeat superior and agency principles.
+
+       15.    The Company and the Individual Defendants are referred to herein, collectively,
+
+as the “Defendants.”
+
+                             SUBSTANTIVE ALLEGATIONS
+
+                        Materially False and Misleading Statements
+
+       16.    On March 10, 2014, the Company filed a Form 10-K for the fiscal year ended
+
+December 31, 2013 (the “2013 10-K”) with the SEC, which provided the Company’s annual
+
+
+
+                                              -4-
+financial results and position. The 2013 10-K was signed by Defendants Welch and Pierson. The
+
+2013 10-K contained signed certifications pursuant to the Sarbanes-Oxley Act of 2002 (“SOX”)
+
+by Defendants Welch and Pierson attesting to the accuracy of financial reporting, the disclosure
+
+of any material changes to the Company’s internal controls over financial reporting, and the
+
+disclosure of all fraud.
+
+        17.     The 2013 10-K stated YRC Worldwide had an extensive system to “accurately
+
+capture, record and control all relevant information necessary to effectively manage . . . revenue
+
+reserves[,]” including reserves for assigning incorrect ratings (i.e., prices) based on “weight
+
+verifications[.]” The 2013 10-K stated, in relevant part:
+
+        Revenue Reserves
+
+        We consider our policies regarding revenue-related reserves as critical based on
+        their significance in evaluating our financial performance by management and
+        investors. We have an extensive system that allows us to accurately capture,
+        record and control all relevant information necessary to effectively manage our
+        revenue reserves.
+
+        In addition, YRC Freight and Regional Transportation recognize revenue on a gross
+        basis because they are the primary obligors even when other transportation service
+        providers are used who act on their behalf. YRC Freight and Regional
+        Transportation remain responsible to their customers for complete and proper
+        shipment, including the risk of physical loss or damage of the goods and cargo
+        claims issues. Management believes these policies most accurately reflect
+        revenue as earned. Our revenue-related reserves involve three primary estimates:
+        shipments in transit, rerate reserves and uncollectible accounts.
+
+        Shipments in Transit
+
+        We assign pricing to bills of lading at the time of shipment based primarily on the
+        weight, general classification of the product, the shipping destination and
+        individual customer discounts. This process is referred to as rating.
+                                          *       *       *
+        Rerate Reserves
+
+        At various points throughout our customer invoicing process, incorrect ratings
+
+
+                                                -5-
+       (i.e. prices) could be identified based on many factors, including weight
+       verifications or updated customer discounts. Although the majority of rerating
+       occurs in the same month as the original rating, a portion occurs during the
+       following periods. We accrue a reserve for rerating based on historical trends.
+       At December 31, 2013 and 2012, our financial statements included a rerate reserve
+       as a reduction to “Accounts Receivable” of $9.6 million and $11.9 million,
+       respectively.
+
+       (Emphasis added.)
+
+       18.     On February 20, 2015, the Company filed a Form 10-K for the fiscal year ended
+
+December 31, 2014 (the “2014 10-K”) with the SEC, which provided the Company’s annual
+
+financial results and position. The 2014 10-K was signed by Defendants Welch and Pierson. The
+
+2014 10-K contained signed SOX certifications by Defendants Welch and Pierson attesting to the
+
+accuracy of financial reporting, the disclosure of any material changes to the Company’s internal
+
+controls over financial reporting, and the disclosure of all fraud.
+
+       19.     The 2014 10-K stated YRC Worldwide had an extensive system to “accurately
+
+capture, record and control all relevant information necessary to effectively manage . . . revenue
+
+reserves[,]” including reserves for assigning incorrect ratings (i.e., prices) based on “weight
+
+verifications[.]” The 2014 10-K stated, in relevant part:
+
+       Revenue Reserves
+
+       We consider our policies regarding revenue-related reserves as critical based on
+       their significance in evaluating our financial performance by management and
+       investors. We have an extensive system that allows us to accurately capture,
+       record and control all relevant information necessary to effectively manage our
+       revenue reserves.
+
+       In addition, YRC Freight and Regional Transportation recognize revenue on a gross
+       basis because they are the primary obligors even when other transportation service
+       providers are used who act on their behalf. YRC Freight and Regional
+       Transportation remain responsible to their customers for complete and proper
+       shipment, including the risk of physical loss or damage of the goods and cargo
+       claims issues. Management believes these policies most accurately reflect
+
+
+                                                -6-
+       revenue as earned. Our revenue-related reserves involve three primary estimates:
+       shipments in transit, rerate reserves and uncollectible accounts.
+
+       Shipments in Transit
+
+       We assign pricing to bills of lading at the time of shipment based primarily on the
+       weight, general classification of the product, the shipping destination and
+       individual customer discounts. This process is referred to as rating.
+
+                                          *       *         *
+       Rerate Reserves
+
+       At various points throughout our customer invoicing process, incorrect ratings
+       (i.e. prices) could be identified based on many factors, including weight
+       verifications or updated customer discounts. Although the majority of rerating
+       occurs in the same month as the original rating, a portion occurs during the
+       following periods. We accrue a reserve for rerating primarily based on historical
+       trends. At December 31, 2014 and 2013, our financial statements included a rerate
+       reserve as a reduction to “Accounts Receivable” of $12.2 million and $9.6 million,
+       respectively.
+
+       (Emphasis added.)
+
+       20.     On February 18, 2016, the Company filed a Form 10-K for the fiscal year ended
+
+December 31, 2015 (the “2015 10-K”) with the SEC, which provided the Company’s annual
+
+financial results and position. The 2015 10-K was signed by Defendants Welch and Pierson. The
+
+2015 10-K contained signed SOX certifications by Defendants Welch and Pierson attesting to the
+
+accuracy of financial reporting, the disclosure of any material changes to the Company’s internal
+
+controls over financial reporting, and the disclosure of all fraud.
+
+       21.     The 2015 10-K stated YRC Worldwide had an extensive system to “accurately
+
+capture, record and control all relevant information necessary to effectively manage . . . revenue
+
+reserves[,]” including reserves for assigning incorrect ratings (i.e., prices) based on “weight
+
+verifications[.]” The 2015 10-K stated, in relevant part:
+
+       Revenue Recognition and Revenue-related Reserves
+
+
+                                                -7-
+       We consider our policies regarding revenue-related reserves as critical based on
+       their significance in evaluating our financial performance. We have an extensive
+       system that allows us to accurately capture, record and control all relevant
+       information necessary to effectively manage our revenue reserves.
+
+       YRC Freight and Regional Transportation recognize revenue on a gross basis
+       because they are the primary obligors even when other transportation service
+       providers are used who act on their behalf. YRC Freight and Regional
+       Transportation remain responsible to their customers for complete and proper
+       shipment, including the risk of physical loss or damage of the goods and cargo
+       claims issues. Management believes these policies most accurately reflect
+       revenue as earned. Our revenue-related reserves involve three primary estimates:
+       shipments in transit, rerate reserves and uncollectible accounts.
+
+       Shipments in Transit
+
+       We assign pricing to bills of lading at the time of shipment based primarily on the
+       weight, general classification of the product, the shipping destination and
+       individual customer discounts. This process is referred to as rating.
+
+                                        *      *       *
+
+       Rerate Reserves
+
+       At various points throughout our customer invoicing process, incorrect ratings
+       (i.e. prices) could be identified based on many factors, including weight
+       verifications or updated customer discounts. Although the majority of rerating
+       occurs in the same month as the original rating, a portion occurs during the
+       following periods. We accrue a reserve for rerating primarily based on historical
+       trends. At December 31, 2015 and 2014, our financial statements included a rerate
+       reserve as a reduction to “Accounts Receivable” of $8.1 million and $12.2 million,
+       respectively.
+
+       (Emphasis added.)
+
+       22.    On February 17, 2017, the Company filed a Form 10-K for the fiscal year ended
+
+December 31, 2016 (the “2016 10-K”) with the SEC, which provided the Company’s annual
+
+financial results and position. The 2016 10-K was signed by Defendants Welch and Fischer. The
+
+2016 10-K contained signed SOX certifications by Defendants Welch and Fischer attesting to the
+
+
+
+                                              -8-
+accuracy of financial reporting, the disclosure of any material changes to the Company’s internal
+
+controls over financial reporting, and the disclosure of all fraud.
+
+       23.     The 2016 10-K stated YRC Worldwide had an extensive system to “accurately
+
+capture, record and control all relevant information necessary to effectively manage . . . revenue
+
+reserves[,]” including reserves for assigning incorrect ratings (i.e., prices) based on “weight
+
+verifications[.]” The 2016 10-K stated, in relevant part:
+
+       Revenue Recognition and Revenue-related Reserves
+
+       We consider our policies regarding revenue-related reserves as critical based on
+       their significance in evaluating our financial performance. We have an extensive
+       system that allows us to accurately capture, record and control all relevant
+       information necessary to effectively manage our revenue reserves.
+
+       YRC Freight and Regional Transportation recognize revenue on a gross basis
+       because they are the primary obligors even when other transportation service
+       providers are used who act on their behalf. YRC Freight and Regional
+       Transportation remain responsible to their customers for complete and proper
+       shipment, including the risk of physical loss or damage of the goods and cargo
+       claims issues. Management believes these policies most accurately reflect
+       revenue as earned. Our revenue-related reserves involve three primary estimates:
+       shipments in transit, rerate reserves and uncollectible accounts.
+
+       Shipments in Transit
+
+       We assign pricing to bills of lading at the time of shipment based primarily on the
+       weight, general classification of the product, the shipping destination and
+       individual customer discounts. This process is referred to as rating.
+
+                                          *       *         *
+       Rerate Reserves
+
+       At various points throughout our customer invoicing process, incorrect ratings
+       (i.e. prices) could be identified based on many factors, including weight
+       verifications or updated customer discounts. Although the majority of rerating
+       occurs in the same month as the original rating, a portion occurs during the
+       following periods. We accrue a reserve for rerating primarily based on historical
+       trends. At December 31, 2016 and 2015, our financial statements included a rerate
+       reserve as a reduction to “Accounts Receivable” of $10.4 million and $8.1 million,
+
+
+                                                -9-
+       respectively.
+
+       (Emphasis added.)
+
+       24.     On February 15, 2018, the Company filed a Form 10-K for the fiscal year ended
+
+December 31, 2017 (the “2017 10-K”) with the SEC, which provided the Company’s annual
+
+financial results and position. The 2017 10-K was signed by Defendants Welch and Fischer. The
+
+2017 10-K contained signed SOX certifications by Defendants Welch and Fischer attesting to the
+
+accuracy of financial reporting, the disclosure of any material changes to the Company’s internal
+
+controls over financial reporting, and the disclosure of all fraud.
+
+       25.     The 2017 10-K stated YRC Worldwide had an extensive system to “accurately
+
+capture, record and control all relevant information necessary to effectively manage . . . revenue
+
+reserves[,]” including reserves for assigning incorrect ratings (i.e., prices) based on “weight
+
+verifications[.]” The 2017 10-K stated, in relevant part:
+
+       Revenue Recognition and Revenue-related Reserves
+
+       We consider our policies regarding revenue-related reserves as critical based on
+       their significance in evaluating our financial performance. We have an extensive
+       system that allows us to accurately capture, record and control all relevant
+       information necessary to effectively manage our revenue reserves.
+
+       YRC Freight and Regional Transportation recognize revenue on a gross basis
+       because they are the primary obligors even when other transportation service
+       providers are used who act on their behalf. YRC Freight and Regional
+       Transportation remain responsible to their customers for complete and proper
+       shipment, including the risk of physical loss or damage of the goods and cargo
+       claims issues. Management believes these policies most accurately reflect
+       revenue as earned. Our revenue-related reserves involve three primary estimates:
+       shipments in transit, rerate reserves and uncollectible accounts.
+
+       Shipments in Transit
+
+       We assign pricing to bills of lading at the time of shipment based primarily on the
+       weight, general classification of the product, the shipping destination and
+
+
+                                                - 10 -
+       individual customer discounts. This process is referred to as rating.
+
+                                        *       *      *
+       Rerate Reserves
+
+       At various points throughout our customer invoicing process, incorrect ratings
+       (i.e., prices) could be identified based on many factors, including weight
+       verifications or updated customer discounts. Although the majority of rerating
+       occurs in the same month as the original rating, a portion occurs during the
+       following periods. We accrue a reserve for rerating primarily based on historical
+       trends. At December 31, 2017 and 2016, our financial statements included a rerate
+       reserve as a reduction to “Accounts Receivable” of $8.8 million and $10.4 million,
+       respectively.
+
+       (Emphasis added.)
+
+       26.     The statements referenced in ¶¶16-25 above were materially false and/or
+
+misleading because they misrepresented and failed to disclose the following adverse facts
+
+pertaining to the Company’s business, operational and financial results, which were known to
+
+Defendants or recklessly disregarded by them. Specifically, Defendants made false and/or
+
+misleading statements and/or failed to disclose that: (1) from 2005 to at least 2013, YRC
+
+Worldwide’s units systematically overcharged the federal government for freight carrier services;
+
+(2) this alleged misconduct caused the Department of Defense to overpay by millions of dollars
+
+for shipments that were lighter, and thus cheaper, than the weights for which the government was
+
+charged; (3) consequently, this alleged misconduct would subject YRC Worldwide to enhanced
+
+government scrutiny and liabilities, including potentially owing treble damages under the False
+
+Claims Act; and (4) as a result, the Company’s public statements were materially false and
+
+misleading at all relevant times.
+
+
+
+
+                                              - 11 -
+                                       The Truth Emerges
+
+       27.      On December 14, 2018, the Department of Justice issued a press release stating
+
+that it had filed a complaint against YRC Worldwide entities for “systematically overcharg[ing]
+
+the government for freight carrier services and ma[king] false statements to the government that
+
+hid their misconduct[.]” The release stated, in relevant part:
+
+             United States Sues Freight Companies for Systematic Overcharging of
+                                          Shipments
+
+       The United States has filed a complaint in the Western District of New York
+       against YRC Freight Inc., (YRC); Roadway Express Inc. (Roadway); and Yellow
+       Transportation Inc. (Yellow), alleging that these companies systematically
+       overcharged the government for freight carrier services and made false
+       statements to the government that hid their misconduct, the Justice Department
+       announced today.
+
+       The United States filed this lawsuit in U.S. District Court in Buffalo, New York.
+       The United States alleges that, for more than seven years, the defendants
+       defrauded the Department of Defense by millions of dollars for shipments that
+       were actually lighter, and thus cheaper, than the weights for which the
+       defendants charged the government. The United States further alleges that the
+       defendants knowingly made or used false statements concealing their
+       overcharging practices to the Department of Defense.
+
+       “Those who do business with the government must do so fairly and honestly,” said
+       Assistant Attorney General Jody Hunt of the Department of Justice’s Civil
+       Division. “Knowingly overcharging the government is an affront to American
+       taxpayers, and the Department of Justice will seek to ensure that those who engage
+       in such misconduct are held accountable.”
+
+       Specifically, the United States’ lawsuit alleges that the defendants reweighed
+       thousands of shipments and suppressed the results whenever they indicated that
+       a shipment was actually lighter than its original estimated weight. Thus, instead
+       of charging the Department of Defense for shipments based on the correct
+       weight, the defendants knowingly billed the government (and their other
+       customers) based on weights that they knew to be inflated. The defendants also
+       allegedly made false statements to induce the Department of Defense to use them
+       as freight carriers and further knowingly made or used false statements to
+       improperly avoid their obligations to correct inflated invoices and return
+       overpayments.
+
+
+                                               - 12 -
+                                           *     *      *
+
+       The original lawsuit in this case was filed by James Hannum under the qui tam, or
+       whistleblower, provisions of the False Claims Act. Under the act, private citizens
+       can bring suit on behalf of the United States for false claims and share in any
+       recovery. The act permits the government to intervene in such lawsuits, as it has
+       done here. Those who violate the act are subject to treble damages and civil
+       penalties.
+
+       (Emphasis added.)
+
+       28.       That same day, the Wall Street Journal reported on the United States’ lawsuit
+
+against YRC Worldwide’s units over military shipments from 2005 to at least 2013, stating in
+
+relevant part:
+
+       The Justice Department is suing a major U.S. freight carrier, alleging that trucking
+       units of YRC Worldwide Inc. overcharged the Pentagon millions of dollars for
+       shipping over several years.
+
+       The department said in the lawsuit filed earlier this week that YRC Freight Inc.,
+       Roadway Express Inc. and Yellow Transportation Inc. made false statements to the
+       government and defrauded the Department of Defense by inflating weight
+       measurements on bills.
+
+       For more than seven years, from 2005 to at least 2013, workers for the companies
+       reweighed thousands of shipments and didn’t disclose the results when those
+       weights came in under the original estimate, the lawsuit alleges.
+
+                                           *     *      *
+
+       YRC Worldwide’s shares tumbled more than 28.4% in trading Friday, to $3.17 a
+       share.
+
+       29.       On this news, shares of YRC Worldwide fell $1.26 per share or over 28% to close
+
+at $3.17 per share on December 14, 2018.
+
+       30.       As a result of Defendants’ wrongful acts and omissions, and the precipitous
+
+decline in the market value of the Company’s securities, Plaintiff and other Class members have
+
+suffered significant losses and damages.
+
+
+                                               - 13 -
+                       PLAINTIFF’S CLASS ACTION ALLEGATIONS
+
+        31.     Plaintiff brings this action as a class action pursuant to Federal Rule of Civil
+
+Procedure 23(a) and (b)(3) on behalf of a Class, consisting of all those who purchased or
+
+otherwise acquired the publicly traded securities of YRC Worldwide during the Class Period (the
+
+“Class”) and were damaged upon the revelation of the alleged corrective disclosure. Excluded
+
+from the Class are Defendants herein, the officers and directors of the Company, at all relevant
+
+times, members of their immediate families and their legal representatives, heirs, successors or
+
+assigns and any entity in which Defendants have or had a controlling interest.
+
+        32.     The members of the Class are so numerous that joinder of all members is
+
+impracticable. Throughout the Class Period, the Company’s securities were actively traded on the
+
+NASDAQ. While the exact number of Class members is unknown to Plaintiff at this time and can
+
+be ascertained only through appropriate discovery, Plaintiff believes that there are hundreds or
+
+thousands of members in the proposed Class. Record owners and other members of the Class may
+
+be identified from records maintained by the Company or its transfer agent and may be notified
+
+of the pendency of this action by mail, using the form of notice similar to that customarily used
+
+in securities class actions.
+
+        33.     Plaintiff’s claims are typical of the claims of the members of the Class as all
+
+members of the Class are similarly affected by Defendants’ wrongful conduct in violation of
+
+federal law that is complained of herein.
+
+        34.     Plaintiff will fairly and adequately protect the interests of the members of the Class
+
+and has retained counsel competent and experienced in class and securities litigation. Plaintiff has
+
+no interests antagonistic to or in conflict with those of the Class.
+
+
+
+                                                - 14 -
+       35.     Common questions of law and fact exist as to all members of the Class and
+
+predominate over any questions solely affecting individual members of the Class. Among the
+
+questions of law and fact common to the Class are:
+
+       (a)     whether Defendants’ acts as alleged violated the federal securities laws;
+
+       (b)     whether Defendants’ statements to the investing public during the Class Period
+
+               misrepresented material facts about the financial condition, business, operations,
+
+               and management of the Company;
+
+       (c)     whether Defendants’ statements to the investing public during the Class Period
+
+               omitted material facts necessary to make the statements made, in light of the
+
+               circumstances under which they were made, not misleading;
+
+       (d)     whether the Individual Defendants caused the Company to issue false and
+
+               misleading SEC filings and public statements during the Class Period;
+
+       (e)     whether Defendants acted knowingly or recklessly in issuing false and misleading
+
+               SEC filings and public statements during the Class Period;
+
+       (f)     whether the prices of the Company’s securities during the Class Period were
+
+               artificially inflated because of the Defendants’ conduct complained of herein; and
+
+       (g)     whether the members of the Class have sustained damages and, if so, what is the
+
+               proper measure of damages.
+
+       36.     A class action is superior to all other available methods for the fair and efficient
+
+adjudication of this controversy since joinder of all members is impracticable. Furthermore, as
+
+the damages suffered by individual Class members may be relatively small, the expense and
+
+burden of individual litigation make it impossible for members of the Class to individually redress
+
+
+
+                                               - 15 -
+the wrongs done to them. There will be no difficulty in the management of this action as a class
+
+action.
+
+          37.   Plaintiff will rely, in part, upon the presumption of reliance established by the
+
+fraud-on-the-market doctrine in that:
+
+          (a)   Defendants made public misrepresentations or failed to disclose material facts
+
+                during the Class Period;
+
+          (b)   the omissions and misrepresentations were material;
+
+          (c)   the Company’s securities are traded in efficient markets;
+
+          (d)   the Company’s securities were liquid and traded with moderate to heavy volume
+
+                during the Class Period;
+
+          (e)   the Company traded on the NASDAQ, and was covered by multiple analysts;
+
+          (f)   the misrepresentations and omissions alleged would tend to induce a reasonable
+
+                investor to misjudge the value of the Company’s securities; Plaintiff and members
+
+                of the Class purchased and/or sold the Company’s securities between the time the
+
+                Defendants failed to disclose or misrepresented material facts and the time the true
+
+                facts were disclosed, without knowledge of the omitted or misrepresented facts;
+
+                and
+
+          (g)   Unexpected material news about the Company was rapidly reflected in and
+
+                incorporated into the Company’s stock price during the Class Period.
+
+          38.   Based upon the foregoing, Plaintiff and the members of the Class are entitled to a
+
+presumption of reliance upon the integrity of the market.
+
+
+
+
+                                               - 16 -
+        39.     Alternatively, Plaintiff and the members of the Class are entitled to the
+
+presumption of reliance established by the Supreme Court in Affiliated Ute Citizens of the State
+
+of Utah v. United States, 406 U.S. 128, 92 S. Ct. 2430 (1972), as Defendants omitted material
+
+information in their Class Period statements in violation of a duty to disclose such information,
+
+as detailed above.
+
+                                             COUNT I
+                Violation of Section 10(b) of The Exchange Act and Rule 10b-5
+                                    Against All Defendants
+
+        40.     Plaintiff repeats and realleges each and every allegation contained above as if fully
+set forth herein.
+        41.     This Count is asserted against the Company and the Individual Defendants and is
+based upon Section 10(b) of the Exchange Act, 15 U.S.C. § 78j(b), and Rule 10b-5 promulgated
+thereunder by the SEC.
+        42.     During the Class Period, the Company and the Individual Defendants,
+individually and in concert, directly or indirectly, disseminated or approved the false statements
+specified above, which they knew or deliberately disregarded were misleading in that they
+contained misrepresentations and failed to disclose material facts necessary in order to make the
+statements made, in light of the circumstances under which they were made, not misleading.
+        43.     The Company and the Individual Defendants violated §10(b) of the 1934 Act and
+Rule 10b-5 in that they: employed devices, schemes and artifices to defraud; made untrue
+statements of material facts or omitted to state material facts necessary in order to make the
+statements made, in light of the circumstances under which they were made, not misleading;
+and/or engaged in acts, practices and a course of business that operated as a fraud or deceit upon
+plaintiff and others similarly situated in connection with their purchases of the Company’s
+securities during the Class Period.
+
+
+
+
+                                                - 17 -
+       44.     The Company and the Individual Defendants acted with scienter in that they knew
+that the public documents and statements issued or disseminated in the name of the Company
+were materially false and misleading; knew that such statements or documents would be issued
+or disseminated to the investing public; and knowingly and substantially participated, or
+acquiesced in the issuance or dissemination of such statements or documents as primary violations
+of the securities laws. These defendants by virtue of their receipt of information reflecting the
+true facts of the Company, their control over, and/or receipt and/or modification of the Company’s
+allegedly materially misleading statements, and/or their associations with the Company which
+made them privy to confidential proprietary information concerning the Company, participated
+in the fraudulent scheme alleged herein.
+       45.      Individual Defendants, who are the senior officers and/or directors of the
+Company, had actual knowledge of the material omissions and/or the falsity of the material
+statements set forth above, and intended to deceive Plaintiff and the other members of the Class,
+or, in the alternative, acted with reckless disregard for the truth when they failed to ascertain and
+disclose the true facts in the statements made by them or other personnel of the Company to
+members of the investing public, including Plaintiff and the Class.
+       46.     As a result of the foregoing, the market price of the Company’s securities was
+artificially inflated during the Class Period. In ignorance of the falsity of the Company’s and the
+Individual Defendants’ statements, Plaintiff and the other members of the Class relied on the
+statements described above and/or the integrity of the market price of the Company’s securities
+during the Class Period in purchasing the Company’s securities at prices that were artificially
+inflated as a result of the Company’s and the Individual Defendants’ false and misleading
+statements.
+       47.     Had Plaintiff and the other members of the Class been aware that the market price
+of the Company’s securities had been artificially and falsely inflated by the Company’s and the
+Individual Defendants’ misleading statements and by the material adverse information which the
+
+
+
+                                                - 18 -
+Company’s and the Individual Defendants did not disclose, they would not have purchased the
+Company’s securities at the artificially inflated prices that they did, or at all.
+        48.     As a result of the wrongful conduct alleged herein, Plaintiff and other members
+of the Class have suffered damages in an amount to be established at trial.
+        49.     By reason of the foregoing, the Company and the Individual Defendants have
+violated Section 10(b) of the 1934 Act and Rule 10b-5 promulgated thereunder and are liable to
+the Plaintiff and the other members of the Class for substantial damages which they suffered in
+connection with their purchases of the Company’s securities during the Class Period.
+                                              COUNT II
+                         Violation of Section 20(a) of The Exchange Act
+                               Against The Individual Defendants
+        50.     Plaintiff repeats and realleges each and every allegation contained in the foregoing
+
+paragraphs as if fully set forth herein.
+
+        51.     During the Class Period, the Individual Defendants participated in the operation
+
+and management of the Company, and conducted and participated, directly and indirectly, in the
+
+conduct of the Company’s business affairs. Because of their senior positions, they knew the
+
+adverse non-public information regarding the Company’s business practices.
+
+        52.     As officers and/or directors of a publicly owned company, the Individual
+
+Defendants had a duty to disseminate accurate and truthful information with respect to the
+
+Company’s financial condition and results of operations, and to correct promptly any public
+
+statements issued by the Company which had become materially false or misleading.
+
+        53.     Because of their positions of control and authority as senior officers, the Individual
+
+Defendants were able to, and did, control the contents of the various reports, press releases and
+
+public filings which the Company disseminated in the marketplace during the Class Period.
+
+Throughout the Class Period, the Individual Defendants exercised their power and authority to
+
+                                                 - 19 -
+cause the Company to engage in the wrongful acts complained of herein. The Individual
+
+Defendants therefore, were “controlling persons” of the Company within the meaning of Section
+
+20(a) of the Exchange Act. In this capacity, they participated in the unlawful conduct alleged
+
+which artificially inflated the market price of the Company’s securities.
+
+       54.        Each of the Individual Defendants, therefore, acted as a controlling person of the
+
+Company. By reason of their senior management positions and/or being directors of the
+
+Company, each of the Individual Defendants had the power to direct the actions of, and exercised
+
+the same to cause, the Company to engage in the unlawful acts and conduct complained of herein.
+
+Each of the Individual Defendants exercised control over the general operations of the Company
+
+and possessed the power to control the specific activities which comprise the primary violations
+
+about which Plaintiff and the other members of the Class complain.
+
+       55.        By reason of the above conduct, the Individual Defendants are liable pursuant to
+
+Section 20(a) of the Exchange Act for the violations committed by the Company.
+
+                                      PRAYER FOR RELIEF
+
+       WHEREFORE, Plaintiff demands judgment against Defendants as follows:
+
+       A.         Determining that the instant action may be maintained as a class action under
+
+Rule 23 of the Federal Rules of Civil Procedure, and certifying Plaintiff as the Class
+
+representative;
+
+       B.         Requiring Defendants to pay damages sustained by Plaintiff and the Class by
+
+reason of the acts and transactions alleged herein;
+
+       C.         Awarding Plaintiff and the other members of the Class prejudgment and post-
+
+judgment interest, as well as their reasonable attorneys’ fees, expert fees and other costs; and
+
+
+
+                                                 - 20 -
+       D.     Awarding such other and further relief as this Court may deem just and proper.
+
+                                 JURY TRIAL DEMANDED
+
+       Plaintiff hereby demands a trial by jury.
+
+Dated: January 2, 2019                       Respectfully submitted,
+
+                                             THE ROSEN LAW FIRM, P.A.
+
+                                             By: /s/Phillip Kim
+                                             Phillip Kim
+                                             275 Madison Avenue, 34th Floor
+                                             New York, NY 10016
+                                             Telephone: (212) 686-1060
+                                             Facsimile: (212) 202-3827
+                                             Email: pkim@rosenlegal.com
+
+                                             Counsel for Plaintiff
+
+
+
+
+                                              - 21 -
+

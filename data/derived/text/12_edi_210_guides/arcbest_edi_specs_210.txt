@@ -1,0 +1,189 @@
+210 Motor Carrier Freight Details
+    and Invoice
+   ST Transaction Set Header
+Segment   Element   Description                      Length   Comments
+ST        01        Transaction Code                 3/3      210
+          02        Transaction Set Control Number   4/9
+
+
+
+
+   B3 Beginning Segment for Carrier's
+      Invoice
+Segment   Element   Description                      Length   Comments
+B3        02        Invoice Number                   1/22     ArcBest Pro Number
+          03        Shipment Identification Number   1/30     BOL number sent if Shipment ID not available
+          04        Shipment Method of Payment       2/2      PP = Prepaid | CC = Collect | TP = Third Party
+          06        Date                             8/8
+          07        Net Amount Due                   1/12
+          09        Delivery Date                    8/8
+          11        Standard Carrier Alpha Code      2/4      ArcBest uses a variety of SCAC codes based on
+                                                              business types:
+                                                              LTL ABFS
+                                                              Truckload MOLY | ACBH | ABMQ
+                                                              Managed Transportation ABNT
+                                                              Dedicated ABFY
+                                                              Expedite PTWT
+                                                              Intermodal - ABMF
+
+
+
+
+                                                                                                           15
+   N9 Reference Identification
+Segment   Element   Description                     Length   Comments
+N9        01        Reference Identification        2/3
+                    Qualifier
+          02        Reference Identification        1/30
+
+
+
+
+   R3 Route Information - Motor
+Segment   Element   Description                     Length   Comments
+R3        01        Standard Carrier Alpha Code     2/4      ArcBest uses a variety of SCAC codes based on
+                                                             business types:
+                                                             LTL ABFS
+                                                             Truckload MOLY | ACBH | ABMQ
+                                                             Managed Transportation ABNT
+                                                             Dedicated ABFY
+                                                             Expedite PTWT
+                                                             Intermodal - ABMF
+          04        Transportation Method/Type      1/2      LT = LTL | TL = Truckload
+                    Code
+
+
+
+  N1 Name
+Segment   Element   Description                     Length   Comments
+N1        01        Entity Identifier Code          2/3
+          02        Name                            1/60
+          03        Identification Code Qualifier   1/2
+          04        Identification Code             2/80
+
+
+
+
+                                                                                                        16
+  N3 Address Information
+Segment   Element   Description               Length   Comments
+N3        01        Address Information       1/55
+          02        Address Information       1/55
+
+
+
+  N4 Geographic Location
+Segment   Element   Description               Length   Comments
+N4        01        City Name                 2/30
+          02        State or Province Code    2/2
+          03        Postal Code               3/15
+          04        Country Code              2/3
+
+
+
+
+  LX Assigned Number
+Segment   Element   Description               Length   Comments
+LX        01        Assigned Number           1/6
+
+
+
+  L5        Description, Marks and Numbers
+Segment   Element   Description               Length   Comments
+L5        01        Lading Line Item Number   1/3
+          02        Lading Description        1/50
+
+
+
+
+                                                                  17
+  L0        Line Item - Quantity and Weight
+Segment   Element   Description                  Length   Comments
+L0        01        Lading Line Item Number      1/3
+          02        Billed/Rated-as Quantity     1/11
+          03        Billed/Rated-as Qualifier    2/2
+          04        Weight                       1/10
+          05        Weight Qualifier             1/2
+          08        Lading Quantity              1/7
+          09        Packaging Form Code          3/3
+
+
+
+
+  L1        Rate and Charges
+Segment   Element   Description                  Length   Comments
+L1        01        Lading Line Item Number      1/3
+          02        Freight Rate                 1/9
+          03        Rate/Value Qualifier         2/2
+          04        Charge                       1/9
+
+
+
+
+  L4        Measurement
+Segment   Element   Description                  Length   Comments
+L4        01        Length                       1/8
+          02        Width                        1/8
+          03        Height                       1/8
+          04        Measurement Unit Qualifier   1/1
+
+
+
+
+                                                                     18
+  L3        Total Weight and Charges
+Segment   Element   Description                      Length   Comments
+L3        01        Weight                           1/10
+          02        Weight Qualifier                 1/2
+          05        Freight Rate                     1/9
+          09        Volume                           1/8
+
+
+
+
+  SE Transaction Set Trailer
+Segment   Element   Description                      Length   Comments
+SE        01        Number of Included Segments      1/10
+          02        Transaction Set Control Number   4/9
+
+
+
+
+                                                                         19
+Example 210:
+ST*210*000010002
+B3**001002003*66736*PP**20180210*86112**20180212**SCAC
+N9*PO*987654
+N9*BM*456789
+R3*SCAC***LT
+N1*SH*ACME MACHINERY*ZZ*123456
+N3*4933 SOUTHWAY
+N4*CANTON*OH*33333
+N1*CN*SMITH & SONS*ZZ*123456
+N3*822 CHURCH RD
+N4*THOMASVILLE*NC*44444
+N1*BT*JONES LOGISTICS*ZZ*789456
+N3*489 FIRST STREET
+N4*FORT SMITH*AR*72904
+LX*1
+L5*1*TRACTORS
+L0*1*604*DM*35000*G***4*PCS
+L1*1*1.04*PM*62816
+L4*122*27*24*N
+LX*2
+L5*2*DISCOUNT
+L1*2***-15024****DSC
+LX*3
+L5*3*FUEL SURCHARGE
+L1*3***8338****FUE
+LX*4
+L5*4*MIN CHARGE ADJ
+L1*4*112*PM*3649****ANB*********604*DM
+L3*35000*G***86112****245
+SE*28*000010002
+
+
+
+
+                                                         20
+

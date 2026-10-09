@@ -1,0 +1,185 @@
+                                            93198            Federal Register / Vol. 89, No. 228 / Tuesday, November 26, 2024 / Rules and Regulations
+
+                                            (a) of this section to the Director of the              via TAMS (https://tams.gsa.gov) or                    tams.gsa.gov or via email to protests@
+                                            GSA Transportation Audits Division                      email to protests@gsa.gov.                            gsa.gov.
+                                            because the Director has access to                                                                            [FR Doc. 2024–27552 Filed 11–25–24; 8:45 am]
+                                                                                                    ■ 34. Revise § 102–118.610 to read as
+                                            Governmentwide data including TSP
+                                                                                                    follows:                                              BILLING CODE 6820–14–P
+                                            rates, agency paid TSP invoices, and
+                                            transportation billings with the                        § 102–118.610 Is a TSP notified when GSA
+                                            Government. Your agency must                            allows a claim?                                       GENERAL SERVICES
+                                            correctly pay individual transportation                                                                       ADMINISTRATION
+                                                                                                      Yes, the GSA Transportation Audits
+                                            invoices (see 31 U.S.C. 3351(4),
+                                                                                                    Division will acknowledge each payable                41 CFR Part 102–117
+                                            Improper Payment definition).
+                                                                                                    claim using a Certificate of Settlement.
+                                            ■ 28. Revise § 102–118.545 to read as                                                                         [FMR Case 2024–03; Docket No. GSA–FMR–
+                                            follows:                                                ■ 35. Revise § 102–118.615 to read as                 2024–0015; Sequence No. 1]
+                                                                                                    follows:
+                                            § 102–118.545 What information must a                                                                         Federal Management Regulation;
+                                            TSP claim include?                                      § 102–118.615 Will GSA notify a TSP if                Updating Transportation Management,
+                                              All claims filed with GSA                             they internally offset a payment?
+                                                                                                                                                          With Diversity, Equity, Inclusion, and
+                                            Transportation Audits Division either                     Yes, the GSA Transportation Audits                  Accessibility Language
+                                            using TAMS (preferred) or via email                     Division will notify the TSP via TAMS
+                                            (protests@gsa.gov) must include:                                                                              AGENCY: Office of Government-wide
+                                                                                                    or email if GSA offsets a payment.
+                                              (a) The transportation document.                                                                            Policy (OGP), General Services
+                                              (b) An explanation for the claim.                     ■ 36. Revise § 102–118.630 to read as                 Administration (GSA).
+                                              (c) Any additional supporting                         follows:                                              ACTION: Final rule.
+                                            documentation.                                          § 102–118.630 How must a TSP refund                   SUMMARY: The United States General
+                                            ■ 29. Amend § 102–118.550 by revising                   amounts due to GSA?                                   Services Administration (GSA) is
+                                            the section heading to read as follows:                                                                       issuing a final rule amending the
+                                                                                                      (a) TSPs must promptly refund
+                                            § 102–118.550 How does a TSP file a claim               amounts due to GSA, preferably via                    Federal Management Regulation (FMR).
+                                            using EDI or other electronic means?                    TAMS or by ACH. If an ACH is not                      This amendment introduces changes
+                                            *      *     *       *      *                           used, checks must be made payable to                  specific to Transportation Management.
+                                            ■ 30. Amend § 102–118.555 by:                           the ‘‘General Services Administration’’,              Following a comprehensive review,
+                                            ■ a. Revising the section heading; and                  including the document reference                      GSA decided to eliminate the use of
+                                            ■ b. Removing ‘‘administrative’’ from                   number, TSP name, bill number(s),                     gendered pronouns in this FMR part.
+                                            the first sentence.                                     taxpayer identification number and                    The modifications aim to ensure the
+                                              The revision reads as follows:                        standard carrier alpha code, then mailed              language aligns with the principles of
+                                                                                                    to the appropriate address listed on the              inclusivity, particularly concerning
+                                            § 102–118.555 Can a TSP file a                                                                                gender, and to further incorporate
+                                            supplemental claim?                                     Accounts and Collections web page at
+                                                                                                    https://www.gsa.gov/transaudits.                      language that supports diversity, equity,
+                                            *      *     *       *      *                                                                                 inclusivity, and accessibility. These
+                                                                                                      (b) If an ACH address is needed, visit              changes are grammatical and technical
+                                            ■ 31. Revise § 102–118.560 to read as
+                                                                                                    https://www.gsa.gov/transaudits                       in nature and will not result in
+                                            follows:
+                                                                                                    (Accounts and Collections web page) or                additional costs or related policy
+                                            § 102–118.560 What is the required format               contact the GSA Transportation Audits                 changes for agencies.
+                                            that a TSP must use to file a claim?                    Division via email at:
+                                                                                                                                                          DATES: This final rule is effective on
+                                              There is no required format for filing                audits.collections@gsa.gov.
+                                                                                                                                                          November 26, 2024.
+                                            claims. TSPs should file a claim through                ■ 37. Revise § 102–118.645 to read as                 FOR FURTHER INFORMATION CONTACT: Mr.
+                                            TAMS or by sending the required                         follows:                                              Ron Siegel, Policy Analyst, at 202–702–
+                                            information and documentation (see
+                                                                                                                                                          0840 or gsa-ogp-transportationpolicy@;
+                                            §§ 102–118.545 and 102–118.565) to                      § 102–118.645 Can a TSP file a claim on
+                                                                                                    collection actions?                                   gsa.gov for clarification of content. For
+                                            GSA Transportation Audits Division via
+                                                                                                                                                          information pertaining to status or
+                                            email to protests@gsa.gov.                                 Yes, a TSP may file a claim involving              publication schedules, contact the
+                                            ■ 32. Amend § 102–118.565 by:                           collection actions resulting from the                 Regulatory Secretariat Division at 202–
+                                            ■ a. Revising the section heading; and                  transportation audit performed by the                 501–4755 or GSARegSec@gsa.gov.
+                                            ■ b. Removing ‘‘An administrative                       GSA directly with the GSA                             Please cite ‘‘FMR Case 2024–03’’.
+                                            claim’’ and adding ‘‘A claim’’ in its                   Transportation Audits Division. Any                   SUPPLEMENTARY INFORMATION:
+                                            place.                                                  claims submitted to GSA will be subject
+                                              The revision reads as follows:                        to the Prompt Payment Act (31 U.S.C.                  I. Background
+                                            § 102–118.565 What documentation is                     3901, et seq.). The TSP must file all                    Executive Order (E.O.) 13988,
+                                            required when filing a claim?                           other transportation claims with the                  Preventing and Combating
+                                            *      *     *       *      *                           agency out of whose activities they                   Discrimination on the Basis of Gender
+                                                                                                    arose. If this is not feasible (e.g., where           Identity or Sexual Orientation, dated
+                                            ■ 33. Revise § 102–118.600 to read as
+                                                                                                    the responsible agency cannot be                      January 20, 2021, establishes a policy
+                                            follows:
+                                                                                                    determined or is no longer in existence)              ‘‘to prevent and combat discrimination
+                                            § 102–118.600 When a TSP disagrees with                 claims may be sent to the GSA                         on the basis of gender identity or sexual
+lotter on DSK11XQN23PROD with RULES1
+
+
+
+
+                                            a Notice of Overcharge resulting from a                 Transportation Audits Division for                    orientation, and to fully enforce Title
+                                            postpayment audit, what are the appeal                  forwarding to the responsible agency or               VII and other laws that prohibit
+                                            procedures?                                             for direct settlement by the GSA                      discrimination on the basis of gender
+                                              A TSP that disagrees with the Notice                  Transportation Audits Division. Submit                identity or sexual orientation.’’
+                                            of Overcharge may submit a protest to                   claims using Transportation Audits                       The Federal Government must be a
+                                            the GSA Transportation Audits Division                  Management System (TAMS) at https://                  model for diversity, equity, inclusion,
+
+
+                                       VerDate Sep<11>2014   16:25 Nov 25, 2024   Jkt 265001   PO 00000   Frm 00052   Fmt 4700   Sfmt 4700   E:\FR\FM\26NOR1.SGM   26NOR1
+                                                             Federal Register / Vol. 89, No. 228 / Tuesday, November 26, 2024 / Rules and Regulations                                            93199
+
+                                            and accessibility, where all employees                  Fairness Act of 1996 (codified at 5                   § 102–117.295     [Amended]
+                                            are treated with dignity and respect.                   U.S.C. 801–808), also known as the                    ■ 3. Amend § 102–117.295 by, in
+                                            While GSA is not aware of any specific                  Congressional Review Act or CRA,                      paragraph (b), removing the words ‘‘his/
+                                            instances where language in this FMR                    generally provides that before a rule                 her’’ from the second sentence.
+                                            part has been used to discriminate                      may take effect, unless excepted, the                 [FR Doc. 2024–27565 Filed 11–25–24; 8:45 am]
+                                            against an employee, GSA believes it is                 agency promulgating the rule must
+                                                                                                                                                          BILLING CODE P
+                                            important to prevent any potential                      submit a rule report, which includes a
+                                            discrimination or the appearance of it.                 copy of the rule, to each House of the
+                                              Consistent with the American                          Congress and to the Comptroller General
+                                            Psychological Association (APA) Style                   of the United States. This rule is                    DEPARTMENT OF TRANSPORTATION
+                                            Guide, 7th Edition, Publication Manual                  excepted from CRA reporting                           National Highway Traffic Safety
+                                            Section 5.5 guidance on ‘‘Gender and                    requirements prescribed under 5 U.S.C.                Administration
+                                            Pronoun Usage’’, GSA is replacing                       801, as it relates to agency management
+                                            gender-specific pronouns, such as he,                   or personnel under 5 U.S.C. 804(3)(B).                49 CFR Parts 571
+                                            she, his, or her, with more inclusive
+                                            terminology.                                            V. Regulatory Flexibility Act                         [Docket No. NHTSA–2023–0021]
+                                            II. Discussion of the Final Rule                           This final rule will not have a                    RIN 2127–AM37
+                                                                                                    significant economic impact on a
+                                            A. Summary of Significant Changes                       substantial number of small entities                  Federal Motor Vehicle Safety
+                                              This final rule removes gender-based                  within the meaning of the Regulatory                  Standards; Automatic Emergency
+                                            pronouns from this FMR part and                         Flexibility Act, 5 U.S.C. 601, et seq. This           Braking Systems for Light Vehicles
+                                            replaces them with more inclusive                       final rule is also exempt from the                    AGENCY: National Highway Traffic
+                                            language. The grammatical and                           Administrative Procedure Act pursuant                 Safety Administration (NHTSA),
+                                            technical changes do not alter any                      to 5 U.S.C. 553(a)(2) because it applies              Department of Transportation (DOT).
+                                            definition, operation, or interpretation                to agency management or personnel.
+                                                                                                                                                          ACTION: Final rule; response to petitions
+                                            of the FMR.                                             Therefore, an Initial Regulatory
+                                                                                                                                                          for reconsideration.
+                                            B. Expected Cost Impact to the Public                   Flexibility Analysis was not performed.
+                                                                                                    VI. Paperwork Reduction Act                           SUMMARY: This document grants parts of
+                                              There is no expected cost imposed                                                                           petitions for reconsideration of a May 9,
+                                            upon the public as a result of this rule                  The Paperwork Reduction Act does                    2024, final rule that adopted Federal
+                                            since the changes are technical.                        not apply because the changes to the                  Motor Vehicle Safety Standard (FMVSS)
+                                            III. Executive Orders 12866, 13563, and                 FMR do not impose recordkeeping or                    No. 127, ‘‘Automatic Emergency Braking
+                                            14094                                                   information collection requirements, or               for Light Vehicles,’’ which requires
+                                                                                                    the collection of information from                    automatic emergency braking (AEB),
+                                               Executive Order (E.O.) 12866
+                                                                                                    offerors, contractors, or members of the              pedestrian automatic emergency braking
+                                            (Regulatory Planning and Review)
+                                                                                                    public that require the approval of the               (PAEB), and forward collision warning
+                                            directs agencies to assess all costs and
+                                            benefits of available regulatory                        Office of Management and Budget                       (FCW) systems on all new light vehicles.
+                                            alternatives and, if regulation is                      (OMB) under 44 U.S.C. 3501, et seq.                   This final rule clarifies requirements
+                                            necessary, to select regulatory                         List of Subjects in 41 CFR Part 102–117               applicable to FCW visual signals and
+                                            approaches that maximize net benefits                                                                         audio signals, corrects an error in the
+                                            (including potential economic,                            Freight, Government property                        test scenario for obstructed pedestrian
+                                            environmental, public health and safety                 management, Moving of household                       crossing the road, and removes
+                                            effects, distributive impacts, and                      goods, Reporting and recordkeeping                    superfluous language from the
+                                            equity). E.O. 13563 (Improving                          requirements, Transportation.                         performance test requirement for lead
+                                            Regulation and Regulatory Review)                                                                             vehicle AEB. This notice denies other
+                                                                                                    Robin Carnahan,
+                                            emphasizes the importance of                                                                                  requests in the petitions. This document
+                                                                                                    Administrator of General Services.
+                                            quantifying both costs and benefits, of                                                                       also denies a petition for
+                                            reducing costs, of harmonizing rules,                     For the reasons set forth in the                    reconsideration, which is treated as a
+                                            and of promoting flexibility. E.O. 14094                preamble, GSA amends 41 CFR part                      petition for rulemaking because it was
+                                            (Modernizing Regulatory Review)                         102–117 as set forth below:                           received more than 45 days after
+                                            amends Section 3(f) of E.O. 12866 and                                                                         publication of the rule.
+                                            supplements and reaffirms the                           PART 102–117—TRANSPORTATION                           DATES:
+                                            principles, structures, and definitions                 MANAGEMENT                                               Effective: January 27, 2025.
+                                            governing contemporary regulatory                                                                                Compliance date: Compliance with
+                                                                                                    ■ 1. The authority citation for 41 CFR                FMVSS No. 127 and related regulations,
+                                            review established in E.O. 12866 and
+                                            E.O. 13563. The Office of Management                    part 102–117 continues to read as                     as amended in this rule, is required for
+                                            and Budget’s Office of Information and                  follows:                                              all vehicles by September 1, 2029.
+                                            Regulatory Affairs (OIRA) has                             Authority: 31 U.S.C. 3726; 40 U.S.C.                However, vehicles produced by small-
+                                            determined that this rule is not a                      121(c); 40 U.S.C. 501, et seq.; 46 U.S.C.             volume manufacturers, final-stage
+                                            significant regulatory action, and                      55305; 49 U.S.C. 40118.                               manufacturers, and alterers must be
+                                            therefore, was not subject to review                                                                          equipped with a compliant AEB system
+                                                                                                    ■ 2. Revise the section heading for
+                                            under Section 6(b) of E.O. 12866.                                                                             by September 1, 2030.
+lotter on DSK11XQN23PROD with RULES1
+
+
+
+
+                                                                                                    § 102–117.240 to read as follows:                        Petitions for reconsideration: Petitions
+                                            IV. Congressional Review Act                            § 102–117.240 What is my agency’s                     for reconsideration of this final action
+                                              OIRA has determined that this rule is                 financial responsibility to an employee who           must be received not later than January
+                                            not a ‘‘major rule’’ under 5 U.S.C.                     chooses to move all or part of their HHG              10, 2025.
+                                            804(2). Title II, Subtitle E of the Small               under the commuted rate system?                       ADDRESSES: Correspondence related to
+                                            Business Regulatory Enforcement                         *      *      *      *       *                        this rule, including petitions for
+
+
+                                       VerDate Sep<11>2014   16:25 Nov 25, 2024   Jkt 265001   PO 00000   Frm 00053   Fmt 4700   Sfmt 4700   E:\FR\FM\26NOR1.SGM   26NOR1
+

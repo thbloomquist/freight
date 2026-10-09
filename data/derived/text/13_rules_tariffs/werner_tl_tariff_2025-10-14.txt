@@ -1,0 +1,2288 @@
+                 Werner Enterprises, Inc.
+                            MC# 138328
+                          TARIFF GOVERNING
+
+                      RULES, REGULATIONS AND
+
+                      SCOPE OF OPERATIONS
+
+                   APPLICABLE ON SHIPMENTS
+                 BETWEEN POINTS IN THE UNITED
+                  STATES, CANADA, and MEXICO
+                  and INTERMODAL SHIPMENTS
+
+This Tariff Applies on International, Interstate, and Intrastate Traffic.
+
+                   EFFECTIVE: October 14, 2025
+
+                               Issued by:
+
+                        Werner Enterprises, Inc.
+                           PO Box 45308
+                         Omaha, NE 68145
+                          www.werner.com
+                                                           TABLE OF CONTENTS
+                                                                                                                                                                       Page
+
+
+
+PREFACE ..................................................................................................................................................................... 1
+SECTION 1 – GENERAL TERMS ............................................................................................................................ 2
+    ITEM 100              BILLS OF LADING .......................................................................................................................... 2
+    ITEM 103              LITIGATION .................................................................................................................................... 5
+    ITEM 105              BILLS OF LADING, CONTRACTS AND AUTHORITY OF COMPANY PERSONNEL ............ 5
+    ITEM 110              BROKERAGE AUTHORITY .......................................................................................................... 5
+    ITEM 115              SUBSEQUENT VERSIONS OF THIS TARIFF .............................................................................. 5
+    ITEM 120              INTERPRETATION OF THIS TARIFF ........................................................................................... 5
+    ITEM 125              GOVERNING PUBLICATIONS ..................................................................................................... 6
+    ITEM 130              INTERSTATE VS. INTRASTATE .................................................................................................. 6
+    ITEM 135              MILEAGE GUIDE ............................................................................................................................ 6
+    ITEM 140              NON APPLICATION OF TARIFF ................................................................................................... 6
+    ITEM 145              NOTICE AND AMENDMENTS ...................................................................................................... 6
+    ITEM 150              OPERATING AUTHORITY ............................................................................................................ 6
+    ITEM 155              PARTICIPATING CARRIERS ........................................................................................................ 7
+    ITEM 160              RATES AND SCHEDULES ............................................................................................................. 7
+    ITEM 165              REGULATED VS. EXEMPT ........................................................................................................... 7
+    ITEM 170              WAIVER ........................................................................................................................................... 7
+    ITEM 175              CONSENT TO JURISDICTION ...................................................................................................... 7
+SECTION 2 - OPERATIONS ..................................................................................................................................... 8
+    ITEM 200              APPLICATION OF CIRCULAR ...................................................................................................... 8
+    ITEM 205              APPOINTMENTS/PICKUP & DELIVERY TIMES ........................................................................ 8
+    ITEM 210              PROHIBITED COMMODITIES ...................................................................................................... 8
+    ITEM 215              CONVENIENCE INTERLINING .................................................................................................... 8
+    ITEM 220              DROPPED TRAILERS ..................................................................................................................... 9
+    ITEM 225              HAZARDOUS MATERIAL SHIPMENTS ...................................................................................... 9
+    ITEM 230              IMPORT & EXPORT FREIGHT – CANADA/MEXICO ................................................................ 9
+    ITEM 235              IMPRACTICAL OPERATIONS ...................................................................................................... 9
+    ITEM 240              INDEMNITY .................................................................................................................................... 9
+    ITEM 245              INTERMODAL SHIPMENTS ....................................................................................................... 10
+    ITEM 250              ON-HAND SHIPMENTS ............................................................................................................... 10
+    ITEM 260              PACKAGING REQUIREMENTS .................................................................................................. 10
+    ITEM 262              PACKING OR PACKAGING, BLOCKING, RACKS, STANDARDS OR SUPPORTS .............. 10
+    ITEM 265              PICKUP & DELIVERY SERVICE................................................................................................. 11
+    ITEM 270              RIGHT TO OPEN/INSPECT .......................................................................................................... 11
+    ITEM 273              SERVICE STANDARDS ............................................................................................................... 11
+    ITEM 275              SHIPPER LOAD & COUNT........................................................................................................... 11
+    ITEM 280              SUBSTITUTED SERVICE............................................................................................................. 11
+    ITEM 285              TERRITORIAL SCOPE ................................................................................................................. 11
+    ITEM 290              WEIGHTS ....................................................................................................................................... 12
+    ITEM 293              EQUIPMENT .................................................................................................................................. 12
+    ITEM 295              FOOD SAFETY PROTOCOL ........................................................................................................ 12
+SECTION 3 – ACCESSORIAL CHARGES ........................................................................................................... 13
+    ITEM 300              ACCESSORIAL CHARGES--GENERAL ..................................................................................... 13
+    ITEM 310              DETENTION WITHOUT POWER ................................................................................................ 15
+    ITEM 320              DETENTION WITH POWER ........................................................................................................ 15
+
+
+                                                                                      i
+   ITEM 310            FUEL SURCHARGE ...................................................................................................................... 16
+SECTION 4 – FREIGHT CLAIMS ......................................................................................................................... 17
+   ITEM 400            EXCESS LIABILITY LIMITS AVAILABLE ................................................................................ 17
+   ITEM 405            CLAIMS LIABILITY ..................................................................................................................... 17
+   ITEM 410            CLAIMS PROCESS ........................................................................................................................ 17
+   ITEM 415            CLAIMS LOSS & DAMAGE – ACCEPTANCE OF GOODS ....................................................... 18
+   ITEM 420            CLAIMS LOSS & DAMAGE – CLEAR DELIVERY ................................................................... 19
+   ITEM 425            CLAIMS LOSS & DAMAGE – SALVAGE ................................................................................... 19
+   ITEM 430            DISPOSITION OF OVERAGE ...................................................................................................... 19
+   ITEM 435            LIMITATION OF LIABILITY ....................................................................................................... 19
+   ITEM 440            FAK RATES ................................................................................................................................... 20
+   ITEM 445            MIXED COMMODITIES ............................................................................................................... 20
+   ITEM 455            SEALED TRAILERS ...................................................................................................................... 20
+   ITEM 460            SHORTAGE.................................................................................................................................... 20
+   ITEM 465            SPECIAL, CONSEQUENTIAL AND PUNITIVE DAMAGES .................................................... 20
+   ITEM 470            SPOTTED EQUIPMENT ............................................................................................................... 21
+   ITEM 475            INTERPLANT MOVES ................................................................................................................. 21
+   ITEM 480            RETURNED GOODS ..................................................................................................................... 21
+SECTION 5 – FREIGHT CHARGES...................................................................................................................... 22
+   ITEM 500            CREDIT AND COLLECTIONS ..................................................................................................... 22
+   ITEM 510            COLLECTION AND PAYMENT OF CHARGES ......................................................................... 22
+   ITEM 540            JURISDICTION AND VENUE OF COLLECTION SUIT............................................................. 22
+   ITEM 550            LIEN FOR FREIGHT CHARGES .................................................................................................. 23
+   ITEM 560            PAYMENT WITHOUT OFFSET ................................................................................................... 23
+   ITEM 570            PRECEDENCE OF RATES AND CHARGES ............................................................................... 23
+   ITEM 580            THIRD PARTY BILLING .............................................................................................................. 23
+   ITEM 585            UNDERCHARGE/OVERCHARGE CLAIMS .............................................................................. 23
+   ITEM 600            APPLICABILITY ........................................................................................................................... 24
+   ITEM 610            ARRIVAL NOTICE........................................................................................................................ 24
+   ITEM 640            LOADING AND UNLOADING CONTAINER............................................................................. 24
+   ITEM 680            UNDELIVERED FREIGHT ........................................................................................................... 24
+   ITEM 690            ACCESSORIALS FOR DOMESTIC INTERMODAL SHIPMENTS ........................................... 25
+   ITEM 695            TRACTOR DETENTION (DETENTION WITH POWER)........................................................... 29
+SECTION 7 – TEMPERATURE CONTROLLED SHIPMENTS ........................................................................ 30
+   ITEM 700            APPLICABILITY ........................................................................................................................... 30
+   ITEM 710            REFRIGERATED SERVICE ......................................................................................................... 30
+   ITEM 720            PROTECT FROM FREEZING SERVICE ..................................................................................... 30
+   ITEM 730            TEMPERATURE CONTROLLED ACCESSORIALS .................................................................. 31
+   ITEM 740            TRAILER DETENTION................................................................................................................. 32
+   ITEM 750            LOADED TRAILER BORDER DETENTION ADDENDUM ...................................................... 32
+   ITEM 760            TRACTOR DETENTION (DETENTION WITH POWER)........................................................... 33
+   ITEM 770            FRESH FUEL SURCHARGE ......................................................................................................... 33
+   ITEM 780            FROZEN FUEL SURCHARGE...................................................................................................... 34
+SECTION 8 – ACCESSORIALS FOR INTERNATIONAL SHIPMENTS ........................................................ 35
+   ITEM 810            INTERNATIONAL DRY VAN SHIPMENTS ............................................................................... 35
+   ITEM 820            INTERNATIONAL INTERMODAL SHIPMENTS ...................................................................... 36
+   ITEM 830            INTERNATIONAL FLATBED SHIPMENTS............................................................................... 38
+   ITEM 840            INTERNATIONAL TEMPERATURE CONTROLLED SHIPMENTS ........................................ 39
+   ITEM 850            INTERNATIONAL FUEL SURCHARGE ..................................................................................... 39
+   ITEM 860            INTERNATIONAL FREIGHT CLAIMS ....................................................................................... 42
+   ITEM 870            CANADA CARBON SURCHARGE ............................................................................................. 42
+
+
+                                                                                ii
+SECTION 9 – FLATBED .......................................................................................................................................... 43
+    ITEM 910            TARPING (REQUESTED) ............................................................................................................. 43
+    ITEM 920            TARPING (PLACEMENT OF) ...................................................................................................... 43
+    ITEM 930            LOADING ....................................................................................................................................... 43
+    ITEM 940            ACCESSORIALS ........................................................................................................................... 43
+    ITEM 950            DETENTION WITH POWER (TRACTOR DETENTION) .................................................................. 45
+    ITEM 960            DETENTION WITHOUT POWER (TRAILER DETENTION) ........................................................... 45
+
+
+
+
+                                                                                 iii
+                                                               PREFACE
+
+The information contained herein or subsequently added, and any rates or charges contained herein, and/or rates and information in
+computerized data format, are the sole property of Werner.
+
+The transfer of electronic transmission, in whole or in part, requires prior approval of Werner.
+
+All rates and quotations are subject to periodic revisions, increases, and restructuring. Werner will make reasonable efforts to advise the
+user of record of any rate or information change, however, it is the user’s responsibility to determine the current status of all previously
+received rates, quotations and information.
+
+
+
+
+                                                                     1
+                                         SECTION 1 – GENERAL TERMS
+ITEM 100                                     BILLS OF LADING
+
+   The terms and conditions of the Standard Truckload Bill of Lading shall apply notwithstanding the use by Shipper of any other bill
+   of lading or shipping document. Drivers are not authorized to bind Werner to non-conforming bills of lading and execute bills of
+   lading with alternative terms and conditions as receipts for the shipment only. Any terms, conditions and provisions of such bill of
+   lading shall be subject and subordinate to the terms, conditions and provisions of this tariff and, in the event of a conflict between
+   the terms, conditions and provisions of such bill of lading and this tariff, the terms, conditions and provisions of this tariff shall
+   govern. Where a Bill of Lading issued by the shipper is signed for by Werner’s driver or other unauthorized person(s), that signature
+   acknowledges only receipt of the freight and identifies the entity to which to deliver. It is NOT a contract for the carriage of freight.
+   Continued use of an unauthorized Bill of Lading by the shipper will NOT constitute an implied acceptance by Werner. Werner
+   drivers are not authorized to accept freight for which Section 7 is executed or to bind the company for other types of nonrecourse
+   language.
+
+
+
+
+                             REMAINDER OF PAGE LEFT INTENTIONALLY BLANK
+
+
+
+
+                                                                    2
+3
+4
+ITEM 103                                     LITIGATION
+
+   To the extent not governed by federal law, the terms of this Tariff will be governed by the law of the State of Nebraska. In the event
+   of any dispute pursuant or related to, or arising out of, this Tariff or transaction, including but not limited to the effect of any term,
+   covenant or provision, any litigation must be filed in the state or federal courts embracing Douglas County, Nebraska, and the
+   parties waive any objections to the jurisdiction of such courts and to venue in such courts.
+
+         ___________________________________________________________________________________________
+
+ITEM 105                                     BILLS OF LADING, CONTRACTS AND AUTHORITY OF COMPANY
+                                             PERSONNEL
+
+   ONLY Werner officials or personnel expressly authorized to do so by Werner have authority to enter into agreements; alter existing
+   agreements; approve rates or pricing; approve deviations from published, contractual, or agreed rates or pricing; approve
+   adjustments to freight bills or invoices; or take any other action to bind Werner to contractual terms and conditions. Expressly
+   authorized officials are Werner personnel with the title of Vice President, or any higher title. Terminal managers, drivers, sales
+   personnel, and other personnel without the title of Vice President, or any higher title are not authorized personnel.
+
+   The terms of pricing agreements (tariffs) or contracts issued, agreed to, or published by the Werner authorized personnel supersede
+   any and all verbal or other agreements made by unauthorized or authorized personnel and may not be modified except by written
+   amendment approved by an authorized official.
+
+   The terms of this Tariff may be modified or waived only as set forth in this Item 105. Any deviation from the terms of this Tariff
+   or failure to enforce the terms of this Tariff shall not constitute a waiver of the right to enforce such terms in the future, nor shall
+   any course of dealing or course of performance thereby arise.
+
+   Where a Bill of Lading issued by the shipper is signed for by Werner’s driver or other unauthorized person(s), that signature
+   acknowledges only receipt of the freight and identifies the entity to which to deliver. It is NOT a contract for the carriage of freight.
+   Continued use of an unauthorized Bill of Lading by the shipper will NOT constitute an implied acceptance by Werner. Werner
+   drivers are not authorized to accept freight for which Section 7 is executed or to bind the company for other types of nonrecourse
+   language.
+
+         ___________________________________________________________________________________________
+
+ITEM 110                                     BROKERAGE AUTHORITY
+
+   Werner has authority to operate as a freight broker and reserves the right to provide transportation service through as a broker rather
+   than acting as motor carrier. In the event Werner chooses to handle the shipment as a broker, Werner’s liability and obligations
+   shall be as a broker and not a carrier. In the event that Werner acts as a broker and is listed on the bill of lading as the carrier, this
+   is for convenience only and is not intended to indicate that it is the carrier.
+
+         ___________________________________________________________________________________________
+
+ITEM 115                                     SUBSEQUENT VERSIONS OF THIS TARIFF
+
+   When this tariff is amended, all shipments accepted by Werner after the amendment are subject to the revision. The current tariff
+   is available by request or at the Werner’s website at www.werner.com.
+
+         ___________________________________________________________________________________________
+
+ITEM 120                                     INTERPRETATION OF THIS TARIFF
+
+   No provision of this Tariff may be altered or amended orally, and any deviation from this Tariff must be in writing and agreed to
+   by an Authorized Official of Werner (see Item 105). This Tariff is subject to change without notice. The version of the Tariff in
+   effect at the time of the acceptance of the shipment will apply to the shipment.
+
+         ___________________________________________________________________________________________
+
+                                                                    5
+ITEM 125                                    GOVERNING PUBLICATIONS
+
+   This tariff is governed, except as otherwise provided herein, by the following described publications, and by supplements thereto
+   or successive reissues thereof. (Note A).
+
+
+       Mileage                          Rand McNally electronic mileage guide 19.01
+       Rules                            WERNER TARIFF
+       Claims/Classification
+       Zip Code                         Geomaster ver. 99.10, eff 10/1/99,
+                                        or subsequent version reissues thereof.
+       HazMat                           DOT 49 CFR Parts 106-180,1005
+
+
+
+       Note A – When an item is published in this tariff covering the same service as an item published in a tariff mentioned in this
+       item, such item published herein, to the extent of its application, will apply in lieu of the items published in tariff’s mentioned
+       in this item.
+
+         ___________________________________________________________________________________________
+
+ITEM 130                                    INTERSTATE VS. INTRASTATE
+
+   The rules set forth in this Tariff shall apply to all shipments handled by Werner regardless of the origin or destination.
+
+         ___________________________________________________________________________________________
+
+ITEM 135                                    MILEAGE GUIDE
+
+   Where rates are set forth in cents per mile or other calculation based on mileage, distances shall be determined from origin to
+   destination via intermediate points as specified by the Shipper utilizing the most recent edition of the following mileage guide:
+
+   Rand McNally electronic mileage guide 19.01
+
+         ___________________________________________________________________________________________
+
+ITEM 140                                    NON APPLICATION OF TARIFF
+
+
+   Where Werner has published a specific tariff for a shipper, the terms of that pricing/tariff shall apply in lieu of this tariff. Werner
+   reserves the right to cancel any tariff or schedule not utilized within 30 days of the effective date.
+
+         ___________________________________________________________________________________________
+ITEM 145                                    NOTICE AND AMENDMENTS
+
+   Upon written request, Werner will provide its customers and shippers with copies of all applicable rules and rates. Rules and
+   accessorial charges are available on Werner’s web site at: www.werner.com.
+
+         ___________________________________________________________________________________________
+
+ITEM 150                                    OPERATING AUTHORITY
+
+   Werner has 48 state irregular route authorities within the United States. Copies of the operating certificate are available upon
+   request.
+
+         ___________________________________________________________________________________________
+
+                                                                   6
+ITEM 155                                     PARTICIPATING CARRIERS
+
+   Motor carriers party to this tariff are shown below under concurrence with Werner and apply jointly with Werner on shipments
+   interchanged to the extent shown:
+
+
+   SCAC                   Werner Name                          Interchange Point
+                          And USDOT Number
+
+   WENP                   Werner Enterprises, Inc. 53467.      various
+
+         ___________________________________________________________________________________________
+ITEM 160                                     RATES AND SCHEDULES
+
+   The rules published herein are applicable to all shipments transported by Werner or its Participating Carriers unless expressly
+   waived in a signed bilateral contract pursuant to 49 U.S.C. 14101(b). Rates and schedules may be published in rate catalogues, on
+   a shipper specific basis or pursuant to a spot market rate quotation.
+
+         ___________________________________________________________________________________________
+
+
+ITEM 165                                     REGULATED VS. EXEMPT
+
+   The rules set forth in this Circular shall apply to shipments exempt from economic regulation as well as shipments subject to the
+   jurisdiction of the FMCSA. Liability for loss, damage and delay shall be governed by 49 U.S.C. §14706 (the Carmack Amendment)
+   or, where applicable, by the Carriage of Goods by Seas Act (COGSA).
+
+         ___________________________________________________________________________________________
+
+ITEM 170                                     WAIVER
+
+   Werner’s failure to enforce the terms of this Tariff shall not be a waiver of Werner’s rights to do so in the future.
+
+         ___________________________________________________________________________________________
+
+ITEM 175                                     CONSENT TO JURISDICTION
+
+   Unless Werner and the purchaser of Werner’s services have previously agreed in writing to proceed otherwise, Werner and the
+   purchaser of Werner’s services consent to the exclusive personal jurisdiction of the State and Federal Courts embracing Douglas
+   County, Nebraska for filing all civil actions arising out of the transportation services performed, or to be performed by Werner.
+
+
+
+
+                                                                   7
+                                            SECTION 2 - OPERATIONS
+
+         ___________________________________________________________________________________________
+
+ITEM 200                                    APPLICATION OF CIRCULAR
+
+   Each provision of this Tariff shall apply to each transportation agreement entered into by Werner unless expressly waived in a
+   signed, written agreement.
+
+         ___________________________________________________________________________________________
+
+ITEM 205                                    APPOINTMENTS/PICKUP & DELIVERY TIMES
+
+   Pick-ups and deliveries will be during customer’s normal business hours. Appointments will be made at no charge. Werner will
+   not be liable for late deliveries or un-kept appointments. Consignee shall facilitate prompt unloading in the event of missed
+   appointments.
+
+         ___________________________________________________________________________________________
+
+ITEM 210                                    PROHIBITED COMMODITIES
+
+   Werner will not accept the following commodities for transportation or storage:
+      A. Explosives Division 1 through 6
+      B. Poison/Toxic Gases Division 2.3
+      C. Spontaneously Combustible Division 4.2
+      D. Dangerous When Wet Division 4.3
+      E. Poisonous/Toxic Materials Division 6.1
+      F. Infectious Substances/Etiological Agents Division 6.2
+      G. Class 7 Radioactive Materials
+      H. Poison Inhalation Hazards
+      I. Ammonium Perchlorate
+      J. Carbon Black
+      K. Empty Cylinders
+      L. Empty Drums Containing Residue
+      M. Xylene
+      N. Garbage, trash and refuse including hazardous waste.
+      O. Any item that does not contain the proper UN (United Nations) or DOT (Department of Transportation) safety labeling or
+          the appropriate Emergency Response information in the form of a material safety data sheet, the appropriate Emergency
+          Response Guidebook reference page or any other appropriate format authorized under 49 CFR 172.602(b).
+      P. Household goods and furniture
+      Q. Contraband artwork
+
+         ___________________________________________________________________________________________
+ITEM 215                                    CONVENIENCE INTERLINING
+
+   In order to provide the most efficient, economical service to the shipping public, Werner will utilize the service of the other named
+   carriers participating in this tariff to achieve the transportation service required for tendered shipment, EXCEPT if bills of lading
+   covering tendered shipments are noted by shippers that “convenience interlining not applicable,” convenience interlining will not
+   be utilized. Interchange of freight of service will be at points common to the authorized service of Werner. Shipments accorded
+   “convenience interlining” will move on the bill of lading of Werner, which will assume responsibility for the lading, and such
+   shipments will be charged for service performed exclusively by Werner.
+
+         ___________________________________________________________________________________________
+
+
+
+
+                                                                  8
+ITEM 220                                    DROPPED TRAILERS
+
+   Werner may, for the convenience of its customers, drop trailers at a designated location. Werner’s customer assumes responsibility
+   for loss of or damage to such trailers until such time as Werner accepts the freight tendered on the dropped trailer. Werner has no
+   liability for loss or damage to freight on a dropped trailer until such time as Werner’s driver accepts such freight.
+
+         ___________________________________________________________________________________________
+
+ITEM 225                                    HAZARDOUS MATERIAL SHIPMENTS
+
+   Over-the-road shipments of hazardous materials, wastes or substances will be subject to the following requirements:
+
+       A. Shipper must provide Werner at least 48 hours prior notice before providing any load information (i.e. Shipper, origin,
+          consignee, and destination).
+       B. Shipments which are delayed at any time due to restrictions by Shipper, its agent, consignee, or any government body will
+          be subject to a delay charge of $750.00 per 24 hour period or fraction thereof. Charges will begin to accrue when the load
+          is delayed and will cease when the load is cleared for transport.
+       C. Each hazardous materials load must be properly noted on the bill of lading. There will be a charge of $250.00 per
+          shipment.
+       D. When special permits are required by law, the cost of such permits shall be paid by the party paying the freight charges.
+
+   Shipper shall pay all costs associated with the cleanup of Shipper's material when such cleanup is the result of Shipper's negligence.
+   Such causes may include, but are not limited to, package failure, improper loading/securement, exceeding package outage/pullage
+   limits, leaking packaging, overweight loading, etc.
+
+         ___________________________________________________________________________________________
+
+
+ITEM 230                                    IMPORT & EXPORT FREIGHT – CANADA/MEXICO
+
+   Limitation of Werner’s Liability for Proper Customs Clearance. Werner assumes no responsibility for insuring or otherwise
+   providing for clearance of merchandise through or inspection by Canadian or Mexican Customs. Werner does not represent and
+   specifically disclaims any knowledge or expertise in proper customs clearance and inspection matters. Werner is not responsible
+   for the acts or omission of any Customs Agent or its affiliated Freight Forwarder that may be selected for the purpose of clearing
+   shipper’s merchandise through Customs. Werner will serve merely as a liaison between Shipper and the Customs Agent (and the
+   Customs Agent’s Freight Forwarder) at shipper’s request and only as a convenience to shipper. Werner or party in possession will
+   not be liable for loss, damage, deterioration of the freight or delay in delivery due to the duration of the period required by customs
+   clearance or inspection.
+
+         ___________________________________________________________________________________________
+
+
+ITEM 235                                    IMPRACTICAL OPERATIONS
+
+   Nothing in this rule circular requires Werner to perform pick-up or delivery service at any location from or to which it is
+   impracticable, through no fault or neglect of Werner to operate vehicles because of:
+
+       (A) The condition of roads, streets, driveways, or alleys;
+       (B) Inadequate loading or unloading facilities; or
+       (C) Riots, Acts of God, fire, the public enemy, the authority of law, strikes or labor unrest the existence of violence, or such
+           possible disturbances as to create reasonable apprehension of danger to person or property.
+
+         ___________________________________________________________________________________________
+
+ITEM 240                                    INDEMNITY
+
+   Shipper shall indemnify, defend and hold harmless Werner from any and all liabilities, judgments and expenses resulting from any
+   injury or death, loss or destruction to persons or property (excluding cargo): (i) arising out of Shipper’s negligent performance
+   under this Agreement, (ii) caused by a material breach of Shipper’s obligations hereunder, or (iii) caused by the negligence of
+   Shipper, its employees, its agents, or representatives.
+                                                                  9
+    Shipper shall indemnify, defend and hold harmless Werner from any and all liabilities, judgments and expenses resulting from any
+    injury or death, loss or destruction to persons or property (excluding cargo): (i) arising out of Shipper’s negligent performance
+    under this Agreement, (ii) caused by a breach of Shipper’s obligations hereunder, or (iii) caused by the negligence of Shipper, its
+    employees, its agents, or representatives.
+
+    Werner shall indemnify, defend and hold harmless Shipper from any and all liabilities, judgments and expenses resulting from any
+    injury or death, loss or destruction to persons or property (excluding cargo): (i) arising out of Werner’s negligent performance
+    under this Agreement, (ii) caused by a material breach of Werner’s obligations hereunder, or (iii) caused by the negligence of
+    Werner, its employees, its agents, or representatives.
+    Shipper shall indemnify, defend and hold harmless Werner from any and all liabilities, judgments and expenses resulting from any
+    injury or death, loss or destruction to persons or property (excluding cargo): (i) arising out of Werner’s negligent performance
+    under this Agreement, (ii) caused by a breach of Werner’s obligations hereunder, or (iii) caused by the negligence of Werner, its
+    employees, its agents, or representatives.
+
+    In the event a claim results from the joint negligence of the parties, Shipper and Werner shall apportion all damages and defense
+    costs between themselves according to the proportion their relative fault contributed to the damages suffered.
+
+          ___________________________________________________________________________________________
+
+ITEM 245                                      INTERMODAL SHIPMENTS
+
+    Werner participates in the Uniform Intermodal Interchange Agreement (UIIA). See Section 6 for rules applicable to Intermodal
+    Shipments.
+
+          ___________________________________________________________________________________________
+
+ITEM 250                                      ON-HAND SHIPMENTS
+
+  From time to time and for various reasons, freight may be deemed to be “on-hand.” Freight will be deemed on-hand with or without
+  notice. When freight is “on-hand” the legal liability of Werner is altered from that of a motor carrier to that of a warehouseman
+  pursuant to the Uniform Commercial Code. The procedures which Werner agrees to and will take as a warehouseman involve the
+  use of ordinary care to keep the lading in a safe or suitable place or to store the lading properly. Werner: (a) shall place the lading in
+  public storage, if available, unless Werner receives contrary disposition instructions from Shipper within twenty-four (24) hours, and
+  (b) may offer the lading for public sale if disposition instructions are not given by Shipper within ten (10) days of Werner’s initial
+  notification to Shipper. In the case of perishable lading, Werner may dispose of the lading at a time and in a manner Werner deems
+  appropriate. Shipper will be responsible for storage costs and reasonable costs Werner incurs in acting as a warehouseman. To the
+  extent any sale or disposal revenues exceed the storage costs and the costs Werner incurs as a warehouseman, Werner shall remit the
+  balance to Shipper. If Shipper gives Werner timely disposition instructions, Werner will use any commercially reasonable steps to
+  abide by such instructions. Shipper will pay Werner’s costs and any additional transportation costs Werner incurs in doing so.
+
+          ___________________________________________________________________________________________
+
+ITEM 260                                      PACKAGING REQUIREMENTS
+
+  Where packaging requirements are not otherwise provided by tariff or contract, the packaging requirements that are the custom and
+  standard in the industry that are sufficient to withstand the rigors of ground transportation will apply. Where packaging requirements
+  are provided in this tariff, rates provided therewith will apply only when the article or articles are packaged in accordance with such
+  packing requirements, provided, however, that rates subject to such packaging requirements will apply also when the article or articles
+  so packed as required are placed on pallets.
+
+          ___________________________________________________________________________________________
+
+
+ITEM 262                                      PACKING OR PACKAGING, BLOCKING, RACKS, STANDARDS OR
+                                              SUPPORTS
+
+Any temporary blocking, flooring or lining, racks, pallets, standards, stakes or similar bracing, dunnage or support or other commonly
+used items not constituting a part of the truck when required to protect and make freight secure for shipment, will be furnis hed and
+installed at the expense of the Shipper unless Werner has agreed to supply said equipment free of charge. The weight of this equipment
+will be considered part of the shipment.
+                                                                   10
+         ___________________________________________________________________________________________
+
+ITEM 265                                    PICKUP & DELIVERY SERVICE
+
+   The rate names herein include pickup or delivery at all points within the limits of the cities, towns, villages and other points from
+   and to which rates apply, but each shipment will include only one pickup and one delivery.
+
+
+   1. Charges must be either paid by the party requesting the service or guaranteed to the satisfaction of Werner prior to pick-up or
+   delivery service.
+
+   2. The term “holiday” means New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Christmas Day
+   or any other day generally observed as a holiday by Werner at the point where the service is performed.
+
+         ___________________________________________________________________________________________
+
+ITEM 270                                    RIGHT TO OPEN/INSPECT
+
+   Werner reserves the right to open/inspect any freight which has been accepted for shipment, including loads that have been sealed.
+
+         ___________________________________________________________________________________________
+
+ITEM 273                                    SERVICE STANDARDS
+
+   Werner does not offer guaranteed service on any shipments. On all shipments, freight will be delivered upon reasonable dispatch.
+   Appointment times and notations such as “must deliver by” on the bill of lading are insufficient to alter the reasonable dispatch
+   standard.
+         ___________________________________________________________________________________________
+
+ITEM 275                                    SHIPPER LOAD & COUNT
+
+   All shipments shall be loaded by the consignor and unloaded by the consignee. Werner’s drivers are instructed to sign bills of
+   lading as shipper load and count or “SLC”. Inadvertent omission of this notation will not result in a presumption of Werner liability
+   for shortage or damage (in the absence of upset or accident) where the driver was either not present or not allowed to observe the
+   loading and unloading.
+
+         ___________________________________________________________________________________________
+
+ITEM 280                                    SUBSTITUTED SERVICE
+
+   For its operating convenience, Werner reserves the right to hire other carriers as qualified subcontractors to provide all or part of
+   given movements. Werner agrees to protect the rates set forth herein when substituted services are provided and warrants that all
+   terms, conditions, duties and obligations owed to Shipper by this circular, bill of lading, and/or contract will be provided.
+
+         ___________________________________________________________________________________________
+
+
+ITEM 285                                    TERRITORIAL SCOPE
+
+   Werner is authorized by the Federal Motor Carrier Safety Administration (FMCSA) under MC # 138328:
+   “To operate as a common carrier, by motor vehicle, in interstate or foreign commerce, over irregular routes, transporting general
+   commodities (except classes A and B explosives, household goods and commodities in bulk), between points in the United States
+   (except Alaska and Hawaii).”
+
+
+
+
+                                                                 11
+         ___________________________________________________________________________________________
+
+ITEM 290                                    WEIGHTS
+
+       1.   When Shipper moves freight via Werner and does not have a signed Contract on file with Werner, all shipments will be
+            subject to a minimum weight of 4,000 lbs. rated accordingly.
+       2.   When Shipper moves freight via Werner under a signed contract containing no pricing provisions, shipments will be subject
+            to a minimum weight of 4,000 lbs. rated accordingly.
+       3.   Maximum weight per vehicle shall be 45,500 lbs.
+       4.   Weights include pallets or other shipping materials.
+         ___________________________________________________________________________________________
+
+ITEM 293                                    EQUIPMENT
+
+       (1) No Shipper or receiver will have the right to the exclusive use of equipment. Note: Werner will determine the utility of
+           its equipment in relation to the customer’s need.
+       (2) Werner’s equipment is controlled and operated by Werner’s employees and owner operators only. Any other use or
+           operation, without specific written authorization is expressly prohibited.
+
+         ___________________________________________________________________________________________
+
+ITEM 295                                    FOOD SAFETY PROTOCOL
+
+   For shipments subject to the Food Safety Modernization Act (“Act”) and associated regulations, Shipper or Broker must inform
+   Werner, in writing, of applicable transportation protocols. An authorized official of Werner (See Item 105) must agree to the
+   protocols. Protocols provided in a bill of lading or other shipping document are not sufficient to trigger’s Werner’s obligations
+   under the Act. If Shipper or Broker fails to comply with these requirements, Werner will be unable to comply with its responsibilities
+   under the Act and shall not be liable for loss or damage to shipments resulting therefrom. Shipper or Broker will defend, indemnify,
+   and hold Werner harmless for claims arising from Shipper’s or Broker’s failure to comply with the requirements of this item.
+
+
+
+
+                                                                  12
+                                  SECTION 3 – ACCESSORIAL CHARGES
+
+NOTE: Accessorials may be performed by contractors or other outside vendors who are not employed by Werner. Werner is
+      not liable for the performance of these outside parties.
+       ___________________________________________________________________________________________
+
+
+ITEM 300                                   ACCESSORIAL CHARGES--GENERAL
+
+    Werner reserves the right to bill and collect accessorial charges from the consignor or consignee which incurred those charges.
+    Rates and charges are based upon Shipper load and Consignee unload and subject to Werner accessorial charges including fuel
+    surcharge. Maximum weight not to exceed legal weight limit. All Rates are governed by Rand McNally electronic mileage guide
+    19.01
+
+ Accessorial                       Accessorial Terms
+ Minimum Charge                    $650 per shipment, except if noted otherwise on another specific rate page related to this
+                                   publication or as follows (for purposes of this accessorial charge, the states of CT, DC, DE, MA,
+                                   MD, ME, NH, NJ, NY, PA, RI and VT shall be defined as "Northeast States"):
+                                   * Outbound from FL will be $350 per shipment.
+                                   * Outbound from Northeast States will be $450 per shipment.
+                                   * Intra Northeast states will be $700 per shipment
+ Stops In Transit                  $150 for the first stop; $175 for the second; $250 for the third; $400 for each stop thereafter
+                                   (When rates are stated in dollars per vehicle used or in cents per 100 pounds, circuitous miles are
+                                   $2.00 per mile)
+ Impractical Operations            $2.00 per mile exceeding shortest route
+ Detention - Without Power         See Item 310
+ Detention - With Power            See Item 320
+ Hazardous Material Service        $300 hazmat service charge, includes trailer washout
+ Charge
+ Reconsignment or Diversion        $250, subject to stop-in-transit rules
+ Non Permitted Use of Equipment    Utilization of equipment, which does not strictly comply with the intended use between Werner
+                                   and its customer, will result in a $400 USD per trailer or container, per day, for each occurrence.
+ New York Surcharge (Zips: 100-    Additional $500 for any destination or stop(s) (for partial loading or unloading) in these zip codes.
+ 104, 106-107, 110-119)
+ Florida Keys Surcharge (Zips:     Additional $400 for any destination or stop(s) (for partial loading or unloading) in these zip codes.
+ 33001,33036-33037,33040-
+ 33043,33045,33050-33052,
+ 33070
+ Load/Unload Charge                Customer will pay face value of lumper receipt or a minimum load/unload charge of $150. If sort
+                                   and segregate is required there will be an additional $150 charge.
+ C.O.D. Shipments                  $100 per C.O.D. collection
+ Two-Man Driver Teams              Additional $0.20 per loaded mile, when requested
+ Additional Copies of Proof of     A digitized image of the bill of lading shall accompany each freight bill at no charge. Additional
+ Delivery                          copies of such bills of lading shall be available for $15 USD
+ Multiple Invoices                 $75 for each additional consignee billed
+ Payment/Collection of Charges     All charges must be paid within seven (7) day from the date of delivery at final destination. 2% per
+                                   month on charges not paid within 30 days of billing. 10% on all balances offset against
+                                   charges/billing in error.
+ Ferry Charges                     Customer will pay face value on all applicable round trip ferry charges.
+ Pallet Charge                     $15 per pallet
+ Returned, Undelivered             $2.00 per mile for all miles from origin and returning back to the origin point, subject to a $600
+ Shipments                         minimum
+ Vehicle Furnished But Not Used    $250 per occurrence
+ Layover                           $350 per occurrence for solo drivers
+                                   $500 per occurrence for team drivers
+ Dunnage Disposal                  $150 charge assessed if carrier is responsible for disposal of materials used in securing the
+                                   shipment for transport
+
+
+                                                                  13
+  IN ADDITION TO THE ABOVE ACCESSORIALS, THE FOLLOWING WILL APPLY TO ALL INTERNATIONAL
+                                       SHIPMENTS:
+
+
+Accessorial                    Accessorial Terms
+In-Bond Charge                 $125 per in-bond shipment
+Hazmat Charges                 Additional charges may apply for shipping hazardous material in Mexico
+Expedited Shipments            Additional charges may apply.
+Overweight Rework Charge       $100 USD per hour with a 2 hour minimum for palletized shipments
+Late or After Hours Border     $150 USD charge for any "After Hours" crossing. Must be prearranged during
+Crossing                       "Normal Business Hours" defined as follows:
+                               - Monday - Friday 0800 - 2200 and Saturday 1000 - 1600. Any loads crossing at any
+                               time outside these hours are defined as "After Hours".
+
+Mexico Border                  $100 USD per day after 3 (three) working days not including delivery day. After
+Detention/Demurrage            charges have began to be incurred, weekends and holidays will be included and
+                               charged. All charges incurred must be paid prior to the trailer crossing the border.
+Mexican Northbound Border      An additional $300 fee will be applied for all outbound Mexico loads that are
+Termination Fee                unloaded at the border without prior authorization from Werner.
+Mexico Destination Surcharge   An additional $500 for any destination or stop(s) for partial unloading in the
+States                         following Mexican states:
+                               -BS - Baja California-Sur
+                               -CH - Chiapas
+                               -CP - Campeche
+                               -QR - Quintana Roo
+                               -TA - Tabasco
+                               -YC - Yucatan
+
+
+Mexico Toll Charge             $35 will apply on all Southbound and Northbound shipments passing through
+                               Laredo, TX.
+Arranged or Performed Dray     Charges for cross border dray or shuttle services performed to or from Forwarders,
+Services                       Custom Brokers or Mexican Carriers will be as follows:
+                               - Nogales, AZ to/from Nogales, SO - $260 USD
+                               - Calexico, CA to/from Mexicali, BJ - $260 USD
+                               - Otay Mesa, CA to/from Tijuana, BJ - $315 USD
+                               - Brownsville, TX to/from Matamoros, TM - $260 USD
+                               - El Paso, TX to/from Ciudad Juarez, CI - $250 USD
+                               - Laredo, TX to/from Nuevo Laredo, TM - $150 USD
+                               - McAllen, TX to/from Reynosa, TM - $260 USD
+                               - Eagle Pass, TX to/from Piedras Negras, CU - $350 USD
+                               - Del Rio, TX to/from Ciudad Acuna, CU - $250 USD
+
+
+Canada Customs                 In the event that Canada Customs selects shipments for an inspection the shipper or
+Unload/Search Charge           importer (whichever is responsible for the freight Charges) will be liable for
+                               associated charges. Canada Customs does routinely inspect freight before allowing
+                               entry into Canada, which results in mandatory unload/re-load by a third party
+                               vendor at the port. In such cases shipper or importer will be responsible for these
+                               third party charges.
+
+
+
+
+                                                             14
+ Canada Border Detention            $90 USD for each hour beyond 2 hours free time. This applies to, but is not limited
+                                    to, delays at the border attributed to shipper/importer failure to provide proper or
+                                    complete documentation, correct broker information or advance notification of
+                                    shipment to applicable government agency.
+
+ Canada FDA Pre-Notification        $30 USD charge for all shipments which require the carrier to perform the pre-
+ Charge                             notification function to the FDA. Where the shipper / importer / exporter or broker
+                                    notifies, no charge will apply.
+
+         ___________________________________________________________________________________________
+
+
+
+
+ITEM 310                                     DETENTION WITHOUT POWER
+
+   Shipper/Consignee will receive a forty-eight hour period for trailers to reside at the facility waiting to be loaded or unloaded. Each
+   additional full day beyond this time allowance will be billable to the Shipper/Consignee. Saturdays, Sundays and holidays will be
+   excluded when computing per diem charges, provided they fall within the free-time. Computation of free-time will begin at 12:01
+   AM the day after constructive placement of the trailer. Shipper/Consignee will be responsible for notifying Werner when trailer is
+   available for pickup and will be charged until notification is received by Werner. Notification may be made via fax or email to the
+   phone number or email address provided by Werner. Separate invoice billing will be provided on a monthly basis.
+
+
+                                        The rates applicable to trailer detention are as follows:
+
+                                             Dry Van Trailer Detention Rate Schedule
+
+                     Full Days After Trailer                                Detention
+                          Placement                                      Charge Per Day
+                                1ST – 2nd Day                                    $0.00
+                             rd
+                            3 day and beyond                                     $60.00
+
+         ___________________________________________________________________________________________
+
+
+ITEM 320                                     DETENTION WITH POWER
+
+   Shipper/Consignee will receive free time as indicated below for tractors to reside at the facility waiting to be loaded or unloaded.
+   Each additional time beyond the free time allowance will be billable to the Shipper at the rate indicated below. Computation of free
+   time will commence at either the truck’s arrival date/time, or the appointment date/time, whichever is later. In the event there a
+   multiple pickups or deliveries during the trip, the free time for each stop associated with either the pick up or delivery of the load
+   will be allowed free time as indicated below.
+
+   The rates applicable to tractor detention are as follows:
+
+                                                  Tractor Detention Rate Schedule
+
+
+                                  Segment                   Elapsed Time            Detention Charge Per Hour
+                               Initial Loading                 2 Hours                         $0.00
+                                                            After 2 Hours                     $110.00
+                                    Stop                       2 Hours                         $0.00
+                                                            After 2 Hours                     $110.00
+                                Final Delivery                 2 Hours                         $0.00
+                                                            After 2 Hours                     $110.00
+
+
+         ___________________________________________________________________________________________
+
+
+
+                                                                   15
+   ITEM 310                                   FUEL SURCHARGE
+
+        Shipper and Carrier agree, that based on the Department of Energy (DOE) National Average price of fuel, all linehaul rates
+        charged to Shipper shall be adjusted according to the table shown below. If applicable, the surcharge will be effective for
+        loads dispatched Monday through Sunday based on the DOE National Average price released on Monday of that Week:
+
+                                                      DOE Average              $ Per Mile
+      DOE Average           $ Per Mile                                                                DOE Average                 $ Per Mile
+                                                 Greater                          Fuel
+Greater                        Fuel                                                                Greater                           Fuel
+                                                  Than     but Less Than       Surcharge
+  Than    but Less Than     Surcharge                                                               Than     but Less Than        Surcharge
+$    1.05 - $ 1.099         $         -         $    2.55   - $ 2.599          $     0.30        $      4.00 - $ 4.049            $     0.59
+$    1.10 - $ 1.149        $       0.01         $    2.60   - $ 2.649          $     0.31        $      4.05 - $ 4.099            $     0.60
+$    1.15 - $ 1.199        $       0.02         $    2.65   - $ 2.699          $     0.32        $      4.10 - $ 4.149            $     0.61
+$    1.20 - $ 1.249        $       0.03         $    2.70   - $ 2.749          $     0.33        $      4.15 - $ 4.199            $     0.62
+$    1.25 - $ 1.299        $       0.04         $    2.75   - $ 2.799          $     0.34        $      4.20 - $ 4.249            $     0.63
+$    1.30 - $ 1.349        $       0.05         $    2.80   - $ 2.849          $     0.35        $      4.25 - $ 4.299            $     0.64
+$    1.35 - $ 1.399        $       0.06         $    2.85   - $ 2.899          $     0.36        $      4.30 - $ 4.349            $     0.65
+$    1.40 - $ 1.449        $       0.07         $    2.90   - $ 2.949          $     0.37        $      4.35 - $ 4.399            $     0.66
+$    1.45 - $ 1.499        $       0.08         $    2.95   - $ 2.999          $     0.38        $      4.40 - $ 4.449            $     0.67
+$    1.50 - $ 1.549        $       0.09         $    3.00   - $ 3.049          $     0.39        $      4.45 - $ 4.499            $     0.68
+$    1.55 - $ 1.599        $       0.10         $    3.05   - $ 3.099          $     0.40        $      4.50 - $ 4.549            $     0.69
+$    1.60 - $ 1.649        $       0.11         $    3.10   - $ 3.149          $     0.41        $      4.55 - $ 4.599            $     0.70
+$    1.65 - $ 1.699        $       0.12         $    3.15   - $ 3.199          $     0.42        $      4.60 - $ 4.649            $     0.71
+$    1.70 - $ 1.749        $       0.13                                                          $      4.65 - $ 4.699            $     0.72
+                                                $    3.20   - $ 3.249          $     0.43
+$    1.75 - $ 1.799        $       0.14                                                          $      4.70 - $ 4.749            $     0.73
+                                                $    3.25   - $ 3.299          $     0.44
+$    1.80 - $ 1.849        $       0.15                                                          $      4.75 - $ 4.799            $     0.74
+                                                $    3.30   - $ 3.349          $     0.45
+$    1.85 - $ 1.899        $       0.16                                                          $      4.80 - $ 4.849            $     0.75
+$    1.90 - $ 1.949        $       0.17         $    3.35   - $ 3.399          $     0.46        $      4.85 - $ 4.899            $     0.76
+$    1.95 - $ 1.999        $       0.18         $    3.40   - $ 3.449          $     0.47        $      4.90 - $ 4.949            $     0.77
+$    2.00 - $ 2.049        $       0.19         $    3.45   - $ 3.499          $     0.48        $      4.95 - $ 4.999            $     0.78
+$    2.05 - $ 2.099        $       0.20         $    3.50   - $ 3.549          $     0.49        $      5.00 - $ 5.049            $     0.79
+$    2.10 - $ 2.149        $       0.21         $    3.55   - $ 3.599          $     0.50        $      5.05 - $ 5.099            $     0.80
+$    2.15 - $ 2.199        $       0.22         $    3.60   - $ 3.649          $     0.51        $      5.10 - $ 5.149            $     0.81
+$    2.20 - $ 2.249        $       0.23         $    3.65   - $ 3.699          $     0.52        $      5.15 - $ 5.199            $     0.82
+$    2.25 - $ 2.299        $       0.24         $    3.70   - $ 3.749          $     0.53        $      5.20 - $ 5.249            $     0.83
+$    2.30 - $ 2.349        $       0.25         $    3.75   - $ 3.799          $     0.54        $      5.25 - $ 5.299            $     0.84
+$    2.35 - $ 2.399        $       0.26         $    3.80   - $ 3.849          $     0.55        $      5.30 - $ 5.349            $     0.85
+$    2.40 - $ 2.449        $       0.27         $    3.85   - $ 3.899          $     0.56        $      5.35 - $ 5.399            $     0.86
+$    2.45 - $ 2.499        $       0.28         $    3.90   - $ 3.949          $     0.57        $      5.40 - $ 5.449            $     0.87
+$    2.50 - $ 2.549        $       0.29         $    3.95   - $ 3.999          $     0.58
+
+
+
+
+   $5.450 - and up $.88 per mile plus an additional $.01 per mile for each $.05 increment or fraction thereof above $5.450.
+
+
+
+
+                                                                    16
+                                          SECTION 4 – FREIGHT CLAIMS
+
+                                                               NOTE:
+In an effort to provide its customers with quality service at competitive rates, Werner’s rates are dependent on its liability for lost or
+damaged goods being set at less than full value. To ensure customers are fully aware of this and all terms and conditions applicable to
+their shipments, Werner encourages shippers to review this Section 4 of the tariff. Note that, in exchange for the competitive pricing
+provided by Werner, some items may be subject to limitations of liability, released values or other options specific to a shipment or a
+commodity. Customers should carefully review this Section 4 of this tariff to understand these limitations as well as options for selecting
+increased liability limits. Customers are further encouraged to evaluate their cargo insurance program so they may tender their goods
+at the lowest possible overall cost while still being insured for a value consistent with their requirements.
+
+          ___________________________________________________________________________________________
+
+ITEM 400                                      EXCESS LIABILITY LIMITS AVAILABLE
+
+    Werner’s rates for the transportation of freight, whether provided in a written contract or otherwise, are dependent on value,
+    specifically on the limitations of liability described in this Section 4. IF SHIPPER DESIRES TO PURCHASE LIABILITY
+    LIMITS IN EXCESS OF THOSE DESCRIBED IN THIS SECTION 4, SHIPPER MUST COMPLY WITH THE
+    FOLLOWING PROVISIONS:
+
+         1.   Liability limits in excess of those described in this Section 4 are available at shipper’s option.
+         2.   The shipper must notify Werner no less than seventy-two (72) hours prior to pickup of the shipment for transportation that
+              the shipper chooses to purchase liability limits in excess of those described in this Section 4.
+         3.   The shipper must prepay the excess liability rate which is computed as (a) the rate quoted to shipper in writing, or in the
+              absence of a specific written quotation, the rate contained in Werner’s standard rate matrix, plus (b) two hundred fifty
+              percent (250%) of said rate.
+         4.   The shipping instructions on the bill of lading or shipping document must specifically note: that the shipment is moving
+              under excess liability rates.
+         5.   The maximum amount of excess liability that may be purchased is $250,000 per trailer load. In no event will Werner be
+              liable for any loss in excess of $250,000. If shipper attempts to purchase liability limits in excess of $250,000, Werner’s
+              liability will be limited to $250,000 and any payment for liability in excess of that amount will be returned to shipper.
+
+    Werner shall not be liable for any loss or damage to cargo occurring in Mexico while in the care, custody or control of a Mexican
+    carrier, freight forwarder, customs broker or any other third party carrier regardless of whether any such carrier was selected
+    and/or contracted by Werner, Shipper, a freight forwarder or a customs broker.
+
+          ___________________________________________________________________________________________
+
+ITEM 405                                      CLAIMS LIABILITY
+
+    Liability for claims will be governed by 49 USC § 14706 or, where applicable, the Carriage of Goods by Sea Act. Werner shall not
+    be liable to the owner of property for damage, loss or delay caused by (1) an act of default of the shipper, owner or consignee, or
+    their agents; (2) an Act of God, (3) the public enemy, (4) act of the public authority; (5) inherent vice of the goods (6) freezing or
+    spoiling of any perishable goods or property. Claims involving intrastate shipments and shipments of exempt commodities shall
+    be subject to this Section. Liability will be limited to actual loss to the goods. Transportation costs will not be considered part of
+    the claim if the claim is for invoice value of the goods. Werner shall not be liable for delay under any circumstances unless Werner
+    specifically agrees to take on such liability pursuant to Item 105.
+
+          ___________________________________________________________________________________________
+
+ITEM 410                                      CLAIMS PROCESS
+
+    The provisions of this Tariff are established in compliance with Federal Claim, Loss and Damage Regulations (49 C.F.R. § 370 et
+    seq. and the STBOL) which shall govern the investigation and disposition of claims for loss, damage, or delay to property
+    transported or accepted for transportation in interstate or foreign commerce.
+
+
+
+                                                                    17
+   (A) Werner shall, upon receipt in writing of a proper claim in the manner and form described in these regulations, acknowledge the
+       receipt of such claim in writing to the claimant within thirty (30) days after the date of its receipt by Werner unless Werner
+       shall have paid or declined such a claim in writing within thirty (30) days of the receipt thereof. Werner shall indicate in its
+       acknowledgment to the claimant what, if any, additional documentary evidence or other pertinent information may be required
+       by it to further process the claim as its preliminary examination of the claim, as filed, may have revealed.
+   (B) Werner shall, at the time each claim is received, create a separate file and assign thereto a specific unique claim file number
+       and note that number on all documents filed in support of the claim and all records and correspondence with respect to the
+       claim, including the written acknowledgment of receipt and, if in its possession, the shipping order and delivery receipt, if any,
+       covering the shipment involved at the time such claim is received, Werner shall cause the date of receipt to be recorded on the
+       face of the claim document, and the date of receipt shall also appear in Werner’s written acknowledgment of receipt to the
+       claimant.
+   (C) Claims in writing are required within nine (9) months from the date of delivery or from the time when delivery should have
+       been accomplished. A claim for loss, damage, injury or delay to cargo shall not be voluntarily paid by Werner unless filed in
+       writing, as provided in subparagraph (D) of this Item with Werner within the specified time limits applicable thereto and as
+       otherwise may be required by law, the terms of the bills of lading or other contract carriage, and all rules circular provisions
+       applicable thereto. Claims for concealed damages must be submitted to Werner within fourteen days of delivery. Any suit to
+       recover loss to damage or delay to cargo must be instituted no later than two years and one day after the claim is denied.
+   (D) Minimum filing requirements. A communication in writing from a claimant, filed with Werner within the time limits specified
+       in the bill of lading or contract of carriage or applicable contract between Werner and shipper and (1) containing facts sufficient
+       to identify the shipment (or shipments) of property involved; (2) asserting liability for alleged loss, damage, injury or delay;
+       and (3) making claims for the payment of a specified or determinable amount of money, shall be considered as sufficient
+       compliance with the provisions for filing claims embraced in the bill of lading or contract of carriage or applicable contract
+       between Werner and shipper.
+   (E) Documents not constituting claims such as bad order reports, appraisal reports of damage, notations of shortages or damage,
+       or both, on freight bills, delivery receipts, or other documents, or inspection reports issued by shipper or its inspection agency,
+       whether the extent of loss or damage is indicated in dollars and cents or otherwise shall, standing alone, not be considered by
+       Werner as sufficient to comply with the minimum claim filing requirements specified in subparagraph (D) above.
+   (F) Claims filed for uncertain amounts. Whenever a claim is presented against Werner for an uncertain amount such as “$100
+       more or less,” Werner shall determine the condition of the shipment involved at the time of delivery by it, if it was delivered,
+       and shall ascertain as nearly as possible the extent, if any, of the loss or damage for which it may be responsible. It shall not,
+       however, voluntarily pay a claim under such circumstances unless and until a formal claim in writing for a specified or
+       determinable amount of money shall have been filed in accordance with the provisions of subparagraph (D) above.
+   (G) Each claim filed against Werner in the manner prescribed herein shall be promptly and thoroughly investigated if investigation
+       has not already been made prior to receipt of the claim. Unless perishable commodities are involved, the shipper or consignee
+       in possession shall afford Werner five (5) days to inspect any damaged shipment prior to dispensation.
+   (H) Supporting documents. When a necessary part of any investigation, each claim shall be supported by the original bill of lading,
+       evidence of the freight charges, if any, and either the original invoice containing invoice value, a photographic copy of the
+       claim to be true and correct with respect to the property and value invoiced in the claim; or certification of prices or values,
+       with trade or other discounts, allowances or deductions of any nature whatsoever and the terms thereof, or depreciation reflected
+       thereon; provided, however, that where the property shows on the bill of lading or where the invoice does not show price or
+       value, or where the property involved has not been sold, or where the property has been transferred at bookkeeping values only,
+       Werner shall, before voluntarily paying a claim thereon, require the claimant to establish the destination value in the quantity
+       shipped, transported, or involved and certify the correctness thereof in writing or show an alternative applicable value arising
+       by reason of alternatively applicable contract terms.
+   (I) Verification of loss. A prerequisite to the voluntary payment by Werner of a claim for loss of an entire package or an entire
+       shipment shall be the securing by it of a certified statement in writing from the consignee of the shipment involved that the
+       property for which the claim is filed has not been received from any other source.
+   (J) Werner shall pay, decline, or make a firm compromise settlement offer in writing to the claimant within one hundred twenty
+       (120) days after receipt of the claim by Werner; provided, however that if the claim cannot be processed and disposed of within
+       120 days, after expiration of each succeeding sixty (60) day period while the claim remains pending, Werner shall advise the
+       claimant in writing of the status of the claim and the reason for delay in making final disposition thereof and it shall retain a
+       copy of each advice to the claimant in its claim file thereon.
+
+         ___________________________________________________________________________________________
+
+ITEM 415                                    CLAIMS LOSS & DAMAGE – ACCEPTANCE OF GOODS
+
+   The consignee must accept the goods tendered for delivery unless they are determined to be totally worthless.
+
+         ___________________________________________________________________________________________
+
+                                                                  18
+ITEM 420                                     CLAIMS LOSS & DAMAGE – CLEAR DELIVERY
+
+   When the Consignee receives a shipment without noting loss or damage, this is a clear delivery. When damage is claimed after a
+   clear delivery, such is referred to as concealed damage. Concealed damage shifts the burden of proof to the party asserting the claim to
+   show that the damage occurred while the freight was in the possession of the Werner.
+          ___________________________________________________________________________________________
+
+ITEM 425                                     CLAIMS LOSS & DAMAGE – SALVAGE
+
+   (A) Whenever property transported by Werner is damaged or alleged to be damaged and is, as a consequence thereof, not delivered
+       or is rejected or refused upon tender thereof to the owner, consignee, or person entitled to receive such property, Werner, after
+       giving due notice, wherever practicable to do so, to the owner and other parties that may have an interest therein, and unless
+       advised to the contrary after giving such notice, shall undertake to sell or dispose of such property directly or by the employment
+       of competent salvage agent. Werner will only dispose of the property in a manner that will fairly and equally protect the best
+       interests of all persons having an interest therein. Werner shall make an itemized record sufficient to identify the property
+       involved so as to be able to correlate it to the shipment or transportation involved, and claim, if any, filed thereon. Werner
+       shall also assign to each lot of such property a successive lot number and note that lot number on its record of shipment and
+       claim, if any claim is filled thereon.
+   (B) Whenever disposition of salvage material of goods will be made directly to an agent or employee of Werner or through a
+       salvage agent or company in which Werner or one or more of its directors, officers, or managers has any interest, financial or
+       otherwise, Werner’s salvage records will fully reflect the particulars of each such transaction or relationship, or both, as the
+       case may be.
+   (C) Upon receipt of a shipment on which salvage has been processed in the manner herein before prescribed, Werner shall record
+       on its claim file thereon the lot number assigned, the amount of money recovered, if any, from the disposition of such property,
+       and the date of transmittal of such money to the person or persons lawfully entitled to receive the same.
+   (D) To the extent that the Shipper asserts that the goods should be destroyed, Werner remains entitled to the salvage value the
+       goods would have generated had the goods been salvaged instead of destroyed.
+
+         ___________________________________________________________________________________________
+
+ITEM 430                                     DISPOSITION OF OVERAGE
+
+   Consignee shall accept overages in fulfillment of its duty to mitigate damages. Overages will be returned to the consignee or shipper
+   by Werner upon request in return for payment of Werner’s applicable freight charges. In the event consignor and consignee decline
+   to accept overages and mitigate damages, Werner will treat any overage as salvage and after notice shall sell same in accordance
+   with the bill of lading contract and the terms of this circular. The proceeds of any such sale less Werner’s freight and storage
+   charges will be remitted to the person or persons lawfully entitled to receive same. Werner will not be liable for any difference
+   between the sales price of overage and the destination market value where the shipper and consignee decline to mitigate damages.
+
+         ___________________________________________________________________________________________
+
+
+ITEM 435                                     LIMITATION OF LIABILITY
+
+   Unless excess liability is purchased by shipper as described in this Section 4, Werner’s liability for any loss, damage, theft, or
+   destruction of freight shall not exceed the least of the following:
+
+       A. The actual cost of the goods supported by a certified copy of the original invoice;
+       B. The cost of replacement or repair of the lost or damaged cargo;
+       C. The lowest limited liability amount specified in the Bill of Lading, any applicable contract governing the shipment, any
+          applicable tariff governing the shipment, any limitation of liability provided by any applicable law of Canada or Mexico
+          or a state or province of either, the Carriage of Goods by Sea Act, or this Section 4 of Werner’s tariff;
+       D. $100,000 per truckload shipment.
+
+   Notwithstanding any conflicting provision contained herein, Werner’s maximum liability for loss or damage to shipments of used
+   machinery, including, but not limited to, used production equipment, office equipment, computer warehouse equipment and racking,
+   shall be limited to Ten Cents ($.10) per pound.
+
+
+
+                                                                   19
+   For cargo loss or damage that occurs while cargo is in Mexico, Werner liability shall be limited to a maximum of $2,000. Even
+   where a shipment originates in the United States or Canada and travels on a through bill of lading to Mexico, the above $2,000
+   liability limitation will apply to any loss occurring in Mexico. In the event of loss of and/or damage to any shipment, Werner’s
+   liability will not exceed the above limitation based upon the country where the loss occurred. Werner shall not be liable for any loss
+   or damage to cargo occurring in Mexico while in the care, custody or control of a Mexican carrier, freight forwarder, customs broker
+   or any other third party carrier regardless of whether any such carrier was selected and/or contracted by Werner, Shipper, a freight
+   forwarder or a customs broker
+
+   For spot quote shipments, Werner’s liability will be limited to $.50 per lb.
+
+         ___________________________________________________________________________________________
+
+ITEM 440                                    FAK RATES
+
+   Where an FAK classification is allowed in any Contract Agreement and the NMFC 100 series provides for a released value for a
+   commodity being shipped, Shipper must release the shipment to the lowest possible valuation according to the NMFC 100 tariff.
+   Any applicable FAK class allowed is for rating purposes only and does not reflect any agreement by Werner to allow a higher
+   valuation on commodities being shipped.
+
+         ___________________________________________________________________________________________
+
+ITEM 445                                    MIXED COMMODITIES
+
+   Shipper must identify the specific commodity or product on the bill of lading for all transportation moving under FAK rates. If
+   Shipper fails to identify the specific commodity or product, Werner will not be liable for any damages to or destruction of the
+   product or commodity resulting from it being on the same trailer with other freight that is either incompatible or is prohibited by
+   federal, state or local laws and regulations from being co-loaded on the same trailer with the product or commodity moving under
+   the FAK rates.
+
+         ___________________________________________________________________________________________
+
+ITEM 455                                    SEALED TRAILERS
+
+   In the event Werner takes possession of a sealed trailer, delivery of the trailer with seal in-tact (absent evidence of tampering with
+   the trailer, doors, or hinges) conclusively defeats any claim of a shortage. Claims for an absent or missing seal may only be asserted
+   by the Shipper if the Shipper has adequate procedures in place for verifying that the seal was in place when the trailer left origin
+   and only when there is proof of actual damage to the goods, verified by testing or other procedures. Werner will have no liability
+   for cargo loss, damage or shortage where any seal is removed by order of any law enforcement or governmental authority.
+
+         ___________________________________________________________________________________________
+
+ITEM 460                                    SHORTAGE
+
+   Werner will not be responsible for shortage on shipments that are banded, strapped, netted, shrink-wrapped or otherwise secured to
+   bins, pallets, platforms or skids when such securing material is found to be intact at the time of unloading by consignee. Werner
+   will only be responsible for the number of bins, pallets, platforms or skids on such shipments.
+
+         ___________________________________________________________________________________________
+
+ITEM 465                         SPECIAL, CONSEQUENTIAL AND PUNITIVE DAMAGES
+
+   Werner will not be liable for special, incidental, indirect or consequential damages including without limitation, lost profits or
+   business opportunity, or punitive and exemplary damages incurred or suffered by the Shipper as a result of, but not limited to,
+   shortage, damage or delay. Additionally, Werner will not be liable for attorney’s fees of the Shipper.
+
+         ___________________________________________________________________________________________
+
+
+
+                                                                  20
+ITEM 470                                    SPOTTED EQUIPMENT
+
+   Werner responsibility for cargo begins when Werner picks up a shipment from the Shipper’s dock, or in the case of spotted
+   equipment, when Werner takes physical possession of the loaded trailer. Werner’s responsibility ends when the shipment is
+   delivered or in the case of spotted equipment, when the loaded trailer is placed in the consignee’s premises for its unloading
+   convenience.
+
+         ___________________________________________________________________________________________
+
+ITEM 475                                    INTERPLANT MOVES
+
+   Werner’s liability for loss, damage or destruction of any goods shipped on an Interplant Move will be limited to $2.00 per pound
+   per package. An Interplant Move is a shipment by a company from one of its facilities to one or more of its other facilities or
+   facilities of its divisions or subsidiaries of any items that are not manufactured or distributed by the company as part of its normal
+   business operations. Facilities of a company include, but are not limited to, its offices, warehouses, distribution centers or
+   manufacturing facilities.
+
+         ___________________________________________________________________________________________
+
+ITEM 480                                    RETURNED GOODS
+
+   Liability for loss, damage or destruction of property being returned to the original shipper, which was not initially transported by
+   Werner from the original shipper, will be limited to lost freight only and Werner will not be responsible for damages. Liability for
+   loss, damage or destruction of property being returned to the original shipper, which was initially transported by Werner from the
+   original shipper and delivered without exception, when Werner is not given an opportunity to inspect prior to return, will be limited
+   to lost freight only and Werner will not be responsible for damages.
+
+
+
+
+                                                                  21
+                                       SECTION 5 – FREIGHT CHARGES
+
+ITEM 500                                     CREDIT AND COLLECTIONS
+
+   (1) Any consignor or consignee must meet creditworthiness requirements or the shipment must be prepaid by the consignee.
+       Prepayment must be by credit card.
+   (2) Invoices for freight will, upon request be forwarded to third party freight services, however, it is the responsibility of the party
+       designated on the bill of lading as shipper (for prepaid shipments) or consignee (for collect shipments) to ensure payment is
+       made within the prescribed credit period. It is also the payer’s responsibility to ensure accurate and updated rates are supplied
+       to the freight payment service. The name, address and any account numbers of the freight service plan must be clearly stated
+       on the bill of lading. For third party payment shipments, Werner will invoice the shipper’s broker, bank or other agent for
+       freight charges. Werner reserves the right to bill and collect freight charges from the shipper on prepaid shipments or the
+       consignee on collect shipments in the event full payments of freight charges is not received pursuant to third party billing. A
+       shipment in which charges are to be paid by a party other than the consignor or consignee will be accepted provided recourse
+       to the consignor is preserved with Werner picking the shipments up at origin. The consignor and consignee guarantee to pay
+       the charges if the third party fails to do so in the time allotted under the applicable credit regulations. Any such shipment will
+       not be accepted if the consignor executes a non-recourse provision of the bill of lading. If such a provision is executed and the
+       shipment is inadvertently accepted, the non-recourse provision will be ineffective.
+   (3) Freight charges for prepaid shipments must be paid by credit card. Excluded are shippers or receivers who have established
+       credit terms with Werner prior to delivery.
+   (4) Werner will impose a processing fee of $50.00 per transaction for credit card payments.
+   (5) Additionally, when arrangements are made with intermediaries for transportation services provided by Werner and the
+       intermediary in turn bills the shipper or beneficial owner of the goods for freight charges inclusive of Werner’s rates, the
+       following rules apply:
+       (i) The intermediary will segregate money due owing to Werner from other accounts.
+       (ii) Intermediary will pay Werner without offset from funds received and shall not commingle, pledge, encumber or
+             hypothecate funds received by it intended for payment of freight charges to Werner.
+       (iii) When the arranger of transportation is a carrier or freight forwarder, a constructive interline trust shall apply.
+       (iv) When the arranger of transportation is a property broker, the regulations set forth at 49 C.F.R §371 et seq. shall apply and
+             monies received by the broker shall be segregated from its other assets and liabilities.
+       (v) In no event shall accounts receivable pledge or encumber by any intermediary be inclusive of freight charges billed by it
+             to the extent those freight charges are due and owing to Werner.
+       (vi) Werner preserves recourse for payment of all freight charges to the consignor, unless Section 7 of the bill of lading is
+             signed and to the consignee unless prior notice is given that the consignee is not to be responsible for freight charges in
+             accordance with the bill of lading.
+
+         ___________________________________________________________________________________________
+
+ITEM 510                                     COLLECTION AND PAYMENT OF CHARGES
+
+   Shipper shall pay Werner in full, within 7 calendar days of receipt of Werner’s invoice, for all transportation and related services
+   according to the addendum(s) and schedule(s) of rates negotiated between Werner and Shipper, and included by reference herein.
+   In the event payment is not made within fifteen days, Shipper agrees that interest will accrue daily and be made payable to Werner
+   at the lesser of 1.5% per month or the maximum legal rate and, in addition, Shipper may lose any discounts offered by Werner
+   under any contract agreement.
+
+         ___________________________________________________________________________________________
+
+ITEM 540                                     JURISDICTION AND VENUE OF COLLECTION SUIT
+
+   All action or proceedings instituted by Werner for the collection of freight charges owed by the shipper, consignor, consignee or
+   third party involved in the movement who has failed to pay such charges within 30 days of presentation of the freight bill, where
+   Werner initiates a lawsuit, such suit shall be brought in a state or federal court of competent jurisdiction embracing Douglas County,
+   Nebraska, or where the debtor resides (at the option of Werner). The parties will not raise, and hereby waive, any defenses based
+   on the venue, personal jurisdiction, inconvenience of forum, or sufficiency of service of process related to the place of bringing of
+   the action.
+
+
+
+                                                                   22
+         ___________________________________________________________________________________________
+
+
+ITEM 550                                     LIEN FOR FREIGHT CHARGES
+
+   Werner shall have a possessory lien on shipments in its dominion and control for the payment of current and past due freight charges.
+   Shipper’s goods will be held and sold pursuant to the Werner Lien provisions of the Uniform Commercial Code. Werner reserves
+   the right to convert any shipment to a collect shipment.
+
+         ___________________________________________________________________________________________
+
+ITEM 560                                     PAYMENT WITHOUT OFFSET
+
+   Shipper, Consignor and/or Consignee, or its broker or agent, shall pay all freight charges when due without offset for any cause,
+   including but not limited to, cargo claims. All claims for loss or damage shall be governed by this Tariff and shipper, consignor, or
+   consignee shall not deprive Werner of the claims process by unilateral deduction of claims from payment of freight charges due.
+
+         ___________________________________________________________________________________________
+
+ITEM 570                                     PRECEDENCE OF RATES AND CHARGES
+
+   A. When Shipper, consignee or third party each has a pricing agreement or contract with rates applicable to its linehaul charges
+      on a given shipment, those provisions applicable to the payer of the freight charges will apply. This priority or application will
+      apply whether or not the total charges are higher, lower or unchanged from those that might result if provisions applicable to a
+      non-paying party were applied.
+
+   Payer shall mean:
+       1) Shipper on prepaid shipments (except when a third party has been designated on the original bill of lading).
+       2) The consignee on collect shipments.
+       3) A third party (party other than Shipper or consignee) as designated on the original bill of lading.
+
+   Freight payment plans will not be considered as payer.
+
+   B. On accounts which have contractual provisions and ship from a location not listed in their contract, the shipment will be rated
+      using class rates with no applicable discount.
+
+         ___________________________________________________________________________________________
+
+ITEM 580                                     THIRD PARTY BILLING
+
+   Werner will invoice the shipper’s broker, bank or other agent for freight charges. Werner reserves the right to bill and collect freight
+   charges from the shipper on prepaid shipments or the consignee on collect shipments in the event full payments of freight charges
+   is not received pursuant to third party billing.
+
+   A shipment in which charges are to be paid by a party other than the consignor or consignee will be accepted provided recourse to
+   the consignor is preserved with Werner picking the shipments up at origin. The consignor and consignee guarantee to pay the
+   charges if the third party fails to do so in the time allotted under the applicable credit regulations. Any such shipment will not be
+   accepted if the consignor executes a non-recourse provision of the bill of lading.
+
+   Werner drivers executing bills of lading do not have authority to vary or change these provisions.
+
+         ___________________________________________________________________________________________
+
+ITEM 585                                     UNDERCHARGE/OVERCHARGE CLAIMS
+
+    Any claim for overcharges of freight bills must be submitted within 180 days of shipment date and must be submitted by the
+    responsible party of the freight charges. Any claim for undercharges of freight bills must be submitted by Werner to the payor
+    of the freight charges within 180 days of the shipment date.
+         ___________________________________________________________________________________________
+                                                                   23
+                      SECTION 6 – DOMESTIC INTERMODAL SHIPMENTS
+
+         ___________________________________________________________________________________________
+
+ITEM 600                                    APPLICABILITY
+
+   This Section applies to all movements on intermodal equipment governed by the Uniform Intermodal Interchange Agreement or
+   any substantially similar organization or arrangement. Unless otherwise stated in this Section, the provisions of the remainder of
+   this Tariff continue to apply.
+
+         ___________________________________________________________________________________________
+
+ITEM 610                                    ARRIVAL NOTICE
+
+   1. Actual tender of delivery at consignee’s place constitutes notice of the arrival of a shipment.
+
+   2. If the shipment is not actually tendered for delivery, notice of arrival will be given to the consignee not later than the next
+      business day following the arrival of the shipment:
+           (a) The notice will be given by telephone, if convenient and practicable; otherwise by mail or telegraph. The notice,
+                however transmitted, will specify the point of origin, the consignor and the commodity and weight of shipment.
+           (b) If the consignee’s address is unknown to Werner, the notice will be mailed to him at the post office serving the point
+                of destination shown on the Bill of Lading.
+           (c) In the case of notification by mail, the notice will be deemed to have been given (that is, received by, the addressee)
+                at 8:00 A.M. on the first business day after it was mailed.
+
+         ___________________________________________________________________________________________
+
+ITEM 640                                    LOADING AND UNLOADING CONTAINER
+
+   Except as otherwise provided herein, the complete loading and/or unloading service, as the case may be, of the shipment including
+   the count hereof must be performed by the shipper or consignee at his expense, without any assistance from Werner. Werner’s
+   employee and power unit are to be released while loading and/or unloading is performed. At Werner’s option, Werner’s employee
+   and power unit may remain during loading or unloading but will render no assistance in loading or unloading.
+
+       1.   The complete loading service includes the loading of the shipment into or on the container or trailer and the proper stowing
+            and/or stacking thereof to withstand the normal hazards of transportation. When blocking or bracing is necessary to insure
+            safe transportation, such blocking or bracing must be furnished and installed by and at the expense of the consignor.
+       2.   The complete unloading service means that the consignee must remove the shipment from the position in which it is
+            transported in or on the container or trailer. The consignee will be responsible for removal of all packing materials,
+            dunnage, blocking, bracing, nails and excess product or waste, etc. or will be subject to a $100.00 cleanout fee.
+
+         ___________________________________________________________________________________________
+
+ITEM 680                                    UNDELIVERED FREIGHT
+
+   1. If freight cannot be delivered because of the consignee’s refusal or inability to accept it, or because Werner cannot locate the
+      consignee, or if freight cannot be transported because of an error or omission on the part of the consignor, Werner will make a
+      diligent effort to notify the consignor promptly that the freight is being stored and the reason therefor.
+   2. Undelivered shipments will be subject to Storage.
+   3. On undelivered shipments, disposition instructions printed on the Bill of Lading, shipping label or container will not be accepted
+      as authority to reship, return or reconsign a shipment or to limit
+   4. Werner may elect to handle undelivered freight pursuant to the terms of this Tariff governing On Hand Freight.
+
+
+
+
+                                                                 24
+            ___________________________________________________________________________________________
+
+
+ITEM 690                    ACCESSORIALS FOR DOMESTIC INTERMODAL SHIPMENTS
+
+
+
+  Accessorial                        Accessorial Terms
+  Stops In Transit                   $150 for the first stop; $175 for the second; $250 for the third , and $400 each stop
+                                     thereafter. Additional $1.95/mile for any out of route miles incurred.
+  Trailer/Container Detention (Per   Day of Notification, plus 2: Free ****Weekends are chargeable****
+  Diem)
+                                     4-5: $35/Day
+                                     6-7: $50/Day
+                                     8-10: $50/Day
+                                     11-20: $100/Day
+                                     21+: $225/Day
+
+  Detention - With Power             $75 for each hour beyond 1 hours free time.
+  Yard Storage                       No free time allowed. Charges are $50/Day plus applicable per diem and drayage charges.
+  Rail Storage                       Upon rail notification of trailer/container at destination, there will be a storage charge of
+                                     $150 per day after 24 hours free time or actual storage. The lesser charge will apply.
+                                     Individual Rail storage schedules available upon request.
+  Dry run                            If the carrier arrives but cannot load or deliver due to shipper-related issues, a fee equal to
+                                     the Line Haul rate plus Fuel Surcharge will apply.
+  Hazardous Material Service         $300 hazmat service charge
+  Charge
+  Scale Charge                       $75 + dray charges assessed
+  Reconsignment or Diversion         $2.00/mile on all miles subject to $200 minimum
+  Non Permitted Use of Equipment     Utilization of equipment, which does not strictly comply with the intended use between
+                                     WMMI and its customer, will result in a $500 equipment fee per trailer or container, per day,
+                                     for each occurrence.
+  Equipment Positioning              In the event that the Shipper or Consignee requires additional empty trailing equipment or
+                                     the movement thereof, resulting in a bobtail move by WMMI, a charge of $1.95/mile for all
+                                     miles, subject to a minimum charge of $200, will apply.
+  New York Surcharge (Zips: 100-     Additional $500 for any destination or stop(s) (for partial loading or unloading) in these zip
+  104, 106-107, 110-119)             codes.
+  Rework/Transload                   If Werner Intermodal is required to rework or reload trailer equipment that is in transit due
+                                     to freight that has shifted as a result of either or both, improperly loaded or secured cargo
+                                     then the cost incurred for driver load or lumper charges will be passed through to the party
+                                     responsible for payment, subject to a minimum charge of $500 per occurrence. Applicable
+                                     detention charges will be assessed.
+  Driver Assist Load/Unload Charge   $100 per hour with no free time allowed
+  C.O.D. Shipments                   No C.O.D. Shipments allowed.
+  Payment/Collection of Charges      All charges must be paid within seven (7) day from the date of delivery at final destination.
+                                     2% per month on charges not paid within 30 days of billing. 10% on all balances offset
+                                     against charges/billing in error.
+  Driver Count                       $100/hr. for load requiring driver count, no free time allowed.
+  Lumper Load/Unload Charge          Customer will pay face value for lumper receipt
+  Additional Copies of Proof of      Upon the customer's request, a digitized image of the bill of lading shall accompany each
+  Delivery                           freight bill at a fee of $15 per bill. Should the customer request an original BOL, a fee of $30
+                                     shall be added to such bill.
+  Redelivery Charge                  To be negotiated per occurrence based on dray rate plus $50 per day storage charge. No
+                                     free time will be allowed.
+  Dunnage Disposal                   $150 charge assessed if carrier is responsible for disposal of materials used in securing the
+                                     shipment for transport.
+
+
+
+
+                                                                     25
+        IN ADDITION TO THE ABOVE ACCESSORIALS, THE FOLLOWING WILL APPLY TO ALL INTERNATIONAL SHIPMENTS:
+Accessorial                     Accessorial Terms
+Canada Border Detention         $75 USD for each hour beyond 2 hours free time. This applies to, but is not limited to, delays
+                                at the border attributed to shipper/importer failure to provide proper or complete
+                                documentation, correct broker information or advance notification of shipment to applicable
+                                government agency.
+Canada FDA Pre-Notification     $30 USD charge for all shipments which require the carrier to perform the pre-notification
+Charge                          function to the FDA. Where the shipper / importer / exporter or broker notifies, no charge
+                                will apply.
+
+Mexico Toll Charge                  $35 will apply on all Southbound and Northbound shipments passing through Laredo, TX.
+Mexico Werner Terminal Stop         If upon scheduling delivery at US brokers Facility, broker is not able to receive containers
+                                    Werner can outgate those from the ramp to Werner Terminal in the border city. Following
+                                    charges will be assessed:
+                                    Local dray from the ramp to Werner Laredo Terminal: $150 USD Per Container
+                                    Yard Storage: $50 USD Per Container
+
+Mexico Ramp Storage                 Mexico Direct Shipments (steel wheels across the border)
+                                    KCSR-NS TMXU program - Southbound
+                                    KCSM Ramps: Salinas Victoria, Interpuerto (CLP), Puerta Mexico (Toluca), Pantaco
+                                    Free Time: Day of notification plus 5 calendar days.
+                                    Day 7+: $35 USD per calendar day (includes Mexican IVA tax)
+                                    KCSR-NS TMXU program - Northbound - All ramps: Salinas Victoria, Interpuerto, Puerta
+                                    Mexico.
+                                    KCSM Ramps: Salinas Victoria, Interpuerto (SLP), Puerta Mexico (Toluca).
+                                    Free Time: Day of in-gate plus 13 calendar days.
+                                    Day 15+: $35 USD per calendar day (includes Mexican IVA tax)
+                                    Union Pacific Railroad and Rail partners programs (EMHU and UMXU) - Southbound.
+                                    FXE Ramps: Escobedo, Silao. KCSM Ramps: Salinas Victoria, Interpuerto (SLP), Puerta Mexico
+                                    (Toluca).
+                                    Free time: Notify plus 3 calendar days (week ends and holidays will be excluded from free
+                                    time calculations)
+                                    Day 5+: $35 USD per Calendar day.
+                                    Union Pacific Railroad and Rail partners programs (EMHU and UMXU) - Northbound.
+                                    FXE Ramps: Escobedo, Silao. KCSM Ramps: Salinas Victoria, Interpuerto (SLP), Puerta Mexico
+                                    (Toluca).
+                                    Free time: Day of in-gate plus 13 calendar days. (weekends and holidays will be excluded
+                                    from free time calculations)
+                                    Day 15+ $35 USD per calendar day
+                                    Border Direct Shipments
+                                    Free Time: Day of notification plus 1 calendar day
+                                    Day 3+: $150 USD per calendar day
+Arranged or Performed Dray          Charges for cross border dray or shuttle services performed to or from Forwarders, Custom
+Services                            Brokers or Mexican Carriers will be as follows:
+                                    - Nogales, AZ to/from Nogales, SO - $260 USD
+                                    - Calexico, CA to/from Mexicali, BJ - $260 USD
+                                    - Otay Mesa, CA to/from Tijuana, BJ - $315 USD
+                                    - Brownsville, TX to/from Matamoros, TM - $260 USD
+                                    - El Paso, TX to/from Ciudad Juarez, CI - $250 USD
+                                    - Laredo, TX to/from Nuevo Laredo, TM - $150 USD
+                                    - McAllen, TX to/from Reynosa, TM - $260 USD
+                                    - Eagle Pass, TX to/from Piedras Negras, CU - $350 USD
+                                    - Del Rio, TX to/from Ciudad Acuna, CU - $250 USD
+
+
+Mexico Border Crossing Dray at      $135 for cross border dray or shuttle services performed to or from Forwarders, Customer
+Laredo, TX                          Brokers, or Mexican Carriers
+Mexico Cross Border Dry Run at      Charge of $135 USD will be assessed
+Laredo, TX
+
+
+
+
+                                                                   26
+Mexico Dry Run                      Mexico Direct Shipments:
+                                    Local: $250 USD
+                                    Non-Local: Any shipments that are non-local to the ramp of origin/destination, will be
+                                    charged based on distance between the ramp and pickup/drop off location
+                                    Border Direct Shipments: If a container arrives to a brokers facility and it is not received a
+                                    charge of $150 USD will be assessed in addition to Werner Stop Terminal
+Mexico Detention with Power         At brokers facilities at the border $75 USD for each hour beyond 2 hours free time. At MX
+                                    consignee or shipper facilities $75 USD for each hour beyond 4 hours free time.
+Mexico Diversion of Service         $550 USD upon "diversion" of Werner's door to door controlled service.
+Mexico Utilization of Werner's US   $150 USD per in-bond shipment.
+Bond
+
+Mexico In-bond Pedimento (T3)       $150 USD per pedimento
+correction
+Stop in Mexico Carrier Yard         $150 USD per event
+Mexico Additional Equipment         $100 USD per container
+Drop
+US Authority Inspection on          $550 per container
+Northbound shipments
+Mexico Container Perdiem            Mexico Direct Shipments (steel wheels across the border)
+                                    Free Time: Day of Notification (Day 1) plus 3 calendar days
+                                    Days 5-10: $50.00 USD per calendar day
+                                    Days 11-20: $100.00 USD per calendar day
+                                    Day 21 +: $225.00 USD per calendar day
+                                    Border Direct Shipments - Southbound
+                                    Day of Drop at US Broker Facilities plus defined free days per market to deliver in MX:
+                                                                                                           Escalating     Charge
+                                    MX Market                                               Free Days      Perdiem        (Per Day)
+                                    MX1 - Monterrey                                         5 days         day 6+         $25 USD
+                                    MX1 - Saltillo                                          5 days         day 6+         $25 USD
+                                    MX1 - Ramos Arizpe                                      5 days         day 6+         $25 USD
+                                    MX1 - Arteaga                                           5 days         day 6+         $25 USD
+                                    MX2 - Mexico City Valley                                4 days         day 5+         $25 USD
+                                    MX2 - Puebla                                            5 days         day 6+         $25 USD
+                                    MX2- Toluca                                             4 days         day 5+         $25 USD
+                                    MX2 - Cuernavaca                                        5 days         day 6+         $25 USD
+                                    MX3 - Guadalajara                                       6 days         day 7+         $25 USD
+                                    MX3 - Aguascalientes                                    6 days         day 7+         $25 USD
+                                    MX4 - Queretaro                                         4 days         day 5+         $25 USD
+                                    MX4 - San Luis Potosi                                   4 days         day 5+         $25 USD
+                                    MX4 - Bajío (Silao, Leon, Irapuato, Celaya)             4 days         day 5+         $25 USD
+
+                                    Border Direct Shipments - Northbound
+                                    Loading day plus defined free days per market to ingate at US border ramp:
+
+                                                                                                           Escalating     Charge
+                                    MX Market                                               Free Days      Perdiem        (Per Day)
+                                    MX1 - Monterrey                                         3 days         day 4+         $25 USD
+                                    MX1 - Saltillo                                          3 days         day 4+         $25 USD
+                                    MX1 - Ramos Arizpe                                      3 days         day 4+         $25 USD
+                                    MX1 - Arteaga                                           3 days         day 4+         $25 USD
+                                    MX2 - Mexico City Valley                                6 days         day 7+         $25 USD
+                                    MX2 - Puebla                                            7 days         day 8+         $25 USD
+                                    MX2- Toluca                                             6 days         day 7+         $25 USD
+                                    MX2 - Cuernavaca                                        7 days         day 8+         $25 USD
+                                    MX3 - Guadalajara                                       4 days         day 5+         $25 USD
+                                    MX3 - Aguascalientes                                    4 days         day 5+         $25 USD
+                                    MX4 - Queretaro                                         4 days         day 5+         $25 USD
+                                                                    27
+                                    MX4 - San Luis Potosi                             4 days       day 5+       $25 USD
+                                    MX4 - Bajío (Silao, Leon, Irapuato, Celaya)       4 days       day 5+       $25 USD
+
+
+
+                                         WERNER INTERMODAL FUEL SURCHARGE
+ Shipper and Carrier agree, that based on the Department of Energy (DOE) National Average price of fuel, all linehaul rates charged
+ to Shipper shall be adjusted according to the table shown below. If applicable, the surcharge will be effective for loads dispatched
+ Tuesday through Monday based on the DOE National Average price released on Monday of that Week:
+
+
+                             %                       DOE Average           %                         DOE Average           %
+       DOE Average
+  Greater                   Fuel                Greater                   Fuel                  Greater                   Fuel
+   Than    but Less Than Surcharge               Than    but Less Than Surcharge                 Than    but Less Than Surcharge
+ $ 1.021 - $         1.06   0.00%              $ 2.381 - $         2.42 17.00%                 $ 3.701 - $         3.74 33.50%
+ $ 1.061 - $         1.10   0.50%              $ 2.421 - $         2.46 17.50%                 $ 3.741 - $         3.78 34.00%
+ $ 1.101 - $         1.14   1.00%              $ 2.461 - $         2.50 18.00%                 $ 3.781 - $         3.82 34.50%
+ $ 1.141 - $         1.18   1.50%              $ 2.501 - $         2.54 18.50%                 $ 3.821 - $         3.86 35.00%
+ $ 1.181 - $         1.22   2.00%              $ 2.541 - $         2.58 19.00%                 $ 3.861 - $         3.90 35.50%
+ $ 1.221 - $         1.26   2.50%              $ 2.581 - $         2.62 19.50%                 $ 3.901 - $         3.94 36.00%
+ $ 1.261 - $         1.30   3.00%              $ 2.621 - $         2.66 20.00%                 $ 3.941 - $         3.98 36.50%
+ $ 1.301 - $         1.34   3.50%              $ 2.661 - $         2.70 20.50%                 $ 3.981 - $         4.02 37.00%
+ $ 1.341 - $         1.38   4.00%              $ 2.701 - $         2.74 21.00%                 $ 4.021 - $         4.06 37.50%
+ $ 1.381 - $         1.42   4.50%              $ 2.741 - $         2.78 21.50%                 $ 4.061 - $         4.10 38.00%
+ $ 1.421 - $         1.46   5.00%              $ 2.781 - $         2.82 22.00%                 $ 4.101 - $         4.14 38.50%
+ $ 1.461 - $         1.50   5.50%              $ 2.821 - $         2.86 22.50%                 $ 4.141 - $         4.18 39.00%
+ $ 1.501 - $         1.54   6.00%              $ 2.861 - $         2.90 23.00%                 $ 4.181 - $         4.22 39.50%
+ $ 1.541 - $         1.58   6.50%              $ 2.901 - $         2.94 23.50%                 $ 4.221 - $         4.26 40.00%
+ $ 1.581 - $         1.62   7.00%              $ 2.941 - $         2.98 24.00%                 $ 4.261 - $         4.30 40.50%
+ $ 1.621 - $         1.66   7.50%              $ 2.981 - $         3.02 24.50%                 $ 4.301 - $         4.34 41.00%
+ $ 1.661 - $         1.70   8.00%              $ 3.021 - $         3.06 25.00%                 $ 4.341 - $         4.38 41.50%
+ $ 1.701 - $         1.74   8.50%              $ 3.061 - $         3.10 25.50%                 $ 4.381 - $         4.42 42.00%
+ $ 1.741 - $         1.78   9.00%              $ 3.101 - $         3.14 26.00%                 $ 4.421 - $         4.46 42.50%
+ $ 1.781 - $         1.82   9.50%              $ 3.141 - $         3.18 26.50%                 $ 4.461 - $         4.50 43.00%
+ $ 1.821 - $         1.86  10.00%              $ 3.181 - $         3.22 27.00%                 $ 4.501 - $         4.54 43.50%
+ $ 1.861 - $         1.90  10.50%              $ 3.221 - $         3.26 27.50%                 $ 4.541 - $         4.58 44.00%
+ $ 1.901 - $         1.94  11.00%              $ 3.261 - $         3.30 28.00%                 $ 4.581 - $         4.62 44.50%
+ $ 1.941 - $         1.98  11.50%              $ 3.301 - $         3.34 28.50%                 $ 4.621 - $         4.66 45.00%
+ $ 1.981 - $         2.02  12.00%              $ 3.341 - $         3.38 29.00%                 $ 4.661 - $         4.70 45.50%
+ $ 2.021 - $         2.06  12.50%              $ 3.381 - $         3.42 29.50%                 $ 4.701 - $         4.74 46.00%
+ $ 2.061 - $         2.10  13.00%              $ 3.421 - $         3.46 30.00%                 $ 4.741 - $         4.78 46.50%
+ $ 2.101 - $         2.14  13.50%              $ 3.461 - $         3.50 30.50%                 $ 4.781 - $         4.82 47.00%
+ $ 2.141 - $         2.18  14.00%              $ 3.501 - $         3.54 31.00%                 $ 4.821 - $         4.86 47.50%
+ $ 2.181 - $         2.22  14.50%              $ 3.541 - $         3.58 31.50%                 $ 4.861 - $         4.90 48.00%
+ $ 2.221 - $         2.26  15.00%              $ 3.581 - $         3.62 32.00%                 $ 4.901 - $         4.94 48.50%
+ $ 2.261 - $         2.30  15.50%              $ 3.621 - $         3.66 32.50%                 $ 4.941 - $         4.98 49.00%
+ $ 2.301 - $         2.34  16.00%              $ 3.661 - $         3.70 33.00%                 $ 4.981 - $         5.02 49.50%
+ $ 2.341 - $         2.38  16.50%
+
+$5.021 - and up 50% plus an additional 0.50% for each $.04 increment of fraction thereof above $5.021.
+
+
+
+
+                                                                    28
+         ___________________________________________________________________________________________
+
+ITEM 695                                     TRACTOR DETENTION (DETENTION WITH POWER)
+
+   Shipper/Consignee will receive free time as indicated below for tractors to reside at the facility waiting to be loaded or unloaded.
+   Each additional time beyond the free time allowance will be billable to the Shipper at the rate indicated below. Computation of free
+   time will commence at either the truck’s arrival date/time, or the appointment date/time, whichever is later. In the event there a
+   multiple pickups or deliveries during the trip, the free time for each stop associated with either the pick up or delivery of the load
+   will be allowed free time as indicated below.
+
+   The rates applicable to tractor detention are as follows:
+
+
+                                                  Tractor Detention Rate Schedule
+
+
+                              Segment                  Elapsed Time             Detention Charge Per Hour
+                           Initial Loading                2 Hours                          $0.00
+                                                       After 2 Hours                      $120.00
+                                Stop                      2 Hours                          $0.00
+                                                       After 2 Hours                      $120.00
+                           Final Delivery                 2 Hours                          $0.00
+                                                       After 2 Hours                      $120.00
+
+
+
+
+                                                                  29
+                  SECTION 7 – TEMPERATURE CONTROLLED SHIPMENTS
+
+         ___________________________________________________________________________________________
+
+ITEM 700                                    APPLICABILITY
+
+   This Section applies to all shipments requiring refrigerated or temperature controlled service.
+
+         ___________________________________________________________________________________________
+
+ITEM 710                                    REFRIGERATED SERVICE
+
+   The following provisions will govern Werner’s transportation of refrigerated shipments.
+
+       1.   Shipper must expressly indicate the correct temperature setting on the bill of lading. Unless the correct temperature setting
+            is indicated on the bill of lading, Werner will not be liable for loss or damage to freight.
+       2.   If a refrigerated shipment is rejected for any reason by consignee, Werner will notify Shipper and maintain the shipment
+            at the required temperature until disposition instructions are received from Shipper or Consignee.
+       3.   Werner’s driver will not open doors on a refrigerated trailer until expressly instructed to do so by consignee. Werner is
+            not liable for cargo loss or damage that occurs after its driver opens the doors on the trailer.
+       4.   Werner is not liable for temperature variations that occur due to freight being loaded “hot.”
+       5.   Shipper must expressly inform Werner to any additional requirements for transportation of freight for which refrigerated
+            service is requested.
+
+         ___________________________________________________________________________________________
+
+ITEM 720                                    PROTECT FROM FREEZING SERVICE
+
+   Except as provided in this Item, Werner is not liable for damage to freight caused by exposure to cold or freezing temperatures.
+   Protect from Freezing Service will be provided at Werner's discretion on single-line shipments and shipments to Canada from
+   October 1st through April 30th, if each of the following conditions are met:
+       A. Suitable equipment is available, and
+       B. The Bill of Lading, each handling unit, AND each loose package is clearly marked with the notation, "PROTECT FROM
+            FREEZING". (Marking on the freight or packaging alone or on any document other than the Bill of Lading is not
+            sufficient.), and
+       C. Outside temperature is forecast to be 10 degrees Fahrenheit or higher, and
+       D. Shipment is tendered on one of the following days:
+                 o Next Day Transit Lanes - Monday through Thursday.
+                 o Second Day Transit Lanes - Monday through Wednesday.
+                 o Third Day Transit Lanes - Monday and Tuesday, and
+       E. None of the following applies:
+            1. The shipment is tendered on a Friday or the day before a holiday, or
+            2. The shipment requires appointments, or
+            3. The shipment requires "will call" or "dock pick up,” or
+            4. The shipment requires COD or Order Notify, or
+            5. The shipment is moving In Bond.
+   AND
+       F. Werner may refuse to accept any shipment where weather forecasts or prevailing road conditions indicate probable
+            highway closures.
+
+   It is the shipper’s or consignor’s obligation to ensure that the above conditions are satisfied. For shipments tendered to Werner that
+   do not meet the above conditions, Werner will have no liability for cargo damaged by exposure to freezing temperatures. Werner's
+   cargo claim liability is otherwise subject to the limits and provisions as provided in this Tariff.
+
+
+
+                                                                  30
+ITEM 730                                 TEMPERATURE CONTROLLED ACCESSORIALS
+
+ Accessorial                     Accessorial Terms
+ Minimum Charge                  $650 per shipment, except if noted otherwise on another specific rate page related
+                                 to this publication or as follows (for purposes of this accessorial charge, the states of
+                                 CT, DC, DE, MA, MD, ME, NH, NJ, NY, PA, RI and VT shall be defined as "Northeast
+                                 States"):
+                                 * Outbound from FL will be $350 per shipment.
+                                 * Outbound from Northeast States will be $450 per shipment.
+                                 * Intra Northeast states will be $700 per shipment
+ Stops In Transit                $150 for the first stop; $175 for the second; $250 for the third; $400 for each stop
+                                 thereafter (When rates are stated in dollars per vehicle used or in cents per 100
+                                 pounds, circuitous miles are $2.00 per mile)
+ Impractical Operations          $2.00 per mile exceeding shortest route
+ Detention - Without Power       See Item 740
+ Detention - With Power          See Item 760
+ Reconsignment or Diversion      $150, subject to stop-in-transit rules
+ Non Permitted Use of            Utilization of equipment, which does not strictly comply with the intended use
+ Equipment                       between Werner and its customer, will result in a $400 USD per trailer or container,
+                                 per day, for each occurrence.
+ New York Surcharge (Zips:       Additional $500 for any destination or stop(s) (for partial loading or unloading) in
+ 100-104, 106-107, 110-119)      these zip codes.
+ Florida Keys Surcharge (Zips:   Additional $400 for any destination or stop(s) (for partial loading or unloading) in
+ 33001,33036-33037,33040-        these zip codes.
+ 33043, 33045, 33050-33052,
+ 33070
+ Load/Unload Charge              Customer will pay face value of lumper receipt or a minimum load/unload charge of
+                                 $150. If sort and segregate is required there will be an additional $150 charge.
+ C.O.D. Shipments                $100 per C.O.D. collection
+ Two-Man Driver Teams            Additional $0.25 per loaded mile, when requested
+ Additional Copies of Proof of   A digitized image of the bill of lading shall accompany each freight bill at no charge.
+ Delivery                        Additional copies of such bills of lading shall be available for $15 USD
+ Multiple Invoices               $75 for each additional consignee billed
+ Payment/Collection of Charges   All charges must be paid within seven (7) days from the date of delivery at final
+                                 destination. 2% per month on charges not paid within 30 days of billing. 10% on all
+                                 balances offset against charges/billing in error.
+ Returned, Undelivered           $2.00 per mile for all miles from origin and returning back to the origin point,
+ Shipments                       subject to a $600 minimum
+ Vehicle Furnished But Not       $250 per occurrence
+ Used
+ Layover                         $350 per occurrence for solo drivers
+                                 $700 per occurrence for team drivers
+ Food Safety Modernization Act   Customer must provide its FSMA controls to Carrier's sales account executive in
+                                 writing at least twenty four (24) hours prior to pickup
+
+
+
+
+                                                               31
+   IN ADDITION TO THE ABOVE ACCESSORIALS, THE FOLLOWING WILL APPLY TO ALL INTERNATIONAL SHIPMENTS:
+Accessorial                         Accessorial Terms
+In-Bond Charge                      $125 per in-bond shipment
+Hazmat Charges                      Additional charges may apply for shipping hazardous material in Mexico
+Expedited Shipments                 Additional charges may apply.
+Overweight Rework Charge            $100 USD per hour with a 2 hour minimum for palletized shipments
+
+
+ Late or After Hours Border         $150 USD charge for any "After Hours" crossing. Must be prearranged during
+ Crossing                           "Normal Business Hours" defined as follows:
+                                    - Monday - Friday 0800 - 2200 and Saturday 1000 - 1600. Any loads crossing at any
+                                    time outside these hours are defined as "After Hours".
+
+ Mexico Toll Charge                 $35 will apply on all Southbound and Northbound shipments passing through
+                                    Laredo, TX.
+ Arranged or Performed Dray         Charges for cross border dray or shuttle services performed to or from Forwarders,
+ Services                           Custom Brokers or Mexican Carriers will be as follows:
+                                    - Laredo, TX to/from Nuevo Laredo, TM - $180 USD
+
+
+
+
+ITEM 740                                     TRAILER DETENTION
+
+   Shipper and Carrier agree, that Shipper/Consignee will receive a forty-eight hour period for trailers to reside at the facility waiting
+   to be loaded or unloaded. Each additional full day beyond this time allowance will be billable to the Shipper/ Consignee. Saturdays,
+   Sundays and holidays will be excluded when computing per diem charges, provided they fall within the free-time. Computation of
+   free-time will begin at 12:01 AM the day after constructive placement of the trailer. Shipper/ Consignee will be responsible for
+   notifying Carrier when trailer is available for pickup and will be charged until notification is received by Carrier. Notification may
+   be made via fax or email to the phone number or email address provided by Carrier. Separate invoice billing will be provided on a
+   monthly basis.
+
+   The rates applicable to trailer detention are as follows:
+
+                                                   Trailer Detention Rate Schedule
+
+                                         Full Days After Trailer
+                                               Placement                    Detention
+                                              1st - 2nd Day                   $0.00
+
+                                             3rd - 5th Day                   $125.00
+
+                                             6th - 10th day                  $250.00
+
+                                           11th day forward                  $350.00
+
+
+         ___________________________________________________________________________________________
+
+ITEM 750                                     LOADED TRAILER BORDER DETENTION ADDENDUM
+
+   When a temperature control trailer arrives at the border the customer is notified they have 24 hours to ready the shipment for travel
+                                                                   32
+   through the U.S. or Mexico before the first $125 will be assessed. IF the shipment is not ready to be shipped, an additional charge
+   will be assessed for each subsequent 24 hour period according to the table below.
+
+   The rates applicable to trailer detention are as follows:
+
+                                                      Trailer Detention Rate Schedule
+
+                                        Full Days After Trailer
+                                              Placement                       Detention
+                                             1st - 2nd Day                     $125.00
+
+                                              3rd - 5th Day                    $250.00
+
+                                           6th and Forward                     $500.00
+
+
+         ___________________________________________________________________________________________
+
+ITEM 760                                      TRACTOR DETENTION (DETENTION WITH POWER)
+
+   Shipper/Consignee will receive free time as indicated below for tractors to reside at the facility waiting to be loaded or unloaded.
+   Each additional time beyond the free time allowance will be billable to the Shipper at the rate indicated below. Computation of free
+   time will commence at either the truck’s arrival date/time, or the appointment date/time, whichever is later. In the event there a
+   multiple pickups or deliveries during the trip, the free time for each stop associated with either the pick up or delivery of the load
+   will be allowed free time as indicated below.
+
+   The rates applicable to tractor detention are as follows:
+
+                                                  Tractor Detention Rate Schedule
+
+                               Segment                        Elapsed Time          Detention Charge Per Hour
+                            Initial Loading                      2 Hours                       $0.00
+                                                              After 2 Hours                   $120.00
+                                 Stop                            2 Hours                       $0.00
+                                                              After 2 Hours                   $120.00
+                            Final Delivery                       2 Hours                       $0.00
+                                                              After 2 Hours                   $120.00
+
+         ___________________________________________________________________________________________
+
+ITEM 770                                      FRESH FUEL SURCHARGE
+
+   Shipper and Carrier agree, that based on the Department of Energy (DOE) National Average price of fuel, all linehaul rates charged
+   to Shipper shall be adjusted according to the table shown below. If applicable, the surcharge will be effective for loads dispatched
+   Monday through Sunday based on the DOE National Average price released on Monday of that Week:
+
+
+       DOE Average             $ Per Mile         $    3.45 - $ 3.749           $       0.09      $   5.85 -        $   6.149    $    0.17
+ Greater                          Fuel            $    3.75 - $ 4.049           $       0.10      $   6.15 -        $   6.449    $    0.18
+   Than    but Less Than       Surcharge                DOE Average             $ Per Mile        $   6.45 -        $   6.749    $    0.19
+ $    1.05 - $ 1.349          $       0.01        Greater                          Fuel           $   6.75 -        $   7.049    $    0.20
+ $    1.35 - $ 1.649          $       0.02          Than    but Less Than       Surcharge        DOE Average                    $ Per Mile
+ $    1.65 - $ 1.949          $       0.03        $    4.05 - $ 4.349           $     0.11       Greater                        Fuel
+ $    1.95 - $ 2.249          $       0.04        $    4.35 - $ 4.649           $     0.12
+ $    2.25 - $ 2.549          $       0.05        $    4.65 - $ 4.949           $     0.13       $Than7.05   -but $Less Than $Surcharge
+                                                                                                                      7.349       0.21
+ $    2.55 - $ 2.849          $       0.06        $    4.95 - $ 5.249           $     0.14        $ 7.35      -   $ 7.649 $ 0.22
+ $    2.85 - $ 3.149          $       0.07        $    5.25 - $ 5.549           $     0.15        $ 7.65      -   $ 7.949 $ 0.23
+ $    3.15 - $ 3.449          $       0.08        $    5.55 - $ 5.849           $     0.16        $ 7.95      -   $ 8.249 $ 0.24
+                                                                    33
+$     8.25    -   $   8.549    $    0.25          $    8.85   -    $     9.149   $   0.27         $     9.45   -    $   9.749 $      0.29
+$     8.55    -   $   8.849    $    0.26          $    9.15   -    $     9.449   $   0.28         $     9.75   -    $   10.049 $     0.30
+
+
+
+      $10.05 - and up $.31 per mile plus an additional $.01 per mile for each $.30 increment or fraction thereof above $10.05.
+
+             ___________________________________________________________________________________________
+
+
+
+
+ITEM 780                                       FROZEN FUEL SURCHARGE
+
+      Shipper and Carrier agree, that based on the Department of Energy (DOE) National Average price of fuel, all linehaul rates charged
+      to Shipper shall be adjusted according to the table shown below. If applicable, the surcharge will be effective for loads dispatched
+      Monday through Sunday based on the DOE National Average price released on Monday of that Week:
+
+
+
+          DOE Average            $ Per Mile       DOE Average                    $ Per Mile                 DOE Average          $ Per Mile
+    Greater                         Fuel          Greater                        Fuel                 Greater                       Fuel
+      Than    but Less Than      Surcharge                                                              Than    but Less Than    Surcharge
+    $    1.05 - $ 1.249         $       0.04      $Than4.05   -but $Less4.349
+                                                                         Than $Surcharge
+                                                                                   0.14               $    7.05 - $ 7.349        $     0.24
+    $    1.25 - $ 1.649         $       0.05       $ 4.35      -   $ 4.649 $ 0.15                     $    7.35 - $ 7.649        $     0.25
+    $    1.65 - $ 1.949         $       0.06       $ 4.65      -   $ 4.949 $ 0.16                     $    7.65 - $ 7.949        $     0.26
+    $    1.95 - $ 2.249         $       0.07       $ 4.95      -   $ 5.249 $ 0.17                     $    7.95 - $ 8.249        $     0.27
+    $    2.25 - $ 2.549         $       0.08       $ 5.25      -   $ 5.549 $ 0.18                     $    8.25 - $ 8.549        $     0.28
+    $    2.55 - $ 2.849         $       0.09       $ 5.55      -   $ 5.849 $ 0.19                     $    8.55 - $ 8.849        $     0.29
+    $    2.85 - $ 3.149         $       0.10       $ 5.85      -   $ 6.149 $ 0.20                     $    8.85 - $ 9.149        $     0.30
+    $    3.15 - $ 3.449         $       0.11       $ 6.15      -   $ 6.449 $ 0.21                     $    9.15 - $ 9.449        $     0.31
+    $    3.45 - $ 3.749         $       0.12       $ 6.45      -   $ 6.749 $ 0.22                     $    9.45 - $ 9.749        $     0.32
+    $    3.75 - $ 4.049         $       0.13       $ 6.75      -   $ 7.049 $ 0.23                     $    9.75 - $ 10.049       $     0.33
+
+
+
+
+      $10.05 - and up $.33 per mile plus an additional $.01 per mile for each $.30 increment or fraction thereof above $10.05.
+
+
+
+
+                                                                    34
+           SECTION 8 – ACCESSORIALS FOR INTERNATIONAL SHIPMENTS
+
+ITEM 810                                  INTERNATIONAL DRY VAN SHIPMENTS
+
+ Accessorial                         Accessorial Terms
+ In-Bond Charge                      $125 per in-bond shipment
+ Hazmat Charges                      Additional charges may apply for shipping hazardous material in Mexico
+ Expedited Shipments                 Additional charges may apply.
+ Overweight Rework Charge            $100 USD per hour with a 2 hour minimum for palletized shipments
+ Late or After Hours Border Crossing $150 USD charge for any "After Hours" crossing. Must be prearranged during "Normal
+                                     Business Hours" defined as follows:
+                                     - Monday - Friday 0800 - 2200 and Saturday 1000 - 1600. Any loads crossing at any time
+                                     outside these hours are defined as "After Hours".
+ Mexico Border                       $100 USD per day after 3 (three) working days not including delivery day. After charges have
+ Detention/Demurrage                 began to be incurred, weekends and holidays will be included and charged. All charges
+                                     incurred must be paid prior to the trailer crossing the border.
+ Mexican Northbound Border           An additional $300 fee will be applied for all outbound Mexico loads that are unloaded at
+ Termination Fee                     the border without prior authorization from Werner.
+ Mexico Destination Surcharge        An additional $500 for any destination or stop(s) for partial unloading in the following
+ States                              Mexican states:
+                                     -BS - Baja California-Sur
+                                     -CH - Chiapas
+                                     -CP - Campeche
+                                     -QR - Quintana Roo
+                                     -TA - Tabasco
+                                     -YC - Yucatan
+
+ Mexico Toll Charge                  $35 will apply on all Southbound and Northbound shipments passing through Laredo, TX.
+
+
+
+
+                                                               35
+  Arranged or Performed Dray          Charges for cross border dray or shuttle services performed to or from Forwarders, Custom
+ Services                             Brokers or Mexican Carriers will be as follows:
+                                      - Nogales, AZ to/from Nogales, SO - $260 USD
+                                      - Calexico, CA to/from Mexicali, BJ - $260 USD
+                                      - Otay Mesa, CA to/from Tijuana, BJ - $315 USD
+                                      - Brownsville, TX to/from Matamoros, TM - $260 USD
+                                      - El Paso, TX to/from Ciudad Juarez, CI - $250 USD
+                                      - Laredo, TX to/from Nuevo Laredo, TM - $150 USD
+                                      - McAllen, TX to/from Reynosa, TM - $260 USD
+                                      - Eagle Pass, TX to/from Piedras Negras, CU - $350 USD
+                                       - Del Rio, TX to/from Ciudad Acuna, CU - $250 USD
+
+ Canada Customs Unload/Search         In the event that Canada Customs selects shipments for an inspection the shipper or
+ Charge                               importer (whichever is responsible for the freight Charges) will be liable for associated
+                                      charges. Canada Customs does routinely inspect freight before allowing entry into Canada,
+                                      which results in mandatory unload/re-load by a third party vendor at the port. In such cases
+                                      shipper or importer will be responsible for these third party charges.
+
+
+ Canada Border Detention              $75 USD for each hour beyond 2 hours free time. This applies to, but is not limited to,
+                                      delays at the border attributed to shipper/importer failure to provide proper or complete
+                                      documentation, correct broker information or advance notification of shipment to
+                                      applicable government agency.
+ Canada FDA Pre-Notification          $30 USD charge for all shipments which require the carrier to perform the pre-notification
+ Charge                               function to the FDA. Where the shipper / importer / exporter or broker notifies, no charge
+                                      will apply.
+
+
+          ___________________________________________________________________________________________
+
+ITEM 820                                    INTERNATIONAL INTERMODAL SHIPMENTS
+
+
+ Canada Border Detention              $75 USD for each hour beyond 2 hours free time. This applies to, but is not limited to, delays at the
+                                      border attributed to shipper/importer failure to provide proper or complete documentation, correct
+                                      broker information or advance notification of shipment to applicable government agency.
+
+ Canada FDA Pre-Notification Charge   $30 USD charge for all shipments which require the carrier to perform the pre-notification function to
+                                      the FDA. Where the shipper / importer / exporter or broker notifies, no charge will apply.
+ Carta Porte                          Actual cost (Carta Porte is an annex to the Digitalized Tax Receipts (CFDI), that will help Mexican tax
+                                      authority (SAT) certify the ownership/type of the goods, origin/destination, and mode of
+                                      transportation. The Carta Porte requirement is mandatory for all shipments in Mexico (in and out). If a
+                                      shipment does not include this newly required information, it may be at risk of clearance delays
+                                      and/or interchange delays as well as border setouts. Customers need to be fully compliant to avoid
+                                      delayed shipments, additional fees or even penalties on the Mexican portion of the shipment.
+
+ Mexico Toll Charge                   $35 will apply on all Southbound and Northbound shipments passing through Laredo, TX.
+
+Mexico Werner Terminal Stop           If upon scheduling delivery at US brokers Facility, broker is not able to receive containers Werner can
+                                      outgate those from the ramp to Werner Terminal in the border city. Following charges will be
+                                      assessed:
+                                      Local dray from the ramp to Werner Laredo Terminal: $150 USD Per Container
+                                      Yard Storage: $50 USD Per Container
+ Mexico Ramp Storage                  Mexico Direct Shipments (steel wheels across the border)
+                                      KCSR-NS TMXU program - Southbound
+                                      KCSM Ramps: Salinas Victoria, Interpuerto (CLP), Puerta Mexico (Toluca), Pantaco
+                                      Free Time: Day of notification plus 5 calendar days.
+                                      Day 7+: $35 USD per calendar day (includes Mexican IVA tax)
+
+                                                                    36
+                                        KCSR-NS TMXU program - Northbound - All ramps: Salinas Victoria, Interpuerto, Puerta Mexico.
+                                        KCSM Ramps: Salinas Victoria, Interpuerto (SLP), Puerta Mexico (Toluca).
+                                        Free Time: Day of in-gate plus 13 calendar days.
+                                        Day 15+: $35 USD per calendar day (includes Mexican IVA tax)
+                                        Union Pacific Railroad and Rail partners programs (EMHU and UMXU) - Southbound.
+                                        FXE Ramps: Escobedo, Silao. KCSM Ramps: Salinas Victoria, Interpuerto (SLP), Puerta Mexico (Toluca).
+                                        Free time: Notify plus 3 calendar days (weekends and holidays will be excluded from free time
+                                        calculations)
+                                        Day 5+: $35 USD per Calendar day.
+                                        Union Pacific Railroad and Rail partners programs (EMHU and UMXU) - Northbound.
+                                        FXE Ramps: Escobedo, Silao. KCSM Ramps: Salinas Victoria, Interpuerto (SLP), Puerta Mexico (Toluca).
+                                        Free time: Day of in-gate plus 13 calendar days. (weekends and holidays will be excluded from free
+                                        time calculations)
+                                        Day 15+ $35 USD per calendar day
+                                        Border Direct Shipments
+                                        Free Time: Day of notification plus 1 calendar day
+                                        Day 3+: $150 USD per calendar day
+Arranged or Performed Dray Services     Charges for cross border dray or shuttle services performed to or from Forwarders, Custom Brokers or
+                                         Mexican Carriers will be as follows:
+                                        - Nogales, AZ to/from Nogales, SO - $260 USD
+                                        - Calexico, CA to/from Mexicali, BJ - $260 USD
+                                        - Otay Mesa, CA to/from Tijuana, BJ - $315 USD
+                                        - Brownsville, TX to/from Matamoros, TM - $260 USD
+                                        - El Paso, TX to/from Ciudad Juarez, CI - $250 USD
+                                        - Laredo, TX to/from Nuevo Laredo, TM - $150 USD
+                                        - McAllen, TX to/from Reynosa, TM - $260 USD
+                                        - Eagle Pass, TX to/from Piedras Negras, CU - $350 USD
+                                          - Del Rio, TX to/from Ciudad Acuna, CU - $250 USD
+Mexico Border Crossing Dray at Laredo, $150 for cross border dray or shuttle services performed to or from Forwarders, Customer Brokers, or
+TX                                      Mexican Carriers
+Mexico Cross Border Dry Run at          Charge of $150 USD will be assessed
+Laredo, TX
+
+Mexico Dry Run                         Mexico Direct Shipments:
+                                       Local: $250 USD
+                                       Non-Local: Any shipments that are non-local to the ramp of origin/destination, will be charged based
+                                       on distance between the ramp and pickup/drop off location
+                                       Border Direct Shipments: If a container arrives to a brokers facility and it is not received a charge of
+                                       $150 USD will be assessed in addition to Werner Stop Terminal
+Mexico Detention with Power            At brokers facilities at the border $75 USD for each hour beyond 2 hours free time. At MX consignee
+                                       or shipper facilities $75 USD for each hour beyond 4 hours free time.
+Mexico Diversion of Service            $550 USD upon "diversion" of Werner's door to door controlled service.
+Mexico Utilization of Werner's US Bond $150 USD per in-bond shipment upon Werner's approval.
+Mexico In-bond Pedimento (T3)          $150 USD per pedimento
+correction
+Stop in Mexico Carrier Yard               $200 USD per event
+Mexico Additional Equipment Drop         $200 USD per container
+
+US Authority Inspection on                $600 per container
+Northbound shipments
+Mexico Container Per diem                 Mexico Direct Shipments (steel wheels across the border)
+                                          Free Time: Day of Notification (Day 1) plus 3 calendar days
+                                          Days 5-10: $50.00 USD per calendar day
+                                          Days 11-20: $100.00 USD per calendar day
+                                          Day 21 +: $225.00 USD per calendar day
+
+
+
+         ___________________________________________________________________________________________
+
+                                                                       37
+ITEM 830                                  INTERNATIONAL FLATBED SHIPMENTS
+
+   In Bond Charge                   $125 per in bond shipment
+
+
+
+ Accessorial                         Accessorial Terms
+ Hazmat Charges                      Additional charges may apply for shipping hazardous material in Mexico
+ Expedited Shipments                 Additional charges may apply.
+ Overweight Rework Charge            $100 USD per hour with a 2 hour minimum for palletized shipments
+ Late or After Hours Border Crossing $150 USD charge for any "After Hours" crossing. Must be prearranged during "Normal
+                                     Business Hours" defined as follows:
+                                     - Monday - Friday 0800 - 2200 and Saturday 1000 - 1600. Any loads crossing at any time
+                                     outside these hours are defined as "After Hours".
+ Mexico Border                       $100 USD per day after 3 (three) working days not including delivery day. After charges have
+ Detention/Demurrage                 began to be incurred, weekends and holidays will be included and charged. All charges
+                                     incurred must be paid prior to the trailer crossing the border.
+ Mexico Destination Surcharge        An additional $500 for any destination or stop(s) for partial unloading in the following
+ States                              Mexican states:
+                                     -BS - Baja California-Sur
+                                     -CH - Chiapas
+                                     -CP - Campeche
+                                     -QR - Quintana Roo
+                                     -TA - Tabasco
+                                     -YC - Yucatan
+
+  Arranged or Performed Dray          Charges for cross border dray or shuttle services performed to or from Forwarders, Custom
+ Services                            Brokers or Mexican Carriers will be as follows:
+                                     - Nogales, AZ to/from Nogales, SO - $240 USD
+                                     - Calexico, CA to/from Mexicali, BJ - $250 USD
+                                     - Otay Mesa, CA to/from Tijuana, BJ - $290 USD
+                                     - Brownsville, TX to/from Matamoros, TM - $220 USD
+                                     - El Paso, TX to/from Ciudad Juarez, CI - $200 USD
+                                     - Laredo, TX to/from Nuevo Laredo, TM - $150 USD
+                                     - McAllen, TX to/from Reynosa, TM - $240 USD
+                                     - Eagle Pass, TX to/from Piedras Negras, CU - $220 USD
+                                     - Del Rio, TX to/from Ciudad Acuna, CU - $210 USD
+
+ Mexican Northbound Border           An additional $300 fee will be applied for all outbound Mexico loads that are unloaded at
+ Termination Fee                     the border without prior authorization from Werner.
+ Canada Border Detention             $75 USD for each hour beyond 2 hours free time. This applies to, but is not limited to,
+                                     delays at the border attributed to shipper/importer failure to provide proper or complete
+                                     documentation, correct broker information or advance notification of shipment to
+                                     applicable government agency.
+ Canada FDA Pre-Notification         $30 USD charge for all shipments which require the carrier to perform the pre-notification
+ Charge                              function to the FDA. Where the shipper / importer / exporter or broker notifies, no charge
+                                     will apply.
+ Mexico Toll Charge                  $35 will apply on all Southbound and Northbound shipments passing through Laredo, TX.
+
+
+
+
+                                                                38
+         ___________________________________________________________________________________________
+
+ITEM 840                                   INTERNATIONAL TEMPERATURE CONTROLLED SHIPMENTS
+
+ Accessorial                          Accessorial Terms
+ In-Bond Charge                       $125 per in-bond shipment
+ Hazmat Charges                       Additional charges may apply for shipping hazardous material in Mexico
+ Expedited Shipments                  Additional charges may apply.
+ Overweight Rework Charge             $100 USD per hour with a 2 hour minimum for palletized shipments
+
+ Late or After Hours Border Crossing $150 USD charge for any "After Hours" crossing. Must be prearranged during "Normal
+                                     Business Hours" defined as follows:
+                                     - Monday - Friday 0800 - 2200 and Saturday 1000 - 1600. Any loads crossing at any time
+                                     outside these hours are defined as "After Hours".
+ Mexico Toll Charge                   $35 will apply on all Southbound and Northbound shipments passing through Laredo, TX.
+ Arranged or Performed Dray           Charges for cross border dray or shuttle services performed to or from Forwarders, Custom
+ Services                             Brokers or Mexican Carriers will be as follows:
+                                      - Laredo, TX to/from Nuevo Laredo, TM - $180 USD
+
+         ___________________________________________________________________________________________
+
+ITEM 850                                   INTERNATIONAL FUEL SURCHARGE
+
+   When applicable, Shipper and Carrier agree that a fuel surcharge will apply to all linehaul rates charged to the shipper with
+   an origin or destination in Mexico. The fuel surcharge will be based on the CRE (Comision Reguladora De Energia = Energy
+   Regulatory Commission) for six states found at www.gob.mx and the Mexican Pesos to U.S. Dollars exchange rate effective
+   each Tuesday using the tables and formulas shown below. If applicable, the surcharge will be effective for loads dispatched
+   Tuesday through Monday and will be based upon the weekly average diesel fuel price calculated Tuesday through Monday.
+
+
+
+
+                               [THE REST OF THE PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+                                                                 39
+40
+41
+ITEM 860                                    INTERNATIONAL FREIGHT CLAIMS
+
+
+   International shipments shall be governed by the statutes and regulations applicable to the mode and geography of travel. Shipments by
+   ocean entering and exiting the United States shall be governed by the Carriage of Goods by Seas Act. COGSA shipments shall be limited to
+   $500 per package. Further the time in which to file a lawsuit over cargo loss, damage or delay shall be one year from when the loss, damage,
+   or delay occurred or when it should have been known to have occurred.
+
+   Shipments governed by other treaties shall have limitations of liability according to the treaty.
+
+
+
+
+ITEM 870                                    CANADA CARBON SURCHARGE
+
+
+
+                                                     Rates are stated in U.S. currency
+                    The Canadian government began to implement a federal carbon tax program on April 1, 2019 to help achieve its
+             Paris Agreement climate goal of reducing carbon pollution by 30% below 2005 levels by 2030. The Greenhouse Gas
+            Pollution Pricing Act (GGPPA) imposes a federal carbon pollution pricing system on all transportation fossil fuels and
+             will be administered by the Canada Revenue Agency (CRA). The new federal tax scheme applies to the provinces of
+                               Saskatchewan, Manitoba, Ontario, and New Brunswick beginning April 1, 2019.
+
+                       As a result, a Carbon Surcharge Accessorial will be assessed on a per load basis specific to the carbon tax
+                                                       rates charged by each province.
+
+
+
+
+               Charges will be as follows and will be assessed when a load originates, destines or stops in the following provinces. If a
+                             load has more than one stop in the same province, only one charge will be applied.
+
+
+
+                                                                               Carbon
+                                           Origin/Destination
+                                                                               Surcharge
+                                           Ontario                               $7.00
+                                           Saskatchewan                          $8.00
+                                           Manitoba                              $3.00
+                                           New Brunswick                         $4.00
+                                                   SECTION 9 – FLATBED
+
+             ___________________________________________________________________________________________
+
+ITEM 910                                   TARPING (REQUESTED)
+
+   Loads will not be tarped unless specifically requested by Shipper. Tarping charges shall apply pursuant to Section 3.
+
+             ___________________________________________________________________________________________
+
+ITEM 920                                   TARPING (PLACEMENT OF)
+
+   Shipper shall provide Werner with a safe place to secure and tarp the load.
+
+             ___________________________________________________________________________________________
+
+ITEM 930                                   LOADING
+
+
+   Shipper is responsible for loading flatbed freight. Werner will not liable for damage caused by the improper loading of flatbed freight.
+   Werner’s acceptance of such freight for transportation does not imply that such freight is adequately loaded by Shipper.
+
+             ___________________________________________________________________________________________
+
+ITEM 940                                   ACCESSORIALS
+
+
+    Accessorial                        Accessorial Terms
+    Minimum Charge                     $650 per shipment, except if noted otherwise on another specific rate page related
+                                       to this publication or as follows (for purposes of this accessorial charge, the states of
+                                       CT, DC, DE, MA, MD, ME, NH, NJ, NY, PA, RI and VT shall be defined as "Northeast
+                                       States"):
+                                       * Outbound from FL will be $350 per shipment.
+                                       * Outbound from Northeast States will be $450 per shipment.
+                                       * Intra Northeast states will be $700 per shipment
+    Stops In Transit                   $125 for the first stop; $175 for the second; $250 for the third; $400 for each stop
+                                       thereafter (When rates are stated in dollars per vehicle used or in cents per 100
+                                       pounds, circuitous miles are $1.65 per mile)
+    Tarp Charge                        $100 per trailer, when requested
+    Impractical Operations             $1.65 per mile exceeding shortest route
+    Detention - Without Power          See Item 960
+    Detention - With Power             See Item 950
+    Reconsignment or Diversion         $150, subject to stop-in-transit rules
+    Non Permitted Use of               Utilization of equipment, which does not strictly comply with the intended use
+    Equipment                          between Werner and its customer, will result in a $400 USD per trailer or container,
+                                       per day, for each occurrence.
+    New York Surcharge (Zips:          Additional $500 for any destination or stop(s) (for partial loading or unloading) in
+    100-104, 106-107, 110-119)         these zip codes.
+    Florida Keys Surcharge (Zips:      Additional $400 for any destination or stop(s) (for partial loading or unloading) in
+    33001,33036-33037,33040-           these zip codes.
+    33043, 33045, 33050-33052,
+    33070
+C.O.D. Shipments                $100 per C.O.D. collection
+Two-Man Driver Teams            Additional $0.20 per loaded mile, when requested
+Additional Copies of Proof of   A digitized image of the bill of lading shall accompany each freight bill at no charge.
+Delivery                        Additional copies of such bills of lading shall be available for $15 USD
+Multiple Invoices               $75 for each additional consignee billed
+Payment/Collection of Charges   All charges must be paid within seven (7) days from the date of delivery at final
+                                destination. 2% per month on charges not paid within 30 days of billing. 10% on all
+                                balances offset against charges/billing in error.
+Ferry Charges                   All applicable round trip ferry charges
+Returned, Undelivered           $1.65 per mile for all miles from origin and returning back to the origin point,
+Shipments                       subject to a $600 minimum
+Vehicle Furnished But Not       $250 per occurrence
+Used
+Layover                         $350 per occurrence for solo drivers
+                                $500 per occurrence for team drivers
+Dunnage Disposal                $150 charge assessed if carrier is responsible for disposal of materials used in
+                                securing the shipment for transport
+Over Dimensional Loads          150% of the normal rate on shipments exceeding 53' long 102' wide, or 13' 6"
+                                measured from the ground up, plus all permit and/or escort expenses
+Food Safety Modernization Act   Customer must provide its FSMA controls to Carrier's sales account executive in
+                                writing at least twenty four (24) hours prior to pickup
+
+
+
+   IN ADDITION TO THE ABOVE ACCESSORIALS, THE FOLLOWING WILL APPLY TO ALL INTERNATIONAL SHIPMENTS:
+Accessorial                   Accessorial Terms
+In-Bond Charge                $125 per in-bond shipment
+Hazmat Charges                Additional charges may apply for shipping hazardous material in Mexico
+Expedited Shipments           Additional charges may apply.
+Overweight Rework Charge      $100 USD per hour with a 2 hour minimum for palletized shipments
+Late or After Hours Border    $150 USD charge for any "After Hours" crossing. Must be prearranged during
+Crossing                      "Normal Business Hours" defined as follows:
+                              - Monday - Friday 0800 - 2200 and Saturday 1000 - 1600. Any loads crossing at any
+                              time outside these hours are defined as "After Hours".
+
+Mexico Border                   $100 USD per day after 3 (three) working days not including delivery day. After
+Detention/Demurrage             charges have began to be incurred, weekends and holidays will be included and
+                                charged. All charges incurred must be paid prior to the trailer crossing the border.
+Mexico Destination Surcharge    An additional $500 for any destination or stop(s) for partial unloading in the
+States                          following Mexican states:
+                                -BS - Baja California-Sur
+                                -CH - Chiapas
+                                -CP - Campeche
+                                -QR - Quintana Roo
+                                -TA - Tabasco
+                                -YC - Yucatan
+    Arranged or Performed Dray          Charges for cross border dray or shuttle services performed to or from Forwarders,
+    Services                            Custom Brokers or Mexican Carriers will be as follows:
+                                        - Nogales, AZ to/from Nogales, SO - $240 USD
+                                        - Calexico, CA to/from Mexicali, BJ - $250 USD
+                                        - Otay Mesa, CA to/from Tijuana, BJ - $290 USD
+                                        - Brownsville, TX to/from Matamoros, TM - $220 USD
+                                        - El Paso, TX to/from Ciudad Juarez, CI - $200 USD
+                                        - Laredo, TX to/from Nuevo Laredo, TM - $150 USD
+                                        - McAllen, TX to/from Reynosa, TM - $240 USD
+                                        - Eagle Pass, TX to/from Piedras Negras, CU - $220 USD
+                                        - Del Rio, TX to/from Ciudad Acuna, CU - $210 USD
+
+
+    Mexican Northbound Border           An additional $300 fee will be applied for all outbound Mexico loads that are
+    Termination Fee                     unloaded at the border without prior authorization from Werner.
+    Canada Border Detention             $75 USD for each hour beyond 2 hours free time. This applies to, but is not limited
+                                        to, delays at the border attributed to shipper/importer failure to provide proper or
+                                        complete documentation, correct broker information or advance notification of
+                                        shipment to applicable government agency.
+
+    Canada FDA Pre-Notification         $30 USD charge for all shipments which require the carrier to perform the pre-
+    Charge                              notification function to the FDA. Where the shipper / importer / exporter or broker
+                                        notifies, no charge will apply.
+    Mexico Toll Charge                  $35 will apply on all Southbound and Northbound shipments passing through
+                                        Laredo, TX.
+
+              ___________________________________________________________________________________________
+
+ITEM 950                                     DETENTION WITH POWER
+
+   Shipper/Consignee will receive free time as indicated below for tractors to reside at the facility waiting to be loaded or unloaded. Each
+   additional time beyond the free time allowance will be billable to the Shipper at the rate indicated below. Computation of free time will
+   commence at either the truck’s arrival date/time, or the appointment date/time, whichever is later. In the event there a multiple pickups or
+   deliveries during the trip, the free time for each stop associated with either the pick up or delivery of the load will be allowed free time as
+   indicated below.
+
+   The rates applicable to tractor detention are as follows:
+
+                                                       Tractor Detention Rate Schedule
+
+
+                                  Segment                   Elapsed Time            Detention Charge Per Hour
+                               Initial Loading                 2 Hours                         $0.00
+                                                            After 2 Hours                     $110.00
+                                    Stop                       2 Hours                         $0.00
+                                                            After 2 Hours                     $110.00
+                                Final Delivery                 2 Hours                         $0.00
+                                                            After 2 Hours                     $110.00
+
+ITEM 960                                     DETENTION WITHOUT POWER
+
+   Shipper/Consignee will receive a forty-eight hour period for trailers to reside at the facility waiting to be loaded or unloaded. Each additional
+   full day beyond this time allowance will be billable to the Shipper/Consignee. Saturdays, Sundays and holidays will be excluded when
+   computing per diem charges, provided they fall within the free-time. Computation of free-time will begin at 12:01 AM the day after
+   constructive placement of the trailer. Shipper/Consignee will be responsible for notifying Werner when trailer is available for pickup and
+   will be charged until notification is received by Werner. Notification may be made via fax or email to the phone number or email address
+   provided by Werner. Separate invoice billing will be provided on a monthly basis.
+
+
+                                             The rates applicable to trailer detention are as follows:
+                           Dry Van Trailer Detention Rate Schedule
+
+Full Days After Trailer                          Detention
+     Placement                                Charge Per Day
+           1ST – 2nd Day                              $0.00
+        rd
+       3 day and beyond                               $60.00
+

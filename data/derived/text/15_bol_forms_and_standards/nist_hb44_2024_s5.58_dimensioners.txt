@@ -1,0 +1,671 @@
+Handbook 44 – 2024                                                                                    5.58. Multiple Dimension Measuring Devices
+
+
+                                                                Table of Contents
+
+                                                                                                                                            Page
+Section 5.58.         Multiple Dimension Measuring Devices...................................................................................5-83
+A.    Application .................................................................................................................................................. 5-83
+      A.1. General................................................................................................................................................5-83
+      A.2. Other Devices Designed to Make Multiple Measurement Automatically to Determine a Volume. ...5-83
+      A.3. Additional Code Requirements...........................................................................................................5-83
+      A.4. Exceptions...........................................................................................................................................5-83
+      A.5. Type Evaluation..................................................................................................................................5-83
+S.    Specifications............................................................................................................................................... 5-83
+      S.1. Design of Indicating and Recording Elements and of Recorded Representations. .............................5-83
+            S.1.1. Zero or Ready Indication. .....................................................................................................5-83
+            S.1.2. Digital Indications.................................................................................................................5-83
+            S.1.3. Negative Values....................................................................................................................5-84
+            S.1.4. Dimensions Indication. .........................................................................................................5-84
+            S.1.5. Value of Dimension/Volume Division Units. .......................................................................5-84
+            S.1.6. Customer Indications and Recorded Representations...........................................................5-84
+            S.1.7. Minimum Measurement........................................................................................................5-85
+            S.1.8. Indications Below Minimum and Above Maximum.............................................................5-85
+            S.1.9. Operating Temperature. ........................................................................................................5-86
+            S.1.10. Adjustable Components. .......................................................................................................5-86
+            S.1.11. Provision for Sealing.............................................................................................................5-86
+      S.2. Design of Zero and Dimensional Offset. ............................................................................................5-86
+            S.2.1. Zero or Ready Adjustment....................................................................................................5-86
+            S.2.2. Dimensional Offset. ..............................................................................................................5-87
+      S.3. Systems with Two or More Measuring Elements. ..............................................................................5-87
+      S.4. Marking Requirements........................................................................................................................5-87
+            S.4.1. Multiple Dimension Measuring Devices, Main Elements, and Components of Measuring
+                          Devices. ................................................................................................................................5-87
+            S.4.2. Location of Marking Information. ........................................................................................5-89
+N.    Notes............................................................................................................................................................. 5-89
+      N.1. Test Procedures...................................................................................................................................5-89
+            N.1.1. General..................................................................................................................................5-89
+            N.1.2. Position Test. ........................................................................................................................5-89
+            N.1.3. Disturbance Tests, Field Evaluation. ....................................................................................5-89
+            N.1.4. Test Object Size. ...................................................................................................................5-89
+            N.1.5. Digital Zero Stability. ...........................................................................................................5-90
+T.    Tolerances.................................................................................................................................................... 5-90
+      T.1. Design. ................................................................................................................................................5-90
+      T.2. Tolerance Application.........................................................................................................................5-90
+            T.2.1. Type Evaluation....................................................................................................................5-90
+            T.2.2. Subsequent Verification........................................................................................................5-90
+            T.2.3. Multi-interval (Variable Division-Value) Devices. ..............................................................5-90
+            T.2.4. Mixed-Interval Devices. .......................................................................................................5-90
+      T.3. Tolerance Values. ...............................................................................................................................5-90
+      T.4. Position Tests. .....................................................................................................................................5-90
+      T.5. Influence Factors.................................................................................................................................5-90
+            T.5.1. Temperature..........................................................................................................................5-90
+
+
+
+                                                                                5-81
+5.58. Multiple Dimension Measuring Devices                                                                                          Handbook 44 – 2024
+
+
+            T.5.2. Power Supply Voltage. .........................................................................................................5-91
+      T.6. Disturbances, Field Evaluation. ..........................................................................................................5-91
+UR.   User Requirements ..................................................................................................................................... 5-91
+      UR.1. Selection Requirements. .....................................................................................................................5-91
+            UR.1.1. Value of the Indicated and Recorded Division. ....................................................................5-91
+      UR.2. Installation Requirements. ..................................................................................................................5-91
+            UR.2.1. Supports. ...............................................................................................................................5-91
+            UR.2.2. Foundation, Supports, and Clearance....................................................................................5-91
+            UR.2.3. Protection from Environmental Factors. ...............................................................................5-91
+      UR.3. Use Requirements. ..............................................................................................................................5-91
+            UR.3.1. Minimum and Maximum Measuring Ranges. ......................................................................5-91
+            UR.3.2. Special Designs.....................................................................................................................5-92
+            UR.3.3. Object Placement. .................................................................................................................5-92
+      UR.4. Maintenance Requirements.................................................................................................................5-92
+            UR.4.1. Zero or Ready Condition. .....................................................................................................5-92
+            UR.4.2. Level Condition. ...................................................................................................................5-92
+            UR.4.3. Device Modification. ............................................................................................................5-92
+      UR.5. Customer Information Provided..........................................................................................................5-92
+
+
+
+
+                                                                           5-82
+Handbook 44 – 2024                                                         5.58. Multiple Dimension Measuring Devices
+
+
+                    Section 5.58.           Multiple Dimension Measuring Devices
+
+                                                     A. Application
+
+A.1. General. – This code applies to dimension and volume measuring devices used for determining the dimensions
+and/or volume of objects for the purpose of calculating freight, storage, or postal charges based on the dimensions
+and/or volume occupied by the object. A multiple dimension measuring device:
+
+       (a) is generally used to measure hexahedron-shaped objects; and
+           (Added 2008)
+
+   (b) may be used to measure irregularly-shaped objects.
+       (Added 2008)
+(Amended 2008)
+
+A.2. Other Devices Designed to Make Multiple Measurement Automatically to Determine a Volume. – Insofar
+as they are clearly applicable, the provisions of this code apply also to devices designed to make multiple
+measurements automatically to determine a volume for other applications as defined by Section 1.10. General Code
+Paragraph G-A.1. Commercial and Law-Enforcement Equipment.
+
+A.3. Additional Code Requirements. – In addition to the requirements of this code, Multiple Dimension Measuring
+Devices shall meet the requirements of Section 1.10. General Code.
+
+A.4. Exceptions. – This code does not apply to:
+
+       (a) devices designed to indicate automatically (with or without value-computing capabilities) the length of fabric
+           passed through the measuring elements (also see Section 5.50. for Fabric-Measuring Devices);
+
+       (b) devices designed to indicate automatically the length of cordage, rope, wire, cable, or similar flexible material
+           passed through the measuring elements (also see Section 5.51. for Wire- and Cordage-Measuring Devices);
+           or
+
+       (c) any linear measure, measure of length, or devices used to measure individual dimensions for the purpose of
+           assessing a charge per unit of measurement of the individual dimension (also see Section 5.52. for Linear
+           Measures).
+
+A.5. Type Evaluation. – The National Type Evaluation Program (NTEP) will accept for type evaluation only those
+devices that comply with all requirements of this code.
+
+                                                   S. Specifications
+
+S.1.     Design of Indicating and Recording Elements and of Recorded Representations.
+
+       S.1.1.   Zero or Ready Indication.
+
+           (a) Provision shall be made to indicate or record either a zero or ready condition.
+
+           (b) A zero or ready condition may be indicated by other than a continuous digital zero indication, provided
+               that an effective automatic means is provided to inhibit a measuring operation when the device is in an
+               out-of-zero or non-ready condition.
+
+       S.1.2.   Digital Indications. – Indicated and recorded values shall be presented digitally.
+
+
+
+                                                            5-83
+5.58. Multiple Dimension Measuring Devices                                                         Handbook 44 – 2024
+
+
+    S.1.3. Negative Values. – Negative values shall not be indicated or recorded.
+    (Amended 2021)
+
+    S.1.4. Dimensions Indication. – If in normal operation the device indicates or records only volume, a testing
+    mode shall be provided to indicate dimensions for all objects measured.
+
+    S.1.5. Value of Dimension/Volume Division Units. – The value of a device division “d” expressed in a unit
+    of dimension shall be presented in a decimal format. The value of “d” for each measurement axis shall be in the
+    same unit of measure and expressed as:
+
+        (a) 1, 2, or 5;
+
+        (b) a decimal multiple or submultiple of 1, 2, or 5; or
+
+        (c) a binary submultiple of a specific U.S. customary unit of measure.
+
+    Examples: device divisions may be 0.01, 0.02, 0.05; 0.1, 0.2, or 0.5; 1, 2, or 5; 10, 20, 50, or 100; 0.5, 0.25,
+    0.125, 0.0625, etc.
+    (Amended 2016)
+
+        S.1.5.1. For Indirect Sales. – In addition to the values specified in S.1.5. Value of Dimension/Volume
+        Division Units, the value of the division may be 0.3 inch and 0.4 inch.
+
+        S.1.5.2. Devices Capable of Measuring Irregularly-Shaped Objects. – For devices capable of
+        measuring irregularly shaped objects, the value of the division size (d) shall be the same for the length axis (x)
+        and the width axis (y) and may be different for the height axis (z), provided that electronic rotation of the
+        object to determine the smallest hexahedron is calculated in only a two-dimension horizontal plane, retaining
+        the stable side plane as the bottom of the hexahedron.
+        (Added 2008)
+
+    S.1.6. Customer Indications and Recorded Representations. – Multiple dimension measuring devices or
+    systems must provide information as specified in Table S.1.6. Required Information to be Provided by Multiple
+    Dimension Measuring Systems. As a minimum, all devices or systems must be able to meet either column I or
+    column II in Table S.1.6. Required Information to be Provided by Multiple Dimension Measuring Systems.
+    (Amended 2004)
+
+
+
+
+                                                         5-84
+Handbook 44 – 2024                                                      5.58. Multiple Dimension Measuring Devices
+
+
+                                                  Table S.1.6.
+                 Required Information to be Provided by Multiple Dimension Measuring Systems
+                                                   Column I1                    Column II1               Column III
+                                                  Provided by           Provided by invoice or           Provided by
+                                                    device                  other means                   invoice or
+                  Information                                                                            other means
+                                                                      Customer           Customer       as specified in
+                                                                       present          not present      contractual
+                                                                                                          agreement
+ 1. Device identification2                            D or P               P                  P             P or A
+ 2. Error message (when applicable)                   D or P               P                 N/A             N/A
+ 3. Hexahedron dimensions         3
+                                                      D or P               P                  P             P or A
+ 4. Hexahedron volume (if used)       3
+                                                      D or P               P                  P             P or A
+ 5. Actual weight (if used)   3
+                                                      D or P               P                  P             P or A
+ 6. Dimensional Offset (if used)      3
+                                                      D or P              N/A                N/A             N/A
+ 7. Hexahedron measurement statement      4
+                                                   D or P or M             P                  P             P or G
+ A = AVAILABLE UPON REQUEST BY CUSTOMER                       5
+
+ D = DISPLAYED
+ G = PUBLISHED GUIDELINES OR CONTRACTS
+ M = MARKED
+ N/A = NOT APPLICABLE
+ P = PRINTED or RECORDED IN A MEMORY DEVICE and AVAILABLE UPON REQUEST BY
+ CUSTOMER5
+ Notes:
+ 1
+   As a minimum all devices or systems must be able to meet either column I or column II.
+ 2
+     This is only required in systems where more than one device or measuring element is being used.
+ 3
+   Some devices or systems may not utilize all of these values; however, as a minimum either hexahedron
+   dimensions or hexahedron volume must be displayed or printed.
+ 4
+   This is an explanation that the dimensions and/or volume shown are those of the smallest hexahedron in which
+   the object that was measured may be enclosed rather than those of the object itself.
+ 5
+   The information “available upon request by customer” shall be retained by the party having issued the invoice
+   for at least 30 calendar days after the date of invoicing.
+(Amended 2004 and 2021)
+
+      S.1.7. Minimum Measurement. – Except for entries of dimensional offset, the minimum measurement by a
+      device is 12 d. The manufacturer may specify a longer minimum measurement. For multi-interval devices, this
+      applies only to the first measuring range (or segment) of each measurement axis (length, width, and height).
+      (Amended 2017 and 2021)
+
+      S.1.8. Indications Below Minimum and Above Maximum. – When objects are smaller than the minimum
+      dimensions identified in paragraph S.1.7. Minimum Measurement or larger than any of the maximum dimensions
+      plus 9 d, and/or maximum volume marked on the device plus 9 d, or when a combination of dimensions, including
+      dimensional offset, for the object being measured exceeds the measurement capability of the device, the indicating
+      or recording element shall either:
+
+           (a) not indicate or record any usable values; or
+
+         (b) identify the indicated or recorded representation with an error indication.
+      (Amended 2004, 2017, and 2021)
+
+
+                                                          5-85
+5.58. Multiple Dimension Measuring Devices                                                           Handbook 44 – 2024
+
+
+       S.1.9. Operating Temperature. – An indicating or recording element shall not indicate nor record any usable
+       values until the operating temperature necessary for accurate measuring and a stable zero reference or ready
+       condition has been attained.
+
+       S.1.10. Adjustable Components. – Adjustable components shall be held securely in adjustment and, except for
+       a zeroing mechanism (when applicable), shall be located within the housing of the element.
+
+       S.1.11. Provision for Sealing. – For devices and systems in which the configuration or calibration parameters
+       can be changed by use of a removable digital storage device, security shall be provided for those parameters as
+       specified in G-S.8.2. Devices and Systems Adjusted Using Removable Digital Storage Devices. For parameters
+       adjusted using other means, the following applies.
+
+           (a) The device or system shall be designed with provision(s) for applying a security seal that must be broken,
+               or for using other approved means of providing security (e.g., data change audit trail available at the time
+               of inspection), before any change that detrimentally affects the metrological integrity can be made to any
+               measuring element.
+
+          (b) Audit trails shall use the format set forth in Table S.1.11. Categories of Devices and Methods of Sealing
+              for Multiple Dimension Measuring Systems.
+       (Amended 2019)
+
+                                                  Table S.1.11.
+             Categories of Devices and Methods of Sealing for Multiple Dimension Measuring Systems
+                    Categories of Devices                                       Methods of Sealing
+   Category 1: No remote configuration.                       Seal by physical seal or two event counters: one for
+                                                              calibration parameters and one for configuration
+                                                              parameters.
+   Category 2: Remote configuration capability, but           The hardware enabling access for remote
+   access is controlled by physical hardware.                 communication must be at the device and sealed using a
+                                                              physical seal or two event counters: one for calibration
+   Device shall clearly indicate that it is in the remote     parameters and one for configuration parameters.
+   configuration mode and record such message if
+   capable of printing in this mode.
+   Category 3: Remote configuration capability access         An event logger is required in the device; it must include
+   may be unlimited or controlled through a software          an event counter (000 to 999), the parameter ID, the date
+   switch (e.g., password).                                   and time of the change, and the new value of the
+                                                              parameter. A printed copy of the information must be
+                                                              available through the device or through another on-site
+                                                              device. The event logger shall have a capacity to retain
+                                                              records equal to 10 times the number of sealable
+                                                              parameters in the device, but not more than 1000 records
+                                                              are required. (Note: Does not require 1000 changes to
+                                                              be stored for each parameter.)
+
+S.2.     Design of Zero and Dimensional Offset.
+
+       S.2.1. Zero or Ready Adjustment. – A device shall be equipped with means by which the zero reference or
+       ready condition can be adjusted, or the zero reference or ready condition shall be automatically maintained. The
+       zero reference or ready control circuits shall be interlocked so that their use is prohibited during measurement
+       operations.
+
+
+
+
+                                                            5-86
+Handbook 44 – 2024                                                           5.58. Multiple Dimension Measuring Devices
+
+
+    S.2.2. Dimensional Offset. – The dimensional offset shall eliminate the effect of the conveyance method
+    resulting in the measurement of only the object intended to be measured.
+    (Amended 2021)
+
+        S.2.2.1. Maximum Value of Dimensional Offset for Multi-Interval (Variable Division-Value
+        Devices). – A multi- interval device shall not accept any dimensional offset value greater than the maximum
+        capacity of the lowest range of the height axis.
+        (Added 2016) (Amended 2021)
+(Added 2016)
+
+S.3. Systems with Two or More Measuring Elements. – A multiple dimension measuring system with a single
+indicating or recording element, or a combination indicating-recording element, that is coupled to two or more
+measuring elements with independent measuring systems, shall be provided with means to prohibit the activation of
+any measuring element (or elements) not in use, and shall be provided with automatic means to indicate clearly and
+definitely which measuring element is in use.
+
+Note: This requirement does not apply to individual devices that use multiple emitters/sensors within a device in combination to
+measure objects in the same measurement field.
+(Amended 2004)
+
+S.4. Marking Requirements. – (Also see G-S.1. Identification, G-S.4. Interchange or Reversal of Parts,
+G-S.5.2.5. Permanence, G-S.6. Marking Operational Controls, Indications, and Features, G-S.7. Lettering,
+G-UR.2.1.1. Visibility of Identification, and G-UR.3.1. Method of Operation.)
+
+    S.4.1. Multiple Dimension Measuring Devices, Main Elements, and Components of Measuring
+    Devices. – Multiple dimension measuring devices, main elements of multiple dimension measuring devices when
+    not contained in a single enclosure for the entire dimension/volume measuring device, and other components shall
+    be marked as specified in Table S.4.1.a. Marking Requirements for Multiple Dimension Measuring Systems and
+    explained in the accompanying notes, Table S.4.1.b. Multiple Dimension Measuring Systems Notes for Table
+    S.4.1.a.
+
+
+
+
+                                                             5-87
+5.58. Multiple Dimension Measuring Devices                                                     Handbook 44 – 2024
+
+
+                                                 Table S.4.1.a.
+                         Marking Requirements for Multiple Dimension Measuring Systems
+
+                                                            Multiple Dimension Measuring Equipment
+                                                Multiple           Indicating                               Other
+                                                                                      Multiple
+                                              Dimension             Element                               Equipment
+                                                                                     Dimension
+                                              Measuring               not                                    (1)
+                                                                                     Measuring
+                                              Device and          Permanently
+                                                                                    Element Not
+                                               Indicating         Attached to
+ To Be Marked With ⇓                                                                Permanently
+                                              Element in            Multiple
+                                                                                   Attached to the
+                                             Same Housing          Dimension
+                                                                                     Indicating
+                                                                   Measuring
+                                                                                      Element
+                                                                    Element
+ Manufacturer’s ID                                  x                    x                 x                   x
+ Model Designation                                  x                    x                 x                   x
+ Serial Number and Prefix                           x                    x                 x                   x (2)
+ Certificate of Conformance Number (8)              x                    x                 x                   x (8)
+ Minimum and Maximum Dimensions
+ for Each Axis for Each Range in Each               x                    x                 x
+ Axis                             (3)(9)
+ Value of Measuring Division, d
+                                                    x                    x                 x
+ (for each axis and range)            (9)
+ Temperature Limits                (4)(9)           x                    x                 x
+ Minimum and Maximum speed         (5)(9)           x                    x                 x
+ Special Application               (6)(9)           x                    x                 x
+ Limitation of Use                 (7)(9)           x                    x                 x
+(Amended 2016)
+
+                                                  Table S.4.1.b.
+                            Multiple Dimension Measuring Systems Notes for Table S.4.1.a.
+ 1.   Necessary to the dimension and/or volume measuring system, but having no effect on the measuring value, e.g.,
+      auxiliary remote display, keyboard, etc.
+
+ 2.   Modules without “intelligence” on a modular system (e.g., printer, keyboard module, etc.) are not required to have
+      serial numbers.
+
+ 3.   The minimum and maximum dimensions (using upper or lower case type) shall be marked. For example:
+           Length: min _______    max _______
+           Width:   min _______   max _______
+           Height: min _______    max _______
+
+ 4.   Required if the range is other than − 10 °C to 40 °C (14 °F to 104 °F).
+
+ 5.   Multiple dimension measuring devices, which require that the object or device be moved relative to one another,
+      shall be marked with the minimum and maximum speeds at which the device is capable of making measurements
+      that are within the applicable tolerances.
+
+
+
+
+                                                        5-88
+Handbook 44 – 2024                                                      5.58. Multiple Dimension Measuring Devices
+
+
+                                                   Table S.4.1.b.
+                             Multiple Dimension Measuring Systems Notes for Table S.4.1.a.
+ 6.     A device designed for a special application rather than general use shall be conspicuously marked with suitable words
+        visible to the operator and the customer restricting its use to that application.
+
+ 7.     Materials, shapes, structures, combination of object dimensions, speed, spacing, minimum protrusion size, or object
+        orientations that are inappropriate for the device or those that are appropriate.
+
+ 8.     Required only if a Certificate of Conformance has been issued for the equipment.
+
+ 9.     This marking information may be readily accessible via the display. Instructions for displaying the information shall
+        be described in the NTEP CC.
+
+(Amended 2004, 2008, and 2016)
+
+      S.4.2. Location of Marking Information. – The required marking information shall be so located that it is
+      readily observable without the necessity of the disassembly of a part requiring the use of any means separate from
+      the device.
+
+                                                      N. Notes
+
+N.1.Test Procedures.
+
+      N.1.1.   General. – The device shall be tested using test standards and objects of known and stable dimensions.
+
+      N.1.2. Position Test. – Measurements are made using different positions of the test object and consistent with
+      the manufacturer’s specified use for the device.
+
+          N.1.2.1. Irregularly-Shaped Test Object Placement. – Irregularly-shaped test objects must be measured
+          while placed on a stable side. The rotation of the object to determine the smallest hexahedron should be
+          calculated in a two-dimensional plane, retaining the stable side plane as the bottom of the hexahedron.
+          (Added 2008)
+
+      N.1.3. Disturbance Tests, Field Evaluation. – A disturbance test shall be conducted at a given installation
+      when the presence of disturbances specified in T.6. Disturbances, Field Evaluation has been verified and
+      characterized if those conditions are considered “usual and customary.”
+
+      N.1.4. Test Object Size. – Test objects may vary in size from the smallest dimension to the largest dimension
+      marked on the device, and for field verification examinations, shall be an integer multiple of “d.”
+
+          N.1.4.1. Test Objects. – Verification of devices may be conducted using appropriate test objects of various
+          sizes and of stable dimensions. Test object dimensions must be known to an expanded uncertainty (coverage
+          factor k = 2) of not more than one-third of the applicable device tolerance. The dimensions shall also be
+          checked to the same uncertainty when used at the extreme values of the influence factors.
+
+          The dimension of all test objects shall be verified using a reference standard that is traceable to NIST (or
+          equivalent national laboratory) and meet the tolerances expressed in NIST Handbook 44 Fundamental
+          Considerations, paragraph 3.2. (i.e., one-third of the smallest tolerance applied to the device).
+          (Added 2004)
+
+          N.1.4.2. Irregularly-Shaped Test Objects. – For irregularly-shaped test objects, at least one angle shall
+          be obtuse and the smallest dimension for an axis shall be equal to or greater than the minimum dimension for
+          that axis.
+
+
+
+                                                          5-89
+5.58. Multiple Dimension Measuring Devices                                                        Handbook 44 – 2024
+
+
+          (Added 2008)
+       (Amended 2008 and 2012)
+
+       N.1.5. Digital Zero Stability. – A zero indication change test shall be conducted on all devices which show a
+       digital zero. After the removal of any test object, the zero indication shall not change. (Also see
+       G-UR.4.2. Abnormal Performance.)
+
+                                                   T. Tolerances
+
+T.1. Design. – The tolerance for a multiple dimension measuring device is a performance requirement independent
+of the design principle used.
+
+T.2.     Tolerance Application.
+
+       T.2.1. Type Evaluation. – For type evaluations, the tolerance values apply to tests within the influence factor
+       limits of temperature and power supply voltage specified in T.5.1. Temperature and T.5.2. Power Supply Voltage.
+
+       T.2.2. Subsequent Verification. – For subsequent verifications, the tolerance values apply regardless of the
+       influence factors in effect at the time of the verification. (Also see G-N.2. Testing with Nonassociated
+       Equipment.)
+
+       T.2.3. Multi-interval (Variable Division-Value) Devices. – When there exist two or more partial measuring
+       ranges (or segments) specified for any of the “dimensioning” axes (length (x), width (y), or height (z)) and the
+       division values corresponding to those partial measuring ranges (or segments) within the same “dimensioning”
+       axis differ, the tolerance values shall be based on the value of the division of the range in use.
+       (Amended 2016)
+
+       T.2.4. Mixed-Interval Devices. – For devices that measure to a different division value in at least one
+       dimensioning axes and all axes are single range, the tolerance values shall be based on the value of the division
+       of the axis in use.
+       (Added 2016)
+
+T.3. Tolerance Values. – The maintenance and acceptance tolerance values shall be ± 1 division.
+(Amended 2004)
+
+T.4. Position Tests. – For a test standard measured several times in different positions by the device all indications
+shall be within applicable tolerances.
+
+T.5.     Influence Factors. – The following factors are applicable to tests conducted under controlled conditions only.
+
+       T.5.1. Temperature. – Devices shall satisfy the tolerance requirements under the following temperature
+       conditions.
+
+           T.5.1.1. Temperature Limits. – If not marked on the device, the temperature limits shall be − 10 °C to
+           40 °C (14 °F to 104 °F).
+
+           T.5.1.2. Minimum Temperature Range. – If temperature limits are specified for the device, the range
+           shall be at least 30 °C or 54 °F.
+
+           T.5.1.3. Temperature Effect on Zero Indication. – The zero indication shall not vary by more than one
+           division per 5 °C (9 °F) change in temperature.
+
+
+
+
+                                                          5-90
+Handbook 44 – 2024                                                     5.58. Multiple Dimension Measuring Devices
+
+
+    T.5.2.   Power Supply Voltage.
+
+         T.5.2.1. Alternating Current Power Supply. – Devices that operate using alternating current must
+         perform within the conditions defined in paragraphs T.3. through T.6., inclusive, from − 15 % to + 10 % of
+         the marked nominal line voltage(s) at 60 Hz, or the voltage range marked by the manufacturer, at 60 Hz.
+         (Added 2004)
+
+       T.5.2.2. Direct Current Power Supply. – Devices that operate using direct current shall operate and
+       perform within the applicable tolerance at any voltage level at which the device is capable of displaying
+       metrological registrations.
+       (Added 2004)
+    (Amended 2004)
+
+T.6. Disturbances, Field Evaluation. – The following requirements apply to devices when subjected to
+disturbances which may normally exist in the surrounding environment. These disturbances include radio frequency
+interference (RFI), electromagnetic interference (EMI), acoustic changes, ambient light emissions, etc. The difference
+between the measurement indication with the disturbance and the measurement indication without the disturbance
+shall not exceed one division “d” or the equipment shall:
+
+    (a) blank the indication;
+
+    (b) provide an error message; or
+
+    (c) the indication shall be so completely unstable that it could not be interpreted, or transmitted into memory or
+        to a recording element, as a correct measurement value.
+
+                                         UR.       User Requirements
+UR.1. Selection Requirements. – Equipment shall be suitable for the service in which it is used with respect to
+elements of its design, including but not limited to, its maximum capacity, value of the division, minimum capacity,
+and computing capability.
+
+    UR.1.1. Value of the Indicated and Recorded Division. – The value of the division recorded shall be the
+    same as the division value indicated.
+
+UR.2.    Installation Requirements.
+
+    UR.2.1. Supports. – A device that is portable and is being used on a counter, table, or the floor shall be so
+    positioned that it is firmly and securely supported.
+
+    UR.2.2. Foundation, Supports, and Clearance. – The foundations and support of a device installed in a fixed
+    location shall be such as to provide strength, rigidity, and permanence of all components, and clearance shall be
+    provided around all live parts to the extent that no contacts may result when the measuring element is empty, nor
+    throughout the performance range of the device such that the operation or performance of the device is adversely
+    affected.
+
+    UR.2.3. Protection from Environmental Factors. – The indicating and measuring elements of a device shall
+    be adequately protected from environmental factors such as wind, weather, and RFI that may adversely affect the
+    operation or performance of the device.
+
+UR.3.    Use Requirements.
+
+    UR.3.1. Minimum and Maximum Measuring Ranges. – A device shall not be used to measure objects
+    smaller than the minimum or larger than the maximum dimensions marked on the device.
+
+
+
+                                                        5-91
+5.58. Multiple Dimension Measuring Devices                                                     Handbook 44 – 2024
+
+
+    UR.3.2. Special Designs. – A multiple dimension measuring device designed and marked for a special
+    application shall not be used for other than its intended purpose.
+
+   UR.3.3. Object Placement. – If the object being measured must be transported (e.g., shipped) on a stable side,
+   that irregularly-shaped object must be measured while placed on that stable side. The electronic rotation of the
+   object to determine the smallest hexahedron shall be calculated in a two-dimensional horizontal plane, retaining
+   the stable side plane as the bottom of the hexahedron.
+   (Added 2008)
+(Amended 2008)
+
+UR.4.   Maintenance Requirements.
+
+    UR.4.1. Zero or Ready Condition. – The zero-setting adjustment of a multiple dimension measuring device
+    shall be maintained so that, with no object in or on the measuring element, the device shall indicate or record a
+    zero or ready condition.
+
+    UR.4.2. Level Condition. – If a multiple dimension measuring device is equipped with a level-condition
+    indicator, the device shall be maintained in a level condition.
+
+    UR.4.3. Device Modification. – The measuring capabilities of a device shall not be changed from the
+    manufacturer’s design unless the modification has been approved by the manufacturer and the weights and
+    measures authority having jurisdiction over the device.
+
+UR.5. Customer Information Provided. – The user of a multiple dimension measuring device or system shall
+provide transaction information to the customer as specified in Table UR.5. Customer Information Provided.
+(Added 2004)
+
+
+
+
+                                                       5-92
+Handbook 44 – 2024                                                       5.58. Multiple Dimension Measuring Devices
+
+
+                                                  Table UR.5.
+                                          Customer Information Provided
+                                                                 No Contractual Agreement                 Contractual
+                     Information
+                                                         Customer Present      Customer not Present       Agreement
+1. Object identification                                         N/A                       P                 P or A
+2. Billing method (scale or dimensional weight if               D or P                     P                 P or A
+   used)
+3. Billing rate or rate chart                                D or P or A             P or G or A             P or A
+4. Dimensional weight (if used)                                   P                        P                 P or A
+5. Conversion factor (if dimensional weight is used)         D or P or A                   P                 P or G
+6. Dimensional weight statement1 (if dimensional                D or P                     P                 P or G
+   weight is used)
+7. Total price                                                    P                        P                 P or A
+A = Available upon Request by Customer2
+D = Displayed
+G = Published Guidelines or Contracts
+M = Marked
+N/A = Not Applicable
+P = Printed
+
+Notes:
+1
+  This is an explanation that the dimensional weight is not a true weight but is a calculated value obtained by applying
+  a conversion factor to the hexahedron dimensions or volume of the object.
+2
+  The information “available upon request by customer” shall be retained by the party having issued the invoice for at
+  least 30 calendar days after the date of invoicing.
+(Added 2004)
+
+
+
+
+                                                         5-93
+5.58. Multiple Dimension Measuring Devices                         Handbook 44 – 2024
+
+
+
+
+                              THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+                                             5-94
+

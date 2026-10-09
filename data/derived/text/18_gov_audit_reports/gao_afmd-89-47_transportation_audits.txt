@@ -1,0 +1,454 @@
+c   l
+I
+             United Statee
+GAO          General Accounting Office
+             Washington, D.C. 20548
+
+             Accounting and Financial
+             Managhment Division
+
+             B-214149
+
+             August 30,1989
+
+             The Honorable Cardiss Collins
+             Chairwoman, Subcommitteeon
+               Government Activities and Transportation
+             Committee on Government Operations
+             House of Representatives
+             Dear Madam Chairwoman:
+             This report respondsto your~requestthat we examine the General Ser-
+             vices Administration’s (GSA) accounting procedures for funds collected
+             as transportation overchargesand determine what amounts have been
+             transferred to the miscellaneousreceipts account of the Department of
+             the Treasury.
+             GSA did not transfer any funds to Treasury in fiscal year 1987. At the
+             end of fiscal year 1988, GSA transferred to Treasury $39 million of
+             $101.2 million in collections that was available after disbursements for
+             expensesand carrier refunds. The $39 million transferred included
+             $19 million available for transfer in fiscal year 1987 but unintentionally
+             delayed for about a year. The $62.2 million retained by GSA included
+             reservesfor contingent liabilities and provisions for the subsequent
+             year’s contract audit and administrative activities.
+             We identified several factors that GSA should consider in estimating con-
+             tingency reservesthat should enable GSA to effectively transfer appro-
+             priate Ievels of transportation collections to Treasury and still maintain
+             a sufficient capital base for reserves.We believe that these factors
+             should be incorporated into formal written procedures for determining
+             and documenting contingency reserves and are making this recommen                         b
+             dation to the Acting Administrator of GSA.
+  I
+
+
+             In 1976, GSA becamethe central audit authority for reviewing and recov-
+Babkground   ering transportation overchargespaid to commercial carriers by federal
+             government agencies,GSA auditors, and auditors it contracts with, exam-
+             ine the federal government’s bills for transportation of property and for
+             federal employee travel. The costs of the contract’audits and their asso-
+             ciated administrative expensesare paid from the funds collected from
+             transportation overchargesidentified through GSA'S audit process.Effec-
+             tive with the passageof Public Law 99-627 on November 7,1986, GSA is
+
+
+
+             Page 1                  GAO/APMD-89-47   GSA’s Transportation   Overcharge   Accounting
+                                                                                                                                                    .
+
+                                     lb214142
+
+
+
+
+                                     required to transfer the balance of the overcharge collections to the mis-
+                                     cellaneousreceipts account of Treasury at least annually.
+
+                                     The objectives of this report were to (1) examine GSA'S accounting proce-
+Objectives, Scope,and                dures for funds collected as transportation overchargesand (2) deter-
+Methodology                          mine the disposition of transportation overchargescollected by GSA.
+                                     In performing our examination, we reviewed GSA'S transportation over-
+                                     charge collections and disbursement activity from October 1, 1986,
+                                     through August 31,1988, and overcharge collections transferred to
+                                     Treasury through March 31,1989. We also interviewed GSA personnel
+                                     responsible for the transportation overcharge collection, disbursement,
+                                     and transfer processto determine their roles and reviewed the applica-
+                                     ble legislation, particularly Public Law 99-627, and GSA'S written proce-
+                                     dures covering transportation audit activity. Our work was performed
+                                     in accordancewith generally acceptedgovernment auditing standards.
+                                     The General ServicesAdministration provided written comments on a
+                                     draft of this report. These comments are presented and evaluated in the
+                                     “Agency Commentsand Our Evaluation” section of this report and are
+                                     included in appendix II.
+
+
+z 3ATransportation                   $100.8 million in transportation overchargesand disbursed $34 million
+01iercharge Collection,              for carrier refunds and contract audit services and administration.
+Di $bursement, and                   Actual collection and disbursement activity, by fiscal year, is presented
+                                     in table 1.
+Tr$nsfer Activity
+Tab1I 1: transportation Overcharge
+COIlI ctions and Disbursements       Dollars in millions
+    :                                Fircal war
+                                            -                              Gross receiMs               Disbursements0         Net collection8
+                                     Balance forwarded                                    ‘$0                            $0                 $34.4b
+                                     1987                                                47.2                          16.6                  30.6
+                                     1966 (through August)                               53.6                          17.4                  36.2
+                                     Total                                            $100.8                         $34.0                 $101.2
+                                     aDisbursements   include payments for contract audits, administrative   costs, and carrier refunds.
+                                     bPrior to the passage of Public Law 99-627, overcharge collections were returned to the agency that
+                                     paid the overcharge. Net collections that were in GSA’s account on November 7, 1986, the date the act
+                                     became effective, have been commingled in this balance.
+                                     ‘Receipts and disbursements for the month of September 1988 were not available for GSA to consider
+                                     in its transfer analysis until after fiscal year-end.
+
+
+
+
+                                     Page 2                            GAO/AFM&f3947        G6A’s Transportation      Overcharge     Accounting
+                        B.214143
+
+
+
+
+                        Of the $101.2 million in net collections, $39 million was transferred on
+                        September30,1988, the last day of the fiscal year, to the miscellaneous
+                        receipts account of Treasury. The $39 million consisted of $19 million
+                        recommendedfor transfer in fiscal year 1987 by GSA'S Office of Trans-
+                        portation Audits and another $20 million recommendedfor transfer dur-
+                        ing fiscal year 1988. GSA retained $62.2 million of the $101.2 million in
+                        net collections. Of this retained amount, $23.2 million was reserved for
+                        the settlement of carrier protests, $16.6 million was retained to pay the
+                        cost of the subsequentfiscal year’s contract audit and administrative
+                        activity, and the balance of $23.4 million was undesignated and avail-
+                        able for transfer to Treasury. GWeventually transferred $21 million to
+                        Treasury in March 1989,6 months after the end of fiscal year 1988. GSA
+                        officials stated that quarterly transfers will be made in the future.
+
+
+Delay in Transferring   In fiscal year 1987, GSA determined that $19 million in transportation
+                        overcharge collections was available for transfer to the miscellaneous
+$19 Million Available   receipts account of Treasury. The $19 million was not transferred until
+in Fiscal Year 1987     September30,1988, primarily becausethe office within GSAresponsible
+                        for approving the transfer did not issue the final transfer instruction.
+                        Public Law 99-627 specifies that the balance of overcharge collections,
+                        after making adequate provisions for expensesassociatedwith the
+                        transportation audit process,be transferred to Treasury at least annu-
+                        ally. As GSA had determined that $19 million was available for transfer
+                        to Treasury in fiscal year 1987, and the transfer was not made until a
+                        year later, it did not comply with this legislative requirement in fiscal
+                        year 1987.
+
+
+   aining Overcharge    GSA  retains a large percentageof the net transportation overcharge col-
+                        lections to reserve for possible contingent liabilities. This has the effect            b
+   .lections            of reducing the balance of net collections available for remittance to
+                        Treasury. To illustrate, in July 1987, GSA’S Office of Transportation
+                        Audits recommended$19 million of the $62 million balance of over-
+                        charge collections for transfer to Treasury, retaining $33 million to
+                        cover contingencies.In March 1988, the Office of Transportation Audits
+                        recommended$16 million of the $44 million balance for transfer, retain-
+                        ing $29 million to cover contingencies.In September 1988, the Office of
+                        Transportation Audits retained over $23 million to cover contingencies,
+                        after transferring a portion of the balance.
+                        Although we did not review in detail the reasonablenessof the contin-
+                        gency reserves,discussionswith GSA personnel revealed that they were
+
+
+                        Page 3                  GAO/AFMDdM7    GSA’s Transportation   Overcharge   Accounting
+                    E214149
+
+
+
+
+                    very conservative in determining the level of neededreserves.Although
+                    these personnel were aware of other factors which could be included in
+                    analyzing collections for subsequentremittance to Treasury, these fac-
+                    tors were not utilized. For example, GSA doesnot consider the funds res-
+                    toration processin setting contingency reserves.Through that process,
+                    an agency that transfers funds to Treasury and subsequently finds that
+                    these funds are neededto cover obligations could request recovery of
+                    the funds. GSA also doesnot consider that subsequenttransportation
+                    overcharge collections could be used to fund contingenciesthat become
+                    liable and due. In addition, GSA does not consider historical claims reso-
+                    lution data in setting reserve amounts. We believe that using these addi-
+                    tional factors in estimating reserve amounts would enable GSA to more
+                    effectively transfer appropriate levels of collections to Treasury and
+                    maintain a sufficient working capital base for contingencies.
+                    We noted that GSA doesnot have formalized procedures to document its
+                    processfor estimating reserves.Written documentation is neededto
+                    ensure that all factors are considered in determining reserve amounts
+                    and to ensure consistent application of the contingency reserving pro-
+                    cess.In addition, federal accounting standards found in GAO'S Policv and
+                    ProceduresManual for Guidanceof Federal Agencies,Title 2, require
+                    that internal control systems and all transactions be documented.
+  /
+  I
+                    For fiscal year 1987, GSA did not comply with the legislative requirement
+Cobclusions         in Public Law 99-627 that the balance of overcharge collections, after
+                    making adequate provisions for expensesassociatedwith the transpor-
+                    tation audit process,be transferred to Treasury at least annually. GSA
+                    did transfer $39 million in transportation overcharge collections to Trea-
+                    sury in fiscal year 1988. In addition, GSA lacks formal procedures for                  b
+                    estimating contingency reserveson the balance of overcharge
+                    collections.
+
+
+      ommendation   We recommendthat the Acting Administrator of GSA take steps to
+                    ensure that Treasury’s fund restoration process,subsequenttransporta-
+                    tion overcharge collections, and historical claims experience are consid-
+                    ered when estimating contingency reserves.These factors should be
+                    included in formalized written procedures covering the transportation
+                    overcharge collection and transfer process.
+
+
+
+
+                    Page 4                 GAO/AFMD89-47   GSA’s Transportation   Overcharge   Accounting
+                                B214149
+
+
+
+
+Agency Comments and ofIn GSA
+                         official comments on a draft of this letter, the Acting Administrator
+                              agreed with our recommendation and stated that written proce-
+Our Evaluation      dures will be formalized. (Seeappendix I.) The Acting Administrator
+                                noted that GSA'S transfer of net collections to Treasury for the second
+                                quarter of fiscal year 1989 reflects the factors included in our
+                                recommendation.
+                                GSA disagreed with our finding that for fiscal year 1987 the agency did
+                                not comply with the legislative requirement contained in Public Law QQ-
+                                627 that the balance of overcharge collections, after making adequate
+                                provisions for expensesassociatedwith the transportation audit pro-
+                                cess,be transferred to the miscellaneousreceipts account of Treasury at
+                                least annually. GSA contended that the $19 million identified and recom-
+                                mended for transfer in fiscal year 1987 was not transferred becausethe
+                                agency was awaiting Treasury’s approval to reclassify an account used
+                                in the funds transfer process.GSA stated that the reclassification was
+                                necessaryin order to preclude the automatic transfer of collections in
+                                this account to Treasury’s miscellaneousreceipts account at fiscal year-
+                                end. GSA noted that the $19 million was transferred to Treasury at the
+                                end of fiscal year 1988, following Treasury’s approval of the account
+                                reclassification earlier that year.
+                                We believe that the $19 million could have been transferred to Treasury
+                                earlier than September30,1988. These funds had already been identi-
+                                fied as available for transfer. Had they been appropriately transferred
+                                to the account awaiting reclassification, the automatic closing out of the
+                                account to the miscellaneousreceipts account of Treasury at the end of
+                                fiscal year 1987 would have accomplishedthe task of returning the
+                                funds to Treasury and fulfilled the legislative requirement. In addition,
+                                the account reclassification to which GSA referred was approved by
+                                Treasury in October 1987.                                                             I,
+
+
+
+
+                                Page 6                  GAO/AFMD-89-47WA’s Transportation   Overcharge   Accounting
+B-214149
+
+
+
+
+As agreed with your office, unless you publicly announcethe contents
+of this report earlier, we will not distribute it until 30 days from the
+date of this letter. At that time, we will send copies of the report to the
+Acting Administrator of the General ServicesAdministration, the Direc-
+tor of the Office of Managementand Budget, the Secretary of the Trea-
+sury, and other interested parties. Copieswill also be made available to
+others upon request. Pleasecontact me at (202) 276-9406 if you or your
+staff have any questions concerning the report. Other major contribu-
+tors to this report are listed in appendix II.
+Sincerely yours,
+
+
+
+
+Robert W. Gramling
+Director, Corporate Financial Audits         v
+
+
+
+
+Page 6                  GAO/AFMD-S9-47   GSA’s Transportation   Overcharge   Accounting
+Page 7             GAO/AF’MD@W   GSA’s Transportation   Overcharge   Accounting
+
+
+
+
+         ,   ./
+             :‘”     .
+                          I
+                                                                        ..,
+Appendix I
+
+CommentsFrom.the General
+ServicesAdministration
+
+
+                                                   Administrator
+                                          General Services Administration
+                                              Washington, DC 20405
+
+
+
+
+             July    7, 1989
+
+
+             The Honorable
+             Charles A. Bowsher
+             Comptroller   General
+               of the United    States
+             General Accounting     Office
+             Washington,   DC 20548
+             Dear Mr. Bowsher:
+             The General Services         Administration     (GSA) staff   has reviewed the
+             draft  report   entitled      "Transportation     Audits:    Examination     of
+             GSA's Accounting       for Transportation       Overcharges"
+              (GAO/AFMD-89-47),       dated June 23, 1989, and agrees with the report
+             recommendation.        Comments on some of the report         findings    and the
+             recommendation     are provided        in the enclosed statement.        I request
+             that these comments be considered             when preparing    this report     for
+             formal issuance.
+             Thank you for     the opportunity       to comment on this          report.
+             Sincerely,
+
+
+
+
+             Richard G. Austin
+             Acting Administrator
+             Enclosure
+
+
+
+
+                     Page 8                      GAO/AF’MD-S9-47   GSA’s Transportation    Overcharge   Accounting
+          Appendix I
+          Commenta From the General
+          Seticea Admhbtration
+
+
+
+
+                      GSA COMMENTSON GAO DRAFT REPORT
+                  "TRANSPORTATION AUDITS:  EXAMINATION OF
+             GSA'S ACCOUNTING FOR TRANSPORTATION OVERCHARGES,"
+                            DATED JUNE 23, 1989
+
+Finding
+GAO draft   letter,   first   page, second paragraph,    third     sentence,
+"The $39 million    transferred     included $19 million     available     for
+transfer  in fiscal     year 1987 but unintentionally      delayed for
+about a year."
+Comment
+In regard to the delay in the transfer            of the $19 million,      this
+was approximately      the timeframe      during which receipt     account
+symbol 475250 was being reclassified            by Treasury  from "available"
+to "unavailable."       This reclassification       was necessary     in order
+to preclude     the automatic    closing     out of these receipts      at fiscal
+year-end.
+Finding
+GAO draft         letter,   page 4, section    entitled,     "Delay in
+Transferring           $19 Million Available    in Fiscal     Year 1987."
+Comment
+In additian       to the above explanation,          it was an accepted practice
+to return      funds to miscellaneous         receipts     of the Treasury      on an
+annual basis (as opposed to more frequently).                    Furthermore,      this
+practice      was in accordance       with Public      Law 99-627, which included
+the following       provision:       "At least annually....        after     making
+adequate provision          for expenses....      the balance of the
+overpayments       collected     by the General Services         Administration
+shall    be transferred        to miscellaneous      receipts    of the
+Treasury...."
+Therefore,       the   $19 million    was returned    at the end of fiscal           year
+1988, following         Treasury's    approval   of the receipt  account
+reclassification         earlier   that year.
+In fiscal   year 1989, Treasury        agreed that a more frequent         return
+of funds to ,misccllaneoua       receipts      (i.e.,    quarterly)  would be
+acceptable.     GSA is currently       following      this practice.
+
+
+
+
+          Page9                       GAO/AFMD-88-47GSA'sTransportation     Overcharge    Accounting
+          Appendix I
+          CommentsFrom the General
+          Service0 Administration
+
+
+
+
+                                                -2-
+Findinp
+QAO draft     lrttor   page 7, ffret     paragraph,       firrt    sentence,       “We
+beliova    that uring there additional          factors        in ertimating       re8erve
+amount8    would rnable GSA to more quickly             tranrfer       collections      to
+Traarury     and maintain   a 8ufficient      working capital           base for
+oontingenoir8.”
+Comment
+The fund8      rertoration          procerr    wa8 one of the factors   referred     to
+in the above rentenco.                QSA obtained       Trearury
+                                                        from          8 notification
+that  rortorationr  of        fund8 transferred      to TreaIury’8
+mi8oellanoour      recoiptr      account could be requerted         if and when
+claim8 are rettl8d         in favor    of the carrierr.        The restoration
+faotor    ir ourrontly       being utilhed       in determining     the periodic
+tranrfw     of receipt8       from tranrportation       overcharge8     to
+miroollanoour      rocoiptr      of thr Trearury.
+Rmcommendation
+
+We recommend that the Acting           Adminirtrator       of QSA take step8 to
+enlure     that   QSA, when ertimating       contingency     reserves,     includes
+Troarury’r      fund rertoration     procese,      subsequent    transportation
+overcharge      collectionr,     and historical      experience,     in determining
+the amount of transportation           overcharges    available     for transfer
+to the Trearury.       The8e factors       should be included       in formalized
+written    procedures    covering    the transportation        overcharge
+collection     and transfer     process.
+Comment
+The Federal Supply Service            (FSS) agrees with this recommendation
+and will     formalize     existing     written     procedures       developed    over the
+last 2 years.         FSS’s recommended transfer             of net collections        to
+the Treasury       for the second quarter           of fiscal      year 1989 reflects
+the funds restoration          process,      availability       of future     period’s
+transportation        overcharge    collections,          and historical      claims
+resolution      data in estimating         contingency       reserves.
+F8S’s fiscal      year 1989 second quarter        recommended transfer      of $30
+million    net collections      to Treasury’s     miscellaneous    receipts    will
+increase    the balance in this account to $90 million              (and to $100’
+million    before the end of fiscal        year 1989).       This recommended
+transfer    also leaves only $5 million         in Suspense Fund 207.X,        to
+serve as working capital         base for contingencies.         The $5 million
+will    be maintained     or revised   as experience      proves a lesser
+amount is required.
+
+
+
+
+          Page 10                           GAO/AFMD-S9-47GSA’sTran~~portatioxiOvercharge Accounting
+
+
+
+                                      ‘.,
+Appendix II
+
+ Major CkxWbutors to This Report
+
+
+                      Roger R. Stoltz, Assistant Director (202) 2769408
+Accounting and        Steven J. Sebastian,Accountant-in-Charge
+Financial Management Marla A. Freedman, Accountant
+Division, Washington,
+D.C.
+
+                              Richard T. Cambosos,Senior Attorney
+Office of the General
+Counsel
+
+
+
+
+(91751 )                      Page 11              GAO/AF’MD-B9-47   GSA’s Transportation OvemhargeAcconnting
+
+      1
+

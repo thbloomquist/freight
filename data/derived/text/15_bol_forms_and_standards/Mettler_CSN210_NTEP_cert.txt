@@ -1,0 +1,96 @@
+                                  National Conference on Weights and Measures
+                                15245 Shady Grove Road, Suite 130 • Rockville, MD 20850
+
+                                                                                                                 Certificate Number: 05-030P
+                                                                                                                                 Page 1 of 2
+                                          National Type Evaluation Program
+                                                 Certificate of Conformance
+                                            for Weighing and Measuring Devices
+
+  For:                                                                             Submitted by:
+  Multiple Dimension Measuring Device                                              Mettler-Toledo, Inc
+  Model: CS900 and CS900LX (see note)                                              1150 Dearborn Dr
+  Maximum: (see below)                                                             Worthington, OH 43085
+  Minimum: (see below)                                                             Tel: (614) 438-4393
+  dmin:    0.2in (0.5cm) at 240ft/min (73m/min)                                    Fax: (614) 438-4355
+           0.5in (1cm) at 260ft/min (80m/min)                                      Contact: Darrell Flocken
+                                                                                   Email: darrell.flocken@mt.com
+
+
+
+
+                                                     Standard Features and Options
+  Note: In the model designation CS900LX, the “LX” represents non-metrologically significant features.
+
+  Dimensioning Designation:
+
+  Dimensions                         Minimum                           Maximum                            Maximum Velocity
+  Length                             2.4in (6cm)                       100in (254cm)
+  Width                              2.4in (6cm)                       36in (92cm)                        240ft/min (73m/min)
+  Height                             2.4in (6cm)                       36in (92cm)
+  Length                             6in (12cm)                        100in (254cm)
+  Width                              6in (12cm)                        36in (92cm)                        260ft/min (80m/min)
+  Height                             6in (12cm)                        36in (92cm)
+
+  Standard Features:
+
+  RS 232 communication port.
+
+
+
+
+  Temperature Range: -10 ˚C to 40 ˚C (14 ˚F to 104 ˚F)
+
+
+
+This device was evaluated under the National Type Evaluation Program (NTEP) and was found to comply with the applicable technical requirements of
+Handbook 44, “Specifications, Tolerances, and Other Technical Requirements for Weighing and Measuring Devices.” Evaluation results and device
+characteristics necessary for inspection and use in commerce are on the following pages.
+
+
+
+
+G. Weston Diggs                                                                                                             James C. Truex
+Chairman, NCWM, Inc.                                                                Chairman, National Type Evaluation Program Committee
+                                                                                                                 Issue date: April 15, 2005
+
+Note: The National Conference on Weights and Measures does not "approve”, “recommend", or "endorse" any proprietary product or material, either as a
+single item or as a class or group. Results shall not be used in advertising or sales promotion to indicate explicit or implicit endorsement of the product or
+material by the NCWM.
+                                                                                          Certificate Number: 05-030P
+                                                                                                           Page 2 of 2
+
+
+                                                Mettler-Toledo, Inc
+                                       Multiple Dimension Measuring Device
+                                                  Model: CS900
+
+
+Application: The CS900 is used to calculate the dimensions of an opaque hexahedron object. More than one object can be
+(scanned) measured simultaneously. The edges or surfaces of the objects being measured can be touching. Objects can not
+be stacked. Larger objects must not be placed so as to cut the light rays to the smaller objects.
+
+Identification: The required information appears on an adhesive badge attached to the side of the scale housing.
+
+Sealing: The Device is sealed by threading a wire through two bolts heads after setup is complete.
+
+Test Conditions: For the purpose of this evaluation, CS900 was submitted for evaluation. The emphasis of the evaluation
+was on device design, marking, operation, and compliance with influence factor requirements. Several measurements were
+performed near maximum, near minimum, and near mid-range for the range listed. The devices were tested over a
+temperature range of -10 ˚C to 40 ˚C (14 ˚F to 104 ˚F). Measurements were also conducted with power supplies of 100
+VAC and 130 VAC.
+
+NOTE: This Certificate is issued as a provisional NTEP Certificate of Conformance (CC). This evaluation is based on the
+current draft checklist, procedures and technical policy contained in NCWM Publication 14 for this device type. When
+work on the NCWM Publication 14 section for this device is completed, the test report and this NTEP CC will be reviewed.
+If all current requirements have been met by this evaluation, the provisional status will be removed.
+
+Evaluated By: W. West (OH), A. McCoy (OH), T. Lucas (OH)
+
+Type Evaluation Criteria Used: NIST Handbook 44, 2003 Edition; NCWM Publication 14, 2003 Edition
+
+Conclusion: The results of the evaluations and information provided by the manufacturer indicate the devices comply with
+applicable requirements.
+
+Information Reviewed By: S. Patoray (NCWM), L. Bernetich (NCWM)
+

@@ -1,0 +1,192 @@
+                                    November 2, 2010
+
+
+                                    CBCA 2014-RATE
+
+
+                     In the Matter of ABF FREIGHT SYSTEM, INC.
+
+
+      Scooter Sayers, Traffic Services Director of ABF Freight System, Inc., Fort Smith,
+AR, appearing for Claimant.
+
+       Mary C. Bates, Director, Transportation Audits Division, Office of Travel, Motor
+Vehicles & Card Services, Federal Acquisition Service, General Services Administration,
+Arlington, VA, appearing for General Services Administration.
+
+       John M. Dowling, Office of the Staff Judge Advocate, Surface Deployment and
+Distribution Command, Department of the Air Force, Scott Air Force Base, IL, appearing
+for Department of Defense.
+
+SHERIDAN, Board Judge.
+
+        This matter was brought by a transportation service provider (TSP), ABF Freight
+System, Inc. (ABF), under 31 U.S.C. § 3726(i)(1) (2006), which provides that a TSP may
+request review of an action taken by the Audits Division of the General Services
+Administration’s (GSA’s) Office of Travel and Transportation Services. ABF contends that
+GSA improperly assessed $379.64 in interest charges on several notices of overcharges
+(NOCs) filed against ABF. The Board finds that, pursuant to the terms and conditions that
+applied to the transportation documents (TDs) in issue, GSA properly charged ABF $379.64
+in interest on the overcharges pertaining to those TDs.
+
+                                       Background
+
+       At various times during 2007 and 2008, ABF was issued and received payments on
+several TDs, including five bills of lading (BLs), nine electronic invoices (EIs), and two
+transportation service orders (TSOs). Each TD, or the rate tender made to the agency pursuant
+CBCA 2014-RATE                                                                             2
+
+to which a particular TD was issued, provided that the shipment was subject to the terms and
+conditions set forth in 41 CFR 102-117 (Transportation Management Regulation) or 41 CFR
+102-118 (Transportation Payment and Audit Regulation), or both.1
+
+       The terms and conditions which are pertinent to this matter involving the accrual of
+interest are set forth in 41 CFR 102-117.65 which provides, inter alia,
+
+       Interest shall accrue from the voucher payment date on overcharges made and
+       shall be paid at the same rate in effect on that date as published by the
+       Secretary of the Treasury according to the Debt Collection Act of 1982, 31
+       U.S.C. 3717.
+
+41 CFR 102.117.65 (c) (2007 & 2008) (emphasis added).2 The terms and conditions set forth
+in 41 CFR 102-117.65 are mandatory for all TDs. 41 CFR 102-118.135, -118.140.
+
+       Subsequently, during 2009 and 2010, GSA performed post payment transportation
+audits on the TDs at issue and found overcharges on the part of ABF. GSA issued several
+NOCs against ABF, notifying it of the overcharges relating to the applicable TDs. Each
+NOC provided:
+
+
+
+
+       1
+          BL N0,578,240 provided: “This government shipment is subject to the terms and
+conditions of 41 CFR 102-117.” Three BLs, N0,776,485; N0,776,492; and N0,797,694,
+provided: “This government shipment is subject to the terms and conditions of 41 CFR 102­
+117 & 102-118.” BL ZX,915,993 provided: “This bill of lading is governed by the
+regulation relating thereto as published in Title 41, Part 102-118 of the Code of Federal
+Regulations. Terms and Conditions are also contained in the tender of service.” The rate
+tenders related to the nine EIs each included the following standard statement: “The
+transportation provider(s) (TSP) represent(s) to the United States that the services provided
+in this tender will be performed in accordance with applicable Federal, state and municipal
+laws and regulations including Federal Management Regulations, 41 CFR 102-117 and 102­
+118.” The two TSOs provided: “This U.S. shipment is subject to the terms and conditions
+of 41 CFR 102-117 and 102-118.”
+       2
+         The language specifying that “interest shall accrue from the voucher payment date,”
+was, for many years, printed on the back side of all government BLs (Optional Forms 1103
+and 1203). Optional Forms 1103 and 1203, and government BLs generally, were phased out
+around 2002 in favor of commercial BLs and other forms of electronic commerce. 41 CFR
+102-117.25, -117.85, -117.90, -117.95.
+CBCA 2014-RATE                                                                             3
+
+       IN ACCORDANCE WITH THE DEBT COLLECTION ACT OF 1982 (31
+       U.S.C. 3711 ET SEQ.), GSA HAS THE AUTHORITY TO CHARGE
+       INTEREST COSTS AGAINST COMMERCIAL DEBTORS. CURRENTLY
+       INTEREST IS CHARGED AUTOMATICALLY UNDER THE DEBT
+       COLLECTION ACT FROM THE DATE OF GSA’S NOTICE OF
+       OVERCHARGE. ADDITIONALLY, IF THE GBL [GOVERNMENT BILL
+       OF LADING] OR THE GTR [GOVERNMENT TRANSPORTATION
+       REQUEST] CONTAINS A CONTRACT PROVISION RELATING TO THE
+       ASSESSMENT OF INTEREST THEN INTEREST IS CHARGED UNDER
+       THE CONTRACT TERMS THEREOF, I.E., THE ORIGINAL INVOICE
+       PAYMENT DATE. IF NEITHER CONTAINS SUCH A PROVISION,
+       THEN INTEREST IS ASSESSED UNDER THE DEBT COLLECTION ACT
+       (31 U.S.C. 3717) AND THE FEDERAL CLAIMS COLLECTION
+       STANDARDS (41 CFR PART 101-105), AND REGULATIONS
+       PUBLISHED IN 41 CFR PART 105-55.
+
+      It is clear from the record that ABF paid the amounts for the overcharges within thirty
+days of the issuance of the NOCs, but not within thirty days of the applicable voucher
+payment dates relating to the NOCs.
+
+       ABF contests the $379.64 in interest charged against it, arguing that, pursuant to the
+Debt Collection Act of 1982 (DCA), GSA is not permitted to charge interest if the carrier
+pays a NOC within thirty days of receiving it. GSA argues that the $379.64 in interest
+charged against AFB was calculated using the various voucher payment dates, and that
+pursuant to the terms of the TDs, these were the proper dates for calculation of applicable
+interest on the overcharges.
+
+                                          Discussion
+
+       The DCA provides for the payment of appropriate interest on debts owed to the
+Government. 31 U.S.C. § 3717 (2006). In addressing interest and penalties on claims,
+section 3717 provides in pertinent part:
+
+       (b) Interest under subsection (a) of this section accrues from the date–
+
+       ....
+
+        (2) notice of the amount due is first mailed to the debtor . . . .
+
+       ....
+CBCA 2014-RATE                                                                               4
+
+       (d) Interest under subsection (a) of this section may not be charged if the claim
+       is paid within 30 days after the date from which interest accrues under
+       subsection (b) of [the Act].
+
+       ....
+
+       (g) This section does not apply-­
+
+        (1) if a statute, regulation required by statute, loan agreement, or contract
+       prohibits charging interest or assessing charges or explicitly fixes the interest
+       or charges.
+
+31 U.S.C. § 3717.
+
+        Section 3717 of the DCA provides authority for charging interest on debts owed to
+the Government.3 Where a contract contains a clause mandating the payment of interest, it
+is that clause, and not the DCA, that serves as the authority for the Government to assess the
+interest due. 31 U.S.C. § 3717(g)(1); Advanced Injection Molding, Inc. v. General Services
+Administration, GSBCA 16504-R, 05-2 BCA ¶ 33,097 (referencing Westchester Fire
+Insurance Co. v. United States, 52 Fed. Cl. 567, 584-87 (2002)). See also DKW
+Construction, Inc. v. General Services Administration, CBCA 438, 08-1 BCA ¶ 33,755
+(2007). Ergo, section 3717 of the DCA applies only where a contract vehicle fails to address
+payment of interest on a government claim.
+
+        Each of the contract vehicles in issue here referenced the terms and conditions set
+forth in 41 CFR 102-117, 41 CFR 102-118, or both, that provide for the accrual of interest
+as of the voucher payment date. We note that the TSP does not assert it was unaware of the
+terms providing for the accrual of interest as of the voucher payment date. Rather, ABF
+takes the position that reading section 3717 (b) and (d) of the DCA together provides that
+“interest may not be charged if the claim is paid within 30 days after the . . . date notice of
+the amount due is first mailed to the debtor.” ABF asserts:
+
+
+
+
+       3
+          It has been well established that the Government also has a common law right to
+interest on a debt owed to it even in the absence of a statute or a contract clause expressly
+providing a right to interest. Swartzbaugh Manufacturing Co. v. United States, 289 F.2d 81,
+84-85 (6th Cir. 1961); Asheville Contracting Co., DOT CAB 78-29, 79-2 BCA ¶ 13,898;
+Read Plastics, Inc. GSBCA 4159, et al., 77-2 BCA ¶12,859; Harrisville Heights, Inc.,
+ASBCA 20707, 77-1 BCA ¶ 12,358.
+CBCA 2014-RATE                                                                            5
+
+       Section (d) [of the DCA] states that “interest may not be charged if the claim
+       is paid within 30 days after the date from which interest accrues under
+       subsection (b) of this section.” Note that the verbs “charged” and “accrues”
+       are both used in this sentence and these verbs have completely different
+       definitions. One is transitive while the other is intransitive. The fact that an
+       amount has accrued does not mean it is owed.
+
+       ABF’s position is not compelling. The DCA in clearly provides in subsection (g) that
+when a contract explicitly fixes the interest or charges, section 3717 does not apply. The
+interest relief contained in section 3717(d) is not applicable here because the contract
+vehicles addressed interest and charges, taking the TDs outside of section 3717.
+
+                                          Decision
+
+      Based on the foregoing analysis, the Board finds that GSA properly charged ABF
+$379.64 in interest on the applicable overcharges.
+
+
+
+
+                                                  _________________________
+                                                  PATRICIA J. SHERIDAN
+                                                  Board Judge
+

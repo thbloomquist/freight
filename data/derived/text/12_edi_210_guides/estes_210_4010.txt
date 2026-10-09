@@ -1,0 +1,751 @@
+                           Estes Express Lines
+
+               210 Motor Carrier Freight Details and Invoice
+
+                              VERSION 4010
+
+
+
+                      Estes Express ISA Information
+
+                               Qualifier: 02
+
+                                ID: EXLA
+
+                            VAN: Kleinschmidt
+
+
+
+
+210 (004010)                         1                         August 12, 2008
+210 Motor Carrier Freight Details and Invoice
+
+                                                                                        Functional Group ID=          IM
+Introduction:
+This Draft Standard for Trial Use contains the format and establishes the data contents of the Motor Carrier Freight
+Details and Invoice Transaction Set (210) for use within the context of an Electronic Data Interchange (EDI)
+environment. The transaction set can be used to provide detail information for charges for services rendered by a
+motor carrier. It is used both as a motor carrier invoice to request payment or as details pertaining to motor freight
+shipment(s) charges.
+
+Heading:
+Page       Pos.   Seg.                                                  Req.                     Loop           Notes and
+No.        No.    ID       Name                                         Des.      Max.Use       Repeat          Comments
+4          010    ST       Transaction Set Header                       M                1
+5          020    B3       Beginning Segment for Carrier's Invoice      M                1
+Not Used   030    C2       Bank ID                                      O                1
+6          040    C3       Currency                                     O                1
+Not Used   050    ITD      Terms of Sale/Deferred Terms of Sale         O                1
+Not Used   060    N9       Reference Identification                     O              300
+7          070    G62      Date/Time                                    O                6
+8          080    R3       Route Information - Motor                    O               12
+Not Used   090    H3       Special Handling Instructions                O                6
+Not Used   100    K1       Remarks                                      O               10
+                           LOOP ID - 0100                                                             10
+9          110    N1       Name                                          O                1
+Not Used   120    N2       Additional Name Information                   O                1
+10         130    N3       Address Information                           O                2
+11         140    N4       Geographic Location                           O                1
+Not Used   150    N9       Reference Identification                      O                5
+                           LOOP ID - 0200                                                             10
+12         160    N7       Equipment Details                             O                1
+Not Used   170    M7       Seal Numbers                                  O                2
+                           LOOP ID - 0250                                                         999999
+13         180    SPO      Shipment Purchase Order Detail                O                1
+Not Used   185    SDQ      Destination Quantity                          O               10
+
+
+Detail:
+Page       Pos.   Seg.                                                  Req.                     Loop           Notes and
+No.        No.    ID       Name                                         Des.      Max.Use       Repeat          Comments
+                           LOOP ID - 0300                                                           999
+14         010    S5       Stop-off Details                              O                1                      n1
+Not Used   020    N9       Reference Identification                      O               10
+Not Used   030    G62      Date/Time                                     O               10
+Not Used   040    H3       Special Handling Instructions                 O                6
+                           LOOP ID - 0305                                                         999999
+15         045    SPO      Shipment Purchase Order Detail                O                1
+Not Used   047    SDQ      Destination Quantity                          O               10
+                           LOOP ID - 0310                                                                2
+16         050    N1       Name                                          O                1
+Not Used   060    N2       Additional Name Information                   O                1
+Not Used   070    N3       Address Information                           O                2
+Not Used   080    N4       Geographic Location                           O                1
+Not Used   090    N9       Reference Identification                      O                5
+
+210 (004010)                                                    2                                            August 12, 2008
+                           LOOP ID - 0320                                                           10
+Not Used   100    N7       Equipment Details                           O                1
+Not Used   110    M7       Seal Numbers                                O                2
+                           LOOP ID - 0400                                                         9999
+17         120    LX       Assigned Number                             O                1
+Not Used   130    N9       Reference Identification                    O                5
+Not Used   137    POD      Proof of Delivery                           O                1
+18         140    L5       Description, Marks and Numbers              O               30
+Not Used   150    H1       Hazardous Material                          O                3
+Not Used   160    H2       Additional Hazardous Material Description   O                2
+19         170    L0       Line Item - Quantity and Weight             O               10
+20         180    L1       Rate and Charges                            O               10
+Not Used   190    L4       Measurement                                 O               10
+Not Used   200    L7       Tariff Reference                            O               10
+Not Used   210    K1       Remarks                                     O               10
+                           LOOP ID - 0430                                                       999999
+Not Used   220    SPO      Shipment Purchase Order Detail              O                1
+Not Used   230    SDQ      Destination Quantity                        O               10
+                           LOOP ID - 0460                                                       999999
+Not Used   240    N1       Name                                        O                1                    n2
+Not Used   250    N2       Additional Name Information                 O                1
+Not Used   260    N3       Address Information                         O                2
+Not Used   270    N4       Geographic Location                         O                1
+Not Used   280    N9       Reference Identification                    O               10
+                           LOOP ID - 0463                                                       999999
+Not Used   300    CD3      Carton (Package) Detail                     O                1
+Not Used   310    N9       Reference Identification                    O               20
+Not Used   320    H6       Special Services                            O               10
+Not Used   330    L9       Charge Detail                               O               10
+Not Used   335    POD      Proof of Delivery                           O                1
+Not Used   340    G62      Date/Time                                   O                1
+                           LOOP ID - 0465                                                       999999
+Not Used   350    SPO      Shipment Purchase Order Detail              O                1
+Not Used   360    SDQ      Destination Quantity                        O               10
+
+
+Summary:
+Page       Pos.   Seg.                                                 Req.                    Loop         Notes and
+No.        No.    ID       Name                                        Des.      Max.Use      Repeat        Comments
+21         010    L3       Total Weight and Charges                    O                1
+22         020    SE       Transaction Set Trailer                     M                1
+
+
+Transaction Set Notes
+1.     Loops 0300, 0305, 0310 and 0320 shall only be used to identify all stop-off locations and associated data for
+       loading and unloading of freight with the exception of the original stop-off location (shipper) for truckload
+       carriers. The original stop-off location (shipper) shall be transmitted in loop 0100.
+2.     Loops 0460 and 0463 shall be used to identify all small package carrier details related to the consignee
+       (delivery location) and the related shipment. The shipper shall be identified in loop 0100.
+
+
+
+
+210 (004010)                                                   3                                         August 12, 2008
+           Segment:    ST Transaction Set Header
+           Position:   010
+              Loop:
+              Level:   Heading
+             Usage:    Mandatory
+           Max Use:    1
+           Purpose:    To indicate the start of a transaction set and to assign a control number
+       Syntax Notes:
+     Semantic Notes:   1     The transaction set identifier (ST01) is used by the translation routines of the
+                             interchange partners to select the appropriate transaction set definition (e.g., 810
+                             selects the Invoice Transaction Set).
+         Comments:
+
+
+                                        Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                            Attributes
+M              ST01      143   Transaction Set Identifier Code                                 M ID 3/3
+                               Code uniquely identifying a Transaction Set
+                                 210                Motor Carrier Freight Details and Invoice
+M              ST02      329   Transaction Set Control Number                                  M AN 4/9
+                               Identifying control number that must be unique within the transaction set
+                               functional group assigned by the originator for a transaction set
+
+
+
+
+210 (004010)                                            4                                             August 12, 2008
+           Segment:    B3 Beginning Segment for Carrier's Invoice
+           Position:   020
+              Loop:
+              Level:   Heading
+             Usage:    Mandatory
+           Max Use:    1
+           Purpose:    To transmit basic data relating to the carrier's invoice
+       Syntax Notes:   1 If either B309 or B310 is present, then the other is required.
+     Semantic Notes:   1 B306 is the billing date.
+                       2 On collect freight bills the data in B309 will be the actual delivery date. For the
+                           shipments invoiced prior to delivery, the B309 will be the estimated date of delivery.
+                       3 If B314 is used, B304 will indicate the party or parties responsible for payment of
+                           the transportation terms identified in B314.
+         Comments:
+
+
+                                        Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                             Attributes
+M              B302       76   Invoice Number                                                    M AN 1/22
+                               Identifying number assigned by issuer
+               B303      145   Shipment Identification Number                                    O AN 1/30
+                               Identification number assigned to the shipment by the shipper that uniquely
+                               identifies the shipment from origin to ultimate destination and is not subject to
+                               modification; (Does not contain blanks or special characters)
+M              B304      146   Shipment Method of Payment                                        M ID 2/2
+                               Code identifying payment terms for transportation charges
+                                  CC                 Collect
+                                  PP                 Prepaid (by Seller)
+M              B306      373   Date                                                              M DT 8/8
+                               Date expressed as CCYYMMDD
+M              B307      193   Net Amount Due                                                    M N2 1/12
+                               Total charges to be paid by the receiver of this transaction set expressed in the
+                               standard monetary denomination for the currency specified
+               B309       32   Delivery Date                                                     X DT 8/8
+                               Date for delivery of cargo to final consignee or to next mode expressed in
+                               format CCYYMMDD
+               B310      374   Date/Time Qualifier                                               X ID 3/3
+                               Code specifying type of date or time, or both date and time
+                                  140                Actual
+M              B311      140   Standard Carrier Alpha Code                                       M ID 2/4
+                               Standard Carrier Alpha Code
+               B312      373   Date                                                              O DT 8/8
+                               Date expressed as CCYYMMDD
+
+
+
+
+210 (004010)                                          5                                           August 12, 2008
+           Segment:    C3 Currency
+           Position:   040
+              Loop:
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To specify the currency being used in the transaction set
+       Syntax Notes:
+     Semantic Notes:   1     C301 is the billing currency.
+                       2     C303 is the payment currency.
+                       3     C304 is the rated currency.
+         Comments:     1     Currency is implied by the code for the country in whose currency the monetary
+                             amounts are specified.
+
+
+                                      Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                       Attributes
+M              C301      100   Currency Code                                               M ID 3/3
+                               Code (Standard ISO) for country in whose currency the charges are specified
+
+
+
+
+210 (004010)                                          6                                          August 12, 2008
+           Segment:    G62 Date/Time
+           Position:   070
+              Loop:
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    6
+           Purpose:    To specify pertinent dates and times
+       Syntax Notes:   1 At least one of G6201 or G6203 is required.
+                       2 If either G6201 or G6202 is present, then the other is required.
+                       3 If either G6203 or G6204 is present, then the other is required.
+     Semantic Notes:
+        Comments:
+
+
+                                       Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                         Attributes
+               G6201     432   Date Qualifier                                               X ID 2/2
+                               Code specifying type of date
+                                 86                Actual Pickup Date
+               G6202     373   Date                                                         X   DT 8/8
+                               Date expressed as CCYYMMDD
+
+
+
+
+210 (004010)                                         7                                        August 12, 2008
+           Segment:    R3 Route Information - Motor
+           Position:   080
+              Loop:
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    12
+           Purpose:    To specify carrier and routing sequences and details
+       Syntax Notes:   1 If R311 is present, then R310 is required.
+                       2 If R312 is present, then R311 is required.
+     Semantic Notes:   1 R303 is the station or city name at which carriers interchange shipments
+                       2 R307 is the carrier's billing date.
+                       3 R308 is the amount due the carrier.
+         Comments:
+
+
+                                       Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                            Attributes
+M              R301      140   Standard Carrier Alpha Code                                      M ID 2/4
+                               Standard Carrier Alpha Code
+M              R302      133   Routing Sequence Code                                            M ID 1/2
+                               Code describing the relationship of a carrier to a specific shipment movement
+                                 D                  DELY (Delivery Switch Carrier)
+                                 O                  Origin Carrier (Air, Motor, or Ocean)
+               R304       91   Transportation Method/Type Code                                  O ID 1/2
+                               Code specifying the method or type of transportation for the shipment
+                                 LT                 Less Than Trailer Load (LTL)
+
+
+
+
+210 (004010)                                         8                                         August 12, 2008
+           Segment:    N1 Name
+           Position:   110
+              Loop:    0100      Optional
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To identify a party by type of organization, name, and code
+       Syntax Notes:   1 At least one of N102 or N103 is required.
+                       2 If either N103 or N104 is present, then the other is required.
+     Semantic Notes:
+        Comments:      1    This segment, used alone, provides the most efficient method of providing
+                            organizational identification. To obtain this efficiency the "ID Code" (N104) must
+                            provide a key to the table maintained by the transaction processing party.
+                       2    N105 and N106 further define the type of entity in N101.
+
+
+                                       Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                            Attributes
+M              N101       98   Entity Identifier Code                                          M ID 2/3
+                               Code identifying an organizational entity, a physical location, property or an
+                               individual
+                                 CN                 Consignee
+                                 SH                 Shipper
+               N102       93   Name                                                            X AN 1/60
+                               Free-form name
+               N103       66   Identification Code Qualifier                                    X ID 1/2
+                               Code designating the system/method of code structure used for Identification
+                               Code (67)
+                                 93                 Code assigned by the organization originating the
+                                                    transaction set
+                                 94                 Code assigned by the organization that is the ultimate
+                                                    destination of the transaction set
+               N104       67   Identification Code                                             X AN 2/80
+                               Code identifying a party or other code
+
+
+
+
+210 (004010)                                          9                                           August 12, 2008
+           Segment:    N3 Address Information
+           Position:   130
+              Loop:    0100      Optional
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    2
+           Purpose:    To specify the location of the named party
+       Syntax Notes:
+     Semantic Notes:
+         Comments:
+
+
+                                      Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                 Attributes
+M              N301      166   Address Information                  M AN 1/55
+                               Address information
+
+
+
+
+210 (004010)                                         10              August 12, 2008
+           Segment:    N4 Geographic Location
+           Position:   140
+              Loop:    0100      Optional
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To specify the geographic place of the named party
+       Syntax Notes:   1 If N406 is present, then N405 is required.
+     Semantic Notes:
+         Comments:     1    A combination of either N401 through N404, or N405 and N406 may be adequate to
+                            specify a location.
+                       2    N402 is required only if city name (N401) is in the U.S. or Canada.
+
+
+                                       Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                         Attributes
+               N401       19   City Name                                                    O AN 2/30
+                               Free-form text for city name
+               N402      156   State or Province Code                                       O ID 2/2
+                               Code (Standard State/Province) as defined by appropriate government agency
+               N403      116   Postal Code                                                  O ID 3/15
+                               Code defining international postal zone code excluding punctuation and blanks
+                               (zip code for United States)
+               N404       26   Country Code                                                 O ID 2/3
+                               Code identifying the country
+
+
+
+
+210 (004010)                                        11                                        August 12, 2008
+           Segment:    N7 Equipment Details
+           Position:   160
+              Loop:    0200      Optional
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To identify the equipment
+       Syntax Notes:   1 If either N703 or N704 is present, then the other is required.
+                       2 If either N705 or N716 is present, then the other is required.
+                       3 If either N708 or N709 is present, then the other is required.
+     Semantic Notes:   1 N712 is the owner of the equipment.
+                       2 N723 is the operator or carrier of the rights of the equipment.
+         Comments:     1 N701 is mandatory for rail transactions.
+                       2 N720 and N721 are expressed in inches.
+
+
+                                      Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                           Attributes
+M              N702      207   Equipment Number                                               M AN 1/10
+                               Sequencing or serial part of an equipment unit's identifying number (pure
+                               numeric form for equipment number is preferred)
+               N711       40   Equipment Description Code                                     O ID 2/2
+                               Code identifying type of equipment used for shipment
+                                 TL                 Trailer (not otherwise specified)
+
+
+
+
+210 (004010)                                         12                                      August 12, 2008
+           Segment:    SPO Shipment Purchase Order Detail
+           Position:   180
+              Loop:    0250      Optional
+              Level:   Heading
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To specify the purchase order details for a shipment
+       Syntax Notes:   1 If either SPO03 or SPO04 is present, then the other is required.
+                       2 If either SPO05 or SPO06 is present, then the other is required.
+     Semantic Notes:   1 SPO02 is the department number.
+                       2 SPO04 is the total quantity for the purchase order.
+                       3 SPO06 is the total weight for the purchase order.
+                       4 SPO07 indicates the data error condition relative to the shipment management
+                           information.
+                       5 SPO08 is used to specify sorting and/or segregating reference numbers for each
+                           receiving location (processing area).
+         Comments:
+
+
+                                        Data Element Summary
+                Ref.    Data
+                Des.   Element Name                                                        Attributes
+M              SPO01     324   Purchase Order Number                                        M AN 1/22
+                               Identifying number for Purchase Order assigned by the orderer/purchaser
+
+
+
+
+210 (004010)                                       13                                         August 12, 2008
+           Segment:    S5 Stop-off Details
+           Position:   010
+              Loop:    0300      Optional
+              Level:   Detail
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To specify stop-off detail reference numbers and stop reason
+       Syntax Notes:   1 If either S503 or S504 is present, then the other is required.
+                       2 If either S505 or S506 is present, then the other is required.
+                       3 If either S507 or S508 is present, then the other is required.
+     Semantic Notes:   1 S509 is the stop reason description.
+        Comments:
+
+
+                                        Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                          Attributes
+M              S501      165   Stop Sequence Number                                          M N0 1/3
+                               Identifying number for the specific stop and the sequence in which the stop is
+                               to be performed
+M              S502      163   Stop Reason Code                                              M ID 2/2
+                               Code specifying the reason for the stop
+                                  PL                Part Load
+
+
+
+
+210 (004010)                                         14                                         August 12, 2008
+           Segment:    SPO Shipment Purchase Order Detail
+           Position:   045
+              Loop:    0305      Optional
+              Level:   Detail
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To specify the purchase order details for a shipment
+       Syntax Notes:   1 If either SPO03 or SPO04 is present, then the other is required.
+                       2 If either SPO05 or SPO06 is present, then the other is required.
+     Semantic Notes:   1 SPO02 is the department number.
+                       2 SPO04 is the total quantity for the purchase order.
+                       3 SPO06 is the total weight for the purchase order.
+                       4 SPO07 indicates the data error condition relative to the shipment management
+                           information.
+                       5 SPO08 is used to specify sorting and/or segregating reference numbers for each
+                           receiving location (processing area).
+         Comments:
+
+
+                                        Data Element Summary
+                Ref.    Data
+                Des.   Element Name                                                        Attributes
+M              SPO01     324   Purchase Order Number                                        M AN 1/22
+                               Identifying number for Purchase Order assigned by the orderer/purchaser
+
+
+
+
+210 (004010)                                       15                                         August 12, 2008
+           Segment:    N1 Name
+           Position:   050
+              Loop:    0310      Optional
+              Level:   Detail
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To identify a party by type of organization, name, and code
+       Syntax Notes:   1 At least one of N102 or N103 is required.
+                       2 If either N103 or N104 is present, then the other is required.
+     Semantic Notes:
+        Comments:      1    This segment, used alone, provides the most efficient method of providing
+                            organizational identification. To obtain this efficiency the "ID Code" (N104) must
+                            provide a key to the table maintained by the transaction processing party.
+                       2    N105 and N106 further define the type of entity in N101.
+
+
+                                       Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                            Attributes
+M              N101       98   Entity Identifier Code                                          M ID 2/3
+                               Code identifying an organizational entity, a physical location, property or an
+                               individual
+                                 CN                 Consignee
+               N103       66   Identification Code Qualifier                                    X ID 1/2
+                               Code designating the system/method of code structure used for Identification
+                               Code (67)
+                                 94                 Code assigned by the organization that is the ultimate
+                                                    destination of the transaction set
+               N104       67   Identification Code                                             X AN 2/80
+                               Code identifying a party or other code
+
+
+
+
+210 (004010)                                         16                                           August 12, 2008
+           Segment:    LX Assigned Number
+           Position:   120
+              Loop:    0400      Optional
+              Level:   Detail
+             Usage:    Optional
+           Max Use:    1
+           Purpose:    To reference a line number in a transaction set
+       Syntax Notes:
+     Semantic Notes:
+         Comments:
+
+
+                                      Data Element Summary
+               Ref.     Data
+               Des.    Element Name                                                           Attributes
+M              LX01      554   Assigned Number                                                M N0 1/6
+                               Number assigned for differentiation within a transaction set
+
+
+
+
+210 (004010)                                         17                                         August 12, 2008
+               Segment:    L5 Description, Marks and Numbers
+               Position:   140
+                  Loop:    0400      Optional
+                  Level:   Detail
+                 Usage:    Optional
+               Max Use:    30
+               Purpose:    To specify the line item in terms of description, quantity, packaging, and marks and
+                           numbers
+       Syntax Notes:       1 If either L503 or L504 is present, then the other is required.
+                           2 If L507 is present, then L506 is required.
+                           3 If either L508 or L509 is present, then the other is required.
+     Semantic Notes:
+        Comments:          1   L502 may be used to send quantity information as part of the product description.
+
+
+                                           Data Element Summary
+                  Ref.      Data
+                  Des.     Element Name                                                           Attributes
+                  L501       213   Lading Line Item Number                                         O N0 1/3
+                                   Sequential line number for a lading item
+                  L502        79   Lading Description                                              O AN 1/50
+                                   Description of an item as required for rating and billing purposes
+
+
+
+
+210 (004010)                                             18                                           August 12, 2008
+               Segment:    L0 Line Item - Quantity and Weight
+               Position:   170
+                  Loop:    0400      Optional
+                  Level:   Detail
+                 Usage:    Optional
+               Max Use:    10
+               Purpose:    To specify quantity, weight, volume, and type of service for a line item including
+                           applicable "quantity/rate-as" data
+       Syntax Notes:       1 If either L002 or L003 is present, then the other is required.
+                           2 If either L004 or L005 is present, then the other is required.
+                           3 If either L006 or L007 is present, then the other is required.
+                           4 If either L008 or L009 is present, then the other is required.
+                           5 If L011 is present, then L004 is required.
+                           6 If either L013 or L015 is present, then the other is required.
+     Semantic Notes:       1 L008 is the number of handling units of the line item tendered to the carrier.
+                           2 L013 can only be used if the code in L009 is PLT, SKD, or SLP.
+                           3 L015 designates whether the carrier will be required to verify the number of units
+                               contained on a pallet, slip sheet or skid. Code "Y" indicates that the carrier will be
+                               required to verify. Code "N" indicates that the carrier will not be required to verify.
+         Comments:         1 L013 is used to convey the total number of boxes, cartons, or pieces contained on a
+                               pallet, skid, or slip sheet for the line item.
+
+
+                                            Data Element Summary
+                  Ref.      Data
+                  Des.     Element Name                                                           Attributes
+                  L002       220   Billed/Rated-as Quantity                                       X R 1/11
+                                   Basis for rating (miles, value, volume, etc.); Note: Weight may be defined by
+                                   either data element 220 or 81
+                  L003       221   Billed/Rated-as Qualifier                                      X ID 2/2
+                                   Code identifying the type of quantity or value on which the rate or item pricing
+                                   is based
+                                      FR                 Flat Rate
+                                      LB                 Pound
+                  L004        81   Weight                                                         X R 1/10
+                                   Numeric value of weight
+                  L005       187   Weight Qualifier                                               X ID 1/2
+                                   Code defining the type of weight
+                                      A3                 Shippers Weight
+                                      F                  Deficit Weight
+                  L008        80   Lading Quantity                                                X N0 1/7
+                                   Number of units (pieces) of the lading commodity
+                  L009       211   Packaging Form Code                                            X ID 3/3
+                                   Code for packaging form of the lading quantity
+                                      PCS                Pieces
+                  L011       188   Weight Unit Code                                               O ID 1/1
+                                   Code specifying the weight unit
+                                      L                  Pounds
+
+
+
+
+210 (004010)                                              19                                            August 12, 2008
+               Segment:    L1 Rate and Charges
+               Position:   180
+                  Loop:    0400      Optional
+                  Level:   Detail
+                 Usage:    Optional
+               Max Use:    10
+               Purpose:    To specify rate and charges detail relative to a line item including freight charges,
+                           advances, special charges, and entitlements
+       Syntax Notes:       1 If either L102 or L103 is present, then the other is required.
+                           2 At least one of L104 L105 or L106 is required.
+                           3 If either L114 or L115 is present, then the other is required.
+                           4 If either L117 or L118 is present, then the other is required.
+     Semantic Notes:       1 L119 is the percent used to determine the charge in L104.
+                           2 L120, if used, indicates the currency for all monetary amounts in this L1 segment.
+                           3 L121 is the origin rated as charge amount.
+         Comments:
+
+
+                                            Data Element Summary
+                  Ref.      Data
+                  Des.     Element Name                                                               Attributes
+                  L101       213   Lading Line Item Number                                             O N0 1/3
+                                   Sequential line number for a lading item
+                  L102        60   Freight Rate                                                        X R 1/9
+                                   Rate that applies to the specific commodity
+                  L103       122   Rate/Value Qualifier                                                X ID 2/2
+                                   Code qualifying how to extend charges or interpret value
+                                      FR                  Flat Rate
+                                      LB                  Per Pound
+                                      MN                  Minimum
+                  L104        58   Charge                                                              X N2 1/12
+                                   For a line item: freight or special charge; for the total invoice: the total charges
+                                   -- expressed in the standard monetary denomination for the currency specified
+                  L108       150   Special Charge or Allowance Code                                    O ID 3/3
+                                   Code identifying type of special charge or allowance
+                                      405                 Fuel Surcharge
+                                      DSC                 Discount
+                                      LHS                 Linehaul Service
+                                                          The additional service charge or order for a transportation
+                                                          carrier to provide special linehaul services; i.e. to or from
+                                                          a temporary storage site, for used household goods not
+                                                          included in the normal transportation from origin to
+                                                          destination locations
+                  L112       276   Special Charge Description                                          O AN 2/25
+                                   Identification of special charge; this data element is used whenever an
+                                   applicable code cannot be found in data element 150
+
+
+
+
+210 (004010)                                              20                                            August 12, 2008
+               Segment:    L3 Total Weight and Charges
+               Position:   010
+                  Loop:
+                  Level:   Summary
+                 Usage:    Optional
+               Max Use:    1
+               Purpose:    To specify the total shipment in terms of weight, volume, rates, charges, advances, and
+                           prepaid amounts applicable to one or more line items
+       Syntax Notes:       1 If either L301 or L302 is present, then the other is required.
+                           2 If either L303 or L304 is present, then the other is required.
+                           3 If either L309 or L310 is present, then the other is required.
+                           4 If L312 is present, then L301 is required.
+                           5 If either L314 or L315 is present, then the other is required.
+     Semantic Notes:       1 L305 is the total charges.
+        Comments:
+
+
+                                            Data Element Summary
+                  Ref.      Data
+                  Des.     Element Name                                                               Attributes
+                  L301        81   Weight                                                              X R 1/10
+                                   Numeric value of weight
+                  L302       187   Weight Qualifier                                                    X ID 1/2
+                                   Code defining the type of weight
+                                      G                   Gross Weight
+                  L305        58   Charge                                                              O N2 1/12
+                                   For a line item: freight or special charge; for the total invoice: the total charges
+                                   -- expressed in the standard monetary denomination for the currency specified
+                  L311        80   Lading Quantity                                                     O N0 1/7
+                                   Number of units (pieces) of the lading commodity
+
+
+
+
+210 (004010)                                              21                                            August 12, 2008
+               Segment:    SE Transaction Set Trailer
+               Position:   020
+                  Loop:
+                  Level:   Summary
+                 Usage:    Mandatory
+               Max Use:    1
+               Purpose:    To indicate the end of the transaction set and provide the count of the transmitted
+                           segments (including the beginning (ST) and ending (SE) segments)
+       Syntax Notes:
+     Semantic Notes:
+         Comments:         1     SE is the last segment of each transaction set.
+
+
+                                            Data Element Summary
+                 Ref.       Data
+                 Des.      Element Name                                                            Attributes
+M                SE01         96   Number of Included Segments                                     M N0 1/10
+                                   Total number of segments included in a transaction set including ST and SE
+                                   segments
+M                SE02        329   Transaction Set Control Number                                  M AN 4/9
+                                   Identifying control number that must be unique within the transaction set
+                                   functional group assigned by the originator for a transaction set
+
+
+
+
+210 (004010)                                               22                                          August 12, 2008
+

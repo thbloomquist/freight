@@ -1,0 +1,339 @@
+           OL L
+                ER G
+                    EN          Comptroller General
+         TR
+   P
+
+
+
+
+                                of the United States
+                       ER
+COM
+
+
+
+
+                         AL
+                                Washington, D.C. 20548
+OF
+
+
+
+
+                            S
+                         TE
+
+
+     H
+ T
+
+
+
+
+                       A
+
+
+
+         E
+             UN I ED   ST
+                 T
+
+                                Decision
+
+                                Matter of:     Canupp Trucking, Inc.
+
+                                File:          B-261127
+
+                                Date:          February 15, 1996
+
+                                DIGEST
+
+                                A guaranteed traffic solicitation issued by the Military Traffic Management
+                                Command (MTMC) specified that charges for local services are to be calculated on
+                                a "shipment" basis; however, the solicitation did not define the word "shipment."
+                                The carrier's interpretation of a "shipment" as consisting of the articles under each
+                                transportation control number (TCN) listed on an individual government bill of
+                                lading governs when the TCN method of billing is a reasonable interpretation of the
+                                contract, experienced and competent traffic officials of the government approved
+                                the TCN method of billing before the carrier submitted any bills, and the contractor
+                                billed on that basis without any objection by the government for more than 3 years
+                                after the contract began.
+
+                                DECISION
+
+                                The General Services Administration (GSA) requests a decision on the validity of
+                                the Notices of Overcharge1 it issued against Canupp Trucking, Inc. (Canupp) at the
+                                request of the Navy Material Transportation Office (NAVMTO) for excess amounts
+                                paid to Canupp under note 12 to items 23-26 of its guaranteed traffic tender 600029.
+                                GSA also requests a decision concerning Canupp's claims under note 14 of
+                                items 23-26, where the issue is whether payment of these claims would duplicate
+                                payment for identical or overlapping services under note 12.
+
+                                As discussed below, we conclude that Canupp's charges under note 12 are valid, but
+                                we deny Canupp's claims for additional amounts under note 14.
+
+
+
+                                1
+                                 A Notice of Overcharge, GSA Form 7925, is a written statement sent by GSA to the
+                                carrier which notifies that it charged, and the government paid, too much money for
+                                a transportation service. The notice specifies, among other things, the amount paid
+                                to the carrier, the amount that the government should have paid, and the basis for
+                                GSA's calculation of the charge.
+
+                                                                                                               305215
+BACKGROUND
+
+In its solicitation to the industry dated March 26, 1990, the Military Traffic
+Management Command (MTMC), on behalf of the Navy Material Transportation
+Office (NAVMTO), sought guaranteed traffic offers for the transportation of Freight
+All Kinds (FAK) commodities2 between the following locations: the QUICKTRANS
+Terminal in Norfolk, Virginia; the Norfolk, Virginia Commercial Zone; the
+QUICKTRANS Terminal in Jacksonville, Florida; the carrier's terminal in Charleston,
+South Carolina; and the QUICKTRANS Terminal in Charleston, South Carolina.
+
+Canupp submitted the winning proposal in its tender 600029. Canupp's
+tender 600029 contained all of the NAVMTO-directed terms, conditions and charges
+of the MTMC solicitation, and Canupp's proposed "per vehicle used" charges as
+specified in items 23-26 of the tender. Tender 600029 and the March 26, 1990,
+solicitation form the contract between Canupp and NAVMTO.
+
+The excess charges and additional claims disputes between Canupp and NAVMTO
+depend on the definition of the word "shipment" found in notes 12 and 14 to
+items 23-26 of the tender. Note 12 provides for charges of $2.00 per hundred weight
+(cwt) for pickup and deliveries in the Charleston area, with a minimum charge of
+$25.00 per shipment. Note 12 further states that the charge includes "handling,
+consolidation, and break bulk." Note 14 requires the carrier to perform terminal
+services, including distribution and consolidation of shipments to include
+transloading of local Charleston pickups destined for other points. Note 14 also
+states that "the cost of this is as provided in NOTE 12."
+
+In August 1990, shortly after the award but before presentation of the first billings,
+Canupp's representatives met with several NAVMTO representatives, including the
+NAVMTO division head and the contracting officer's technical representative, to
+review proper billing procedures. Specifically, Canupp sought guidance as to the
+meaning of the word "shipment" in note 12. The division head responded that each
+transportation control number (TCN)3 on a GBL should be billed as a shipment.
+
+
+2
+ These commodities were defined in this solicitation as all types of commodities
+except Classes A and B explosives, ammunition, fireworks, etc.; Class C explosives,
+ammunition or fireworks requiring a Department of Defense (DOD) transportation
+protective service; and Class C explosives, fireworks or ammunition in excess of
+1,000 pounds.
+3
+ A transportation control number is a 17—position number assigned to control a
+shipment unit throughout the transportation cycle within the Defense
+Transportation System. See NAVMTO letter to GSA dated January 25, 1995 and
+                                                                     (continued...)
+
+Page 2                                                                        B-261127
+                                                                                305215
+Canupp billed on a TCN basis from August 1990 until late in 1993. According to
+Canupp, it billed 1,062 GBLs on a TCN basis before NAVMTO objected to this form
+of billing.
+
+In November 1993, NAVMTO notified Canupp that the word "shipment" as used in
+note 12 should derive its meaning from item 1001 of MTMC's Freight Traffic Rules
+Publication (MFTRP) 1A, in that, for billing purposes, a single shipment should be
+tied to, or be equated with, a single GBL. Thus, NAVMTO concluded, Canupp
+should have computed its note 12 charges based on the total weight of the articles
+listed on each GBL and not based on the weight of the articles listed under each
+TCN.
+
+In cooperation with NAVMTO, GSA conducted a postpayment audit of Canupp's
+bills, and it applied note 12 charges on a GBL basis. Canupp then asked GSA to
+reconsider. After reviewing Canupp's contentions, GSA asked us to resolve the
+dispute.
+
+The difference between TCN and GBL billing can be considerable due to the rate of
+$2.00 per cwt and the $25.00 minimum charge per shipment specified in note 12.
+For example, on GBL No. C-8,141,261, a shipment from a shipping activity to the
+carrier's terminal made in 1992, Canupp billed 63 individual TCNs listed on the GBL
+at the minimum charge of $25.00 each, since the article or articles included under
+each of these 63 TCNs weighed less than the breakpoint weight of 1,250 lbs., and it
+also billed for two TCNs that weighed more than the breakpoint weight, for charges
+of $28.50 and $55.90, respectively, or a total charge of $1,659.40 on the GBL. Under
+NAVMTO's interpretation of a "shipment" as one GBL, the charge would be $286.40,
+based on a total GBL weight of 14,320 lbs.
+
+NAVMTO argues that the MFTRP 1A definition of "shipment" is controlling here.
+Under that definition, a shipment is a quantity of freight tendered for transportation
+by one shipper at one point on 1 day, on one bill of lading, for delivery to one
+consignee at one destination. It notes that this definition is the one generally
+accepted in the industry and adopted in our decisions, citing B-197658, Aug. 25,
+1980, and B-179944, Aug. 8, 1974.
+
+In support of its position, Canupp argues that the usual definition of shipment does
+not apply to note 12 services since, in addition to pickup and delivery in the
+Charleston area, it was required to maintain a terminal and to perform terminal
+services for local pickups and deliveries, as described in notes 12 and 14. Canupp
+
+
+3
+ (...continued)
+Reporting of Transportation Discrepancies in Shipments, Glossary 1, NAVSUPINST
+4610.33C.
+
+Page 3                                                                        B-261127
+                                                                                305215
+also stresses the fact that it sought confirmation from NAVMTO at the time of
+contracting as to the correct method of billing, and NAVMTO confirmed that the
+TCN method of billing was correct. It further states that the GAO decisions relied
+upon by NAVMTO for its interpretation of "shipment" involved an incorporation by
+reference of the National Motor Freight Classification, which incorporation by
+reference does not exist here. Finally, Canupp states that it would not have agreed
+to extend its tender until the fall of 1993, if it had known in advance that NAVMTO
+disagreed with the TCN method of billing.
+
+MTMC supports Canupp's position. It does so on the basis that Canupp did seek
+clarification of the form of billing for note 12, the government drafted the contract,
+and the government had experienced and competent traffic managers approve TCN
+billing. MTMC states that a court would find for Canupp under these
+circumstances.
+
+DISCUSSION OF NOTE 12 CHARGES
+
+Generally, rules governing the construction of statutes also are applicable to the
+construction of contracts and tariffs. See Pillsbury Flour Mills Co. v. Great
+Northern Ry. Co., 25 F.2d 66, 68 (8th Cir. 1928). It is a rule of contract construction
+that unnatural or strained constructions should be avoided. Moreover, in deciding
+the meaning of any one provision of the contract all provisions of the contract
+should be considered. The interpretation that should prevail is the one that gives
+reasonable meaning to all provisions and does not render any part absurd, surplus
+or creates conflicts. If an ambiguity is found to exist that is not resolved by
+applying other rules of interpretation, it is construed against the drafter. See
+Southern Pac. Transp. Co. v. United States, 596 F.2d 461, 464-465 (Ct. Cl. 1979).
+Moreover, where an agreement involves repeated occasions for performance by
+either party with knowledge of the nature of the performance and opportunity for
+objection to it by the other party, any course of performance accepted or
+acquiesced in without objection is given great weight in the interpretation of the
+agreement. See RESTATEMENT (SECOND) CONTRACTS § 202(4) (1981).
+
+Applying these rules of construction, we do not see how Canupp could be charged
+with actual or constructive knowledge of NAVMTO's interpretation of the word
+shipment in note 12, either from the terms of the contract or from NAVMTO's
+actions, before the present dispute arose. Item 15 of Canupp's tender specifically
+states that it is self-contained unless otherwise indicated (see, for example, item 39
+that incorporates the solicitation). While the tender contains specific instances in
+which it incorporated the definitions of MFTRP 1A, see for example, items 40
+(Signature and Tally Record Service) and 41 (DOD Constant Surveillance Service),
+there is no such incorporation in note 12. Further, as Canupp notes, the GAO
+decisions cited by NAVMTO for its definition of shipment, involved situations where
+the definition was incorporated by reference.
+
+Page 4                                                                         B-261127
+                                                                                 305215
+We recognize that there is a significant difference in the price charged for each of
+these movements, depending on whether the TCN billing method or the GBL billing
+method is used. Charges for the movement of the shipments (per GBL) will
+generally be higher if billed on the basis of TCNs rather than on GBLs. While the
+record does not permit us to measure the magnitude of these differences, it is
+apparent, particularly in view of acceptance of the TCN billing practice by NAVMTO
+for a significant period of time, that the charges based on TCN billings are not so
+high as to be clearly out of line. Thus, we cannot say that Canupp should have
+known that its definition of a shipment, and thus its billing method, was
+unreasonable. As GSA states in its submission, the agreements and understandings
+have to be considered to resolve this dispute.
+
+Under this contract, Canupp billed a charge for local pickup and delivery service, as
+provided in note 12, and a line-haul charge to cover a consolidated truckload
+movement from the carrier's terminal to destination, as provided in items 23-26. As
+required by note 12, Canupp would pick up a load (shipment) from a Navy shipper
+moving on the basis of a single GBL, and consisting of numerous packages going to
+different destinations. When the vehicle returned to Canupp's terminal, it would
+sort packages in the load by destination. When a sufficient volume of cargo for a
+particular destination, or for destinations along the route where a stop off can be
+made, had accumulated, Canupp would load the cargo onto a truck. The load on a
+particular truck could involve several freight bills moving to several destinations
+under another GBL. The line-haul charges associated with different articles shipped
+to Canupp's terminal were billed under separate GBLs. The pickup-to-terminal
+GBLs involved many different TCN numbers, most with only one article per TCN,
+although some involved multiple articles per TCN. Articles under different TCNs
+usually had different ultimate destinations.
+
+In these circumstances, there is little significance to the identity of the vehicle that
+picked up the cargo, the date of pick up, or how many pieces of cargo were on one
+bill of lading at origin. The pieces of cargo that the shipper included under each
+TCN could be considered the only recognizable unit of cargo that might otherwise
+have been included as the "shipment" if the transportation had occurred in common
+carriage. In so doing, the customary meaning of "shipment" as all pieces of cargo
+tendered to a carrier by one shipper at one place at one time for delivery to one
+consignee at one place on one bill of lading, loses significance. A definition that
+ties "shipment" to the TCN could be deemed appropriate.
+
+In any event, before submitting any bills, Canupp sought guidance from, in MTMC's
+words, experienced and competent government traffic managers as to the proper
+method of billing under note 12. They informed Canupp that TCN billing was
+proper.
+
+
+
+Page 5                                                                          B-261127
+                                                                                  305215
+NAVMTO argues that its employees erroneously advised Canupp and that it is not
+bound by their unauthorized interpretation. An agency, however, is not entirely free
+to repudiate the statements of its representatives when they are entrusted by the
+agency to provide guidance to the contractor concerning the contract. The
+contractor is entitled to rely on their guidance. In Kraus v. United States, 366 F.2d
+975, 981 (Ct. Cl. 1966), a government inspector agreed with the contractor's
+interpretation of the technical specifications. As here, the government later
+contended that this interpretation was incorrect. The court found that where
+contract language is ambiguous and the plaintiff's interpretation is reasonable, even
+if the inspector did not have authority to bind the government with his
+interpretation, his actions "constituted highly persuasive evidence of the
+reasonableness of plaintiff's interpretation."
+
+As MTMC states, the facts here are even more compelling in favor of the
+contractor's position. Contrary to NAVTMO's contention, we believe it is bound to
+its employees' interpretation. Max Drill, Inc. v. United States, 427 F.2d 1233 (Ct. Cl.
+1970). We find for Canupp on note 12.
+
+ADDITIONAL CHARGES UNDER NOTE 14
+
+The carrier also claims certain charges billed under note 14, relating to terminal
+services it provided. NAVMTO and GSA contend that Canupp cannot bill under
+both note 12 and note 14 because note 14 duplicated the charges for services in
+note 12.
+
+It does not appear to us that separate additional services are provided for in
+note 14. Canupp interprets note 12 as the charges for pickup and delivery services
+in the Charleston area, and it interprets note 14 as the charges for the transloading
+of shipments, data capturing, rearrangement of articles for subsequent movement,
+and storage pending transportation. However, note 12 specifically states: "Charge
+includes handling, consolidation, and break bulk"; most of these services were
+performed at the carrier's terminal. While it may have been more appropriate to
+consolidate the content of notes 12 and 14, into one note, note 14 merely added
+detail about Canupp's duties in the Charleston area, particularly with respect to
+terminal services.
+
+Read together, the import of notes 12 and 14 was that, in exchange for the charge
+in note 12, the carrier had to do what was necessary to assure that articles picked
+up in the Charleston area would be segregated by destination at its terminal and
+then combined with articles from other shippers going to the same destination. The
+only activity that does not appear to be covered specifically by the terminology
+"handling, consolidation, and break bulk" is storage, but this service was necessarily
+implied by the nature of the carrier's duties under the contract. As NAVMTO states,
+the language in the last sentence of note 14, "the cost of this is provided in
+
+Page 6                                                                         B-261127
+                                                                                 305215
+Note 12," clearly suggests that note 12 and note 14 involved the same service at one
+charge.
+
+Accordingly, we deny Canupp's claim for additional amounts under note 14.
+
+
+
+/s/ Lowell Dodge
+for Robert P. Murphy
+General Counsel
+
+
+
+
+Page 7                                                                      B-261127
+                                                                              305215
+

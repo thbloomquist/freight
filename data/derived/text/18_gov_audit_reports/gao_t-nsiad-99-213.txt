@@ -1,0 +1,551 @@
+                          United States General Accounting Office
+
+GAO                       Testimony
+                          Before the Subcommittee on Government Management,
+                          Information and Technology, Committee on Government
+                          Reform, House of Representatives
+
+
+For Release on Delivery
+Expected at
+2 p.m., EST
+                          RECOVERY AUDITING
+Tuesday,
+June 29, 1999
+
+                          Reducing Overpayments,
+                          Achieving Accountability,
+                          and the Government Waste
+                          Corrections Act of 1999
+                          Statement of David M. Walker, Comptroller General of the
+                          United States
+
+
+
+
+GAO/T-NSIAD-99-213
+                      Mr. Chairman and Members of the Subcommittee:
+
+                      I appreciate the opportunity to discuss H.R. 1827 the Government Waste
+                      Corrections Act of 1999, and its relationship to the long-standing issues of
+                      government accountability for use of public monies and overpayments and
+                      the role of recovery auditing in identifying and recovering overpayments.
+                      To put these issues in perspective, in fiscal year 1998, federal executive
+                      departments and agencies contracted for about $173 billion in goods and
+                      services. The Department of Defense (DOD) spent about $115 billion, or
+                      about two-thirds of this amount. In addition to direct contracting, federal
+                      agencies indirectly pay out many more billions of dollars annually for
+                      health care, education, and agricultural programs.
+
+                      One of the most important issues facing the government today is the need
+                      for greater accountability in managing the finances of our national
+                      government. It is a significant problem at many agencies, and one that has
+                      been the subject of frequent reports by us and others. One key aspect of
+                      the problem is the difficulty the government has in assuring proper
+                      payment of all its bills while avoiding overpayments.
+
+                      My testimony, today, will discuss the dimensions of the overpayment
+                      problem, our past work on the DOD recovery auditing demonstration
+                      program, and the Government Waste Corrections Act of 1999. My
+                      comments on the bill reflect my belief that there are three principles that
+                      should guide a recovery auditing program. First, there should be
+                      meaningful incentives for agencies to want to participate in the program
+                      and make it work. Second, there should be adequate safeguards to ensure
+                      that the program is implemented in a manner intended by Congress and
+                      that preserves the integrity of the congressional appropriations process.
+                      Third, there should be transparency in the conduct of the program—that is,
+                      there should be evaluation and reporting of program implementation, in
+                      this case, to include how the recovered amounts are used. In the context of
+                      these three principles, I will suggest opportunities to strengthen H.R. 1827.
+
+
+
+Results in Brief      Significant financial management system weaknesses, problems with
+                      fundamental recordkeeping and financial reporting, incomplete
+                      documentation, and weak internal controls continue to prevent the
+                      government from effectively managing many of its operations. Significant
+                      among these problems is the inability of federal agencies to determine the
+                      full extent of improper payments that occur in major programs and that are
+
+
+
+
+              Leter   Page 1                                                     GAO/T-NSIAD-99-213
+        estimated to involve billions of dollars annually. Within the billions of
+        dollars of improper payments is an unknown amount of overpayments.
+
+        While neither the federal agencies nor we have a good estimate of the
+        extent of overpayments that occur each year, given the poor state of the
+        financial and accounting records, we expect that they are significant. We
+        know, for example, that between fiscal year 1994 and 1998, contractors
+        returned about $4.6 billion in overpayments to DOD.
+
+        At the direction of Congress, DOD is conducting a recovery auditing
+        demonstration program to identify overpayments for subsistence, medical,
+        and clothing items purchased in fiscal years 1993 through 1995. We
+        evaluated the demonstration program and concluded that the concept of
+        recovery auditing offers the potential to identify overpayments. However,
+        we found that implementation problems have limited the program’s
+        success. As of June 1999, the recovery auditing contractor had identified
+        about $29 million in overpayments made to suppliers on purchase volumes
+        of roughly $6 billion. Collections by DOD amount to $2.6 million. While
+        authorized to do so, DOD has been slow to expand the use of recovery
+        auditing beyond the initial demonstration program.
+
+        Although contractors are sometimes overpaid, under current law, they are
+        not required to inform the government of the overpayment or to return the
+        money prior to the government issuing a formal demand letter1 requesting
+        repayment. In effect, the overpayment provides an interest free loan to the
+        contractor. Contractors should be required to notify the government of
+        overpayments when they become aware of them and to return the money
+        promptly upon becoming aware of the overpayments. If they do not return
+        the money promptly, there should be some economic consequence.
+
+        Given the large volume and complexity of federal payments, federal
+        agencies need to concentrate on paying bills properly in the first place.
+        However, recognizing that some overpayments are inevitable, they also
+        need to adopt best practices to quickly identify and recover them. The
+        Government Waste Corrections Act of 1999 offers an opportunity to use
+        recovery auditing to identify overpayments and the factors contributing to
+        overpayments. We support the objectives of this important legislation.
+        Some commercial companies have used recovery auditing for many years
+        as one mechanism to identify and recover overpayments. The extent to
+
+
+        1
+         A demand letter is a formal notification to the contractor that it owes the government money.
+
+
+
+
+Leter   Page 2                                                                         GAO/T-NSIAD-99-213
+                 which recovery auditing is applicable to the full range of federal agency
+                 overpayments, however, remains an open question since its use in the
+                 federal government has been limited. Thus, we strongly support provisions
+                 of the bill that provide for model programs. In this way, the government
+                 can assess the applicability of recovery auditing to different types of
+                 payments and develop best practices for its use on a wider scale. In our
+                 view, with this use of model programs, plus strong monetary incentives, it
+                 would be unnecessary to mandate recovery auditing across the
+                 government.
+
+                 The Committee may also want to reexamine the provisions in the bill
+                 relating to reallocation or use of overpayment recoveries. While financial
+                 incentives are critical to the program’s success, incentives that are too
+                 large are unnecessary and may undermine the program by creating
+                 inappropriate incentives to making accurate and timely payments in the
+                 first place. The Committee may want to provide for a substantial portion of
+                 the recoveries to be returned to the Department of the Treasury.
+
+
+
+Poor Financial   Across the government, improper payments, including overpayments,
+                 occur in a variety of programs and activities, including those related to
+Controls Are a   contract management, federal financial assistance, and tax refunds.
+Governmentwide   Reported estimates of improper payments total billions of dollars annually.
+                 Such payments can result from incomplete or inaccurate data that are used
+Problem          to make payment decisions, insufficient monitoring and oversight, or other
+                 deficiencies in agency information systems and internal controls. The risk
+                 of improper payments is increased in programs involving (1) complex
+                 criteria for computing payments, (2) a significant volume of transactions,
+                 or (3) an emphasis on expediting payments. The reasons for improper
+                 payments range from inadvertent errors to fraud and abuse.
+
+                 The full extent of improper payments, however, is unknown because many
+                 agencies have not estimated the magnitude of improper payments in their
+                 programs, nor have they considered this issue in their annual performance
+                 plans. The use of appropriate performance measures relating to improper
+                 payments can provide a management focus on reducing related losses. For
+                 example, the Department of Health and Human Services has reported a
+                 national estimate of improper payments in its Medicare fee-for-service
+                 benefits since fiscal year 1996. For fiscal year 1998, the Department
+                 reported estimated improper payments of $12.6 billion, or more than
+                 7 percent, of Medicare fee-for-service benefits—down from about
+                 $20 billion, or 11 percent, reported for fiscal year 1997 and $23.2 billion, or
+
+
+
+                 Page 3                                                       GAO/T-NSIAD-99-213
+                    14 percent, for fiscal year 1996. An analysis of improper Medicare
+                    payments helped to implement several initiatives intended to reduce
+                    improper payments. These initiatives significantly reduced the incidence
+                    of improper Medicare payments.
+
+
+
+DOD Is a Case for   Because it spends more contracting for goods and services than all other
+                    agencies combined, it is particularly important that DOD have sound
+Recovery Auditing   controls to ensure that contract payments are proper, accurate, and timely.
+                    In recent years, our reports have identified hundreds of millions of dollars
+                    in improper DOD payments, interest expense on late payments, and other
+                    financial management problems. For example, in March 1994, we reported
+                    that during a 6-month period in fiscal year 1993, the Defense Finance and
+                    Accounting Service (DFAS) in Columbus, Ohio--a principal DOD contract
+                    paying activity--processed $751 million in payments returned by defense
+                    contractors.2 Our examination of about one-half of these checks disclosed
+                    that about 78 percent represented overpayments by the government. We
+                    also found that while some contractors returned overpayments, others did
+                    not. In one case, an overpayment of $7.5 million was outstanding for
+                    8 years. We estimated that the government lost interest on the
+                    overpayment amounting to nearly $5 million.
+
+                    DOD continues to make substantial erroneous payments to its contractors.
+                    For example, in the 5 years between fiscal year 1994 and 1998, defense
+                    contractors returned about $4.6 billion to DFAS Columbus—in fiscal year
+                    1998, they returned $746 million. However, some contractors were still
+                    retaining overpayments. For example, 4 of the 13 contractors we visited
+                    during a recent review were retaining overpayments totaling about
+                    $1.1 million. At each location, contractor personnel told us that they had a
+                    practice of retaining overpayments until the government issued a demand
+                    letter requesting the overpayments be returned. Under current law, there is
+                    no requirement for contractors who have been overpaid to notify the
+                    government of overpayments or to return overpayments prior to the
+                    government issuing a demand letter for a refund. The magnitude of
+                    overpayments defense contractors are retaining is not known.
+
+
+
+
+                    2
+                    DOD Procurement: Millions in Overpayments Returned by DOD Contractors (GAO/NSIAD-94-106,
+                    Mar. 14, 1994).
+
+
+
+
+                    Page 4                                                                GAO/T-NSIAD-99-213
+DOD Is Taking Actions to          DOD is taking steps to address its payment problems. Its initiatives include
+Address Payment Problems          testing and adopting some best practices. In the long term, it is developing
+                                  procurement and payment systems that will be linked by sharing common
+                                  data. This linkage is expected to allow one-time entry of contract data
+                                  critical to making correct payments. In the meantime, DOD is enhancing
+                                  its current technologies to further automate the payment process, testing
+                                  streamlined payment practices, and making efforts to reduce the number of
+                                  contract fund citations. But, as we state in our recent high-risk report,3 it is
+                                  likely to be many years before DOD gets its payment problems under
+                                  control.
+
+Additional Steps Could Be Taken   Recognizing DOD’s actions and the fact that DOD continues to overpay its
+                                  contractors, one question is: are there additional steps that might be taken
+                                  to improve the process for both identifying and collecting overpayments?
+                                  The answer is yes.
+
+                                  First, we believe defense contractors, and for that matter, all contractors
+                                  should be required to promptly notify the government of overpayments
+                                  when they become aware of them. If they do not return the money
+                                  promptly, there should be some economic consequence. This seems simple
+                                  enough, but currently a contractor is not required to tell the government
+                                  that it has been overpaid, nor is it required to return an overpayment until
+                                  the government becomes aware of the overpayment and issues a demand
+                                  letter for repayment. Many contractors do promptly return overpayments;
+                                  however, some do not. While we know the amount of overpayments that
+                                  contractors have returned to the government, we do not know how much
+                                  they are still keeping. Thus, as pointed out earlier, the true magnitude of
+                                  the overpayment problem is not known. In this regard, we will shortly
+                                  begin a review to assess the extent to which defense contractors are
+                                  retaining and not promptly returning overpayments to the government.
+
+                                  Second, we believe that all federal agencies should take advantage of best
+                                  practices that commercial companies use to identify and recover
+                                  overpayments. One such practice is the use of recovery auditing
+                                  procedures. Clearly, the government’s focus should be on paying its bills
+                                  properly in the first place. However, for both private industry and
+                                  government agencies, some payments are processed incorrectly for a
+                                  variety of reasons. For instance, vendors make pricing errors on their
+
+
+                                  3
+                                   Major Management Challenges and Program Risks, Department of Defense (GAO/OCG-99-4, Jan. 1999).
+
+
+
+
+                                  Page 5                                                                   GAO/T-NSIAD-99-213
+                       invoices, forget to include discounts that have been publicized to the
+                       general public, neglect to offer allowances and rebates, or miscalculate
+                       freight charges. Government payment activities may also neglect to take
+                       discounts to which they are entitled. These mistakes, when not caught,
+                       result in overpayments. Identifying and recovering these types of
+                       overpayments is referred to as recovery auditing.
+
+
+
+Recovery Auditing      Recovery auditing started about 30 years ago, and it is used in several
+                       industries, including the automobile, retail store, and food service
+Offers Potential to    industries. Within DOD, the Army and the Air Force Exchange Service and
+Identify and Recover   the Navy Exchange Service use recovery auditing. An external audit
+                       recovery group may be the only group used by an organization or it may be
+Overpayments           used in combination with an internal group that examines invoices for
+                       overpayments prior to an external group’s review.
+
+                       Recognizing its potential value to the government, the Fiscal Year 1996
+                       National Defense Authorization Act required the Secretary of Defense to
+                       conduct a demonstration program to evaluate the feasibility of using
+                       recovery auditing to identify overpayments made to vendors by DOD.
+                       Authority to expand the program was provided in the Fiscal Year 1998
+                       National Defense Authorization Act.
+
+                       The DOD demonstration program began in September 1996, when the
+                       Defense Supply Center, Philadelphia (DSCP), competitively contracted
+                       with Profit Recovery Group International (PRGI). The contract covers
+                       purchases made during fiscal years 1993-95 and requires PRGI to identify
+                       and document overpayments and to make recommendations to reduce
+                       future overpayments. PRGI receives a fee of 20 percent of net collected
+                       funds. The focus of the demonstration program is in purchases of
+                       subsistence, medical and clothing items, items that are typically found in
+                       retail merchandising.
+
+                       We reviewed the program and concluded that recovery auditing offers
+                       potential to identify overpayments, but implementation problems hindered
+                       DOD from fully realizing the benefits of the program.4 As of August 1998,
+                       PRGI had identified $19.1 million in overpayments. However, recoveries of
+                       overpayments amounted to only $1.9 million, in large part, because vendors
+
+
+                       4
+                         Contract Management: Recovery Auditing Offers Potential to Identify Overpayments
+                       (GAO/NSIAD-99-12, Dec. 3, 1998).
+
+
+
+
+                       Page 6                                                                      GAO/T-NSIAD-99-213
+                     took issue with some of the overpayments. This caused the recovery
+                     process to virtually stop for 8 months while the DSCP reviewed the merits
+                     of the vendors’ issues. DSCP concluded that the claims of overpayment
+                     were valid. However, according to the contracting officer, his letter of final
+                     decision regarding vendors’ indebtedness has not been issued. PRGI
+                     continues to identify overpayments. As of June 1999, according to PRGI, it
+                     had completed 90 percent of its work and identified $29.3 million in
+                     overpayments made to suppliers on purchases of roughly $6 billion.
+                     Collections by DOD as of June 1999 amounted to $2.6 million. According to
+                     PRGI, its overpayment identification rate under the demonstration
+                     program is 0.48 percent of purchases reviewed, which is consistent with its
+                     experience with new private sector clients before corrective measures are
+                     implemented. PRGI told us that, as corrective measures are implemented,
+                     the overpayment rate typically drops to about 0.1 percent of purchases
+                     reviewed.
+
+                     PRGI has also made recommendations to DFAS and DSCP to reduce future
+                     overpayments, but, at the time of our review, DOD had not implemented
+                     them.
+
+                     These recommendations ranged from reprogramming payment systems to
+                     providing contracting personnel additional training to help them determine
+                     price reasonableness.
+
+
+DOD Is Slow to Use   DOD has been slow to embrace recovery auditing. For example, in House
+Recovery Auditing    Report 105-532, which related to a bill providing for fiscal year 1999 DOD
+                     authorizations, DOD was directed to use recovery auditing by selecting at
+Techniques
+                     least two commercial functions within its working capital fund and issuing
+                     a competitive request for proposal by December 31, 1998. We found,
+                     however, that DOD had not done either.5 While DOD issued an August 1998
+                     memorandum encouraging the use of recovery auditing, and some
+                     activities have expressed an interest, no contracts had been awarded at the
+                     time we completed our work in March 1999. In June 1999, we checked with
+                     the recipients of the August 1998 memorandum and, with the exception of
+                     the U.S. Transportation Command, which had just entered into a contract
+                     for recovery auditing services, no other contracts had been awarded. The
+                     Defense Commissary Agency said it has completed a statement of work,
+
+
+                     5
+                      Contract Management: DOD Is Examining Opportunities to Further Use Recovery Auditing
+                     (GAO/NSIAD-99-78, Mar. 17, 1999).
+
+
+
+
+                     Page 7                                                                   GAO/T-NSIAD-99-213
+                          and plans to have a contract by July 30, 1999. The Defense Logistics
+                          Agency told us it issued a solicitation on May 28, 1999, to expand the use of
+                          recovery auditing from the demonstration program in place at DSCP to its
+                          other four supply centers. The Defense Logistics Agency said it plans to
+                          have a contract by August 31, 1999. Each of the services and the Defense
+                          Information Services Agency also expressed an interest in recovery
+                          auditing, and they are evaluating whether to use it.
+
+
+Issues Related to Using   While we believe that recovery auditing could be beneficial to DOD and
+Recovery Auditing         other federal agencies, there are some important implementation issues
+                          that need to be considered as federal agencies evaluate using recovery
+                          auditing to identify and recover overpayments. First, it is not clear how
+                          agencies should organize to perform recovery auditing. Should it be
+                          contracted out? Should it be performed with in-house personnel? Should
+                          some combination of the two be used? We believe that agencies need to
+                          carefully consider the extent to which recovery auditing is applicable to
+                          their operations and, if applicable, if it would be cost-effective to undertake
+                          moderate internal recovery auditing efforts to “pick the low hanging fruit”
+                          before turning audit recovery efforts over to an external group.
+
+                          Second, it is important that there be (1) periodic reporting by those
+                          performing recovery auditing on the factors causing overpayments and on
+                          recommendations to reduce overpayments and (2) a process to evaluate
+                          these recommendations and implement those that make sense. One of the
+                          criticisms we made of the demonstration program was that DOD did not
+                          implement the contractor’s recommendations to reduce overpayments.
+
+                          Finally, it is important to recognize that the DOD demonstration program
+                          has been focusing primarily on identifying overpayments related to
+                          subsistence, medical, and clothing purchases. While representing an audit
+                          base of about $7.2 billion, it is only a small part of the dollars spent on
+                          contracts by DOD each year. Most DOD expenditures are for purchases of
+                          major weapon systems. The applicability of recovery auditing to these
+                          types of contract payments is, at this time, unclear.
+
+
+
+The Government Waste      The Government Waste Corrections Act of 1999 (H.R. 1827) would require
+                          the use of recovery auditing by federal agencies and provide incentives to
+Corrections Act of 1999   improve federal management practices with the goal of reducing
+                          overpayments.
+
+
+
+
+                          Page 8                                                      GAO/T-NSIAD-99-213
+                             We believe the act is a positive step in the government’s effort to reduce
+                             overpayments and to obtain timely identification and recovery of
+                             overpayments. The act addresses recommendations we made in our recent
+                             report on DOD’s demonstration program. One recommendation was to
+                             give the head of an executive agency the option to perform recovery
+                             auditing with internal staff, by contract or through a combination of both
+                             internal staff and contract.
+
+                             We are also pleased to see that the bill requires a contractor to provide
+                             periodic reports with recommendations on how to mitigate overpayment
+                             problems and that as a part of the agency’s management improvement
+                             program, the agency is to give first priority to addressing problems that
+                             contribute to overpayments.
+
+                             Finally, the proposed act allows applicable appropriations to be reimbursed
+                             for costs incurred by government activities in supporting recovery audit
+                             efforts and provides other incentives to support the use of recovery
+                             auditing. These features should help eliminate some of the implementation
+                             problems we saw in the demonstration program.
+
+
+Suggestions to Improve the   While we are positive toward the concept of recovery auditing and its
+Bill                         potential for application in the federal government, the government’s
+                             experience with the use of recovery auditing has been limited. Thus, we
+                             think it is a good idea to mandate further model programs in civilian and
+                             defense agencies to determine the applicability of recovery auditing and to
+                             develop best practices for their use governmentwide. In conducting the
+                             mandated model programs—at least five are currently provided for in the
+                             bill—there should be sufficient diversity in where recovery auditing is
+                             modeled to adequately test the concept among the different types of
+                             payment activities. Beyond the mandated model programs, we believe that
+                             the use of recovery auditing should, at least for the time being, be available,
+                             but not mandated, for other federal agencies. Currently, the bill provides
+                             for mandatory use of recovery auditing by federal agencies, in addition to
+                             the model programs.
+
+                             The Committee may also want to reexamine the provisions in the bill
+                             relating to reallocation or use of overpayment recoveries. While financial
+                             incentives are critical to the program’s success, incentives that are too
+                             great are unnecessary and may undermine the program by creating
+                             inappropriate incentives to making accurate and timely payments in the
+                             first place. The Committee may want to provide for a substantial portion of
+
+
+
+                             Page 9                                                       GAO/T-NSIAD-99-213
+                      the recoveries to be returned to the Treasury. We will be happy to discuss
+                      further technical comments with the Committee staff.
+
+
+
+Conclusions           In closing, Mr. Chairman, federal agency managers have a fiduciary
+                      responsibility relating to, and are accountable for, the proper use of federal
+                      funds. Our work has shown that, in certain cases, these responsibilities are
+                      not being exercised adequately and the result is billions of dollars a year in
+                      improper payments, a portion of which represent overpayments that may
+                      never be recovered. Federal agencies need to achieve more effective
+                      control over their payment processes. The causes of the payment
+                      problems are varied and many are long-standing. The solutions can be
+                      found in the effective use of technology, the establishment of sound
+                      internal control and payment processes, and the wise use of human capital.
+                      If federal agencies do not effectively tackle these challenges, they will
+                      continue to risk erroneously paying contractors and perpetuating other
+                      financial management problems. Effectively addressing them, however,
+                      will require investment and sustained commitment by top-level
+                      management.
+
+                      Recovery auditing, which has a long-standing track record in the private
+                      sector, offers a low-risk opportunity to identifying and recovering
+                      overpayments. We strongly support provisions of H.R. 1827 that provide
+                      for model recovery auditing programs. In this way, the government can
+                      assess the applicability of recovery auditing to different types of payments
+                      and develop best practices for its use on a wider scale. In our view, with
+                      the use of model programs, plus strong monetary incentives, it would be
+                      unnecessary to mandate recovery auditing across the government. There
+                      may also be opportunities to employ novel servicing arrangements, such as
+                      creating a “center of excellence” in a federal agency to provide leadership
+                      to other agencies in implementing recovery auditing.
+
+                      The keys to the successful execution of governmentwide recovery auditing
+                      programs are (1) meaningful incentives for agencies to want to participate
+                      in the program and make it work, (2) adequate safeguards to ensure
+                      achieving congressional intent and the proper use of appropriations, and
+                      (3) transparency in the conduct of the program.
+
+                      Mr. Chairman, this concludes my statement. For the record, major
+                      contributors to this testimony were David E. Cooper, Daniel J. Hauser, and
+                      Charles W. Thompson. I will be glad to answer any questions you or the
+                      other Members of the Subcommittee may have at this time.
+
+
+
+(707433 )     Leter   Page 10                                                     GAO/T-NSIAD-99-213
+Ordering Information
+
+The first copy of each GAO report and testimony is free.
+Additional copies are $2 each. Orders should be sent to the
+following address, accompanied by a check or money order made
+out to the Superintendent of Documents, when necessary, VISA and
+MasterCard credit cards are accepted, also.
+
+Orders for 100 or more copies to be mailed to a single address are
+discounted 25 percent.
+
+Orders by mail:
+
+U.S. General Accounting Office
+P.O. Box 37050
+Washington, DC 20013
+
+or visit:
+
+Room 1100
+700 4th St. NW (corner of 4th and G Sts. NW)
+U.S. General Accounting Office
+Washington, DC
+
+Orders may also be placed by calling (202) 512-6000
+or by using fax number (202) 512-6061, or TDD (202) 512-2537.
+
+Each day, GAO issues a list of newly available reports and
+testimony. To receive facsimile copies of the daily list or any list
+from the past 30 days, please call (202) 512-6000 using a touchtone
+phone. A recorded menu will provide information on how to obtain
+these lists.
+
+For information on how to access GAO reports on the INTERNET,
+send an e-mail message with “info” in the body to:
+
+info@www.gao.gov
+
+or visit GAO’s World Wide Web Home Page at:
+
+http://www.gao.gov
+United States                       Bulk Mail
+General Accounting Office      Postage & Fees Paid
+Washington, D.C. 20548-0001           GAO
+                                 Permit No. GI00
+Official Business
+Penalty for Private Use $300
+
+Address Correction Requested
+

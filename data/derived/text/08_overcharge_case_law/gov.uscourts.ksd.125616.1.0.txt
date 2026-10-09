@@ -1,0 +1,978 @@
+    Case 2:19-cv-02129-KHV-KGG             Document 1        Filed 03/08/19     Page 1 of 18
+
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT
+                        FOR THE DISTRICT OF KANSAS
+                           KANSAS CITY DIVISION
+
+
+SOUTHERN FURNITURE LEASING, INC.
+
+               Plaintiff,
+       v.                                                  Case No.: ______________________
+
+YRC, INC.; ROADWAY EXPRESS, INC.;                          CLASS ACTION
+and YELLOW TRANSPORTATION, INC.,
+
+               Defendants.
+
+
+
+                                CLASS ACTION COMPLAINT
+
+       Plaintiff Southern Furniture Leasing, Inc. individually and on behalf of all persons or
+
+entities nationwide who are similarly situated, upon personal knowledge as to facts pertaining to
+
+it individually and upon information and belief as to all other matters, based on the investigation
+
+of its counsel, against the Defendants YRC Worldwide, Inc., YRC, Inc., Roadway Express, Inc.,
+
+and Yellow Transportation, Inc. (collectively “YRC”), states as follows:
+
+                               I.      NATURE OF THE CASE
+
+       1.      Plaintiff brings this action to challenge YRC’s widespread and systematic practice
+
+of overcharging its customers by intentionally using inflated shipment weights when determining
+
+shipment prices.
+
+       2.      Plaintiff Southern Furniture Leasing, Inc. is a small business in Tallahassee,
+
+Florida that rents furniture to various individuals and businesses. As part of its operations, it is
+
+necessary for Plaintiff to ship furniture. Defendant YRC Freight, Inc. (formerly operating as
+
+Roadway Express, Inc. and Yellow Transportation, Inc.) is one of the largest less-than-truckload
+
+
+                                                 1
+    Case 2:19-cv-02129-KHV-KGG            Document 1       Filed 03/08/19       Page 2 of 18
+
+
+
+
+“(LTL”) freight carriers in the United States, operating from over 380 locations across the
+
+country. From its Kansas corporate headquarters, in 2018 alone, YRC made over ten million
+
+shipments from which it recognized more than five billion dollars in revenue.
+
+       3.      Like thousands of other small businesses across the country, Plaintiff contracted
+
+with YRC to ship goods pursuant to a standard, pre-printed bill of lading. The bill of lading is a
+
+form agreement that YRC drafted and which is a necessary precursor to shipping with YRC. It
+
+requires a customer to provide certain information, including the type, size, and, importantly,
+
+weight of the shipment. It is the weight that primarily drives the cost YRC will charge each
+
+customer for a given shipment. Notably, the form bill of lading provides that the weight will be
+
+subject to correction and that freight charges ultimately will be paid based upon the actual goods
+
+shipped. And, as is standard practice in the industry, for years YRC—when it would reweigh
+
+shipments at a terminal or warehouse—would adjust the weight both positively and negatively
+
+(that is increase and decrease the weight) to accurately reflect the actual weight of a given
+
+shipment and charge accordingly. Positive reweights would result in an increased charge to the
+
+customer (and profit to YRC) and negative reweights would result in a decreased charge to the
+
+customer (and profit to YRC).
+
+       4.      However, in 2005, YRC began an unlawful practice whereby it systematically and
+
+deliberately eliminated any negative reweights from registering in their customer information
+
+billing system. That is, at the highest levels, YRC stopped negative reweighs from decreasing
+
+prices charged to customers while still ensuring that positive reweights would increase prices
+
+charged to customers. It did so for the express purpose of gaining more than $6 million in
+
+revenue each year at its customers’ expense. It withheld this information from customers, not
+
+disclosing that it was often charging based upon shipment weights that it knew were excessive.
+
+
+
+
+                                                2
+    Case 2:19-cv-02129-KHV-KGG             Document 1        Filed 03/08/19      Page 3 of 18
+
+
+
+
+       5.      YRC got caught. After ten years of investigation, the United States Department
+
+of Justice filed a qui tam complaint against YRC, based on documents and evidence uncovered
+
+during that investigation with the aid of a whistleblower who had worked for YRC for more than
+
+30 years. The qui tam complaint seeks the damages the United States Government incurred
+
+through YRC’s unlawful practices. This litigation seeks the damages YRC’s thousands of
+
+customers have incurred from these same practices.
+
+       6.      YRC’s reweigh practices are a breach of the form contract, a violation of the duty
+
+of good faith and fair dealing that underpins that contract, a violation of the Florida Deceptive
+
+and Unfair Trade Practices Act, and have resulted in YRC being unjustly enriched at the direct
+
+expense of its customers.
+
+       7.      Further, this case presents a prototypical situation for class treatment. YRC’s
+
+conduct—including all relevant practices, misrepresentations, and omissions—is uniform among
+
+all customers. Plaintiff and all class members entered into effectively identical form agreements
+
+with YRC. The application of a common course of conduct to this contract under substantially
+
+similar situations will determine liability for the classes as a whole, ensuring that the rights of
+
+thousands of small businesses are vindicated through the efficiency of a single trial.
+
+                                II. JURISDICTION AND VENUE
+
+       8.      This Court has subject matter jurisdiction over this action pursuant to 28 U.S.C. §
+
+1332 because the amount in controversy exceeds $5,000,000,1 the proposed classes consists of
+
+more than 100 members, and minimal diversity exists.
+
+       9.      This Court has personal jurisdiction of YRC because YRC has its corporate
+
+
+1
+ Given the amount of revenue YRC internally estimated it would gain from its unlawful reweigh
+practices, the composition of YRC’s business, and the amount of time YRC’s practices span,
+Plaintiff, upon information and belief, conservatively estimates that there is more than
+$45,000,000 at issue in this litigation.
+
+                                                 3
+    Case 2:19-cv-02129-KHV-KGG              Document 1        Filed 03/08/19      Page 4 of 18
+
+
+
+
+headquarters in Overland Park, Kansas, is authorized to do business and in fact does business in
+
+this district, the specific conduct at issue in this case originated in and emanated from this
+
+district, and YRC could reasonably anticipate litigation in this district under traditional notions of
+
+fair play and substantial justice.
+
+         10.    Venue is proper in this Court under 28 U.S.C. § 1391. YRC’s corporate
+
+headquarters is in Overland Park, Kansas, located in the Kansas City-Leavenworth Division of
+
+the District of Kansas. The conduct giving rise to Plaintiff’s claims and to the claims of each
+
+putative class member in the proposed class originated in and emanated from YRC’s corporate
+
+headquarters.
+
+                                         III.    PARTIES
+
+         11.    Plaintiff Southern Furniture Leasing, Inc. is a Florida Corporation with its
+
+principal place of business in Tallahassee, Florida. Plaintiff’s experience with YRC is typical of
+
+the classes in all relevant aspects. Plaintiff entered into the form contract with YRC and shipped
+
+goods where the value was based in part upon weight on multiple occasions.
+
+         12.    Defendant YRC, Inc. is also a Delaware entity with its principal place of business
+
+in Overland Park, Kansas. YRC, Inc. does business as YRC Freight and is the successor to
+
+Roadway Express, Inc., and Yellow Transportation, Inc. In 2003, Yellow Transportation, Inc.
+
+purchased Roadway Express, Inc. In 2009, Yellow Transportation, Inc. and Roadway Express,
+
+Inc. combined corporate structures to officially operate as a single entity. At all times relevant to
+
+this Complaint, Yellow Transportation, Inc. and Roadway Express, Inc., and subsequently YRC
+
+Freight, Inc., operated in coordination and together with regard to the reweighing practices at
+
+issue.
+
+                            IV.      CLASS ACTION ALLEGATIONS
+
+         13.    Plaintiff brings this action pursuant to Rule 23(a) and (b)(3), and proposes the
+
+
+                                                  4
+    Case 2:19-cv-02129-KHV-KGG              Document 1        Filed 03/08/19      Page 5 of 18
+
+
+
+
+following class:
+
+               All persons or entities who reside in the United States who, from
+
+               September 1, 2005 through the date of class certification, entered into a
+
+               standard contract with YRC Freight, Inc. (or its predecessors, Roadway
+
+               Express, Inc. and Yellow Transportation, Inc.) and whose charges were
+
+               not credited for a negative reweigh.
+
+       14.     Plaintiff also proposes the following Florida subclass:
+
+               All persons or entities who reside in Florida who, from September 1, 2005
+
+               through the date of class certification, entered into a standard contract with
+
+               YRC Freight, Inc. (or its predecessors, Roadway Express, Inc. and Yellow
+
+               Transportation, Inc.) and whose charges were not credited for a negative
+
+               reweigh.
+
+       15.     Excluded from the proposed classes are members of the judiciary, entities
+
+currently in bankruptcy, entities whose obligations have been discharged in bankruptcy, and all
+
+governmental entities.
+
+       16.     Plaintiff maintains the right to create additional subclasses or classes, if necessary,
+
+and to revise these definitions to maintain cohesive classes which do not require individual
+
+inquiry to determine liability.
+
+       A.      Existence and Predominance of Common Questions of Law and Fact.
+
+       17.     YRC engaged in a common course of conduct which gives rise to common
+
+questions of law and fact which predominate in this litigation.           This common course of
+
+conduct—deliberately failing to credit negative reweighs to customers—affected class members
+
+in the exact same manner. The amount of damages may differ among class members, but the
+
+
+
+
+                                                 5
+    Case 2:19-cv-02129-KHV-KGG           Document 1        Filed 03/08/19    Page 6 of 18
+
+
+
+
+fact and type of damages is uniform among all class members and flows directly from YRC’s
+
+common conduct.       A single, uniform, pre-printed contract will govern all class members’
+
+contractual claims.
+
+       18.     This shared nucleus of facts and law gives rise to numerous questions of law and
+
+fact which overwhelm any individual issues which might exist. Such common questions include,
+
+but are not limited to, the following:
+
+        a.     Whether YRC used standard form bills of lading with customers;
+
+        b.     Whether YRC enacted a practice whereby it did not credit negative reweights to
+
+               customers;
+
+        c.     Whether YRC’s standard contract required it to credit negative reweights to
+
+               customers;
+
+        d.     Whether YRC implemented its negative reweigh policies through an automated
+
+               system;
+
+        e.     Whether YRC’s negative reweigh practices were not in good faith;
+
+        f.     Whether YRC engaged in deceptive or unfair conduct through its negative
+
+               reweigh practices and its misrepresentations and omissions regarding these
+
+               practices;
+
+        g.     Whether YRC’s negative reweigh practices constitutes a violation of the Florida
+
+               Unfair and Deceptive Trade Practices Act.
+
+        h.     Whether YRC’s representations and omissions are deceptive.
+
+        i.     Whether YRC’s representations and omissions are unfair.
+
+        j.     Whether YRC’s conduct in creating, implementing, and refusing to credit
+
+               negative reweighs constitutes a violation of the Florida Unfair and Deceptive
+
+
+
+
+                                               6
+    Case 2:19-cv-02129-KHV-KGG              Document 1        Filed 03/08/19   Page 7 of 18
+
+
+
+
+               Trade Practices Act.
+
+       B.      Numerosity.
+
+       19.     The total number of members of each putative class is so numerous that
+
+individual joinder is impracticable.     YRC did not credit negative reweighs accounting for
+
+millions of dollars for a period of at least five years. The putative class and subclass each
+
+contain thousands of customers.
+
+       C.      Typicality.
+
+       20.     The claims of the named Plaintiff are typical of the claims of the classes.
+
+Plaintiff, like other class members, entered into the form bill of lading, shipped goods with
+
+Defendants. Plaintiff was subject to the exact same common policies and practices which
+
+effected all class members.
+
+       D.      Adequacy.
+
+       21.       Plaintiff will fairly and adequately protect the interests of the members of the
+
+class and has no interest antagonistic to those of other class members. Plaintiff shares the same
+
+interests and was harmed by the same conduct as each other class member. Resolution of this
+
+case will inherently vindicate and redress the interests of Plaintiff equally with class members.
+
+Plaintiff has retained class counsel competent and experienced in prosecuting class actions and
+
+such class counsel is financially able to represent the classes.
+
+       E.      Superiority and Manageability.
+
+       22.     The class action is superior to other available methods for the fair and efficient
+
+adjudication of this controversy. Individual joinder of all members of the class is impracticable.
+
+While the total amount at issue in this litigation is very large, individual damages for a given
+
+plaintiff are comparatively small and class members have little incentive to pursue individual
+
+
+
+
+                                                  7
+    Case 2:19-cv-02129-KHV-KGG              Document 1       Filed 03/08/19      Page 8 of 18
+
+
+
+
+claims. The interests of judicial economy favor adjudicating the claims for the Plaintiff classes
+
+in a single forum rather than on an individual basis, thus also ensuring consistent adjudications
+
+and a uniformity of decision. The proposed class definitions are objective and class membership
+
+is easily determined using customer information and financial records maintained by YRC in
+
+electronic form. Calculation of damages can be accomplished using systematic means and
+
+objective criteria. The class action mechanism is administratively feasible and provides the
+
+benefit of unitary adjudication, economies of scale and comprehensive supervision by a single
+
+court.
+
+                              V.      FACTUAL ALLEGATIONS
+
+         23.   YRC Freight, Inc. is the product of the acquisition of Yellow Transportation, Inc.
+
+by Roadway Express, Inc. in 2003, resulting in a single organization which, at the time,
+
+controlled over 60% of the LTL market.           For years, the companies technically operated
+
+separately before combining into a single corporate form in 2009. However, they acted in
+
+concert and collectively to implement the negative reweigh practices at issue hint his Complaint.
+
+         24.   Less than truckload carriers (“LTL” carriers) consolidate shipments that do not
+
+themselves constitute a full trailer to transport and deliver, generally for manufacturing and retail
+
+businesses. YRC, like most LTL carriers, operates through a hub and spoke system. Generally,
+
+shipments are picked up from customers, transferred to terminals or warehouses, where YRC
+
+consolidates for shipment to another terminal before ultimately making delivery.
+
+         25.   The driving factor of the cost for a given shipment through essentially any LTL
+
+carrier, including YRC, is weight. Customers themselves provide the specifics regarding their
+
+shipment, including size, number of packages, and, crucially, weight. But LTL carriers often
+
+reweigh shipments at their terminal or warehouse before it is delivered to its final destination in
+
+
+
+
+                                                 8
+    Case 2:19-cv-02129-KHV-KGG              Document 1        Filed 03/08/19      Page 9 of 18
+
+
+
+
+order to ensure that the weight is correct and, thus, that the price charged for that shipment is
+
+correct. This process inherently involves making changes to increase the weight (called “positive
+
+reweighs,” when the initial entered weight is too low) and to decrease the weight (called
+
+“negative reweighs,” when the initial entered weight is too high). For years, prior to the
+
+consolidation of Yellow Transportation, Inc. and Roadway Express, Inc., YRC would credit both
+
+positive and negative reweighs to customers, as is the industry standard.
+
+       26.     However, in 2005, YRC began a process by which it systematically and
+
+deliberately failed to credit negative reweighs to customers, resulting in millions of dollars
+
+unlawfully charged to customers. This practice constitutes a breach of contract, a violation of
+
+the duty of good faith and fair dealing, a violation of the Florida Deceptive and Unfair Trade
+
+Practices Act, and has resulted in YRC being unjustly enriched at the direct expense of putative
+
+class members.
+
+       A.      The Uniform YRC Contract.
+
+       27.     To ship with YRC, YRC requires customers to fill out and bill of lading which
+
+constitutes the agreement between the parties. This contract is standard in all relevant ways and
+
+every putative class member entered into an effectively identical contact.
+
+       28.     The form contract is a two-page agreement where all relevant terms are pre-
+
+printed by YRC. The first page of the form agreement contains blanks where the customer name
+
+and contact information is entered and a signature is made. The first page of the form contract
+
+also contains a table where the specifics of the shipment are entered, including weight.
+
+       29.     The form contract specifically contemplates that the actual weight of the shipment
+
+will be taken into account. For example, it provides that the weight entered is “[s]ubject to
+
+correction,” and that “[i]f the description of articles or other information on this bill of lading is
+
+
+
+
+                                                  9
+   Case 2:19-cv-02129-KHV-KGG             Document 1      Filed 03/08/19     Page 10 of 18
+
+
+
+
+found to be incorrect or incomplete, the freight charges must be paid based upon the articles
+
+actually shipped.”
+
+       30.     And, in fact, it is an industry standard long accepted and understood between
+
+customers and LTL carriers, that the actual weight of a given shipment will be used to determine
+
+the appropriate charges in the event the carrier reweighs the shipment. YRC wrote the form bill
+
+of lading, which operates as a contract of adhesion, and under this form contract in accordance
+
+with industry standards, YRC may reweigh shipments and charge for actual shipment weights
+
+when it does so.
+
+       B.      YRC’s Unlawful, Deceptive and Unfair Negative Reweigh Practice.
+
+       31.     Despite the express limitations on the circumstances and amounts whereby YRC
+
+could increase prices, YRC carried out a systematic and deliberate practice of repeatedly
+
+increasing prices without contractual authorization.
+
+       32.         At all times relevant to this Complaint, YRC’s practice was to sometimes
+
+reweigh shipments to determine if the weight on the bill of lading is correct. Prior to September
+
+2005, YRC would correct all bills of lading where the reweigh revealed a different weight than
+
+that listed on the bill of lading. In other words, where a reweigh revealed that the package
+
+weighed less than the weight listed on the bill of lading (a “negative” reweigh), YRC would
+
+decrease the shipment weight to the correct, lighter weight. If a reweigh reveled that a package
+
+weighed more than the weight listed on the bill of lading (a “positive” reweigh), YRC would
+
+similarly increase the shipment weight.
+
+       33.     Because the relevant bills of lading state that customers pay based on weight, a
+
+decrease in the shipment weight results in a decrease in the amount the customer owes under the
+
+contract while an increase in shipment weight results in an increase in the amount the customer
+
+
+
+
+                                                10
+   Case 2:19-cv-02129-KHV-KGG              Document 1        Filed 03/08/19   Page 11 of 18
+
+
+
+
+owes.
+
+        34.    Beginning in September 2005, YRC changed its practices and stopped making
+
+any “negative” weight corrections. In other words, while YRC continued to reweigh shipments
+
+and continued to increase the shipment weight where the reweigh revealed the shipment to be
+
+heavier than the weight listed on the bill of lading, YRC instituted a company-wide practice of
+
+eliminating all corrections to the shipment weight where the reweigh revealed that the shipment
+
+weight was lighter than the weight listed on the bill of lading.
+
+        35.    YRC changed its reweigh practice for the sole purpose of increasing profits at its
+
+customer’s expense. The result of this new deceptive practice is that YRC deceptively
+
+overcharges customers where a reweigh reveals a lower shipment weight. Upon information and
+
+belief, through this unfair, unlawful and deceptive practice, YRC overcharged customers
+
+between $1 million and $1.5 million a month.
+
+        36.    At no time did YRC reveal this fraudulent practice to its customers. YRC did not
+
+inform its customers that it was no longer making negative weight adjustments. YRC did not
+
+inform its customers that it was unlawfully overcharging them for shipments where the reweigh
+
+revealed a lighter shipment weight. YRC did not inform its customers that it was nonetheless
+
+continuing to make positive weight adjustments.
+
+        C.     The Qui Tam Complaint.
+
+        37.     Whistleblower James Hannum worked for Roadway and YRC for more than 30
+
+years. During his employment with YRC, Mr. Hannum discovered that YRC, since September
+
+2005, was deliberately preventing its automated computer system from invoicing customers,
+
+including the Department of Defense, based upon the actual weight of shipments when that
+
+weight would decrease the amount charged.
+
+
+
+
+                                                 11
+   Case 2:19-cv-02129-KHV-KGG               Document 1         Filed 03/08/19   Page 12 of 18
+
+
+
+
+        38.     In 2008, Mr. Hannum filed his sealed qui tam complaint and provided it to the
+
+United States Attorney’s office for the Western District of New York, where he resides and
+
+works. The United States Department of Justice then undertook an in-depth investigation that
+
+spanned ten years and through which it gained access to evidence from YRC, including internal
+
+YRC documents and communications.
+
+        39.     In December 2018, having conducted its investigation, the United States chose to
+
+intervene and pursue these claims on its own behalf. The Complaint In Intervention filed is
+
+detailed and telling. In it, the United States alleges that:
+
+               At YRC, as “one YRC executive stated in an internal email, ‘the weight drives the
+
+                price we charge and invoice the customer.’”
+
+               YRC knew that “it was important for reweighs to be accurate” and that “[b]efore
+
+                September 2005, the Defendants’ reweighs caused them to correct bills of lading
+
+                for both ‘positive’ reweighs where the revised shipment weight was heavier than
+
+                the original weight, and ‘negative’ reweighs where the revised weight was lighter
+
+                than the original weight.”       YRC instructed its managers that “integrity of
+
+                correction information is critical in providing the customer with an accurate
+
+                invoice and supporting documentation.”
+
+               In September 2005, “Roadway essentially eliminated negative reweight
+
+                corrections” and, according to internal communications, instructed its employees
+
+                that “[n]o negative weight corrections will be [made].”
+
+               In February 2006, executives at Yellow—in sharing “best practices” with
+
+                Roadway—decided to “eliminate all negative reweigh corrections” and, in the
+
+                work request establishing as much, “ordered that Yellow ‘eliminate the negative
+
+
+
+                                                  12
+   Case 2:19-cv-02129-KHV-KGG             Document 1       Filed 03/08/19      Page 13 of 18
+
+
+
+
+               adjustments’ so it could ‘add [about] $500,000 per month to top and bottom line
+
+               (revenue and profit).”
+
+              YRC enacted these processes through its automated system such that, “the
+
+               company’s computer system would automatically reject the entry and hid the
+
+               negative reweight by falsely recording the problem” as an error code. Internal
+
+               communications confirm that that the customer does not receive a lowered
+
+               invoice” that the “negative scans never change the mainframe data,” and that for
+
+               now we do not systemically [make] negative [reweigh] corrections,” but added
+
+               that “at some point we may to add further credibility to our process.”
+
+       40.     The United States, in its qui tam action, seeks recovery of all damages stemming
+
+from YRC’s negative reweight practices incurred by the Government. The qui tam complaint
+
+contains allegations that this conduct was implemented across YRC’s customer base. The qui
+
+tam action does not, and cannot, seek damages incurred by non-Government customers through
+
+this conduct. This putative class litigation seeks to recover those damages.
+
+       D.      The Applicable Statutes of Limitation.
+
+       41.     Equitable Tolling: Class members, despite all due diligence, could not obtain
+
+vital information relevant to the existence of the claims brought in this lawsuit. A reasonable
+
+person could not know of YRC’s negative reweigh practices due to YRC’s intentionally
+
+wrongful conduct. Neither Plaintiff nor any member of the putative class could have discovered,
+
+through the use of reasonable diligence, that YRC’s conduct was unlawful and actionable within
+
+the time period of any applicable statutes of limitation. Nor could they have determined with the
+
+exercise of any reasonable diligence that YRC was not crediting for negative reweights, was not
+
+adjusting invoices to reflect actual weights when those weights decreased after reweighs, or had
+
+
+
+
+                                                13
+   Case 2:19-cv-02129-KHV-KGG              Document 1      Filed 03/08/19       Page 14 of 18
+
+
+
+
+altered its system to prevent negative reweighs from automatically decreasing invoiced weights.
+
+The filing of the unsealed qui tam complaint in December 2018 was the first and only public
+
+information regarding these practices available to any putative class member.
+
+       42.     Equitable Estoppel/Fraudulent Concealment: Throughout the relevant time
+
+period, YRC actively concealed the wrongful conduct at issue in this case and failed to disclose
+
+from putative class members material information concerning the negative reweigh practices.
+
+Upon information and belief, YRC acted knowingly and intentionally to ensure that putative
+
+class members could not discover the nature and extent of the conduct giving rise to the claims
+
+brought herein, and that any class member who attempted to do so was prevented from suing
+
+within the statute of limitations. As a result, no putative class member could have discovered
+
+their claims, the YRC negative reweigh practices, or the conduct of YRC at issue in this
+
+litigation through the use of reasonable efforts or reasonable diligence.       The filing of the
+
+unsealed qui tam complaint in December 2018 was the first and only public information
+
+regarding these practices available to any putative class member.
+
+                                VI.     CAUSES OF ACTION
+
+                                        COUNT I
+                                 BREACH OF CONTRACT
+                                  (On Behalf Of The Class)
+
+       43.     All allegations and paragraphs in this complaint are incorporated by reference.
+
+       44.     Plaintiff and each member of the class entered into a form bill of lading which
+
+constitutes a written contract with YRC.
+
+       45.     Plaintiff and each member of the class performed on their agreements.
+
+       46.     As set out herein, through its practice of not crediting negative reweighs in to
+
+customers, YRC breached the agreements.
+
+
+
+
+                                               14
+   Case 2:19-cv-02129-KHV-KGG              Document 1        Filed 03/08/19      Page 15 of 18
+
+
+
+
+       47.     Plaintiff and each member of the class have been directly and proximately harmed
+
+by YRC’s breach of contract in that each paid more for shipments than they owed under the
+
+contracts.
+
+                                  COUNT II
+             BREACH OF THE DUTY OF GOOD FAITH AND FAIR DEALING
+                            (On Behalf Of The Class)
+
+       48.     All allegations and paragraphs in this complaint are incorporated by reference.
+
+       49.     To the extent necessary, this count is pled in the alternative.
+
+       50.     Plaintiff and each member of the class entered into a form bill of lading which
+
+constitutes a written contract with YRC.
+
+       51.     Plaintiff and each member of the class performed on their agreements.
+
+       52.     YRC failed to perform on the agreements in good faith. YRC acted arbitrarily
+
+and capriciously. It failed to fulfill any discretionary duties it might have under the contract in
+
+altering prices reasonably and in good faith. YRC’s uniform course of conduct in implementing
+
+negative reweigh practices lacks honesty in fact and is inconsistent with the justified expectation
+
+that YRC would charge for shipments based upon actual weights. Through its wrongful conduct,
+
+YRC unfairly prevented Plaintiff and each member of the class from receiving the full benefits
+
+of their agreements.
+
+       53.     Plaintiffs and each member of the class have been directly and proximately
+
+harmed by YRC’s breach of the covenant of good faith and fair dealing in that each paid more
+
+for shipping than they owed under the contracts.
+
+                                         COUNT III
+                                   UNJUST ENRICHMENT
+                                   (On Behalf Of The Class)
+
+       54.     All allegations and paragraphs in this complaint are incorporated by reference.
+
+
+
+
+                                                 15
+    Case 2:19-cv-02129-KHV-KGG               Document 1        Filed 03/08/19       Page 16 of 18
+
+
+
+
+        55.      To the extent necessary, this count is plead in the alternative.
+
+        56.      Through its negative reweight practices, YRC received money from the putative
+
+class which in equity and justice it should not be permitted to keep.        By charging for weights
+
+which it knew to be incorrect, by suppressing and misrepresenting material facts, and by
+
+engaging in other wrongful and unlawful conduct as set out herein, YRC obtained money which
+
+properly belongs to the putative class. The benefit conferred by the putative class was non-
+
+gratuitous and YRC realized value from this benefit. It would be inequitable for YRC to retain
+
+this benefit.
+
+        57.      Plaintiff and each member of the class have been directly and proximately harmed
+
+by YRC conduct in that each paid more for shipments than they rightfully owed.
+
+                                      COUNT IV
+                 VIOLATION OF THE FLORIDA DECEPTIVE AND UNFAIR
+                TRADE PRACTICES ACT, FLORIDA STATUE § 501.201, et seq.
+                          (On Behalf Of The Florida Subclass)
+
+        58.      All allegations and paragraphs in this complaint are incorporated by reference.
+
+        59.      Florida’s Deceptive and Unfair Trade Practices Act, Fla. Stat. § 501.201, et seq.
+
+(“FDUTPA”), prohibits “unfair methods of competition, unconscionable acts or practices, and
+
+unfair or deceptive acts or practices in the conduct of any trade or commerce.”
+
+        60.      The stated purpose of FDUTPA is to “protect the consuming public and legitimate
+
+business enterprises from those who engage in unfair methods of competition, or
+
+unconscionable, deceptive, or unfair acts or practices in the conduct of any trade or commerce.”
+
+Fla. Stat. § 501.202.
+
+        61.      Plaintiff and each member of the putative class, as “consumers” under FDUTPA
+
+(Fla. Stat. § 501.203(7)), have been harmed by YRC’s unconscionable, deceptive, and unfair acts
+
+and practices in the charging of the Energy Surcharge. YRC has engaged in a deliberate,
+
+
+
+                                                   16
+   Case 2:19-cv-02129-KHV-KGG               Document 1        Filed 03/08/19    Page 17 of 18
+
+
+
+
+systematic practice of not crediting negative reweights and of charging customers based upon
+
+shipment weights that it knew to be incorrect.
+
+       62.      In doing so, YRC has engaged in YRC’s deceptive practices directed toward the
+
+putative class members, including:
+
+             a. charging for and representing weights that it knew to be incorrect;
+
+             b. representing that true weights would be the basis of shipment charges;
+
+             c. failing to disclose that it would reweigh shipments but only change the weight on
+
+                which the shipment charge was based if that weight was greater than indicated
+
+                and fail to change the indicated weight if it was less;
+
+       63.      YRC makes these misrepresentations and omissions every time it sends a
+
+document charging for shipments based upon an incorrect weight.
+
+       64.      YRC’s misrepresentations, omissions, and deceptive practices as set out herein
+
+are likely to mislead reasonable consumers under the circumstances.
+
+       65.      YRC’s conduct directed toward putative class members is also unfair. Such
+
+conduct includes:
+
+                a.      implementing a practice whereby it does not credit customers for negative
+
+                        reweights;
+
+                b.      failing to disclose that it reweighs shipments but does not alter weights if
+
+                        they are greater than the actual weight; and
+
+                c.      altering its customer relationship management and/or billing system to
+
+                        prevent automatic negative reweighs.
+
+       66.      As a result of the deceptive and unfair practices described above, each member of
+
+the putative class was damaged in that they paid more for shipments to their detriment.
+
+
+
+
+                                                  17
+   Case 2:19-cv-02129-KHV-KGG                 Document 1      Filed 03/08/19     Page 18 of 18
+
+
+
+
+                                 VIII. PRAYER FOR RELIEF
+
+       67.     Plaintiff, on behalf of itself and each member of the putative class and subclass,
+
+demands all remedies and damages available to it, including all unlawful price increases paid to
+
+YRC, all fuel surcharges paid to YRC, injunctive relief, restitution, interest, and the attorneys’
+
+fees and costs incurred in bringing this action.
+
+                                             JURY DEMAND
+
+       Plaintiff requests a trial by jury.
+
+                                DESIGNATION OF PLACE OF TRIAL
+
+       Plaintiff designates Kansas City, Kansas as the place of trial for this action.
+
+Dated: March 8, 2019                            Respectfully submitted,
+
+
+
+                                                /s/ Eric D. Barton
+                                                Eric D. Barton (KS#16503)
+                                                Tyler W. Hudson (KS#20293)
+                                                Sarah B. Ruane (KS#23015)
+                                                Wagstaff & Cartmell LLP
+                                                4740 Grand Ave. Ste. #300
+                                                Kansas City, MO 64112
+                                                Phone: 816.701.1100
+                                                Fax: 816.531.2372
+                                                ebarton@wcllp.com
+                                                thudson@wcllp.com
+                                                sruane@wcllp.com
+
+                                                Attorneys for Plaintiff
+
+
+
+
+                                                   18
+

@@ -1,0 +1,86 @@
+Date:
+                                                                                               BILL OF LADING                                                                                                    Page:
+                                                               SHIP FROM                                                                  Bill of Lading Number:
+Name:
+                                                                                                                                                                                Master Bill of Lading: with attached
+Address:
+                                                                                                                                          (check box)                           underlying Bills of Lading
+City/State/Zip:
+                                                                                                                                          CARRIER NAME: ESTES EXPRESS SCAC: EXLA
+SID#:                                                                                                         FOB:
+                                                                                                                                          Trailer Number:
+                                                                  SHIP TO
+Name:                                                                                    Location #:                                      Seal Number(s):
+Address:                                                                                                                                  PRO Number:
+City/State/Zip:
+CID#:                                                                                                         FOB:
+                                  THIRD PARTY FREIGHT CHARGES BILL TO:
+Name:
+Address:
+
+City/State/Zip:
+SPECIAL                                                                                                                                   Freight Charge Terms: (freight charges are prepaid unless
+INSTRUCTIONS                                                                                                                              marked otherwise)
+                                                                                                                                          Prepaid                                        Collect                            3rd Party
+                                                                                            CUSTOMER ORDER INFORMATION
+    CUSTOMER ORDER NUMBER                                            #PKGS              WEIGHT   PALLET/SLIP                                                            ADDITIONAL SHIPPER INFO
+                                                                                                          Y              N
+
+
+
+
+GRAND TOTAL
+                                                                                                    CARRIER INFORMATION
+   HANDLING UNIT                                 PACKAGE                                                                     COMMODITY DESCRIPTION                                                                        LTL ONLY
+                                                                                  WEIGHT        H.M.      Commodities requiring special or additional care or attention in handling or stowing must be
+                                                                                                                                                                                                                   NMFC#                    CLASS
+ QTY               TYPE                 QTY                 TYPE                                          marked and packaged as to ensure safe transportation with ordinary care. See Section 2/c
+                                                                                                 (X)                                          of NMFC Item 350
+
+
+
+
+                                                                                                                                        GRAND TOTALS
+
+                             NOTE: Liability Limitation for loss or damage on this shipment may be applicable. See 49 U.S.C. § 14706 (c)(1)(A) and (B).
+   Full Value                  WARNING: Additional and/or maximum liability limitations or other
+   Coverage                    restrictions may apply. Refer to Estes Rules Tariff EXLA 105 for further details.
+Full Value Coverage Declared or Released Value | WARNING : Additional and/or maximum liability limitations or other restrictions may apply. Refer to Estes Rules Tariff EXLA 105
+for further details, including provisions in item 350. The shipper may request “Full Value Coverage” as provided for in item 350, Section 3, by indicating here the value of the entire
+shipment. The shipper hereby declares that that the value of this shipment does not exceed $_________. If no value is entered, the lowest applicable released value will be applied
+for this shipment. Full Value Coverage only applies subject Full Value Coverage charges have been paid in full.
+
+ SHIPPER SIGNATURE/DATE                                                                 Trailer Loaded         Freight Counted                                             CARRIER SIGNATURE/PICKUP DATE
+ This is to certify that the above named materials are properly classified described,                                                                                      Carrier acknowledges receipt of packages and required placards. Carrier
+ marked and labeled, and are in proper condition for transportation according to the         By Shipper                 By Shipper                                         certifies emergency response information was made available and/or carrier
+ applicable regulations of the U.S. DOT.                                                                                                                                   has the U.S. DOT emergency response guidebook or equivalent documentation
+                                                                                             By Driver                  By Driver/pallets said to contain                  in the vehicle.
+
+                                                                                                                        By Driver/Pieces
+
+                                                                                                                                                                           Property describedabove is received in good order, except as noted.
+Date:
+                              SUPPLEMENT TO THE BILL OF LADING                                                                                               Page:
+
+                                                                                     Bill of Lading Number:
+                                                   CUSTOMER ORDER INFORMATION
+
+  CUSTOMER ORDER NUMBER          # PKGS     WEIGHT          PALLET/SLIP                                                    ADDITIONAL SHIPPER INFO
+                                                             Y             N
+
+
+
+
+        PAGE SUBTOTAL
+                                                        CARRIER INFORMATION
+ HANDLING UNIT      PACKAGE                                                    COMMODITY DESCRIPTION                                                             LTL ONLY
+                                          WEIGHT     H.M.     Commodities requiring special or additional care or attention in handling or stowing must be
+                                                                                                                                                              NMFC#     CLASS
+ QTY      TYPE    QTY         TYPE                            marked and packaged as to ensure safe transportation with ordinary care. See Section 2/c
+                                                      (X)                                         of NMFC Item 350
+
+
+
+
+                                                                                         PAGE SUBTOTALS
+

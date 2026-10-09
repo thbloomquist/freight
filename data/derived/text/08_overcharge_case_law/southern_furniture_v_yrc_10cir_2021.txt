@@ -1,0 +1,1038 @@
+                                                                                 FILED
+                                                                     United States Court of Appeals
+                                      PUBLISH                                Tenth Circuit
+
+                      UNITED STATES COURT OF APPEALS                         March 3, 2021
+
+                                                                         Christopher M. Wolpert
+                             FOR THE TENTH CIRCUIT                           Clerk of Court
+                         _________________________________
+
+ SOUTHERN FURNITURE LEASING,
+ INC.,
+
+       Plaintiff - Appellant,
+
+ v.                                                          No. 19-3262
+
+ YRC, INC.; ROADWAY EXPRESS,
+ INC.; YELLOW TRANSPORTATION,
+ INC.; YRC WORLDWIDE, INC.,
+
+       Defendants - Appellees.
+                      _________________________________
+
+                     Appeal from the United States District Court
+                              for the District of Kansas
+                       (D.C. No. 2:19-CV-02129-KHV-KGG)
+                       _________________________________
+
+Eric D. Barton, Wagstaff & Cartmell, LLP, Kansas City, Missouri (Nicholas W.
+Armstrong, Price Armstrong, LLC, Birmingham, Alabama, with him on the briefs), for
+Plaintiff – Appellant.
+
+Stephen L. Hill, Jr. (Jacqueline M. Whipple with him on the brief), Dentons US LLP,
+Kansas City, Missouri, for Defendants – Appellees.
+                         _________________________________
+
+Before MATHESON, McHUGH, and EID, Circuit Judges.
+                 _________________________________
+
+McHUGH, Circuit Judge.
+                    _________________________________
+
+      Southern Furniture Leasing, Inc. (“Southern Furniture”) filed this putative
+
+class action against a group of less-than-truckload (“LTL”) freight carriers, all
+predecessors to or current subsidiaries of YRC, Inc. (“YRC”). Southern Furniture’s
+
+allegation is that YRC “carried out a widespread and systematic practice of
+
+overcharging its customers by intentionally using inflated shipment weights when
+
+determining shipment prices.” App. 8.
+
+       YRC asks that we affirm on the alternate ground that Southern Furniture failed
+
+to allege Article III standing. The district court rejected YRC’s standing argument,
+
+and we agree with its analysis.
+
+       The district court granted YRC’s motion to dismiss on the grounds that
+
+Southern Furniture had only 180 days to contest the alleged overcharges under 49
+
+U.S.C. § 13710(a)(3)(B). We agree with the district court’s interpretation of
+
+§ 13710(a)(3)(B) and therefore affirm.
+
+                                  I.   BACKGROUND
+
+                                  A. Factual History
+
+       YRC is an LTL carrier. This means that YRC “consolidate[s] shipments that
+
+do not themselves constitute a full trailer to transport and deliver, generally for
+
+manufacturing and retail businesses.” App. 18.
+
+       A business that wants to contract with YRC for shipping must use its pre-
+
+printed two-page form contract, where the only blank terms are for the customer’s
+
+contact information and the weight of the shipment. The two-page contract “provides
+
+that the weight entered is ‘[s]ubject to correction,’ and that ‘[i]f the description of
+
+articles or other information on this bill of lading is found to be incorrect or
+
+
+
+                                                2
+incomplete, the freight charges must be paid based upon the articles actually
+
+shipped.’” App. 18 (alterations in original).
+
+      YRC does not always rely on a customer’s weight estimate when it assesses
+
+charges. Rather, the industry standard is for YRC to charge based on actual weight if
+
+it reweighs the shipment in question.
+
+      If the actual weight is greater than the customer’s weight estimate, that is a
+
+“positive reweigh.” App. 19. Conversely, if the actual weight is less than the
+
+customer’s weight estimate, that is a “negative reweigh.” App. 19.
+
+      Starting in September 2005, YRC eliminated negative reweigh corrections,
+
+resulting in overcharges. YRC did not, however, inform its customers about its
+
+revised reweigh policy.
+
+      In December 2018, the Department of Justice unsealed a qui tam complaint
+
+that revealed YRC’s reweighing scheme. Only then did Southern Furniture learn that
+
+YRC had been overcharging its customers.
+
+                               B. Procedural History
+
+      On March 8, 2019, Southern Furniture filed a complaint for damages and
+
+injunctive relief in the District of Kansas against YRC, Roadway Express, Yellow
+
+Transportation, and YRC Worldwide. YRC then filed a motion to dismiss.
+
+      The district court had not yet ruled on YRC’s motion when Southern Furniture
+
+filed an amended complaint. The amended complaint alleged (1) breach of contract;
+
+(2) breach of the duty of good faith and fair dealing; (3) unjust enrichment; and
+
+(4) violations of the Florida Deceptive and Unfair Trade Practices Act.
+
+                                                3
+      YRC again moved to dismiss. Specifically, YRC argued that Southern
+
+Furniture had failed to comply with § 13710(a)(3)(B). In addition, YRC argued that
+
+Southern Furniture lacked Article III standing, that Southern Furniture had failed to
+
+plead the minimum amount in controversy, and that Southern Furniture had failed to
+
+state a plausible claim.
+
+      On October 31, 2019, the district court granted the motion to dismiss and
+
+entered judgment in favor of YRC. The district court first rejected YRC’s standing
+
+and amount-in-controversy arguments. With respect to standing, the district court
+
+determined that Southern Furniture’s amended complaint alleged a concrete injury
+
+based on overcharges for shipments. And with respect to the amount in controversy,
+
+the district court determined that Southern Furniture’s amended complaint alleged an
+
+injury to the putative class far in excess of the $5,000,000 amount set forth in the
+
+Class Action Fairness Act.
+
+      Next, the district court determined that Southern Furniture’s alleged
+
+overcharges were governed by and did not comply with the 180-day limit set forth in
+
+§ 13710(a)(3)(B). Moreover, the district court refused to toll the 180-day period
+
+because—in its view—§ 13710(a)(3)(B) supplies a statute of repose, not a statute of
+
+limitations. Having found in YRC’s favor under § 13710(a)(3)(B), the district court
+
+expressly declined to address the other arguments raised in YRC’s motion to dismiss.
+
+Southern Furniture timely filed a notice of appeal.
+
+
+
+
+                                               4
+                                  II.     DISCUSSION
+
+      On appeal, Southern Furniture argues the district court erred in dismissing its
+
+amended complaint for failure to state a claim. Specifically, Southern Furniture
+
+contests the district court’s conclusion that § 13710(a)(3)’s time limit applies to this
+
+case. YRC argues the time limit does apply and additionally invites us to affirm on
+
+the alternate ground that Southern Furniture lacks standing. We address standing,
+
+then the adequacy of the allegations in Southern Furniture’s amended complaint. We
+
+review both issues de novo. See Niemi v. Lasshofer, 770 F.3d 1331, 1344 (10th Cir.
+
+2014); Georgacarakos v. United States, 420 F.3d 1185, 1186 (10th Cir. 2005).
+
+                                        A. Standing
+
+      YRC argues that Southern Furniture’s amended complaint is so vague as to the
+
+details of Southern Furniture’s dealings with YRC that it fails to allege an injury in
+
+fact. We disagree.
+
+      The Constitution extends the “judicial Power” only to “Cases” and
+
+“Controversies.” U.S. Const. art. III, § 2. To establish a case or controversy, a
+
+plaintiff must possess standing to sue. See Spokeo, Inc. v. Robins, 136 S. Ct. 1540,
+
+1547 (2016). “The plaintiff must have (1) suffered an injury in fact, (2) that is fairly
+
+traceable to the challenged conduct of the defendant, and (3) that is likely to be
+
+redressed by a favorable judicial decision.” Id. “To establish injury in fact, a plaintiff
+
+must show that he or she suffered ‘an invasion of a legally protected interest’ that is
+
+‘concrete and particularized’ and ‘actual or imminent, not conjectural or
+
+
+
+                                                5
+hypothetical.’” Id. at 1548 (quoting Lujan v. Defs. of Wildlife, 504 U.S. 555, 560
+
+(1992)).
+
+       “At the pleading stage, general factual allegations of injury resulting from the
+
+defendant’s conduct may suffice.” Defs. of Wildlife, 504 U.S. at 561. “However,
+
+‘[t]hreadbare recitals of the elements of a cause of action, supported by mere
+
+conclusory statements, do not suffice.’” COPE v. Kan. State Bd. of Educ., 821 F.3d
+
+1215, 1221 (10th Cir. 2016) (alteration in original) (quoting Ashcroft v. Iqbal, 556
+
+U.S. 662, 678 (2009)).
+
+       We agree with the district court that Southern Furniture has alleged an injury
+
+in fact. The amended complaint alleges that, “[l]ike thousands of other small
+
+businesses across the country, [Southern Furniture] contracted with YRC to ship
+
+goods pursuant to a standard, pre-printed bill of lading.” App. 9. Under that contract,
+
+the price “was based in part upon weight on multiple occasions.” App. 11. When
+
+YRC eliminated negative reweighs, Southern Furniture “pa[id] more for shipments
+
+than [it] should have.” App. 20–21. From those allegations it is reasonable to infer
+
+that Southern Furniture contracted with YRC after 2005 but before 2018, i.e., during
+
+the period when YRC had secretly eliminated negative reweighs. See Iqbal, 556 U.S.
+
+at 678 (“A claim has facial plausibility when the plaintiff pleads factual content that
+
+allows the court to draw the reasonable inference that the defendant is liable for the
+
+misconduct alleged.”). These allegations are therefore sufficient to plausibly claim an
+
+injury in fact at the pleadings stage.
+
+
+
+                                               6
+                               B. Section 13710(a)(3)
+
+      The statute at issue in this appeal—49 U.S.C. § 13710, “Additional billing and
+
+collecting practices”—has an odd history. It was first enacted as part of the Trucking
+
+Industry Regulatory Reform Act of 1994 (“TIRRA”), Pub. L. 103-311, § 206, 108
+
+Stat. 1673, 1685. Then it was re-enacted as part of the Interstate Commerce
+
+Commission Termination Act of 1995 (“ICCTA”), Pub. L. 104-88, § 103, 109 Stat.
+
+803, 877–78.
+
+      Today, § 13710(a)(3) resides in a subsubsection of the “Additional billing and
+
+collecting practices” statute titled “Billing Disputes,” which is itself nestled within a
+
+subsection titled “Miscellaneous provisions.” It provides:
+
+               (A) Initiated by motor carriers.—
+
+             In those cases where a motor carrier (other than a motor carrier
+      providing transportation of household goods or in noncontiguous
+      domestic trade) seeks to collect charges in addition to those billed and
+      collected which are contested by the payor, the carrier may request that
+      the Board[1] determine whether any additional charges over those billed
+      and collected must be paid. A carrier must issue any bill for charges in
+      addition to those originally billed within 180 days of the receipt of the
+      original bill in order to have the right to collect such charges.
+
+               (B) Initiated by shippers.—
+
+             If a shipper seeks to contest the charges originally billed or
+      additional charges subsequently billed, the shipper may request that the
+      Board determine whether the charges billed must be paid. A shipper
+      must contest the original bill or subsequent bill within 180 days of
+      receipt of the bill in order to have the right to contest such charges.
+
+
+
+      1
+       The “Board” is the Surface Transportation Board (“STB”). See 49 U.S.C.
+§ 13102(1).
+
+                                                7
+49 U.S.C. § 13710(a)(3).
+
+       Southern Furniture advances three reasons why its amended complaint is not
+
+subject to § 13710(a)(3)’s time limit: First, that § 13710(a)(3) applies only before the
+
+STB, not in court. Second, that Southern Furniture is not a shipper. And third, that
+
+Southern Furniture’s amended complaint does not present a billing dispute. We
+
+address these arguments in order.
+
+   Section 13710(a)(3) applies in court.
+
+       Southern Furniture’s main argument for why § 13710(a)(3)’s time limit does
+
+not apply to its putative class action is that the time limit applies only to proceedings
+
+before the STB. The plain language of § 13710(a)(3) belies that argument.
+
+       “Our primary task in construing statutes is to determine congressional intent,
+
+using traditional tools of statutory interpretation.” In re Taylor, 737 F.3d 670, 678
+
+(10th Cir. 2013) (quotation marks omitted). “Supreme Court ‘precedents make clear
+
+that the starting point for [the] analysis is the statutory text.’” Id. (alteration in
+
+original) (quoting Desert Palace, Inc. v. Costa, 539 U.S. 90, 98 (2003)).
+
+       a. Plain Language
+
+       Subsections 13710(a)(3)(A) and (B) are parallel provisions. Subsection (A)
+
+applies to “motor carriers” and subsection (B) applies to “shippers.” Each subsection
+
+contains two sentences. The first sentence gives motor carriers and shippers the
+
+permissive right to petition the STB for a determination as to whether contested
+
+charges must be paid.
+
+
+
+                                                  8
+       The two subsections differ as to the second sentence. The second sentence of
+
+subsection (A) states that a carrier “must issue any bill for charges in addition to
+
+those originally billed within 180 days of the receipt of the original bill in order to
+
+have the right to collect such charges.” The second sentence of subsection (B) states
+
+that a shipper “must contest the original bill or subsequent bill within 180 days of
+
+receipt of the bill in order to have the right to contest such charges.”
+
+       Nothing in § 13710(a)(3) suggests that a motor carrier’s or shipper’s right to
+
+collect or contest charges is limited to actions before the STB. Rather, subsection (A)
+
+sets a time limit to “issue any bill for charges,” and subsection (B) sets a time limit to
+
+“contest the original bill or subsequent bill.”
+
+       A shipper may contest charges before the STB, in federal court, or in other
+
+fora. “Contest,” when used as a verb, is not specific to litigation. It means “[t]o
+
+litigate or call into question.” Contest, Black’s Law Dictionary (11th ed. 2019)
+
+(emphasis added). So, § 13710(a)(3)’s time limit might better be described as a
+
+notice or presentment requirement, rather than a statute of limitations. See Carolina
+
+Traffic Servs. of Gastonia, Inc.–Petition for Declaratory Order, Fed. Carr. Cas.
+
+¶ 38285, 1996 WL 303722, at *2 (STB May 31, 1996) (describing the time limit as
+
+“an additional legal requirement . . . to notify the carrier of a billing dispute, within
+
+180 days of receipt of the bill”); see also id. at *3 (“So long as the necessary
+
+notification is given to the other party within the 180-day period, the moving party
+
+preserves its right of action and may bring an appropriate court action within the
+
+applicable statute of limitations period.”).
+
+                                                  9
+      The fact that motor carriers and shippers may petition the STB for a
+
+determination, but are not required to do so, suggests the time limit applies without
+
+regard to that right. In other words, the first and second sentences of subsections (A)
+
+and (B) have independent effect. The first sentence speaks to venue, i.e., the option
+
+of going to the STB. The second sentence speaks to time. And the fact that the
+
+sentences appear together—two in each subsection, one after the other—does not
+
+alter their plain meaning.
+
+      If Congress had meant to restrict the time limit to actions before the STB, it
+
+could easily have done so. For example, Congress could have ended the phrase “in
+
+order to have the right to contest such charges” with the words “before the STB.” But
+
+it did not write the statute that way, or otherwise draw a connection between the time
+
+limit and the STB. It is not our job to “add to, remodel, update, or detract from old
+
+statutory terms.” Bostock v. Clayton Cty., Georgia, 140 S. Ct. 1731, 1738 (2020).
+
+      The statute’s mandatory language makes the right to contest or collect charges
+
+conditional on compliance with the time limit. One definition of “must,” when used
+
+as a verb, is to “be obliged to.” Must, Merriam-Webster, https://www.merriam-
+
+webster.com/dictionary/must (last visited October 5, 2020). Quite simply, compliance
+
+with the 180-day time limit is not optional.
+
+
+
+
+                                               10
+      b. Scope-of-Subparts Canon
+
+      Southern Furniture argues that § 13710(a)(3) applies only before the STB
+
+under the so-called scope-of-subparts canon.2 Under that canon, “[m]aterial within an
+
+indented subpart relates only to that subpart.” Antonin Scalia & Bryan A. Garner,
+
+Reading Law: The Interpretation of Legal Texts 156 (2012). Southern Furniture
+
+contends that § 13710(a)(3) is concerned with the STB, so the time limit is likewise
+
+limited to proceedings before the STB.
+
+      The premise of Southern Furniture’s argument is incorrect. Section
+
+13710(a)(3) speaks both to optional proceedings before the STB and to the time limit
+
+for collecting or contesting charges. The entire subsection is indented in two parts,
+
+(A) and (B), and there is no modifying language that appears before or after the
+
+indents.3 Consequently, to the extent the scope-of-subparts canon tells us anything, it
+
+teaches that all of subpart (A) applies to actions “Initiated by motor carriers,” while
+
+all of subpart (B) applies to actions “Initiated by shippers.” Accordingly, we find
+
+
+
+
+      2
+         The parties spend many pages debating whether Southern Furniture raised the
+scope-of-subparts canon in briefing before the district court. We need not resolve this
+dispute, because “we may depart from the general waiver rule in our discretion.”
+Daigle v. Shell Oil Co., 972 F.2d 1527, 1539 (10th Cir. 1992). Here, we exercise our
+discretion to consider Southern Furniture’s scope-of-subparts argument in the interest
+of correct statutory interpretation, “a strictly legal question.” Id.
+      3
+        By contrast, the examples Scalia and Garner use to illustrate the scope-of-
+subparts canon involve multiple levels of indentation. Scalia & Garner, supra, at
+156–58.
+
+                                              11
+nothing in the canon that requires us to construe the first sentence’s reference to the
+
+STB as overriding our plain language interpretation of the second sentence.
+
+      c. Deference to the STB
+
+      To reiterate, the STB has interpreted § 13710(a)(3)’s time limit to apply
+
+generally, whether a party ultimately seeks redress before the STB or a court. See
+
+Carolina Traffic, 1996 WL 303722, at *3. In this case, neither party asks that we
+
+afford the STB’s interpretation deference under Chevron, U.S.A., Inc. v. Nat. Res.
+
+Def. Council, Inc., 467 U.S. 837 (1984).
+
+      That is fitting, for it would be inappropriate for us to apply Chevron deference
+
+to the STB’s interpretation. “As the Supreme Court explained in United States v.
+
+Mead Corp., 533 U.S. 218 (2001), the initial step of the Chevron inquiry is actually
+
+to determine whether Chevron should apply at all.” Sinclair Wyo. Ref. Co. v. U.S.
+
+EPA, 887 F.3d 986, 990 (10th Cir. 2017). We ask whether “Congress delegated
+
+authority to the agency generally to make rules carrying the force of law,” and
+
+whether “the agency interpretation claiming deference was promulgated in the
+
+exercise of that authority.” Id. at 991 (quoting Mead, 533 U.S. at 226–27).
+
+      In the context of the ICCTA, there is no evidence Congress intended to
+
+delegate to the STB the question whether the 180-day time limit applies in court. And
+
+it would be odd for Congress to make such a choice, given the fact that courts have
+
+just as much, if not more, expertise than administrative agencies in determining
+
+applicable time limits.
+
+
+
+                                              12
+      That leaves us to apply Skidmore deference to the STB’s interpretation. See
+
+Skidmore v. Swift & Co., 323 U.S. 134, 140 (1944) (citing “the thoroughness evident
+
+in [the agency’s] consideration, the validity of its reasoning, its consistency with
+
+earlier and later pronouncements, and all those factors which give it power to
+
+persuade”). Yet, the STB’s interpretation is grounded in nothing more than the plain
+
+language of the statute. So, the STB’s interpretation does not add any additional force
+
+to our plain meaning analysis.
+
+      d. Section 14101(b)(2)
+
+      Southern Furniture asks that we look to 49 U.S.C. § 14101(b)(2) to inform our
+
+interpretation of § 13710(a)(3). Section § 14101(b)(2) provides that “[t]he exclusive
+
+remedy for any alleged breach of a contract entered into under this subsection shall
+
+be an action in an appropriate State court or United States district court, unless the
+
+parties otherwise agree.” According to Southern Furniture, the fact that § 14101(b)(2)
+
+contemplates litigation in court indicates that Congress meant for § 13710’s time
+
+limit to apply only to proceedings before the STB.4
+
+      Southern Furniture’s argument is unpersuasive. Section 14101(b)(2)
+
+establishes that if a shipper or carrier wants to allege breach of a contract described
+
+in § 14101(b), it must do so “in an appropriate State court or United States district
+
+court.” But § 14101 says nothing that contradicts, or even calls into question,
+
+
+      4
+         YRC did not respond to this argument in its response brief. We exercise our
+discretion to address the argument despite YRC’s oversight, in the interest of correct
+statutory interpretation. See Daigle, 972 F.2d at 1539.
+
+                                              13
+§ 13710(a)(3)(B)’s time limit for a shipper to provide notice that it intends to contest
+
+a bill.5 A shipper or carrier can comply with the 180-day limit provided in
+
+§ 13710(a)(3)(B) and, if the issue remains unresolved, file a breach of contract action
+
+in an appropriate court within the applicable statute of limitations. The two
+
+provisions are not in tension.
+
+   Southern Furniture is a Shipper.
+
+      Southern Furniture’s next argument is that § 13710(a)(3) does not apply
+
+because Southern Furniture is not a “shipper” within the meaning of the statute. We
+
+disagree.
+
+      The ICCTA does not define “shipper.” In the absence of a statutory definition,
+
+we rely on ordinary meaning. See Bostock, 140 S. Ct. at 1750. One ordinary meaning
+
+of “shipper” is “[s]omeone who contracts with a carrier for the transportation of
+
+cargo.” Shipper, Black’s Law Dictionary (11th ed. 2019). Southern Furniture falls
+
+within this definition because, according to the amended complaint, Southern
+
+Furniture contracted with YRC to transport goods.
+
+
+
+
+      5
+         We express no view on the district court’s ruling that § 13710(a)(3) is a
+statute of repose. Southern Furniture argues in a footnote that the district court’s
+ruling “further shows [its] failure to consider the provision in context.” Appellant Br.
+at 21–22 n.2. This assertion, couched as a subcomponent of Southern Furniture’s
+textual argument about the import of § 14101(b), is not sufficient for us to consider
+whether equitable tolling is appropriate. See United States v. Hardman, 297 F.3d
+1116, 1131 (10th Cir. 2002) (“Arguments raised in a perfunctory manner, such as in a
+footnote, are waived.”).
+
+                                              14
+      Southern Furniture resists this straightforward conclusion by invoking the
+
+ICCTA’s definition of “individual shipper.” The ICCTA defines “individual shipper”
+
+as “any person who—(A) is the shipper, consignor, or consignee of a household
+
+goods shipment; (B) is identified as the shipper, consignor, or consignee on the face
+
+of the bill of lading; (C) owns the goods being transported; and (D) pays his or her
+
+own tariff transportation charges.” 49 U.S.C. § 13102(13).
+
+      Southern Furniture focuses on subsection (A) of this definition and argues that
+
+it is not an “individual shipper” because it does not ship “household goods.” The
+
+ICCTA defines “household goods” as
+
+      personal effects and property used or to be used in a dwelling, when a
+      part of the equipment or supply of such dwelling, and similar property if
+      the transportation of such effects or property is—
+
+             (A) arranged and paid for by the householder, except such term
+             does not include property moving from a factory or store, other
+             than property that the householder has purchased with the intent
+             to use in his or her dwelling and is transported at the request of,
+             and the transportation charges are paid to the carrier by, the
+             householder; or
+
+             (B) arranged and paid for by another party.
+
+49 U.S.C. § 13102(10).
+
+      Whether or not Southern Furniture is an “individual shipper,” does not bear on
+
+whether Southern Furniture is a “shipper,” as that term is used in § 13710(a)(3)(B).
+
+The ICCTA’s definition of “individual shipper” itself twice refers to “the shipper,”
+
+indicating that the two terms mean different things. 49 U.S.C. § 13102(13).
+
+
+
+
+                                              15
+Consequently, the ICCTA’s definition of “individual shipper” is not an appropriate
+
+guide to the meaning of “shipper” in § 13710(a)(3)(B).
+
+   Southern Furniture’s Amended Complaint Presents a Billing Dispute.
+
+      Southern Furniture’s final argument is that § 13710(a)(3) does not apply
+
+because the amended complaint asserts fraud and does not merely “contest . . .
+
+charges.” Again, we disagree.
+
+      In common parlance, the amended complaint seeks to “contest . . . charges.”
+
+49 U.S.C. § 13710(a)(3)(B). “Contest,” when used as a verb, sometimes means “[t]o
+
+litigate or call into question; challenge.” Contest, Black’s Law Dictionary (11th ed.
+
+2019). Southern Furniture alleges that for more than a decade YRC overcharged its
+
+customers for LTL shipments, by eliminating negative reweighs. In other words,
+
+Southern Furniture is challenging YRC’s charges. The allegations in the amended
+
+complaint are therefore covered by § 13710(a)(3)(B)’s 180-day time limit.
+
+      The only time the phrase “billing dispute[]” appears in § 13710(a)(3) is the
+
+subsection’s heading. To be sure, “the title of a statute or section can aid in resolving
+
+an ambiguity in the legislation’s text.” I.N.S. v. Nat’l Ctr. for Immigrants’ Rights,
+
+Inc., 502 U.S. 183, 189 (1991). But we do not see any ambiguity in what it means to
+
+“contest . . . charges.” 49 U.S.C. § 13710(a)(3)(B). And even if we did identify some
+
+ambiguity, Southern Furniture does not explain why the meaning of “billing
+
+dispute[]” is narrower than the meaning of “contest[ing] . . . charges” in this context.
+
+      In response, Southern Furniture cites Grocery Haulers, Inc. v. C & S
+
+Wholesale Grocers, Inc., No. 11 CIV. 3130 DLC, 2012 WL 4049955 (S.D.N.Y.
+
+                                               16
+Sept. 14, 2012) (unpublished). There, the district court held that § 13710(a)(3)’s 180-
+
+day time limit did not apply to a lawsuit that alleged “fraudulent and deceptive
+
+business practices” and that asserted “a cause of action under § 14704(a)(2).” Id. at
+
+11. Southern Furniture does not assert a cause of action under § 14704(a)(2). And
+
+while Southern Furniture does allege fraud, it does so as part of a claim “contest[ing]
+
+. . . charges” under § 13710.6 Consequently, even if Grocery Haulers could be read to
+
+hold that any claim asserting fraudulent practices is exempt from the 180-day notice
+
+requirement, we would find it unpersuasive in light of the plain language of
+
+§ 13710(a)(3).
+
+      Our interpretation of the statute is also not in conflict with the Second
+
+Circuit’s decision in U.S. ex rel. Grupp v. DHL Express (USA), Inc., 742 F.3d 51 (2d
+
+Cir. 2014). There, the Second Circuit held that the 180-day time limit “cannot apply
+
+to a qui tam action under the [False Claims Act].” Id. at 53. But the court reserved
+
+the question whether “the 180–day rule applies to other kinds of suits brought in
+
+court.” Id. Here, Southern Furniture does not bring a claim under the False Claim Act
+
+or a qui tam action.
+
+
+
+
+      6
+        Southern Furniture also cites U1it4less, Inc. v. Fedex Corp., 871 F.3d 199
+(2d Cir. 2017), but that opinion does not mention § 13710. Rather, U1it4less held that
+FedEx’s practice of overcharging by “[u]pweighting” certain shipments fell outside
+§ 13708(b)’s prohibition on false or misleading invoices. Id. at 202–05.
+
+                                              17
+                              III.   CONCLUSION
+
+      For the foregoing reasons, we AFFIRM the district court’s dismissal of
+
+Southern Furniture’s complaint.
+
+
+
+
+                                           18
+Southern Furniture Leasing, Inc. v. YRC, et al., No. 19-3262
+
+EID, J., dissenting.
+
+       The majority holds that Southern Furniture Leasing’s state common law and
+
+statutory claims alleging that YRC1 engaged in a fraudulent scheme to overcharge its
+
+customers—including claims of breach of contract, breach of the duty of good faith and
+
+fair dealing, unjust enrichment, and deceptive trade practices—are time-barred under the
+
+180-day limitations period contained in the Interstate Commerce Commission
+
+Termination Act of 1995 (“ICCTA”), Pub. L. 104-88, § 103, 109 Stat. 803, 877–78. But
+
+the language of the 180-day limitation, 49 U.S.C. § 13710(a)(3)(B), applies only when a
+
+customer contests a bill before the U.S. Surface Transportation Board, not when it brings
+
+an action in court alleging fraudulent overcharging, such as the case here. Because the
+
+majority concludes otherwise, I respectfully dissent from its opinion.2
+
+       As is industry standard for freight carriers, YRC contracted with its customers
+
+based on an estimated weight of their shipments and then later reweighed those
+
+shipments to determine their actual weights, adjusting charges accordingly. Southern
+
+Furniture alleges that, beginning in September 2005, YRC stopped adjusting customer
+
+charges downward when reweighs were less than initially estimated, while still adjusting
+
+upward when reweighs were more than the initial estimate—all without telling anyone.
+
+
+
+
+1
+  The complaint is brought against YRC and its affiliates, referred to collectively here as
+YRC.
+2
+  I agree with the majority that Southern Furniture has established standing. Maj. Op. at
+5–6.
+Southern Furniture filed this putative class action suit after the Department of Justice
+
+unsealed a qui tam complaint revealing YRC’s alleged scheme.
+
+       At the heart of this appeal is the interpretation of the following provision from
+
+ICCTA:
+
+       (3) Billing disputes.
+
+              (B) Initiated by shippers. If a shipper seeks to contest the charges
+              originally billed or additional charges subsequently billed, the shipper
+              may request that the [Surface Transportation Board] determine
+              whether the charges billed must be paid. A shipper must contest the
+              original bill or subsequent bill within 180 days of receipt of the bill in
+              order to have the right to contest such charges.
+
+49 U.S.C. § 13710(a)(3)(B). The majority focuses on the second sentence—and solely
+
+on the second sentence—that states a customer “must contest [the bill] within 180 days of
+
+receipt of the bill in order to have the right to contest such charges.” Because the suit in
+
+this case was brought after the qui tam action revealed the alleged scheme to overcharge,
+
+years after YRC presented bills to customers that were the product of the alleged
+
+scheme,3 the majority reasons the suit is time-barred by the 180-day limitation.
+
+       The majority’s mistake in my view is its myopic focus on the second sentence.
+
+The 180-day limitation should not be read in isolation but rather in the context of the
+
+entire provision. Indeed, it is axiomatic that statutory language must be read in context.
+
+Statutory language “cannot be construed in a vacuum. It is a fundamental canon of
+
+statutory construction that the words of a statute must be read in their context and with a
+
+
+3
+ The qui tam action revealed the alleged scheme on December 14, 2018. This suit was
+brought on March 8, 2019. The YRC scheme is alleged to have started in September
+2005.
+                                              2
+view to their place in the overall statutory scheme.” Roberts v. Sea-Land Services, Inc.,
+
+566 U.S. 93, 100 (2012) (quoting Davis v. Michigan Dept. of Treasury, 489 U.S. 803,
+
+809 (1989)); accord Gen. Dynamics Land Sys. v. Cline, 540 U.S. 581, 596 (2004) (It is a
+
+“cardinal rule that statutory language must be read in context [since] a phrase gathers
+
+meaning from the words around it.” (quotations omitted)); Bd. of Cnty. Comm’rs v.
+
+Suncor Energy (U.S.A.) Inc., 965 F.3d 792, 804–07 (10th Cir. 2020) (explaining that the
+
+meaning of statutory text must be ascertained through the context in which it exists).
+
+       The context at issue here—that is, the first sentence—makes clear that the 180-day
+
+limitation contained in the second sentence applies only to billing “contests” brought
+
+before the Surface Transportation Board. The first sentence does two primary things. It
+
+describes the kind of disputes that are subject to 49 U.S.C. § 13710(a)(3)(B)—namely,
+
+when customers (“shippers”) want to “contest” a “charge[]” that was “billed.” It also
+
+describes how such a “contest” can be resolved—namely, the customer may ask the
+
+Board to determine whether the charges “must be paid.” Turning to the second sentence,
+
+the language places a time limitation on when such a “contest” must be made: “A
+
+shipper must contest the original bill or subsequent bill within 180 days of receipt of the
+
+bill in order to have the right to contest such charges.” § 13710(a)(3)(B) (emphasis
+
+added). Surely, the “contest” on which the limitation is placed by the second sentence is
+
+the same “contest” described in the first sentence. See Powerex Corp. v. Reliant Energy
+
+Servs., 551 U.S. 224, 232 (2007) (“[I]dentical words and phrases within the same statute
+
+should normally be given the same meaning.”). When read as a whole, § 13710(a)(3)(B)
+
+
+
+                                             3
+provides that if a customer wants to contest a bill, it can bring such a contest before the
+
+Board, but only within 180 days of receiving the bill.
+
+       Once it focuses in on the second sentence, which uses an unqualified “must,” the
+
+majority concludes the 180-day requirement applies in all situations where a customer
+
+contests a bill, even where the challenge is brought in a court action. Maj. Op. at 10. I
+
+agree with the majority that the 180-day limitation is “not optional.” Id. But the fact that
+
+compliance with the limitation is mandatory says nothing about the scope of the
+
+limitation in the first instance. The context of the limitation demonstrates that it applies
+
+only to billing contests before the Board. Similarly, while the majority suggests that
+
+Congress could have included language in the second sentence expressly confining the
+
+limitation to proceedings before the Board had it intended that meaning, id., there was no
+
+reason for it to do so, as the first sentence already indicates that the provision is
+
+addressing billing contests brought before the Board.
+
+       The majority’s interpretation applying the 180-day limitation to all claims that
+
+might challenge a bill, rather than just those brought before the Board, is far too broad
+
+and impedes other parts of ICCTA with separate statutes of limitation. See Aulston v.
+
+United States, 915 F.2d 584, 589 (10th Cir. 1990) (“In interpreting statutes . . . we look to
+
+the provisions of the whole law.”). The majority concedes that the first sentence of
+
+§ 13710(a)(3)(B) is permissive; a shipper may but need not contest shipping charges
+
+through Board proceedings. Maj. Op. at 8. Litigation is still an option for shippers. For
+
+example, § 14705, which is a section regarding “[l]imitation[s] on actions by and against
+
+carriers,” expressly states that “[a] person must begin a civil action to recover
+
+                                               4
+overcharges within 18 months after the claim accrues.” Id. at § 14705(b). In fact, courts
+
+have held that § 14705(b) covers any claim for overcharges brought by a shipper against
+
+a carrier, even when the shipper is alleging state law breach of contract claims.4 Barber
+
+Auto Sales, Inc. v. United Parcel Servs., 494 F. Supp. 2d 1290, 1295 (N.D. Ala. 2007);
+
+see also Lear Corp. v. LH Trucking, Inc., No. 05-74477, 2008 WL 2610239, at *10 (E.D.
+
+Mich. July 1, 2008) (adopting Barber Auto Sales, Inc. but restricting the statute’s
+
+application to interstate shipments). Yet under the majority’s interpretation, claims made
+
+under § 14705 for overcharges would be subject to the 180-day limitation because the
+
+overcharges would have been reflected in bills.5
+
+       Congress made clear that “[e]xcept as otherwise provided in this part, the remedies
+
+provided under this part are in addition to remedies existing under another law or
+
+common law.” 49 U.S.C. § 13103. Yet application of the 180-day requirement to all
+
+
+4
+  Section 14101(b)(2) provides that “[t]he exclusive remedy for any alleged breach of a
+contract entered into under this subsection shall be an action in an appropriate State court
+or United States district court, unless the parties otherwise agree.” § 14101(b)(2).
+5
+  Similarly, § 14704(a)(2) states: “A carrier or broker providing transportation or service
+subject to jurisdiction under chapter 135 [49 U.S.C. §§ 13501 et seq.] is liable for
+damages sustained by a person as a result of an act or omission of that carrier or broker in
+violation of this part [49 U.S.C. §§ 13101 et seq.].” Courts have held that claims brought
+under this section have a 4-year statute of limitations. See, e.g, Owner-Operator Indep.
+Drivers Ass’n v. Landstar Sys., 541 F.3d 1278 (11th Cir. 2008); Owner-Operator Indep.
+Drivers Ass’n v. United Van Lines, LLC, 556 F.3d 690 (8th Cir. 2009); Owner-Operator
+Indep. Drivers Ass’n v. Mayflower Transit, LLC, 615 F.3d 790 (7th Cir. 2010), cert.
+denied, 562 U.S. 1271 (2011). That section has been applied in contexts that would now
+fall under the majority’s expansive reading of the 180-day requirement. See, e.g., Richter
+v. N. Am. Van Lines, Inc., 110 F. Supp. 2d 406, 415 (D. Md. 2000) (allowing a shipper to
+sue a carrier for “overbooking [and] unreasonably overestimating shipment weight”);
+Grocery Haulers, Inc. v. C & S Wholesale Grocers, Inc., No. 11 CIV. 3130 DLC, 2012
+WL 4049955, at *11 (S.D.N.Y. Sept. 14, 2012) (unpublished) (applying a four-year
+statute of limitations to allegations of “fraudulent and deceptive business practices”).
+                                             5
+disputes involving a bill virtually guts all state causes of action, like those brought here,
+
+that allege a fraudulent scheme to overcharge customers. That is because, by their very
+
+nature, fraudulent schemes to overcharge are typically concealed from the customer.
+
+Here, it is alleged that YRC did not inform customers that it was no longer making
+
+downward adjustments to initial estimates, all the while continuing to make upward
+
+adjustments. Fatal to Southern Furniture’s claims, the majority holds, is the fact that the
+
+overcharges were reflected in the bills that Southern Furniture paid and failed to contest
+
+within 180 days. Yet customers like Southern Furniture only discovered that they had
+
+been allegedly overcharged once the qui tam action was released, years after they had
+
+paid the bills and long after 180 days has passed. Under the majority’s interpretation,
+
+then, the sort of fraud alleged in this case simply cannot be addressed by state statutory
+
+and common law, in contradiction to the language of § 13103 that expressly preserves
+
+such causes of action.
+
+       “Adhering to the fair meaning of the text (the textualist’s touchstone) does not
+
+limit one to the hyperliteral meaning of each word in the text. . . . The full body of a text
+
+contains implications that can alter the literal meaning of individual words.” Antonin
+
+Scalia & Bryan A. Garner, Reading Law: The Interpretation of Legal Texts 356 (2012)
+
+(footnote omitted). Such is the case here, where the scope of the 180-day limitation in
+
+the second sentence of § 13710(a)(3)(B) is defined by the first sentence. Accordingly, I
+
+would reverse the district court’s order granting YRC’s motion to dismiss and remand for
+
+further proceedings. I respectfully dissent.
+
+
+
+                                               6
+

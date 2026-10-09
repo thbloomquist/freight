@@ -1,0 +1,33 @@
+# R43 - The Five Competitive Forces That Shape Strategy
+- URL: https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy | Author: Michael E. Porter (Harvard Business School) | Year: 2008 (Harvard Business Review, January 2008; update of his 1979 HBR article) | Type: primary (practitioner essay by the framework's author) | Access: partial; the HBR page shows the dek and first paragraph (full text needs a subscription). Downloaded with curl (scratchpad `A/R43.txt`). | Accessed: 2026-09-14
+- Secondary sources consulted (not in study_links.md): Harvard Business School Institute for Strategy and Competitiveness (Porter's institute), "The Five Forces" page, https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx (read in full via curl; scratchpad `A/R43_isc.txt`).
+- Decision the resource addresses: segment or sub-market evaluation (structural attractiveness of an industry or sub-market). It is also relevant to market definition, meaning the scope of the relevant industry.
+
+## Strategies or frameworks described
+
+### Five forces analysis of industry structure and attractiveness
+- Origin and intended context: strategists in any industry; incumbents choosing positions and industries. *(verified)*
+- Mechanism and steps:
+  - HBR (verbatim): "Awareness of the five forces can help a company understand the structure of its industry and stake out a position that is more profitable and less vulnerable to attack." "In essence, the job of the strategist is to understand and cope with competition. Often, however, managers define competition too narrowly, as if it occurred only among today's direct competitors. Yet competition for profits goes beyond established industry rivals to include four other competitive forces as well: customers, suppliers, potential entrants, and substitute products. The extended rivalry that results from all five forces defines an industry's structure and shapes the nature of competitive interaction within an industry." *(verified)*
+  - ISC page, force by force (verbatim excerpts):
+    - New entrants: "The threat of entry, therefore, puts a cap on the profit potential of an industry. This threat depends on the size of a series of barriers to entry, including economies of scale, to the cost of building brand awareness, to accessing distribution channels, to government restrictions."
+    - Suppliers: "If there are only one or two suppliers of an essential input product ... or if switching suppliers is expensive or time consuming, a supplier group wields more power."
+    - Buyers: "Buyer power is highest when buyers are large relative to the competitors serving them, products are undifferentiated and represent a significant cost for the buyer, and there are few switching costs to shifting business from one competitor to another." "There may be multiple buyer segments in a given industry with different levels of power."
+    - Substitutes: "A substitute is another product or service that meets the same underlying need that the industry's product meets in a different way ... The threat of a substitute is high if it offers an attractive price-performance trade-off versus the industry's product, especially if the buyer's cost of switching to the substitute is low."
+    - Rivalry: "Rivalry tends to be especially fierce if: Competitors are numerous or are roughly equal in size and market position / Industry growth is slow / There are high fixed costs, which create incentives for price cutting / Exit barriers are high / Rivals are highly committed to the business / Firms have differing goals". *(verified)*
+- Criteria, inputs and data required: entry barriers, supplier concentration and switching costs, buyer size/concentration and switching costs, substitute price-performance, rivalry drivers (number and size distribution of competitors, growth, fixed costs, exit barriers).
+- Output produced: a judgement of industry profitability potential and of where to position. "A Five Forces analysis can help companies assess industry attractiveness, how trends will affect industry competition, which industries a company should compete in—and how companies can position themselves for success." *(verified: ISC)*
+- Assumptions, limitations, critiques (ISC): "Industry structure changes over time, and is not static ... Technological or managerial innovations can make new entry or substitution more or less likely." *(verified)* *Reader knowledge (unverified):* the 2008 article has a section on defining the relevant industry by product scope and geographic scope, and advises treating product or geographic areas with different structures as separate industries. That section was not read here.
+- Rationale and evidence base: "Industry structure, together with a company's relative position within the industry, are the two basic drivers of company profitability." *(verified: ISC)* Evidence: Porter's research program and authority; the pages cite no data.
+- Key quotes: as above.
+
+## Reader's judgement on relevance to a two-sided freight sub-market choice
+*Judgement:* in this project the five forces apply at two levels, and the process should keep them apart (reader inference):
+1. The customer's industry, i.e. the freight sub-market itself. For example, truckload carriers match several of the rivalry conditions verbatim: many roughly equal competitors, high fixed costs and cyclical growth. That squeezes carrier margins. Large shippers have buyer power over carriers and brokers.
+
+   This matters for the fee constraint. Where rivalry is fierce, savings a vendor creates for a carrier may be competed away and passed on to shippers over time. A fee taken from those savings is then more fragile than one taken from savings the customer can keep. So "who keeps the saving" should be a scored question.
+2. Our own software market. Entry barriers are the threat of new entrants and of incumbents copying us. Buyer power is concentrated large shippers negotiating fees down. Substitutes include spreadsheets, phone and email, broker-provided tools and incumbent TMS modules.
+
+"Multiple buyer segments ... with different levels of power" supports splitting the shipper side by size, which Agent B's fragmentation criteria (R20/R21) will also address. Kotler's "structural attractiveness" factor (R09) is this analysis applied at segment level. Porter's article is about incumbent industry analysis; it does not tell a start-up which sub-market to pick, only how to judge the structure of the ones it is comparing.
+
+## Read status: partial (HBR dek and opening paragraph; framework detail from Porter's own institute page; the industry-definition section not read)

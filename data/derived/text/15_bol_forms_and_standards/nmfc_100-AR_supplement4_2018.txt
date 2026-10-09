@@ -1,0 +1,1356 @@
+                                                                                   STB NMF 100-AR
+
+                                         ®
+
+
+National
+Motor Freight
+Classification ®
+
+
+Supplement 4 to NMF 100-AR
+(Supplements 1, 2, 3 and 4 contain all changes)
+
+
+
+Issued: November 29, 2018
+Effective: December 29, 2018
+(Except as otherwise provided herein)
+Expires: March 2, 2019
+
+
+
+Issued by:
+Joel L. Ringer, Issuing Officer
+National Motor Freight Traffic Association, Inc., Agent
+1001 North Fairfax Street, Suite 600, Alexandria, VA 22314
+www.nmfta.org
+703.838.1810
+
+
+
+
+For subscription information, call NMFTA Customer Service at 1.866.411.NMFC (6632).
+©2018 National Motor Freight Traffic Association, Inc.
+All rights reserved. No part of this publication may be used or reproduced in any manner
+whatsoever without the written permission of National Motor Freight Traffic Association, Inc.
+Carriers and other transportation companies who use or refer to any provisions of the National
+Motor Freight Classification ® are required to be bona fide participants in the Classification.
+                                                                                SUPPLEMENT 4 TO NMF 100-AR
+
+
+
+
+                                                                           TABLE OF CONTENTS
+                                 SUBJECT                                                                                                                                                     PAGE(S)
+
+    Participating Member Interstate Carriers ......................................................................................................................................... 1
+    Participating Member Intrastate Carriers ......................................................................................................................................... 1
+    Participating Freight Forwarder Licensees....................................................................................................................................... 1
+    Participating Broker Licensees ........................................................................................................................................................ 1
+    Cumulative List of Items and Numbered Packages in Supplements ............................................................................................. 2-3
+    Index to Articles ............................................................................................................................................................................ 4-5
+    Rules........................................................................................................................................................................................... 6-11
+    Documents and Governing Rules for Tendering Shipments ..................................................................................................... 12-13
+    Classification of Articles ............................................................................................................................................................ 14-19
+    Specifications for Numbered Packages ......................................................................................................................................... 20
+    Procedures Governing Interline Settlements ................................................................................................................................. 21
+    Explanation of Abbreviations and Reference Marks ...................................................................................................................... 22
+
+
+
+
+                                                                                             Issued by
+
+                                                                                        Joel L. Ringer
+                                                                                          Issuing Officer
+
+                                                  National Motor Freight Traffic Association, Inc., Agent
+                                                           1001 North Fairfax Street, Suite 600
+                                                               Alexandria, Virginia 22314
+
+                                                                             Telephone — 703.838.1810
+                                                                                    Fax — 703.683.1094
+                                                                              Email — ccsb@nmfta.org
+                                                                             Website — www.nmfta.org
+
+
+
+
+                                   Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+i                                For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                                         SUPPLEMENT 4 TO NMF 100-AR
+
+                                                   PARTICIPATING MEMBER INTERSTATE CARRIERS
+         The following NMFTA member carriers are participants in or licensed to participate in this Classification for interstate, intrastate and foreign
+commerce under authority of powers of attorney issued to National Motor Freight Traffic Association, Inc., Agent or licenses issued by the National
+Motor Freight Traffic Association, Inc. The provisions of this Classification are limited to intrastate application within the states where the carrier is
+authorized to operate.
+                                                                                                                                                    U.S. DOT
+   SCAC                                           CARRIER NAME and DOMICILE                                                                                  MC Number
+                                                                                                                                                    Number
+  CAZF       Central Arizona Freight, LLC, Chandler, AZ ......................................................................................... 1103909     454425
+  GWDB Gateway Distribution, Inc., Cincinnati, OH ...............................................................................................  561161    237379
+  LAEA Land Air Express, North East Freightways, Inc., d/b/a, Williston, VT ........................................................               829847    367873
+  USBD U S CityLink Corporation, Bakersfield, CA ............................................................................................... 1754395     641916
+
+                                                   PARTICIPATING MEMBER INTRASTATE CARRIERS
+          The following NMFTA member carriers are participants in or licensed to participate in this Classification for intrastate commerce under
+authority of powers of attorney issued to National Motor Freight Traffic Association, Inc., Agent or licenses issued by the National Motor Freight Traffic
+Association, Inc. The provisions of this Classification are limited to intrastate application within the states where the carrier is authorized to operate.
+                                                                                                                                                                                     U.S. DOT
+   SCAC                                                        CARRIER NAME and DOMICILE
+                                                                                                                                                                                     Number
+  ABMR Artesia Building Materials, Inc., Artesia, CA ........................................................................................................................      2645220
+  ROLW Rolo Transport, Miramar, FL ............................................................................................................................................... 1643722
+
+                                                  PARTICIPATING FREIGHT FORWARDER LICENSEES
+        The following freight forwarders are licensed to participate in this Classification under authority of powers of attorney issued to National Motor
+Freight Traffic Association, Inc., Agent or licenses issued by the National Motor Freight Traffic Association, Inc.
+                                                                                                                                             U.S. DOT
+   SCAC                                            CARRIER NAME and DOMICILE                                                                          FF Number
+                                                                                                                                             Number
+  CPWS Crate Pros, Birk Industries LLC, d/b/a, Lebanon, TN ............................................................................... 3160497   FF27310
+
+                                                              PARTICIPATING BROKER LICENSEES
+          The following interstate brokers are licensed to participate in this Classification under authority of powers of attorney issued to National Motor
+Freight Traffic Association, Inc., Agent or licenses issued by the National Motor Freight Traffic Association, Inc. The participation of each broker named
+herein is limited, on interstate, intrastate and foreign commerce, to provisions of this Classification applying on the articles and commodities for which
+the broker is authorized to arrange transportation.
+                                                                                                                                                                U.S. DOT MC or FF
+   SCAC                                              BROKER NAME and DOMICILE
+                                                                                                                                                                Number   Number
+  DEVF Delvi Inc, Miami, FL ................................................................................................................................. 2842327   952153
+  FMTP         Farmore Transportation Services, Inc., Corona, CA ............................................................................. 2229388                   434520
+  REPA         Republic Logistic Services, Elk Grove, CA ........................................................................................... 2235187             539754
+
+
+
+
+                               Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                             For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                                                          1
+                                                  SUPPLEMENT 4 TO NMF 100-AR
+                    CUMULATIVE LIST OF ITEMS AND NUMBERED PACKAGES IN SUPPLEMENTS
+                       Listed below are items and numbered packages that have been added, amended or brought
+                                     forward in this supplement and previous supplements.
+    ITEM   SUP          ITEM        SUP         ITEM         SUP         ITEM        SUP          ITEM        SUP         ITEM      SUP
+   110-A   4          39232-A        4        48585          2       63570           2       106980-A         4       137470      2
+   183-B   2          39315-A        1         48930-A        2       63571           2       107700-A         2       137471      2
+   360-A   4          39317-A        1         49285-A        2        65540-A         1       107780-A         4        138980-A    2
+   680-A   4          39730-A        2         49290-A        2       66860           1       109530-A         2        139000-A    2
+ 15510-A   2          40510-A        1         49390-A        2       67050           4       109550-A         2        148100-A    2
+ 15512-A   2          42380-A        2         49391-A        2       67051           4       109600-A         2        152800-A    4
+ 15520-B   4         42381          2         49505-A        2       67052           4       109604-A         2        153900-A    4
+ 15522-B   4          42382-A        2         49507-A        2        67060-A         4       109610-A         2        153901-A    4
+ 15523-B   4          42604-A        4         49880-A        2        67061-A         4       109612-A         2        153902-A    4
+ 15524-B   4          43020-A        4         49881-A        2        67070-A         4       109700-A         2        154990-A    2
+ 15525-B   4          43050-A        4         49885-A        2        67072-A         4       109701-A         2        156300-A    4
+ 15710-A   1          43051-A        4         49886-A        2        67075-A         4       109702-A         2        156302-A    4
+16835     2          43052-A        4         49940-A        2        69095-A         4       109703-A         2        156303-A    4
+16836     2          43055-A        4        49941          2        69096-A         4       109704-A         2        156304-A    4
+ 16840-A   2          43100-A        4         50170-A        4       69097           4       109705-A         2        156600-A    4
+ 17300-A   2          43480-A        4        50171          4        69420-B         2       109706-A         2        156602-A    4
+ 17301-A   2          43520-A        1         50270-A        4        69422-B         2      109850           2        156603-A    4
+ 18260-A   1          43525-A        1         50272-A        4        69423-A         2       113410-A         2        156604-A    4
+ 18262-A   1          43526-A        1         52895-A        1        69463-A         1       113415-A         2        156940-A    4
+ 18265-A   1          43790-A        4         52896-A        1        69465-A         2       114090-A         1       158905      1
+ 18266-A   1          44580-A        4         56710-A        2        69466-A         1       115030-A         4       158906      1
+ 18267-A   1          44640-A        4        56711          2        69467-A         1       115031-A         4       158907      1
+18268     1         45463          4         56714-A        2        69470-A         2       116030-A         1       158908      1
+ 19070-A   2         45464          4         56834-A        2        69900-A         2       116031-A         1        159010-A    1
+ 23600-A   1         45467          4         56836-A        2        75100-A         1       116033-A         1       159011      1
+ 24330-A   2         45468          4         56910-A        4       75101           1       116034-A         1        159370-A    1
+ 24332-A   2          45740-A        4        56911          4        80220-A         2      116035           1        159371-A    1
+ 24350-A   2          45820-A        4         56950-A        4        80550-A         1      116036           1        159410-A    1
+ 25045-A   2          45830-A        4         59000-A        1        80580-A         1      116037           1        159412-A    1
+ 25920-A   1          45840-A        4         59363-A        2        80581-A         1       119540-A         2        159420-A    1
+ 25925-A   1          45845-A        4         59364-A        2        80582-A         1       123140-A         1        164390-B    4
+ 25926-A   1          46250-A        4         60000-A        2        80583-A         1      123150           1        164391-B    4
+ 25927-A   1          46410-A        4         60002-A        2        80584-A         1       123270-A         1        164392-A    1
+25928     1          46490-A        4         60004-A        2        82844-A         4       123271-A         1        164393-B    4
+ 27980-A   2          46500-A        4         61330-A        1        84200-A         1      123272           1       164394      4
+ 27990-A   2          46740-A        4         61331-A        1        84220-A         1       123275-A         1        168810-A    2
+ 28000-A   2          47560-A        1         61900-A        4        84240-A         1       123276-A         1        177240-A    1
+ 28080-A   1          47570-A        1         61902-A        4        84260-A         1       123550-A         4        182120-A    1
+ 28160-A   4          47580-A        1         61904-A        4        84261-A         1       123551-A         4        182121-A    1
+ 28380-A   1          47582-A        1        61910          4        98110-A         4      123552           4        182122-A    1
+28390     1          47590-A        1        61911          4       100590-A         4      123553           4       184960      4
+28391     1          47600-A        1         61920-A        4       101715-A         1       123760-A         1       184961      4
+ 28400-A   1         48395          2         61922-A        4       101740-A         1       125750-A         2        184970-A    4
+ 28540-A   1          48505-A        2         61924-A        4      101741           1       126157-A         4        184975-A    4
+ 36820-A   2          48580-A        2         62262-A        2       101742-A         1       131650-A         2        184980-A    4
+ 36822-A   2          48581-A        2         62270-A        2       101743-A         1       131670-B         2        184982-A    4
+36823     2          48582-A        2        62271          2       101744-A         1       131672-B         2        184985-A    4
+ 36824-A   2          48583-A        2         63300-A        2       101800-A         1       131673-B         2        184990-A    4
+ 39230-A   4          48584-A        2         63303-A        2       101801-A         1       131674-B         2        184991-A    4
+
+                   Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+2                For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                        SUPPLEMENT 4 TO NMF 100-AR
+                          CUMULATIVE LIST OF ITEMS AND NUMBERED PACKAGES IN SUPPLEMENTS
+                              Listed below are items and numbered packages that have been added, amended or brought
+                                            forward in this supplement and previous supplements.
+      ITEM       SUP          ITEM        SUP      PACKAGE         SUP      PACKAGE        SUP       PACKAGE        SUP       PACKAGE   SUP
+     190225-A    1       190236           1            214         2           2227         4           2394         4        2542     4
+     190230-A    1        195910-A         2            256         2           2334         4           2481         4
+     190235-A    1        400500-A         4           2163         4           2370         4           2490         1
+-A           1
+
+
+
+
+                         Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                       For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018               3
+                                                                              SUPPLEMENT 4 TO NMF 100-AR
+                                                                                      INDEX TO ARTICLES
+
+             Article                                      Item                  Article                                      Item                   Article                                      Item
+
+                                A                                                                   F                                                                  M
+BAmmonium Nitrate .............................. 43020              Fans:                                                              Mats:
+BAmmonium Perchlorate, offered for                                    CElectric, NOI ..................................... 61910         CBathtub, plastic or rubber................ 156600
+  transportation as a Hazard Class 5,                                 CExhaust, electric ............................... 61910           CDrainboard, plastic or rubber .......... 156600
+  Division 5.1 ........................................ 43050         CVentilating, electric ........................... 61910           CShower stall, plastic or rubber ........ 156600
+BAmmonium Perchlorate, offered for                                  Feed:                                                                CSink, plastic or rubber ..................... 156600
+  transportation as a Hazard Class 1,                                 BAnimal, prepared, NOI, not frozen .... 67060                      CStove protector, plastic or rubber .... 156600
+  Division 1.1 ........................................ 64300         AAnimal, prepared, NOI, other than                               AMedicinal Feeding Compounds or
+BAmmonium Persulfate ........................ 43055                       frozen ............................................. 67050     Preparations, animal, fish or
+BAmmonium Sulfate Nitrate ................. 43100                     BFish, prepared, NOI, not frozen ........ 67060                    poultry, other than frozen and not
+BAnimal Feed, prepared, NOI, not                                      AFish, prepared, NOI, other than                                   required by DOT to bear a Hazard
+  frozen ................................................. 67060          frozen ............................................. 67050     Class or Hazard Division label ......... 67050
+AAnimal Feed, prepared, NOI, other                                    APet (Pet Food), prepared, NOI,                                  Molds:
+  than frozen ........................................ 67050              other than frozen ............................ 67050           ABaking, paper ................................. 153900
+                                                                      BPoultry, prepared, NOI, not frozen .... 67060
+                                B                                     APoultry, prepared, NOI, other than                                                              O
+Backs:                                                                    frozen ............................................. 67050   AOrganic Peroxides, NOI, other than
+   BChair, laminated ............................... 82844          BFeed Supplements, animal, fish or                                   toxic ................................................... 45463
+BBenzoyl Peroxide ................................ 43480              poultry, not frozen..................67070, 67075                AOxidizers, NOI, other than toxic ......... 45467
+Block(s):                                                           AFeed Supplements, animal, fish or
+   BHat ................................................... 98110     poultry, other than frozen and not                                                               P
+Briquettes:                                                           required by DOT to bear a Hazard
+                                                                      Class or Hazard Division label ......... 67050                   Pellets:
+   BSponge iron.................................... 106980                                                                                BSponge iron, having value only for
+                                                                    BFeeding Compounds or
+                                C                                     Preparations, condimental or                                           melting purposes .......................... 106980
+                                                                      medicinal, animal, fish or poultry,                              APet Food, prepared, NOI, other than
+Cabinets:                                                             not frozen ...............................67070, 67075              frozen ................................................. 67050
+  BBathroom ......................................... 39230         AFeeding Compounds or                                              BPotassium Chlorate ............................ 45740
+  ABathroom medicine or toilet, other                                 Preparations, condimental or                                     BPotassium Nitrate................................ 45820
+     than plastic ..................................... 39230         medicinal, animal, fish or poultry,                              BPotassium Perchlorate ....................... 45830
+  BMedicine........................................... 39230          other than frozen and not required                               BPotassium Permanganate................... 45840
+  AMedicine, bathroom, other than                                     by DOT to bear a Hazard Class or                                 BPotassium Persulfate .......................... 45845
+     plastic ............................................. 39230      Hazard Division label ........................ 67050             BPoultry Feed, prepared, NOI, not
+  BSpice, wood, containing glass                                    BFish Feed, prepared, NOI, not frozen . 67060                         frozen ................................................. 67060
+     bottles or jars................................ 100590         AFish Feed, prepared, NOI, other than                              APoultry Feed, prepared, NOI, other
+  BToilet ................................................ 39230      frozen ................................................. 67050      than frozen......................................... 67050
+  AToilet, bathroom, other than plastic... 39230                    Food(s):                                                           Preparations:
+BCalcium Nitrate.................................... 43790            APet, prepared, NOI, other than                                     BFeeding, condimental or
+BChili Saltpetre ...................................... 46410             frozen ............................................. 67050         medicinal, animal, fish or
+Compound(s):                                                                                                                                 poultry, not frozen ................67070, 67075
+  BCondimental feeding, animal, fish or                                                            G                                      AFeeding, condimental or medicinal,
+     poultry, not frozen................ 67070, 67075                                                                                        animal, fish or poultry, other than
+  BFeeding, condimental or medicinal,                               BGuanidine Nitrate ................................ 44580                frozen and not required by DOT to
+     animal, fish or poultry, not                                                                  H                                         bear a Hazard Class or Hazard
+     frozen .................................. 67070, 67075                                                                                  Division label .................................. 67050
+  AFeeding, condimental or medicinal,                               BHydrogen Dioxide ............................... 44640
+     animal, fish or poultry, other than                            BHydrogen Peroxide ............................. 44640                                             R
+     frozen and not required by DOT to                                                                                                 Racks:
+     bear a Hazard Class or Hazard                                                                  J
+                                                                                                                                         ASpice .............................................. 164390
+     Division label .................................. 67050        Jacks:                                                               BSpice, wood, containing glass
+  BFloor sweeping ................................. 50170             BAutomobile servicing, hydraulic,                                     bottles or jars ................................ 100590
+  AFloor sweeping, other than                                            wheeled........................................ 184980
+     disinfectant ..................................... 50170         BCantilever, pneumatic or ratchet,                                                               S
+  BMedicinal feeding, animal, fish or                                    NOI, not wheeled.......................... 184970
+     poultry, not frozen................ 67070, 67075                                                                                  BSaltpetre .............................................. 45820
+                                                                      BHydraulic, other than cantilever, not                           BSaltpetre, chili ..................................... 46410
+  BOil absorption ................................... 50270              wheeled........................................ 184975
+  ASpill absorption, other than                                                                                                        Sets:
+                                                                      ALifting, NOI, hydraulic, mechanical                               BOxygen administration ...................... 56910
+     disinfectant ..................................... 50170            or pneumatic ................................ 184960
+ACondimental Feeding Compounds                                                                                                           AOxygen administration,
+                                                                      BLifting, NOI, wheeled ...................... 184990                   consisting of oxygen in steel
+  or Preparations, animal, fish or                                    BTrailer tongue lifting, worm gear
+  poultry, other than frozen and not                                                                                                         cylinders not over 240 cu. in.
+                                                                         driven, wheeled ............................ 184985                 capacity, plastic tubing and
+  required by DOT to bear a Hazard                                  AJackscrews, lifting, NOI, hydraulic,
+  Class or Hazard Division label ......... 67050                                                                                             plastic administering mask.............. 56910
+                                                                      mechanical or pneumatic ............... 184960                   BSodium Chlorate ................................. 46250
+Cups:                                                               BJackscrews, NOI, not wheeled ......... 184970
+  CBaking, paper ................................. 153900                                                                              BSodium Nitrate .................................... 46410
+                                                                    BJackscrews, NOI, wheeled ................ 184990                  BSodium Permanganate ....................... 46490
+  CCandy, paper.................................. 153900
+  BCharlotte russe, paper .................... 152800                                               L                                  BSodium Peroxide ................................. 46500
+                                                                                                                                       ASpice Racks ....................................... 164390
+                                                                    BLeunsaltpeter ...................................... 43100        BStrontium Nitrate ................................. 46740
+                                                                    Liners:                                                            Substitute(s):
+                                                                       ABaking, paper ................................. 153900           BJapan wax ...................................... 107780
+
+
+
+                                  Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+  4                             For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                                  SUPPLEMENT 4 TO NMF 100-AR
+                                                                         INDEX TO ARTICLES
+
+           Article                                  Item            Article                                Item     Article        Item
+
+Supplements:                                                 AFeed, animal, fish or poultry, other
+  BFeed, animal, fish or poultry, not                          than frozen and not required by
+     frozen ................................. 67070, 67075     DOT to bear a Hazard Class or
+                                                               Hazard Division label ...................... 67050
+
+
+
+
+                              Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                            For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018      5
+                                                             SUPPLEMENT 4 TO NMF 100-AR
+                                                                            RULES
+
+ITEM 110-A
+                    DEFINITIONS AND EXPLANATIONS OF TERMS, PUNCTUATION AND REFERENCES
+     The following definitions will apply when such terms are used in this Classification or in tariffs governed by this Classification. When different
+definitions are provided for the same terms in connection with rates, classes, rules or other provisions, such definitions will take precedence.
+     Sec. 1. ‘Carrier,’ ‘Consignee,’ ‘Consignor’ or ‘Shipper’ includes the authorized representatives or agents of such ‘carrier,’ ‘consignee,’ ‘consignor’
+or ‘shipper.’
+     Sec. 2. ‘Truck’ or ‘Vehicle’ means any vehicle or vehicles propelled or drawn by a power unit and used on highways in the transportation of property.
+     Sec. 3. (a) ‘Point’ means a particular city, town, village, community or other area which is treated as a unit for the application of rates.
+     Sec. 3. (b) ‘Place’ means a particular street address or other designation of a factory, store, warehouse, place of business, private residence,
+construction location or the like, at a point.
+     Sec. 3. (c) ‘Site’ means a particular platform or specific location for loading or unloading at a place.
+     Sec. 3. (d) ‘Address’ means a particular street address (not a U.S. Post Office Box Number) where street address is available and must include
+the Post Office ZIP Code.
+     Sec. 4. Explanation of the words ‘Rate’ and ‘Class’:
+     Sec. 4. (a) ‘Rate’ means the figure stated in cents, dollars and cents, or fractions thereof, to be used in computing the charge on property transported.
+     Sec. 4. (b) ‘Class’ means the number assigned to an article or group of articles in this Classification or in exceptions thereto, for the purpose of
+determining the applicable rate.
+     Sec. 5. Unless otherwise provided in carriers’ tariffs, a ‘shipment’ consists of a tender of freight to a carrier by a consignor at one place at one
+time for delivery to a consignee at one place at one time on one bill of lading.
+     Sec. 5. (a) A ‘prepaid shipment’ is one on which the charges for transportation service rendered at the request of the consignor, including charges
+for any accessorial services performed at the request of the consignor, are to be paid by the consignor.
+     Sec. 5. (b) A ‘collect shipment’ is one on which the charges for transportation service, including accessorial services rendered at the request of
+the consignee, or requested by the consignor for the consignee, are to be paid for by the consignee.
+     Sec. 6. Unless otherwise provided, the term ‘Handling Unit’ or ‘Shipping Unit’ refers to each piece or unit of freight tendered to the carrier for
+shipment that requires or promotes separate handling. Such piece or unit may consist of a loose article, an article or articles in a package, or an article
+or articles palletized or unitized for shipment in such a manner as to allow loading and unloading as a single piece or unit. Unitization includes, but is
+not limited to, the consolidation of individual packages or pieces by means of banding, strapping, wrapping or master packing, with or without lift truck
+skids or pallets. Where articles are unitized for shipment, the term ‘handling unit’ or ‘shipping unit’ does not refer to the individual packages or pieces
+so unitized, but rather to the complete unit as tendered.
+     Sec. 7. Explanation of the words ‘and’ and ‘or’ and the use of Parentheses:
+     Sec. 7. (a) ‘And’ is used to couple the terms between which it appears.
+     Sec. 7. (b) ‘Or’ provides for alternation or use of either or both of the terms between which it appears.
+     Sec. 7. (c) As used in the description of articles, the term appearing between parentheses constitutes another description of the identical article
+immediately preceding the parentheses.
+     Sec. 8. ‘Density.’ Where classes are based on the density of articles as tendered for shipment, the word ‘density’ refers to the actual density of the
+articles shipped, as measured in pounds per cubic foot.
+     Sec. 8. (a) To determine the density of a handling unit, first determine the cubage of the handling unit by multiplying the greatest straight-line
+dimensions of length, width and height (depth) in inches, including all projections, if any, as tendered to the carrier for shipment, and dividing the total
+by 1,728 cubic inches (one cubic foot). The density is the result of the division of the weight of the handling unit as tendered for shipment by the cubic
+feet. For instance, the density of a handling unit consisting of boxes unitized on a lift truck pallet measuring 48" x 40" x 45" and weighing 450 pounds is
+determined as follows: 48" x 40" x 45" = 86,400 cubic inches; 86,400 ÷ 1,728 = 50 cubic feet; 450 lbs. ÷ 50 = 9.00 pounds per cubic foot (pcf).
+     Sec. 8. (b) To determine the density of a cylindrical-shaped handling unit, square the greatest dimension on the cylindrical plane by multiplying the
+dimension by itself in inches and then multiplying that result by the height or length. Divide the result by 1,728 cubic inches. The density is the result of
+the division of the weight of the handling unit by the cubic feet.
+     Sec. 8. (c) Where articles are unitized on lift truck pallets, platforms, racks or skids, the pallet, platform, rack or skid constitutes an integral part of
+the handling unit, and except as provided in Item 640, Sec. 3 (b), must be included in the computation of density.
+     Sec. 8. (d) Unless otherwise provided, where a shipment consists of multiple handling units the density shall be calculated on each handling unit,
+except that where shipping papers show only a total weight for all handling units tendered the density may be calculated by using the total weight and
+the total cube.
+     Sec. 9. Indentations: Where any part of the description of an article is found set away from the left margin in a position subordinate to the text
+preceding it, the description is to be read with its context and particularly with the preceding text, heading or headings. The effect of its position upon the
+meaning of a description should be carefully observed. Example: Item 42600, ‘Chemicals Group,’ controls items 42605 through 47430. Item 42670,
+‘Alcohols, NOI,’ being further indented, is governed by the description just above it in item 42660.
+     Sec. 10. Unless otherwise provided, where individual items designate an article as being ‘enameled,’ the term means porcelain or vitreous enamel.
+     Sec. 11. The terms ‘in the rough,’ ‘rough turned,’ ‘in the white’ and ‘finished,’ as defined in this rule are used to describe articles constructed of
+wood.
+     Sec. 11. (a) ‘In the rough’ or ‘rough turned’ means that the articles are not further manufactured than sawed, hewn, planed, bent or turned.
+     Sec. 11. (b) ‘In the white’ means that the articles are further manufactured than as provided for in Sec. 11(a), but including not more than one coat
+of priming.
+     Sec. 11. (c) ‘Finished’ means that the articles are further manufactured than as provided for in Sec. 11(b).
+     Sec. 12. Definitions of, or meaning for, various forms of shipment:
+     Sec. 12. (a) ‘SU’ (Set Up) means articles in their assembled condition or articles that are tendered for shipment disassembled, folded or telescoped
+but do not meet the conditions described in Sec. 12, paragraphs (b) through (d). Where an article does meet the conditions described in Sec. 12,
+paragraphs (b) through (d), but such provisions are not published in the applicable item description, the SU class will apply.
+     Sec. 12. (b) ‘SU in sections’ or ‘In SU Sections’ means articles taken apart in sections regardless of bulk or cubage, except that where other forms
+of shipment are provided in the same item and the meaning for such forms of shipment as described in Sec. 12, paragraphs (c) or (d) is complied with,
+the classes for such other forms of shipment will apply.
+     Sec. 12. (c) ‘KD’ (Knocked Down) means that an article must be taken apart, folded or telescoped in such a manner as to reduce its bulk at least
+331 3 percent from its normal shipping cubage when set up or assembled.
+     Sec. 12. (d) ‘KD flat’ means that an article must be taken apart, folded or telescoped in such a manner as to reduce its bulk at least 662 3 percent
+from its normal shipping cubage when set up or assembled.
+
+                                                                (Continued on following page)
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+ 6                      For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                            SUPPLEMENT 4 TO NMF 100-AR
+                                                                          RULES
+
+ITEM 110-A-Continued
+     Sec. 12. (e) ‘Folded’ means that the article is folded without regard to reduction of shipping cubage.
+     Sec. 13. (a) ‘Nested’ means that three or more different sizes of an article must be placed each smaller within the next larger or that three or more
+of the same articles must be placed one within the other so that each upper article must not project above the next lower article by more than one-third
+of its height.
+     Sec. 13. (b) ‘Nested solid’ means that three or more of the same articles must be placed one within or upon the other so that the outer side surfaces
+of the one above will be in contact with the inner surfaces of the one below and so that each upper article will not project above the next lower article by
+more than 1 4 inch.
+     Sec. 13. (c) Classes provided for ‘nested’ articles will not apply when articles of different name or material are nested or placed one within the
+other, regardless of whether they are grouped in one description or shown separately.
+     Sec. 14. ‘Iron’ as used in the description of an article includes ‘Steel’ and vice versa, and unless otherwise specified, these terms also include
+‘Stainless Steel’ or ‘Alloy Steels’ containing less than 50 percent nonferrous metals.
+     Sec. 15. Unless otherwise specifically provided:
+     Sec. 15. (a) The word ‘rubber’ refers to natural or synthetic rubber or rubber compounds and does not apply on articles made of plastic.
+     Sec. 15. (b) The word ‘foam’ used in conjunction with ‘rubber’ or the words ‘foam rubber’ refers to cellular rubber produced by the introduction of
+gas or air into latex and vulcanizing and does not apply on articles made of foam or expanded plastic.
+     Sec. 15. (c) The word ‘sponge’ used in conjunction with ‘rubber’ or the words ‘sponge rubber’ refers to cellular rubber produced by the introduction
+of gas or air into nonliquid rubber and vulcanizing and does not apply on articles made of expanded plastic.
+     Sec. 15. (d) The word ‘plastic’ or ‘plastics’ refers to materials consisting of, or articles made from, synthetic gums or resins, cellulose derivatives,
+casein solids, coal tar or petroleum resins or rubber hydrochloride, with or without inert fillers, see Note, and whether or not reinforced or laminated with
+fibers, glass flakes or with macerated or sheet paper or fabric.
+     Note—The term ‘fillers’ refers to organic or inorganic materials in finely divided or fibrous form (ground, chopped or pulverized) used to produce
+desired physical, chemical or electrical properties of finished materials or articles. Examples of fillers are:
+     Alpha cellulose                                      Earths                                          Soybean meal
+     Asbestos                                             Glass fibers                                    Synthetic fibers
+     Carbon black                                         Mica                                            Vegetable fibers
+     Cotton flock                                         Nut shell flour                                 Wood flour
+     Sec. 15. (e) The following phrases refer to the product produced by gelatinizing cellulosic paper with a chemical solution. The phrases do not apply
+nor refer to materials or articles of plastic and fiber construction:
+     Chemically hardened fiber                                                    Indurated fiberware
+     Chemically hardened fiberware                                                Indurated paper
+     Chemically hardened paper                                                    Indurated pulpboard
+     Chemically hardened pulpboard                                                Vulcanized fiber
+     Indurated fiber                                                              Vulcanized fiberware
+     Sec. 16. Not currently used.
+     Sec. 17. Where in the separate descriptions of articles the words ‘fiberboard,’ ‘pulpboard’ or ‘paperboard’ are used, they are interchangeable
+and whenever any is used all are included.
+     Sec. 18. Unless otherwise provided, the word ‘interlaced’ means that three or more of the same size article must be packed in such a manner as
+to reduce the package cubage (outside dimensions) at least 331 3 percent from the package cubage (outside dimensions) required for the same number
+of articles not interlaced.
+     Sec. 19. Explanation of ‘blister packed,’ ‘skin packed’ and ‘card mounted’:
+     Sec. 19. (a) ‘Blister Packed’ means that the article is contained in a preformed, thermoformed plastic receptacle (blister) which is affixed to a
+fiberboard or paperboard card backing. The ‘blister’ may or may not be shaped to the contours of the article.
+     Sec. 19. (b) ‘Skin Packed’ means that the article is placed on a fiberboard or paperboard card and is covered by a thin, thermoformed plastic sheet,
+which is pulled tightly around the article, essentially conforming to the shape of the article and firmly securing the article to the card.
+     Sec. 19. (c) ‘Card Mounted’ means that the article is attached to a fiberboard or paperboard card backing by means of staples, tape, wire ties or
+other mechanical fastening methods.
+     Sec. 20. The terms ‘Not taken’ or ‘Not accepted’ mean that the described article or articles will not be accepted for shipment nor as premiums
+accompanying other articles.
+     Sec. 21. Unless otherwise provided, the term ‘United Inches’ is defined as the sum of the length, width and height (depth) of the article as packaged
+for shipment.
+     Sec. 22. Unless otherwise provided, the provisions for ‘Scrap’ will only apply on fragments, scraps or pieces of material that are useless for any
+purpose other than remelting or the reclamation of raw materials. Such provisions will not apply on articles shipped in their original form, including used
+articles or defective articles being returned to the manufacturer for credit.
+     Sec. 23. Unless otherwise provided, the term ‘Greatest Dimension’ refers to the longest straight-line dimension of the handling unit as tendered
+for shipment.
+
+
+ITEM 360-A
+                             BILLS OF LADING, FREIGHT BILLS AND STATEMENTS OF CHARGES
+    See pages 12-13 of this Supplement.
+
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                               7
+                                                             SUPPLEMENT 4 TO NMF 100-AR
+                                                                           RULES
+
+ITEM 680-A
+                                                   PACKING OR PACKAGING—GENERAL
+                                                                                 General
+     Sec. 1. (a) The separate descriptions of articles provide the minimum, acceptable packaging requirements, see Note 1. Numbered packages or
+other packaging provisions (other than 'DOT Specification Number' packages, for which, see DOT's hazardous materials regulations) are authorized for
+use only when item descriptions contain reference thereto. The definitions of or specifications for packaging requirements are provided in: (1) Items 200
+through 299, (2) numbered packages and (3) Note references. The minimum requirements notwithstanding, articles must be tendered for shipment in
+such a manner as to withstand the normal rigors of the less-than-truckload environment. Whether or not part of the specific requirements, protective
+packing forms or other packaging materials must be used where necessary to afford adequate protection against damage to the articles being shipped.
+Articles or articles and necessary interior packing forms must reasonably occupy the full cubic capacity of the outer shipping container, see Notes 2(a),
+3 and 4. ]Articles unitized or secured on lift truck skids, pallets or platforms must reasonably occupy the full surface area of the lift truck skid, pallet or
+platform, see Note 2(b) ]and (c).
+     Note 1—The term 'packaging requirements' as used in this Classification or in tariffs governed thereby means the provisions which specify: (1) the
+kinds or specifications of the containers, packages or other manner in which the articles shall be packed or protected for shipment, and (2) how the
+articles shall be packed or protected by or within such containers, packages or other manner.
+     Note 2—
+         (a) Reasonable Occupancy of Shipping Container. Unless otherwise provided, commodities in shipping containers (not containers within
+containers) shall be deemed to be in compliance when filled to not less than 65 percent of the capacity of such containers. When filled to less than 65
+percent of capacity, the gross weight of the container and its contents will be subject to the class applicable to either the container or its contents,
+whichever is higher.
+         (b) Reasonable Occupancy of Lift Truck Skid, Pallet or Platform Deck. Unless otherwise provided, ]and except as permitted in paragraph
+(c), commodities unitized or secured on lift truck skids, pallets or platforms shall be deemed to be in compliance when occupying not less than 65 percent
+of the full surface area (deck) of the lift truck skid, pallet or platform. ]The surface area occupied shall be determined by multiplying the greatest straight-
+line dimensions of length and width of the commodity(ies). Banding, strapping, wrapping or other materials used for securement to the lift truck skid,
+pallet or platform will not be considered in the determination of occupancy. When less than 65 percent of the surface area of the lift truck skid, pallet or
+platform is occupied, the gross weight of the lift truck skid, pallet or platform and the commodity(ies) unitized or secured thereon will be subject to the
+class applicable to either the lift truck skid, pallet or platform or the commodity(ies), whichever is higher.
+              Any part of the commodity(ies) shipped that may overhang the lift truck skid, pallet or platform will not be used in determining occupancy of
+the surface area, but will be used in the computation of density. (See Item 110, Sec. 8-8(d).)
+         ](c) Maximum Allowable Dimensions of Lift Truck Skids, Pallets or Platforms for ‘Potentially Unstable Commodities.’ For the purpose
+of this rule, commodities having an overall height 1.5 times or more their shortest base dimension shall be considered potentially unstable. For such
+commodities, the lift truck skid, pallet or platform may be of sufficient size to provide adequate stability. The maximum allowable dimensions of the lift
+truck skid, pallet or platform are determined using the following formulas.
+
+                                    The Maximum Allowable Length is the larger result of the following calculations:
+
+                                          Maximum Allowable Length (in) = Commodity’s(ies’) Height (in) x 0.67
+                                                                         OR
+                                         Maximum Allowable Length (in) = Commodity’s(ies’) Length (in) + 12 (in)
+
+                                     The Maximum Allowable Width is the larger result of the following calculations:
+
+                                          Maximum Allowable Width (in) = Commodity’s(ies’) Height (in) x 0.67
+                                                                         OR
+                                          Maximum Allowable Width (in) = Commodity’s(ies’) Width (in) + 12 (in)
+
+          If the lift truck skid, pallet or platform exceeds the maximum allowable length or width, as calculated above, the gross weight of the handling unit
+will be subject to the class applicable to either the lift truck skid, pallet or platform or the commodity(ies) being shipped, whichever is higher.
+     Note 3—Unless otherwise provided, reels, spools or flanged cores used as shipping containers which are not filled to equal or exceed their weight
+with a product, will be charged for at the class applicable to the empty spool, reel or flanged core. Reels, spools or flanged cores filled with a product
+equal to or exceeding the weight of the reel, spool or flanged core will be charged for at the class applicable to the commodity wrapped or wound thereon.
+          Where the net weight of the product is less than the tare or empty weight of the container, the lower charges applicable to the product may be
+assessed by declaring, at time of shipment, an increased weight for the shipment equal to two times the tare weight of the reel, spool or flanged core.
+In such instances, the shipper must declare the following on the bill of lading: (1) the tare or empty weight of each reel, spool or flanged core; (2) the
+actual gross weight of each shipping container with product as tendered for shipment; and (3) the resultant declared gross weight.
+     Note 4—Unless otherwise provided and unless subject to classes based on density, liquid, powdered or granular commodities or materials packaged
+in rigid or semirigid primary containers in an authorized outer shipping container must occupy at least 65 percent of the primary container’s cubic capacity.
+When filled to less than 65 percent of the primary container’s cubic capacity, the gross weight of the commodity as packaged for shipment will be subject
+to the class applicable to either the primary container or its contents, whichever is higher. Does not apply when primary inner containers are in
+intermediate inner containers and then placed in an outer shipping container.
+     Sec. 1. (b) Unless otherwise provided for in the separate descriptions of articles, where classes are provided for ‘loose’ or ‘in bulk,’ such classes will
+also apply on the same articles when in packages; or if no packing or form of acceptance is mentioned, the classes will also apply on the same articles
+when loose or in packages. ]See also Secs. 5(a) and (b).
+
+                                                                  (Continued on following page)
+
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+ 8                      For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                             SUPPLEMENT 4 TO NMF 100-AR
+                                                                           RULES
+
+ITEM 680-A-Continued
+                                                          Carrier’s Option to Accept or Refuse
+     Sec. 2. Except as provided in Item 423, whether or not the authorized minimum packing requirements are observed, outer (shipping) containers or
+packages, inner containers, interior protection devices, method of packing within containers or packages, or other form of shipment authorized must be
+made of materials of such strength or be of such nature as to afford a reasonable and proper protection of lading and to protect against damage to other
+freight or equipment, and carriers may for good reason refuse to accept freight the transportation of which, in their judgment, would not be reasonably
+safe and practicable and so notify the shipper.
+                                              Liquids, or Commodities that will Expand, Liquefy or Vaporize
+     Sec. 3. Liquids, or commodities that will expand, liquefy or vaporize under any conditions during transportation must be secured in containers that
+will prevent leakage from such containers.
+                                                                      Recoopering
+   Sec. 4. Provided that the shipper is notified beforehand, the carrier shall have the right to perform necessary recoopering at owner’s or shipper’s
+expense except when necessitated by carrier’s negligence.
+                                                      Definitions of the Terms 'In Packages' and ‘Loose’
+     Sec. 5. (a) When the term 'in packages' is provided in connection with the separate descriptions of articles, such articles will be accepted for
+transportation in any container or in any other form tendered to carrier which will permit handling into or out of vehicles as units, provided such containers
+or tendered forms will render the transportation of freight reasonably safe and practicable so that it will withstand the normal rigors of the less-than-
+truckload environment. The term 'in packages' includes articles securely fastened to lift truck skids, pallets or platforms, or unitized quantities, but does
+not include articles 'in bulk,' 'loose,' 'on skids' or articles racked or braced in vehicles.
+     ]Sec. 5. (b) The term ‘loose’ is defined as freight that is not packaged, not unitized, not on skids and not securely fastened to lift truck skids, pallets
+or platforms. When the term ‘loose’ is provided in connection with the separate descriptions of articles or where no packing or form of acceptance is
+specified, articles may be tendered loose for transportation only when the transportation of the articles is reasonably safe and practicable so that it will
+withstand the normal rigors of the less-than-truckload environment. Where necessary to afford adequate protection against damage, articles must be
+packaged or otherwise protected by packing forms or other packaging materials.
+                                                         Inner Containers versus Outer Containers
+      Sec. 6. (a) The containers or packages provided in individual items are outside shipping containers, and the rates or classes shown in connection
+therewith apply whether the contents are in bulk, loose or in inner containers; except in those instances where items specifically provide classes when
+‘in inner containers’ in specified containers, and except where items provide classes when ‘in bulk’ in specified containers.
+      Sec. 6. (b) Except as otherwise provided, when classes or rates are provided for articles in boxes, in glass in boxes, in containers in boxes, or in
+inner containers in boxes, such rates or classes will not apply on articles in glass carboys in boxes.
+      Sec. 6. (c) Except as otherwise provided, rates or classes shown for articles in glass inner containers also will apply on the same articles in
+earthenware or molded plastic inner containers.
+      Sec. 6. (d) Where in individual items, classes or ratings are provided for articles in metal inner containers, such classes or ratings apply only on
+articles in inner containers constructed of metal and having rigid, self-supporting sides.
+                                  Articles Secured to Skids or to Lift Truck Skids, Pallets or Platforms, or Bundled Together
+     Sec. 7. (a) Articles in packages or shipping forms, as authorized in individual item descriptions, will be accepted when secured on skids meeting the
+requirements of Item 270. When articles are authorized to move 'on skids' within individual item descriptions, skids must meet the requirements of Item
+270.
+     Sec. 7. (b)
+         (1) Except as required in Paragraph (2), articles in packages or shipping forms, as authorized in individual item descriptions, will be accepted
+when unitized or secured on lift truck skids, pallets or platforms meeting the requirements of Item 265. Unless otherwise provided, when in the
+specifications of numbered packages or in individual item descriptions articles are required to move on lift truck skids, pallets or platforms, such skids,
+pallets or platforms must meet the requirements of Item 265. Except where required by the applicable provisions, it is recommended that articles unitized
+or secured on lift truck skids, pallets or platforms not overhang the skid, pallet or platform deck.
+         (2) Articles in bags complying with the construction requirements for such containers, as authorized in individual item descriptions, will be
+accepted when unitized on lift truck skids, pallets or platforms meeting the requirements of Item 265, provided the bottom tiers of bags are placed within
+a fiberboard tray, with or without a separate fiberboard sleeve, on the lift truck skid, pallet or platform deck. Depth of the tray or tray and sleeve, as the
+case may be, must extend at least 20 inches from the lift truck skid, pallet or platform deck. Bags, tray and, where present, sleeve must not overhang
+the deck, and the entire handling unit must be secured together with plastic film and with strapping in opposing directions, at least two straps in each
+direction. Fiberboard protectors or a barrier sheet of fiberboard, heavy-duty Kraft paper or similar material must be used to prevent direct contact between
+straps and bags. See Note 5.
+     Note 5—These requirements do not apply on articles in flexible intermediate bulk containers (FIBCs), including bulk bags.
+     Sec. 7. (c) Articles in fiberboard boxes complying with the construction requirements for such containers, as authorized in individual item descriptions,
+will be accepted when unitized into bundles with stretch or heat-shrinkable plastic film, or the strapping materials named in Item 680, Secs. 9 (a) or (b).
+Materials used to bundle containers must be of sufficient number and strength to maintain the integrity of the unit during transportation.
+                                                                Packing—Mixed Shipments
+     Sec. 8. Unless otherwise provided in the separate description of articles, the package specifications, conditions and all other requirements governing
+articles in straight shipments apply on the same articles when in mixed shipments.
+
+                                                                  (Continued on following page)
+
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                                 9
+                                                             SUPPLEMENT 4 TO NMF 100-AR
+                                                                           RULES
+
+ITEM 680-A-Continued
+                                                          Strapping or Taping of Articles or Packages
+     Sec. 9. (a) Unless otherwise provided, where the use of metal straps, rope or wire is specifically authorized or required, or where an article must be
+‘strapped,’ filament-reinforced pressure-sensitive or gummed tape complying with the following specifications may be used:
+         Pressure-sensitive tape not less than 3⁄4 inch in width reinforced with continuous longitudinal woven or unwoven filaments imbedded in an
+adhesive, or gummed tape not less than 3⁄4 inch in width reinforced with continuous longitudinal unwoven filaments imbedded in an adhesive. Tape must
+have longitudinal tensile strength of:
+              (1) Not less than 160 pounds per inch of width and not less than 12 percent stretch at break.
+                                                                                OR
+              (2) Not less than 240 pounds per inch of width and not less than three percent stretch at break. Such tape must be used as a complete band
+with a four-inch overlap of the tape on itself.
+     Sec. 9. (b) Unless otherwise provided, where the use of metal straps, rope or wire is specifically authorized or required, or where articles must be
+‘strapped,’ strapping made of the following materials and meeting the following requirements may be used:
+         (1) Synthetic fiber strapping, consisting of cords or yarns held in parallel position by adhesive or by being bonded to paper. Strapping must have
+a longitudinal strength of not less than 200 pounds per 1⁄4 inch of width with not less than 12 percent and not more than 20 percent stretch at break-
+point.
+         (2) Extruded oriented nylon, polyester or polypropylene strapping must have a tensile strength of not less than 200 pounds per 1⁄4 inch of width,
+with not less than seven percent and not more than 20 percent stretch at break-point.
+                                                                     Definition of ‘Wrapped’
+     Sec. 10. (a) When in the separate description of articles the word ‘wrapped’ is referred to as a form of exterior packaging, such articles must be
+enclosed or enfolded within packaging material which completely covers the article. Such wrappers must be securely fastened. This method of packaging
+must render the transportation of freight reasonably safe and practicable so that it will withstand the normal rigors of the less-than-truckload environment.
+     Sec. 10. (b) Except as provided elsewhere in this Classification, when plastic film wrap is used, the film strength should afford sufficient protection
+to the freight. The plastic film must be wrapped so as to adequately secure the freight together and to the lift truck skid, pallet or platform, when present.
+     In order to test the sufficiency of plastic film wrap, performance tests may be conducted. To simulate fork truck handling, test according to ASTM
+D880, Test Method for Impact Testing for Shipping Containers and Systems; D4003, Methods of Programmable Horizontal Impact Test for Shipping
+Containers and Systems; D6055, Test Methods for Mechanical Handling of Unitized Loads and Large Shipping Cases and Crates; or D6179, Test
+Methods for Rough Handling of Unitized Loads and Large Shipping Cases and Crates. For guidance on the intensities and durations for these
+procedures, refer to Section 10.3.2 of Schedule A – Handling – Manual and Mechanical of ASTM D4169, Standard Practice for Performance Testing of
+Shipping Containers and Systems. To test for resistance to impact of the plastic wrap on shipping packages, use ASTM D6344, Standard Test Method
+for Concentrated Impacts to Transport Packages.
+                                   Substitution of Fiberboard Boxes for Packages, Bales, Bundles or Wrapped
+    Sec. 11. When in the separate description of articles the terms ‘in packages,’ ‘in bales,’ ‘in bundles,’ or ‘wrapped’ are referred to as a form of exterior
+packaging, such articles may be enclosed in corrugated fiberboard boxes. When the corrugated boxes used do not meet the requirements of Item 222,
+they must not bear a box manufacturer’s certificate as provided for in Item 222-1.
+                                                                     Top-Heavy Articles
+     Sec. 12. Articles as tendered for shipment weighing 200 pounds or greater and greater than 48 inches in height which exhibit a high center of gravity
+in their normal orientation of loading for in-transit movement must be placarded on two opposite sides conspicuously displaying the following symbol as
+a precautionary warning:
+
+
+
+
+   Top-heavy articles are those having a center of gravity higher than 1⁄2 their standing height and having a height of two times or greater of the shorter
+base dimensions, as packaged.
+                                                Environmental or Event Monitors, Indicators or Recorders
+    Sec. 13. (a) Environmental or event monitors, indicators or recorders are devices that can be placed on or within a package, handling unit or vehicle
+to monitor the shipping and storage environment. These devices are intended to detect if an event has occurred or an environmental threshold has
+been surpassed for many types of shipping conditions such as, but not restricted to, shock/impact, vibration, tilting, temperature, humidity, atmospheric
+pressure or exposure to light.
+    Sec. 13. (b) The reliability of environmental or event monitors, indicators or recorders is not always certain. Consequently, these devices might not
+constitute sufficient evidence of mishandling of the freight.
+
+                                                               (Continued on following page)
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+ 10                     For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                          SUPPLEMENT 4 TO NMF 100-AR
+                                                                        RULES
+
+ITEM 680-A-Continued
+                                                      Articles or Containers with Wheels or Casters
+    Sec. 14. Articles that are tendered for shipment with wheels or casters attached, or in containers with wheels or casters attached, must be equipped
+with locking or retracting devices or be packaged in such a manner as to prevent movement during transportation. When tendered on lift truck skids,
+pallets or platforms, articles or containers with wheels or casters attached must be secured to prevent any shifting during transportation and to prevent
+wheels or casters from falling through the lift truck skid, pallet or platform deck.
+                                            Where Damage to the Shipping Package Will Result in a Claim
+     Sec. 15. Unless otherwise provided in individual descriptions of articles, when damage to the shipping package, including cosmetic damage, will
+result in a claim for loss or damage, such package(s) must be overpacked or otherwise protected by packaging materials sufficient to prevent damage
+to the package(s). See also Item 222-1, Note 6.
+
+
+
+
+                         Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                       For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                          11
+                                                             SUPPLEMENT 4 TO NMF 100-AR
+                                       DOCUMENTS AND GOVERNING RULES FOR TENDERING SHIPMENTS
+
+ITEM 360-A
+                              BILLS OF LADING, FREIGHT BILLS AND STATEMENTS OF CHARGES
+     Sec. 1. Issuance and Requirements.
+     Sec. 1 (a). Carrier rates subject to the provisions of this Classification are conditioned upon the use of the appropriate bill of lading required by this
+rule, whether in printed or electronic form. Articles which are precluded by law from being loaded or transported in the same vehicle must be tendered
+on separate bills of lading.
+     Sec. 1 (b). When property is transported subject to the provisions of this Classification, either domestic or export, the acceptance and use of the
+Uniform Straight Bill of Lading or the Straight Bill of Lading–Short Form is required. See Item 362.
+     Sec. 1 (c). The Uniform Straight or Straight Bills of Lading are to be used for any shipment not consigned to the order of any corporation, firm,
+institution or person.
+     Sec. 1 (d). Not currently used.
+     Sec. 1 (e). Except as otherwise provided, carriers shall not furnish:
+          (1) More than one original freight bill and one duplicate thereof.
+          (2) More than one original and one copy of its statement of transportation charges.
+     Sec. 1 (f). Except on shipments moving on United States Government bills of lading, if payor of freight or other lawful charges requires or requests
+any material or information as a prerequisite to payment, such requests will be provided subject to the provisions of applicable carrier tariffs:
+     Sec. 1 (g). Carriers are not obligated to furnish bills of lading containing information beyond that shown in the examples set forth in the NMFC.
+     Sec. 1 (h). Consignors may elect to furnish their own bills of lading, provided all requirements of Sec. 1 (a) through Sec. 1 (c) and Sec. 2 of this
+Item are observed (see Note 1). (See also, 49 U.S.C. Sections 80110, 80111 and 80113.)
+     Sec. 1 (i). On bills of lading furnished by carriers, freight bills and statements of charges issued by carriers, the Standard Carrier Alpha Code (SCAC)
+of the issuing carrier as shown in the Directory of Standard Carrier Alpha Codes, NMF 101 (or as amended), must be shown immediately adjacent to
+the carrier’s name on the document heading. The SCAC designation must be printed in upper-case boldface type.
+     Sec. 1 (j). When bar coding is used to designate any information required by Sec. 2 of Item 360 on bills of lading or freight bills, the symbology must
+be in both machine and human readable form. In addition, the standard data formats shall be in accordance with the Motor Carrier Industry Bar Code
+Implementation Guide, published by the Information Technology & Logistics Council of the American Trucking Associations (ATA).
+     Note 1—Consignor provided short form bills of lading need not be in any particular format, but must bear the title Shipper Provided Short Form Bill
+of Lading—Not Negotiable’, as long as the information requirements of Sections 1 and 2 of this Item and Item 359 are observed. Bill of lading must be
+complete when tendered by the shipper to the carrier for signature. Bills of lading not conforming to the provisions found in this Item are subject to NMFC
+Items 362 and 365.
+     Sec. 2. Information to be shown on a Bill of Lading.
+     Sec. 2 (a). The name and address of only one consignor and one consignee and only one destination shall appear on a bill of lading. When a
+shipment is consigned to a point of which there are two or more of the same name in the same state, the name of the county must be shown.
+     Sec. 2 (b). Not currently used.
+     Sec. 2 (c). To insure the assessment of correct freight charges and avoid infractions of federal and state laws, shippers should acquaint themselves
+with the descriptions of articles in the tariff under which they ship. Commodity word descriptions must be used in bills of lading and shipping papers and
+must conform to those in the applicable tariff. Appropriate abbreviated descriptions are permitted provided the NMFC item number and appropriate Sub
+number thereof are shown. The kind of package used must be shown. Bills of lading and shipping papers must specify number of articles, packages, or
+pieces, and the applicable NMFC class. Except as provided in Item 640, Sec. 3 (mixed packages), for each separate commodity description, the number
+and type of packages (bags, boxes, bundles, drums, etc.) and the gross weight must be shown. (See 49 U.S.C. Section 80113.)
+     Sec. 2 (d). Articles which are subject to the DOT’s hazardous materials regulations must be described on bills of lading and shipping papers as
+shown in those regulations. Abbreviations must not be used. When the DOT hazardous materials regulations description differs from the tariff description
+in connection with which the applicable class or rate is published, the tariff description must also be shown on bills of lading and shipping papers.
+     Sec. 2 (e). Unless otherwise provided in carriers' tariffs, shipments requiring special or additional care or attention of any kind (see Note 2) must be
+so indicated by the shipper on the bill of lading and shipping papers at time of shipment by marking the column labeled “Food Products or Other Materials
+or Freight requiring additional care or attention (Note 3).” Products requiring special care and attention of any kind should be tendered on separate
+handling units from other freight in the shipment.
+          (1) Instructions regarding the care and attention needed for the freight must also be shown in the description area of the bills of lading, on
+shipping papers and on the handling unit containing such freight.
+          (2) Shipments requiring protective temperature control may be accepted subject to the availability of suitable equipment when the bills of lading,
+shipping papers and handling units are clearly and legibly marked in upper-case letters in accordance with the following:
+               a. Where shipments are subject to damage from freezing, marking must clearly instruct carrier to protect from freezing.
+               b. Where shipments require maintenance at or below a specific temperature, or movement within a range of temperatures, marking must
+indicate the temperature or temperature range required. See Item 682.
+     Note 2—Commodities requiring special or additional care or attention in handling or stowing must have handling units so marked and packaged as
+to ensure safe transportation with ordinary care. These articles include, but are not limited to: fragile articles; articles that must remain upright; top-heavy
+articles; articles that require more than normal protection from moisture; articles that must be protected from heat; articles that must be protected from
+freezing; articles that must be kept within a certain temperature range; articles that must be protected from odor-emitting freight, debris or infestation;
+articles that must be handled with a hand truck; articles that must not be handled with a hand truck; articles that must be handled with a forklift; articles
+that must not be handled with a forklift; articles that may be stacked to not exceed a certain height; articles that must not be stacked.
+     Sec. 2 (f). When shipments consist of packages subject to the same released value provisions and some packages are released as to value and
+other packages are not released as to value or are released to a different value, the packages and bills of lading must be marked or coded at time of
+shipment to identify which packages are released and the released value which applies to each package. In lieu of showing the specified information on
+the bill of lading, the carrier may be furnished a manifest at time of shipment which clearly identifies the packages which are released and the released
+value of each.
+
+                                                               (Continued on following page)
+
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+ 12                     For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                            SUPPLEMENT 4 TO NMF 100-AR
+                                       DOCUMENTS AND GOVERNING RULES FOR TENDERING SHIPMENTS
+
+ITEM 360-A-Continued
+     Sec. 3. Inspection of Property.
+     Sec. 3 (a). When carrier or its agent believes it is necessary to verify the stated description of a shipment as tendered, the carrier or its agent will
+make or cause such inspection to be made, or require other sufficient evidence to determine the actual character of the property being shipped. If the
+stated description is found to be inaccurate, the carrier or agent shall correct the description accordingly. Freight charges must be assessed according
+to proper description, unless otherwise provided. (See 49 U.S.C. Section 80113.)
+     Sec. 3 (b). Notwithstanding the provisions of Sec. 3 (a), when a shipment is delivered absent of visible or open evidence of damage or loss, carrier
+personnel or its agent shall not be required to unpack or inspect the contents of a shipment and the driver’s departure cannot be delayed pending an
+inspection of the contents by the consignee, unless authorized by prior mutual written agreement with the carrier or its agent.
+     Sec. 4. Verification of Shipment Weight. When carrier or its agent believes it is necessary to verify the stated weight of a shipment as tendered,
+the carrier or agent shall weigh the shipment or cause the shipment to be weighed. If the stated weight is found to be inaccurate, the carrier or agent
+shall correct the weight accordingly. Freight charges must be assessed on the actual gross weight of the shipment, unless otherwise provided. (See
+Items 595 and 995.) (See also, 49 U.S.C. Section 80113.)
+     Sec. 5. Insurance Against Marine Risk. The cost of insurance against marine risk will not be assumed by the carrier unless so provided specifically,
+in its tariffs.
+
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                              13
+                                                                            SUPPLEMENT 4 TO NMF 100-AR
+  ITEM                                                                                        ARTICLE                                                                                       CLASS
+                   ATHLETIC GOODS GROUP: subject to item 15500
+ +15520-B   Athletic or Sporting Goods, viz.:
+               Athletic or Sporting Goods, NOI;
+               Basketball Nets;
+               Blinds, hunters’, with or without accessories and camouflage materials;
+               Boards, water sports, NOI, see Notes, items 15523 and 15524;
+               Boxes, Buckets, Cages, Canteens, Containers or Pails, live bait;
+               Decoys, bird, NOI;
+               Exercising or Gymnasium Apparatus or Equipment, NOI;
+               Fishing Tackle, plastic or rubber, NOI;
+               Floats, Rafts or Toys, water sports, NOI, see Note, item 15524;
+               Golf Mats or Platforms, NOI, with or without tees;
+               Playground Apparatus, NOI, see Note, item 15525;
+               Sandboxes or Wading Pools, molded plastic;
+               Snowboards or Snowboard Bindings;
+               Swimming Fins, Goggles, Masks, Nose Clips or Snorkels;
+               Weight Lifting Benches or Athletic Utility Benches, NOI;
+                  In boxes or crates, see Note, item 15522, subject to Items 170 and 171 and having a density in pounds per
+                          cubic foot of:
+    Sub 1             Less than 1 ...................................................................................................................................................        400
+    Sub 2             1 but less than 2 ............................................................................................................................................         300
+    Sub 3             2 but less than 4 ............................................................................................................................................         250
+    Sub 4             4 but less than 6 ............................................................................................................................................         175
+    Sub 5             6 but less than 8 ............................................................................................................................................         125
+    Sub 6             8 but less than 10 ..........................................................................................................................................          100
+    Sub 7             10 but less than 12 ........................................................................................................................................            92.5
+    Sub 8             12 but less than 15 ........................................................................................................................................            85
+    Sub 9             15 but less than 22.5 .....................................................................................................................................             70
+    Sub 10            22.5 but less than 30 .....................................................................................................................................             65
+    Sub 11            30 or greater..................................................................................................................................................         60
+  15522-B NOTE—The following departures from packing requirements are permitted:
+              1. Playground apparatus may be shipped in packages.
+              2. Molded plastic sandboxes or wading pools may be shipped in woven plastic film bags of not less than 4 mil
+                    thickness.
+              3. Motorized exercise treadmills may be shipped in Package 2484.
+              4. ]Not currently used.
+              5. Trampolines, KD, may be shipped in packages.
+ +15523-B NOTE—Applies on products such as Bodyboards, Kickboards, Kneeboards, Paddleboards, Sailboards, with or
+              without sails, or Surfboards.
+ +15524-B NOTE—Applies on articles used by children or adults for play, instruction or safety.
+ +15525-B NOTE—Does not apply on inflatable or air-supported enclosures, structures or promotional or advertising figures or
+              images, nor on amusements, such as games, bouncers, rides or slides for use at outdoor picnics, birthday parties,
+              fund-raising or promotional events or other such festivities. For applicable provisions, see item 63595.
+           BOOT GROUP: subject to item 28120
+,28160-A   Boots, NOI; Footwear, NOI, other than hosiery; Shoes, NOI; or Slippers; in boxes, subject to Item 170 and having
+                  a density in pounds per cubic foot of:
+    Sub 1      Less than 6 .............................................................................................................................................................     200
+    Sub 2      6 or greater .............................................................................................................................................................    125
+           CABINETS, OR PARTS NAMED: subject to item 39200
+  39230-A   Cabinets, bathroom medicine or toilet, other than plastic, see Note, item 39232, with or without integral lighting
+                  fixtures, in ]boxes or Packages 1F, 3F or 5F ....................................................................................................                         175
+ +39232-A NOTE—Applies only on cabinets designed to be hung from or recessed in upper walls.
+           CHEMICALS GROUP: subject to item 42600
+ +42604-A NOTE—
+              1. Materials regulated by the U.S. Department of Transportation that are required to bear any of the Hazard Class
+                    6 or Hazard Division 6.1 labels listed below are subject to the provisions of item 45615, regardless of the DOT-
+                    designated Hazard Class or Hazard Division.
+                     (a) ‘INHALATION HAZARD’
+                     (b) ‘POISON’
+                     (c) ‘TOXIC’
+                     (d) ‘PG III’
+              2. Materials classed in the U.S. Department of Transportation regulations as a gas that is poisonous by inhalation
+                    or that is required to bear a 2.3 ‘INHALATION HAZARD’ label under such regulations are not subject to the
+                    provisions of this grouping. Such materials are subject to the provisions of item 85900.
+            Ammonium: subject to item 42930
+  43020-A      Nitrate, etc. ]…Cancel; see item 45467.
+  43050-A      Perchlorate, offered for transportation as a Hazard Class 5, Division 5.1, etc. ,]…Cancel; see item 45467.
+  43051-A NOTE—…Cancel; see item 45468.
+  43052-A NOTE—…Cancel; no further application.
+  43055-A      Persulfate, etc. ]…Cancel; see item 45467.
+  43100-A      Sulfate Nitrate (Leunsaltpeter), etc. ]…Cancel; see item 45467.
+  43480-A   Benzoyl Peroxide, etc. ]…Cancel; see item 45463.
+
+
+
+                               Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+14                           For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                                         SUPPLEMENT 4 TO NMF 100-AR
+  ITEM                                                                                      ARTICLE                                                                                            CLASS
+             CHEMICALS GROUP: subject to item 42600
+               Calcium: subject to item 43620
+   43790-A        Nitrate, etc. ]…Cancel; see item 45467.
+   44580-A     Guanidine Nitrate, etc. ]…Cancel; see item 45467.
+   44640-A     Hydrogen Dioxide or Hydrogen Peroxide, etc. ,]…Cancel; see item 45467.
+]45463       Organic Peroxides, NOI, other than toxic, see Notes, items 42604 and 45464, in U.S. DOT-authorized packaging                                                                   200
+  45464     NOTE—Applies on materials regulated by the U.S. Department of Transportation as a Hazard Class 5, Division 5.2,
+                 Organic Peroxide, as defined in 49 CFR §173.128 and required to bear a notice to that effect on bills of lading and
+                 packaging.
+,]45467      Oxidizers, NOI, other than toxic, see Notes, items 42604 and 45468, in U.S. DOT-authorized packaging:
+     Sub 1        In Packing Group I ..................................................................................................................................................        125
+     Sub 2        In Packing Group II .................................................................................................................................................        100
+     Sub 3        In Packing Group III ................................................................................................................................................         85
+  45468     NOTE—Applies on materials regulated by the U.S. Department of Transportation as a Hazard Class 5, Division 5.1,
+                 Oxidizer, as defined in 49 CFR §173.127 and required to bear a notice to that effect on bills of lading and packaging.
+               Potassium (Potash): subject to item 45640
+   45740-A        Chlorate, etc. ]…Cancel; see item 45467.
+   45820-A        Nitrate (Saltpetre), etc. ]…Cancel; see item 45467.
+   45830-A        Perchlorate, etc. ]…Cancel; see item 45467.
+   45840-A        Permanganate, etc. ]…Cancel; see item 45467.
+   45845-A        Persulfate, etc. ]…Cancel; see item 45467.
+               Sodium (Soda): subject to item 46080
+   46250-A        Chlorate, etc. ]…Cancel; see item 45467.
+   46410-A        Nitrate (Chili Saltpetre), etc. ]…Cancel; see item 45467.
+   46490-A        Permanganate, etc. ]…Cancel; see item 45467.
+   46500-A        Peroxide, etc. ]…Cancel; see item 45467.
+   46740-A     Strontium Nitrate, etc. ]…Cancel; see item 45467.
+,]50170-A   Compounds, floor sweeping or spill absorption, other than disinfectant, see Note, item 50171, in bags, boxes or drums,
+                  subject to Item 170 and having a density in pounds per cubic foot of:
+     Sub 1     Less than 15 ................................................................................................................................................................   100
+     Sub 2     15 but less than 22.5 ...................................................................................................................................................        70
+     Sub 3     22.5 or greater .............................................................................................................................................................    65
+  50171     NOTE—Applies on compounds that trap or absorb dry or liquid waste from hard surfaces or bodies of water. Does not
+                 apply on chemical or oil absorption booms, pads, sweeps or other forms or shapes, as named in item 149265.
+   50270-A   Compounds, oil absorption, etc. ,…Cancel; see item 50170.
+   50272-A   NOTE—…Cancel; no further application.
+             DENTAL, HOSPITAL OR MEDICAL SUPPLY GROUP: subject to item 56400
+   56910-A     Sets, oxygen administration, consisting of oxygen in steel cylinders not over 240 cubic inches capacity, plastic
+                     tubing and plastic administering mask, with or without regulators, see Note, item 56911, in boxes ..................                                                      70
+  56911     NOTE—Does not apply on recreational oxygen in handheld canisters or containers.
+  56950-A     Swabs, Swab Sticks or Swab-type Applicators, consisting of paper, plastic or wood sticks with cotton or synthetic
+                     fiber tips, single- or double-tipped, not saturated nor medicated, in boxes, subject to Item 170 and having a
+                     density in pounds per cubic foot of:
+     Sub 1        Less than 8 .............................................................................................................................................................    175
+     Sub 2        8 or greater .............................................................................................................................................................   100
+             ELECTRICAL EQUIPMENT GROUP: subject to item 60500
+   61900-A     Fans, exhaust or ventilating, with or without heating elements or lighting fixtures, etc. …Cancel; see item 61910.
+   61902-A   NOTE—…Cancel; no further application.
+   61904-A   NOTE—…Cancel; no further application.
+,]61910      Fans, NOI, including Exhaust or Ventilating Fans, see Note, item 61911, in boxes, crates or Packages 2044, 2046
+                     or 2237, subject to Item 170 and having a density in pounds per cubic foot of:
+     Sub 1        Less than 6 .............................................................................................................................................................    200
+     Sub 2        6 or greater .............................................................................................................................................................   110
+  61911     NOTE—Exhaust or ventilating fans may be equipped with heating elements or lighting fixtures.
+   61920-A     Fans, NOI, etc. ,]…Cancel; see item 61910.
+   61922-A   NOTE—]…Cancel; no further application.
+   61924-A   NOTE—…Cancel; no further application.
+             FEED GROUP: subject to item 66700
+,]67050      Feed or Feed Supplements, animal, fish or poultry, other than frozen and not required by the U.S. Department of
+                     Transportation to bear a Hazard Class or Hazard Division label, see Notes, items 67051 and 67052, viz.:
+                  Feed, prepared, NOI;
+                  Feed Supplements;
+                  Feeding Compounds or Preparations, condimental or medicinal;
+                  Pet Food, prepared, NOI;
+                     In bags, boxes, drums, pails or Packages 1000, 1271, 1500, 2257, 2330, 2421, 2440 or 2521, subject to Item
+                            170 and having a density in pounds per cubic foot of:
+     Sub 1               Less than 15 ..................................................................................................................................................        92.5
+     Sub 2               15 but less than 30 ........................................................................................................................................           70
+     Sub 3               30 or greater ..................................................................................................................................................       55
+  67051     NOTE—Does not apply on materials regulated by the U.S. Department of Transportation as hazardous and required to
+                 bear a Hazard Class or Hazard Division label. For classes applicable to such hazardous materials, see provisions
+                 elsewhere in this Classification.
+  67052     NOTE—Does not apply on edible pet treats in various forms or shapes. For applicable provisions, see item 27765.
+
+
+                         Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                       For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                                                                           15
+                                                                              SUPPLEMENT 4 TO NMF 100-AR
+     ITEM                                                                                       ARTICLE                                                                                      CLASS
+
+                      FEED GROUP: subject to item 66700
+      67060-A Feed, animal, fish or poultry, prepared, NOI, not frozen, etc. ,]…Cancel; see item 67050.
+            NOTE—]…Cancel; no further application.
+      67061-A
+      67070-A Feed Supplements; or Condimental or Medicinal Feeding Compounds or Preparations; animal, fish or poultry,
+                    not frozen; released to a value not exceeding 50 cents per pound, etc. ]…Cancel; see item 67050 and
+                    provisions otherwise applicable.
+   67072-A NOTE—…Cancel; no further application.
+   67075-A    Feed Supplements; or Condimental or Medicinal Feeding Compounds or Preparations; animal, fish or poultry,
+                    not frozen, not released as to value, etc. ,]…Cancel; see item 67050 and provisions otherwise applicable.
+            FILTERS GROUP: subject to item 69010
+,]69095-A    Filters, liquid or gas, NOI, cartridge type, or tank type with fittings, iron or steel, other than water filters, see Note, item
+                    69097:
+     Sub 1       In boxes or crates, subject to Item 170 and having a density in pounds per cubic foot of:
+     Sub 2          Less than 8 ........................................................................................................................................................     175
+     Sub 3          8 but less than 12 ...............................................................................................................................................       100
+     Sub 4          12 or greater ......................................................................................................................................................      70
+     Sub 5       In packages other than boxes or crates, subject to Item 170 and having a density in pounds per cubic foot of:
+     Sub 6          Less than 8 ........................................................................................................................................................     200
+     Sub 7          8 but less than 12 ...............................................................................................................................................       110
+     Sub 8          12 or greater ......................................................................................................................................................      77.5
+   69096-A NOTE—]…Cancel; no further application.
+  69097    NOTE—Does not apply on filter cartridges, elements or media. For applicable provisions, see item 69100.
+            FURNITURE PARTS GROUP: subject to item 82750
+   82844-A    Chair Backs, laminated paperboard or pulpboard not upholstered, nested, etc. …Cancel; obsolete.
+   98110-A Hat Blocks, wooden, etc. …Cancel; obsolete.
+            HOUSEHOLD UTENSILS GROUP: subject to item 100500
+  100590-A    Cabinets or Racks, spice, wood, containing glass bottles or jars, etc. ,…Cancel; see item 164390.
+            IRON OR STEEL: subject to item 104000
+  106980-A    Sponge Iron Briquettes or Pellets, having value only for melting purposes, etc. …Cancel; obsolete.
+  107780-A Japan Wax Substitute, consisting of fatty acid esters and petroleum wax, etc. …Cancel; obsolete.
+            MACHINERY GROUP: subject to item 114000
+ +115030-A    Blowers, rotary, or Centrifugal Fans, see Note, item 115031:
+     Sub 1       In boxes or crates, subject to Item 170 and having a density in pounds per cubic foot of:
+     Sub 2          Less than 8 ........................................................................................................................................................     175
+     Sub 3          8 but less than 12 ...............................................................................................................................................       100
+     Sub 4          12 or greater ......................................................................................................................................................      70
+     Sub 5       On skids or in packages other than boxes or crates, subject to Item 170 and having a density in pounds per cubic
+                         foot of:
+     Sub 6          Less than 8 ........................................................................................................................................................     200
+     Sub 7          8 but less than 12 ...............................................................................................................................................       110
+     Sub 8          12 or greater ......................................................................................................................................................      77.5
+  115031-A NOTE—Does not apply on fans designed for: (1) expelling from an area, air, dust, gas, odors, smoke or other
+                contaminants, or (2) introducing into an area, air from an outside source. For applicable provisions, see item
+                61910, ‘Fans, NOI, including Exhaust or Ventilating Fans.’
+              Ice Making or Refrigerating Machinery or Machines: subject to item 123200
+]123550-A       Machines, ice making, see Note, item 123551, in boxes, crates or Packages 107 or 1082, see Notes, items 123552
+                         and 123553, subject to Item 170 and having a density in pounds per cubic foot of:
+     Sub 1          Less than 6 ........................................................................................................................................................     250
+     Sub 2          6 but less than 10 ...............................................................................................................................................       150
+     Sub 3          10 or greater ......................................................................................................................................................      92.5
+ +123551-A NOTE—Applies on self-contained ice making machines with or without storage bins or dispensers.
+]123552    NOTE—Articles must be protected by packing forms or other packaging materials necessary to afford adequate
+                protection against damage.
+]123553    NOTE—Articles tendered for shipment on lift truck skids, pallets or platforms must be securely fastened to and must not
+                overhang the edges of the lift truck skid, pallet or platform deck.
+,]126157-A   Operators or Openers, garage door, with or without controls or hardware, in boxes, subject to Item 170 and having
+                    a density in pounds per cubic foot of:
+     Sub 1       Less than 8 .............................................................................................................................................................   150
+     Sub 2       8 but less than 12 ...................................................................................................................................................      100
+     Sub 3       12 or greater ...........................................................................................................................................................    70
+
+
+
+
+                                 Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+ 16                            For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                                           SUPPLEMENT 4 TO NMF 100-AR
+  ITEM                                                                                       ARTICLE                                                                                     CLASS
+
+                   PAPER ARTICLES GROUP: subject to item 152000
+  152800-A   Cups, baking, candy or charlotte russe, paper, etc. ,…Cancel; see item 153900.
+  153900-A   Paper Goods or Articles, viz.:
+               ,Cups, Liners or Molds, baking, or Cups, candy;
+               Doilies;
+               Facial Tissues (Handkerchiefs);
+               Gift Wrap Sets, see Note, item 153902;
+               Napkins;
+               Neck Strips;
+               Paper Goods or Articles, NOI;
+               Placemats;
+               Tablecloths;
+                  In boxes, see Note, item 153901, subject to Items 170 and 171 and having a density in pounds per cubic foot
+                          of:
+    Sub 1             Less than 1 ....................................................................................................................................................   400
+    Sub 2             1 but less than 2 ............................................................................................................................................     300
+    Sub 3             2 but less than 4 ............................................................................................................................................     250
+    Sub 4             4 but less than 6 ............................................................................................................................................     175
+    Sub 5             6 but less than 8 ............................................................................................................................................     125
+    Sub 6             8 but less than 10 ..........................................................................................................................................      100
+    Sub 7             10 but less than 12 ........................................................................................................................................        92.5
+    Sub 8             12 but less than 15 ........................................................................................................................................        85
+    Sub 9             15 but less than 22.5 .....................................................................................................................................         70
+    Sub 10            22.5 but less than 30 .....................................................................................................................................         65
+    Sub 11            30 or greater ..................................................................................................................................................    60
+ 153901-A NOTE—The following departures from packing requirements are permitted:
+              1. Doilies, neck strips, placemats or tablecloths may be shipped in Packages 215, 841, 2177 or 2278.
+              2. Facial tissues (handkerchiefs) may be shipped in Packages 215, 841,1252, 2065, 2177 or 2278.
+              3. Napkins may be shipped in Packages 215, 841, 1252, 2177, 2278 or 2279.
+              4. Baking cups, liners or molds or candy cups may be shipped in Package 841.
++153902-A NOTE—Applies on gift wrapping paper or paper-backed foil and one or more of the following in same retail package:
+              boxes, gift cards, seals, tags, ribbon, ribbon bows or rosettes.
+           PLASTIC MATERIALS, OTHER THAN EXPANDED, GROUP: subject to item 156100
+ 156300-A    Sheet or Plate, NOI, self-supporting (rigid), other than with formed interior cells, cavities or flutes, see Note, item
+                  156302, other than in rolls or coils, in boxes, crates or Packages 248, 1029, 2187, 2207, 2310 or ]2542:
+    Sub 1      In authorized packages on A-frame shipping racks, see Note, item 156303 ............................................................                                      300
+    Sub 2      In authorized packages not on A-frame shipping racks; or on lift truck pallets or skids; see Note, item 156304:
+    Sub 3         Exceeding 220 united inches ..............................................................................................................................              85
+    Sub 4         220 united inches or less, subject to Item 170 and having a density in pounds per cubic foot of:
+    Sub 5             Less than 30 ..................................................................................................................................................     70
+    Sub 6             30 or greater ..................................................................................................................................................    60
++156302-A NOTE—Applies whether or not corrugated, crimped, channeled or ribbed, but not otherwise curved, bent or formed. Does
+              not apply on sheet or plate with formed interior cells, cavities or flutes.
++156303-A NOTE—A-frame shipping racks are designed to transport the product as a unit in a diagonal position.
++156304-A NOTE—The term ‘united inches’ means the sum of the two greatest dimensions of the shipping package.
+
+
+
+
+                                                                      THIS SPACE INTENTIONALLY LEFT BLANK
+
+
+
+
+                               Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                             For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                                                               17
+                                                                            SUPPLEMENT 4 TO NMF 100-AR
+   ITEM                                                                                      ARTICLE                                                                                      CLASS
+
+                   PLASTIC OR RUBBER ARTICLES, OTHER THAN EXPANDED, GROUP: subject to item 156500
+  156600-A  Articles, viz.:
+               Articles, NOI;
+               Boot or Shoe Forms or Trees, other than display forms or trees;
+               Caps, Covers, Discs, Ends, Bands, Rings or Tops, NOI, for bottles, cans, cups, collapsible tubes, glasses, jars
+                       or jugs;
+               Car Seats, child or baby;
+               Columns; or other Forms or Shapes, NOI; architectural;
+               Containers, packaging, NOI;
+               Cups or Tumblers, NOI;
+               Filmstrip or Audio or Video Cassette Storage Albums;
+               Garbage or Refuse Cans;
+               Gloves, see Note, item 156604;
+               Grips, NOI, including Golf Club, Hand Tool or Handlebar Grips;
+               Liners, swimming pool, plastic film or sheeting;
+               ,Mats, bathtub, shower stall, drainboard, sink or stove protector;
+               Molding, other than baseboard or cove;
+               Motion Picture Film Cans, Cores, Magazines, Reels or Film Spools, empty;
+               Pipe or Pipe Fittings;
+               Poultry Watering Systems, see Note, item 156603;
+               Seats, toilet or water closet, hollow molded;
+               Tanks, NOI;
+               Tractor Treads, rubber;
+               Tubing, NOI, other than flexible;
+                   In boxes, crates, drums or Packages 870, 1078, 1241, 1273, 1456, 2195, 2212, 2213, 2230 or 2459, see Note,
+                           item 156602, subject to Items 170 and 171 and having a density in pounds per cubic foot of:
+    Sub 1              Less than 1 ....................................................................................................................................................   400
+    Sub 2              1 but less than 2 ............................................................................................................................................     300
+    Sub 3              2 but less than 4 ............................................................................................................................................     250
+    Sub 4              4 but less than 6 ............................................................................................................................................     175
+    Sub 5              6 but less than 8 ............................................................................................................................................     125
+    Sub 6              8 but less than 10...........................................................................................................................................      100
+    Sub 7              10 but less than 12.........................................................................................................................................        92.5
+    Sub 8              12 but less than 15.........................................................................................................................................        85
+    Sub 9              15 but less than 22.5......................................................................................................................................         70
+    Sub 10             22.5 but less than 30......................................................................................................................................         65
+    Sub 11             30 or greater ..................................................................................................................................................    60
++156602-A NOTE—The following departures from packing requirements are permitted:
+                   1. Necks of empty carboys may project from boxes, crates or drums.
+                   2. Plastic shipping containers or plastic bottles may be shipped in packages in quantities of 10,000 pounds or
+              more; or plastic outer shipping containers having a capacity of 15 gallons or more may be shipped loose. Plastic
+              gas cans having a capacity of 15 gallons or less may be shipped in bundles, unitized by heat shrinkable plastic film.
+              Film must be of 2.5 mil minimum thickness, and must completely enclose entire bundle.
+                   3. Plastic bottle carrying boxes or crates may be loose or in packages.
+                   4. Extruded shapes in lengths of 10 feet or greater, having a density of 15 pounds or greater per cubic foot, may
+              be in packages.
+                   5. Plastic roof gutters, downspouts and/or fittings for gutters or downspouts may be shipped in Package 2060.
+                   6. Plastic pipe or tubing, or tubes other than containers, in straight lengths may be shipped in packages or
+              bundles with threaded ends protected. Plastic pipe or tubing, or tubes other than containers, greater than 6 inches
+              in inside diameter, in straight lengths of 10 or more feet each may be shipped loose with threaded or belled ends
+              protected. Plastic pipe or tubing, or tubes other than containers, other than in straight lengths, may be shipped in
+              coils tied or wrapped with threaded ends protected or on fiberboard, wood or metal shipping reels.
+                   7. Plastic pipe or tubes, smallest cross-sectional inside dimension greater than 6 inches, may be shipped in
+              packages or in bundles with threaded or belled ends protected. Plastic pipe fittings may be shipped in packages
+              with threaded or belled ends protected, or loose with threaded or belled ends protected when weighing each 15
+              pounds or over.
+                   8. Plastic chairs may be shipped in Package 31F.
+                   9. Plate or sheet, rolled, having a density of 15 pounds or greater per cubic foot, may be shipped strapped on
+              pallets.
+                   10. Molded plastic trays for shipping tube yarn may be shipped in packages.
+                   11. Not currently used.
+                   12. Flexible plastic fencing or mesh, produced by a stretching and extruding process, may be shipped in bundles
+              or rolls.
+                   13. Plate or sheet with formed interior cells, cavities or flutes may be shipped strapped on pallets or skids.
+                   14. Garbage or refuse cans may be shipped in packages.
+                   15. Not currently used.
+                   16. Plastic tanks, other than outer shipping containers, may be shipped in packages.
+                   17. Grips may be shipped in packages.
+                   18. Swimming pool and pond liners may be shipped in wrapped bundles or rolls.
+                   19. Poultry watering systems may be shipped in packages.
+                   20. Cups or tumblers, without handles, may be shipped in Packages 2471 or 2505.
++156603-A NOTE—Applies on poultry watering systems consisting of pipe, plastic drinkers, water filtering, metering or regulating
+              devices and equipment necessary for installation, with or without other components or accessories.
+
+
+                               Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+18                           For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                                              SUPPLEMENT 4 TO NMF 100-AR
+     ITEM                                                                                       ARTICLE                                                                                     CLASS
+
+                      PLASTIC OR RUBBER ARTICLES, OTHER THAN EXPANDED, GROUP: subject to item 156500
+  +156604-A NOTE—Does not apply on any commodity which is defined and specified as medical waste in Federal regulations. For
+                applicable class, see item 196160.
+  156940-A    Mats, bathtub, shower stall, drainboard, sink or stove protector, etc. ,…Cancel; see item 156600.
+            RACKS: subject to item 163900
+  164390-B    Racks and Related Articles, viz.:
+                 Corrals, shopping cart (Cart Corrals), see Note, item 164393;
+                 Racks, NOI;
+                 ,Spice Racks, see Note, item 164394;
+                 Swimming Pool Cover Racks or Reels;
+                    In packages or Package 410, see Note, item 164391, subject to Items 170 and 171 and having a density in
+                           pounds per cubic foot of:
+     Sub 1              Less than 1 ...................................................................................................................................................     400
+     Sub 2              1 but less than 2 ............................................................................................................................................      300
+     Sub 3              2 but less than 4 ............................................................................................................................................      250
+     Sub 4              4 but less than 6 ............................................................................................................................................      175
+     Sub 5              6 but less than 8 ............................................................................................................................................      125
+     Sub 6              8 but less than 10 ..........................................................................................................................................       100
+     Sub 7              10 but less than 12 ........................................................................................................................................         92.5
+     Sub 8              12 but less than 15 ........................................................................................................................................         85
+     Sub 9              15 but less than 22.5 .....................................................................................................................................          70
+     Sub 10             22.5 but less than 30 .....................................................................................................................................          65
+     Sub 11             30 or greater .................................................................................................................................................      60
+ +164391-B NOTE—The following departures from packing requirements are permitted:
+                    1. SU cooler racks of galvanized steel construction, other than wheeled, may be shipped loose when weighing
+                each 60 pounds or over.
+                    2. SU racks, NOI, of steel or steel and wood construction, other than wheeled, may be shipped loose when
+                weighing each 150 pounds or over.
+                    3. Sections of KD or KD flat racks, other than wheeled, may be shipped loose when weighing each 40 pounds
+                or over.
+                    4. Cart corrals may be shipped loose.
+ +164393-B NOTE—Applies on containment systems or structures for storing or holding shopping carts in parking lots.
+ 164394    NOTE—Spice racks may be shipped with complement of empty bottles or jars in same package.
+            TOOLS, OR PARTS NAMED: subject to item 183550
+,]184960    Jacks or Jackscrews, lifting, NOI, hydraulic, mechanical or pneumatic, wheeled or not wheeled, see Note, item
+                    184961, in boxes or crates, subject to Item 170 and having a density in pounds per cubic foot of:
+     Sub 1       Less than 12 ...........................................................................................................................................................   110
+     Sub 2       12 but less than 22.5 ..............................................................................................................................................        70
+     Sub 3       22.5 or greater ........................................................................................................................................................    65
+ 184961    NOTE—Does not apply on pallet jacks or pallet lift trucks. For applicable provisions, see item 189240.
+  184970-A    Jacks, cantilever, pneumatic or ratchet, or Jackscrews, NOI, not wheeled, etc. ,]…Cancel; see item 184960.
+  184975-A    Jacks, hydraulic, other than cantilever, not wheeled, etc. ]…Cancel; see item 184960.
+  184980-A    Jacks, lifting, hydraulic, automobile servicing, wheeled, etc. …Cancel; see item 184960.
+  184982-A NOTE—…Cancel; no further application.
+  184985-A    Jacks, trailer tongue lifting, worm gear driven, wheeled, for trailers such as boat or camper, etc. …Cancel; see item
+                    184960.
+  184990-A    Jacks or Jackscrews, lifting, NOI, wheeled, etc. ,]…Cancel; see item 184960.
+  184991-A NOTE—…Cancel; see item 184961.
+
+
+
+
+                                 Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                               For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                                                                19
+                                                            SUPPLEMENT 4 TO NMF 100-AR
+                                                    SPECIFICATIONS FOR NUMBERED PACKAGES
+
+
+                                                                     Package 2163
+      ]Cancel; no further application.
+
+                                                                     Package 2227
+      ]Cancel; no further application.
+
+                                                                     Package 2334
+      ]Cancel; no further application.
+
+                                                                     Package 2370
+      ]Cancel; no further application.
+
+                                                                     Package 2394
+      ]Cancel; no further application.
+
+                                                                     Package 2481
+      ]Cancel; no further application.
+
+                                                                  ]Package 2542
+     (1) ARTICLES: Self-supporting (rigid) fiberglass reinforced plastic (FRP) sheet may be shipped palletized and protected as specified.
+     (2) PROTECTIVE PACKAGING:
+           (a) Articles must be stacked on lift truck skid or pallet meeting all requirements set forth in Item 265 and sized so that articles do not overhang
+the lift truck skid or pallet deck.
+           (b) One sheet of oriented strand board (OSB) or ½-inch thick drywall must be placed on the lift truck skid or pallet deck.
+           (c) One of the following materials must be placed on top and cover the full dimensions of the stack of articles:
+               (i) ½-inch thick drywall sheet;
+               (ii) 0.625-inch honeycomb sheet using 33-pound paper facing, with a strength rated between 22 and 30 psi; OR
+               (iii) High density polyethylene (HDPE) foam sheet having a density of 20 pcf.
+           (d) Nonexpanded plastic L-shaped corner protectors must be screwed into the ends of the lift truck skid or pallet at all four corners.
+           (e) Edges of articles must be protected by fiberboard measuring not less than 2 x 6 inches and stapled to the lift truck skid or pallet.
+               (i) Handling units with drywall or foam sheet used as top protection must have edge boards extending the full length and width of the
+handling unit.
+               (ii) Handling units with honeycomb sheet used as top protection must have edge boards extending not less than 24 inches from each corner.
+     (3) STRAPPING REQUIREMENTS: All handling units must be secured together with not less than two embossed plastic straps, measuring 0.75 x
+0.040 inch and having a tensile strength of 1,900 pounds, in both the length and width directions.
+     (4) MARKINGS: ‘Handle with Care,’ a label indicating fork extensions must be used, and other precautionary markings, as applicable, must be on
+at least two sides of the packaged article. (See Item 682.)
+
+
+
+
+                           Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+ 20                      For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018
+                                                             SUPPLEMENT 4 TO NMF 100-AR
+                                               PROCEDURES GOVERNING INTERLINE SETTLEMENTS
+
+
+ITEM 400500-A
+                                  COLLECTION OF CHARGES, RESPONSIBILITY AND LIABILITY
+     Except as provided in this procedure, the invoicing carrier shall be responsible for the collection of proper charges. The collecting carrier shall not
+commingle such funds due the interlining carrier(s) with its general funds. The collecting carrier shall not be required to pay interest to the interlining
+carrier(s) while the funds owing to the interlining carrier(s) are in its possession. The revenues collected shall be apportioned to the interlining carrier(s)
+as specified in the interline agreement, subject to the collecting carrier being paid by the customer. Upon receiving the revenues, the collecting carrier
+shall promptly pay the interlining carrier(s) as specified in this agreement which revenues have been received by the collecting carrier and due and owing
+to the interline carrier(s). Prepaid shipments, points in foreign countries requiring prepayment, or shipments insufficiently prepaid shall be the
+responsibility of the invoicing carrier, subject to the following exceptions:
+         (a) Invoicing carrier shall be responsible for collection of additional charges.
+         (b) When freight requiring prepayment is billed collect, or is insufficiently prepaid, it shall be accepted from the connecting carrier. The invoicing
+carrier shall attempt to collect the amount due, and if unsuccessful, notify the carrier at fault within 10 business days. The uncollectible amount shall
+then be borne by the carrier at fault.
+         (c) Participating carriers who fail to notify the invoicing carrier of the proper charges, including the misapplication of the rate, are not relieved
+from responsibility for undercharges for which the invoicing carrier may be liable, nor are they relieved for their errors that the invoicing carrier could not
+reasonably detect.
+         (d) The invoicing carrier shall receive all possible assistance from participating carriers in its effort to make collections.
+         (e) The invoicing carrier shall offer reasonable assistance in attempting to determine and collect the correct charges and shall make a demand
+on the consignee for charges that are uncollected due to an error of another carrier. Upon written or electronic evidence of two (2) demands for payment,
+or a direct refusal of the consignee to pay, or when the consignee executes a certificate of nonbeneficial ownership prior to delivery of the property,
+which renders them not liable for any additional charges, the carrier in error, without further action on the part of the invoicing carrier, shall pay the
+invoicing carrier the uncollected charges outstanding in the accounts of the invoicing carrier, provided the invoicing carrier requests payment within one
+(1) year from the month within which the outstanding charges were placed in the accounts of the invoicing carrier.
+         (f) When an amount is placed in the accounts of a carrier as the result of an error in a bill of lading or shipping order that effects the actual
+charges due from a shipper or consignee, for which neither origin, intermediate or destination carrier is responsible, and such amount is uncollectible,
+readjustment to the basis existing before such amount was placed in the accounts shall be made.
+
+
+
+
+                          Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2018                               21
+                                                           SUPPLEMENT 4 TO NMF 100-AR
+
+                                 EXPLANATION OF ABBREVIATIONS AND REFERENCE MARKS
+
+Abbreviation                                                                   Abbreviation
+ or                                                                             or
+Reference                      Explanation                                     Reference                    Explanation
+Mark                                                                           Mark
+
+
+ASTM           ASTM International                                              Sec.           Section
+Avdp.          Avoirdupois                                                     sq.            square
+B&SG           Brown & Sharpe gauge                                            sq. ft.        square foot; square feet
+BWG            Birmingham wire gauge                                           sq. in.        square inch(es)
+°C             degree Centigrade (Celsius)                                     STB            Surface Transportation Board
+CFR            Code of Federal Regulations                                     SU             Set Up
+cm             centimeter(s)                                                   t/a            trading as
+COD            Collect on Delivery                                             t/d/b/a        trading and doing business as
+Cont’d         Continued                                                       ™              Trademark
+cu             cubic                                                           UN             United Nations
+cu. ft.        cubic foot; cubic feet                                          U.S.           United States
+DOT            Department of Transportation                                    USC            United States Code
+d/b/a          doing business as                                               U.S.S.G.       United States Standard Gauge
+etc.           et cetera (and other things, or the rest; and so forth)         viz.           namely
+°F             degree Fahrenheit                                               vol.           volume
+g              gram                                                            vs.            versus
+gal            gallon(s)                                                       &              and
+in.            inch(es)                                                        °              degree
+incl.          inclusive                                                       %              percent
+ISTA           International Safe Transit Association                          §              Section
+KD             Knocked Down                                                                  Indicates commodity or commodities may be subject to
+                                                                                              special federal regulations concerning the shipping of
+kg             kilogram
+                                                                                              hazardous materials. See Item (Rule) 540 herein.
+kPa            Kilopascal
+                                                                               ,              Indicates reduction
+L              liter
+                                                                                             Indicates increase
+lbs.           pounds
+                                                                                             Indicates change in wording which results in neither an
+m              meter(s)                                                                       increase nor reduction
+ml             milliliter(s)                                                   ]              Indicates change in packaging
+mm             millimeter(s)                                                   +              Indicates that the item is being brought forward without
+MPa            Megapascal                                                                     change
+NMFC           National Motor Freight Classification                                         Indicates new item, package or participating carrier
+NOI            Not more specifically described herein                          A              Addition to Index to Articles
+o/a            operating as                                                    B              Eliminate from Index to Articles
+oz.            ounce(s)                                                        C              Change in Index to Articles
+pcf            pounds per cubic foot                                           E              These provisions are subject to the expiration date as
+psi            pounds per square inch                                                         shown in Item (Rule) 535.
+qt.            quart                                                           I              The participation of this carrier is CANCELED; provisions
+                                                                                              of this Classification no longer apply for account of this
+RSorL          Classed the same or lower                                                      carrier.
+r.p.m.         revolutions per minute                                          P              Under postponement
+SCAC           Standard Carrier Alpha Code — The SCAC (alpha code)             R              Registered trade name or registered trademark
+               listings in this Classification represent only those carriers
+               participating in the NMFC. For a complete listing of all                      Effective November 29, 2018, under authority of 49 CFR
+               assigned alpha codes, see the Directory of Standard                            §1312.6(b)(3).
+               Carrier Alpha Codes, NMF 101.                                   z              Indicates correction of printing error
+
+
+
+                                                                         —finis—
+
+
+
+
+                           Only participants in the NMFC at the time the transportation occurs may use the provisions herein.
+    22                             For explanation of abbreviations and reference marks, see above. ©NMFTA 2018
+

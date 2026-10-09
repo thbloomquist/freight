@@ -1,0 +1,1956 @@
+EDI INVOICING AND REMITTANCE
+
+
+210 MOTOR CARRIER FREIGHT DETAILS & INVOICE
+820 PAYMENT ORDER/REMITTANCE ADVICE
+       (and alternate CSV REMITTANCE DATA FILE)
+997 FUNCTIONAL ACKNOWLEDGMENT
+
+
+VERSION 4010
+
+FedEx Freight
+
+December 2022
+
+
+This version is effective as of December 2022. Prior to implementation, contact EDI-InvandRemit@fedex.com to be
+ensure you have the latest version available. This document contains information proprietary and confidential to
+FedEx Corporation and may not be disclosed without authorization from FedEx. The proprietary and confidential
+information is contained on each page of the document and may not be copied or otherwise reproduced or distributed
+without authorization from FedEx.
+
+
+
+© 1992–2018 FedEx Corporation unpublished. FedEx and the FedEx “logo” are registered service marks of FedEx
+Corporation. All rights reserved
+                                                                                                                       FedEx Electronic Invoice and Remittance
+
+Contents
+Document Revision History.............................................................................................................................................. 3
+
+Introduction ..................................................................................................................................................................... 3
+
+What is EDI? ..................................................................................................................................................................... 3
+
+   Electronic Data File Process Flow ............................................................................................................ 4
+
+   Guidelines and Limitations ....................................................................................................................... 4
+
+   Transmissions.......................................................................................................................................... 5
+
+Remittance Data Files and Payment Information ............................................................................................................ 5
+
+   Remittance Data File Information ............................................................................................................. 5
+
+   Payment Guidance - U.S. Payor Only ...................................................................................................... 5
+
+       EDI Remittance Data File and Payment Best Practices ............................................................................................ 6
+
+   Communication / File Delivery Options .................................................................................................... 7
+
+       sFTP (secure File Transfer Protocol) ........................................................................................................................ 7
+
+       AS2 ........................................................................................................................................................................... 7
+
+       Secured Website ...................................................................................................................................................... 7
+
+       Value Added Network .............................................................................................................................................. 7
+
+Getting Started................................................................................................................................................................. 8
+
+   Resources................................................................................................................................................ 9
+
+210 Motor Carrier Freight Details and Invoice Record Layout - Functional Group ID=IM ............................................ 10
+
+   Codes Dictionary.................................................................................................................................... 26
+
+Procedures for Submitting Remittance Data File .......................................................................................................... 27
+
+   Remittance Data File Structures ............................................................................................................ 27
+
+       820 Payment Order / Remittance Advice .............................................................................................................. 27
+
+       CSV Remittance File Layout ................................................................................................................................... 38
+
+Functional Acknowledgement Record Layout ............................................................................................................... 39
+
+   997 Functional Acknowledgment ........................................................................................................... 39
+
+
+
+                                                                                                                                                                                     2
+                                                                       FedEx Electronic Invoice and Remittance
+
+
+
+Document Revision History
+                              Section                               Page       Date Updated
+ FedEx Freight Bill Audit and Pay (FBAP) Certification Program        8        October 2022
+
+ Payment Guidance - U.S. Payor Only                                   5        October 2022
+
+ EDI Remittance Data File and Payment Best Practices                  6       December 2022
+
+
+
+
+Introduction
+The purpose of this guide is to assist electronic data trading partners with information about implementing
+an Electronic Data Interchange (EDI) process with FedEx for Invoicing and Remittance data of FedEx
+Express® and FedEx Ground® shipments. The guide discusses benefits of EDI and how to get started with
+implementation. This guide will also provide resources for obtaining additional information.
+
+What is EDI?
+Electronic Data Interchange (EDI) is the electronic exchange of business documents using a standardized
+format. The entities that transmit or receive this electronic data are called trading partners. EDI can be
+used to transfer invoice and remittance data for FedEx Express and Ground shipments between FedEx
+and authorized trading partners.
+
+EDI processing helps FedEx deliver top-quality service that takes advantage of advanced information
+management technology. EDI can help customers increase efficiency while reducing errors and operating
+costs. Additional specific benefits of implementing EDI with FedEx include:
+   •   Reduced paper handling and mailing costs. In most cases the costs to transmit an electronic
+       document is considerably less than mailing costs.
+   •   Invoices for multiple FedEx accounts can be combined into a single transmission. Electronic
+       invoicing enhances your control over accounts payable, even when shipments originate from
+       multiple sites.
+   •   Eliminates keying of invoice data and reduces errors, so you’ll spend less time and effort verifying
+       and processing your bills.
+   •   Electronic invoicing provides convenient verification of shipping charges and proof of delivery
+       (FedEx Express only).
+   •   Electronic invoicing allows for quick and accurate allocation of shipping costs to internal
+       departments and third parties, streamlining your accounting and improving cash flow.
+   •   Invoice adjustments for LTL invoices cannot be submitted electronically.
+   •   Multiple data formats allow easy integration with Accounts Payable processes.
+
+
+
+
+                                                                                                              3
+                                                                        FedEx Electronic Invoice and Remittance
+
+Electronic Data File Process Flow
+
+
+
+
+Guidelines and Limitations
+In addition to the terms and conditions stated in the FedEx Service Guide:
+ •   To be eligible for electronic invoicing, you must send your remittance data electronically
+     (US). Payment can be made via paper check or Electronic Funds Transfer (EFT).
+ •   Past due charges will be sent electronically unless otherwise specified. In accordance with the
+     FedEx Service Guide, payment must be made within 15 days of the invoice date.
+ •   On your normal billing cycle, you will receive an invoice file for all account numbers requested to
+     be billed electronically.
+ •   Electronic documents are not considered “received” until they are accessible on the receiving
+     mailbox.
+ •   Electronic documents transmitted for electronic invoice and remittance are considered written
+     documents. They constitute an original when they are printed from electronic files or records
+     established and maintained in the course of business.
+ •   Failure to retrieve electronic invoice files in a timely manner may result in termination of
+     electronic invoicing by FedEx. Paper invoicing will resume.
+ •   Lack of reference data provided by the shipper is not a valid reason to request invoice
+     adjustments.
+ •   Short payment problems identified by FedEx that are related to programming in your accounts
+     payable system or databases must be corrected immediately.
+ •   FedEx may modify electronic invoice and remittance formats at any time.
+ •   After implementation, either party can terminate electronic invoice and remittance with prior
+     notice.
+ •   Shipments are governed by service conditions in the current FedEx Service Guide and
+     Addendum.
+ •   If there is a conflict between this guide and the FedEx Service Guide, the Service Guide will take
+     precedence.
+
+
+
+
+                                                                                                             4
+                                                                         FedEx Electronic Invoice and Remittance
+
+Transmissions
+FedEx will transmit your invoice files either daily or weekly on your preferred billing day.
+The following guidelines and limitations apply:
+
+   •   Your EDI Analyst will assign a mailbox to you on our network, FedEx Net.
+
+   •   At no cost to you, FedEx will pay for the transmission of invoice and remittance files to an
+       electronic mailbox or to a value-added network of our choice. However, if you choose a
+       different network, FedEx pays the costs of the transmission interconnect only. Your company is
+       responsible for all charges from your value-added network provider.
+
+   •   You will provide and maintain your equipment, software, services, and testing necessary to
+       effectively and reliably send and receive electronic documents.
+
+   •   You are responsible for using proper mailbox procedures to ensure that all electronic
+       documents are duly authorized and protected from improper access.
+
+
+
+
+Remittance Data Files and Payment Information
+
+Remittance Data File Information
+For an explanation of how to structure a remittance data file, refer to the Procedures for Submitting
+Remittance Data File section.
+
+Payment Guidance - U.S. Payor Only
+− If paying by paper check:
+   ♦ Mail paper checks via the USPS to Attn: FedEx Freight, PO Box 223125, Pittsburgh, PA 5251-
+       2125.
+   ♦ Ship Overnight Letters to Attn: FedEx Freight, Box 223125, 500 Ross Street,
+       Pittsburgh, PA 15262.
+
+- If paying by ACH/EFT:
+   ♦ please email EFT-Auth@fedex.com to request banking details.
+                             .
+NOTE: Non-U.S. accounts should contact the billing or Credit & Collections department of your
+Country/Territory for payment options and address.
+
+
+
+
+                                                                                                              5
+                                                                       FedEx Electronic Invoice and Remittance
+
+EDI Remittance Data File and Payment Best Practices
+1. The remittance data file may contain the intra-U.S. Ground and Express and International invoices
+   (electronic or paper).
+2. Customer must transmit to FedEx an EDI remittance data file containing invoice numbers only
+   (preferred) or invoice and airwaybill numbers to indicate which shipments are being paid.
+3. Pay full amount of invoice. If you pay all of the tracking numbers on an invoice, create only one
+   payment record for that invoice
+4. If you make a partial payment, create a separate record for each tracking number.
+5. You have the option of submitting payments and invoice adjustments in the same remittance file, or in
+   separate files.
+6. EDI remittance data file header dollar amount must match detail lines total dollar amount within the
+   EDI remittance data file.
+7. There must be a one-payment-to-one-remittance-data-file ratio; the payment amount and remittance
+   data file totals must match dollars/cents exactly.
+8. The EDI remittance file reference number should be a unique number and included in the payment
+   remarks field for ACH/EFT payments or on the paper check stub for check payments.
+9. The remittance data file should arrive at FedEx prior-to or same-day-as the payment is deposited at
+   the bank.
+10. Please do not also email a remittance data file and/or print the invoice level detail on the check stub.
+11. If paying any invoice that exceeds $99,999.99 by Credit Card be sure to:
+    -   Create additional records in the remittance data file for that same invoice number as needed until
+        the amount of the invoice has been satisfied ensuring that no one invoice record exceeds
+        $99,999.99.
+    -   Provide a unique, never been used before, Reference Number for each record pertaining to that
+        same invoice number that is being paid. This will result in separate charges to the credit card
+        equal to the payment amount provided for each unique Reference Number.
+
+
+    Note: Paying by credit card requires you to work with your FedEx Sales Representative to obtain
+          approval and also requires additional EDI process setup. To request approval to pay by Credit
+          Card, please contact your Sales Representative for next steps.
+
+
+
+
+                                                                                                               6
+                                                                     FedEx Electronic Invoice and Remittance
+
+
+Communication / File Delivery Options
+It is a FedEx Information Security requirement that customer data, both inbound and outbound, either be
+encrypted or be sent via a secured website. FedEx offers the following options for communication of data
+to trading partners.
+
+   sFTP (secure File Transfer Protocol)
+   sFTP (secure File Transfer Protocol) uses dedicated ports to transfer data securely between FedEx and
+   the customer. The connection is secure so no certificates or keys need to be exchanged. This also
+   means that the commands, as well as the passwords, are secure. This option uses secure shell (SSH)
+   encryption and a binary transfer. The data can either be pushed or delivered to a mailbox on FedEx Net
+   for customers retrieval
+
+
+   AS2
+   AS2 also known as EDI INT, or EDI over the internet is also supported by FedEx. AS2 essentially creates
+   a wrapper around EDI or flat files that enables sending them over the Internet. AS2 is a real-time
+   technology that provides security and encryption around the HTTP packets. It enables information
+   transmitted over public and private global networks to be digitally signed, secured, and non-repudiated.
+   The customer must have AS2 software to be able to use this option, but there are no network charges.
+
+
+   Secured Website
+   Trading Partners may wish to access their mailbox via a secured website. This is a manual process
+   whereby the trading partner connects to a secure URL using a provided User ID and password. The
+   FedEx Net website allows the trading partner to upload and download files. Only one file can be uploaded
+   or downloaded at a time.
+
+
+   Value Added Network
+   FedEx has the ability to transmit to a Value-Added Network (VAN). GXS is the VAN FedEx uses and
+   GXS can interconnect to the trading partner’s VAN. There are transmission costs for this option.
+   FedEx will incur up to 50% of the transmission costs.
+
+
+
+
+                                                                                                           7
+                                                                     FedEx Electronic Invoice and Remittance
+
+Getting Started
+Once you have decided to use electronic invoice and remittance, follow this guide for onboarding and
+implementation. If you need help along the way, consult the ‘Resources’ section.
+
+You will need to successfully complete these steps before electronic invoice and remittance may begin:
+
+1. Please send requests for electronic invoice testing to EDI-InvandRemit@fedex.com. Please include
+   Company Name, Account Number, Contact Name, Contact Email, Contact Phone, and description of
+   request.
+
+2. If you need your Account Executive’s name and telephone number, call Customer Service at 800-463-
+   3339. Your Account Executive will submit the request to Electronic Revenue Support (ERS).
+
+3. Program your system to read the invoice file FedEx sends you, process it through your Accounts
+   Payable System, generate and send the remittance transmission (U.S. Payor only) (refer to the
+   ‘Invoice’ section) and return to FedEx a remittance data file.
+
+4. Validate in coordination with FedEx (Refer to the Implementation Guide for details).
+
+5. When electronic invoice process validation is complete and remittance (US payor only) testing is
+   approved, provide a list of all shipping accounts and the associated company names you want
+   implemented. At your requested production date, paper invoicing will be replaced with electronic
+   invoicing.
+
+
+
+
+                                                                                                          8
+                                                                                  FedEx Electronic Invoice and Remittance
+
+Resources
+
+
+             WHAT IS NEEDED                                                    WHAT TO DO
+
+ To request a specific EDI Implementation
+                                              Please email EDI-InvandRemit@fedex.com for assistance.
+ Guide:
+
+ To validate Electronic Invoice &
+                                              Please email EDI-InvandRemit@fedex.com for assistance.
+ Remittance processes:
+
+                                              Obtain your account executive’s name and telephone number by calling
+ To contact your account executive:
+                                              Customer Service at 800 463-3339 (800 Go FedEx).
+
+
+ Answers to billing questions or to request   Call FedEx Revenue Services at: 800 622-1147 between 7 A.M. and 6 P.M.
+ Duties & Taxes adjustments:                  (CST).
+
+
+                                              Consult the current FedEx Service Guide. It is the official source
+                                              for service offerings, delivery schedules, and conditions for Money-Back
+ To obtain service information:               Guarantee. It is an essential reference for programming when auditing the
+                                              invoice. To obtain the latest FedEx Service Guide visit
+                                              http://www.fedex.com/us/service-guide/.
+
+ FedEx Billing Online Technical Support       Call 877- 339-2774, when prompted say: “Billing Online”
+
+ For 214 - Shipment Status Message
+                                              Email a request email to FedEx at edihelp@fedex.com.
+ support:
+
+                                              1. Contact the EDI Hotline at 855-408-9440 and select the EDI Electronic
+ To obtain shipment data upload from             Package Data Interchange (EPDI) support option.
+ FedEx approved devices assistance.           OR
+                                              2. Email a request email to FedEx at edihelp@fedex.com.
+
+
+
+
+FedEx Freight Bill Audit and Pay (FBAP) Certification Program
+The FedEx Freight Bill Audit and Pay (FBAP) Certification program recognizes Freight Bill, Audit, and Pay
+Providers that have consistently met FedEx standards for receiving invoices electronically, processing, and
+remitting payment details, and managing disputes on behalf of customers. Although FedEx works with
+many Freight Bill, Audit, and Pay providers, only these providers have demonstrated their ability to
+effectively provide freight bill, audit, and payment services to their customers in accordance with FedEx
+standards, thereby earning recognition as a Certified FBAP Provider. For information about the FedEx
+Freight Bill Audit and Pay (FBAP) Certification program please visit FedEx Billing Solutions.
+
+
+
+
+                                                                                                                          9
+                                                                                FedEx Electronic Invoice and Remittance
+
+210 Motor Carrier Freight Details and Invoice Record Layout - Functional
+Group ID=IM
+
+Introduction
+This Draft Standard for Trial Use contains the format and establishes the data contents of the Motor Carrier Freight
+Details and Invoice Transaction Set (210) for use within the context of an Electronic Data Interchange (EDI)
+environment. The transaction set can be used to provide detail information for charges for services rendered by a
+motor carrier. It is used both as a motor carrier invoice to request payment or as details pertaining to motor freight
+shipment(s) charges.
+
+Heading:
+
+        Pos.     Seg.               Req.               Loop         No.    ID          Name     Des.
+Max.Use Repeat
+M         010    ST      Transaction Set Header                    M               1
+
+M         020    B3      Beginning Segment for Carrier's Invoice   M               1
+
+          040    C3      Currency                                  O               1
+
+          060    N9      Reference Identification                  O             300
+
+          070    G62     Date/Time                                 O               6
+
+          080    R3                            Motor               O              12
+                         Route Information -
+
+                         LOOP ID - 0100                                                         10
+                         Name                                      O               1
+          110    N1      Address Information                       O               2
+                         Geographic Location                       O               1
+          130    N3
+
+          140    N4
+
+
+Detail:
+          Pos.   Seg.                                              Req.                  Loop
+          No.    ID      Name                                      Des.    Max.Use       Repeat
+                         LOOP ID - 0400                                                       9999
+                         Assigned Number                           O               1
+
+          120    LX      Description, Marks and Numbers            O              30
+                         Line Item - Quantity and Weight           O              10
+          140    L5
+                         Rate and Charges                          O              10
+          170    L0
+                         Tariff Reference                          O              10
+          180    L1
+
+          200    L7
+
+
+Summary:
+          Pos.   Seg.                                              Req.                  Loop
+          No.    ID      Name                                      Des.    Max.Use       Repeat
+          010    L3 SE   Total Weight and Charges Transaction      O M             1
+                         Set Trailer                                               1
+M         020
+
+
+
+
+                                                                                                                         10
+                                                                              FedEx Electronic Invoice and Remittance
+
+
+          Segment:     ST Transaction Set Header
+          Position:    010
+              Loop:
+             Level:    Heading
+            Usage:     Mandatory
+          Max Use:     1
+          Purpose:     To indicate the start of a transaction set and to assign a control number
+      Syntax Notes:
+    Semantic Notes:    1     The transaction set identifier (ST01) is used by the translation routines of the
+                             interchange partners to select the appropriate transaction set definition (e.g., 810 selects
+                             the Invoice Transaction Set).
+        Comments:
+
+
+                                            Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M            ST01       143    Transaction Set Identifier Code                            M ID 3/3
+                               Code uniquely identifying a Transaction Set
+                                 210               Motor Carrier Freight Details and Invoice
+M            ST02       329    Transaction Set Control Number                             M AN 4/9
+                               Identifying control number that must be unique within the transaction set
+                               functional group assigned by the originator for a transaction set
+
+
+
+
+                                                                                                                      11
+                                                                            FedEx Electronic Invoice and Remittance
+
+                       B3 Beginning Segment for Carrier's Invoice
+                       020
+                       Heading
+                       Mandatory
+                       1 To transmit basic data relating to the carrier's invoice
+      Syntax Notes:    1 If either B309 or B310 is present, then the other is required.
+    Semantic Notes:    1 B306 is the billing date.
+                       2 On collect freight bills the data in B309 will be the actual delivery date. For the
+                           shipments invoiced prior to delivery, the B309 will be the estimated date of delivery.
+                       3 If B314 is used, B304 will indicate the party or parties responsible for payment of the
+                           transportation terms identified in B314.
+
+                                         Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M            B302        76    Invoice Number                                             M AN 1/22
+                               Identifying number assigned by issuer
+                               PRO Number
+             B303       145    Shipment Identification Number                              O AN 1/30
+                                Identification number assigned to the shipment by the shipper that
+M            B304       146     Shipment Method of Payment                               M ID 2/2
+                                Code identifying payment terms for transportation charges
+                                  CC       Collect
+                                  PP       Prepaid (by Seller)
+                                  TP       Third Party Pay
+M            B306       373     Date                                                       M DT 8/8
+                                Date expressed as CCYYMMDD
+                                Billing Date
+M            B307       193     Net Amount Due                                              M N2 1/12
+                                Total charges to be paid by the receiver of this transaction set
+                                expressed in the standard monetary denomination for the currency
+                                specified
+             B308       202     Correction Indicator                                        O ID 2/2
+                                Code used to indicate that the transaction set contains information
+                                which corrects previous information
+                                  BD       Balance Due Billing
+                                  CO       Correction
+                                   PD      Past Due Billing
+             B309        32     Delivery Date                                              X DT 8/8
+                                Date for delivery of cargo to final consignee or to next mode expressed
+                                in format CCYYMMDD. “Delivery Date" is the Default value. If Delivery
+                                Date is not present “Estimated Delivery Date” will be used.
+                                Codes specifying type of date or time, or both date and time:
+                                  017      Estimated Delivery (Used if “Delivered Date” is blank)
+                                  035      Delivered (DEFAULT)
+                                  140      Actual (Available on request)
+
+
+
+
+                                                                                                        12
+                                                                          FedEx Electronic Invoice and Remittance
+
+
+
+
+                       C3 Currency
+                      040
+
+                      Heading
+                      Optional
+                      1
+                      To specify the currency being used in the transaction set
+      Syntax Notes:
+    Semantic Notes:    1    C301 is the billing currency.
+                       2    C303 is the payment currency.
+                       3    C304 is the rated currency.
+        Comments:      1    Currency is implied by the code for the country in whose currency the monetary amounts
+                            are specified.
+
+
+                                         Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                Attributes
+M            C301       100   Currency Code                                          M ID 3/3
+                              Code (Standard ISO) for country in whose currency the charges are specified.
+                              CAD - Canadian Dollars
+                              USD - U.S. Dollars
+
+
+
+
+                                                                                                               13
+                                                                             FedEx Electronic Invoice and Remittance
+
+
+          Segment:     N9 Reference Identification
+          Position:    060
+              Loop:
+             Level:    Heading
+            Usage:     Optional
+          Max Use:     300
+          Purpose:     To transmit identifying information as specified by the Reference Identification Qualifier
+      Syntax Notes:   1    At least one of N902 or N903 is required.
+                      2    If N906 is present, then N905 is required.
+                      3    If either C04003 or C04004 is present, then the other is required.
+                      4    If either C04005 or C04006 is present, then the other is required.
+    Semantic Notes:   1    N906 reflects the time zone which the time reflects.
+                      2    N907 contains data relating to the value cited in N902.
+        Comments:
+
+
+                                             Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                      Attributes
+M            N901       128    Reference Identification Qualifier                           M ID 2/3
+                               Code qualifying the Reference Identification
+                               In order for this information to be included on the invoice this
+                               information must be provided on the original BOL (Bill of Lading)
+                               document. “BM” and “”35” are default codes. Qualifier "QY" is only
+                               sent if you have requested to only receive SCAC "FXFE" in the B311
+                               element. It indicates service type: ECON or PRTY.
+
+                                If there is additional reference information you would like to receive
+                                please email EDI-InvandRemit@fedex.com.
+                                BM - Bill of Lading Number
+                                PO - Purchase Order Number
+                                QY - Service Level
+             N902       127    Reference Identification                                         X AN 1/30
+                               Reference information as defined for a particular Transaction Set or as
+                               specified by the Reference Identification Qualifier
+
+
+
+
+                                                                                                         14
+                                                                       FedEx Electronic Invoice and Remittance
+
+
+
+
+                   G62 Date/Time
+                   070
+                   Heading
+                   Optional
+                   6
+                   To specify pertinent dates and times
+  Syntax Notes:   1    At least one of G6201 or G6203 is required.
+                  2    If either G6201 or G6202 is present, then the other is required.
+Semantic Notes:   3    If either G6203 or G6204 is present, then the other is required.
+    Comments:
+
+
+
+                                      Data Element Summary
+         Ref.     Data
+         Des.     Element Name                                                     Attributes
+         G6201      432   Date Qualifier                                               X ID 2/2
+                            Code specifying type of date
+                            Code “86” is the default date. Codes "11" and "35" are available.
+                            11 - Shipped on This Date
+                            35 - Delivered on This Date
+                            86 - Actual Pickup Date (DEFAULT)
+         G6202      373     Date                                                      X   DT 8/8
+                            Date expressed as CCYYMMDD
+
+
+
+
+                                                                                                           15
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+
+          Segment:     R3 Route Information - Motor
+          Position:    080
+              Loop:
+             Level:    Heading
+            Usage:     Optional
+          Max Use:     12
+          Purpose:     To specify carrier and routing sequences and details
+      Syntax Notes:   1    If R311 is present, then R310 is required.
+                      2    If R312 is present, then R311 is required.
+    Semantic Notes:   1      R303 is the station or city name at which carriers interchange shipments
+                      2    R307 is the carrier's billing date.
+                      3    R308 is the amount due the carrier.
+        Comments:
+
+
+                                          Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                      Attributes
+M            R301       140    Standard Carrier Alpha Code                                   M ID 2/4
+                               Standard Carrier Alpha Code
+                               FXFE - FedEx Freight Priority
+                              FXNL - FedEx Freight Economy
+                               FXFC - FedEx Canada
+M            R302       133 Routing Sequence Code                                           M ID 1/2
+                                Code describing the relationship of a carrier to a specific shipment
+                                movement
+                                  B                 Origin/Delivery Carrier (Any Mode)
+                                  D                 DELY (Delivery Switch Carrier)
+                                  O                 Origin Carrier (Air, Motor, or Ocean)
+             R303        19   City Name                                                        O AN 2/30
+                                Free-form text for city name
+             R304        91   Transportation Method/Type Code                                O ID 1/2
+                                Code specifying the method or type of transportation for the shipment
+                                  LT                Less Than Trailer Load (LTL)
+             R306        76   Invoice Number                                                   O AN 1/22
+                                Identifying number assigned by issuer
+             R310       284   Service Level Code                                             X ID 2/2
+                                Code indicating the level of transportation service or the billing service
+                                offered by the transportation carrier
+                                R306 will only be sent if you have requested to only receive SCAC
+                                "FXFE" in the B311 element. It indicates FedEx Freight service type.
+                                  09                PRTY
+                                  G2               ECON
+
+
+
+
+                                                                                                        16
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+
+
+                       N1 Name
+                      110
+                      0100       Optional
+                      Heading
+                      Optional
+                      1
+                      To identify a party by type of organization, name, and code
+      Syntax Notes:   1 At least one of N102 or N103 is required.
+                      2 If either N103 or N104 is present, then the other is required.
+    Semantic Notes:
+       Comments:       1 This segment, used alone, provides the most efficient method of providing organizational
+                       identification. To obtain this efficiency the "ID Code" (N104) must provide a key to the table
+                       maintained by the transaction processing party.
+                       2 N105 and N106 further define the type of entity in N101.
+
+
+                                            Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M            N101        98    Entity Identifier Code                                      M ID 2/3
+                               Code identifying an organizational entity, a physical location, property or
+                               an individual
+                               BT - Bill-to-Party
+                               CN - Consignee
+                               SH - Shipper
+             N102        93    Name                                                        X AN 1/60
+                               Free-form name
+
+
+
+
+                                                                                                                    17
+                                                                   FedEx Electronic Invoice and Remittance
+
+
+
+
+                      N3 Address Information
+                      130
+                      0100      Optional
+                      Heading
+                      Optional
+                      2
+                      To specify the location of the named party
+      Syntax Notes:
+Semantic Notes:
+      Comments:
+
+
+
+                                           Data Element Summary
+           Ref.       Data
+           Des.       Element Name                                      Attributes
+M          N301         166    Address Information                          M AN 1/55
+                               Address information
+           N302         166    Address Information                          O AN 1/55
+                               Address information
+
+
+
+
+                                                                                                       18
+                                                                     FedEx Electronic Invoice and Remittance
+
+
+
+
+              N4 Geographic Location
+               140
+               0100      Optional
+               Heading
+               Optional
+               1
+               To specify the geographic place of the named party
+Syntax Notes:1     If N406 is present, then N405 is required.
+    Semantic
+       Notes:
+  Comments: 1 A combination of either N401 through N404, or N405 and N406 may be adequate to
+                   specify a location.
+              2    N402 is required only if city name (N401) is in the U.S. or Canada.
+
+
+                                   Data Element Summary
+     Ref.    Data
+     Des.    Element Name                                                   Attributes
+     N401       19    City Name                                                O AN 2/30
+                      Free-form text for city name
+     N402      156    State or Province Code                                   O ID 2/2
+                      Code (Standard State/Province) as defined by appropriate government
+                      agency
+     N403      116    Postal Code                                              O ID 3/15
+                      Code defining international postal zone code excluding punctuation and
+                      blanks (zip code for United States)
+     N404       26    Country Code                                             O ID 2/3
+                      Code identifying the country
+
+
+
+
+                                                                                                         19
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+
+
+                  LX Assigned Number
+                120
+                0400      Optional
+                Detail
+                Optional
+                1
+                To reference a line number in a transaction set
+      Syntax Notes:
+    Semantic Notes:
+        Comments:
+
+
+
+                                     Data Element Summary
+        Ref.      Data
+        Des.     Element Name                                                     Attributes
+M       LX01       554   Assigned Number                                             M N0 1/6
+                           Number assigned for differentiation within a transaction set
+
+
+
+
+                                                                                                                20
+                                                                             FedEx Electronic Invoice and Remittance
+
+
+
+
+                   L5 Description, Marks and Numbers
+                   140
+                   0400       Optional
+                   Detail
+                   Optional
+                   30
+                   To specify the line item in terms of description, quantity, packaging, and marks and numbers
+  Syntax Notes:   1    If either L503 or L504 is present, then the other is required.
+                  2    If L507 is present, then L506 is required.
+                  3    If either L508 or L509 is present, then the other is required.
+Semantic Notes:
+   Comments:      1     L502 may be used to send quantity information as part of the product description.
+
+
+                                        Data Element Summary
+         Ref.     Data
+         Des.     Element Name                                                        Attributes
+         L501       213    Lading Line Item Number                                     O N0 1/3
+                           Sequential line number for a lading item
+         L502        79    Lading Description                                          O AN 1/50
+                           Description of an item as required for rating and billing purposes
+         L503        22    Commodity Code                                               X AN 1/30
+                           Code describing a commodity or group of commodities
+         L504        23    Commodity Code Qualifier                                     X ID 1/1
+                           Code identifying the commodity coding system used for Commodity Code
+                             N - National Motor Freight Classification (NMFC)
+         L505         103    Packaging Code                                           O AN 3/5
+                             Code identifying the type of packaging; Part 1: Packaging Form, Part 2:
+                             Packaging Material; if the Data Element is used, then Part 1 is always
+                             required
+
+
+
+
+                                                                                                                  21
+                                                                              FedEx Electronic Invoice and Remittance
+
+
+
+
+                   L0 Line Item - Quantity and Weight
+                   170
+                   0400       Optional
+                   Detail
+                   Optional
+                   10
+                   To specify quantity, weight, volume, and type of service for a line item including applicable
+                   "quantity/rate-as" data
+  Syntax Notes:   1    If either L002 or L003 is present, then the other is required.
+                  2    If either L004 or L005 is present, then the other is required.
+                  3    If either L006 or L007 is present, then the other is required.
+                  4    If either L008 or L009 is present, then the other is required.
+                  5    If L011 is present, then L004 is required.
+                  6    If either L013 or L015 is present, then the other is required.
+Semantic Notes:   1    L008 is the number of handling units of the line item tendered to the carrier.
+                  2    L013 can only be used if the code in L009 is PLT, SKD, or SLP.
+                   3 L015 designates whether the carrier will be required to verify the number of units
+                       contained on a pallet, slip sheet or skid. Code "Y" indicates that the carrier will be
+                       required to verify. Code "N" indicates that the carrier will not be required to verify.
+    Comments:      1 L013 is used to convey the total number of boxes, cartons, or pieces contained on a
+                       pallet, skid, or slip sheet for the line item.
+
+
+                                        Data Element Summary
+         Ref.     Data
+         Des.     Element Name                                                      Attributes
+         L001       213    Lading Line Item Number                                     O N0 1/3
+                           Sequential line number for a lading item
+         L004        81    Weight                                                       X R 1/10
+                           Numeric value of weight
+         L005       187    Weight Qualifier                                             X ID 1/2
+                           Code defining the type of weight
+                            ‘N’ is the default code
+                            B - Billed Weight
+                            F - Deficit Weight
+                            G - Gross Weight
+                            N - Actual Net Weight
+                            P - Weight Per 100 Units
+         L008        80     Lading Quantity                                            X    N0 1/7
+                            Number of units (pieces) of the lading commodity
+         L009       211     Packaging Form Code                                        X    ID 3/3
+                            Code for packaging form of the lading quantity
+                            PCS - Pieces
+         L011       188     Weight Unit Code                                           O    ID 1/1
+                            Code specifying the weight unit
+                            L - Pounds
+         L013       380     Quantity                                                   X    R 1/15
+                            Numeric value of quantity
+
+                                                                                                                   22
+                                                                                  FedEx Electronic Invoice and Remittance
+
+
+
+         L014         211     Packaging Form Code                                          O     ID 3/3
+                              Code for packaging form of the lading quantity
+         L015         1073    Yes/No Condition or Response Code                             X    ID 1/1
+                              Code indicating a Yes or No condition or response
+
+
+
+                   L1 Rate and Charges
+                   180
+                   0400      Optional
+                   Detail
+                   Optional
+                   10
+                   To specify rate and charges detail relative to a line item including freight charges, advances,
+                   special charges, and entitlements
+         Ref.     Data
+         Des.     Element Name                                                        Attributes
+         L101       213 Lading Line Item Number                                           O N0 1/3
+                           Sequential line number for a lading item
+         L102        60 Freight Rate                                                      X R 1/9
+                           Rate that applies to the specific commodity
+         L103       122 Rate/Value Qualifier                                              X ID 2/2
+                           Code qualifying how to extend charges or interpret value
+                             CT - Charge or Credit Based on Percentage of Total
+                             CW - Per Hundred Weight
+                                  Describes a transportation rate that applies to every one hundred
+                                  pounds of total weight of an individual shipment
+
+                             FR - Flat Rate
+                             MN - Minimum
+                             PH - Per Hundred (of Basic Unit)
+         L104         58     Charge                                                         X N2 1/12
+                             For a line item: freight or special charge; for the total invoice: the total
+                             charges -- expressed in the standard monetary denomination for the
+                             currency specified
+         L108         150    Special Charge or Allowance Code                               O ID 3/3
+                             Code identifying type of special charge or allowance
+                             See the Codes Dictionary for list of available codes.
+
+         L112         276 Special Charge Description                                        O AN 2/25
+                             Identification of special charge; this data element is used whenever an
+                             applicable code cannot be found in data element 150
+  Syntax Notes:   1     If either L102 or L103 is present, then the other is required.
+                  2     At least one of L104 L105 or L106 is required.
+                  3     If either L114 or L115 is present, then the other is required.
+                  4     If either L117 or L118 is present, then the other is required.
+Semantic Notes:   1     L119 is the percent used to determine the charge in L104.
+                  2    L120, if used, indicates the currency for all monetary amounts in this L1 segment.
+                  3    L121 is the origin rated as charge amount.
+
+
+
+                                                                                                                      23
+                                                                               FedEx Electronic Invoice and Remittance
+
+
+
+
+                  L7 Tariff Reference
+                  200
+                  0400      Optional
+                  Detail
+                  Optional
+                  10
+                  To reference details of the tariff used to arrive at applicable rates or charge
+  Syntax Notes:
+Semantic Notes:   1    L710 is the effective date.
+                  2    In L715 and L716, "City" and "State" are used for rate combination city and state.
+    Comments:
+
+
+                                        Data Element Summary
+         Ref.     Data
+         Des.     Element Name                                                     Attributes
+         L701       213    Lading Line Item Number                                     O N0 1/3
+                           Sequential line number for a lading item
+         L707        59    Freight Class Code                                          O AN 2/5
+                           Code indicating generalized classification that applies to one or more
+                           items in the shipment, i.e., class 70, 77.5, etc.
+
+
+
+
+                                                                                                                   24
+                                                                                 FedEx Electronic Invoice and Remittance
+
+
+
+
+                   L3 Total Weight and Charges
+                   010
+                   Summary
+                   Optional
+                   1
+                   To specify the total shipment in terms of weight, volume, rates, charges, advances, and
+                   prepaid amounts applicable to one or more line items
+  Syntax Notes:   1    If either L301 or L302 is present, then the other is required.
+                  2    If either L303 or L304 is present, then the other is required.
+                  3    If either L309 or L310 is present, then the other is required.
+                  4    If L312 is present, then L301 is required.
+                  5    If either L314 or L315 is present, then the other is required.
+Semantic Notes:   1    L305 is the total charges.
+   Comments:
+
+
+                                       Data Element Summary
+         Ref.     Data
+         Des.     Element Name                                                         Attributes
+         L301        81    Weight                                                         X R 1/10
+                           Numeric value of weight
+         L302       187    Weight Qualifier                                                X ID 1/2
+                           Code defining the type of weight
+                            G - Gross Weight
+                            N - Actual Net Weight
+         L305        58     Charge                                                         O N2 1/12
+                            For a line item: freight or special charge; for the total invoice: the total
+                            charges -- expressed in the standard monetary denomination for the
+                            currency specified
+         L311        80     Lading Quantity                                                O N0 1/7
+                            Number of units (pieces) of the lading commodity
+
+
+
+
+                                                                                                                     25
+                                                                                FedEx Electronic Invoice and Remittance
+
+
+
+
+                       SE Transaction Set Trailer 020
+                      Summary
+                      Mandatory
+                      1
+                      To indicate the end of the transaction set and provide the count of the transmitted segments
+                      (including the beginning (ST) and ending (SE) segments)
+      Syntax Notes:
+    Semantic Notes:
+        Comments:     1    SE is the last segment of each transaction set.
+
+
+                                            Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M            SE01        96    Number of Included Segments                                M N0 1/10
+                               Total number of segments included in a transaction set including ST
+                               and SE segments
+M            SE02       329    Transaction Set Control Number                             M AN 4/9
+                               Identifying control number that must be unique within the transaction set
+                               functional group assigned by the originator for a transaction set
+
+
+
+
+Codes Dictionary
+The codes dictionary is a separate document. It is an Excel spreadsheet that lists the available code values
+used for an element. There is a separate TAB at the bottom of the document that correlates to each element,
+i.e. V908 DEL EXCEP, V912 DEL DISP. To request a copy of the Freight/LTL Codes Dictionary please email
+EDI-InvandRemit@fedex.com.
+
+
+
+
+                                                                                                                     26
+                                                                                        FedEx Electronic Invoice and Remittance
+
+Procedures for Submitting Remittance Data File
+You must create a remittance file to indicate which shipments are being paid. FedEx accepts two different
+remittance formats. They are:
+
+     •    ASC X12 820 Remittance
+     •    FedEx Proprietary CSV (Comma Separated Values)
+
+
+
+
+Remittance Data File Structures
+
+
+820 Payment Order / Remittance Advice
+
+Functional Group ID=RA
+
+
+Introduction
+This Draft Standard for Trial Use contains the format and establishes the data contents of the Payment
+Order/Remittance Advice Transaction Set (820) for use within the context of an Electronic Data
+Interchange (EDI) environment. The transaction set can be used to make a payment, send a remittance
+advice, or make a payment and send a remittance advice. This transaction set can be an order to a
+financial institution to make a payment to a payee. It can also be a remittance advice identifying the detail
+needed to perform cash application to the payee's accounts receivable system. The remittance advice can
+go directly from payer to payee, through a financial institution, or through a third-party agent.
+
+Heading
+          Pos.   Seg.                                                   Req.                       Loop
+          No.    ID       Name                                          Des.      Max.Use         Repeat
+                                            M 020 BPR                                   M 1
+M 010 ST Transaction Set Header M 1                     Beginning Segment for Payment
+
+                          Order/Remittance Advice
+Must Use 040     CUR      Currency                                      O                  1
+
+Must Use 050     REF      Reference Identification                      O                 >1
+
+Must Use 060     DTM      Date/Time Reference                           O                 >1
+
+                          LOOP ID - N1                                                                   >1
+                          Name                                          O                  1
+Must Use 070     N1
+
+
+Detail:
+          Pos.   Seg.                                                   Req.                      Loop
+          No.    ID       Name                                          Des.      Max.Use         Repeat
+                          LOOP ID - ENT                                                                  >1
+                          Entity                                         O                    1
+                          LOOP ID - RMR                                                                  >1
+                          Remittance Advice Accounts      Receivable     O                    1
+                          Open Item Reference
+
+
+
+
+                                                                                                                            27
+                                                           FedEx Electronic Invoice and Remittance
+
+        010     ENT
+
+
+Must Use 150    RMR
+
+
+
+        NTE     220
+
+
+
+
+Summary:
+         Pos.   Seg.                             Req.              Loop
+         No.    ID     Name                      Des.   Max.Use    Repeat
+M        010    SE     Transaction Set Trailer   M            1
+
+
+
+
+                                                                                               28
+                                                                              FedEx Electronic Invoice and Remittance
+
+
+
+
+                       ST Transaction Set Header
+                       010
+
+                      Heading
+                      Mandatory
+                      1
+                      To indicate the start of a transaction set and to assign a control number
+      Syntax Notes:
+    Semantic Notes:    1     The transaction set identifier (ST01) is used by the translation routines of the
+                             interchange partners to select the appropriate transaction set definition (e.g., 810 selects
+                             the Invoice Transaction Set).
+        Comments:
+
+
+                                          Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                        Attributes
+M            ST01       143    Transaction Set Identifier Code                               M ID 3/3
+                               Code uniquely identifying a Transaction Set
+                                  820 - Payment Order/Remittance Advice
+M            ST02          329    Transaction Set Control Number                             M AN 4/9
+                                  Identifying control number that must be unique within the transaction set
+                                  functional group assigned by the originator for a transaction set
+
+
+
+
+                                                                                                                      29
+                                                                           FedEx Electronic Invoice and Remittance
+
+
+                      BPR Beginning Segment for Payment Order/Remittance Advice 020
+                      Heading Mandatory
+                      1
+                      To indicate the beginning of a Payment Order/Remittance Advice Transaction Set and total
+                      payment amount, or to enable related transfer of funds and/or information from payer to
+                      payee to occur
+      Syntax Notes:   1 If either BPR06 or BPR07 is present, then the other is required.
+                      2 If BPR08 is present, then BPR09 is required.
+                      3 If either BPR12 or BPR13 is present, then the other is required.
+                      4 If BPR14 is present, then BPR15 is required.
+                      5 If either BPR18 or BPR19 is present, then the other is required.
+                      6 If BPR20 is present, then BPR21 is required.
+    Semantic Notes:   1 BPR02 specifies the payment amount.
+                      2 When using this transaction set to initiate a payment, all or some of BPR06 through
+                          BPR16 may be required, depending on the conventions of the specific financial channel
+                          being used.
+                          BPR06 and BPR07 relate to the originating depository financial institution (ODFI).
+                      3 BPR08 is a code identifying the type of bank account or other financial asset.
+                      4 BPR09 is the account of the company originating the payment. This account may be
+                          debited or credited depending on the type of payment order.
+                      5 BPR12 and BPR13 relate to the receiving depository financial institution (RDFI).
+                      6 BPR14 is a code identifying the type of bank account or other financial asset.
+                      7 BPR15 is the account number of the receiving company to be debited or credited with
+                          the payment order.
+                      8 BPR16 is the date the originating company intends for the transaction to be settled (i.e.,
+                          Payment Effective Date).
+                      9 BPR17 is a code identifying the business reason for this payment.
+                      10 BPR18, BPR19, BPR20 and BPR21, if used, identify a third bank identification number
+                          and account to be used for return items only.
+                      11 BPR20 is a code identifying the type of bank account or other financial asset.
+        Comments:
+
+
+                                        Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M           BPR01       305 Transaction Handling Code                                     M ID 1/2
+                              Code designating the action to be taken by all parties
+                              I - Remittance Information Only
+M           BPR02       782   Monetary Amount                                            M R 1/18
+                              Monetary amount
+M           BPR03       478   Credit/Debit Flag Code                                     M ID 1/1
+                              Code indicating whether amount is a credit or debit
+                              C - Credit
+M           BPR04       591   Payment Method Code                                     M ID 3/3
+                              Code identifying the method for the movement of payment instructions
+                              ACH - Automated Clearing House (ACH)
+                              CHK - Check
+            BPR16       373   Date                                                       O DT 8/8
+
+
+                                                                                                               30
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+
+                                Date expressed as CCYYMMDD
+                                ACH Settlement Date (only send if BPR04=ACH)
+
+
+
+                        CUR Currency
+                       040
+
+                       Heading
+                       Optional (Must Use)
+                       1
+                       To specify the currency (dollars, pounds, francs, etc.) used in a transaction
+      Syntax Notes:    1 If CUR08 is present, then CUR07 is required.
+                       2 If CUR09 is present, then CUR07 is required.
+                       3 If CUR10 is present, then at least one of CUR11 or CUR12 is required.
+                       4 If CUR11 is present, then CUR10 is required.
+                       5 If CUR12 is present, then CUR10 is required.
+                       6 If CUR13 is present, then at least one of CUR14 or CUR15 is required.
+                       7 If CUR14 is present, then CUR13 is required.
+                       8 If CUR15 is present, then CUR13 is required.
+                       9 If CUR16 is present, then at least one of CUR17 or CUR18 is required.
+                       10 If CUR17 is present, then CUR16 is required.
+                       11 If CUR18 is present, then CUR16 is required.
+                       12 If CUR19 is present, then at least one of CUR20 or CUR21 is required.
+                       13 If CUR20 is present, then CUR19 is required.
+                       14 If CUR21 is present, then CUR19 is required.
+    Semantic Notes:
+       Comments: 1        See Figures Appendix for examples detailing the use of the CUR segment.
+             Notes: THE "CUR" SEGMENT IS REQUIRED BY FEDEX.
+
+                                           Data Element Summary
+              Ref.      Data
+              Des.    Element Name                                                     Attributes
+M            CUR01       98    Entity Identifier Code                                      M ID 2/3
+                               Code identifying an organizational entity, a physical location, property or
+                               an individual
+                                 RM               Party that remits payment
+M            CUR02      100    Currency Code                                               M ID 3/3
+                               Code (Standard ISO) for country in whose currency the charges are
+                               specified
+                               "CAD" = Canadian Dollars
+                               "USD" - U.S. Dollars
+
+
+
+
+                                                                                                                31
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+                       REF Reference Identification
+                        050
+                        Heading
+                        Optional (Must Use)
+                        >1
+                        To specify identifying information
+      Syntax Notes:   1     At least one of REF02 or REF03 is required.
+                      2     If either C04003 or C04004 is present, then the other is required.
+                      3     If either C04005 or C04006 is present, then the other is required.
+    Semantic Notes:   1     REF04 contains data relating to the value cited in REF02.
+       Comments:
+             Notes: THE "REF" SEGMENT IS REQUIRED BY FEDEX.
+
+                                           Data Element Summary
+             Ref.       Data
+            Des.      Element Name                                                      Attributes
+M           REF01       128    Reference Identification Qualifier                          M ID 2/3
+                               Code qualifying the Reference Identification
+                                 CK - Check Number
+                                 TN - Transaction Reference Number
+            REF02        127     Reference Identification                                   X AN 1/30
+                                 Reference information as defined for a particular Transaction Set or as
+                                 specified by the Reference Identification Qualifier
+                                 FedEx MAX length is 12 characters.
+
+
+
+
+                                                                                                               32
+                                                                           FedEx Electronic Invoice and Remittance
+
+
+
+
+                      DTM Date/Time Reference
+                       060
+                       Heading
+                       Optional (Must Use)
+                       >1
+                       To specify pertinent dates and times
+     Syntax Notes:   1     At least one of DTM02 DTM03 or DTM05 is required.
+                     2     If DTM04 is present, then DTM03 is required.
+                     3      If either DTM05 or DTM06 is present, then the other is required.
+         Semantic
+Notes:
+         Comments:
+            Notes: THE "DTM" SEGMENT IS REQUIRED BY FEDEX.
+
+                                        Data Element Summary
+             Ref.      Data
+             Des.    Element Name                                                      Attributes
+M           DTM01      374    Date/Time Qualifier                                         M ID 3/3
+                                Code specifying type of date or time, or both date and time
+                                020 - Check
+                               097 - Transaction Creation
+>>          DTM02       373    Date                                                       X DT 8/8
+                                Date expressed as CCYYMMDD
+
+
+
+
+                                                                                                               33
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+                       N1 Name
+                       070
+                       N1      Optional (Must Use)
+                       Heading
+                       Optional (Must Use)
+                       1
+                       To identify a party by type of organization, name, and code
+      Syntax Notes:    1 At least one of N102 or N103 is required.
+                       2 If either N103 or N104 is present, then the other is required.
+    Semantic Notes:
+       Comments:       1 This segment, used alone, provides the most efficient method of providing organizational
+                         identification. To obtain this efficiency the "ID Code" (N104) must provide a key to the
+                         table maintained by the transaction processing party.
+                      2 N105 and N106 further define the type of entity in N101.
+             Notes: THE "N1" SEGMENT IS REQUIRED BY FEDEX.
+
+                                           Data Element Summary
+             Ref.       Data
+             Des.     Element Name                                                     Attributes
+M            N101        98    Entity Identifier Code                                      M ID 2/3
+                               Code identifying an organizational entity, a physical location, property or
+                               an individual
+                               PR - Payer
+             N102        93    Name                                                        X AN 1/60
+                               Free-form name
+
+
+
+
+                                                                                                               34
+                                                                       FedEx Electronic Invoice and Remittance
+
+
+
+
+                  ENT Entity
+                  010
+                  ENT      Optional
+                  Detail
+                  Optional
+                  1
+                  To designate the entities which are parties to a transaction and specify a reference
+                  meaningful to those entities
+  Syntax Notes:   1 If any of ENT02 ENT03 or ENT04 is present, then all are required.
+                  2 If any of ENT05 ENT06 or ENT07 is present, then all are required.
+                  3 If either ENT08 or ENT09 is present, then the other is required.
+Semantic Notes:
+   Comments:      1   This segment allows for the grouping of data by entity/entities at or within a
+                      master/masters. A master (e.g., an organization) can be comprised of numerous
+                      subgroups (e.g., entities). This master may send grouped data to another master (e.g.,
+                      an organization) which is comprised of one or more entities. Groupings are as follows:
+                      (1) Single/Single: Only ENT01 is necessary, because there is a single entity (the
+                      sending master) communicating with a single entity (the receiving master).
+                      (2) Single/Multiple: ENT05, ENT06, and ENT07 would be used to identify the entities
+                      within the receiving master. The sending master is a single entity, so no other data
+                      elements need be used.
+                      (3) Multiple/Single: ENT02, ENT03, and ENT04 would be used to identify the entities
+                      within the sending master. The receiving master is a single entity, so no other data
+                      elements need be used.
+                      (4) Multiple/Multiple: ENT02, ENT03, and ENT04 would be used to identify the entities
+                      within the sending master. ENT05, ENT06, and ENT07 would be used to identify the
+                      entities within the receiving master.
+                      This segment also allows for the transmission of a unique reference number that is
+                      meaningful between the entities.
+
+
+                                    Data Element Summary
+         Ref.     Data
+        Des.      Element Name                                                    Attributes
+        ENT01       554   Assigned Number                                            O N0 1/6
+                           Number assigned for differentiation within a transaction set
+
+
+
+
+                                                                                                           35
+                                                                          FedEx Electronic Invoice and Remittance
+
+
+                        RMR Remittance Advice Accounts Receivable Open Item Reference
+                     150
+                     RMR         Optional (Must Use)
+                     Detail
+                     Optional (Must Use)
+                     1
+                     To specify the accounts receivable open item(s) to be included in the cash application and to
+                     convey the appropriate detail
+       Syntax Notes: 1 If either RMR01 or RMR02 is present, then the other is required.
+                      2 If either RMR07 or RMR08 is present, then the other is required.
+     Semantic Notes: 1      If RMR03 is present, it specifies how the cash is to be applied.
+                      2     RMR04 is the amount paid.
+                      3     RMR05 is the amount of invoice (including charges, less allowance) before terms
+                            discount (if discount is applicable) or debit amount or credit amount of referenced
+                            items.
+                      4     RMR06 is the amount of discount taken.
+                      5     RMR08, if present, represents an interest penalty payment, amount late interest paid,
+                            or amount anticipation.
+         Comments:
+                       1 Parties using this segment should agree on the content of RMR01 and RMR02 prior
+                            to initiating communication.
+                       2 If RMR03 is not present, this is a payment for an open item. If paying an open item,
+                            RMR02 must be present. If not paying a specific open item, RMR04 must be
+                            present.
+                       3 RMR05 may be needed by some payees to distinguish between duplicate reference
+              Notes:
+                           THE "RMR" SEGMENT IS REQUIRED BY FEDEX.
+                           The Tracking Number can be found in the 210 transaction in the "B302" element.
+
+                                            Data Element Summary
+              Ref.      Data
+              Des.    Element Name                                                    Attributes
+>>           RMR01       128   Reference Identification Qualifier                        X ID 2/3
+                               Code qualifying the Reference Identification
+                                 CN               Carrier's Reference Number (PRO/Invoice)
+                                 FR               Freight Bill Number
+>>           RMR02       127   Reference Identification                                     X AN 1/30
+                               Reference information as defined for a particular Transaction Set or as
+                               specified by the Reference Identification Qualifier                     >>
+             RMR04       782   Tracking Number or PRO
+                               Monetary Amount Monetary                                 O R 1/18
+                               amount
+             RMR05       782     This is the payment amount.
+                                 Monetary Amount Monetary                               O    R 1/18
+                                 amount
+                                 This is the invoice amount.
+
+
+
+
+                                                                                                               36
+                                                                               FedEx Electronic Invoice and Remittance
+
+
+
+
+                       SE Transaction Set Trailer
+          Position:    010
+             Loop:
+             Level:    Summary
+            Usage:     Mandatory
+          Max Use:     1
+          Purpose:     To indicate the end of the transaction set and provide the count of the transmitted segments
+                       (including the beginning (ST) and ending (SE) segments)
+      Syntax Notes:
+    Semantic Notes:
+        Comments:     1      SE is the last segment of each transaction set.
+
+
+                                            Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M            SE01        96    Number of Included Segments                                M N0 1/10
+                               Total number of segments included in a transaction set including ST
+                               and SE segments
+M            SE02       329    Transaction Set Control Number                             M AN 4/9
+                               Identifying control number that must be unique within the transaction set
+                               functional group assigned by the originator for a transaction set
+
+
+
+
+                                                                                                                   37
+                                                                       FedEx Electronic Invoice and Remittance
+
+CSV Remittance File Layout
+
+                                    Column                 Mandatory
+                                      In            Max       or
+ Field          Field Name           Excel   Type   Size    Optional   Comments
+
+                                                                       Customer's check # or other
+  1      Customer Reference           A       A     12        M        Reference
+                                                                       K - Check Payment
+  2      Payment Method Indicator     B       A      1        O        E - EFT
+  3      Customer ID                  C       A     15        M        Supplied by FedEx EDI Analyst
+  4      Invoice/Pro Number           D       A     12        M        10-digit numbers
+  5      Account Number               E       N     10        O        FedEx Freight Bill-To Number
+  6      (leave blank)                F       N     n/a       O
+  7      Payment Amount               G       N     7.2       M        Max size 10 (2 decimal places)
+
+
+Tips for Creating Your CSV Remittance File
+
+You may create the file in Excel, but only save the file as .csv before sending to FedEx.
+Do not include column headers.
+After the last payment record, the next record/row should be empty.
+
+Column A – Use the same Reference on every row
+
+Column C – Use the same Customer ID on every row
+
+Column D – Reformat the Invoice/Pro number column to ‘number with 0 decimals’
+
+Column G – include decimal or assumed at end. No $ sign or minus sign. Do not total at the end.
+
+NOTE: your check payment amount and file total amount must match.
+
+Example built in CSV (do not include row 7 identifiers)
+
+
+
+
+      Payment amount on row 4 is $72.00.
+
+
+
+
+                                                                                                           38
+                                                                                 FedEx Electronic Invoice and Remittance
+
+
+Functional Acknowledgement Record Layout
+
+Note: FedEx only accepts 997 at the “Transaction Level”, not at the “Group Level”. An AK2 & AK5
+segment must be sent for each ST/SE loop sent in the 210 invoice.
+
+SEGMENT STRUCTURE
+
+
+997 Functional Acknowledgment                                                             Functional Group ID=FA
+
+Introduction
+This Draft Standard for Trial Use contains the format and establishes the data contents of the Functional
+Acknowledgment Transaction Set (997) for use within the context of an Electronic Data Interchange (EDI)
+environment. The transaction set can be used to define the control structures for a set of acknowledgments to
+indicate the results of the syntactical analysis of the electronically encoded documents. The encoded documents are
+the transaction sets, which are grouped in functional groups, used in defining transactions for business data
+interchange. This standard does not cover the semantic meaning of the information encoded in the transaction sets.
+
+          Pos.   Seg.                                                  Req.               Loop
+          No.    ID     Name                                           Des.   Max.Use    Repeat
+M         010    ST     Transaction Set Header                         M            1
+
+M         020    AK1    Functional Group Response Header               M            1
+
+                        LOOP ID - AK2                                                    999999
+                        Transaction Set Response Header                O            1
+Must Use 030     AK2    LOOP ID - AK3                                                    999999
+                        Data Segment Note                              O            1
+          040           Data Element Note                              O           99
+                 AK3
+                        Transaction Set Response Trailer               M            1
+          050    AK4
+
+M         060    AK5
+
+M         070    AK9                      Functional Group Response Trailer                       M       1
+
+
+M         080    SE     Transaction Set Trailer                        M            1
+
+
+
+
+                                                                                                                     39
+                                                                              FedEx Electronic Invoice and Remittance
+
+
+                       ST Transaction Set Header
+                       010
+
+
+                      Mandatory
+                      1
+                      To indicate the start of a transaction set and to assign a control number
+      Syntax Notes:
+    Semantic Notes:    1     The transaction set identifier (ST01) is used by the translation routines of the
+                             interchange partners to select the appropriate transaction set definition (e.g., 810 selects
+                             the Invoice Transaction Set).
+        Comments:
+
+
+                                            Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M            ST01       143    Transaction Set Identifier Code                            M ID 3/3
+                               Code uniquely identifying a Transaction Set
+M            ST02       329    Transaction Set Control Number                             M AN 4/9
+                               Identifying control number that must be unique within the transaction set
+                               functional group assigned by the originator for a transaction set
+
+
+
+
+                                                                                                                      40
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+                       AK1 Functional Group Response Header
+                       020
+
+
+                       Mandatory
+                       1
+                       To start acknowledgment of a functional group
+      Syntax Notes:
+    Semantic Notes:    1     AK101 is the functional ID found in the GS segment (GS01) in the functional group being
+                             acknowledged.
+                       2     AK102 is the functional group control number found in the GS segment in the functional
+                             group being acknowledged.
+        Comments:
+           Notes: SEGMENT REQUIRED BY FEDEX
+
+                                           Data Element Summary
+             Ref.       Data
+            Des.      Element Name                                                    Attributes
+M           AK101        479   Functional Identifier Code                                 M ID 2/2
+                               Code identifying a group of application related transaction sets
+                                 IM                Motor Carrier Freight Details and Invoice (210, 980)
+M           AK102         28   Group Control Number                                       M N0 1/9
+                               Assigned number originated and maintained by the sender
+
+
+
+
+                                                                                                                 41
+                                                                            FedEx Electronic Invoice and Remittance
+
+
+                      AK2 Transaction Set Response Header
+                      030
+                      AK2       Optional (Must Use)
+
+                      Optional (Must Use)
+                      1
+                      To start acknowledgment of a single transaction set
+      Syntax Notes:
+    Semantic Notes:   1     AK201 is the transaction set ID found in the ST segment (ST01) in the transaction set
+                            being acknowledged.
+                      2     AK202 is the transaction set control number found in the ST segment in the transaction
+                            set being acknowledged.
+        Comments:
+           Notes: SEGMENT REQUIRED BY FEDEX
+
+                                         Data Element Summary
+             Ref.      Data
+            Des.      Element Name                                                      Attributes
+M           AK201       143   Transaction Set Identifier Code                              M ID 3/3
+                                 Code uniquely identifying a Transaction Set
+                                   997               Functional Acknowledgment
+M           AK202         329    Transaction Set Control Number                             M AN 4/9
+                                 Identifying control number that must be unique within the transaction set
+                                 functional group assigned by the originator for a transaction set
+
+
+
+
+                                                                                                                42
+                                                                          FedEx Electronic Invoice and Remittance
+
+
+                               AK3 Data Segment Note
+                      040
+                      AK3      Optional
+
+                      Optional
+                      1
+                      To report errors in a data segment and identify the location of the data segment
+      Syntax Notes:
+    Semantic Notes:
+        Comments:
+
+                                        Data Element Summary
+           Ref.        Data
+          Des.        Element Name                                                    Attributes
+M         AK301         721 Segment ID Code                                              M ID 2/3
+                              Code defining the segment ID of the data segment in error (See
+                              Appendix A - Number 77)
+M         AK302        719   Segment Position in Transaction Set                          M N0 1/6
+                              The numerical count position of this data segment from the start of the
+                              transaction set: the transaction set header is count position 1
+          AK303        447   Loop Identifier Code                                         O AN 1/6
+                              The loop ID number given on the transaction set diagram is the value
+                              for this data element in segments LS and LE
+          AK304        720   Segment Syntax Error Code                                    O ID 1/3
+                              Code indicating error found based on the syntax editing of a segment
+                                 1                Unrecognized segment ID
+                                 2                Unexpected segment
+                                 3                Mandatory segment missing
+                                 4                Loop Occurs Over Maximum Times
+                                 5                Segment Exceeds Maximum Use
+                                 6                Segment Not in Defined Transaction Set
+                                 7                Segment Not in Proper Sequence
+                                 8                Segment Has Data Element Errors
+
+
+
+
+                                                                                                              43
+                                                                             FedEx Electronic Invoice and Remittance
+
+
+                      AK4 Data Element Note
+                      050
+                      AK3        Optional
+
+                      Optional
+                      99
+                      To report errors in a data element or composite data structure and identify the location of the
+                      data element
+      Syntax Notes:
+    Semantic Notes:   1     In no case shall a value be used for AK404 that would generate a syntax error, e.g., an
+                            invalid character.
+        Comments:
+
+
+                                        Data Element Summary
+             Ref.     Data
+            Des.      Element Name                                                       Attributes
+M           AK401      C030 Position in Segment                                            M
+                                 Code indicating the relative position of a simple data element, or the
+                                 relative position of a composite data structure combined with the
+                                 relative position of the component data element within the composite
+                                 data structure, in error; the count starts with 1 for the simple data
+                                 element or composite data structure immediately following the segment
+                                 ID
+M           C03001        722    Element Position in Segment                                   M N0 1/2
+                                 This is used to indicate the relative position of a simple data element, or
+                                 the relative position of a composite data structure with the relative
+                                 position of the component within the composite data structure, in error;
+                                 in the data segment the count starts with 1 for the simple data element
+                                 or composite data structure immediately following the segment ID
+            C03002     1528      Component Data Element Position in Composite                  O N0 1/2
+                                 To identify the component data element position within the composite
+                                 that is in error
+            AK402         725    Data Element Reference Number                                 O N0 1/4
+                                 Reference number used to locate the data element in the Data Element
+                                 Dictionary
+M           AK403         723    Data Element Syntax Error Code                                M ID 1/3
+                                 Code indicating the error found after syntax edits of a data element
+                                    1                 Mandatory data element missing
+                                    2                 Conditional required data element missing.
+                                    3                 Too many data elements.
+                                    4                 Data element too short.
+                                    5                 Data element too long.
+                                    6                 Invalid character in data element.
+                                    7                 Invalid code value.
+                                    8                 Invalid Date
+                                    9                 Invalid Time
+
+
+
+
+                                                                                                                   44
+                                                                       FedEx Electronic Invoice and Remittance
+
+                              10                Exclusion Condition Violated
+          AK404      724    Copy of Bad Data Element                                  O AN 1/99
+                            This is a copy of the data element in error
+
+
+
+                   AK5 Transaction Set Response Trailer
+                   060
+                   AK2      Optional (Must Use)
+
+                   Mandatory
+                   1
+                   To acknowledge acceptance or rejection and report errors in a transaction set
+    Syntax Notes:
+        Semantic
+           Notes:
+      Comments:
+           Notes: SEGMENT IS REQUIRED BY FEDEX
+
+                                        Data Element Summary
+           Ref.     Data
+          Des.    Element Name                                                   Attributes
+M         AK501      717 Transaction Set Acknowledgment Code                         M ID 1/1
+                           Code indicating accept or reject condition based on the syntax editing of
+                           the transaction set
+                           A - Accepted
+                           E - Accepted But Errors Were Noted
+                           M - Rejected, Message Authentication Code (MAC) Failed
+                           R - Rejected
+                           W - Rejected, Assurance Failed Validity Tests
+                           X - Rejected, Content After Decryption Could Not Be Analyzed
+
+          AK502      718   Transaction Set Syntax Error Code                          O ID 1/3
+                           Code indicating error found based on the syntax editing of a transaction set
+
+          AK503      718   Transaction Set Syntax Error Code                          O ID 1/3
+                           Code indicating error found based on the syntax editing of a transaction set
+
+          AK504      718   Transaction Set Syntax Error Code                          O ID 1/3
+                           Code indicating error found based on the syntax editing of a transaction set
+
+          AK505      718   Transaction Set Syntax Error Code                          O ID 1/3
+                           Code indicating error found based on the syntax editing of a transaction set
+
+          AK506      718   Transaction Set Syntax Error Code                          O ID 1/3
+                           Code indicating error found based on the syntax editing of a transaction set
+
+
+
+
+                                                                                                           45
+                                                                         FedEx Electronic Invoice and Remittance
+
+
+                   AK9 Functional Group Response Trailer
+                   070
+
+                   Mandatory
+
+                   1
+                   To acknowledge acceptance or rejection of a functional group and report the number of
+                   included transaction sets from the original trailer, the accepted sets, and the received sets in
+                   this functional group
+        Syntax
+        Notes:
+      Semantic
+        Notes:
+    Comments:    1 If AK901 contains the value "A" or "E", then the transmitted functional group is accepted.
+        Notes: SEGMENT REQUIRED BY FEDEX
+
+                                         Data Element Summary
+          Ref.      Data
+         Des.     Element Name                                                     Attributes
+M        AK901       715 Functional Group Acknowledge Code                            M ID 1/1
+                          Code indicating accept or reject condition based on the syntax editing of
+                          the functional group
+M        AK902        97 Number of Transaction Sets Included                          M N0 1/6
+                          Total number of transaction sets included in the functional group or
+                          interchange (transmission) group terminated by the trailer containing this
+                          data element
+M        AK903       123 Number of Received Transaction Sets                          M N0 1/6
+                          Number of Transaction Sets received
+M        AK904         2  Number of Accepted Transaction Sets                         M N0 1/6
+                          Number of accepted Transaction Sets in a Functional Group
+         AK905       716 Functional Group Syntax Error Code                            O ID 1/3
+                          Code indicating error found based on the syntax editing of the functional
+                          group header and/or trailer
+         AK906       716 Functional Group Syntax Error Code                            O ID 1/3
+                          Code indicating error found based on the syntax editing of the functional
+                          group header and/or trailer
+         AK907       716 Functional Group Syntax Error Code                            O ID 1/3
+                          Code indicating error found based on the syntax editing of the functional
+                          group header and/or trailer
+         AK908       716 Functional Group Syntax Error Code                            O ID 1/3
+                          Code indicating error found based on the syntax editing of the functional
+                          group header and/or trailer
+         AK909       716 Functional Group Syntax Error Code                            O ID 1/3
+                          Code indicating error found based on the syntax editing of the functional
+                          group header and/or trailer
+
+
+
+
+                                                                                                                 46
+                                                                               FedEx Electronic Invoice and Remittance
+
+
+                       SE Transaction Set Trailer
+                       080
+
+
+                      Mandatory
+                      1
+                      To indicate the end of the transaction set and provide the count of the transmitted segments
+                      (including the beginning (ST) and ending (SE) segments)
+      Syntax Notes:
+    Semantic Notes:
+        Comments:     1      SE is the last segment of each transaction set.
+
+
+                                            Data Element Summary
+             Ref.     Data
+             Des.     Element Name                                                     Attributes
+M            SE01        96    Number of Included Segments                                M N0 1/10
+                               Total number of segments included in a transaction set including ST
+                               and SE segments
+M            SE02       329    Transaction Set Control Number                             M AN 4/9
+                               Identifying control number that must be unique within the transaction set
+                               functional group assigned by the originator for a transaction set
+
+
+
+
+                                                                                                                   47
+

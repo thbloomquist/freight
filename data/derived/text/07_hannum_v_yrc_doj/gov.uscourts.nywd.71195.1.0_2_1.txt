@@ -1,0 +1,650 @@
+            Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 1 of 13
+
+
+
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF NEW YORK
+
+The United States of America
+
+                ex rel.
+
+James Hannum,
+
+                                 Plaintiff,
+
+       v.                                                             Civ. No.: __________
+
+Roadway Express, Inc. and
+Yellow Transportation, Inc.,
+
+                                 Defendants.
+
+
+
+                                              COMPLAINT
+
+                Plaintiff, the United States of America, ex rel. James Hannum alleges as its
+
+Complaint against defendants as follows:
+
+
+                                              Introduction
+
+                1.        This is an action to recover damages, treble damages, and penalties on
+
+behalf of the United States of America on account of false and fraudulent claims made or caused
+
+to be made by defendants, their agents, employees, and co-conspirators, in violation of the
+
+Federal Civil False Claims Act, 31 U.S.C. § 3729, et seq., as amended (the “Act”). These
+
+violations involved the intentional and systematic submission of false claims to the United States
+
+of America, including several of its agencies and/or departments, for the purpose of getting
+
+payments in excess of those to which defendants were lawfully entitled for shipment delivery
+
+charges.
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 2 of 13
+
+
+
+                2.     Defendants Roadway Express, Inc. (“Roadway”) and Yellow
+
+Transportation, Inc. (“Yellow”), and their employees, agents, and co-conspirators on their behalf,
+
+systematically submitted to the United States of America claims for shipment delivery charges
+
+that falsely and fraudulently billed the United States for the higher, inaccurate, weights of
+
+shipments set forth on bills of lading when defendants knew, after their own weighing, that the
+
+shipments actually weighed less. As a result of these knowingly false and fraudulent claims,
+
+defendants received payments from the United States of America that were inflated, excessive,
+
+and unearned.
+
+
+                3.     The Act provides that any person who knowingly submits or causes to be
+
+submitted, or conspires to submit, a false or fraudulent claim to the United States of America for
+
+payment or approval is liable for a civil penalty of between $5,500 and $11,000 for each false or
+
+fraudulent claim submitted or paid, plus three times the amount of damages sustained by the
+
+United States of America from the payment of such fraudulent claims. The Act’s Qui Tam
+
+provisions further allow any person having information regarding a false or fraudulent claim
+
+against the United States of America to bring an action for himself (as the “relator”) and for the
+
+United States of America, and to share in any recovery.
+
+
+                4.     Based on these provisions of the Act, James Hannum, as plaintiff/relator,
+
+seeks to recover damages, treble damages, and civil penalties arising from false claims made to
+
+the United States of America that were knowingly presented or caused to be presented to, and
+
+were paid by, the United States of America as a result of the acts of defendants and their agents,
+
+employees, and co-conspirators.
+
+
+
+                                                -2-
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 3 of 13
+
+
+
+                                              Parties
+
+               5.      Plaintiff/relator, James Hannum, is and was, at all times relevant to this
+
+Complaint, a resident of Dunkirk, New York and the County of Chautauqua, within the Western
+
+District of New York. James Hannum has personal knowledge of the facts alleged in this
+
+Complaint and is acquainted with defendants and their business practices.
+
+
+               6.      James Hannum has been employed by Roadway for 22 years at its Buffalo
+
+facility. He is currently employed as a service planner, or supervisor. For many years before his
+
+current position, he was employed as a weight and inspections supervisor.
+
+
+               7.      Hannum brings this action for violations of 31 U.S.C. sections 3729 et seq.
+
+on behalf of himself and the United States of America pursuant to 31 U.S.C. section 3730(b)(1).
+
+The allegations of this action are based upon Hannum’s personal knowledge unless otherwise
+
+described as made upon information and belief.
+
+
+               8.      Hannum is the original source of the factual allegations of this Complaint
+
+within the meaning of section 3730(e)(4)(B) of the Act.
+
+
+               9.      Upon information and belief, Roadway is a corporation organized and
+
+existing under the laws of the State of Delaware, with principal offices for the transaction of
+
+business located at 10990 Roe Ave, Overland Park, Kansas 66211, and at 1077 Gorge
+
+Boulevard, Akron, Ohio 44309.
+
+
+
+
+                                                -3-
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 4 of 13
+
+
+
+               10.     Upon information and belief, Yellow is a corporation organized and
+
+existing under the laws of the State of Indiana, with a principal office for the transaction of
+
+business located at 10990 Roe Ave., Overland Park, Kansas 66211.
+
+
+               11.     Roadway and Yellow are subsidiaries of YRC Worldwide Inc., which is a
+
+publicly traded company headquartered in Overland Park, Kansas. Upon information and belief,
+
+Roadway and Yellow, which have been sister companies since 2003, have recently been, or will
+
+soon be, merged into a single company.
+
+
+                                     Jurisdiction and Venue
+
+               12.     Roadway and Yellow are doing business in this District and elsewhere in
+
+New York and are subject to this Court’s jurisdiction.
+
+
+               13.     Upon information and belief, Roadway and Yellow are authorized to do
+
+business in New York.
+
+
+               14.     This Court has jurisdiction over the subject matter of this action under
+
+28 U.S.C. section 1331 and 31 U.S.C. section 3732, both of which specifically confer
+
+jurisdiction on this Court for actions under the Act ( i.e., under 31 U.S.C. sections 3729 and
+
+3730).
+
+
+               15.     Venue is proper in this jurisdiction under 31 U.S.C. section 3732(a)
+
+because any one or all of the defendants can be found and/or transact business within the
+
+Western District of New York, and because violations of 31 U.S.C. sections 3729 and 3730
+
+
+
+
+                                                -4-
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 5 of 13
+
+
+
+alleged in the Complaint occurred within this judicial district. Venue is also proper pursuant to
+
+28 U.S.C. sections 1391(b) and (c).
+
+
+                                       Allegations of Fact
+
+               16.     At all relevant times, defendants were and are in the business transporting
+
+shipments for a fee.
+
+
+               17.     Defendants, by agreements and with the approval of the United States of
+
+America, have been and/or are authorized, upon request, to pick up and deliver shipments for the
+
+United States of America, including those for the benefit of its departments and agencies.
+
+
+               18.     Over the last several years, defendants, under the terms of their
+
+agreements and contracts with departments and agencies of the United States of America, picked
+
+up and delivered certain shipments under various terms and conditions expressly and particularly
+
+specified by the United States of America including, but not limited to, the places of pick up and
+
+delivery, and the time and date by which the shipments were to be delivered to their destinations.
+
+
+               19.     When shippers like the United States government send shipments via
+
+Roadway or Yellow, they submit the shipments along with bills of lading, which set forth the
+
+shipment’s weight — as initially determined by the shipper.
+
+
+               20.     Each shipment’s weight, along with the distance that it must travel, are the
+
+two factors that defendants use to determine the fee that they charge to the United States.
+
+
+               21.     Roadway’s internal policies require it to conduct weight verifications,
+
+whereby its employees, typically forklift operators (also known as “freight handling
+
+
+                                               -5-
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 6 of 13
+
+
+
+professionals”), are to weigh each shipment to determine whether the shipper’s stated weight,
+
+typed on the bill of lading, is accurate. Upon information and belief, Yellow has the same
+
+internal policies.
+
+
+                22.    After it is weighed, each shipment’s actual weight — whether it is higher
+
+or lower than that stated in the bill of lading — is then entered into the respective defendants’
+
+computer system as a weight correction.
+
+
+                23.    From about 2004 to the present, Roadway has been processing its weight
+
+corrections solely to increase the amount invoiced when the actual scale weight exceeds the
+
+stated weight on the bill of lading. Roadway deliberately prohibits its computer system from
+
+decreasing the amount invoiced when the actual scale weight is less than that stated on the bill of
+
+lading.
+
+
+                24.    In other words, Roadway adjusts invoices upward for heavier-than-stated
+
+shipments, but set its automated computer system so that invoices are not adjusted downward for
+
+lighter-than-stated shipments, which are essentially ignored by the computer system. Instead,
+
+Roadway keeps the resulting overcharges.
+
+
+                25.    Upon information and belief, before about 2006, Yellow processed its
+
+weight corrections both to (a) increase the amount invoiced, when the actual weight exceeded
+
+the stated weight on the bill of lading, and (b) decrease the amount invoiced, when the actual
+
+weight was less than the stated weight on the bill of lading.
+
+
+
+
+                                                -6-
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 7 of 13
+
+
+
+               26.     Upon information and belief, sometime in about 2006, once Roadway’s
+
+practice became known to its sister company Yellow, Yellow then deliberately chose to change
+
+its practice to mirror Roadway’s, namely, to make upward weight corrections, yet ignore would-
+
+be downward corrections, thereby pocketing the resulting overcharges.
+
+
+               27.     Upon information and belief, Yellow’s decision to adopt Roadway’s
+
+fraudulent practice, and each defendant’s decisions to maintain this practice, were executive-
+
+level decisions. Upon information and belief, some of these executive-level decisions may have
+
+been made at defendants’ parent company, YRC Worldwide Inc.
+
+
+               28.     Upon information and belief, Yellow’s fraudulent practice, in place since
+
+about 2006, continues to this day.
+
+
+               29.     Upon information and belief, defendants have and continue to apply this
+
+fraudulent practice systematically to thousands of U.S. Government shipments.1
+
+
+               30.     This fraudulent practice also violates applicable tariff requirements, which
+
+require that, “[w]hen a carrier independently performs a shipment weight verification and
+
+discovers a discrepancy between the verified weight and the weight shown on the BL [bill of
+
+lading], it is the carrier’s responsibility to obtain a BL correction notice from the origin TO
+
+[transportation officer].”
+
+
+
+1
+        Both defendants, upon information and belief, automatically disregard minor weight
+        corrections — both upward and downward — if they are less than about 30-40 pounds.
+
+
+
+
+                                                -7-
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 8 of 13
+
+
+
+               31.    By way of example, a shipment from Dover Air Force Base in Delaware
+
+to a munitions storage site in Oklahoma had 4,310 pounds as its stated weight on the
+
+government’s bill of lading. Roadway’s scale then weighed the shipment at 3,345 pounds, but
+
+Roadway charged the government the full amount for a 4,310-pound shipment, resulting in an
+
+overcharge of approximately $222.84.
+
+
+               32.    Similarly, an exemplar shipment from Travis Air Force Base in California
+
+to an Army depot in Pennsylvania had 620 pounds as it stated weight on the government’s bill of
+
+lading. Roadway’s scale then weighed the shipment at 220 pounds, but Roadway charged the
+
+government the full amount for a 620-pound shipment, resulting in an overcharge of
+
+approximately $133.23.
+
+
+               33.    In this manner, Roadway and Yellow systematically and fraudulently
+
+compute the amounts they are owed by the United States, and then charge these amounts via
+
+electronic invoices submitted through an electronic payment processing system called
+
+PowerTrack. The amounts are then paid by the United States through this system.
+
+
+               34.    The United States of America, including the Department of Defense, the
+
+General Services Administration, and other departments and agencies, has paid and pays
+
+defendants for shipments that defendants know actually weigh less than the weight that the
+
+United States is charged for.
+
+
+               35.    Defendants’ practices described in this Complaint constitute “claims” for
+
+payment submitted under the Act and, in particular, under 31 U.S.C. 3729(c).
+
+
+
+
+                                              -8-
+          Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 9 of 13
+
+
+
+               36.    The United States of America paid defendants monies demanded through
+
+defendants’ presentment of claims that contained overcharges.
+
+
+               37.    During the years at issue in this Complaint, defendants and their
+
+employees, agents, and co-conspirators, knowingly presented or caused to be presented false and
+
+fraudulent claims to the United States of America through the submission of requests for
+
+payment for shipments that weighed less than the amounts for which the United States was
+
+billed.
+
+
+               38.    During the years at issue in this Complaint, defendants and their
+
+employees, agents, and co-conspirators, knowingly made false records that directly resulted in
+
+improper and/or inflated payments being made by the United States of America for shipments
+
+containing overcharges.
+
+
+               39.    During the years at issue in this Complaint, defendants and their
+
+employees conspired and agreed among themselves and with others, both known and unknown,
+
+to create and submit for payment to the United States of America false and fraudulent claims for
+
+payment with knowledge and intent to defraud the United States of America and, during the
+
+relevant period, performed acts in furtherance of such conspiracy that ultimately resulted in the
+
+United States of America overpaying defendants for shipment delivery services.
+
+
+               40.    In particular, defendants submitted to the United States of America claims
+
+for payment for shipment delivery services that falsely and fraudulently represented that the
+
+amounts charged were based on weights that were verified to be accurate when, in fact,
+
+defendants, together with their agents, employees, and co-conspirators, knew that these
+
+                                               -9-
+         Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 10 of 13
+
+
+
+representations were untrue because these shipments actually weighed less than that represented
+
+by defendants.
+
+
+                 41.   In connection with the submission of such false and fraudulent claims,
+
+defendants, together with their agents, employees, and co-conspirators, created false delivery
+
+invoices to support their fraudulent claims to the United States of America.
+
+
+                 42.   As a result, defendants obtained payment for amounts set forth in the false
+
+and fraudulent claims submitted by defendants when such payments were in excess of what
+
+defendants would have been entitled to receive if the weight of each shipment was accurately
+
+and truthfully represented.
+
+
+                                             Count I
+
+                        Substantive Violations of the False Claims Act
+                          [31 U.S.C. §§ 3729(a)(1), (a)(2), and (a)(7)]
+
+                 43.   Hannum repeats and realleges each allegation of numbered paragraphs 1
+
+through 42 of this Complaint as part of this First Cause of Action.
+
+
+                 44.   Defendants, together with their agents, employees, and co-conspirators,
+
+presented and caused to be presented to the United States of America knowingly false and
+
+fraudulent claims for payment for shipment delivery services and, as well, knowingly created
+
+and made false records in connection with such fraudulent and false submissions.
+
+
+                 45.   In addition, defendants in this way knowingly made, used, and/or caused
+
+to be made or used false records and/or statements to conceal, avoid, or decrease resulting
+
+obligations to repay the Untied States for these overcharges.
+
+                                              - 10 -
+         Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 11 of 13
+
+
+
+               46.     As a result of the knowingly false and fraudulent claims submitted by
+
+defendants, together with their agents, employees, and co-conspirators, the United States of
+
+America overpaid for shipments that weighed less than that for which it was charged.
+
+
+               47.     As a result of defendants’ knowing conduct and fraudulent overcharging,
+
+the United States of America has overpaid defendants substantial amounts of money, which total,
+
+at this time, is unknown but which can be expected to exceed several millions of dollars over the
+
+period relevant to this Complaint.
+
+
+               48.     As a result of the knowingly fraudulent conduct of defendants together
+
+with that of their respective agents, employees, and co-conspirators, defendants are liable to the
+
+United States of America for the amount of the overpayments made to it, trebled, plus penalties,
+
+interest, and attorneys’ fees under the Act.
+
+
+                                               Count II
+
+                                  False Claims and Conspiracy
+                                    [31 U.S.C. § 3729(a)(3)]
+
+               49.     Hannum repeats and realleges each allegation contained in paragraphs 1
+
+through 48 of this Complaint as part of this Second Cause of Action.
+
+
+               50.     During the last several years, defendants and their employees knowingly
+
+conspired among themselves and with others, including defendants’ employees and agents, to
+
+defraud the United States of America by causing false and fraudulent claims to be submitted and
+
+by knowingly making and submitting claims for payment that falsely charged for higher weight
+
+shipments that were, in fact, lighter, by submitting claims for payment to the United States of
+
+
+                                                - 11 -
+         Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 12 of 13
+
+
+
+America that defendants knew were false because defendants implied that their invoices would
+
+be accurate and based upon accurate weights as verified by defendants.
+
+
+                 51.   In furtherance of the conspiracy, defendants entered into contracts for the
+
+transportation of shipments and created other records and documents substantiating such
+
+information, knowing that information to be false and untrue, with the intent to defraud the
+
+United States of America.
+
+
+                 52.   Based upon the false and fraudulent claims submitted by defendants, the
+
+United States of America paid defendants in excess of what they were entitled to for the services
+
+they provided.
+
+
+                 53.   As a result, the United States of America has sustained substantial
+
+damages directly related to overpayments made to Roadway and Yellow based upon false and
+
+fraudulent claims, and they are therefore liable to the United States of America for the amount of
+
+such overpayments made to them, trebled, together with penalties, interest, and the costs of this
+
+action, including attorneys’ fees, as provided for by the Act.
+
+
+                                          Jury Demand
+
+                 54.   Hannum demands a jury on all issues and matters triable by a jury under
+
+this Complaint.
+
+
+                                         Relief Requested
+
+                 WHEREFORE, the United States of America ex rel. James Hannum demands
+
+judgment against Roadway and Yellow as follows:
+
+
+
+                                               - 12 -
+            Case 1:08-cv-00811-RJA Document 1 Filed 11/03/08 Page 13 of 13
+
+
+
+                     a)          On the first cause of action, for treble damages under 31 U.S.C.
+                                 § 3729(a)(1), (a)(2), and (a)(7) in an amount to be determined at trial, plus
+                                 penalties, costs, interest, and attorneys’ fees;
+
+                     b)          On the second cause of action, for treble damages under 31 U.S.C.
+                                 § 3729(a)(3) in an amount to be determined at trial, plus penalties, costs,
+                                 interest, and attorneys’ fees;
+
+                     c)          On the first and second causes of action, for the damages sustained by the
+                                 United States of America; and
+
+                     d)          For award of such other and further relief as this Court deems proper as a
+                                 matter of law or under the False Claims Act, 31 U.S.C. §§ 3729 et seq.
+
+
+Dated:               Buffalo, New York
+                     November 3, 2008
+
+                                                                  HODGSON RUSS LLP
+                                                                  Attorneys for James Hannum
+
+                                                                  By: s/Daniel C. Oliverio
+                                                                         Daniel C. Oliverio, Esq.
+                                                                         Joseph V. Sedita, Esq.
+                                                                         John L. Sinatra, Jr., Esq.
+                                                                  140 Pearl Street, Suite 100
+                                                                  Buffalo, New York 14202-4040
+                                                                  Telephone: (716) 856-4000
+
+
+
+
+                                                         - 13 -
+
+
+ 056115/00000 Litigation 2408707v1
+

@@ -1,0 +1,74 @@
+                     FUEL SURCHARGE – EFFECTIVE 10/1/21
+     General: The Fuel Surcharge provides a TSP flexibility to obtain reasonable relief from
+sudden and unforeseen increases in diesel fuel prices. Since fuel-related rate adjustments
+for gradual changes in a TSP’s fuel related costs over a longer period of time are beyond
+the purpose of this provision, a TSP
+should consider gradual fuel price changes when it submits new rate offers during a rate
+filing open window if such changes significantly affect the TSP’s operating costs.
+
+    Application: The Fuel Surcharge is applicable to all rate offers accepted under this
+Request for Offers and its Filing Instructions (FI). The Fuel Surcharge may be waived or
+altered only by the General Services Administration’s (GSA’s) Freight Management
+Program (FMP) or the GSA’s Office of Fleet Management (OFM).
+
+A. Setting Baseline. Diesel fuel price ranges and corresponding applicable percent rate
+   adjustment levels were collaboratively established with the motor TSP industry as of
+   November 2000. The levels specified in this section reflect current standard industry
+   practice and will be reviewed and revised on an as needed basis.
+
+B. Determination of Adjustment. Each Monday, or first working day thereafter if the
+   Monday falls on a
+    Federal Holiday (after referred to as “Monday”), the Department of Energy, Energy
+Information Administration (EIA), posts the National U.S. Average diesel fuel price. If a
+Fuel Surcharge is justified based on each Monday’s posting, the Fuel Surcharge applies to
+shipments picked up the ensuing Wednesday through the following Tuesday (Note:
+shipment pickup date is controlling for Fuel Surcharge purposes). A TSP is responsible for
+monitoring diesel fuel prices each Monday using one of the sources identified below to
+determine whether a Fuel Surcharge will apply for the one-week period beginning the
+upcoming Wednesday through Tuesday of the following week.
+
+                                        EIA Website:
+                                        http://www.eia.doe.gov/
+                                        EIA Weekly Petroleum
+                                        Status Report
+                                    EIA Hotline: (202) 586-6966
+
+C. Amount of Adjustment. If on any given Monday National U.S. Average diesel fuel prices,
+   as published in one of the sources identified above, exceed the neutral range, the TSP
+   may increase its linehaul charge by the appropriate percentage specified in the table
+   below.
+
+D. Schedule: The following table specifies the percentage Fuel Surcharge to be applied
+   based on diesel fuel cost per gallon:
+                              Cost per Gallon                        Percent
+                                                                    Increase
+  Neutral                          $2.50 and                             0.0%
+   Range                                below
+                              $2.501 - $2.630                            1.0%
+                              $2.631 - $2.760                            2.0%
+                              $2.761 - $2.890                            3.0%
+                              $2.891 - $3.020                            4.0%
+                              $3.021 - $3.150                            5.0%
+                              $3.151 - $3.280                            6.0%
+                              $3.281 - $3.410                            7.0%
+                              $3.411 - $3.540                            8.0%
+                              $3.541 - $3.670                            9.0%
+                              $3.671 - $3.800                           10.0%
+                              $3.801 - $3.930                           11.0%
+                              $3.931 - $4.060                           12.0%
+                              $4.061 - $4.190                           13.0%
+                              $4.191 - $4.320                           14.0%
+                              $4.321 - $4.450                           15.0%
+                              $4.451 - $4.580                           16.0%
+                              $4.581 - $4.710                           17.0%
+                              $4.711 - $4.840                           18.0%
+                              $4.841 - $4.970                           19.0%
+                              $4.971 - $5.100                           20.0%
+                              $5.101 - $5.230                           21.0%
+                              $5.231 - $5.360                           22.0%
+                              $5.361 - $5.490                           23.0%
+
+
+• NOTE: The table ends at $5.49, but the $0.13 increments and percentage increases continue for
+fuel costs above that dollar amount.
+

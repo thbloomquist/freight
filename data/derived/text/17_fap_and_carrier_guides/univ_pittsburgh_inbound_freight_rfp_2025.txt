@@ -1,0 +1,873 @@
+                                     Request for Proposal
+                                      RFP No. 041725SS
+
+                             Inbound Freight Management Services
+                                              For
+                                  The University of Pittsburgh
+
+
+
+
+Issue Date: April 17, 2025
+    TABLE OF CONTENTS
+
+     1. INTRODUCTION ...............................................................................................................................3
+     1.1.  Purpose ......................................................................................................................................3
+     1.2.  Background Information ............................................................................................................5
+     1.3.  Additional Information ...............................................................................................................5
+     1.4.  Timeline ....................................................................................... Error! Bookmark not defined.
+     1.5.  General Submission Requirements ............................................................................................6
+     1.6.  Proprietary Information and Disclosure.....................................................................................7
+     1.7.  University Policies and Procedures ............................................................................................8
+     1.8.  Agreement/University’s Standard Terms and Conditions..........................................................8
+     1.9.  RFP Coordinator .........................................................................................................................8
+     1.10. Commercial Partnership.............................................................................................................8
+     1.11. Utilization of Small and Local Businesses ..................................................................................9
+     1.12. Inclusion of Sustainability ..........................................................................................................9
+     1.13. Data Management & Security .................................................................................................10
+     2. CONTRACTOR RESPONSIBILITIES AND QUALIFICATIONS ..............................................................10
+     2.1.  Services to be Provided ............................................................................................................10
+     2.2.  Qualifications ...........................................................................................................................10
+     2.3.  Contractor Responsibilities ......................................................................................................11
+     3. ADDITIONAL INFORMATION ..........................................................................................................12
+     3.1.  Term .........................................................................................................................................12
+     3.2.  Mergers/Acquisitions ...............................................................................................................12
+     3.3.  Non-Endorsement ....................................................................................................................12
+     3.4.  Exceptions ................................................................................................................................12
+     3.5.  Third Party Software or Hardware Products ............................................................................12
+     3.6.  Supplemental Information .......................................................................................................13
+     4. DETAILED SUBMISSION REQUIREMENTS.......................................................................................13
+     4.1.  Required Information ...............................................................................................................13
+     4.2.  Proposal Format .......................................................................................................................13
+     5. AWARD CRITERIA ...........................................................................................................................14
+
+
+
+
+Appendix A Notification of Interest to Participate Form (Attachment A)
+Appendix B Submission Authorization Form (Attachment G)
+Appendix C Scope of Work (Embedded in RFP)
+Appendix D Contractor References (Attachment G)
+Appendix E Contractor Analysis Request (Attachment G)
+Appendix F Supplier Verification Form/W9 (To be sent and completed only upon award)
+Attachment G Proposal Response Workbook
+Attachment H Pricing Proposal Workbook
+Attachment I Contracted Supplier Agreement
+
+
+
+
+                                                                                                                                                              2 of 18
+ISSUE DATE: April 17, 2025
+RFP No. 041725SS
+
+
+
+
+ISSUING OFFICE:                                          University of Pittsburgh – of the
+                                                         Commonwealth System of Higher Education
+                                                         Purchasing Services Department
+                                                         3017 Cathedral of Learning (Box 2)
+                                                         4200 Fifth Avenue
+                                                         Pittsburgh, PA 15260
+
+RFP COORDINATOR:                                         John Richey
+                                                         University of Pittsburgh
+                                                         Purchasing Services Department
+                                                         3017 Cathedral of Learning (Box 2)
+                                                         4200 Fifth Avenue
+                                                         Pittsburgh, PA 15260
+                                                         Telephone:412-383-2224
+                                                         E-mail: jtr117@pitt.edu
+
+
+
+TITLE: REQUEST FOR PROPOSAL – INBOUND FREIGHT MANAGEMENT SERVICES
+
+
+1.     INTRODUCTION
+
+     1.1.   Purpose
+
+            The University of Pittsburgh – Of the Commonwealth System of Higher Education (referred to herein as the
+            “University of Pittsburgh” or the “University”) is accepting proposals from qualified Contractors to provide
+            inbound freight management services, as outlined in this Request for Proposal (RFP).
+
+            The purpose of this RFP is to identify a Contractor capable of managing the University’s inbound freight
+            program to ensure cost efficiency, timely delivery, streamlined operations, excellent customer service, and
+            enhanced visibility into shipment tracking, invoicing, and freight activity.
+
+            The selected Contractor will be expected to provide discounted pricing and value-added services for small
+            parcel and less-than-truckload (LTL) shipments. Such as multi carrier support and execution, invoice and
+            payment services (Freight audit and pay), supplier management and program support, customer support,
+            reporting and analytics. In addition, the supplier should support the University’s goals to optimize freight
+            spend, improve participating supplier compliance, convert unmanaged suppliers to the program, increase
+            utilization, track and report performance metrics and more.
+
+            The University is also interested in exploring volume-based discounts, customized reporting capabilities,
+            and a freight management solution that integrates with existing systems and improves overall operational
+            efficiency. This RFP outlines the specific requirements, terms, and conditions to guide the preparation of a
+            detailed and professional proposal.
+
+
+
+
+                                                                                                               3 of 18
+Inbound Freight Management Program Overview
+
+The University currently operates an inbound freight management program across multiple campuses,
+including the main campus in Pittsburgh and several regional campuses. The vast majority of inbound
+shipments (approximately 99%) are directed at the main campus or in the general surrounding area.
+
+
+Pittsburgh Main Campus
+(Oakland) – 4200 Fifth Ave, Pittsburgh, PA 15260 (Numerous buildings in general area).
+
+Regional Campuses
+Pitt-Greensburg - 150 Finoli Dr, Greensburg, PA 15601
+Pitt Johnstown - 450 Schoolhouse Rd, Johnstown, PA 15904
+Pitt Bradford - 300 Campus Dr, Bradford, PA 16701
+Pitt Titusville - 504 E Main St, Titusville, PA 16354
+
+
+ Annual Avg              Shipments               (SP) Small             (LTL) Less-             Participating
+ Spend                   Past Year               Parcel                 than-                   Suppliers
+                                                                        Truckload
+ $434,000                11,646                  11,532                 114                     240+
+
+
+Note* In the past year 54% of shipments were ground, 46% of shipments were air. These figures represent
+a very reliable estimate based on actual shipping activity and spend over the past year. While there may be
+some fluctuations year by year, this provides a solid benchmark for recent typical volume and activity.
+
+There are currently 240+ suppliers participating in the University’s inbound freight management program.
+The majority of these are small to medium-sized scientific and medical suppliers. As the program matures,
+the University is interested in expanding participation to include a broader range of supplier types beyond
+medical and scientific, with a goal of increasing overall program adoption.
+
+Current Invoicing Process
+
+For participating suppliers, purchase orders generated in PantherExpress are exported daily to the freight
+management provider, who then matches Purchase Order (PO) data to corresponding shipment records.
+On a weekly basis, the provider compiles invoice data into Excel files separately for LTL shipments and FedEx
+small parcel, that include detailed shipment, billing, and cost center information. These files are submitted
+every week to the University's secure SFTP server for automated ingestion into the Prism interface.
+
+Upon submission, Oracle generates either a “Successful” or “Failure” email notification. Failures typically
+result from inactive or closed GL account codes, which cause the entire file to be rejected. When this occurs,
+the provider contacts the purchase order owner to update the account information before resubmitting the
+corrected file. Once successfully imported into Prism, the Payment Processing team performs an open
+payable import process, receives the Excel and PDF invoice copies via a shared mailbox, and completes a
+spot audit and invoice validation prior to payment.
+
+Note* PantherExpress is the cloud-based purchasing tool and preferred procurement and payment
+mechanism for most goods and services purchased at the University. PRISM is the University’s financial ERP
+system, used for processing invoices and payments. It is built on Oracle’s E-Business Suite, which serves as
+the underlying enterprise software platform. “GL” General Ledger.
+
+Outbound Freight Management Services (Out of Scope)
+
+
+
+                                                                                                     4 of 18
+       Outbound freight management services are currently out of scope for this RFP. However, the University is
+       interested in exploring outbound freight solutions following the successful implementation of the new
+       inbound freight management program.
+
+       Note: In FY24, outbound freight spend totaled approximately $1.1 million, including UPS and FedEx
+       shipments, but excluding University Stores. When including University Stores, total outbound freight spend
+       was approximately $1.3 million.
+
+1.2.   Background Information
+
+       The University is a 403(b) non-profit, nonsectarian, coeducational, state-related, public research
+       university. The University is comprised of five campuses located throughout western Pennsylvania with an
+       operating budget in excess of $3.0 billion and more than $1 billion in sponsored research. The University
+       of Pittsburgh is accredited by the Middle States Association of Colleges and Schools and additionally by
+       various specialized accrediting Contractors. It is a member of the Association of American Universities,
+       which is an organization comprised of 63 leading doctorate-granting research institutions in the United
+       States and Canada.
+
+       Since its founding in 1787, the University of Pittsburgh has established itself as the most comprehensive
+       educational complex in the region. It provides a wide range of academic programs and services for the
+       Pittsburgh metropolitan area’s population of 2.4 million. The University enrolls approximately 32,000
+       students, and it employs more than 12,000 faculty members, research associates, and staff.
+
+1.3.   Additional Information
+
+       All proposals become the property of the University of Pittsburgh upon receipt. The opening of proposals
+       will be a private session. To the extent reasonably possible, the University shall keep all proposals received
+       confidential. Contractors will not receive any compensation or reimbursement of expenses for submitting
+       a proposal pursuant to this RFP. All costs incurred in connection with this RFP are Contractor’s sole
+       responsibility. The University reserves the right to investigate and/or require additional information
+       deemed pertinent by the University to fully evaluate its proposal.
+
+       Contractor, by submitting a response to this RFP, certifies that this proposal was prepared and submitted
+       without collusion with any other Contractor or employee of the University of Pittsburgh.
+
+       The University of Pittsburgh reserves the right to reject any or all proposals; to waive any informality in
+       proposals; to negotiate with any or all Contractors, and, unless otherwise specified by Contractor, to accept
+       any services contained in any proposal. The University reserves the right to add and/or delete any or all of
+       the services requested. If a proposal is deemed acceptable by the University in its sole discretion, the
+       University and the successful Contractor shall in good faith commence preparation of a definitive
+       agreement (the “Definitive Agreement”).
+
+       Proposal responses must be signed by an authorized officer of the Contractor to bind Contractor to the
+       proposal’s provisions. Proposals must remain in effect for a minimum period of one hundred eighty (180)
+       calendar days as of the response date specified herein.
+
+       Contractor warrants that the prices for any goods/services identified in its response are not less favorable
+       than those extended to any other customer (whether government or commercial) for the same or similar
+       services in comparable situations.
+
+       By submitting their proposals, Contractors certify that they do not and will not during the performance of
+       this agreement employ, recruit or refer for employment illegal alien workers or otherwise violate the
+       provisions of section 274a Federal Immigration Reform and Control Act of 1986.
+
+
+                                                                                                            5 of 18
+    1.4.   Timeline
+
+
+Completed By:    Key Milestones                                            Comments
+04/11/2025       Pre-solicitation Meeting                                  Optional, virtual meeting. Link to be
+                                                                           provided.
+04/17/2025       Distribution of the RFP                                   Electronic copies of the RFP will be
+                                                                           distributed to Contractors.
+04/24/2025       Final pre-proposal questions send to: jtr117@pitt.edu     Each Contractor may submit one set of
+                                                                           pre-proposal questions. Please consolidate
+                                                                           all questions into a single email and submit
+                                                                           by 11:59pm (Eastern Time) via email to
+                                                                           jtr117@pitt.edu in the following format. 1.
+                                                                           Vendor must reference the specific section
+                                                                           and item number to which the question
+                                                                           applies. 2. Reference to a specific sentence
+                                                                           within a request section, if applicable, by
+                                                                           including the specific sentence in question.
+                                                                           3. Contractors must include a single name,
+                                                                           email address and daytime telephone
+                                                                           number of the person to be contacted in
+                                                                           the event University of Pittsburgh requires
+                                                                           further clarification of the question. Due to
+                                                                           the short turnaround time for providing
+                                                                           answers to your questions, University of
+                                                                           Pittsburgh prefers that this be the person
+                                                                           from whom the question originated.
+04/25/2025       Notification of interest to Participate Form Due via      Contractors must provide Participation
+                 email to jtr117@pitt.edu                                  Confirmation Form no later than Noon
+                                                                           (Eastern Time) to the University.
+04/29/2025       Responses to Questions emailed to all participants by     Responses to all questions emailed to all
+                 end of business day.                                      participants.
+05/02/2025       Proposals due via email to jtr117@pitt.edu                Contractors must provide the response to
+                                                                           the RFP no later than Noon (Eastern Time)
+                                                                           to the University. Please follow submission
+                                                                           instructions in section 4 of the RFP PDF
+                                                                           document.
+05/13/2025 –     Virtual finalist interviews/Presentations.                If selected, Contractors will be reached out
+5/15/2025                                                                  to via email to schedule.
+06/01/2025       Notification of Provisional Award
+(On or before)
+06/11/2025       Target Start of Implementation Activities, Including
+                 Contract Execution
+
+
+           The University reserves the right to amend this schedule as it deems necessary.
+
+    1.5.   General Submission Requirements
+
+
+
+
+                                                                                                             6 of 18
+       Notification of Intent to Participate - All Contractors must complete and return via email the Notification
+       of Interest to Participate Form, attached hereto as Excel document titled: Attachment A_Inbound
+       Freight Management Services RFP – Notification of Interest to Participate Form. Please complete the
+       form in the original Excel format. Submit this document by itself (no additional files) via email to
+       jtr117@pitt.edu and CC ccyphert@cfo.pitt.edu. No later than noon Eastern Time on April 25, 2025.
+
+       This form confirms that Contractor either who intends to participate and has received all of the materials
+       and that all of the proposal requirements are understood and agreed to prior to preparation and
+       submission of a proposal or that Contractor does not intend to participate and has notified the University
+       that it declines to submit a proposal. Failure by a Contractor to either respond to or decline this RFP may
+       result in Contractor being eliminated as a potential participant in connection with future requests for
+       proposals by the University.
+
+       Detailed Submission Requirements - In order to receive consideration, responses to this RFP must follow
+       the Detailed Submission Requirements set forth in Section 4 of this RFP.
+
+       Proposal Submissions - Contractors should submit one (1) electronic copy sent through email no later than
+       noon Eastern Time on May 2, 2025. The proposals should be delivered to: jtr117@pitt.edu and CC
+       ccyphert@cfo.pitt.edu
+
+
+       Proposals received at any other University office will not be considered. Please direct all questions
+       concerning this RFP, in writing, to the RFP Coordinator identified on page three. Attempts to gain additional
+       information by any other method may result in disqualification of Contractor. No party may meet privately
+       with employees, officers or other representatives of the University to discuss any aspect of this RFP or
+       Contractor’s proposal.
+
+       Proposals received after the deadline may be rejected at the sole discretion of the University. The
+       University assumes no responsibility for late delivery, for any reason whatsoever (i.e., weather or traffic
+       conditions, illness, accident, delivery to wrong location, courier problems).
+
+       It is the objective of the University to obtain information from each Contractor that is uniform and
+       complete. In order to evaluate each option in an efficient manner and to determine which Contractor is
+       best able to meet all of the criteria being considered, information submitted for this RFP must follow the
+       timeline and the specifications outlined below. The University, at any time and in its sole discretion, may
+       amend or supplement the provisions of this RFP.
+
+       The University is under no obligation, either expressed or implied, to contract for any products or services
+       as a result of this RFP. This RFP does not constitute an agreement on the part of the University to
+       consummate any of the transactions contemplated hereby, and any such agreement is expressly
+       conditioned on and subject to the mutual execution and delivery by the University and the successful
+       Contractor of the Definitive Agreement. Each Contractor hereby acknowledges and agrees not to maintain
+       any claims or institute any proceedings seeking to establish that any binding contractual relationship exists
+       between it and the University with respect to this RFP.
+
+1.6.   Proprietary Information and Disclosure
+
+       Contractor agrees that any information disclosed by the University to Contractor for the purpose of this RFP
+       shall be used only to complete Contractor’s proposal. Contractor will keep the information confidential,
+       will not disclose it to any third party, except as authorized by the University or as required by law, and will
+       only disclose it to those within its organization who need to complete the proposal. Upon completion or
+       termination of this proposal, Contractor shall return all such information to the University, or make such
+       other disposition thereof as may be directed or approved by the University. No item furnished under this
+
+
+                                                                                                             7 of 18
+       RFP, or products, plans, designs, or specifications for producing the same, which have been specifically
+       designed for or by the University, shall be duplicated or used by Contractor. Contractor agrees that it will
+       not, without prior written approval of the University, publicize this RFP or disclose, confirm or deny any
+       details thereof to third parties, or use the University's name in connection with Contractor's sales
+       promotion or publicity without prior written approval from the University. Nothing in this provision shall
+       restrict Contractor's right to use or disclose any information which is or becomes generally known to the
+       public without breach of this provision by Contractor, or is rightfully obtained without restriction from other
+       sources.
+
+1.7.   University Policies and Procedures
+
+       It is incumbent upon all Contractors to familiarize themselves with the University’s policies and procedures
+       prior to the submission of a response to this RFP (i.e., non-discrimination, equal opportunity and affirmative
+       action, sexual harassment, licensing and use of publisher name/logo, smoking, drug-free workplace/drug-
+       free school). Contractors may access these policies at https://www.ppt.pitt.edu/suppliers/info-suppliers
+
+1.8.   Agreement/University’s Standard Terms and Conditions
+
+       The intent of this RFP and the ensuing process is to provide companies with the information, requirements,
+       and specifications necessary for the preparation of a professional and comprehensive proposal. Specific
+       terms and conditions are outlined.
+
+       A Definitive Agreement shall be negotiated as part of the award process applicable to this RFP. The
+       University may choose to use a form of Contracted Supplier Agreement attached as Attachment I. The
+       University, however, may at its discretion choose to use a different form of agreement after reviewing the
+       submitted proposals.
+
+       In the event that goods are to be included in the Definitive Agreement, the University’s Standard Terms and
+       Conditions may also apply and can be found at https://www.ppt.pitt.edu/sites/default/files/tc.pdf
+
+       Contractors are asked to become familiar with these documents and note exceptions to these terms and
+       conditions in writing as part of Contractor’s response to this RFP. The acceptance of these terms and
+       conditions is a component of the award criteria. The University may require additional
+       modifications/additions to these terms depending on, at a minimum, research requirements, final product
+       selection, and facility concerns.
+
+1.9.   RFP Coordinator
+
+       The RFP Coordinator for this RFP is John Richey. All communication with the University regarding this RFP
+       shall only be directed to the RFP Coordinator via email jtr117@pitt.edu, and Contractors shall CC
+       ccyphert@cfo.pitt.edu on all submission and proposal forms.
+
+1.10. Commercial Partnership
+
+       The University is interested in selectively establishing and strengthening business relationships with
+       suppliers to the mutual benefit of both parties. Therefore, the University encourages Contractors to explore
+       other ways to increase the value of the relationship between the University and itself.
+
+       Opportunities might include:
+       • Athletics (including naming rights)
+       • Branding and advertising
+       • eSports program sponsorship
+       • Fellowships
+
+
+                                                                                                             8 of 18
+      • Internships
+      • Personal Purchase Discount program (available to employees, students, alumni, fans)
+      • Philanthropy (scholarships, sponsorships)
+      • Research projects
+      • Or any other programs that add additional value to the relationship.
+
+      Contractors should familiarize themselves with the University’s Commercial Partnership website and include
+      value-add relationship ideas in the proposal with a description of any existing relationships and ideas for
+      new or expanded engagement. The University offers to assist Contractors in the development and execution
+      of these opportunities through the University’s central corporate engagement staff at the Office of
+      Economic Partnerships.
+
+1.11. Utilization of Small and Local Businesses
+
+      In order to fulfill the third prong of the University’s mission of teaching, research and community service,
+      the University actively provides contracting opportunities to qualified small* and local** businesses.
+      Purchasing from small and local businesses supports a strong, vibrant regional economy in which University
+      students and employees live and work, local internships for University students, and local job opportunities
+      for University alumni.
+
+      The University requires all Contractors to provide details on how their company’s proposal supports the
+      University’s mission of community service, either directly or through tier two subcontractors, in Appendix
+      E, Section - Other Information. Additionally, in order to fulfill this RFP requirement, Contractors are strongly
+      encouraged to work with the University and regional organizations that provide assistance to small and
+      local businesses, such as the University’s Institute for Entrepreneurial Excellence, the Greater Pittsburgh
+      Chamber of Commerce, PA Business One Stop Shop, the Pittsburgh African-American Chamber of
+      Commerce, the Pittsburgh Hispanic Chamber of Commerce, the BEAM Pittsburgh anchor institution
+      cooperative, the Cambria County, Westmoreland County, Bradford Area, and Meadville Chambers of
+      Commerce. Questions concerning this requirement should be directed to the RFP Administrator.
+
+      * Small shall be as defined by the United States Small Business Administration –
+      www.sba.gov/document/support-table-size-standards
+      ** A local business is one within the 10 counties of Southwestern Pennsylvania as defined by the Allegheny
+      Conference on Community Development - www.alleghenyconference.org
+
+1.12. Inclusion of Sustainability
+
+      The University encourages Contractors to identify people, products, services or processes that support the
+      University’s commitment to environmental stewardship as outlined in the Pitt Sustainability Plan
+      (https://www.sustainable.pitt.edu/pitt-sustainability-plan/). The University asks Contractors to consider
+      Environmentally Preferred Purchasing (“EPP”) in their proposals. Contractors should take into
+      consideration the definition of EPP provided by the United States Environmental Protection Agency when
+      preparing their responses.
+
+      Environmentally Preferred Purchasing is defined as products or services that have a lesser or reduced effect
+      on human health and the environment when compared with competing products or services that serve the
+      same purpose. The product or service comparison may consider raw materials acquisition, production,
+      manufacturing, packaging, distribution, reuse, operation, maintenance or disposal. (EP 13101, Section 201).
+
+      Proposals with the attributes below are encouraged:
+              - Decrease waste or minimize energy demands
+              - Make use of post-consumer content
+              - Are recyclable/products with an end-of-life plan
+
+
+                                                                                                            9 of 18
+                     - Are more easily repaired or updated (to avoid planned obsolescence)
+                     - Come from more local sources or are domestically produced
+
+            Contractors should be sure to highlight if they:
+                    - Have a written commitment to environmentally friendly practices and can demonstrate these
+                      values
+                    - Use processes that do the least harm to the environment
+                    - Provide an end-of-life plan or recycling/reusing options for their product
+                    - Maintain their products while in the University’s possession
+
+            Any environmental benefits provided, should be clearly identified and include supporting data. Benefits
+            may include: reduced life cycle costs, reduced energy consumption, recycled content, overall recyclability,
+            extended product life, and decreased maintenance.
+
+     1.13. Data Management & Security
+
+            Contractor may be asked to complete a data security assessment in coordination with the Pitt IT Third Party
+            Vendor Security team. This determination is based on criteria such as data moving between the University
+            and Contractor systems, system integrations, Contractor access to the University networks, and/or the
+            University data being shared with the Contractor, whether the data is personal identifiable information,
+            personal health information, or student data.
+
+2.     CONTRACTOR RESPONSIBILITIES AND QUALIFICATIONS
+
+     2.1.   Services to be Provided
+
+            Contractor is to provide services and goods as identified on Appendix C, Scope of Work. Contractors may
+            provide alternatives to this approach.
+
+     2.2.   Qualifications
+
+            Contractor must be organized for the purpose of providing the services in a timely manner.
+
+            Contractor must have five years previous experience with providing comparable goods and services
+            offerings.
+
+            Contractor must have a proven ability to start-up within 30 days of receipt of the Definitive Agreement, as
+            evidenced by a signed Definitive Agreement.
+
+            Contractor must have qualified staff and equipment and materials to successfully complete the
+            requirements. The University of Pittsburgh, at its discretion, may request an inspection of the Contractor’s
+            operation and personnel prior to execution of the Definitive Agreement.
+
+            Contractor must have the capability to supervise and monitor the process ensuring satisfactory provision
+            of services.
+
+            Contractor shall submit a list of three (3) references of comparable services offering from existing
+            customers, including name of business, address, and contact person and phone number (Appendix D,
+            included in Atta chment G)
+
+            Contractor shall submit a list of one (1) reference of comparable services offering from previous customers,
+            including name of business, address, and contact person and phone number. A reason should be provided
+            as to why Contractor believes the customer no longer is doing business with Contractor. Please do not
+
+
+                                                                                                               10 of 18
+       supply references if the previous customer left due to either customer’s business closing or no longer
+       required said service as part of their business (Appendix D, included in Attachment G).
+
+       No contract shall be made by Contractor with any party for furnishing any of the work or services herein
+       contained without the prior written approval of the University of Pittsburgh RFP Coordinator. However,
+       this provision shall not require the approval of contracts of employment between Contractor and personnel
+       assigned for services there under, or for parties named in the proposal and agreed to under any resulting
+       contract.
+
+       Contractor is, for purposes arising out of a Definitive Agreement, an Independent Contractor and shall not
+       be deemed an employee of the University of Pittsburgh. It is expressly understood and agreed that
+       Contractor shall in no event, as a result of a Definitive Agreement, be entitled to any benefits to which
+       University of Pittsburgh employees are entitled, including but not limited to overtime, any retirement
+       benefits, worker's compensation benefits, and injury leave or other leave benefits. Contractor hereby holds
+       University of Pittsburgh harmless from any and all claims that may be made against University of Pittsburgh
+       based upon any contention by any third party that an employer-employee relationship exists by reason of
+       this agreement.
+
+2.3.   Contractor Responsibilities
+
+       Contractor shall furnish all necessary permits and insurance in its performance of the specifications.
+
+       Before commencement of the work, Contractor shall submit insurance policies or Certificates of Insurance
+       evidencing that Contractor has obtained for the period of the Definitive Agreement, from companies
+       authorized to transact business in Pennsylvania, insurance in the forms of coverage and minimum amounts
+       specified below. Said insurance must contain an endorsement that the University of Pittsburgh is named as
+       an additional insured in respect to the work covered hereunder and must provide that thirty days’ notice
+       be given to the University of Pittsburgh prior to cancellation or reduction in coverage of the policy.
+       Certificates of insurance evidencing this coverage are required to be delivered to the RFP Coordinator prior
+       to the commencement of work and approved by him/her.
+
+                A. WORKER’S COMPENSATION- Statutory (unlimited payments)
+
+                B. COMMERCIAL GENERAL LIABILITY
+                (1) $1,000,000 Each Occurrence;
+                (2) $2,000,000 General Aggregate
+                (3) $1,000,000 Products & Completed Operations Aggregate
+                (4) $1,000,000 Personal & Advertising Injury
+                (5) $100,000 Fire Damage (any one fire)
+                (6) $10,000 Medical Expense (any one person)
+
+                C. AUTOMOBILE LIABILITY
+                $1,000,000 Combined Single Limit for Bodily Injury and Property Damage per Accident Coverage to
+                include hired car and non-owned automobiles
+
+                D. EMPLOYER’S LIABILITY
+                $1,000,000 Each Accident
+                $1,000,000 Disease – Policy Limit
+                $1,000,000 Disease – Each Employee
+
+                E. CYBER LIABILITY
+                $10,000,000
+
+
+
+                                                                                                           11 of 18
+             Contractor shall, at its own expense, protect, defend, indemnify and hold harmless the University of
+             Pittsburgh from all claims, damages, costs, lawsuits and expenses including, but not limited to, all costs
+             from administrative proceedings, court costs and attorney fees that the University of Pittsburgh incur as a
+             result of any criminal acts, intentional torts, acts or omissions which by statute give rise to strict liability,
+             negligent acts or omissions of Contractor, its officers, employees or agents which may arise out of the
+             Definitive Agreement.
+
+             It shall be Contractor’s responsibility to visit the job site to check any conditions that may affect its proposal.
+             Claims for allowances due to Contractor's error or negligence, in acquainting themselves with the site, shall
+             not be recognized. By Contractor's act of submitting a proposal, the Contractor acknowledges that it has
+             informed itself of all conditions.
+
+             Contractor shall be responsible to conduct all necessary site inspections and reference work to meet all
+             responsibilities of the specifications, including inspection of all physical space affected by the specifications
+             to verify all existing materials, operational dimensions, conditions and scope.
+
+             If the Contractor fails to provide the service when required and the University contracts with an alternate
+             Contractor to provide the service Contractor must reimburse the University the difference in rate, only if
+             the alternate’s rate is higher.
+
+
+3.          ADDITIONAL INFORMATION
+
+     3.1.    Term
+
+             The term of the Definitive Agreement will be for five 5 years, with the option for two (2), one (1)-year
+             extension by the University in its sole and absolute discretion. The University reserves the right to cancel
+             the Definitive Agreement at any time during that period by giving Contractor thirty (30) days written notice.
+
+     3.2.    Mergers/Acquisitions
+
+             Should Contractor be acquired by or merge with another entity during the RFP process, Contractor must
+             immediately notify the RFP Coordinator. Included with the notification should be a letter reaffirming the
+             terms and conditions of the RFP and signed by the principal of Contractor.
+
+     3.3.    Non-Endorsement
+
+             If the proposal is accepted, Contractor shall not issue any news releases or other statements pertaining to the
+             award or servicing of the Definitive Agreement that state or imply the University of Pittsburgh’s endorsement
+             of Contractor’s services, without prior approval of the University of Pittsburgh.
+
+
+     3.4.    Exceptions
+
+             Indicate any exceptions, exclusions, unusual cases or deviations from the specifications and requirements
+             contained in this RFP. If no exceptions are to be included, the proposal should specify “none”. Unless
+             exceptions are stated in writing upon submission of proposal, the University of Pittsburgh assumes
+             Contractor acceptance of the content of this RFP and any addenda thereto, if any, in the event of execution
+             of a Definitive Agreement.
+
+     3.5.    Third Party Software or Hardware Products
+
+
+
+
+                                                                                                                      12 of 18
+            Third parties (including any affiliated parties) with which Contractor has a special business relationship and
+            which provides functionality described in the requirements for this proposal or which extends functionality
+            beyond native functionality of the delivered applications. For every product listed, include the name of the
+            provider of the product (software/hardware), a description of the business relationship with Contractor,
+            and a description of the product’s functionality and fit with the proposed applications.
+
+     3.6.   Supplemental Information
+
+            Provide any supplemental information, which is pertinent to the evaluation of the proposal, under this. The
+            University will consider any additional suggestions if Contractor includes sufficient explanation and
+            justification. If no supplemental information is to be included, the proposal should specify “none”.
+
+4.     DETAILED SUBMISSION REQUIREMENTS
+
+     4.1.   Required Information
+
+            All Contractors should provide the information as specified in Section 4.2 below. Only information received
+            in response to this RFP will be evaluated. Reference to information previously submitted to the University
+            will not be considered. Failure to respond in full can be reason for rejecting the proposal in whole or in
+            part at the discretion of the University.
+
+            There is no intent to limit proposal content, and any supplemental data deemed pertinent may be included
+            in the “Supplemental Information” section of Contractor’s proposal.
+
+            In submitting a proposal, Contractor agrees that the proposal remains valid for one hundred eighty (180)
+            calendar days after the closing date of submission of proposals and may be extended beyond that time by
+            mutual agreement.
+
+            Strict compliance with this proposal format is essential to facilitate the evaluation process. Accordingly, the
+            University of Pittsburgh reserves the right to reject any proposal which is either incomplete or does not
+            conform to these instructions.
+
+     4.2.   Proposal Format
+
+            The proposal should consist of the following completed documents:
+
+            Attachment G_ Inbound Freight Management Services RFP - Proposal Response Workbook
+            Attachment H_ Inbound Freight Management Services RFP – Pricing Proposal Workbook
+            Attachment I_ Inbound Freight Management Services RFP- Contracted Supplier Agreement (Agreed upon,
+            or redlined copy)
+
+
+            Detailed proposal instructions/Information.
+
+            All proposal documents should be submitted as a copy of the original format the documents was sent in
+            (Excel, Word) via email to jtr117@pitt.edu with a copy CC to ccyphert@cfo.pitt.edu. By noon Eastern on
+            May 2, 2025.
+
+            It is the Contractor’s responsibility to meet the deadlines established in this request and clarified during
+            further discussions with the RFP administrator. Only Contractor’s who can comply with this schedule need
+            to submit proposals for consideration.
+
+
+
+
+                                                                                                                  13 of 18
+        Failure to meet stated deliverable and availability dates before Contract award may result in the prospective
+        Contractor’s disqualification from the bidding process. After Contract award, failure to meet stated
+        deliverable and or milestone dates will place Contractor in default and may result in disqualification.
+
+
+5.   AWARD CRITERIA
+
+        Award criteria will include, but are not limited to the following:
+
+        Pricing Proposal and pricing structure
+        Quality and Completeness of Proposal
+        Customer Service and Support Capabilities
+        Invoicing Accuracy and Technology Integration
+        Implementation Plan and Timeline
+        Demonstrated Ability to Meet University Requirements and Service Expectations
+        Strength of References
+        Value Add Services
+        Willingness to Accept University Standard Terms and Conditions
+
+
+        The University of Pittsburgh reserves the right to make the final decision regarding selection of
+        Contractor(s). The awarding of Definitive Agreements to selected Contractor(s), if any, will be based solely
+        on the judgment of the University of Pittsburgh.
+
+
+
+
+                                                                                                            14 of 18
+                                          Appendices and Attachments Overview
+
+Note: Except for Appendix C (embedded in this RFP), all other appendices are provided in Attachments G – Proposal
+Response Workbook and H – Pricing Proposal Workbook, or as a separate Excel attachment.
+
+Appendix A - Notification of Interest to Participate Form. Attached as Excel document titled: Attachment
+A_Inbound Freight Management Services RFP – Notification of Interest to Participate Form. Please complete the
+form in the original Excel format. Submit this document by itself (no additional files) via email to jtr117@pitt.edu
+and CC ccyphert@cfo.pitt.edu.
+
+Appendix B – Submission Authorization Form. Located in Excel document titled: Attachment G_ Inbound Freight
+Management Services RFP – Proposal Worksheet (Section 6. Submission Authorization Form – RFP Appendix B)
+
+Appendix C – Scope of Work. Embedded in this RFP document on page 16.
+
+Appendix D - Contractor References. Located in Excel document titled: Attachment G_ Inbound Freight
+Management Services RFP – Proposal Worksheet (Section 7. Contractor References)
+
+Appendix E – Contractor Analysis Request. Located in Excel document titled: Attachment G_ Inbound Freight
+Management Services RFP – Proposal Worksheet (Section 8. Contractor Analysis)
+
+Appendix F – Supplier Verification Form/W9. Note: Contractors will receive a secure eSignature link for the
+University of Pittsburgh Supplier Verification/W9 form upon receipt of their initial notification of award.
+
+Attachment G – Proposal Response Workbook. Sent as Excel document titled: Attachment G_ Inbound Freight
+Management Services RFP - Proposal Response Workbook
+
+Attachment H – Pricing Proposal Workbook. Sent as Excel document titled: Attachment H_ Inbound Freight
+Management Services RFP - Proposal Response Workbook
+
+Attachment I – Contracted Supplier Agreement. Sent as Word document titled: Attachment I_ Inbound Freight
+Management Services RFP - Proposal Response Workbook
+
+
+
+
+                                                                                                            15 of 18
+                                                                                                            APPENDIX C
+
+                                                     Scope of Work
+
+
+The Contractor shall provide discounted inbound freight transportation rates and administrative services under a
+managed inbound freight program. These two areas will be evaluated and priced separately to allow for a more
+precise comparison of offerings. However, Contractor’s may choose to submit bundled proposals that include both
+service areas. This section outlines the required services in detail. All services must align with the University’s goals
+outlined in Section 1 of the RFP and shall include the following deliverables:
+
+    1. Transportation Rates (Discounted Carrier Rates)
+
+Contractor’s must propose freight rates for small parcel and LTL services. These rates can be provided under a third-
+party reseller model and/or through access to existing aggregation/GPO agreements. The service fee should be
+added to each line item (shipment) on the invoice, so the fee can be charged to the appropriate cost center at the
+time of invoicing.
+
+Contractor’s are required to submit levels of pricing using the documents provided in Attachment H_Inbound
+Freight Management Services RFP – Pricing Proposal Workbook:
+
+Standard Rate Table - UPS and FedEx (Small Parcel)
+
+    •    Provide rates for small parcel shipments including and more, examples:
+             o Ground
+             o 2-Day
+             o Overnight/Air Express
+    •    Submit rates for each service level by weight tier or zone, if applicable.
+
+LTL Pricing
+
+    •    Submit rate tables by zone, weight, freight class, and delivery type
+    •    Clearly identify base rates (e.g. CzarLite) and include breakdowns of:
+             o Fuel surcharges
+             o Accessorial fees
+             o Residential/delivery area charges
+             o Liftgate or inside delivery charges
+             o Other applicable fees (e.g. FAK)
+
+Net Pricing Sheet (Small Parcel)
+
+    •    Provide a comprehensive “net rate sheet” showing net transportation rate per service level
+    •    This should not include the service fee amount if you are bidding rates and services separately
+
+Shipment Reprice File (Small Parcel and LTL)
+
+    •    Complete the “Shipment Reprice File” provided as part of Attachment H.
+    •    This file contains historical shipment data (origin, destination, weight, freight class, etc.)
+    •    Vendors must price each shipment as if they had moved it under their program
+
+
+
+
+                                                                                                                16 of 18
+    2. Services (Fee per Transaction)
+
+Contractor must propose a fee per transaction (i.e. per tracking number and PRO number) to cover the following
+administrative services and program support functions. These services will be evaluated based on quality,
+completeness, and alignment with University needs.
+
+Multi-Carrier Support & Execution
+
+    •    Manage inbound small parcel freight using both FedEx and UPS, under a third-party billing model.
+    •    Support LTL routing and pricing models, with clear rate structures and accessorial charges disclosed.
+    •    Coordinate execution of freight services regardless of carrier, ensuring consistency in tracking, invoicing,
+         and service performance across multiple carriers.
+    •    Provide integration capabilities to ensure routing and invoice processes function effectively in a multi-
+         carrier environment.
+
+Invoicing and Payment Services (Freight Audit and Pay)
+
+    •    Allocate inbound freight charges to appropriate University cost centers based on purchase order or
+         research account data.
+    •    Provide a high invoice-to-PO match rate and a process for resolving unmatched shipments.
+    •    Generate and submit weekly freight invoice files in a format compatible with the University’s ERP system.
+    •    Include setup and file transfer costs for integration in the proposed flat service fee.
+    •    Support AP upload functionality, including file re-submission if rejections occur due to inactive GL codes
+         or format issues.
+    •    Clarify payment model (e.g., Supplier- or University-paid freight) and outline required responsibilities for
+         both parties.
+    •    Maintain internal records of freight payments and related transaction history.
+    •    Apply basic audit checks to identify duplicate charges or other anomalies.
+    •    Coordinate with carriers on payment-related inquiries and resolution.
+
+Supplier Management & Program Support
+
+    •    Lead the onboarding and conversion of non-participating suppliers to freight collect/third-party billing
+         under University freight accounts.
+    •    Maintain and update a validated list of compliant suppliers and coordinate regularly with the University to
+         reconcile records.
+    •    Provide support for supplier outreach, including delivery and reinforcement of routing instructions.
+    •    Monitor and report vendor compliance with routing guide instructions and billing requirements.
+    •    Define onboarding processes for new suppliers or departments, including expected timeline, required
+         data, and technical integration needs.
+    •    Address suppliers unwilling to convert and propose resolution strategies.
+    •    Collaborate with the University to design and maintain a routing guide that will be hosted or accessible on
+         the Supplier platform.
+    •    Collaborate with the University project team in addressing non-compliant vendors or those unwilling to
+         convert, including outreach support, data reconciliation, and escalation strategies.
+
+Note* Suppliers here refer to suppliers currently participating in or that may convert to the University’s Inbound
+Freight Management Program.
+
+
+
+
+                                                                                                              17 of 18
+Reporting and Analytics
+
+    •   Provide a web-based portal or software solution for shipment visibility, exception tracking, and reporting
+        access.
+    •   Deliver monthly reports on program participation, vendor compliance, cost savings, exceptions, and
+        avoided costs.
+    •   Include ad hoc reporting capabilities upon request and support trend analysis or strategic
+        recommendations.
+    •   Detail reporting cadence, format, and any differentiators (dashboards, visualizations, tools like Tableau or
+        Power BI).
+
+Customer Support & Claims Handling
+
+    •   Assign a dedicated account manager as the primary point of contact for daily operations, issue resolution,
+        and strategic guidance.
+    •   Provide responsive customer support for escalated issues, freight disputes, vendor pushback, or system
+        problems.
+    •   Offer training, onboarding sessions, and educational resources for University stakeholders as needed.
+    •   Provide continuity of service in case of workforce disruptions, strikes, or other critical supply
+        interruptions.
+    •   Support freight claims management, including loss or damage claims for small parcel and LTL shipments,
+        and coordinate with carriers as needed.
+
+
+
+
+                                                                                                            18 of 18
+

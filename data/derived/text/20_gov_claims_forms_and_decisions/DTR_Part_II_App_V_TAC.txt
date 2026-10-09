@@ -1,0 +1,1385 @@
+Defense Transportation Regulation – Part II                                                    8 May 2020
+Cargo Movement
+
+
+                                              ATTACHMENT V6
+
+                     ARMY TRANSPORTATION ACCOUNT CODES (TAC)
+
+A. GENERAL
+    1. The Army uses TACs to pay for Army-funded cargo and personal property shipments throughout
+       the Defense Transportation System (DTS). TACs are four-character pointers to a line of
+       accounting (LOA) that identify the appropriation or user ultimately responsible for the associated
+       transportation costs.
+    2. The Department of Defense (DoD) created TACs because the Transportation Control Movement
+       Document (TCMD) only had four available positions to represent the LOA. Additionally,
+       manually typing the 50- to 65-character LOA into bills of lading (BL) resulted in high error rates,
+       which led to major delays in paying Transportation Service Providers (TSP). The decision to use
+       TACs for cargo and personal property movements has resulted in fewer errors and facilitated the
+       use of electronic payment processing.
+    3. TACs are inherently financial in nature, requiring a partnership between the transportation and
+       financial communities to ensure appropriate usage, accurate LOAs are properly associated to
+       TACs, sufficient funds are obligated to meet projected transportation costs, and correct
+       procedures related to audit readiness are established.
+    4. Army TACs begin with “A”, “B”, “C”, or “E”, as shown below:
+        a. Axxx: Army general cargo
+        b. Bxxx: Army Security Cooperation Programs (SCP)
+        c. Cxxx: Army personal property and household goods (HHG)
+        d. Exxx: Reserved for future Army requirements.
+    5. The Transportation Global Edit Table (TGET) lists all the valid TACs. It can be found at
+       https://beis.csd.disa.mil/beis-html/frontpage-pki.html.
+
+B. DEFINITIONS
+    1. First Destination Transportation (FDT), as outlined in the DoD Financial Management Regulation
+       (DoDFMR) 7000.14-R Volume 2A, Chapter 1, Paragraph 010205, is that “transportation required
+       to deliver new, an upgraded model, or recapitalized production items from the manufacturer’s
+       plant or source of procurement to the first point of delivery where the Military Service or Defense
+       Agency takes possession and/or ownership of that item. The procurement source, as used herein,
+       is any supplier outside the DoD supply system or any DoD industrial activity that fabricates new
+       materiel. The procurement source or the first point of delivery may be in the Continental United
+       States (CONUS) or overseas. FDT is not applicable to components or items reworked by an
+       industrial activity. In the case where the Government accepts the production item at the
+       manufacturer’s plant or source of production and legally owns the item, FDT extends to the first
+       point of delivery for either use or storage by the Military Service or Defense Agency. For
+       shipments destined to overseas locations that will enter the Defense Transportation System, FDT
+       terminates at the port of embarkation (CONUS or overseas).”
+
+
+
+
+                                                  II-V6-1
+Defense Transportation Regulation – Part II                                                    8 May 2020
+Cargo Movement
+
+
+    2. Second Destination Transportation (SDT) is any transportation other than FDT. The following
+       types of SDT support Army shipments:
+        a. Army Wide Transportation/Centrally Managed Allotment (AWT/CMA) – The Army has
+           adopted the new term AWT/CMA to define its centrally managed SDT Program. It is
+           comprised of the following:
+             (1) Redistribution of Army-owned Table of Equipment and/or Table of Distribution and
+                 Allowances equipment or supplies
+             (2) New equipment fielding directed by the Headquarters, Department of the Army
+                 (HQDA) Program Executive Offices
+             (3) Shipments of major end items to/from depots
+             (4) Shipments to a contractor facility if there is an agreement in place
+             (5) Shipments of war reserve conventional and training ammunition and missiles
+             (6) Shipments of secondary items (non-Army Working Capital Fund [AWCF]-managed)
+             (7) Shipments in support of Army transformation, reset, or retrograde
+             (8) “Flyaway” of fixed wing or rotary aviation assets to/from maintenance facilities
+             (9) Department of the Army (DA) Civilians Permanent Change of Station (PCS) HHG and
+                 Privately Owned Vehicle (POV) shipments.
+        b. AWCF consumable and reparable items.
+        c. Transportation services funded by operating funds of Army Commands (ACOM), Army
+           Service Component Commands (ASCC), Direct Reporting Units (DRU), the United States
+           Army Reserve Command (USAR), the National Guard Bureau (NGB), or other Army key
+           organizations.
+        d. Army SCP.
+        e. HHG.
+        f.   Non-temporary storage of HHG and POVs.
+
+C. AUTHORITY
+    This policy prescribes procedures and assigns responsibilities concerning Army TAC code creation,
+    use, and management controls.
+
+D. APPLICABILITY
+    This policy applies to all commands, organizations, and shipping activities that arrange for Army-
+    funded transportation services.
+
+E. POLICY SUMMARY
+    1. Most shipping documentation for Army-funded transportation services will cite a four-character
+       TAC in lieu of a LOA for shipments moving within the DTS. The pre-shipment funding
+       verification requirement continues for all Army-funded shipments. TAC administrators at
+       ACOMs, ASCCs, DRUs, USAR, and NGB serve as the single points of contact (POC) for their
+       respective commands or organizations.
+
+
+
+
+                                                   II-V6-2
+Defense Transportation Regulation – Part II                                                       8 May 2020
+Cargo Movement
+
+
+    2. This policy introduces five new requirements:
+        a. It codifies AWT/CMA as the new term that defines the Army’s centrally managed SDT
+           Program.
+        b. It introduces TAC Coordinator-generated reports that are to be used for the quality control of
+           TAC utilization in the Third Party Payment System (TPPS).
+        c. It establishes the TAC administrators as being the HQDA POCs for dissemination of TPPS
+           TAC utilization reports to their particular TACs’ funds managers (FM), as well as the
+           shippers within their commands.
+        d. It modifies the process and directs command TAC administrators to submit TAC requests
+           directly to the Army TAC Support Team mailbox: usarmy.ria.asc.mbx.tac-
+           support@mail.mil.
+        e. It requires TAC administrators to be appointed through official memorandum appointment
+           letter order designation signed by the first military 0-6 or civilian equivalent.
+
+F. POLICY
+    1. TAC Usage:
+        a. Most Army-funded movements and storage of HHG and POVs will cite a TAC. Figure V6-1
+           through Figure V6-7 contain the Army’s process of determining the activity that funds a
+           transportation shipment. The intent of the flowcharts is to identify transportation funding
+           responsibilities, not the actual TAC that will be used for a shipment. The Army SDT
+           Funding Responsibility flowchart (Figure V6-1) provides a decision process to determine
+           which subsequent flowchart identifies the appropriate TAC source and activity. The TAC
+           that will be used for any given shipment will be placed in the body of all disposition
+           instructions.
+        b. Army freight material can generically be classified into two categories – either working
+           capital funded or non-working capital funded. The AWCF is a revolving fund that charges
+           the requisitioner for both the cost of the item and for overhead. Transportation costs are
+           included in the AWCF overhead. Non-working capital-funded materiel includes both
+           procurement-funded materiel and Operations and Maintenance-funded materiel.
+        c. The AWCF funds supported materiel within the Army’s single stock fund activities (e.g.,
+           class IX requisitions), which includes redistribution, lateral support, the return of repairable
+           assets to a depot, and disposition on excess assets. TACs created for AWCF use are
+           established, funded, and managed by an asset’s respective source of supply.
+        d. AWT/CMA pays for certain movements of non-AWCF materiel (e.g., class VII assets).
+           Based on funded Program Objective Memorandum submissions, the HQDA G-4 Army
+           Service Component (ASC) distributes funding to ACOMs, ASCC, and DRUs for execution.
+           Whenever an activity provides disposition instructions, the originator is to ensure AWT/CMA
+           requirements, to include TAC usage, are included in the disposition instructions. Detention,
+           demurrage, and Vehicle Furnished Not Used (VFNU) charges will be paid by the responsible
+           organization—not AWT/CMA.
+        e. The assigned TAC will remain in force for shipments from origin to destination; the
+           exception is FDT shipments moving outside the Continental United States (OCONUS),
+           where FDT responsibility ends at the air or sea port of embarkation (APOE/SPOE). This
+           process results in two different TACs being assigned to a shipment: the FDT TAC pays for
+           the transportation to the APOE/SPOE, and the SDT TAC pays for the OCONUS and other
+           transportation charges to the final destination of the shipment.
+
+
+                                                   II-V6-3
+Defense Transportation Regulation – Part II                                                    8 May 2020
+Cargo Movement
+
+
+        f.   FMs will acquire TACs for all LOAs under their control that fund transportation movements.
+        g. Commanders and FMs at all levels will seek to reduce the number of Army TACs to the
+           minimum number required to meet mission requirements.
+        h. In most instances, Transportation Officers (TO) will only accept TACs as the funds citation
+           for requested shipments. Paragraph F.2.i, lists the exceptions to this policy. Except where
+           identified, TOs will reject any Army shipping request that does not have an associated Funds
+           Verification and Use Authorization (FVUA) form (Figure V6-8) stating there are sufficient
+           funds to cover the requested shipment. This requirement pertains to all Army-funded
+           movements, including multi-modal moves both within CONUS and OCONUS.
+    2. Funds Verification and Use:
+        a. All Army freight transportation charges will be billed to the transportation accounts
+           established for the Fiscal Year (FY) in which the movement is initiated. For Army freight
+           shipments processing through an Army Transportation Office, a FVUA is required.
+           Exceptions to this policy are found in Paragraph F.2.i below. For non-Army shipments, a
+           FVUA form is not required.
+        b. Charges for Personal Property – HHG, Non-Temporary Storage (NTS), and POV shipments
+           will be billed to the transportation accounts established for the FY in which the orders were
+           published in accordance with (IAW) Office of the Secretary of Defense Policy Memorandum,
+           Subject: Obligation Policy for Permanent Change of Station (PCS) Orders, 23 January 2007,
+           and effective 1 October 2008. The funding authorization for personal property (HHG, NTS,
+           and POV) shipments is the PCS Order.
+        c. The organization requesting freight transportation is responsible for initiating the FVUA
+           form, Figure V6-8, and submitting it to the FM responsible for funding the shipment.
+           Shipping customers requesting Army-funded transportation services will provide the TO with
+           the Army FM’s written or electronic FVUA form that contains the TAC, estimated cost,
+           shipping details, and applicable constraints.
+        d. The FM controlling the LOA that will pay for requested transportation services will complete
+           and sign a funds verification document. For AWT/CMA funds and TACs, HQDA G-4 will
+           provide a FVUA to ACOMs, ASCCs, DRUs, USAR, NGB, and other organizations’
+           appointed representatives, with the authorization amount. The appointed representatives
+           must ensure they do not exceed the FVUA amount.
+        e. Alternative funds verification actions may be substituted under strict guidelines. For
+           example, when the TAC is identified and published in deployment orders or similar orders
+           when a command directs movement of unit equipment. The order serves as the authorization
+           and replaces the FVUA form when a copy is attached to the shipping request. For
+           AWT/CMA funds, HQDA G-4 and/or ASC also provides written directives, such as
+           electronic mail (e-mail), that may authorize the use of a respective TAC, as well as extensions
+           to FVUAs expiration dates.
+        f.   A shipment that results from the Standard Army Retail Supply System/Global Combat
+             Support System – Army (SARSS/GCSS-A) where a DD Form 1348-1A, Issue
+             Release/Receipt Document, Figure V6-10, provides the applicable TAC, is exempt from
+             FVUA requirements. The rationale is that the AWCF is programmed and funded to sustain
+             SARSS/GCSS-A shipments. Additionally, the TAC that prints on the DD Form 1348-1A is
+             coordinated with each respective Life Cycle Management Command. The logic for these
+             TACs is loaded into the respective systems annually. The systems, in turn, generate the
+             TACs onto the DD Form 1348-1As when items are released by the wholesale item managers.
+
+
+
+                                                 II-V6-4
+Defense Transportation Regulation – Part II                                                    8 May 2020
+Cargo Movement
+
+
+             If a TAC is not printed on the system-generated DD Form 1348-1A, then an A1 TAC will not
+             fund the transportation of the item and the shipping expenses will be paid by either the
+             issuing or the receiving activity.
+        g. FMs will complete the FVUA form to certify funding is authorized and available for their
+           TACs. The FMs will send the signed FVUA form back to the requesting unit/organization
+           POC who will forward the form to the servicing TO processing the transportation
+           documentation. As a reminder, FVUAs are intended to be completed for individual
+           shipments, and by having the FM/Resource Manager (RM) approve the funding (TAC), the
+           TO is relying on the FM/RM to obligate funds for that shipment. For situations that involve
+           multiple or high-volume shipments, the Command can use the FVUA for multiple shipments
+           for extended periods of time (e.g., monthly/quarterly) but must ensure that operational
+           processes are in place to monitor the obligations and expenditures of the funds associated to
+           the identified TAC to ensure funding is adequate during the time identified on the FVUA,
+           Figure V6-8.
+        h. Any transportation shipment request processed without an authorized, valid, and funded LOA
+           resulting in an obligation on behalf of the Government could result in a violation of the
+           Antideficiency Act (ADA) under 31 United States Code (USC) 1341, Limitations on
+           Expending and Obligating Amounts.
+        i.   Exceptions:
+             (1) The Deputy Assistant Secretary of the Army for Financial Operations (DASA-FO) is the
+                 approval authority for exceptions to the FVUA policy. Send requests for exception to
+                 the Office of the Deputy Assistant Secretary of the Army for Financial Operations,
+                 ATTN: SAFM-FO, 109 Army Pentagon, Washington, DC 20310-0109.
+             (2) The following are current exceptions to this TAC policy:
+                  (a) Special Assignment Airlift Missions (SAAM). The TAC is “ASAM” and is used
+                      to document cargo on the manifest but not for billing purposes. The entire aircraft
+                      is paid for through a separate SAAM billing process and no LOA is required for a
+                      TAC of “ASAM.”
+                  (b) Army and Air Force Exchange Service (AAFES) HHG for Non-Appropriated Fund
+                      (NAF) employees on PCS orders. The current TAC is “C2JD.” Transportation
+                      providers will bill AAFES manually as described in the TAC usage and description
+                      segments; no LOAs are required for these employees.
+                  (c) Army NAF PCS Shipments. The current TAC is “C244.” Transportation
+                      providers will bill NAF manually following the instructions in the TAC description
+                      field in TGET. NAF employees do not require LOAs.
+                  (d) TACs starting with “A1” have been approved as exceptions to the requirement for
+                      funds verification documentation.
+    3. ACOM, ASCC, DRU, USAR, and NGB Command TAC Administrators:
+        a. ACOMs, ASCCs, DRUs, USAR, and NGB will appoint Command TAC administrators
+           through a memorandum appointment letter order designation signed by a 0-6 or civilian
+           equivalent. An appointment memorandum letter order example is located at Figure V6-9.
+           Command TAC administrators’ designation letters must be on file with the Army TAC
+           Coordinator’s Office before TAC requests will be accepted for processing.
+        b. Command TAC administrators serve as their Commands’ single POCs to the Army TAC
+           Coordinator’s Office. These Command and Organization TAC administrators are responsible
+
+
+                                                  II-V6-5
+Defense Transportation Regulation – Part II                                                    8 May 2020
+Cargo Movement
+
+
+             for managing and approving TAC requests and resolving TAC-related issues for their
+             subordinate activities. They will coordinate with personnel within their organizations to
+             reduce the number of TACs to the minimum amount necessary to support mission
+             requirements, ensure the TAC description includes clear and concise usage procedures, and
+             ensure the associated LOA is valid and is loaded and active in the accounting system. The
+             Army TAC Coordinator’s Office will only coordinate with the ACOM, ASCC, DRU, USAR,
+             and NGB TAC administrators. Commands and Organizations with multiple subordinate
+             commands or organizations may establish assistant TAC administrators to assist in managing
+             the TACs within their ACOM, ASCC, DRU, USAR, or NGB commands. This will be a
+             command responsibility. If implemented, subordinate command TAC administrators will be
+             appointed in writing as well and will coordinate through their Command/Organization TAC
+             administrator prior to contacting the Army TAC Coordinator, unless acting for the TAC
+             administrator during periods of absence.
+    4. Personal Property:
+        a. HHG. TACs will be used for all Army HHG shipments for the Active Component, Army
+           Reserves, Army National Guard, and DA civilians with PCS orders to and from OCONUS.
+           LOAs will be used for National Guard orders issued by their home states when no TAC
+           exists. LOAs will be used for DA civilians with PCS orders within CONUS.
+        b. Student travel. ACOM, ASCC, DRU, USAR, and NGB TAC administrators will, when
+           possible, establish one TAC for all baggage shipments associated with dependent student
+           travel authorized by the Joint Travel Regulations, Chapter 7, Special Circumstances Travel
+           and Transportation, Part C, Dependent Student Travel.
+        c. Storage. ACOM, ASCC, DRU, USAR, and NGB TAC administrators will establish one
+           TAC for HHG and POV storage for Overseas Contingency Operation temporary change of
+           station orders.
+    5. Standard Army TAC Format:
+        a. The methodology and format are summarized below:
+             (1) TAC “A1xx” - This series includes all TACs that have been approved by the DASA-FO
+                 as exceptions to the requirement for providing supporting funds verification
+                 documentation.
+             (2) The leading two positions in a TAC series (“Ax—”) are assigned based on the
+                 established Operating Agency (OA) code for each command. This identifies the owning
+                 organization of the funds to facilitate coordination and identification of TACs. TOs
+                 should contact the command TAC administrators for assistance in the resolution of any
+                 issues related to the use of a TAC.
+             (3) The “B” TAC series represents the US Army’s SCP. The US Army Security Assistance
+                 Command is responsible for managing and assigning the Army’s SCP TACs.
+             (4) The “C” TAC series (HHG) TACs will conform to the following rules.
+                  (a) Multi-individual use TACs will have a numeric FY designator in the fourth
+                      position.
+                  (b) TACs for an individual soldier and or their family members (e.g., student travel)
+                      will have an alpha character in the fourth position.
+                  (c) Individual soldier TACs will have the same command designator in the second
+                      position of the “C” series TACs as in the “A”, “B”, and “E” series TACs.
+
+
+
+                                                  II-V6-6
+Defense Transportation Regulation – Part II                                                   8 May 2020
+Cargo Movement
+
+
+                  (d) The Army Corps of Engineers (ACOE) personal property TACs (series “C3xx”)
+                      will remain the responsibility of the ACOE to format their ACOE-funded Personal
+                      Property TACs to meet ACOE mission requirements.
+        b. “E” TAC series has been reserved for future Army use.
+        NOTE: A listing of the assigned TAC series associated to each Army command/subordinate
+        organization is available by request from the TAC Support Team at usarmy.pentagon.hqda-dcs-g-
+        4.mbx.tac-support2@mail.mil. As new commands/subordinate organizations are determined or
+        established, TAC series will be updated and the list will be updated as required.
+
+G. RESPONSIBILITIES
+    1. Army TAC Coordinator:
+        a. Publishes Army TAC policy and oversees the Army TAC program.
+        b. Publishes the annual TAC revalidation message by 1 August.
+        c. Serves as the Army representative on the TGET Functional Requirements Board.
+        d. Produces and disseminates reports to the TPPS Certifying Officers (CO) and TAC
+           Administrators/Command-designated POCs for action that provide TPPS transportation
+           transactions specific to the AWT/CMA. These reports will be used to monitor erroneous
+           billings, policy and training issues, and other critical variables necessary to provide a
+           continuous, comprehensive evaluation of the AWT/CMA Program.
+    2. Army TAC Support Team:
+        a. As the representative of the Army TAC Coordinator:
+             (1) Processes all TAC requests
+             (2) Assigns new TACs as required.
+        b. Ensures every Army TAC (with noted exceptions) in TGET is directly linked to at least one
+           valid and current LOA.
+        c. Ensures valid TACs and associated LOAs are uploaded into TGET.
+        d. Makes TAC-specific training materials available for ACOM, ASCC, DRU, USAR, and NGB
+           TAC administrators.
+        e. Maintains a quarterly listing of all active Army TACs by command, which is available by
+           request from the TAC Support Team at usarmy.ria.asc.mbx.tac-support@mail.mil.
+    3. ACOM, ASCC, DRU, USAR, or NGB Command TAC Administrators or Designated
+       Representatives:
+        a. Serve as their Command/Organization’s primary POC to the Army TAC Coordinator.
+        b. Manage and process TAC requests and resolve TAC-related issues for all subordinate
+           organizations.
+        c. Provide TAC assistance to subordinate organizations, such as selecting TACs and processing
+           requests for TACs.
+        d. Maintain active TGET user accounts to validate their TACs and LOAs.
+        e. Provide an updated listing of all command and organization TAC personnel changes to the
+           Army TAC Coordinator on the first of each month.
+
+
+
+
+                                                 II-V6-7
+Defense Transportation Regulation – Part II                                                          8 May 2020
+Cargo Movement
+
+
+        f.   Ensure all subordinate organizations’ TACs have valid, current, and sufficiently funded
+             LOAs.
+        g. Review requests for new TACs and changes to existing TACs for completeness and accuracy,
+           and forward those requests to the Army TAC Support Team mailbox:
+           usarmy.ria.asc.mbx.tac-support@mail.mil.
+        h. Review, consolidate, and forward annual TAC renewal/revalidation requests to the Army
+           TAC Support Team mailbox: usarmy.ria.asc.mbx.tac-support@mail.mil.
+        i.   Institute internal controls with the FM to ensure funds allocated prior to requesting
+             transportation services and total charges do not exceed obligations.
+        j.   Serve as the Command POC for oversight of TPPS TAC utilization reports to their particular
+             TACs, FMs, and shippers within their commands.
+        k. Monitor correct usage of TACs within the TPPS.
+        l.   Establish internal controls to validate and consolidate command requirements prior to
+             submission to the Army TAC Coordinators at ASC. TAC workbook submissions are
+             required the first day of every quarter beginning 1 October 2020.
+    4. Army TOs:
+        a. Maintain active TGET user accounts to validate TACs prior to shipping cargo IAW this
+           regulation, Part II, Appendix V, “TAC Procedures.”
+        b. Ensure, prior to accepting a TAC for transportation, that the TAC is valid in TGET; the FM
+           has approved a TAC on the FVUA; the TO has worked with the shipper to ensure proper
+           annotation of the shipping documentation, including the correct use of Transportation Control
+           Numbers (TCN), TACs, a valid cost estimate, and all other related data, as well as
+           authorization for the valid, funded TAC; and the TAC is appropriate for the requested
+           transportation. Additionally, the TO will copy, file, and disseminate the applicable number of
+           copies of transportation documents to the appropriate entities. Any transportation shipment
+           request processed without an authorized, valid, and funded TAC, resulting in an obligation on
+           behalf of the Federal Government, could be in violation of the ADA under 31 USC 1341.
+             NOTE: To preclude possible adverse mission impact, request the TO advise the chain of
+             command to include TAC administration if shipments are delayed because of missing or
+             incomplete FVUA forms.
+        c. Direct all inquiries concerning TAC appropriateness to the FM; if questions remain, contact
+           the supporting TAC administrator. Reject all Army-funded shipment requests that do not
+           have a valid, funded TAC.
+             NOTE: The intent of this action is to ensure the owning organization funding the
+             transportation provides an approved TAC. It is not prudent to simply reject cargo shipments;
+             rather, the issue must be elevated up the chain of command to resolve any FVUA issues.
+             The movement of Army-funded cargo and equipment directly affects readiness, and any
+             delay in the movement of Army cargo must be dealt with expeditiously by all concerned.
+        d. Coordinate with the CO or FM in addressing all issues associated with transactions that have
+           not yet been certified for payment because of TAC or LOA problems.
+
+
+
+
+                                                   II-V6-8
+Defense Transportation Regulation – Part II                                                     8 May 2020
+Cargo Movement
+
+
+    5. Army COs: Detailed information and instructions on the roles and responsibilities of COs are
+       outlined in DoDFMR 7000.14-R, Volume 5, Chapter 5.
+        a. The CO should review the TPPS Summary Invoice from the sixteenth of the previous month
+           to the fifteenth of the next month, prior to the TPPS posting, to ensure it reflects the actual
+           carrier payments and transactions belonging to that site.
+        b. The CO will accomplish a prepayment review as required by the DoDFMR 7000.14-R,
+           Volume 5, Chapter 5. Prior to the certification of the Summary Invoice, the CO will review
+           sampled LOAs’ Standard Document Numbers (SDN) to ensure they are valid based on
+           supporting automated documentation.
+        c. If the Summary Invoice is missing the shipper’s appropriation or the appropriation is
+           incorrect, the CO will contact the shipping customer that requested the shipment/service to
+           resolve the discrepancy.
+        d. The CO certification review process begins on the date of the TPPS posting. After ensuring
+           accuracy and signing the Summary Invoice Certification Form, the Summary Invoice must be
+           sent to the Defense Finance and Accounting Services (DFAS) Payment Center within 5
+           calendar days of the available posting date.
+        e. The COs will retain a copy of the Certified Summary Invoice for record keeping and audit
+           purposes. Follow Service/Agency requirements for record keeping (Army shippers will
+           maintain Certified Summary Invoices for 76 months).
+        f.   One Summary Invoice will be created per TPPS account. The CO should coordinate with the
+             TO regarding any changes in the notes section of the TPPS documenting the actions taken to
+             establish the correct appropriation.
+        g. DFAS Payment Center will compute and pay prompt payment interest when payment is made
+           to TPPS more than 15 calendar days after receipt of the Summary Invoice. It is imperative
+           that COs complete their reviews and certifications of the Summary Invoices and ensure they
+           are sent to the DFAS Payment Center within 5 calendar days of their availabilities.
+        h. Pen and ink changes are not authorized for Summary Invoices. All edits must be completed
+           to the affected records online before the Summary Invoice is certified and the manual portion
+           of the Summary Invoice is printed. Any changes that can be made on paper must be
+           corrected electronically in the TPPS instead. Pen and ink changes prevent online visibility of
+           the funds used to pay for a shipment. This, in turn, prevents online financial tracking and
+           post-payment audit capabilities. Ideally, online corrections will also turn manual lines into
+           electronic lines for a cost savings to the Government, as the DFAS charge for manual
+           transactions is significantly higher than for electronic transactions. The best practice is to
+           review and correct transactions in the Open portion of the Summary Invoice daily and make
+           corrections throughout the month until the Summary Invoice is posted. Once the Summary
+           Invoice is posted, final changes must be made before final certification. Organizations can
+           also be proactive by using the Weekly HQDA G-4 Wrong TAC/LOA Report and improving
+           initial documentation of shipments with valid TACs. If the Summary Invoice has already
+           been electronically certified and the DFAS prevalidation team will not authorize payment
+           with the LOA originally charged, then the only option is to “pen and ink” the change to apply
+           a corrected LOA and annotate the transaction within TPPS. This will ensure auditors
+           reviewing transactions after the fact can see where and why the LOA was changed after the
+           Summary Invoice lockdown.
+        i.   The DFAS-generated Account Status report details the rolling balance of each TPPS account
+             and shows the amounts that are one, two, or three cycles past due. The rolling balance
+
+
+
+                                                  II-V6-9
+Defense Transportation Regulation – Part II                                                     8 May 2020
+Cargo Movement
+
+
+             represents reimbursement payments from DFAS to the TPPS provider that have not been
+             made because the appropriate Army funds have not been identified. Transactions without
+             proper LOAs/TACs, which require coordination with the TO or CO, and LOAs/TACs
+             without sufficient funds, which require coordination with the FM office, both contribute to
+             the accumulation of rolling balances. Also, DFAS does not provide notification to COs when
+             the monthly certified invoices are not paid in full. The unpaid balances carry forward and are
+             included in the new “balance due” amount. COs should review monthly invoices for rolling
+             balances to address Summary Invoices that were not paid in full. To reconcile these balances,
+             the Weekly ASC Wrong TAC/LOA Report can be used as a warning indicator for accounts
+             that may be entering into a rolling balance status.
+             To correct rolling balance issues, the COs must track DFAS partial payments until they are
+             paid and current. COs should review their account activities for the past 13 months and
+             review the balance and payment totals and Summary Invoice amounts for previous months to
+             aid in identifying missed payments. Once unpaid balances are found, annotate the detailed
+             information on balance sheets, electronic or manual; identify who was responsible for the
+             processing and the date of the Summary Invoice amount; and provide as much detail as
+             possible. If an amount cannot be identified or the amount is from a previous year, annotate it
+             as “unidentified” with the specific amount. These actions on all carrying balances must be
+             followed through with DFAS until the account has a zero carrying balance.
+    6. Army Transportation FMs:
+        a. FMs or RMs will maintain active TGET user accounts to ensure LOAs are uploaded correctly
+           in the TGET database IAW the DoDFMR 7000.14-R, Volume 10, Chapter 13, Paragraph
+           130305.
+        b. FMs will ensure internal funds control and certification procedures are followed in the use of
+           TACs, and their associated allotments and fund citations, to ensure duplicative or erroneous
+           payments do not occur.
+        c. FMs that request TACs will verify that the associated LOAs are correct and loaded in the
+           applicable accounting system.
+        d. FMs are responsible for completing the funds verification document, Figure V6-8, for their
+           TACs, which certifies funding is authorized and available for the requested transportation.
+        e. FMs will also monitor their TAC usage and ensure sufficient funds are obligated to cover all
+           the projected transportation costs.
+        f.   FMs will provide the shipping customer with FM certified FVUA form. This documentation
+             shows funding availability.
+        g. FMs will monitor TAC usage and the execution of transportation costs, making adjustments
+           as needed to ensure sufficient funding is obligated to cover projected transportation charges.
+           If there is an issue with a TAC, the FM will notify the TO within the time frames established
+           in Chapter 212 of this regulation.
+        h. FMs will coordinate with the CO or TO in addressing all issues associated with transactions
+           that have not yet been certified for payment.
+        i.   FMs will provide a properly formatted LOA and associated TACs for input into the shipper
+             system when needed for electronic processing and third-party billing.
+        j.   FMs will coordinate with the Finance and Accounting Office to resolve edit exceptions
+             encountered in the obligation and accrual recording and invoice payment processes.
+        k. FMs will work with TOs and COs to correct fund citation edit exceptions.
+
+
+                                                  II-V6-10
+Defense Transportation Regulation – Part II                                                  8 May 2020
+Cargo Movement
+
+
+    7. Army Shipping Activities:
+        a. Initiate funds verification memorandum and forward them to the Army FM for approval prior
+           to requesting transportation from the TO and entering the Government into a contract with a
+           TSP.
+        b. Authorize the TO to use a TAC and the FM’s written or electronic verification of a funded
+           LOA and its associated TAC (FVUA form). Ensure the cost estimate is developed per
+           instructions in Figure V6-8 and annotated on the FVUA.
+        NOTE: If using another Military Service or Defense Agency TO in support of Army-funded cargo
+        movements (e.g., Navy, United States Marine Corps, United States Air Force, Defense Logistics
+        Agency, or Defense Contracting Management Agency activities); the FVUA form is not required.
+        The FVUA form is only a requirement for Army shippers using Army TOs to process and move
+        Army cargo; however, Army shippers can be expected to provide the same funding information to
+        non-Army TOs.
+
+H. GENERAL PROCEDURES
+    1. TAC Requests:
+        Workbooks disseminated by the Army TAC Support team are the method by which TACs are
+        requested and renewed. Current workbooks can be obtained from your Command TAC
+        administrator or by emailing the Department of Army G-4, TAC Support Team at
+        usarmy.ria.asc.mbx.tac-support@mail.mil.
+        a. The Army TAC Support Team will typically issue new TACs within 5 Government business
+           days following receipt of the TAC request.
+        b. TAC requests, where the associated LOA is either missing or fails system edits, will not be
+           approved. The Army TAC Support Team will return these TAC requests to the ACOM,
+           ASCC, DRU, USAR, or NGB Command TAC administrator for correction. A TAC will not
+           be available for use until it has a LOA that has been validated by the applicable accounting
+           system edit criteria.
+        c. All TACs and their associated LOAs expire at the end of each FY and must be renewed at
+           that time. The Army TAC Coordinator publishes annual guidance with specific procedures
+           and suspense dates to ensure TACs are ready for use on 1 October of each year.
+        d. TAC administrators will submit all TAC renewals, updates, and new requests to the Army
+           TAC Support Team mailbox: usarmy.ria.asc.mbx.tac-support@mail.mil.
+    2. TGET:
+        a. ACOM, ASCC, DRU, USAR, and NGB TAC administrators will maintain active TGET user
+           accounts to validate their TACs and LOAs. TOs will maintain active TGET user accounts to
+           validate TACs prior to shipping cargo IAW this regulation, Part II, Appendix V. FMs and or
+           RMs will maintain active TGET user accounts to ensure LOAs are uploaded correctly in the
+           TGET database IAW DoDFMR 7000.14-R, Volume 10, Chapter 13, Paragraph 130305.
+             To obtain a TGET account, go to the Business Enterprise Business Services (BEIS)
+             homepage at https://beis.csd.disa.mil, download a signable DD Form 2875 and a Business
+             Transformation Agency Rules of Behavior form, and submit the completed forms to the BEIS
+             Operations Support Office at BEISOperationsSupport@dfas.mil or by fax at 317-212-1270.
+             The contact telephone number is DSN 699-5840 or 4532, or 317-212-5840 or 4532. Users
+             must log in to their TGET accounts at least once every 60 days or the account will be
+             deactivated. Contact the BEIS Operations Support Office at the numbers above to reset
+             deactivated accounts.
+
+
+                                                II-V6-11
+Defense Transportation Regulation – Part II                                                          8 May 2020
+Cargo Movement
+
+
+        b. If a TAC is not identified in the shipment document, use the Query TAC function in TGET to
+           determine which TAC or LOA to apply. Click on Query TAC on the TGET at
+           https://beis.csd.disa.mil/beis-html/frontpage-pki.html, select TGET Web – Transportation
+           Global Edit Table, and submit the inquiry. Query results will allow the user to view the
+           description, usage, LOA, and POCs. The User Options will allow the user to view the TAC
+           description and usage.
+        c. TOs need to purge all TACs and SDNs from their shipper systems. They should load their
+           pre-selects with TACs validated in TGET for use in the new FY. It is also critical to
+           understand the appropriate LOA for a shipment is the LOA for the FY when the shipment
+           was picked up. If the TO is correcting a record in TPPS with a default LOA, the date of
+           shipment pick up must be known. If it was picked up during a previous FY, the TO needs to
+           use the previous FY SDN/TAC/LOA. After the new FY, LOAs are added to the TPPS Chart
+           of Accounts. The previous FY LOA will likely be the second-to-last LOA presented for a
+           given TAC, and the new FY LOA will be the last LOA listed. Once selected, effective dates
+           for freight shipments must be validated.
+    3. TPPS:
+        a. Detailed information and procedures regarding the TPPS are contained in this regulation in
+           Chapter 212, “Third Party Payment System (TPPS) Procedures.”
+        b. TOs will ensure compliance in using “Best Value” in determining carrier selection. The
+           “Best Value” approach is based on determining factors, such as quality of service, past
+           performance, cost/price, claims experience, ability to perform service within stated
+           requirements, and carrier commitment of transportation assets to readiness support. Under
+           the best value approach, cost is not the only factor in carrier selection. Past performance
+           factors include, but are not limited to, on-time pickup and delivery percentage, lost or
+           damaged cargo percentage, number of claims, and provider availability. Service factors
+           include, but are not limited to, the carrier’s ability to respond, the routing, the carrier’s ability
+           to provide in-transit visibility, and the commitment of transportation assets to readiness
+           support. Further information and instructions for “best value” are found in this regulation,
+           Part II, Chapters 202 and 203.
+        c. The matching model is the Army’s preferred processing model. This model has both the
+           buyer and the seller providing their own order or invoice documentation to the TPPS
+           independently. Ideally, the documents are created by the source shipping systems, but they
+           can also be manually created within the TPPS. As part of the setup of the Trading Partner
+           Relationship, the buyer and carrier have to agree on whether matching occurs using the
+           buyers’ reference numbers (Match-on-BL) or the carriers’ reference numbers (Match-on-
+           Pro). Match on Pro is the best practice and preferred matching model. Both parties must
+           ensure the agreed-to field is on the order and the invoice contains matching entries. Using
+           matching model allows auto approval rules, if desired. The matching model is available using
+           either the Cargo Movement Operations System (CMOS) or the Global Freight Management
+           (GFM) system.
+        d. TOs utilizing commercial carrier-model invoicing must include TACs with the TCNs to take
+           advantage of TPPS provider TAC mapping (best practice). If TACs are included at the end
+           of the TCN, TPPS has the ability to extract the TAC and populate it into the TPPS accounting
+           fields. Place the TAC as the last 4 characters with a <space> and no extra characters (e.g.,
+           W33M8S22916003BXX A2EQ not “W33M8S22916003BXX-A2EQ-rtn” or “A2EQ-
+           W33M8S22916003BXXX”). The accurate population of TAC data fields will significantly
+           improve the visibility, validity, and auditability of financial documentation.
+
+
+
+                                                    II-V6-12
+Defense Transportation Regulation – Part II                                                      8 May 2020
+Cargo Movement
+
+
+        e. Auto-approval for payment can be made either automatically or manually. The auto-approval
+           option business rules in TPPS permit TOs to set up auto-approval criteria by transaction type
+           for each carrier. Depending upon the business established, shipments that fall within specific
+           criteria (e.g., below a specified dollar threshold and within a specified tolerance), may be
+           automatically approved for payment. This option reduces workload and allows shippers to
+           concentrate on reviewing items that fall outside a specified dollar range. Requests for auto-
+           approval should be based on the volume and type of transactions at a particular
+           Transportation Office and not be based on particular carriers. There is no Army-wide
+           threshold, as individual shippers must tailor the amounts to their particular situations.
+           Because of current Army firewall restrictions, all TO requests for auto-approval of carrier
+           payment with justification must go through the Army G-4 TPPS administrator. The TPPS
+           administrator will notify the TPPS provider to set up the threshold and tolerances. Carriers
+           are not authorized to set up auto-approval payment for any Army TPPS account holder. TOs
+           will request thresholds for auto-approval payments that minimize unauthorized payments
+           from being auto-approved.
+        f.   Shipments where full payment is contingent upon timely delivery require the TO to review
+             reports and identify late shipments that were automatically approved for payment and request
+             a refund. Corrective actions are as follows:
+             (1) If an overpayment is discovered prior to the generation and certification of the Summary
+                 Invoice, the TO must generate a linked electronic bill (eBill).
+             (2) If the payment for a late shipment was automatically approved and the discovery occurs
+                 after the generation and certification of the Summary Invoice, the TO may attempt to
+                 recover the payment using a linked eBill first.
+             (3) If the amount is not recovered via a linked eBill, the TO will notify the General Services
+                 Administration (GSA), Office of Transportation and Property Management, Audit
+                 Division. GSA has post-payment audit responsibility and will recover overpayments
+                 from carriers.
+        g. In addition to locally generated monitoring reports, HQDA G-4 will produce and disseminate
+           reports to the TPPS COs for action, but may require TAC administrators’ assistance to ensure
+           corrective actions are taken. These reports provide indicators on the statuses of funds and
+           transportation transactions specific to the AWT/CMA. They are used to monitor funding
+           trends, erroneous billings, policy and training issues, and other critical variables necessary to
+           provide a continuous, comprehensive evaluation of the AWT/CMA. The following are
+           examples of the monitoring reports:
+             (1) The Weekly Expenditure Report provides a status of funds update. The information
+                 tracks obligations, disbursements, requirements, and potential expenditures (advance
+                 lift) data at the HQDA, Management Decision Package (MDEP), stakeholder, and TAC
+                 levels. Its purpose is to highlight potential areas of concern that may require actions.
+             (2) The Army Wrong TAC or LOA Report is provided weekly and contains a listing of
+                 transactions where an incorrect TAC or LOA was potentially used.
+             (3) Weekly Army TPPS Metrics contain bills associated with Army shipments processed
+                 through TPPS. The purpose is to outline information on the backlogged TPPS open
+                 transactions and work the transactional level data to a closed status, which includes
+                 payment settled, denied, or canceled. The report contains the following categories:
+
+
+
+
+                                                  II-V6-13
+Defense Transportation Regulation – Part II                                                         8 May 2020
+Cargo Movement
+
+
+                  (a) The Transactions – Closed, Older than 90 Days category contains records reported
+                      in the previous week that have been closed. It highlights (in a positive manner)
+                      units that are attending to their aged transactions.
+                  (b) The Transactions – Open, Greater than 60 Days category contains records of open
+                      transactions older than 60 days as of the date of the report. The 60-day marker is
+                      an initial visibility/take action marker for units. A 90-day marker is also included
+                      in the report. HQDA G-4’s expectation is that no open record should be older than
+                      90 days. As performance improves, the 90-day standard will be adjusted to 75
+                      days.
+                  (c) The Transactions – Service Completion Date Greater than 30 Days category
+                      contains records that are subset of the above report. Office of the Secretary of
+                      Defense (OSD) policy (Defense Transportation Regulation [DTR] Part II, Ch 212,
+                      Paragraph C.5.c. (3)) requires records marked as Service Complete by the carrier
+                      (i.e., contains notice of delivery and is marked ready to be paid) to be worked to a
+                      closed status (payment settled, canceled, or denied) within 3 days (6 days when
+                      there are properly documented disputes).
+                  (d) The Transactions for Unmatched Seller category outlines carrier unmatched
+                      invoices and contains records that, for a variety of reasons, remain unmatched.
+                  (e) The eBills and Unlinked-eBills category can be used to request a debit (Charge
+                      Buyer) or a credit (Refund Buyer). An eBill is a document used for recording and
+                      paying adjustments or supplemental charges (e.g., destination charges) to an
+                      original and paid order or invoice. Either party (i.e., the TO or TSP) may initiate
+                      an eBill, but it will not be paid until the other party approves it. A properly created
+                      eBill is electronically generated using the “New-eBill from Order” or “New-eBill
+                      from Invoice” option. These two actions will electronically link the eBill to the
+                      associated Order or Invoice. When creating the linked eBill, add an alpha suffix to
+                      the document number (e.g., 1234a or 1234b) so the eBill number is unique, yet still
+                      related to the linked document.
+                        An eBill should never be a standalone document or original charge (unlinked-
+                        eBill). OSD policy prohibits unlinked eBills because they are insufficient for post-
+                        payment audits. Any original charges should be created as an order or invoice, not
+                        as an eBill. For example, an eBill should not be used for VFNU. VFNU is an
+                        original charge (not an adjustment to an existing order or invoice) and should be
+                        created as an original order or invoice. It just will not contain a transportation line.
+                        The other party then creates a matching order or invoice to settle the record. To
+                        avoid unlinked-eBills for paper invoices, the TO must manually create an order and
+                        input all the transportation information from the carrier’s hard copy bill into the
+                        order. Carriers are then notified to create a matching invoice from the order to
+                        settle the record. Use the tracing number on the bill as the document number,
+                        which can then be used to locate the transaction in TPPS.
+                        Any waiver requests for unlinked eBills must come through command channels to
+                        the Army G-4. The Army G-4 will review and obtain OSD (Transportation Policy)
+                        approval, if appropriate.
+             (4) The Monthly Stakeholders’ Report contains a monthly assessment of the Stakeholders’
+                 AWT/CMA budget, which is based on the initial requirements. This report includes
+                 budget execution and the projected budget execution for the remainder of the FY.
+
+
+
+
+                                                    II-V6-14
+Defense Transportation Regulation – Part II                                                       8 May 2020
+Cargo Movement
+
+
+                  Additionally, the report gives a summary overview at the MDEP and TAC level.
+                  Detailed transactions are provided with the report.
+             (5) The Monthly Cost Recovery Report is a cumulative report that contains AWT/CMA
+                 areas of potential cost recovery, potential cost avoidances, funds realignment, and areas
+                 where transactions are worthy of further research and evaluation. This information
+                 highlights opportunities to better manage the overall AWT/CMA program.
+    4. Express Carrier Accounts:
+        a. Express Carrier Accounts are only authorized for established transportation offices, approved
+           high-volume warehouses and distribution centers, and approved remote Army organizations
+           where a Government Purchase Card (GPC) is used to pay the bills. All other organizations
+           are required to use their servicing transportation office for their transportation needs.
+        b. When using the transportation office, the requestor will submit a DD Form 1149, Requisition
+           and Invoice/Shipping Document, Figure V6-11, accompanied by a valid FVUA. The FVUA
+           can be for an individual shipment or kept on file to cover multiple shipments over a defined
+           period of time. The transportation office will then process the shipments using its own
+           express carrier account. If required, the transportation office can direct the selected carrier to
+           pick up the package at the requestor’s location. The transportation office then pays for the
+           shipment using the identified TAC or LOA from the FVUA without creating a new express
+           carrier account.
+        c. Army organizations over 50 miles away from the nearest servicing transportation office may
+           establish their own commercial express carrier accounts, but only if they use their GPC cards
+           to pay for the services. In this capacity, the sole purpose of the commercial express carrier
+           account is to move administrative shipments and not cargo or repair parts. Cargo, repair
+           parts, and other shipments that require a TAC or LOA for payment must be processed
+           through a servicing transportation office. Army organizations must coordinate with their
+           servicing transportation office and ACOM to justify and authorize a GPC-only express carrier
+           account. Approved unit accounts are required to comply with transportation regulations, such
+           as not shipping Hazardous Material (HAZMAT) or classified cargo. HAZMAT and
+           classified cargo must be shipped through the servicing transportation office.
+        d. Administrative shipments are generally defined as shipments of materials consisting of items
+           such as general correspondence, personnel/payroll records, laboratory samples (except for
+           samples paid for by the Service-wide transportation fund), electronic storage media (e.g.
+           computer tapes, floppy discs, videos, digital video disk, X-rays, publications/technical
+           manuals not requisitioned through the supply system, blueprints; or other legal, financial, or
+           contracting documents).
+        e. If any Army organization obtains an express carrier account or arranges any contracted
+           transportation without coordination with the servicing transportation office, the Army
+           organization is responsible for payment of the transportation charges with its own GPC.
+        f.   Requests for waivers to this policy should be forwarded, along with justification, through
+             command channels to:
+                  HQDA G-4
+                  ATTN: DALO-FPT
+                  500 ARMY PENTAGON
+                  WASHINGTON, D.C. 20310-0500
+
+
+
+
+                                                  II-V6-15
+Defense Transportation Regulation – Part II                                               8 May 2020
+Cargo Movement
+
+
+    5. Resources:
+        a. Annual TAC revalidation message/e-mail notification information.
+        b. Updated TAC workbooks.
+        c. The FVUA form (with instructions).
+        d. General TAC training.
+        e. Information on tools to monitor TAC usage.
+        f.   TGET account application instructions.
+        g. A TAC standardization/assignment listing.
+        h. A TAC administrator POC listing.
+        i.   Storage of HHG and POV for Overseas Contingency Operations (OCO) information and
+             instructions.
+
+I. POC
+    ACOM, ASCC, DRU, USAR, and NGB TAC administrators and TOs may direct questions to the
+    Army TAC Coordinator using one of the following:
+        E-mail: usarmy.ria.asc.mbx.tac-support@mail.mil.
+        Army TAC Coordinator
+        U.S. Army
+        ATTN: SCOD-SDT
+        Rock Island Arsenal, Bldg 350, Rock Island, IL 61299
+
+J. THE FUNDS VERIFICATION & USE AUTHORIZATION FORM (FVUA)
+    The Army-Funded Transportation FVUA form (Figure V6-8) is available at the following website:
+    http://sill-www.army.mil/usag/dol/documents/FVUA%20Form.pdf.
+
+K. TAC LETTER ORDER EXAMPLE
+    The TAC letter order example is depicted in Figure V6-9.
+
+L. ISSUE RELEASE/RECEIPT DOCUMENT, DD FORM 1348-1A
+    The Issue Release/Receipt Document example is depicted in Figure V6-10.
+
+M. REQUISITION AND INVOICE/SHIPPING DOCUMENT, DD FORM 1149
+    The Requisition and Invoice/Shipping Document example is depicted in Figure V6-11.
+
+
+
+
+                                                II-V6-16
+Defense Transportation Regulation – Part II                                                             8 May 2020
+Cargo Movement
+
+
+                       Army Shipment
+
+
+
+
+                             OCO
+                           Shipment
+                                                    YES                         See OCO flowchart
+
+
+
+
+                             NO
+
+
+
+
+                            Ammo                                             See Ammunition (ammo)
+                           Shipment
+                                                    YES
+                                                                                   flowchart
+
+
+
+
+                             NO
+
+
+
+                             APS
+                           Shipment
+                                                    YES                         See APS flowchart
+
+
+
+
+                             NO
+
+
+
+                          Major Item
+                          Shipment
+                                                    YES                      See major item flowchart
+
+
+
+
+                             NO
+
+
+
+                          Secondary
+                                                                                See secondary item
+                             Item                   YES
+                          Shipment                                                   flowchart
+
+
+
+
+                             NO
+
+
+
+                           Personal
+                                                                               See personal property
+                           Property                YES
+                           Shipment                                                  flowchart
+
+
+
+
+                                              NO                                   Unit funded
+
+
+                         Note: Local funds are to be used for detention/demurrage charges.
+
+
+                     Figure V6-1. TAC Flowchart: Army SDT Funding Responsibility
+
+
+
+
+                                                     II-V6-17
+Defense Transportation Regulation – Part II                                                                     8 May 2020
+Cargo Movement
+
+
+
+
+                                                                                             AWT/CMA does not fund
+              OCO                      Mob /                  Use ACOM/ASCC/DRU              mobilization (Mob) /
+                          YES                     YES                                        demobilization (Demob)
+            Shipment                  Demob                          TAC
+                                                                                             requirements nor
+                                                                                             deployment/redeployment
+                                                                                             of troops or cargo
+                                        NO
+
+
+
+
+                                    Sustainment   YES     Use OCO sustainment TAC
+
+
+
+                                        NO
+
+                                                                                                Includes sustainment
+                                                                                                and retrograde
+                                     Retrograde   YES      Use OCO retrograde TAC               shipments for DA
+                                                                                                identified
+                                                                                                contingencies.
+
+                                        NO
+
+
+
+                                       War
+                                                  YES      Use OCO war reserve TAC
+                                     Reserves
+
+
+
+                                        NO
+                                                                                               Includes national and
+                                                                                               field level reset
+                                                                                               programs. Includes
+                                       Reset      YES         Use OCO Reset TAC                shipping to/from depot.
+                                                                                               Material must have been
+                                                                                               in direct support of DA
+                                                                                               identified contingency.
+
+
+                                                    Note: Equipment must be in direct support of
+                                                    ‘deployed’ activities. Units ‘permanently stationed’
+                                                    in an OCONUS location (i.e. SWA) are not
+                                                    considered deployed and have BASE funding
+                                                    available for use.
+
+                                                    Note: Depending on the operation, contingency
+                                                    operations (CONOPS) may be BASE funded or
+                                                    COCOM funded (with responsible ASCC as the
+                                                    supported command).
+
+
+
+       Figure  V6-2.
+          Figure      TACFlowchart:
+                 V6-2 TAC Flowchart:   Army
+                                    Army      Overseas
+                                         Overseas       Contingency
+                                                  Contingency         Operations
+                                                              Operations          (OCO) Shipments
+                                                                         (OCO) Shipments
+
+
+
+
+                                                   II-V6-18
+Defense Transportation Regulation – Part II                                      8 May 2020
+Cargo Movement
+
+
+
+
+                  Figure V6-3. TAC Flowchart: Army Ammunition (AMMO) Shipments
+
+
+
+
+                                              II-V6-19
+Defense Transportation Regulation – Part II                                                                     8 May 2020
+Cargo Movement
+
+
+
+
+                APS
+                               YES         OEM to APS                        YES                  FDT TAC
+              Shipment
+
+                                                NO
+
+
+                                            APS to APS                       YES                 APS TAC
+
+
+                                                NO
+
+                                              APS to
+                                                                             YES               MEDCOM TAC
+                                              Medical
+
+                                                NO
+
+                                              Major
+                                           Contingency                        YES                 DA TAC
+                                            Operation
+
+                                                                            MTOE
+                                                                                        YES       DA TAC
+                                                NO                          Issue
+                                                             YES
+                                                                              no
+
+                                           Small-Scale                      Funded             Funded per the
+                                                                                        YES
+                                           Contingency                    requisition            requisition
+
+                                                                              no
+                                                NO                         Loan /
+                                                                                        YES    Borrower’s TAC
+                                                                          Payback
+
+
+                                               APS                                             Owning LCMC
+                                                                             YES
+                                            malposition                                            TAC
+
+
+                                                NO
+
+                                             APS to
+                                                                             YES                Exercise TAC
+                                            Exercises
+
+
+                                                                             APS
+                                                NO                        redistribut    YES     APS TAC
+                                                             YES              ion
+                                                                              no
+
+                                           APS excess                     Return to
+                                                                                         YES     AWCF TAC
+                                                                          wholesale
+
+                                                                              no
+
+                                                                             APS
+                                                        NO                                       APS TAC
+                                                                           disposal
+
+                         Note: Local funds are to be used for detention/demurrage charges.
+
+
+                Figure V6-4.
+                    Figure    TAC
+                           V6-4 TACFlowchart:  Army
+                                   Flowchart: Army    Prepositioned
+                                                   Prepositioned StocksStock
+                                                                        (APS)(APS) Shipments
+                                                                              Shipments
+
+
+
+
+                                                               II-V6-20
+Defense Transportation Regulation – Part II                                                                                   8 May 2020
+Cargo Movement
+
+
+
+
+       Major Item   YES      Disposition                                      As directed by
+                                                         YES
+       Shipment               Provided                                            Dispo
+
+                                                                                                    DA Dispostion (Dispo) = DA TAC.
+                                  no
+                                  NO
+                                                                                                    PM Dispo = PM TAC.
+                                                                                                    ACOM Dispo = ACOM TAC.
+                              Fielding,                                                             LCMC dispo = LCMC TAC
+                            modification,
+                             displaced                   YES                     PM TAC
+                             equipment
+
+
+                                  NO
+
+
+
+
+                          Repair and return or                                                            To include actions such
+                            non-OCO reset
+                                                          YES                  ASCC/DRU TAC               as life-cycle and training
+                                                                                                          reset requirements
+
+
+                                  NO
+
+
+
+                            Asset going to/
+                            from wholesale                YES                    LCMC TAC
+                                supply
+
+
+
+                                  NO
+
+
+                              Internal
+                                                         YES                   ASCC/DRU TAC
+                            Redistribution
+
+
+                                  NO
+                                                        Generated
+                               Excess            YES     from PM       YES            PM TAC
+                                                          fielding
+
+
+                                                           NO
+
+
+                                                        Destined
+                                                                      YES           FMS TAC
+                                                        for FMS
+
+
+
+                                                                          Excess material being sent to an SSA for further
+                                                            NO              processing is to be transported to the SSA
+                                                                             using organic equipment or local funds.
+
+
+
+                                   NO                                              Unit TAC
+
+                           Note: Local funds are to be used for detention/demurrage charges.
+
+
+                          Figure V6-5
+                            Figure    TAC TAC
+                                    V6-5. Flowchart: Army Major
+                                               Flowchart:   ArmyItemMajor
+                                                                    Shipments
+                                                                          Item Shipments
+
+
+
+
+                                                               II-V6-21
+Defense Transportation Regulation – Part II                                                              8 May 2020
+Cargo Movement
+
+
+
+
+         Secondary
+                               LCMC/SSA
+            Item      YES                      YES              LCMC TAC       Class IX MRO releases from a
+                                 MRO
+         Shipment                                                              SSA will automatically print
+                                                                               LCMC TAC on the DD Form
+                                                                               1348-1A.
+
+                                   NO
+
+
+
+
+                                DLA MRO        YES               DLA TAC       Class IX MRO releases from
+                                                                               a DLA depot will be shipped
+                                                                               with a DLA TAC. Costs are
+                                                                               built into the unit price.
+
+                                   NO
+
+
+
+
+                                Internal
+                                               YES          ASCC/DRU TAC
+                              Redistribution
+
+
+
+
+                                   NO
+
+
+
+
+                                                                                 Unless otherwise directed,
+                                 Excess        YES              Local funded     excess for CL IX material
+                                                                                 will be turned in to the local
+                                                                                 supporting SSA. Units are
+                                                                                 to fund transportation to the
+                                                                                 SSA.
+
+            Figure V6-6 TAC Flowchart:
+                     Figure  V6-6. TAC Army SecondaryArmy
+                                         Flowchart:  Items Shipments
+                                                           Secondary Item Shipments
+
+
+
+
+                                                     II-V6-22
+Defense Transportation Regulation – Part II                                                                                8 May 2020
+Cargo Movement
+
+
+
+
+           Personal
+           Property            YES
+                                                                                                            Each agency funds
+           Shipment
+                                                                                                                their own:
+                                                                                                             Active / Guard /
+                                                                                                                 Reserve
+                                PCS       YES     Military                YES            G1 funded
+                                                                                                           Active duty Soldiers
+                                                                                                            have an MDC code
+                                                                                                           on their orders with a
+                                                    no                                                      corresponding TAC
+
+
+
+                                                                                                            TACs are not used
+                                                Appropriated
+                                                                  YES     CONUS    YES Local funded         for CONUS to
+                                                  Civilian
+                                                                                                            CONUS moves
+
+
+                                                                           NO
+
+
+                                                                                                              DA funds civilian
+                                NO                                                         DA funds
+                                                                                                            OCONUS requirements
+                                                                          OCONUS        entitlements for
+                                                                                                               (dependant on
+                                                                                         HHG/POV/NTS
+                                                                                                                entitlements).
+
+
+                 May have
+                   family
+                entitlements                         NO                                 Local funded
+
+
+
+
+                                                                                                              Unaccompanied
+                                                                                                              baggage may be
+                                TCS                            YES                      Local funded
+                                                                                                           authorized (dependant
+                                                                                                              on entitlements).
+
+                                NO
+
+
+
+
+                           Deployment/                                                   May be CONOPS
+                                                                YES
+                           Mobilization                                                  or Base funded
+
+
+
+
+                                                         NO                              Local funded
+
+
+                          Note: Local funds are to be used for detention/demurrage charges.
+
+                       Figure V6-7 TAC Flowchart: Army Personal Property Shipments
+                      Figure  V6-7. TAC Flowchart: Army Personal Property Shipments
+
+
+
+
+                                                               II-V6-23
+Defense Transportation Regulation – Part II                                         8 May 2020
+Cargo Movement
+
+
+
+
+                         Figure V6-8. Funds Verification & Use Authorization Form
+
+
+
+                                                II-V6-24
+Defense Transportation Regulation – Part II                                          8 May 2020
+Cargo Movement
+
+
+
+
+                 Figure V6-8. Funds Verification & Use Authorization Form (Cont’d)
+
+
+
+                                              II-V6-25
+Defense Transportation Regulation – Part II                                          8 May 2020
+Cargo Movement
+
+
+
+
+                 Figure V6-8. Funds Verification & Use Authorization Form (Cont’d)
+
+
+
+                                              II-V6-26
+Defense Transportation Regulation – Part II                                  8 May 2020
+Cargo Movement
+
+
+
+
+                              Figure V6-9. Memorandum Letter Order Example
+
+
+
+
+                                               II-V6-27
+Defense Transportation Regulation – Part II                                          8 May 2020
+Cargo Movement
+
+
+
+
+                     Figure V6-10. DD Form 1348-1A, Issue Release/Receipt Document
+
+
+
+
+                                              II-V6-28
+Defense Transportation Regulation – Part II                                                                   8 April 2020
+Cargo Movement
+
+
+
+
+                                      Figure V6-11. DD Form 1149, Requisition and Invoice/Shipping Document
+
+
+                                                                   II-V6-29
+Defense Transportation Regulation – Part II                                                                     8 April 2020
+Cargo Movement
+
+
+
+
+                               Figure V6-11. DD Form 1149, Requisition and Invoice/Shipping Document (Cont’d)
+
+
+                                                                  II-V6-30
+

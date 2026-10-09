@@ -1,0 +1,113 @@
+                                                                                                                                Certificate Number: 22-090
+                                                                                                                                               Page 1 of 4
+
+
+
+
+For:                                                                                Submitted By:
+Multiple Dimensions Measuring Device                                                Mettler-Toledo, LLC
+Static Dimensioning Only                                                            1150 Dearborn Drive
+Models: TLD250                                                                      Worthington, OH 43085
+Maximum: (see below)                                                                Tel: 614-438-4387
+Minimum: (see below)                                                                Fax: 614-438-4355
+dmin: (see below)                                                                   Contact: Scott Davidson
+                                                                                    Email: scott.davidson@mt.com
+                                                                                    Web site: www.mt.com
+
+
+                                               Standard Features and Options
+Static dimensioning of opaque cuboidal and known shaped objects and non-cuboidal irregular objects.
+Standard Features:
+     3D camera
+     Laser: Class 1
+     Communication: Ethernet, Serial, USB
+ Dimensioning Designation for Cuboidal Objects:
+   Axis ID             dmin               Minimum                                   Maximum
+ Length        0.2 inches / 0.5 cm     2.4 inches / 6 cm                      39 inches / 100 cm
+ Width         0.2 inches / 0.5 cm     2.4 inches / 6 cm                      31 inches / 80 cm
+ Height        0.2 inches / 0.5 cm     2.4 inches / 6 cm                      39 inches / 100 cm
+
+Dimensioning Designation for Irregular and Known Shaped Objects:
+   Axis ID             dmin                Minimum             Maximum
+ Length        0.5 inches / 1 cm        6 inches / 12 cm 39 inches / 100 cm
+ Width         0.5 inches / 1 cm        6 inches / 12 cm 31 inches / 80 cm
+ Height        0.5 inches / 1 cm        6 inches / 12 cm 39 inches / 100 cm
+
+Options:
+ NTEP Certified and compatible Scale
+ Handheld Bar Code Scanner
+ Remote Display
+Software Version ID:
+ 2.00.124.077 or Higher
+Temperature Range: 0 °C to 35 °C (32 °F to 95 °F)
+This device was evaluated under the National Type Evaluation Program and was found to comply with the applicable technical requirements of "NIST Handbook 44:
+Specifications, Tolerances and Other Technical Requirements for Weighing and Measuring Devices." Evaluation results and device characteristics necessary for
+inspection and use in commerce are on the following pages.
+
+
+
+
+Mahesh Albuquerque                                                                                                                            Ivan Hankins
+Chair, NCWM, Inc.                                                                                                                  Chair, NTEP Committee
+                                                                                                                                Issued: September 15, 2022
+                                                1135 M Street, Suite 110 / Lincoln, Nebraska 68508
+The National Conference on Weights and Measures (NCWM) does not approve, recommend or endorse any proprietary product or material, either as a single item or as
+a class or group. Results shall not be used in advertising or sales promotion to indicate explicit or implicit endorsement of the product or material by the NCWM.
+                                                                                                        Certificate Number: 22-090
+                                                                                                                       Page 2 of 4
+
+
+
+                                                     Mettler-Toledo, LLC
+                                         Multiple Dimension Measuring Device / TLD250
+
+Application: The TLD250 is a static dimension measurement instruments that utilizes a 3d camera and an NTEP certified and
+compatible non-computing scale to dimension cuboidal shaped, irregular and known shape opaque objects. Can be used with or
+without the NTEP certified and compatible scale.
+
+Identification: The required information appears on an adhesive badge attached to the side of the dimensioning instrument column.
+
+Sealing: The device is sealed using a Category 1 sealing method. A wire seal or PSA seal preventing access to
+calibration/configuration switch.
+
+Operation: The ready condition is shown with zeros on the display for the dimensions. The system automatically detects when an
+object is in the field of view to start the measurement. The object needs to cover 30 percent of the “Autosense Zone” which is the
+rectangle superimposed on the dimensioner base. Please see the last image showing the “Autosense Zone”
+
+Test Conditions: A Mettler-Toledo model TLD250 was submitted for evaluation. The emphasis of the evaluation was on device
+design, operation, performance, compliance with influence factors and interaction with Mettler Toledo model BC scale NTEP
+Certificate of Conformance 13-111. Multiple dimension measurements were performed near maximum, near minimum, and near mid-
+range for the ranges listed. Several measurements were performed using known shapes and irregular shapes. Measurements were
+performed with metric and imperial standards. The instrument was tested over a temperature range of 0 °C to 35 °C (32 °F to 95 °F).
+Test were conducted with power supply voltages of 85 VAC, 120VAC and 264 VAC.
+
+Evaluated By: J.Gibson, B. Stone (OH)
+
+Type Evaluation Criteria Used: NIST, Handbook 44: Specifications, Tolerances and Other Technical Requirements for Weighing
+and Measuring Devices, 2022 Edition. NCWM, Publication 14: Weighing Devices, 2022 Edition.
+
+Conclusion: The results of the evaluation and information provided by the manufacturer indicate the device complies with applicable
+requirements.
+
+Information Reviewed By: D. Flocken (NCWM)
+
+Examples of Device:
+                                               Certificate Number: 22-090
+                                                              Page 3 of 4
+
+
+
+          Mettler-Toledo, LLC
+Multiple Dimension Measuring Device / TLD250
+                                                                                      Certificate Number: 22-090
+                                                                                                     Page 4 of 4
+
+
+
+                                                  Mettler-Toledo, LLC
+                                      Multiple Dimension Measuring Device / TLD250
+
+
+
+Dimensioner display showing “Autosense Zone” superimposed on the dimmensioner base.
+

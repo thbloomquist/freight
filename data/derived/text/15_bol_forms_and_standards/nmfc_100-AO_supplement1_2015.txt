@@ -1,0 +1,1684 @@
+                                                                                   STB NMF 100-AO
+
+                                          ®
+
+
+National
+Motor Freight
+Classification ®
+
+Supplement 1 to NMF 100-AO
+(Supplement 1 contains all changes)
+
+
+
+Issued: March 19, 2015
+Effective: April 18, 2015
+(Except as otherwise provided herein)
+Expires: February 6, 2016
+
+
+
+Issued by:
+Joel L. Ringer, Issuing Officer
+National Motor Freight Traffic Association, Inc., Agent
+1001 North Fairfax Street, Suite 600, Alexandria, VA 22314
+www.nmfta.org
+703.838.1810
+
+
+
+
+For subscription information, call NMFTA Customer Service at 1.866.411.NMFC (6632).
+©2015 National Motor Freight Traffic Association, Inc.
+All rights reserved. No part of this publication may be used or reproduced in any manner
+whatsoever without the written permission of National Motor Freight Traffic Association, Inc.
+Carriers and other transportation companies who use or refer to any provisions of the National
+Motor Freight Classification ® are required to be bona fide participants in the Classification.
+                                                                                SUPPLEMENT 1 TO NMF 100-AO
+
+
+
+
+                                                                           TABLE OF CONTENTS
+                                 SUBJECT                                                                                                                                                      PAGE(S)
+
+    Participating Member Interstate Carriers ......................................................................................................................................... 1
+    Participating Broker Licensees ........................................................................................................................................................ 1
+    Cumulative List of Items and Numbered Packages in Supplements ................................................................................................ 2
+    Index to Articles ............................................................................................................................................................................... 3
+    Rules............................................................................................................................................................................................. 4-5
+    Classification of Articles ................................................................................................................................................................ 6-9
+    Specifications for Numbered Packages .................................................................................................................................... 10-11
+    Procedures Governing the Investigation and Disposition of Freight Claims for Loss or Damage ............................................. 12-15
+    Standard Form for Presentation of Loss or Damage Claims.......................................................................................................... 16
+    Procedures Governing Overcharge Claims, Unidentified or Duplicate Payments Involving the Transportation of Property by
+       Motor Carriers of Household Goods, Motor Carriers Participating in the Noncontiguous Trade and Freight Forwarders
+       Subject to 49 USC Subtitle IV, Part B ................................................................................................................................... 17-18
+    Procedures Governing Billing Disputes.......................................................................................................................................... 19
+    Standard Form for Presentation of Billing Disputes or Overcharge Claims.................................................................................... 20
+    Procedures Governing Interline Settlements ............................................................................................................................ 21-25
+    Explanation of Abbreviations and Reference Marks ...................................................................................................................... 26
+
+
+
+
+                                                                                              Issued by
+
+                                                                                         Joel L. Ringer
+                                                                                           Issuing Officer
+
+                                                  National Motor Freight Traffic Association, Inc., Agent
+                                                           1001 North Fairfax Street, Suite 600
+                                                               Alexandria, Virginia 22314
+
+                                                                             Telephone — 703.838.1810
+                                                                                    Fax — 703.683.1094
+                                                                               Email — ccsb@nmfta.org
+                                                                             Website — www.nmfta.org
+
+
+
+
+                                   Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+i                                For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                                    SUPPLEMENT 1 TO NMF 100-AO
+
+                                               PARTICIPATING MEMBER INTERSTATE CARRIERS
+         The following NMFTA member carriers are participants in or licensed to participate in this Classification for interstate, intrastate and foreign
+commerce under authority of powers of attorney issued to National Motor Freight Traffic Association, Inc., Agent or licenses issued by the National
+Motor Freight Traffic Association, Inc. The provisions of this Classification are limited to intrastate application within the states where the carrier is
+authorized to operate.
+                                                                                                                                                       U.S. DOT
+   SCAC                                           CARRIER NAME and DOMICILE                                                                                     MC Number
+                                                                                                                                                       Number
+  FLAN Flo Trans., Flo Transportation, Inc., d/b/a, Chicago, IL.............................................................................          948937    406699
+  GRDL Gordon Logistics LLC, Mansfield, MA ...................................................................................................... 1036746       430894
+  LMEL       LME, LME Inc. d/b/a, Roseville, MN .....................................................................................................  927043    400053
+  MVSO Maravillas Transportation LLC, Wilmington, CA ....................................................................................... 2567857            897008
+  MKOP Marko Transport Inc , Sauk Village, IL ..................................................................................................... 1656126     609281
+  SXCY Syrtex Corp, East Syracuse, NY .............................................................................................................. 2050086    730133
+  TSTN Thom Sawyer Transportation Services, Inc, Stockbridge, GA .................................................................. 1046721                     437798
+
+                                                          PARTICIPATING BROKER LICENSEES
+          The following interstate brokers are licensed to participate in this Classification under authority of powers of attorney issued to National Motor
+Freight Traffic Association, Inc., Agent or licenses issued by the National Motor Freight Traffic Association, Inc. The participation of each broker named
+herein is limited, on interstate, intrastate and foreign commerce, to provisions of this Classification applying on the articles and commodities for which
+the broker is authorized to arrange transportation.
+                                                                                                                                                                 U.S. DOT MC or FF
+   SCAC                                               BROKER NAME and DOMICILE
+                                                                                                                                                                 Number   Number
+  FLII       FLI, Inc., Overland Park, KS .................................................................................................................... 2222050   298002
+  SCIS        SCL Inc., Roseville, MN ....................................................................................................................... 2504419    865819
+
+
+
+
+                             Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                           For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                                1
+                                                  SUPPLEMENT 1 TO NMF 100-AO
+               CUMULATIVE LIST OF ITEMS AND NUMBERED PACKAGES IN SUPPLEMENTS
+                 Listed below are items and numbered packages that have been added, amended or brought
+                                                forward in this supplement.
+    ITEM   SUP          ITEM        SUP          ITEM        SUP          ITEM        SUP          ITEM        SUP         ITEM      SUP
+   183-A   1          70251-A         1       111755-A         1       182600-A         1        300160-A        1        400600-A     1
+   685-A   1         70252           1       111760-A         1       182601-A         1        300170-A        1        400700-A     1
+  4800-A   1          70680-A         1       112540-A         1       182602-A         1        300300-A        1        400800-A     1
+ 17310-A   1          70681-A         1       112542-A         1       182603-A         1        300310-A        1        400900-A     1
+ 23700-A   1         70682           1       114112-A         1       182604-A         1        300320-A        1        401000-A     1
+ 23701-A   1          74800-A         1       116030-A         1       182605-A         1        300330-A        1        401100-A     1
+23702     1          74801-A         1       116031-A         1       182635-A         1        300340-A        1        401200-A     1
+ 34282-A   1          79070-A         1       116033-A         1       185653-A         1        300350-A        1        401300-A     1
+ 35040-A   1          79080-A         1      116034           1      185665           1        300360-A        1        401400-A     1
+ 35042-A   1          80440-A         1       118250-A         1       300100-A         1        300370-A        1        401500-A     1
+ 35043-A   1          80441-A         1       118252-A         1       300105-A         1        300380-A        1        401600-A     1
+ 35044-A   1          80442-A         1       118253-A         1       300110-A         1        300500-A        1        401700-A     1
+ 35810-A   1          80443-A         1       118255-A         1       300115-A         1        300510-A        1
+                                                                                                                         PACKAGE     SUP
+ 35812-A   1          80444-A         1       118256-A         1       300120-A         1        300520-A        1
+ 35814-A   1          80446-A         1       174200-A         1       300125-A         1        300530-A        1          1082       1
+ 40640-A   1          80485-A         1      174201           1       300130-A         1        400100-A        1          1168       1
+ 40644-A   1         80486           1       178890-A         1       300135-A         1        400150-A        1
+ 68005-A   1          81110-A         1       178892-A         1       300140-A         1        400200-A        1
+ 68006-A   1         81111           1       178910-A         1       300145-A         1        400300-A        1
+68007     1          81394-A         1       178911-A         1       300150-A         1        400400-A        1
+ 70250-A   1          81395-A         1       182510-A         1       300155-A         1        400500-A        1
+
+
+
+
+                   Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+2                For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                                             SUPPLEMENT 1 TO NMF 100-AO
+                                                                                     INDEX TO ARTICLES
+
+             Article                                      Item                  Article                                    Item                  Article                                    Item
+
+                                A                                                                 D                                                                 P
+AAgenda Books ................................... 178910            ADay Planners ..................................... 178910       Pads:
+AAppointment Books .......................... 178910                BDuplicating Machines, NOI ............... 118250                  BCalendar desk ................................ 178890
+                                                                                                                                       CDate................................................ 178910
+                                B                                                                  F                                   BDesk blotter .................................... 153730
+BBanana Chips or Crisps ...................... 74800                BFinders, list ........................................ 178910     ADesk blotter, pulpboard, with blotter
+Block(s):                                                           AFruit Chips or Crisps ........................... 74800               retainers of fabric, paper or
+   BFlooring .......................................... 112540                                                                             pulpboard ..................................... 153730
+   AFlooring, wood, not exceeding 18                                                              H                                    ADesk, calendar................................ 178910
+     inches in length, not inlaid, wood                                                                                              Parts:
+                                                                    Handles:                                                           ACopier, NOI .................................... 116030
+     carpeting nor parquet flooring ....... 112540                    AMagnesium rake or lute .................. 185665
+Books:                                                                                                                                 BCopying machine, NOI.................... 118250
+   AAgenda or appointment .................. 178910                                                L                                   BDuplicating machine, NOI ............... 118250
+                                                                                                                                       AFacsimile machine, NOI .................. 116030
+                                C                                   BList Finders ........................................ 178910      AFax machine, NOI........................... 116030
+                                                                    Lockers:                                                           AMagnesium rake or lute, NOI .......... 185665
+ACalendar Backs or Mounts ............... 178910                      AParcel or clothes checking, metal or                            BReproducing machine, NOI............. 118250
+BCalendar Desk Pads (Date Pads),                                         wood............................................... 80440   APlanners, day or student ................... 178910
+  paper ................................................ 178890       BParcel or clothes checking, sheet
+ACalendar Desk Pads or Date Pads ... 178910                              steel ............................................. 111755                              R
+Calendars:                                                            BParcel or clothes checking, wire
+  BAdvertising, cloth, paper, pulpboard                                                                                             Rakes:
+                                                                         mesh or wire mesh and sheet steel111760                      AHand, with magnesium heads and
+     or celluloid-covered steel .................. 4800             ALutes, hand, with magnesium heads
+BChair-beds ........................................... 80485                                                                            detached handles of same or other
+                                                                      and detached handles of same or                                    material ........................................ 185665
+AChair-beds, metal or wood,                                           other material .................................. 185665
+  upholstered ....................................... 80485                                                                           BHand, with magnesium tines ........... 185653
+Chips:                                                                                             M                                BReproducing Machines, NOI ............. 118250
+  BBagel, banana or bread .................... 74800                                                                                                                S
+  ABagel or bread .................................. 74800          Machinery or Machines:
+  AFruit .................................................. 74800     BCopying, NOI .................................. 118250        AStudent Planners ............................... 178910
+  AVegetable ......................................... 74800          BCopying, NOI, scrap ....................... 118255
+Components:                                                           BDuplicating, NOI ............................. 118250                                        T
+  ACopier, printer, scanner or facsimile                              BReproducing, NOI ........................... 118250
+                                                                    BMini-blinds ......................................... 174200    Tile(s):
+     (fax) machine, NOI ....................... 116030                                                                                  AFelt-base ........................................ 182635
+ACopiers, NOI ...................................... 116030         AMini-Blinds ......................................... 174200
+                                                                    Molding(s):                                                         BFelt-base, asphalted ....................... 182635
+BCopying Machines, NOI .................... 118250
+BCopying Machines, NOI, scrap ......... 118255                        AFelt-base ........................................ 182635                                    V
+BCrisps, bagel, banana, bread, corn                                   BFelt-base, asphalted ....................... 182635
+  or potato ............................................ 74800                                                                       AVegetable Chips or Crisps .................. 74800
+ACrisps, bagel, bread, corn, fruit,
+  potato or vegetable ........................... 74800
+
+
+
+
+                                  Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                                For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                                             3
+                                                            SUPPLEMENT 1 TO NMF 100-AO
+                                                                       RULES
+
+ITEM 183-A
+                            CCSB-REGISTERED THIRD PARTY PACKAGE TESTING LABORATORIES
+    The package testing laboratories named below are registered with the Commodity Classification Standards Board and are qualified to conduct the
+performance test procedures detailed in Items 180 and 181. For the most up-to-date list of registered labs, please refer to the CCSB’s website,
+www.nmfta.org.
+                             Laboratory                                        Location                      Contact              Phone Number
+                  Advance Packaging Corporation                            Grand Rapids, MI                Kurt Buche              616.949.8044
+          Advanced Packaging Technology Laboratories                         Wheeling, IL               Anthony White             847.520.4343
+        ANAMA Package & Container Testing Services, Inc.                   Mamaroneck, NY                  Anton Cotaj             914.899.3300
+             China Packaging Research & Test Center                          Tianjin, China                Wang Qing              86.22.66231632
+          gh Package & Product Testing and Consulting                        Fairfield, OH            Timothy Glasmeier         513.870.0080 x 108
+          gh Package & Product Testing and Consulting                        Phoenix, AZ                  Mike Greer              623.869.8008
+           Intertek Testing Services Shenzhen Ltd.                        Shenzhen, China               Victor T.J. Wang         86.755.26020298
+      Multi-Wall Packaging a Division of Illinois Tool Works Inc.             Danville, VA             Connie Hardy Jones          434.836.7800
+                 Packaging Corporation of America                            Mundelein, IL               Michael Manney            847.388.6028
+                   Performance Testing Labs, LLC                              Cerritos, CA              Mary Beth Proctor          562.623.4727
+                Pira Testing, LLC d/b/a Smithers Pira                         Lansing, MI                 Rob Peterson             517.322.2400
+                Pro-Pack Testing Laboratory, Inc.                            Belleville, IL            Manuel Rosa, Jr.           618.277.1160
+                        RockTenn Company                                    Carol Stream, IL               Jim Rivera              630.384.5237
+                   Sealed Air Corporation                                     Danbury, CT                  Colvin Allen            203.791.3656
+     SGS-CSTC Standards Technical Services Co., Ltd. Shunde
+                                                                      Guangdong Province, China            Jack Yao              86.757.22805851
+                          Branch
+       Technicolor Connected Home USA LLC - Indianapolis                    Indianapolis, IN               Erv Eilmann             317.587.4534
+                  TEN-E Packaging Services, Inc.                              Newport, MN                 Bob Gindorff             651.459.0671
+     UPS Customer Solutions - Package Design and Test Lab                    Addison, IL                 Kathy Struck             630.628.3700
+
+
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 4                       For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                           SUPPLEMENT 1 TO NMF 100-AO
+                                                                         RULES
+
+ITEM 685-A
+                                           PACKING OR PACKAGING—ALTERNATE FORMS
+                                                                                     Apply the class as provided for that article as if shipped in the
+  When in the separate description of articles, no class is provided for an
+                                                                                     container or shipping form indicated by an ‘X’ below
+  article in a container or shipping form shown below:
+                                                                                      (see Note 1).
+                                                                                                                                                    IN
+                                                                                                                                  B                  P
+                                                                                             Bales, not                                  C
+                                                                                                            Packages       B      U           D      A
+                                                                                       B   compressed                                    R
+                                                                                                          compressed       O      N           R      C
+                                                                                       A         or                                      A
+                                                                                                           to 20 pcf or    X      D           U      K
+                                                                                       G   compressed                                    T
+                                                                                                          greater, see     E      L          M       A
+                                                                                       S    to less than                                 E
+                                                                                                              Note 5       S      E           S     G
+                                                                                               20 pcf                                    S
+                                                                                                                                  S                  E
+                                                                                                                                                     S
+ Bags, as described in Item 200                                                        -          X             X          -      X      X    -      X
+ Bales, not compressed or compressed to less than 20 pcf, as described in
+                                                                                      X            -                -           -    X        -    -    X
+ Item 205
+ Bales, compressed, as described in Item 205                                          -            -                -           X    X        -    -    X
+ Boxes, as described in Items 220 and 222                                             X            X               X            -    X       X     X    X
+ Boxes, not complying with Items 220 or 222                                           -            X                -           -    X        -    X    X
+ Boxes, with slatted sides or tops                                                    X            X                -           -    X       X     -    X
+ Bundles, as described in Item 235                                                    X            X                -           -    -        -    -    X
+ Carboys, as described in Item 240 (see Note 2)                                       -            -                -           -    -        -    -    -
+ Coils, as described in Item 235                                                      X            X                -           -    X        -    -    X
+ Containers, bulk commodity shipping (Intermediate Bulk Containers or
+ IBCs), ]as described in Item 280
+                                                                                     ]X           ]X              ]X           ]X ]X ]X ]X ]X
+ Crates, as described in Item 245                                                     X            X               X            -    X        -    -    X
+ Cylinders, as described in Item 250                                                  -            -                -           X    -        -    X    X
+ Drums, as described in Items 255, 256, 257, 258, 260, 291, 294 and 296               X            X               X            X    X       X     -    X
+ In glass or earthenware, in boxes as described in Item 222 (see Note 2)              -            -                -           X    -       X     -    X
+ In glass or earthenware, in crates as described in Item 245 (see Note 2)             -            -                -           -    -        -    -    X
+ In metal cans                                                                        -            -                -           -    -        -    -    X
+ Loose                                                                                -            -                -           -    -        -    -    -
+ Pails, as described in Item 225 (see Note 6)                                         X            X               X            X    X       X     X    X
+ Reels, as described in Item 235                                                      X            X               X            -    X       X     -    X
+ Rolls, as described in Item 235                                                      X            X               X            -    X        -    -    X
+ Skids, Pallets, Platforms or Racks, lift truck, without bodies or enclosures, or
+ with bodies or enclosures of other than metal or wood, or with only standards
+                                                                                      -            X               X            -    X        -    -    X
+ or stacking posts, with or without top members; complying in all other respects
+ with provisions of Item 265
+ Skids, Pallets, Platforms or Racks, lift truck, metal or wood, with metal or
+ wood bodies or enclosures, or with standards or stacking posts and side or end
+                                                                                      X            X               X            X    X       X     X    X
+ members, with or without top members; complying in all other respects with
+ provisions of Item 265 (see Note 4)
+ Skids, other than lift truck, as described in Item 270 (see Note 3)                  -            -                -           -    -        -    -    -
+ Tank Trucks                                                                          -            -                -           -    -        -    X    -
+ Tanks:
+      Steel, thickness not less than 14 gauge                                         X            X               X            X    X       X     X    X
+      Aluminum, minimum thickness of metal not less than that prescribed for
+                                                                                      X            X               X            X    X       X     X    X
+ liquids in aluminum drums over 55 gallons per Item 260
+ Tubes, as described in Item 275                                                      X            X               X            -    X       X     X    X
+     Note 1—Except as otherwise provided in this section, when no alternate container or shipping form is indicated in the above table by the letter ‘X,’
+the provisions of Item 687 will apply. When more than one alternate container or shipping form is indicated, the lowest class provided shall apply.
+     Note 2—When no alternate container or shipping form is indicated above by the letter ‘X’ apply the higher of: (1) the highest class applicable to any
+authorized shipping form for the quantity shipped; or (2) class 100.
+     Note 3—The provisions of Item 687 will not apply if in the separate description of articles provision is made for ‘loose’ shipment or if no packages or
+forms of shipment are named.
+     Note 4—Alternation with ‘boxes,’ ‘crates’ or ‘drums’ not applicable when only one bare or wrapped article is fastened to lift truck skid, pallet or
+platform.
+     Note 5—Packages or form of shipment authorized to alternate with this provision must meet the density requirements specified in the individual
+commodity descriptions or as specified in Item 205(b).
+     Note 6—Pails will be allowed to alternate with drums only when pails are 3 gallons or greater in capacity.
+
+
+
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                              5
+                                                                           SUPPLEMENT 1 TO NMF 100-AO
+    ITEM                                                                                      ARTICLE                                                                                            CLASS
+               ADVERTISING GROUP: subject to item 4640
+      4800-A       Calendars, prepaid, etc. ,…Cancel; see item 178910.
+               ATHLETIC GOODS GROUP: subject to item 15500
+     17310-A      Skates, ice or roller, including In-Line Skates, in boxes ..............................................................................................                       125
+     23700-A   Blackboards or Chalkboards, NOI; Corkboards or Tackboards; or Whiteboards, Dry Erase Boards or
+                     Markerboards, NOI; in boxes or crates, see Note, item 23701, or in Package 2532:
+       Sub 1      Greatest dimension exceeding 96 inches, see Note, item 23702, subject to Item 170 and having a density in pounds
+                        per cubic foot of:
+       Sub 2         Less than 10 ...........................................................................................................................................................     150
+       Sub 3         10 or greater ...........................................................................................................................................................     77.5
+       Sub 4      Greatest dimension not exceeding 96 inches, see Note, item 23702, subject to Item 170 and having a density in
+                        pounds per cubic foot of:
+       Sub 5         Less than 10 ...........................................................................................................................................................     125
+       Sub 6         10 or greater ...........................................................................................................................................................     70
+    +23701-A   NOTE—Articles must be protected by interior packing forms necessary to afford adequate protection against damage.
+    23702     NOTE—Greatest dimension refers to the longest straight-line dimension of the handling unit as tendered for shipment.
+               BUILDING MATERIALS, MISCELLANEOUS, GROUP: subject to item 33570
+    +34282-A   NOTE—Also applies on accompanying hardware, angles, bars, castings, chain, cable, guides, hoods, pipe, rollers,
+                    springs, motors, sprockets, track, hinges, sheaves, brackets, handles, locks, hangers, rails, hooks, pulleys, rods or
+                    other fittings when in same package with the doors, door sections, grilles, partitions or shutters, or, when in
+                    shipments of 36,000 pounds or more, separate packages.
+    +35040-A      Panels, folding door, wall or partition, or Interior Partitions, see Note, item 35043, or Walls; constructed with metal
+                        or wood frames and rigid facings, see Notes, items 34282, 35042 and 35044; in boxes, crates or Packages 757
+                        or 153F ..............................................................................................................................................................     70
+    +35042-A   NOTE—Cores (all space within frames and between facings) must be of cellular or solid construction or consist of
+                    insulating materials. Rigid facings may be of any material or combination of materials.
+    +35043-A   NOTE—Does not apply on panels, partitions or screens which serve as portable (free standing) structures in offices,
+                    schools or other such locations. For provisions applicable on these commodities, see item 82500, ‘Panels, Partitions
+                    or Screens, free standing.’
+     35044-A   NOTE—Does not apply on cooling or freezing room panels or walls; for class, see items 53025 and 53180.
+               BUILDING METALWORK GROUP: subject to item 35600
+    +35810-A      Building Construction Wall Sections, NOI, with or without insulation, see Notes, items 35812 and 35814, in
+                        packages:
+       Sub 1         With door or window openings exceeding 45 percent of surface area of section .....................................................                                           100
+       Sub 2         Without door or window openings or with openings not exceeding 45 percent of surface area of section:
+       Sub 3            Iron or steel ........................................................................................................................................................     70
+       Sub 4            Metal other than iron or steel, or metal combined with iron or steel.....................................................................                                  85
+    +35812-A   NOTE—Also applies on accompanying cement, fittings or fastenings necessary for installation.
+     35814-A   NOTE—Does not apply on cooling or freezing room wall sections; for class, see items 53025 and 53180.
+               CARBON: subject to item 40550
+     40640-A      Electrodes, furnace or electrolytic bath (Carbon Plugs), NOI, in boxes or crates, or loose when having a diameter
+                        or thickness of 4 inches or greater......................................................................................................................                  70
+     40644-A   NOTE—…Cancel; no further application.
+               FENCING GROUP: subject to item 68000
+     68005-A      Barricades, pedestrian, iron or steel or iron or steel and aluminum combined, in boxes or crates or secured on lift
+                        truck skids or pallets, see Note, item 68006:
+       Sub 1         Greatest dimension exceeding 96 inches, see Note, item 68007, subject to Item 170 and having a density in
+                            pounds per cubic foot of:
+       Sub 2            Less than 8 ........................................................................................................................................................      300
+       Sub 3            8 but less than 15 ...............................................................................................................................................        110
+       Sub 4            15 or greater ......................................................................................................................................................       77.5
+       Sub 5         Greatest dimension not exceeding 96 inches, see Note, item 68007, subject to Item 170 and having a density in
+                            pounds per cubic foot of:
+       Sub 6            Less than 8 ........................................................................................................................................................      300
+       Sub 7            8 but less than 15 ...............................................................................................................................................        100
+       Sub 8            15 or greater ......................................................................................................................................................       65
+    +68006-A   NOTE—Pedestrian barricades tendered for shipment on lift truck skids or pallets must be securely fastened to and must
+                    not overhang the edges of the lift truck skid or pallet deck. Exposed sides, edges and top must be completely
+                    wrapped with plastic film or corrugated fiberboard.
+    68007     NOTE—Greatest dimension refers to the longest straight-line dimension of the handling unit as tendered for shipment.
+     70250-A   Floating Docks, including Swimmers’ Platforms or Watercraft Floats or Lifts, or Sections thereof, NOI, aluminum,
+                     plastic, steel or wood, see Note, item 70251, in packages, see Note, item 70252:
+       Sub 1      Greatest dimension exceeding 96 inches.....................................................................................................................                     250
+       Sub 2      Greatest dimension not exceeding 96 inches ...............................................................................................................                      150
+    +70251-A   NOTE—Applies on floating docks, or sections thereof, including those represented as lifts for personal watercraft, but
+                    does not apply on mechanical boat or watercraft lifts. For provisions applicable to mechanical boat or watercraft lifts,
+                    see item 120080, ‘Conveyors, Elevators or Lifts, NOI.’
+    70252     NOTE—Greatest dimension refers to the longest straight-line dimension of the handling unit as tendered for shipment.
+
+
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+6                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                                       SUPPLEMENT 1 TO NMF 100-AO
+ ITEM                                                                                    ARTICLE                                                                                           CLASS
+            FLOOR OR WALL COVERINGS AND RELATED ARTICLES GROUP: subject to item 70500
+  70680-A     Carpets; Carpeting; Carpet Remnants; or Rugs, see Note, item 70681; in boxes, wrapped bales or rolls or
+                    Packages 413, 2070 or 2092:
+    Sub 1        Greatest dimension as tendered for shipment 144 inches or more, see Note, item 70682, subject to Item 170 and
+                       having a density in pounds per cubic foot of:
+   Sub 2            Less than 12.......................................................................................................................................................    100
+   Sub 3            12 or greater.......................................................................................................................................................    77.5
+   Sub 4         Greatest dimension as tendered for shipment less than 144 inches, see Note, item 70682 ..................................                                                 77.5
++70681-A    NOTE—The provisions for rugs apply only when:
+                    1. Power machine tufted or power loom woven;
+                    2. Of soft surface (pile) fabric;
+                    3. Of cloth combined with foam rubber not exceeding 3 8 inch thick; or
+                    4. Of woven paper fabric combined with cellular or expanded plastic or rubber not exceeding 3 8 inch thick.
+                    For provisions applicable to other rugs, see item 71000 for ‘Rugs, NOI,’ item 78460 for ‘Fur Rugs, NOI,’ and
+               item 196200 for ‘Rugs, worn-out.’
+70682      NOTE—Greatest dimension refers to the longest straight-line dimension of the handling unit as tendered for shipment.
+            FOODSTUFFS GROUP: subject to item 72000
+,74800-A     Snack Foods, flavored or not flavored, viz.:
+                 Bacon or Pork Rinds or Skins;
+                 Bagel or Bread Chips or Crisps;
+                 Chips, Puffs, Sticks or Twists, NOI;
+                 Crisps, NOI, see Note, item 74801;
+                 Fruit or Vegetable Chips or Crisps;
+                 Grain Cakes, popped or puffed;
+                 Popcorn, popped;
+                 Popcorn or Puffed Rice Confectionery, sugar or syrup coated, with or without other ingredients;
+                 Potato or Corn Chips or Crisps;
+                 Pretzels;
+                 Snack Foods, NOI;
+                    In boxes, drums or Packages 1000, 2387 or 2416, subject to Items 170 and 171 and having a density in pounds
+                           per cubic foot of:
+   Sub 1               Less than 1 ....................................................................................................................................................    400
+   Sub 2               1 but less than 2 ............................................................................................................................................      300
+   Sub 3               2 but less than 4 ............................................................................................................................................      250
+   Sub 4               4 but less than 6 ............................................................................................................................................      150
+   Sub 5               6 but less than 8 ............................................................................................................................................      125
+   Sub 6               8 but less than 10 ..........................................................................................................................................       100
+   Sub 7               10 but less than 12 ........................................................................................................................................         92.5
+   Sub 8               12 but less than 15 ........................................................................................................................................         85
+   Sub 9               15 but less than 22.5 .....................................................................................................................................          70
+   Sub 10              22.5 but less than 30 .....................................................................................................................................          65
+   Sub 11              30 or greater ..................................................................................................................................................     60
++74801-A    NOTE—Crisps represented and sold as crackers are classified as crackers per item 72742, ‘Crackers, NOI,’ or 72743,
+               ‘Crackers, sandwich,’ as the case may be.
+            FURNITURE GROUP: subject to item 79000
+  79070-A     Bassinettes, Cradles, Cribs or Beds, bamboo, cane, fiber, grass, rattan, reed or willow, with or without metal or
+                    wood reinforcement, see Note, item 81111; without legs, not nested; or with legs, legs detached or folded; in
+                    Packages 1F, 2F, 3F, 5F, 19F, 21F, 22F or 25F .................................................................................................                        250
+  79080-A     Bassinettes, Cradles, Cribs or Beds, hand portable, metal and plastic combined, collapsed, see Note, item 81111,
+                    in Package 25F ..................................................................................................................................................      100
+              Metallic or Wooden: subject to item 79600
+,80440-A        Cabinets or Lockers, with or without components of other materials, see Notes, items 80441, 80442 and 80443,
+                       viz.:
+                    Base Cabinets (Work Bases);
+                    Cabinets or Lockers, storage or wardrobe, NOI;
+                    Kitchen or Bathroom Cabinets, see Note, item 80444;
+                    Lockers, parcel or clothes checking;
+                    Sink or Stove Cabinets;
+                       In crates or Packages 1F, 2F, 3F, 5F, 16F, 19F, 21F, 22F, 25F, 50F, 53F, 69F, 111F, 133F or 149F, see
+                              Note, item 80446, subject to Items 170 and 171 and having a density in pounds per cubic foot of:
+   Sub 1                   Less than 1 ...............................................................................................................................................     400
+   Sub 2                   1 but less than 2........................................................................................................................................       300
+   Sub 3                   2 but less than 4........................................................................................................................................       250
+   Sub 4                   4 but less than 6........................................................................................................................................       150
+   Sub 5                   6 but less than 8........................................................................................................................................       125
+   Sub 6                   8 but less than 10......................................................................................................................................        100
+   Sub 7                   10 but less than 12....................................................................................................................................          92.5
+   Sub 8                   12 but less than 15....................................................................................................................................          85
+   Sub 9                   15 but less than 22.5.................................................................................................................................           70
+   Sub 10                  22.5 but less than 30.................................................................................................................................           65
+   Sub 11                  30 or greater .............................................................................................................................................      60
++80441-A    NOTE—Applies on free-standing cabinets or lockers or on cabinets or lockers to be attached to floors or walls.
+
+
+
+                       Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                     For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                                                           7
+                                                                            SUPPLEMENT 1 TO NMF 100-AO
+    ITEM                                                                                     ARTICLE                                                                                     CLASS
+
+                    FURNITURE GROUP: subject to item 79000
+              Metallic or Wooden: subject to item 79600
+    +80442-ANOTE—Also applies on cabinets equipped with lavatories, sinks, refrigerators, stoves, or water heaters with or without
+               pumping system, whether in same or separate packages. When in separate packages, lavatories, sinks,
+               refrigerators, stoves or water heaters may be in packages authorized in individual items.
+  +80443-A NOTE—Cabinets may include faucets and drain fittings when shipped in same package with cabinet.
+  +80444-A NOTE—Does not apply on bathroom medicine or toilet cabinets.
+  +80446-A NOTE—The following departures from packing requirements are permitted:
+               1. Sink cabinets may be shipped in Packages 72F or 98F.
+               2. Wooden cabinets or lockers may be shipped in Packages 138F, 141F or 156F.
+               3. Steel cabinets or lockers may be shipped in Package 114F.
+   80485-A      Chair-beds, upholstered, see Note, item 80486, in Package 7F ..........................................................................                                 110
+  80486    NOTE—Applies only on those articles which by means of fixtures or mechanisms are convertible from conventional
+               appearing seating furniture to sleeping accomodations.
+   81110-A      Cradles or Cribs, see Note, item 81111:
+     Sub 1          Metal:
+     Sub 2             SU, in Packages 1F, 3F or 5F........................................................................................................................              200
+     Sub 3             KD, in Packages 1F, 3F, 5F or 19F................................................................................................................                  85
+     Sub 4          Metal and fabric combined, with or without bottoms of other materials, collapsed, in Package 25F ....................                                                125
+     Sub 5          Wooden:
+     Sub 6             SU, in Packages 1F, 3F or 5F........................................................................................................................              200
+     Sub 7             KD or collapsed, in Packages 1F, 3F, 5F or 19F............................................................................................                         85
+  81111    NOTE—Also applies on one pad, mattress, cushion or pillow when in same package with article.
+   81394-A      Playpens or Play Yards, see Note, item 81111:
+     Sub 1          Metal and fabric combined, with or without bottoms of other material, collapsed, in Package 25F ......................                                               125
+     Sub 2          Wooden:
+     Sub 3             SU, in Packages 1F, 3F or 5F........................................................................................................................              200
+     Sub 4             KD or collapsed, in Packages 1F, 3F, 5F or 19F, see Note, item 81395 ........................................................                                     100
+  +81395-A NOTE—Varnished playpens or play yards may be shipped in Package 25F.
+  111755-A Lockers, parcel or clothes checking, sheet steel, etc. ,…Cancel; see item 80440.
+  111760-A Lockers, parcel or clothes checking, wire mesh or wire mesh and sheet steel combined, etc. ,…Cancel; see item
+                80440.
+            LUMBER GROUP: subject to item 112000
+  112540-A    Flooring Blocks or Squares, wooden, not exceeding 18 inches in length, consisting of two or more pieces of lumber
+                    or wooden flooring with or without paper backing or reinforced with dowel pins or metal or wooden splines, but
+                    not inlaid, not wood carpeting nor parquet flooring, nor flooring squares backed with cellular, expanded or foam
+                    plastic:
+     Sub 1      Hardwood, polished, varnished or waxed ................................................................................................................                   55
+     Sub 2      Not polished, varnished nor waxed .........................................................................................................................               50
+  112542-A NOTE—…Cancel; no further application.
+            MACHINERY GROUP: subject to item 114000
+  114112-A NOTE—…Cancel; no further application.
+              Business or Office: subject to item 115700
+,116030-A      Machines, Systems or Devices, data processing, or Components, Parts or Peripherals thereof, see Note, item
+                       116033, viz.:
+                    Automated Teller Machines (ATMs);
+                    Computers, including Personal Computers, Laptops, Notebooks or Tablets, or Components, Parts or
+                           Peripherals thereof, NOI;
+                    Copiers, Printers, Scanners or Facsimile (Fax) Machines, or Components or Parts thereof, NOI, see Note,
+                           item 116034, also in Package 2534;
+                    Electronic Telephone Switching Systems, or Components thereof;
+                    Machines, Systems or Devices, data processing, or Components, Parts or Peripherals thereof, NOI;
+                    Servers, or Storage or Networking Devices or Hardware, or Components or Parts thereof, NOI;
+                    Software, NOI, data processing machine, system or device;
+                       In boxes, crates or Packages 2050, 2253, 2254, 2286 or 2291, released to a value not exceeding $25.00 per
+                              pound, see Note, item 116031, subject to Items 170 and 171 and having a density in pounds per cubic
+                              foot of:
+     Sub 1                 Less than 1 ...............................................................................................................................................   400
+     Sub 2                 1 but less than 2 .......................................................................................................................................     300
+     Sub 3                 2 but less than 4 .......................................................................................................................................     250
+     Sub 4                 4 but less than 6 .......................................................................................................................................     150
+     Sub 5                 6 but less than 8 .......................................................................................................................................     125
+     Sub 6                 8 but less than 10 .....................................................................................................................................      100
+     Sub 7                 10 but less than 12 ...................................................................................................................................        92.5
+     Sub 8                 12 but less than 15 ...................................................................................................................................        85
+     Sub 9                 15 but less than 22.5 ................................................................................................................................         70
+     Sub 10                22.5 but less than 30 ................................................................................................................................         65
+     Sub 11                30 or greater .............................................................................................................................................    60
+
+
+
+
+                                Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+8                             For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                                        SUPPLEMENT 1 TO NMF 100-AO
+  ITEM                                                                                     ARTICLE                                                                                           CLASS
+
+             MACHINERY GROUP: subject to item 114000
++116031-A    NOTE—Unless otherwise provided in individual participating carriers' tariffs, articles moving under the provisions of item
+                116030 shall only be accepted subject to a maximum liability of $25.00 per pound. If shipper fails to declare a value,
+                or declares a value in excess of $25.00 per pound, shipment will not be accepted, but if the shipment is inadvertently
+                accepted, it will be considered as being released to a value not exceeding $25.00 per pound and the shipment will
+                move subject to such limitation of liability. In no instance will carriers' liability exceed the actual value of the article
+                lost or damaged.
++116033-A    NOTE—Does not apply on:
+                (1) Cellular or radio telephones, including smartphones. For cellular or radio telephones, including smartphones, see
+                      item 62820, ‘Radio-telephone Transmitting or Transmitting and Receiving Sets,’ for provisions based on
+                      released value, and item 62850, ‘Radio-telephones, cellular (Cellular Telephones),’ for provisions not based on
+                      released value.
+                (2) Video, computer or multimedia monitors or displays. For ‘Video, Computer or Multimedia Monitors or Displays,’
+                      see item 63321.
+116034      NOTE—Also applies on stand-alone copiers, or components or parts thereof, that are not a part of a computer or data
+                processing network or system.
+  118250-A     Copying, Duplicating or Reproducing Machines, or Parts thereof, NOI, etc. ,…Cancel; see item 116030.
+  118252-A   NOTE—…Cancel; no further application.
+  118253-A   NOTE—…Cancel; no further application.
+  118255-A     Copying, NOI, scrap, prepaid, etc. ,…Cancel; see item 116030.
+  118256-A   NOTE—…Cancel; no further application.
+             SHADES OR BLINDS GROUP: subject to item 174130
+  174200-A     Shades or Blinds, interior, including Venetian Blinds, Mini-Blinds or Vertical Blinds; or Wood Shutters, interior;
+                     in boxes or crates, see Note, item 174201:
+    Sub 1        Greatest dimension 180 inches or more ..................................................................................................................                    175
+    Sub 2        Greatest dimension 96 inches but less than 180 inches ..........................................................................................                             92.5
+    Sub 3        Greatest dimension less than 96 inches ..................................................................................................................                    70
+174201      NOTE—Greatest dimension refers to the longest straight-line dimension of the handling unit as tendered for shipment.
+             STATIONERY GROUP: subject to item 178850
+  178890-A     Calendar Desk Pads (Date Pads), paper, etc. …Cancel; see item 178910.
+  178892-A   NOTE—…Cancel; no further application.
+,178910-A     Calendars and Related Articles, viz.:
+                 Agenda Books or Appointment Books;
+                 Calendar Backs or Calendar Mounts;
+                 Calendar Desk Pads or Date Pads;
+                 Calendars, NOI, see Note, item 178911;
+                 Calendars with Thermometers attached;
+                 Student Planners or Day Planners;
+                     In boxes, subject to Item 170 and having a density in pounds per cubic foot of:
+    Sub 1                Less than 15 ..................................................................................................................................................     100
+    Sub 2                15 or greater ..................................................................................................................................................     70
++178911-A    NOTE—For provisions applicable to calendars constructed wholly of plastic, see item 179180.
+             TILE OR MOLDING GROUP: subject to item 182300
+  182510-A     Tile or Molding, asphalt composition; in boxes, see Note, item 182604; or crates ...................................................                                          60
+  182600-A     Tile or Molding, composition, NOI, other than expanded, cellular or foam, see Notes, items 182601, 182602 and
+                     182605; in boxes, see Note, item 182604; or in crates; subject to Item 170 and having a density in pounds per
+                     cubic foot of:
+    Sub 1        Less than 35 ...........................................................................................................................................................     70
+    Sub 2        35 or greater ...........................................................................................................................................................    60
++182601-A    NOTE—The term ‘composition’ is inclusive of plastic or rubber, as defined in Item 110, other than cellular, foam or
+                expanded plastic or rubber. Provisions will not apply on furniture molding, bumper molding, price tag molding, T-
+                molding or other types of molding designed to protect or enhance the edges of various articles. See item 156600 for
+                classes applicable to these types of molding.
++182602-A    NOTE—Composition molding or tile, other than rubber composition, may be shipped in bundles, all edges protected by
+                wooden strips not less than one inch thick, metal strapped.
+ 182603-A    NOTE—…Cancel; no further application.
++182604-A    NOTE—In boxes complying with the requirements of Item 222 except that one side may have a die cut circle, other than
+                a hole, not exceeding 7 inches in diameter. Each box must contain one sample tile placed directly behind the circle
+                for protection of contents.
++182605-A    NOTE—Also applies on tiles consisting of strips cut from rubber tires, surface buffed and fabric backed.
+ 182635-A      Tile or Molding; cork; felt-base, asphalted, decorated, painted or plain; or linoleum; in packages ...........................                                                70
+             TOOLS, OR PARTS NAMED: subject to item 183550
+               Rakes, hand, having tines constructed of: subject to item 185645
+  185653-A       Magnesium, etc. ,…Cancel; see item 185665.
+,185665       Rakes or Lutes, hand, consisting of magnesium heads with detached handles of same or other material; or Handles
+                     or Parts thereof, NOI; in boxes:
+     Sub 1       Exceeding 96 inches in length .................................................................................................................................              92.5
+     Sub 2       Not exceeding 96 inches in length...........................................................................................................................                 70
+
+
+
+
+                         Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                       For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                                                           9
+                                                           SUPPLEMENT 1 TO NMF 100-AO
+                                                  SPECIFICATIONS FOR NUMBERED PACKAGES
+
+
+                                                                   Package 1082
+   Sec. 1. In fiberboard boxes, the fiberboard complying with Item 222, Secs. 2 and 3, except that for gross weights stipulated, boxes must be
+constructed and must test as indicated below:
+                                                            Minimum Test of Fiberboard
+           Maximum Weight of                                        Mullen or Cady Test (see Note 3) (Pounds per Square Inch)
+                                          Type of Box
+            Box and Contents
+                                          Construction            Body  Section              Top Cap               Bottom Cap
+                 (Pounds)
+                                       Regular Slotted with
+           180 See Notes 2, 3, 4                                  275 Singlewall
+                                     Integral Handling Flaps
+                                         Regular Slotted          275 Singlewall
+            290 See Notes 1, 2        Half-Slotted with Cap       275 Singlewall          275 Singlewall
+                                         Tube with Caps           275 Singlewall          275 Singlewall          275 Singlewall
+                                         Regular Slotted          350 Singlewall
+              440 See Note 2          Half-Slotted with Cap       350 Singlewall          350 Singlewall
+                                         Tube with Caps           350 Singlewall          275 Singlewall          275 Singlewall
+     Note 1—Maximum weight of box and contents for articles described under item 53180 may be increased to not exceeding 300 pounds.
+     Note 2—Box may be a modified regular slotted container (RSC) having full or overlapping top flaps and bottom flanges not less than 4 inches in
+width.
+     Note 3—Corrugated fiberboard testing not less than 250 pounds, having a basis weight of 111 pounds and a minimum edge crush test (ECT)
+strength of not less than 45 pounds per inch may be used as an alternate when corrugated fiberboard of 275 pound test is required.
+     Note 4—Corrugated fiberboard having a minimum basis weight of 117 pounds and a minimum edge crush test (ECT) of 35 pounds per square inch
+may be used when:
+         (a) A fiberglass-reinforced paper tape is laminated between the medium and liner, spanning the area on each side of the top flap score; AND
+         (b) A singlewall corrugated insert having a minimum ECT of 17 pounds per square inch is placed inside the primary lifting flange, extending
+between the inside of the carton and the internal support packaging.
+     Sec. 2. Articles must be mounted on base constructed as follows:
+         (a) Wood skids made of nominal 1 × 4 inch lumber, or wood frame, full dimensions of box, made of lumber of 1 inch nominal thickness having a
+combined cross-sectional area of not less than 9 square inches; OR
+         (b) Full-dimension platform made of solid wood particleboard not less than 1⁄2 inch thick having density not less than 40 pounds per cubic foot;
+OR
+         (c) Must rest on pad full dimensions of article made of same board as box and so scored and folded so as to maintain not less than 1⁄2 inch
+clearance between article and bottom of box; OR
+         (d) A form of expanded polystyrene not less than 1.25 pound density, not less than 1⁄2 inch cross section under product base and 1⁄8 inch cross
+section at sides and extending up sides of product not less than 11⁄2 inches; OR
+         (e) Full-dimension platform of 1⁄2 inch cell × 1 inch thick honeycomb fiberboard having a minimum compression strength of 20 pounds per square
+inch; OR
+         (f) Full-dimension platform constructed of an expanded polystyrene (EPS) core of not less than 1-pound density, not less than 9⁄16 inch in
+thickness, wrapped within a layer of corrugated fiberboard.
+     Sec. 3. Not less than 3⁄4 inch clearance must be maintained between front and sides of article and not less than 1⁄2 inch between back of article and
+inner walls of box by full-height corner posts of the specifications and construction indicated below:
+         (a) L-shaped corner posts made of built-up corrugated fiberboard, the facings and corrugated mediums weighing not less than 26 pounds per
+1,000 square feet; OR
+         (b) L-shaped corner posts made of wood veneer not less than 1⁄8 inch thick laminated between two thicknesses of built-up corrugated fiberboard
+with facings weighing not less than 17 pounds per 1,000 square feet, except, facings in contact with article must weigh not less than 26 pounds per
+1,000 square feet; OR
+         (c) L-shaped corner posts made of scored and folded corrugated fiberboard testing not less than 200 pounds; OR
+         (d) Triangular shaped corner posts made of same board as box, scored, folded and securely fastened together to provide a double thickness of
+board in contact with article and double thickness reinforcement extending from the corner of the box and the apex of the triangular shaped corner post
+to the double thickness in contact with the article; OR
+         (e) Triangular shaped corner posts made of same board as box, scored, folded and securely fastened together to provide double thickness on
+all faces of the corner post; OR
+         (f) Figure-4 corner posts made of doublewall corrugated fiberboard testing not less than 200 pounds, providing not less than two thicknesses of
+board along sides of article and securely fastened the entire length of the corner post; OR
+         (g) Two side walls of box must be reinforced by singlewall corrugated fiberboard testing not less than 200 pounds, full height of container and
+scored and folded to provide flanges at right angles extending along front and back of article to maintain the prescribed clearances; OR
+         (h) When household refrigerators or freezers are mounted on wood base frame or wood skids in lieu of corner forms specified in paragraphs
+3(a) through 3(g), each side wall of box must be reinforced and clearance of not less than one inch must be maintained between sides of article and
+inner walls of box and clearance of not less than one inch must be maintained between front and back of article and inner walls of box, by full height
+form made of singlewall corrugated fiberboard testing not less than 200 pounds, the corrugated mediums weighing not less than 30 pounds per 1,000
+square feet, so scored and folded as to provide triangular corner posts at each end of each form providing a double thickness of board in contact with
+the article, the corner posts extending not less than 31⁄2 inches along front wall of box and not less than three inches along back wall of box; OR
+         (i) When ranges with hinged control panel have panel folded to back of article, corner posts may be omitted provided clearance of not less than
+1 inch at front and back and 3⁄4 inch at sides and top is maintained by forms made of built-up corrugated fiberboard and scored and folded singlewall
+corrugated fiberboard pad testing not less than 200 pounds. The facings and corrugated medium of the built-up corrugated fiberboard must weigh not
+less than 26 pounds per 1,000 square feet and must be applied at top so that corrugations are vertical. Control panel must be protected by fiberboard
+form testing not less than 200 pounds; OR
+         (j) Corner posts made from spirally wound paperboard tubes, having a minimum wall thickness of 0.125 inch and a minimum inside diameter of
+21⁄2 inches, slit, scored and folded to maintain prescribed clearances; OR
+
+                                                                 (Continued on following page)
+
+
+
+                         Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 10                    For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                             SUPPLEMENT 1 TO NMF 100-AO
+                                                    SPECIFICATIONS FOR NUMBERED PACKAGES
+
+                                                             Package 1082 (Continued)
+
+        (k) Convolutely wound, mandrel formed, fiberboard tubular corner post with a cross-section designed to maintain prescribed clearance and
+necessary stacking strength; OR
+        (l) A form of expanded polystyrene not less than 1.25 pound density, used as a structural support and providing 3⁄4 inch clearance on all facings
+in contact with the inner portion of the box.
+     Sec. 4. If length of box exceeds 34 inches and clearance at front of article is less than 3 inches, front of article must be further protected by fiberboard
+forms, the fiberboard meeting the requirements of paragraphs 3(a) through 3(j), OR expanded plastic foam forms having a density of not less than 1.5
+pounds per cubic foot.
+     Sec. 5. Not less than 3⁄4 inch clearance must be maintained between top of article and inner walls of box (except that for household refrigerators or
+freezers, clearance of not less than 1 inch must be maintained) and in addition top of article must be further protected with fiberboard tray or cap, except:
+        (a) Such tray or cap will not be required in box constructed with flanged caps; OR
+        (b) When article is attached to wood base frame and protected by full-height corner posts, top tray or cap may be omitted provided top flaps are
+glued not less than 75 percent of area of contact; OR
+        (c) A cap of expanded polystyrene not less than 1.25 pound density, not less than 3⁄4 inch cross section on top of product and 1⁄8 inch cross
+section at sides and extend down sides not less than 2 inches.
+     Sec. 6. Boxes must be closed by one of the following methods:
+        (a) Boxes constructed with body and flanged cap or tube and top and bottom caps must have flanges not less than 3 inches wide and must be
+closed as follows:
+              1. Interlocking flanges of body and cap or tube and top and bottom caps must be securely strapped with metal straps, or wire; OR
+              2. When flanges of body and cap or tube and top and bottom caps do not interlock, flanges of cap or caps must be securely glued to body
+or tube over entire area of contact.
+        (b)
+              1. Boxes with flaps may have gap in top and bottom lengthwise (outer flaps) not exceeding 4 inches when top and bottom flaps are securely
+closed.
+              2. Boxes with interlocking top cap may have bottom flanges not less than 6 inches wide when securely closed with adhesive.
+              3. On boxes with flaps, one top inner flap may be scored and partially folded to provide a double thickness lifting flange or a short slotted
+flap may be used to provide multiple lifting flanges.
+        (c) Boxes complying with Note 2 must have top closure effected by gluing not less than 75 percent area of contact and bottom flaps secured to
+base by gluing not less than 75 percent area of contact.
+
+
+                                                                      Package 1168
+    Cancel; obsolete.
+
+
+
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                 11
+                                                             SUPPLEMENT 1 TO NMF 100-AO
+             PROCEDURES GOVERNING THE INVESTIGATION AND DISPOSITION OF FREIGHT CLAIMS FOR LOSS OR DAMAGE
+
+
+ITEM 300100-A
+                                                                      APPLICATION
+   These procedures govern the processing of claims for loss or damage to property transported or accepted for transportation, in interstate or foreign
+commerce, by motor carriers, subject to 49 USC Subtitle IV, part B, that participate in the National Motor Freight Classification®.
+
+
+ITEM 300105-A
+                                                                  FILING OF CLAIMS
+     (a) Compliance with Regulations. A claim for loss or damage to cargo will not be voluntarily paid by a carrier unless filed as provided in
+subparagraph (b) below, with the receiving or delivering carrier, or carrier issuing the bill of lading, or carrier on whose line the alleged loss or damage
+occurred, within the specified time limits applicable thereto and as otherwise may be required by law, the terms of the bill of lading or other contract of
+carriage, and all tariff provisions applicable thereto.
+     (b) Minimum Filing Requirements. A written or electronic communication from a claimant, filed with a proper carrier within not more than nine
+(9) months from the date of delivery in the event of a damage claim, and not more than nine (9) months from the date of the bill of lading in the event of
+loss, at a minimum shall be accompanied by the following documents and/or information:
+          1. A copy of the bill of lading or facts sufficient to enable the carrier to whom the notice of the claim is submitted to identify the shipment(s) of
+property alleged to have been lost or damaged,
+          2. Facts and documents upon which the claimant’s assertion of carrier liability for the alleged damage or loss is based,
+          3. A specified or determinable amount of money for the alleged damage or loss, and the documents and/or information establishing the
+basis for that amount of money.
+      (c) Documents Not Constituting Claims. Appraisal reports of damage, notations of shortage or damage, or both, on freight bills, delivery receipts,
+or other documents, or inspection reports issued by carriers or their inspection agencies, whether the extent of loss or damage is indicated in dollars
+and cents or otherwise, shall, standing alone, not be considered by carriers as sufficient to comply with the minimum claim filing requirements specified
+in paragraph (b) of this section.
+     (d) Claims Filed for Uncertain Amounts. Whenever a claim is presented against a proper carrier for an uncertain amount, such as “$100.00 more
+or less,” the carrier against whom such claim is filed shall determine the condition of the shipment involved at the time of delivery by it, if it was delivered,
+and shall ascertain as nearly as possible the extent, if any, of the loss or damage for which it may be responsible. It shall not, however, voluntarily pay
+a claim under such circumstances unless and until a formal claim for a specified or determinable amount of money shall have been filed in accordance
+with the provisions of paragraph (b) of this section.
+     (e) Other Claims. If investigation of a claim develops that one or more other carriers has been presented with a similar claim on the same shipment,
+the carrier investigating such claim shall communicate with each such other carrier and, prior to any agreement entered into between or among them as
+to the proper disposition of such claim or claims, shall notify all claimants of the receipt of conflicting or overlapping claims and shall require further
+substantiation on the part of each claimant of their title to the property involved or their right with respect to such claim.
+     (f) Delivery Receipt.
+          1. A shipping container(s) or package(s) showing any external signs of damage when received by the consignee is to be noted on the delivery
+receipt and such shipping container or package is to be opened promptly and the contents inspected by the consignee.
+          2. Possession of a signed delivery receipt, with no exceptions or damage noted thereon, shall be prima facie evidence that the carrier has
+successfully discharged its obligations under Section 14706 of 49 USC.
+      (g) Civil Action. A civil action must be filed not more than two (2) years from the date on which the carrier provided written or electronic notice
+disallowing all or part of the claim.
+
+
+ITEM 300110-A
+                                                        ACKNOWLEDGMENT OF CLAIMS
+    (a) Each carrier shall, upon receipt in writing or electronically of a proper claim in the manner and form described in these procedures, acknowledge
+the receipt of such claim in writing or electronically to the claimant within 30 days after the date of its receipt by the carrier unless the carrier shall have
+paid or declined such claim in writing or electronically within 30 days of the receipt thereof. The carrier shall indicate in its acknowledgment to the claimant
+what, if any, additional documentary evidence or other pertinent information may be required by it further to process the claim as its preliminary
+examination of the claim, as filed, may have revealed.
+    (b) The carrier shall at the time each claim is received create a separate file and assign thereto a successive claim file number and note that number
+on all documents filed in support of the claim and all records and correspondence with respect to the claim, including the acknowledgment of receipt. At
+the time such claim is received the carrier shall cause the date of receipt to be recorded on the face of the claim document, and the date of receipt shall
+also appear in the carrier’s acknowledgment of receipt to the claimant. The carrier shall also cause the claim file number to be noted on the shipping
+order, if in its possession, and the delivery receipt, if any, covering such shipment, unless the carrier has established an orderly and consistent internal
+procedure for assuring:
+          1. That all information contained in shipping orders, delivery receipts, tally sheets, and all other pertinent records made with respect to the
+transportation of the shipment on which claim is made, is available for examination upon receipt of a claim,
+          2. That all such records and documents (or true and complete reproductions thereof) are in fact examined in the course of the investigation of
+the claim (and an appropriate record is made that such examination has in fact taken place), and
+          3. That such procedures prevent the duplicate or otherwise unlawful payment of claims.
+
+
+
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 12                     For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                             SUPPLEMENT 1 TO NMF 100-AO
+             PROCEDURES GOVERNING THE INVESTIGATION AND DISPOSITION OF FREIGHT CLAIMS FOR LOSS OR DAMAGE
+
+
+ITEM 300115-A
+                                                           INVESTIGATION OF CLAIMS
+     (a) Prompt Investigation Required. Each claim filed against a carrier in the manner prescribed in these procedures shall be promptly and thoroughly
+investigated if investigation has not already been made prior to receipt of the claim.
+     (b) Supporting Documents. When a necessary part of an investigation, each claim shall be supported by the original bill of lading, evidence of the
+freight charges, if any, and either the original invoice, a photographic copy of the original invoice, or an exact copy thereof or any extract made therefrom,
+certified by the claimant to be true and correct with respect to the property and value involved in the claim; or certification of prices or values, with trade
+or other discounts, allowance, or deductions, of any nature whatsoever and the terms thereof, or depreciation reflected thereon; Provided, however, that
+where property involved in a claim has not been invoiced to the consignee shown on the bill of lading or where an invoice does not show price or value,
+or where the property involved has been sold, or where the property has been transferred at bookkeeping values only, the carrier shall, before voluntarily
+paying a claim, require the claimant to establish the destination value in the quantity, shipped, transported, or involved; Provided, further, that when
+supporting documents are determined to be a necessary part of an investigation, the supporting documents are retained by the carriers for possible
+FMCSA inspection.
+     (c) Verification of Loss. When an asserted claim for loss of an entire package or an entire shipment cannot be otherwise authenticated upon
+investigation, the carrier shall obtain from the consignee of the shipment involved a certified statement in writing or electronically that the property for
+which the claim is filed has not been received from any other source.
+
+
+ITEM 300120-A
+                                                             DISPOSITION OF CLAIMS
+    Each participating carrier subject to 49 USC Subtitle IV, part B which receives in writing or electronically a proper claim for loss or damage, to
+property transported shall pay, decline, or make a firm compromise settlement offer in writing or electronically to the claimant within 120 days after
+receipt of the claim by the carrier; Provided, however, that, if the claim cannot be processed and disposed of within 120 days after receipt thereof, the
+carrier shall at that time and at the expiration of each succeeding 60-day period while the claim remains pending, advise the claimant in writing or
+electronically of the status of the claim and the reason for the delay in making final disposition thereof and it shall retain a copy of such advice to the
+claimant in its file thereon.
+
+
+ITEM 300125-A
+                                                           PROCESSING OF SALVAGE
+     (a) Whenever material, goods or other property transported by a carrier subject to the provisions herein is damaged or alleged to be damaged and
+is, as a consequence thereof, not delivered, or is rejected or refused upon tender thereof to the owner, consignee, or person entitled to receive such
+property, the carrier, after giving due notice, whenever practicable to do so, to the owner and other parties that may have an interest therein, and unless
+advised to the contrary after giving such notice, shall undertake to sell or dispose of such property directly or by the employment of a competent salvage
+agent. The carrier shall only dispose of the property in a manner that will fairly and equally protect the best interests of all persons having an interest
+therein. The carrier shall make an itemized record sufficient to identify the property involved so as to be able to correlate it to the shipment or
+transportation involved, and claim, if any, filed thereon. The carrier also shall assign to each lot of such property a successive lot number and note that
+lot number on its record of shipment and claim, if any claim is filed thereon.
+     (b) Whenever disposition of salvage material or goods shall be made directly to an agent or employee of a carrier or through a salvage agent or
+company in which the carrier or one of its directors, officers, or managers has any interest, financial or otherwise, that carrier’s salvage records shall
+fully reflect the particulars of each such transaction or relationship, or both, as the case may be.
+     (c) Upon receipt of a claim number on a shipment on which salvage has been processed in the manner herein before prescribed, the carrier shall
+record in its claim file thereon the lot number assigned, the amount of money recovered, if any, from the disposition of such property, and the date of
+transmittal of money to the person or persons lawfully entitled to receive the same.
+
+
++ITEM 300130-A
+                                                                      PILFERAGE
+   When offering a shipment for delivery, if any portion of shipment bears any indication of having been pilfered, a joint inventory of contents must be
+made by carrier and consignee and the results of inventory so noted on carrier’s delivery receipt.
+
+
+ITEM 300135-A
+                                                     REPORTING CONCEALED DAMAGE
+     (a) When damage to, or loss of, contents of a shipping container is discovered by the consignee that could not have been determined at time of
+delivery it must be reported by the consignee to the delivering carrier upon discovery.
+     (b) Reports must include a request for inspection by the carrier’s representative.
+     (c) Notice of loss or damage and request for inspection may be given by telephone or in person, but in either event must be confirmed by a written
+or electronic communication.
+      (d) While awaiting inspection by carrier, the consignee must hold the shipping container and its contents in the same condition they were in when
+damage was discovered, insofar as it is possible to do so.
+      (e) Unless otherwise specified by the carrier, notice of loss or damage should be provided to the carrier within five (5) business days from the
+date of delivery.
+      (f) If five (5) business days, or such other period as specified by the carrier, pass between the date of delivery of the shipment by carrier and date
+of report of loss or damage and request for inspection by consignee, it is incumbent upon the consignee to offer reasonable evidence to the carrier’s
+representative when inspection is made that loss or damage was not incurred by the consignee after delivery of shipment by carrier.
+
+                                                                      (Continued on following page)
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                               13
+                                                             SUPPLEMENT 1 TO NMF 100-AO
+             PROCEDURES GOVERNING THE INVESTIGATION AND DISPOSITION OF FREIGHT CLAIMS FOR LOSS OR DAMAGE
+
+
+ITEM 300135-A-Continued
+
+     (g) Reasonable evidence includes, but is not limited to:
+                1. Identifying the party(ies) responsible for unloading,
+                2. Identifying the chain of custody of the article, including prior transportation by any mode,
+                3. Location(s) of the article(s) once the shipment was received until the damage was noted,
+                4. Any mechanical or physical handling by the consignee subsequent to delivery by the carrier.
+     (h) If a clear delivery receipt is available on the shipment, e.g. no damage or shortage is noted, the claimant must provide documentation showing
+that damage or loss occurred prior to delivery.
+
+
+ITEM 300140-A
+                                                            INSPECTION BY CARRIER
+    Inspection will be made within five (5) business days after receipt of a written or electronic request from consignee, excluding Saturdays,
+Sundays and holidays. A day will be considered as the passing of 24 hours from 9 A.M., local time from the date of receipt of request for inspection.
+Inspection will include examination of the damaged merchandise, the shipping container, and any other action necessary to establish all facts. If a
+shortage is involved, inspector will check contents of package with invoice, weigh the shipping container and contents, or conduct any other type of
+investigation necessary to establish that a loss has occurred. In either case inspection will be limited to factual report. Consignee must cooperate with
+carrier in every way possible to assist in the inspection. A written record of carrier’s findings will be made and the original report will be given to
+the consignee for claim support. Any inspection report issued must be incorporated in claim file.
+
+
+ITEM 300145-A
+                                                               FAILURE TO INSPECT
+    In the event carrier does not make an inspection, the consignee must make the inspection and record all information to the best of their ability
+pertinent to the cause. Consignee’s inspection, in such case, will be considered as the carrier’s inspection and will not jeopardize any recovery the
+consignee is due based on the facts contained in the report.
+
+
+ITEM 300150-A
+                                                               SALVAGE RETENTION
+     When visible or open damage to a shipment has been established by notation having been given at time of delivery or concealed damage established
+by inspection report, it is the duty of the consignee to retain damaged merchandise and shipping container until carrier desires to take possession of
+merchandise as salvage. If record conclusively reflects carrier liability, carrier will take possession of the damaged merchandise within 30 days from
+date shipment was noted damaged on carrier delivery receipt or from date of inspection report, if damage was concealed. If carrier does not take
+possession of the damaged merchandise within the time prescribed above, consignee must contact delivering carrier in writing or electronically and
+request removal of goods from their premises within 15 days from the date of such communication. The above applies only when the carrier and
+consignee agree that the carrier will handle disposition of the salvage, and does not in any manner affect the legal duty that the consignee, when there
+is substantial value in the salvage, must accept and handle it in such a manner as to mitigate the carrier’s loss as much as possible. If there is doubt of
+carrier liability, the carrier will so advise consignee; in which event the consignee may hold the merchandise until liability of carrier is determined, or may
+dispose of it so as to mitigate the damage, and may file claim for such damage. Carrier will remove the damaged goods within the 15-day period or
+advise consignee that carrier liability is in doubt and that damaged merchandise is to be retained by the consignee until carrier has completed
+investigation of claim.
+
+
++ITEM 300155-A
+                                                            PRIOR TRANSPORTATION
+    If a concealed damage inspection report covers merchandise which has had prior transportation movement, consignee is required to assist carrier
+in determining if shipment was opened and inspected by shipper prior to reshipment, and if not, shall then assist carrier in every way possible to establish
+record of prior transportation.
+
+
++ITEM 300160-A
+                                                               DISPUTE RESOLUTION
+     Any dispute arising between the parties regarding the interpretation, application or enforceability of the terms and/or conditions of these procedures,
+including a carrier’s offer to pay, decline, or make a firm compromise settlement offer, shall be submitted to binding arbitration for resolution. As the
+parties shall mutually agree, Transportation Arbitration and Mediation, PLLC, Washington, DC, or another body experienced in resolving transportation
+disputes or claims, shall conduct the arbitration. The arbitration process will be commenced within thirty (30) days after the parties are unable informally
+to resolve the dispute or claim. The arbitration decision shall be enforceable in a court of competent jurisdiction.
+
+
+
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 14                     For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                            SUPPLEMENT 1 TO NMF 100-AO
+             PROCEDURES GOVERNING THE INVESTIGATION AND DISPOSITION OF FREIGHT CLAIMS FOR LOSS OR DAMAGE
+
+
++ITEM 300170-A
+                                                  SPECIAL OR UNIQUE CIRCUMSTANCES
+     To verify piece count and condition of goods being tendered, carrier personnel must be permitted access to observe loading and/or unloading of
+each shipment at time of pick-up and/or delivery. In the event that carrier personnel is not provided or permitted access to observe the loading and/or
+unloading of each shipment, carrier personnel shall notate the restriction placed on it by the consignor and/or consignee on the bill of lading, delivery
+receipt, or other shipping papers at the time the restriction is imposed and prior to signing the transportation documents. Such notation may be in the
+form of “Shipper Load and Count,” “SL&C,” “Said to Contain,” “S.T.C.,” or any other similar form that clearly documents that the carrier was unable to
+verify the condition and quantity of the goods tendered to it. When bills of lading or shipping papers are so notated, carrier liability may be limited in the
+event of loss and/or damage due to improper loading or unloading.
+
+    The following documents are considered to be shipping papers:
+       a) Bills of Lading
+       b) Delivery Receipts
+       c) Invoices
+       d) Manifests
+       e) Packing Lists
+       f) Shipping Orders
+       g) Waybills
+
+
+
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                              15
+                                                                 SUPPLEMENT 1 TO NMF 100-AO
+
+
+
+                                           Standard Form for Presentation of Loss or Damage Claims
+                                                                   (See NMFC® Item 300100)
+
+    Claimants may make use of this form when filing claims with carriers that participate in the National Motor Freight Classification® (NMFC®). The
+terms under which property is accepted and transported are stated on the bill of lading issued by the carrier, and in contracts, schedules, tariffs and
+classifications to which the carrier is party to. Unless otherwise provided, detailed procedures and deadlines for filing claims can be found in NMFC®
+Items 300100 through 300170. These procedures comply with the Federal Motor Carrier Safety Administration regulations for processing of claims for
+loss, damage, injury, or delay to property transported or accepted for transportation by motor carriers subject to 49 USC Subtitle IV, part B.
+       Carrier Name:                                                               Claimant’s Reference No.:
+       Address:                                                                    Carrier’s Freight Bill or Pro No.:
+       City, State, Zip:                                                           Per NMFC® Item 300105 all claims must be filed not more than 9
+                                                                                   months from the date of delivery in the event of a damage claim and
+       Telephone:                               Fax:
+                                                                                   9 months from the date of the Bill of Lading in the event of loss.
+       Date:                                                                       Claims filed after this period will not be accepted.
+
+
+      This claim for $                    is made against your company for [   ] Damage or [   ] Loss in connection with the shipment described below.
+
+       Shipper’s Name:                                                             Consignee’s Name:
+       Point Shipped From:                                                         Final Destination:
+       Name of Carrier Issuing Bill of Lading:                                     Name of Delivering Carrier:
+       Date of Bill of Lading:                                                     Date of Delivery:
+       Routing of Shipment:                                                        Delivering Carrier’s Freight Bill or Pro No.:
+
+      If shipment reconsigned en route, state particulars:
+
+
+                                   DETAILED STATEMENT SHOWING HOW AMOUNT CLAIMED IS DETERMINED*
+                    (Number and description of articles, nature and extent of loss or damage, invoice price of articles, amount of claim, etc.)
+                                                 ALL DISCOUNTS AND ALLOWANCES MUST BE SHOWN
+
+
+
+
+       NMFC® Item No. of commodity lost or damaged:                                                       Total amount claimed $
+      *Claims must identify a specified or determinable amount of money for the alleged loss or damage.
+      The following documents are submitted in support of this claim**:
+                Original Bill of Lading                                                  Carrier’s Inspection Form
+                Carrier Document Showing Notation of Loss or Damage                      Other Documents to Support Claim
+                Complete Invoice Detailing Cost of Goods
+      Additional comments:
+
+
+
+
+    **The following documents are insufficient to meet the minimum filing requirements defined in NMFC® Item 300105 independently and must be
+accompanied by other documentation to support a claim: appraisal reports of damage, notations of shortage or damage, or both, on freight bills, delivery
+receipts, or other such documents, or inspection reports issued by carriers or their inspection agencies, whether the extent of loss or damage is indicated
+in dollars or cents or otherwise.
+
+      The foregoing statement of facts is hereby certified as correct.
+       Claimant’s Name:                                                            Claimant’s Phone:
+       Title:                                                                      Claimant’s Fax:
+       Company:                                                                    Claimant’s Email:
+       Address:                                                                    Signature:
+       City, State, Zip:
+
+
+
+
+                              Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 16                         For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                               SUPPLEMENT 1 TO NMF 100-AO
+    PROCEDURES GOVERNING OVERCHARGE CLAIMS, UNIDENTIFIED OR DUPLICATE PAYMENTS INVOLVING THE TRANSPORTATION OF
+    PROPERTY BY MOTOR CARRIERS OF HOUSEHOLD GOODS, MOTOR CARRIERS PARTICIPATING IN THE NONCONTIGUOUS TRADE AND
+                              FREIGHT FORWARDERS SUBJECT TO 49 USC SUBTITLE IV, PART B
+
+
+ITEM 300300-A
+                                                                       APPLICATION
+    These procedures, which conform to the regulations of the Federal Motor Carrier Safety Administration, are limited in their application to the
+processing of claims for overcharges, duplicate payments or overcollection for the transportation of property in interstate or foreign commerce by motor
+carriers of household goods, motor carriers participating in the noncontiguous trade, and freight forwarders subject to 49 USC Subtitle IV, part B, that
+are participants in the National Motor Freight Classification®.
+    For procedures relating to billing disputes involving the transportation of property in interstate or foreign commerce other than by motor carriers of
+household goods, motor carriers participating in the noncontiguous trade, or freight forwarders subject to 49 USC Subtitle IV, part B, see Item 300500.
+
+
+ITEM 300310-A
+                                                                        DEFINITIONS
+    (a) Carrier: A motor carrier or freight forwarder subject to 49 USC Subtitle IV, part B.
+    (b) Overcharge: An overcharge as defined in 49 USC 14704(b). It also includes duplicate payments as defined in paragraph (c) of this section
+and overcollections as defined in paragraph (d) of this section when a dispute exists between the parties concerning such charges.
+    (c) Duplicate Payment: Two or more payments for transporting the same shipment. Where one or more payment is not in the exact amount of
+the applicable tariff rates and charges, refunds shall be made on the basis of the excess amount over the applicable tariff rates and charges.
+    (d) Unidentified Payment: A payment which a carrier has received but which the carrier is unable to match with its open accounts receivable or
+otherwise identify as being due for the performance of transportation services.
+    (e) Claimant: Any party, or their authorized agent, filing a request for the refund of an overcharge, or duplicate payment, or overcollection.
+
+
+ITEM 300320-A
+                                                        FILING AND PROCESSING CLAIMS
+     (a) All claims must be filed within 180 days from the receipt of the original invoice. Receipt of original invoice shall be determined to be 5 business
+days from the invoice date. Unless otherwise provided, no claims will be accepted after this period.
+     (b) A claim for overcharge, duplicate payment or overcollection shall not be paid unless filed in writing or electronically with the carrier that collected
+the transportation charges. The collecting carrier shall be the carrier to process all such claims. When a claim is filed with another carrier that participated
+in the transportation, that carrier shall transmit the claim to the collecting carrier within 15 days after receipt of the claim. If the collecting carrier is unable
+to dispose of the claim for any reason, the claim may be filed with or transferred to any participating carrier for final disposition.
+     (c) A single claim may include more than one shipment provided the claim on each shipment involves:
+          1. The same tariff issue or authority or circumstances,
+          2. Single line service by the same carrier, or
+          3. Service by the same interline carriers.
+
+
+ITEM 300330-A
+                                                           DOCUMENTATION OF CLAIMS
+      (a) Claims for overcharge, duplicate payment or overcollection shall be accompanied by sufficient information to allow the carrier(s) to conduct an
+investigation and pay or decline the claim within the time limitations set forth in Item 300370. Claims shall include the name of the claimant, its file
+number, if any, and the amount of the refund sought to be recovered, if known.
+      (b) Claims for overcharge shall be accompanied by the original freight bill. Additional information may include, but is not limited to, the following:
+           1. The rate, classification, or commodity description or weight claimed to have been applicable.
+           2. Complete tariff authority for the rate, classification, or commodity description claimed.
+           3. Freight bill payment information.
+           4. Other documents or data which are believed by claimant to substantiate the basis for its claim.
+      (c) Claims for duplicate payments and overcollection shall be accompanied by the original freight bill(s) for which charges were paid and by freight
+bill payment information.
+      (d) Regardless of the provisions of paragraphs (a), (b), and (c) of this section, the failure to provide sufficient information and documentation to allow
+a carrier to conduct an investigation and pay or decline the claim within the allowable time limitation shall not constitute grounds for disallowance of the
+claim. Rather, the carrier shall comply with Item 300340 to obtain additional information required.
+      (e) A carrier shall accept copies instead of the original documents required to be submitted in this section where the carrier is furnished with an
+agreement entered into by the claimant which indemnifies the carrier for subsequent duplicate claims which might be filed and supported by the original
+documents.
+
+
+                                           
+
+
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                         For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                    17
+                                                             SUPPLEMENT 1 TO NMF 100-AO
+PROCEDURES GOVERNING OVERCHARGE CLAIMS, UNIDENTIFIED OR DUPLICATE PAYMENTS INVOLVING THE TRANSPORTATION OF
+PROPERTY BY MOTOR CARRIERS OF HOUSEHOLD GOODS, MOTOR CARRIERS PARTICIPATING IN THE NONCONTIGUOUS TRADE AND
+                          FREIGHT FORWARDERS SUBJECT TO 49 USC SUBTITLE IV, PART B
+
+
+ITEM 300340-A
+                                                           INVESTIGATION OF CLAIMS
+    (a) Upon receipt of a claim, whether written or electronically filed, the processing carrier shall within 5 business days initiate an investigation and
+establish a file, as required by Item 300350.
+    (b) If a carrier discovers an overcharge, duplicate payment or overcollection which has not been the subject of a claim, it shall promptly initiate an
+investigation and comply with the provisions in Item 300380.
+    (c) In the event the carrier processing the claim requires information or documents in addition to that submitted with the claim, the carrier shall
+promptly notify the claimant and request the information required. This includes notifying the claimant that a claim must be filed in writing or
+electronically before the carrier becomes subject to the time limits for settling such a claim under Item 300370.
+
+
++ITEM 300350-A
+                                                                  CLAIM RECORDS
+     At the time a claim is received the carrier shall create a separate file and assign it a successive claim file number and note that number on all
+documents filed in support of the claim and all records and correspondence with respect to the claim, including the written or electronic acknowledgment
+of receipt required under Item 300360. If pertinent to the disposition of the claim, the carrier shall also note that number on the shipping order and delivery
+receipt, if any, covering the shipment involved.
+
+
+ITEM 300360-A
+                                                       ACKNOWLEDGMENT OF CLAIMS
+    Upon receipt of a written or electronically filed claim, the carrier shall acknowledge its receipt in writing or electronically to the claimant within 30
+days after the date of receipt except when the carrier shall have paid or declined in writing or electronically within that period. The carrier shall include
+the date of receipt in its file for that claim.
+
+
+ITEM 300370-A
+                                                             DISPOSITION OF CLAIMS
+     The processing carrier shall pay, decline to pay, or settle each claim within 60 days after its receipt by that carrier, except where the claimant and
+the carrier agree in writing or electronically to a specific extension based on extenuating circumstances. If the carrier declines to pay a claim or makes
+settlement in an amount different from that sought, the carrier shall notify the claimant in writing or electronically, of the reason(s) for its action, citing
+tariff authority or other pertinent information developed as a result of its investigation.
+
+
+ITEM 300380-A
+DISPOSITION OF UNIDENTIFIED PAYMENTS, OVERCHARGES, AND DUPLICATE PAYMENTS NOT SUPPORTED
+                                         BY CLAIMS
+     Carriers shall establish procedures for identifying and properly applying all unidentified payments. If a carrier does not have sufficient information
+with which properly to apply such a payment, the carrier shall notify the payor of the unidentified payment within 60 days of receipt of the payment and
+request information that will enable it to identify the payment. If the carrier does not receive the information requested within 90 days from the date of
+the notice, the carrier may treat the unidentified payment as a payment in fact of freight charges owing to it. Following the 90-day period, the regular
+claims procedure under this part shall be applicable.
+     Notice shall be in writing or electronically transmitted and clearly indicate that it is a final notice and not a bill. Notice shall include: The check
+number, amount, and date; the payor’s name; and any additional basic information the carrier is able to provide. The final notice also must inform payor
+that: (i) Applicable regulations allow the carrier to conditionally retain the payment as revenue in the absence of a timely response by the payor, and (ii)
+following the 90-day period the regular claims procedure shall be applicable.
+     Upon receipt of information from the payor, the carrier shall, within 14 days: (i) Make a complete refund of such funds to the payor; or (ii) notify the
+payor that the information supplied is not sufficient to identify the unapplied payment and request additional information; or (iii) notify the payor of the
+carrier’s determination that such payment was applicable to particular freight charges lawfully due the carrier. Where no refund is made by the carrier,
+the carrier shall advise the payor of its right to file a formal claim for refund with the carrier in accordance with the regular claims procedure under this
+part.
+     When a carrier that participated in a transportation movement, but did not collect the transportation charges, finds that an overpayment has been
+made, that carrier shall immediately notify the collecting carrier. When the collecting carrier (when single or joint line haul) discovers or is notified by
+such a participating carrier that an overcharge or duplicate payment or overcollection exists for any transportation charge that has not been the subject
+of a claim, the carrier shall create a file as if a claim has been submitted and shall record in the file the date it discovered or was notified of the
+overpayment. The carrier that collected the charges shall then refund the amount of the overpayment to the person who paid the transportation charges
+or to the person that made the duplicate payment within 30 days from the date of such discovery or notification.
+
+
+
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 18                     For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                              SUPPLEMENT 1 TO NMF 100-AO
+                                                    PROCEDURES GOVERNING BILLING DISPUTES
+
+
+
+ITEM 300500-A
+                                                                      APPLICATION
+     These procedures govern the processing of billing disputes involving the transportation of property in interstate or foreign commerce by motor
+carriers that are participants in the National Motor Freight Classification®.
+     For procedures relating to overcharge claims, and unidentified or duplicate payments involving the transportation of property in interstate or foreign
+commerce by motor carriers of household goods, motor carriers participating in the noncontiguous trade, or freight forwarders subject to 49 USC Subtitle
+IV, part B, see Item 300300.
+
+
+ITEM 300510-A
+                                                                       DEFINITIONS
+    (a) Carrier: A motor common carrier or household goods freight forwarder subject to 49 USC Subtitle IV, part B.
+    (b) Billing Dispute: A dispute over the charges or fees originally or subsequently billed by the carrier.
+    (c) Claimant: Any shipper or receiver, or their authorized agent, filing a billing dispute with a carrier.
+
+
+ITEM 300520-A
+                                            FILING AND PROCESSING OF BILLING DISPUTES
+     (a) All billing disputes must be filed within 180 days from the receipt of the original invoice. Receipt of original invoice shall be determined to be 5
+business days from the invoice date. Unless otherwise provided, no disputes will be accepted after this period.
+      (b) A billing dispute shall not be paid unless filed in writing or electronically with the carrier that collected the transportation charges. The
+collecting carrier shall be the carrier to process all such disputes. When a dispute is submitted to another carrier that participated in the transportation,
+that carrier shall transmit the dispute to the collecting carrier within 15 days of receipt. If the collecting carrier is unable to dispose of the dispute for any
+reason, the dispute may be filed with or transferred to any participating carrier for final disposition.
+     (c) A single billing dispute may include more than one shipment provided the dispute on each shipment involves:
+          1. The same tariff issue or authority or circumstances,
+          2. Single line service by the same carrier, or
+          3. Service by the same interline carriers.
+     (d) All billing disputes shall be accompanied by sufficient information to allow the carrier(s) to conduct an investigation and pay or decline the dispute
+within 60 days. Information submitted shall include the name of the claimant, its file number, if any, or applicable pro, bill of lading, or invoice number,
+and the amount of the refund sought to be recovered.
+     (e) Billing disputes shall be accompanied by the original freight bill. Additional information may include, but is not limited to, the following:
+          1. The rate, classification, or commodity description or weight claimed to have been applicable.
+          2. Complete tariff authority for the rate, classification, or commodity description claimed.
+          3. Freight bill payment information.
+          4. Other documents or data which is believed by claimant to substantiate the basis for its claim.
+     (f) Upon receipt of a billing dispute the processing carrier shall:
+          1. Promptly initiate an investigation,
+          2. Establish a file,
+          3. Assign a successive file number and note that number on all documents submitted in support of the billing dispute and all records and
+correspondence with respect to the billing dispute,
+          4. Provide a written or electronic acknowledgment of the billing dispute within 30 days of receipt.
+     (g) In the event the carrier processing the dispute requires information or documents in addition to that submitted with the dispute, the carrier shall
+notify the claimant in 5 business days and request the information required.
+     (h) The processing carrier shall pay, decline to pay, or settle each billing dispute within 60 days after its receipt. If the carrier declines to pay a
+billing dispute or makes settlement in an amount different from that sought, the carrier shall notify the claimant in writing or electronically, of the
+reason(s) for its action.
+
+
++ITEM 300530-A
+                                                               DISPUTE RESOLUTION
+     Any dispute arising between the parties regarding the interpretation, application or enforceability of the terms and/or conditions of these procedures,
+including a carrier’s offer to pay, decline, or make a firm compromise settlement offer, shall be submitted to binding arbitration for resolution. As the
+parties shall mutually agree, Transportation Arbitration and Mediation, PLLC, Washington, DC, or another body experienced in resolving transportation
+disputes or claims, shall conduct the arbitration. The arbitration process will be commenced within thirty (30) days after the parties are unable informally
+to resolve the dispute or claim. The arbitration decision shall be enforceable in a court of competent jurisdiction.
+
+
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                         For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                 19
+                                                               SUPPLEMENT 1 TO NMF 100-AO
+
+
+
+                             Standard Form for Presentation of Billing Disputes or Overcharge Claims
+                                                            (See NMFC® Items 300300 or 300500)
+
+      Claimant:
+       Name:                                                                   Claimant’s Reference No.:
+       Address:                                                                Claim Amount: $
+       City, State, Zip:                                                       Signature:
+       Telephone:                            Fax:
+                                                                               *Per NMFC® Items 300320 or 300520 all claims must be filed
+       Email:                                                                  within 180 days from receipt of original invoice. Claims filed after
+                                                                               this period will not be accepted.
+       Date*:
+
+      Detailed Statement of Claim
+         Freight Bill No. or                                                                                                        Overcharge
+                                         Date                    Weight           Amount Paid            Correct Amount
+              Pro No.                                                                                                                Amount
+
+
+
+
+      Supporting Documentation:
+                  Original Freight Bill (must be included if available)
+                  Rate, Classification, Commodity Description or Weight Claimed to Have Been Applicable
+                  Freight Bill Payment Information
+                  Other Documents or Data to Support Claim
+      Additional comments:
+
+
+
+
+     Except as otherwise provided in individual carrier’s tariffs, for procedures governing overcharge claims, unidentified or duplicate payments involving
+the transportation of property by motor carriers of household goods, motor carriers participating in the noncontiguous trade and freight forwarders subject
+to 49 USC Subtitle IV, Part B, see NMFC® Items 300300 through 300380.
+
+      Except as otherwise provided in individual carrier’s tariffs, for procedures governing billing disputes, see NMFC® Items 300500 through 300530.
+
+
+
+
+                             Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 20                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                             SUPPLEMENT 1 TO NMF 100-AO
+                                                PROCEDURES GOVERNING INTERLINE SETTLEMENTS
+
+
++ITEM 400100-A
+                                                                     APPLICATION
+    In the absence of a separate interline agreement between the participating motor carriers, these procedures shall apply in the settlement of interline
+claims and interline settlements between participating member carriers from billing disputes, overcharges, undercharges, adjustments in rates or weights,
+assessment of storage charges, or other accessorial charges. The procedures in effect when initial apportionment of revenue between carriers is made
+shall govern any subsequent adjustment.
+    Any carrier that is a party to these procedures must also be a participant in the National Motor Freight Classification® (NMFC®).
+
+
++ITEM 400150-A
+                                                               DISPUTE RESOLUTION
+     Any dispute or claim arising between the parties regarding the interpretation, application or enforceability of the terms and/or conditions of this
+agreement, including the division or payment of revenues to the respective parties for the transportation services provided, or responsibility or liability
+for loss and/or damage to interline shipments, shall be submitted to binding arbitration for resolution. As the parties shall mutually agree, Transportation
+Arbitration and Mediation, PLLC, Washington, DC, or another body experienced in resolving transportation disputes or claims, shall conduct the
+arbitration. The arbitration process will be commenced within thirty (30) days after the parties are unable informally to resolve the dispute or claim. The
+arbitration decision shall be enforceable in a court of competent jurisdiction.
+
+
++ITEM 400200-A
+                                                                  INDEMNIFICATION
+     Each motor carrier participating in an interline arrangement conducted under these procedures agrees to defend and hold harmless and fully
+indemnify the other participating motor carriers (without regard to whether the indemnified motor carrier's liability is vicarious or implied in law) against
+any and all claims, suits, loss, damage or liability, for bodily injury, death and/or property damage, including reasonable attorney's fees and costs incurred
+in the defense against a claim or suit, or incurred because of the wrongful failure to defend against a claim or suit, caused by or arising from the
+indemnifying carrier's negligent or intentional acts or omissions in its performance of its responsibilities in the interline arrangement.
+
+
++ITEM 400300-A
+                                                               INSOLVENT CARRIERS
+     The parties acknowledge and agree that the collecting carrier acts as trustee of those portions of the interline revenue due and owing to its interline
+partner(s) for providing the involved interline transportation service(s). Such funds constitute trust property held by the trustee carrier for the benefit of
+and due to its interline partner(s) participants in the interline agreement creating those transportation charges.
+     Uncollectible amounts due from an insolvent carrier shall be borne by all other carriers involved in the shipment, on a prorate basis of their final
+revenues, subject to the following exceptions:
+          (a) When, through its own fault, the claimant carrier fails to request payment of the insolvent carrier before it became insolvent, and/or
+          (b) Fails to file proof with the bankruptcy judge prior to the limitations fixed by the court for the filing of claims.
+     In the case of (a) or (b) above, the amount due from the insolvent carrier shall be borne by the claimant carrier. Intermediate carriers are not relieved
+of their responsibility in this regard if they are handling the claim with the insolvent carrier, for account of the claimant carrier, prior to the time carrier
+becomes insolvent.
+
+
+ITEM 400400-A
+                                                                      DEFINITIONS
+     The following definitions will apply when such terms are used in these procedures or in individual carrier agreements governed by these procedures:
+          (a) CARRIER:
+              1. CARRIER: Any motor carrier who participates in these procedures.
+              2. ORIGIN CARRIER: The carrier on whose line the shipment originates.
+              3. INTERMEDIATE CARRIER: Any involved carrier that is neither the origin or destination carrier.
+              4. DESTINATION CARRIER: The carrier performing the billed destination service.
+              5. CLAIMANT CARRIER: The carrier against whom claim is filed by claimant, except that if claim is filed against an intermediate carrier,
+the carrier to whom claim is sent for adjustment (origin or destination carrier) shall be the claimant carrier.
+              6. COLLECTING CARRIER: The carrier responsible for the collection of the freight charges.
+              7. INVOICING CARRIER: The carrier responsible for issuing the invoice to the payor of the freight charges.
+          (b) SHIPMENT:
+              1. COLLECT SHIPMENT: A shipment where the consignee (receiver) is responsible for the payment of the freight charges.
+              2. PREPAID SHIPMENT: A shipment where the consignor (shipper) is responsible for the payment of the freight charges.
+              3. THIRD-PARTY SHIPMENT: A shipment where neither the consignor (shipper) nor the consignee (receiver) is responsible for the payment
+of the freight charges.
+          (c) CLAIMS:
+              1. BALANCE DUE BILL: Request by one member carrier of another for refund of payment(s), or collection of additional amount(s) due,
+resulting from errors in rate, weight, divisions, reversal of charges or other errors on the original settlement. This procedure will apply only if carrier is
+legally liable under the rules and interpretations of the Surface Transportation Board or other administrative body having jurisdiction, or is adjudged liable
+by a court of competent jurisdiction.
+              2. CORRECTED FREIGHT BILL: An amendment or revision of original waybill (freight bill) due to errors in rate, weight, divisions, reversal
+of charges, or other errors.
+                                                                      (Continued on following page)
+
+
+
+                          Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                        For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                21
+                                                              SUPPLEMENT 1 TO NMF 100-AO
+                                                PROCEDURES GOVERNING INTERLINE SETTLEMENTS
+
+
+ITEM 400400-A-Continued
+
+              3. OVERCHARGE CLAIM: A written or electronic request by shipper or consignee, or their authorized agent, for refund of overcharges
+based on errors in weight, rate, calculation of charges, over-collection (including duplicate payments), misrouting, or collection of charges in excess of
+those provided in applicable tariffs, rate schedules or contracts.
+              4. UNSETTLED CLAIM: Claims that have not been initially apportioned between carriers or are disputed by the carriers, or where one party
+fails to acknowledge the claim.
+          (d) OTHER:
+              1. INITIAL POINT: The original shipping point where freight is received from consignor or shipper.
+              2. INTERCHANGE POINT: Any point where two carriers interchange or transfer shipments.
+              3. INTERLINE FUNDS: Transportation charges collected by the invoicing carrier and held in trust for the other participating carrier or carriers
+for the interline settlement.
+              4. INTERLINE SETTLEMENT: Payment of division of revenue by one carrier and acceptance of such payment by another carrier.
+              5. LEGAL LIABILITY: Liability fixed by statutory laws, conditions of bills of lading, contracts, applicable tariff, rule or classification provisions
+and, in case of doubt, the written advice of counsel of claimant carrier.
+              6. MILEAGE: The mileage of the carriers shall be the ratemaking mileage.
+              7. NO CAUSE OF ACTION: The absence of cause of action under procedures applicable to settlement of claims.
+              8. RESETTLEMENT: Collection or payment after original settlement as the result of some change on the original freight bill which affects
+the division of revenue by more than the agreed minimum amount.
+              9. REVENUE PRORATE: A prorate based on revenue received in interline or settlement.
+              10. THIRD-PARTY: A person or entity who is neither the consignee nor the consignor, but has an involvement in the movement of a
+shipment(s).
+
+
+ITEM 400500-A
+                                   COLLECTION OF CHARGES, RESPONSIBILITY AND LIABILITY
+    Except as provided in this procedure, the invoicing carrier shall be responsible for the collection of proper charges. Prepaid shipments, points in
+foreign countries requiring prepayment, or shipments insufficiently prepaid shall be the responsibility of the invoicing carrier, subject to the following
+exceptions:
+         (a) Invoicing carrier shall be responsible for collection of additional charges.
+         (b) When freight requiring prepayment is billed collect, or is insufficiently prepaid, it shall be accepted from the connecting carrier. The invoicing
+carrier shall attempt to collect the amount due, and if unsuccessful, notify the carrier at fault within 10 business days. The uncollectible amount shall
+then be borne by the carrier at fault.
+         (c) Participating carriers who fail to notify the invoicing carrier of the proper charges, including the misapplication of the rate, are not relieved
+from responsibility for undercharges for which the invoicing carrier may be liable, nor are they relieved for their errors that the invoicing carrier could not
+reasonably detect.
+         (d) The invoicing carrier shall receive all possible assistance from participating carriers in its effort to make collections.
+         (e) The invoicing carrier shall offer reasonable assistance in attempting to determine and collect the correct charges and shall make a demand
+on the consignee for charges that are uncollected due to an error of another carrier. Upon written or electronic evidence of two (2) demands for
+payment, or a direct refusal of the consignee to pay, or when the consignee executes a certificate of nonbeneficial ownership prior to delivery of the
+property, which renders them not liable for any additional charges, the carrier in error, without further action on the part of the invoicing carrier, shall
+pay the invoicing carrier the uncollected charges outstanding in the accounts of the invoicing carrier, provided the invoicing carrier requests payment
+within one (1) year from the month within which the outstanding charges were placed in the accounts of the invoicing carrier.
+         (f) When an amount is placed in the accounts of a carrier as the result of an error in a bill of lading or shipping order that effects the actual
+charges due from a shipper or consignee, for which neither origin, intermediate or destination carrier is responsible, and such amount is uncollectible,
+readjustment to the basis existing before such amount was placed in the accounts shall be made.
+
+
++ITEM 400600-A
+           MISROUTING, STORAGE, REFRIGERATION OR OTHER MISCELLANEOUS CHARGES
+   Unless the carrier participates in the services requested, miscellaneous charges, such as storage charges, refrigeration charges, and/or other
+accessorial charges shall not be included in the amount of revenue used as a basis for apportionment of claims on a revenue prorate basis.
+
+
++ITEM 400700-A
+                                                    ARRANGEMENT OF DOCUMENTATION
+    All documents submitted in support of a claim, whether in writing or electronically, shall be complete, unaltered and submitted in date order beginning
+with the most recent document first. The carrier receiving the documentation will ascertain whether all the supporting information is present, and if not,
+so advise the claimant. The failure of the claimant to supply the necessary documents within 180 days of receipt of the original freight invoice will
+invalidate the claim. Should a participating carrier nonetheless pay the claim, that carrier shall be responsible for such payment and cannot seek
+contribution from the other carrier or carriers. Each carrier shall cooperate fully with other carriers in furnishing records, documentation or information
+necessary to resolve a claim, and shall respond to a written or electronic request for such records, documents or information within 10 business days.
+
+
++ITEM 400800-A
+             REQUESTS FOR RATE, INTERLINE SETTLEMENT, OR DIVISIONS INFORMATION
+    When the resolution of a claim requires information about a participating carrier’s rates, interline settlement, or divisions, that request shall be made
+in writing or electronically, and the sought information shall be provided within 10 business days of such request.
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 22                      For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                              SUPPLEMENT 1 TO NMF 100-AO
+                                                PROCEDURES GOVERNING INTERLINE SETTLEMENTS
+
+
++ITEM 400900-A
+                                                             DISTRIBUTION OF CLAIMS
+    When the investigation of a claim is completed, the claimant carrier shall apportion the amount owing due to the claim in accordance with the
+appropriate division sheet or interline agreement.
+    Claimant carrier’s transmittal shall show connecting carrier’s freight bill numbers, if known, or point and date of interchange on outbound shipments
+and record of the original settlement, or other identifying information, so that all involved carriers may make an appropriate accounting.
+    If, in the investigation or handling of a claim, an undercharge due any carrier is found, such amount shall be paid to the carrier to whom the amount
+is due by the carrier which owes such amount.
+
+
+ITEM 401000-A
+                                                           BILL OF LADING VARIANCES
+    The shipping instructions on the bill of lading shall govern the transportation of the shipment. If the shipping instructions on the bill of lading do not
+agree with instructions on the package, or any document other than the original bill of lading, the origin carrier will bring such discrepancy to the
+attention of the shipper and clarification shall be obtained. Any revisions will be effected by means of a corrected bill of lading that must be issued prior
+to delivery of the shipment.
+    If the origin carrier fails to so notify the shipper and waybills to a destination other than that shown on the bill of lading, the origin carrier shall be
+responsible for any additional charges incurred in transporting the shipment to the correct destination. Any other participating carriers making the same
+error shall be jointly responsible for the additional charges, and such charges shall be apportioned between the carriers at fault in accordance with the
+applicable division sheet or interline agreement.
+
+
++ITEM 401100-A
+                                                       DIVERSION OR RECONSIGNMENT
+    Requests for diversion or reconsignment must be received from the shipper prior to delivery of the shipment and include a corrected bill of lading
+noting the specific request. When a carrier is requested to divert or reconsign a through shipment and fails to do so, the carrier or carriers responsible
+shall be liable for any additional charges caused by such failure. When more than one carrier is liable, the additional charges shall be paid by each in
+accordance with the applicable division sheet or interline agreement. Any carrier performing the same service as would have been required had the
+shipment been correctly diverted or reconsigned in the first place shall not receive revenue in excess of that had no error been made.
+
+
++ITEM 401200-A
+                                                      BILLING OR BEYOND DESTINATION
+     An overcharge, including interest paid to claimant, resulting from the billing or delivery of a shipment to a destination other than the correct destination,
+shall be the responsibility of the carrier at fault; except that when another carrier or carriers are also at fault, the overcharge, plus any interest paid to the
+claimant, shall be divided equally between the carriers at fault, subject to the following:
+         (a) The carrier or carriers that transport the shipment from point of origin to the erroneous destination shall accept as compensation a proportion
+of the through or combination rate between those points, based on established divisions, or if otherwise applicable, on the basis of mileage.
+         (b) The shipment shall be forwarded from the erroneous destination to the correct destination via the route the forwarding carrier determines to
+be reasonable to the carrier or carriers at fault, unless the carrier or carriers at fault provide specific directions as to how the shipment is to be forwarded
+to the correct destination. In either case, the carrier or carriers transporting the shipment to the correct destination shall be entitled to the rate provided
+in the applicable tariff, rate schedule or contract for that movement, and the carrier or carriers at fault shall be responsible for payment of that amount.
+         (c) A carrier performing the same service as would have been required had the shipment been correctly billed or delivered initially shall not
+receive revenue in excess of that which would have been received had the error not been made.
+
+
++ITEM 401300-A
+                                                                       MISROUTING
+    Claims arising from the misrouting of a shipment shall be the responsibility of the carrier at fault. Should the carrier alleged to be at fault not
+acknowledge the error, responsibility shall be determined by binding arbitration as set forth in Item 400150, if the involved carriers so agree, or by a
+court of competent jurisdiction. Such determination must be made before the claim can be paid and a charge made against the carrier at fault.
+    Claims based on a misrouting shall be filed with the carrier at fault, if known or determined; otherwise the claim should be filed with the origin carrier,
+who will initially determine the carrier at fault. The origin carrier can either request that the claimant resubmit the claim with the carrier identified as
+responsible for the misrouting or transmit the file to the responsible carrier who shall handle the matter with the claimant.
+
+
++ITEM 401400-A
+                                                             WEIGHT DISCREPANCIES
+     Claims arising from discrepancies in shipment weight shall be supported by the documentation and information set forth in Items 300330 or 300520
+of the National Motor Freight Classification® in effect at the time of shipment and include evidence of actual weight. Should a dispute arise regarding the
+weight of a shipment reweighed at destination, the weight determined and approved by the destination carrier shall govern. In the event that a discrepancy
+in the weight of a shipment is detected, all involved carriers will be notified electronically upon such determination, and the invoicing carrier shall be
+responsible for the collection of any additional charges.
+     Claims for a reduction in the weight of a shipment, based on fewer pieces being tendered or received or the alleged failure to receive all or a portion
+of a shipment by the carrier at the point of origin, must be handled as a loss or damage claim and not as a rate dispute.
+
+
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                         For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                                 23
+                                                              SUPPLEMENT 1 TO NMF 100-AO
+                                                 PROCEDURES GOVERNING INTERLINE SETTLEMENTS
+
+
++ITEM 401500-A
+                                                      RATE OR CLASSIFICATION ERRORS
+     Claims arising from rate errors shall be established by the documentation and information set forth in Items 300330 or 300520 of the National Motor
+Freight Classification® in effect at the time of shipment and include reference to the applicable tariff, rate schedule, or contract.
+     Claims arising from errors in the application of the provisions of the National Motor Freight Classification® shall be supported by the documentation
+and information set forth in Items 300330 or 300520 of the National Motor Freight Classification® in effect at the time of shipment and include reference
+to the involved classification provision(s). The claim should also be supported by the bill of lading or shipping receipt and the original or a copy of the
+freight invoice.
+
+
++ITEM 401600-A
+CLAIMS FOR OVERCHARGES, UNDERCHARGES, MISROUTING, STORAGE AND MISCELLANEOUS CHARGES
+                           INVOLVING INTERLINE SETTLEMENTS
+     Overcharge claims can be presented electronically or in writing with either the origin, destination or invoicing carrier. The carrier shall provide a
+standard format for the presentation of overcharge claims, and shall establish procedures for the investigation of such claims. Use of the claim forms
+and procedures as set forth in the National Motor Freight Classification® in effect at the time of shipment is acceptable. The carrier receiving the claim
+will promptly notify the participating carrier or carriers of the receipt and resolution of the claim.
+     Undercharge claims will be presented in writing or electronically by the invoicing carrier to the payor of the transportation charges. The invoicing
+carrier promptly will notify the participating carrier or carriers of the presentation of the claim and will advise the participating carrier or carriers of the
+resolution of the claim.
+     Misrouting claims submitted in writing or electronically will be directed to the carrier at fault, if known. If the carrier at fault is not known, claims shall
+be directed to the origin carrier who shall determine fault. Once fault is determined, the origin carrier may then forward the claim to the at-fault carrier.
+     Claims based on storage or miscellaneous charges may be submitted in writing or electronically and will be directed to the carrier assessing such
+charges.
+
+
+ITEM 401700-A
+       HANDLING OF CLAIMS FOR OVERCHARGES, UNDERCHARGES, MISROUTING, STORAGE AND
+                                 MISCELLANEOUS CHARGES
+     Overcharge claims presented to a carrier other than the invoicing carrier shall be sent to the invoicing carrier and the claimant shall be so notified.
+The minimum amount billed by one carrier against the other on a prorated overcharge will be the amount as specified or agreed to between carriers per
+freight bill, except when two or more freight bills are included in a single claim, in which case the combined amounts must aggregate an average of the
+amount as specified or agreed to between carriers per freight bill. If three or more carriers are involved in a freight bill correction or an overcharge claim,
+the carrier adjusting the freight bill or paying the claim may debit the next participating carrier the balance of the freight bill correction of the prorated
+claim after deducting its proportion, providing that balance meets the minimum requirements for the presentation of a claim.
+     The minimum amount to be billed by one carrier against another carrier on a balance due bill resulting from a freight bill correction, including
+undercharges, misrouting, storage or other miscellaneous charges, after settlement has been concluded on the original freight bill, will be the amount
+as specified or agreed to between carriers per freight bill. Two or more balance due bills will not be considered to make the aforesaid minimum. That
+minimum does not apply on interline resettlements resulting from errors in divisions or underpayment of the amount specified on the original billing.
+     The minimum amount(s) specified or agreed to between carriers utilizing the provisions of these procedures are as set forth in Attachment A.
+
+
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 24                      For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015
+                                                            SUPPLEMENT 1 TO NMF 100-AO
+
+
+
+                                                                ATTACHMENT A
+        As provided in Item 401700, “Handling of Claims for Overcharges, Undercharges, Misrouting, Storage and Miscellaneous Charges.”
+            (a) The minimum amount billed by one carrier against the other on a prorated overcharge will be $___________per freight bill.
+            (b) When two or more freight bills are included in a single claim, the combined amounts must aggregate an average of $___________per freight
+bill.
+        (c) The minimum amount to be billed by one carrier against another carrier on a balance due bill resulting from a freight bill correction after
+settlement has been concluded on the original freight bill will be $___________per freight bill.
+
+
+
+
+                            Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+                          For explanation of abbreviations and reference marks, see last page of this Supplement. ©NMFTA 2015                       25
+                                                           SUPPLEMENT 1 TO NMF 100-AO
+
+                                 EXPLANATION OF ABBREVIATIONS AND REFERENCE MARKS
+
+Abbreviation                                                                   Abbreviation
+ or                                                                             or
+Reference                      Explanation                                     Reference                    Explanation
+Mark                                                                           Mark
+
+
+ASTM           ASTM International                                              Sec.           Section
+Avdp.          Avoirdupois                                                     sq.            square
+B&SG           Brown & Sharpe gauge                                            sq. ft.        square foot; square feet
+BWG            Birmingham wire gauge                                           sq. in.        square inch(es)
+°C             degree Centigrade (Celsius)                                     STB            Surface Transportation Board
+CFR            Code of Federal Regulations                                     SU             Set Up
+cm             centimeter(s)                                                   t/a            trading as
+COD            Collect on Delivery                                             t/d/b/a        trading and doing business as
+Cont’d         Continued                                                       ™              Trademark
+cu             cubic                                                           UN             United Nations
+cu. ft.        cubic foot; cubic feet                                          U.S.           United States
+DOT            Department of Transportation                                    USC            United States Code
+d/b/a          doing business as                                               U.S.S.G.       United States Standard Gauge
+etc.           et cetera (and other things, or the rest; and so forth)         viz.           namely
+°F             degree Fahrenheit                                               vol.           volume
+g              gram                                                            vs.            versus
+gal            gallon(s)                                                       &              and
+in.            inch(es)                                                        °              degree
+incl.          inclusive                                                       %              percent
+ISTA           International Safe Transit Association                          §              Section
+KD             Knocked Down                                                                  Indicates commodity or commodities may be subject to
+kg             kilogram                                                                       special federal regulations concerning the shipping of
+                                                                                              hazardous materials. See Item (Rule) 540 herein.
+kPa            Kilopascal
+                                                                               ,              Indicates reduction
+L              liter
+                                                                                             Indicates increase
+lbs.           pounds
+                                                                                             Indicates change in wording which results in neither an
+m              meter(s)                                                                       increase nor reduction
+ml             milliliter(s)                                                   ]              Indicates change in packaging
+mm             millimeter(s)                                                   +              Indicates that the item is being brought forward without
+MPa            Megapascal                                                                     change
+NMFC           National Motor Freight Classification                                         Indicates new item, package or participating carrier
+NOI            Not more specifically described herein                          A              Addition to Index to Articles
+o/a            operating as                                                    B              Eliminate from Index to Articles
+oz.            ounce(s)                                                        C              Change in Index to Articles
+pcf            pounds per cubic foot                                           E              These provisions are subject to the expiration date as
+psi            pounds per square inch                                                         shown in Item (Rule) 535.
+qt.            quart                                                           I              The participation of this carrier is CANCELED; provisions
+                                                                                              of this Classification no longer apply for account of this
+RSorL          Classed the same or lower                                                      carrier.
+r.p.m.         revolutions per minute                                          P              Under postponement
+SCAC           Standard Carrier Alpha Code — The SCAC (alpha code)             R              Registered trade name or registered trademark
+               listings in this Classification represent only those carriers
+               participating in the NMFC®. For a complete listing of all                     Effective March 19, 2015, under authority of 49 CFR
+               assigned alpha codes, see the Directory of Standard                            §1312.6(b)(3).
+               Carrier Alpha Codes, NMF 101.                                   z              Indicates correction of printing error
+
+
+
+                                                                         —finis—
+
+
+
+
+                           Only participants in the NMFC® at the time the transportation occurs may use the provisions herein.
+ 26                                For explanation of abbreviations and reference marks, see above. ©NMFTA 2015
+

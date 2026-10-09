@@ -1,0 +1,586 @@
+TABLE OF CONTENTS                        HIGHLIGHTS                              RESULTS   APPENDICES
+
+
+                    Office of Inspector General | United States Postal Service
+                    Audit Report
+                    Scheduled Hours and Payments for
+                    Highway Contract Routes
+                    Report Number 20-295-R21 | May 5, 2021
+   TABLE OF CONTENTS                                                                 HIGHLIGHTS                                                                      RESULTS        APPENDICES
+
+                                                                                                                                                                                         BACK to COVER
+
+
+
+
+Table of Contents
+       Cover
+       Highlights........................................................................................................................................................... 1
+          Objective........................................................................................................................................................ 1
+          Findings........................................................................................................................................................... 1
+          Recommendations..................................................................................................................................... 2
+       Transmittal Letter........................................................................................................................................... 3
+       Results................................................................................................................................................................. 4
+          Introduction/Objective............................................................................................................................ 4
+          Background................................................................................................................................................... 4
+          Finding #1: Service Change Request System................................................................................. 5
+                Overpayments....................................................................................................................................... 5
+                Error Corrections.................................................................................................................................. 6
+                Average Time of Error Correction................................................................................................ 6
+                Overpayment Recovery.................................................................................................................... 6
+                Recommendation #1........................................................................................................................... 7
+                Recommendation #2.......................................................................................................................... 7
+                Recommendation #3.......................................................................................................................... 7
+          Management’s Comments...................................................................................................................... 7
+          Evaluation of Management’s Comments......................................................................................... 8
+       Appendices....................................................................................................................................................... 10
+          Appendix A: Additional Information.................................................................................................. 11
+                Scope and Methodology................................................................................................................... 11
+                Prior Audit Coverage.......................................................................................................................... 11
+          Appendix B: Management’s Comments........................................................................................... 12
+       Contact Information...................................................................................................................................... 15
+
+
+Scheduled Hours and Payments for Highway Contract Routes
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                  HIGHLIGHTS                                      RESULTS                                       APPENDICES
+
+                                                                                                                                                           BACK to COVER
+
+
+
+
+Highlights
+Objective                                                                            We performed a risk assessment of the HCR scheduled trips and determined that
+                                                                                     of the 82,578 scheduled trips in TCSS from FYs 2016 through 2020, 271 were at
+Our objective was to determine the accuracy of U.S. Postal Service Highway
+                                                                                     high- or medium-risk of their contracted schedules being overstated. We used the
+Contract Route (HCR) scheduled hours and payments from fiscal years (FYs)
+                                                                                     average speed of 50 miles per hour from the November 2010 Freight Facts and
+2016 through 2020.
+                                                                                     Figures study issued by the Department of Transportation to calculate trip hours,
+HCRs are routes serviced by suppliers carrying mail over highways between            compared it to the actual trip hours in TCSS, and categorized the differences into
+designated points. These suppliers provide contracted transportation services        high-risk (20 hours or more), medium-risk (five to 20 hours), and low-risk (fewer
+under specified schedules outlined in the contract terms and conditions. HCR         than five hours). The 271 trips included 130 spotter and shuttle services that we
+schedules include trip information such as departure and arrival times, service      excluded from our review because they do not travel on highways, resulting in
+facilities, operating frequencies, and trip mileage and payment terms.               141 at-risk trips for review.
+
+The Transportation Contract Support System (TCSS) is an automated contracting        Findings
+system for administering over 17,500 Postal Service highway transportation           We found that HCR scheduled hours are
+contracts. It serves as a management system and repository for all HCR
+contracts including contract modifications and payments.
+                                                                                     generally accurate. However, our review of
+                                                                                     141 at-risk trips identified 84 trip schedules
+                                                                                                                                        “ Trip schedules
+                                                                                     from FYs 2016 through 2020 that were                  from FYs 2016
+The Service Change Request (SCR) system is used for managing and
+                                                                                     inaccurate and resulted in incorrect payments
+controlling the submittal of requests to change the service, schedule, and vehicle                                                         through 2020
+                                                                                     to suppliers. Specifically, we determined that
+requirements as specified in highway contracts administered through TCSS.
+                                                                                     administrative officials manually entered the         were inaccurate
+Postal Service management informed us on March 31, 2021, that they                   incorrect day count into the SCR system for
+                                                                                                                                           and resulted in
+are replacing the existing TCSS and SCR systems with the Transportation              the 84 trips. A day count error adds 24 hours
+Management System.                                                                   to a scheduled trip when an additional day is         incorrect payments
+                                                                                     erroneously added to the trip schedule. The
+Within the HCR contract’s terms and conditions, the Postal Service estimates                                                               to suppliers.”
+                                                                                     remaining 57 trip schedules were entered
+the minimum hours to operate HCR trips. Contracts are awarded based on an            correctly.
+evaluation of the supplier’s proposals and any further negotiations, which include
+the costs necessary to accomplish the services and time needed to operate            The Postal Service corrected 82 of the 84 (98 percent) trip errors in the SCR
+the trips.                                                                           system, which included 19 trips that were corrected during our audit after
+                                                                                     we notified management. However, the Postal Service had not corrected the
+When it is determined that changes to schedules are needed, the Postal Service       remaining two errors (2 percent) as of March 2021; therefore, these contracts
+uses the SCR system to generate these changes, which are submitted by                continue to be overpaid.
+administrative officials and approved by SCR coordinators at both the area
+and headquarters levels. Approved SCRs are sent to contracting personnel for         Additionally, the Postal Service did not timely identify and correct errors and
+entering the scheduled trip information in TCSS.                                     initiate recovery of incorrect payments to HCR suppliers as required by the
+                                                                                     Postal Service’s Supplying Principles & Practices. Specifically, Clause B-64,
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                               1
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                     HIGHLIGHTS                                       RESULTS                                   APPENDICES
+
+                                                                                                                                                          BACK to COVER
+
+
+
+
+Section D states that, “the supplier shall upon discovery refund any overpayments        Recommendations
+made by the Postal Service for service performed, or any payments for service
+                                                                                         We recommended management:
+not rendered.” However, as of September 30, 2020, our review of payment
+information in TCSS indicated the Postal Service negotiated recovery of only             ■ Develop and implement periodic         “ Develop requirements for
+$389,000 for five trip errors from FYs 2016 to 2020.                                       reviews to ensure timely detection       the new Transportation
+                                                                                           and correction of trip errors in the
+This occurred because errors are not easily identifiable since the trip duration
+                                                                                           SCR system for the scheduled             Management System to
+information is not visible during the SCR generation and approval processes.
+Availability of this information would allow for the identification of erroneous hours
+                                                                                           hours and corresponding                  include total trip duration
+                                                                                           payments in the TCSS.
+before trip schedules are finalized. In addition, the Postal Service did not provide                                                details.”
+adequate oversight of these processes and did not conduct periodic monitoring            ■ Develop requirements for the
+to timely detect and correct errors and recover about $4.1 million in estimated            new Transportation Management
+overpayments from FYs 2016 to 2020.                                                        System to include total trip duration details.
+
+We estimated the Postal Service incurred about $809,000 in questioned costs              ■ Develop a plan to review the accuracy of previously approved scheduled trips
+and about $65,000 in funds put to better use annually.                                     to identify and correct day count errors in the SCR system, determine actual
+                                                                                           overpayments, initiate recovery, and maintain all supporting documentation in
+                                                                                           either the TCSS or Transportation Management System.
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                             2
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                    HIGHLIGHTS                                         RESULTS               APPENDICES
+
+                                                                                                                                      BACK to COVER
+
+
+
+Transmittal
+Letter
+                                          May 5, 2021
+
+                                          MEMORANDUM FOR:            ROBERT CINTRON
+                                             			                     VICE PRESIDENT, LOGISTICS
+
+                                          				                       PETER ROUTSOLIAS
+                                           			                       VICE PRESIDENT, TRANSPORTATION STRATEGY
+
+
+
+
+                                          FROM: 			                  Melinda Perez
+                                             			                     Deputy Assistant Inspector General
+                                             			                      for Mission Operations
+
+                                          SUBJECT:          Audit Report – Scheduled Hours and Payments for Highway
+                                             		             Contract Routes (Report Number 20-295-R21)
+
+                                          This report presents the results of our audit of the Schedule Hours and Payments for
+                                          Highway Contract Routes.
+
+                                          We appreciate the cooperation and courtesies provided by your staff. If you have
+                                          any questions or need additional information, please contact Carmen Cook, Director,
+                                          Transportation, or me at 703-248-2100.
+
+                                          Attachment
+
+                                          cc: Postmaster General
+                                              Corporate Audit Response Management
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                                                                        3
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                   HIGHLIGHTS                                      RESULTS                                      APPENDICES
+
+                                                                                                                                                             BACK to COVER
+
+
+
+Results
+Introduction/Objective                                                                headquarters levels. Approved changes are sent to contracting personnel for
+                                                                                      entering the scheduled trip information in TCSS.
+This report presents the results of our self-initiated audit of Scheduled Hours and
+Payments for Highway Contract Routes (Project Number 20-295). Our objective           We performed a risk assessment of the scheduled trips and determined that of
+was to determine the accuracy of U.S. Postal Service Highway Contract Route           the 82,578 scheduled trips in TCSS from FYs 2016 through 2020, 271 were at
+(HCR) scheduled hours and payments from fiscal years (FYs) 2016 through               high- or medium-risk of their contracted schedules being overstated. We used
+2020. See Appendix A for additional information about this audit.                     the average speed of 50 miles per hour from the November 2010 Freight Facts
+                                                                                      and Figures study issued by the Department of Transportation to calculate the
+Background
+                                                                                      trip hours, compared it to the actual trip hours in TCSS, and categorized the
+HCRs are routes serviced by suppliers carrying mail over highways between             differences into high-risk (20 hours or more), medium-risk (five to 20 hours),
+designated points. These suppliers provide contracted transportation services         and low-risk (fewer than five hours). The 271 trips included 130 spotter and
+under specified schedules outlined in the contract terms and conditions.              shuttle services that we excluded from our review because they do not travel on
+Schedules include trip information such as departure and arrival times, service       highways, resulting in 141 at-risk trips for review. See Appendix A for additional
+facilities, operating frequencies, and trip mileage and payment terms.                information.
+The Transportation Contract Support System (TCSS) is an automated contracting
+system for administering over 17,500 Postal Service highway transportation
+contracts mail transportation contracts. It serves as a management system and
+repository for all contracts including contract modifications and payments.                              RISKASSESSMENT
+                                                                                                          82,578 Scheduled Trips in TCSS from FYs 2016 through 2020
+The Service Change Request (SCR) system is used for managing and
+controlling the submittal of requests to change the service, schedule, and vehicle
+requirements as specified in highway contracts administered through TCSS.                                                                           HIGH RISK
+
+Postal Service management informed us on March 31, 2021, that they
+are replacing the existing TCSS and SCR systems with the Transportation
+                                                                                                                                  271                 129
+Management System.
+                                                                                                   82,307                                          Scheduled Trips
+
+
+Within the contract’s terms and conditions, the Postal Service estimates the                          Scheduled Trips
+minimum hours to operate trips. Contracts are awarded based on an evaluation                            LOW RISK                                      142
+                                                                                                                                                    Scheduled Trips
+of the supplier’s proposals and any further negotiations, which include the costs
+necessary to accomplish the services and time needed to operate the trips.
+                                                                                                                                                  MEDIUM RISK
+When it is determined that changes to schedules are needed, the Postal Service
+uses the SCR system to generate these changes, which are submitted by
+administrative officials and approved by SCR coordinators at both the area and
+
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                              4
+Report Number 20-295-R21
+    TABLE OF CONTENTS                                                   HIGHLIGHTS                                                   RESULTS                                           APPENDICES
+
+                                                                                                                                                                                                 BACK to COVER
+
+
+
+
+Finding #1: Service Change Request System                                                                     Figure 2. SCR Schedule
+We found that scheduled hours are generally accurate. However, of the 141 at-
+risk trips reviewed, we identified 84 trip schedules from FYs 2016 through 2020
+that were inaccurate and resulted in incorrect payments to suppliers. Specifically,
+we determined that administrative officials manually entered the incorrect day
+count into the SCR system. A day count error adds 24 hours to a scheduled trip
+when an additional day is erroneously added to the trip schedule. The remaining
+57 trip schedules were entered correctly (see Figure 1).
+
+Figure 1. Errors in Trip Schedules
+                                                                                                              Source: SCR system.
+
+
+                                                                                                              Due to the incorrect manual entry of five-day count, the system automatically
+                                                                                                              added an additional 120 hours to the trip schedule (see Table 1).
+
+                                                                                                              Table 1. TCSS Hours Analysis Report
+
+                                                                                                                                                                                                      Trip
+                                                                                                                                                                   Trip Duration   Day Count
+                                                                                                                Trip Number        Leave Time        Arrive Time                                    Schedule
+                                                                                                                                                                       Hours       Error Hours
+                                                                                                                                                                                                     Hours
+
+                                                                                                                      133              2100              2155         0.917         120.000          120.917
+
+                                                                                                              Source: TCSS – Hours Analysis Report.
+
+
+                                                                                                              Overpayments
+                                                                                                              We estimated overpayments for the 84 trips with errors by using the overstated
+                                                                                                              hours from the day count error, trip frequency, and the hourly rate. Generally,
+Source: U.S. Postal Service Office of Inspector General (OIG) risk analysis of high- and medium-risk trips.
+                                                                                                              hourly rates increased over time. We ran a linear regression analysis to estimate
+For the 84 trips with errors, we reviewed trip information to identify the specific                           an hourly rate representative of the error period.
+day count errors. For example, trip 1331 was scheduled to depart at 21:00 hours
+                                                                                                              For example, we used the information for trip 133 to estimate the overpayment
+and arrive at its final destination at 21:55 hours, for a trip duration of 0.917 hours.2
+                                                                                                              from the inception of the error on April 1, 2017, to the end of our audit scope
+A value of zero must be entered under the field day3 because the trip started
+                                                                                                              period of September 30, 2020 (120 hours x 51.61 frequency x $22.97 hourly rate
+and ended on the same day. However, a value of five was incorrectly entered,
+                                                                                                              x 3.5 years = $498,152) (see Table 2).
+resulting in an overstatement of five days, or 120 hours (24 hours x 5 days =
+120 hours) (see Figure 2).
+
+1   Trip 133 had the largest day count error of five days when compared to the remaining 83 errors, which only had one day count error.
+2   The trip duration time was calculated by dividing the 55 minutes of travel time by 60 minutes in an hour.
+3   The SCR system training dated July 2019, provides step by step instructions where a value of 0 is entered when the trip begins and ends within the same day.
+
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                                                                       5
+Report Number 20-295-R21
+    TABLE OF CONTENTS                                                  HIGHLIGHTS                                                      RESULTS                                                 APPENDICES
+
+                                                                                                                                                                                                        BACK to COVER
+
+
+
+
+Table 2. Overpayment Calculation
+
+        A                 B                    C                   D                            E                             F                        G                       H                           I
+
+                                                                                  Overpayment Annualized                                                                                       Overpayment Amount
+ Trip Number         Error Hours       Trip Frequency         Hourly Rate                                             Error Begin Date         Error End Date          Years Overpaid
+                                                                                     Amount (BxCxD)                                                                                             as of 09/30/2020
+
+       133                120                 51.61              $22.97                     $142,274                      4/1/2017               9/30/2020                    3.50                    $498,1524
+
+Source: OIG analysis.
+
+
+Error Corrections                                                                                              Average Time of Error Correction
+Our review of contracting documents identified that the Postal Service corrected                               The Postal Service did not timely identify and correct trip schedule errors. On
+82 of the 84 trips (98 percent) in the SCR system, which included 19 trips that                                average, it took about 1.97 years to detect and correct these errors, which
+were corrected during our audit after we notified management. However, the                                     were entered between 2005 and 20205 (see Figure 4).
+Postal Service had not corrected the remaining two errors (2 percent) as of
+March 2021; therefore, these contracts continue to be overpaid (see Figure 3).                                 Figure 4. Error Presence in Years
+
+Figure 3. Corrected Trips
+
+
+
+
+                                                                                                               Source: OIG analysis.
+
+
+                                                                                                               Overpayment Recovery
+                                                                                                               Additionally, the Postal Service did not timely initiate recovery of incorrect
+Source: OIG review of corrected trips as of 3/17/2021.
+                                                                                                               payments to suppliers as required by the Postal Service’s Supplying Principles
+                                                                                                               & Practices. Specifically, Clause B-64, Section D states that, “the supplier
+                                                                                                               shall upon discovery refund any overpayments made by the Postal Service
+
+4   The calculation in Column I reflects the overpayment through 9/30/2020. The Postal Service corrected the error on 12/1/2020, which is outside of our scope period; therefore, the actual overpayment was greater than
+    what the OIG calculated.
+5   Errors reported ranged from July 1, 2005, to the end of our audit scope period of September 30, 2020.
+
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                                                                               6
+Report Number 20-295-R21
+    TABLE OF CONTENTS                                           HIGHLIGHTS                                RESULTS                                       APPENDICES
+
+                                                                                                                                                               BACK to COVER
+
+
+
+
+for service performed, or any payments for service not rendered.” However,               $193,770 ($124,738 for FY 2021, $59,409 for FY 2022, and $9,623 for FY 2023
+as of September 30, 2020, our review of payment information indicated the                in funds put to better use.
+Postal Service negotiated recovery of only $389,000 for five trip errors from
+FYs 2016 to 2020 (see Figure 5).                                                            Recommendation #1
+                                                                                            We recommend the Vice President, Logistics, in coordination with the
+Figure 5. Corrected and Recovered Trips                                                     Vice President, Transportation Strategy, develop and implement periodic
+                                                                                            reviews to ensure timely detection and correction of trip errors in the Service
+                                                                                            Change Request system for the scheduled hours and corresponding
+                                                                                            payments in the Transportation Contract Support System.
+
+                                                                                            Recommendation #2
+                                                                                            We recommend the Vice President, Logistics, develop requirements for
+                                                                                            the new Transportation Management System to include total trip duration
+                                                                                            details.
+
+                                                                                            Recommendation #3
+                                                                                            We recommend the Vice President, Transportation Strategy, in
+                                                                                            coordination with the Vice President, Logistics, develop a plan to review
+                                                                                            the accuracy of previously approved scheduled trips to identify and correct
+                                                                                            day count errors in the Service Change Request system, determine actual
+                                                                                            overpayments, initiate recovery, and maintain all supporting documentation
+                                                                                            in either the Transportation Contract Support System or Transportation
+                                                                                            Management System.
+
+
+Source: OIG review of recovered overpayments as of 9/30/2020.                            Management’s Comments
+                                                                                         Management disagreed with the finding and partially agreed with the
+This occurred because errors are not easily identifiable since the trip duration
+                                                                                         recommendations. Specifically, management disagreed with recommendations 1
+information is not visible during the SCR generation and approval processes.
+                                                                                         and 3 but provided alternate actions and agreed with recommendation 2. Further,
+Availability of this information would allow for the identification of erroneous hours
+                                                                                         management disagreed with the calculations we used to determine the monetary
+before trip schedules are finalized. This addition could potentially prevent the
+                                                                                         impact. See Appendix B for management’s comments in their entirety.
+Postal Service from making inaccurate payments to suppliers. In addition, the
+Postal Service did not provide adequate oversight of these processes and did not         Regarding the finding, management agreed that the scheduled hours are
+conduct periodic monitoring to timely detect and correct errors and recover about        generally accurate and that the audit report indicated that of the 82,578 trips, only
+$4.1 million in estimated overpayments from FYs 2016 to 2020.                            84 trip schedules were determined to be inaccurate. Management also stated
+                                                                                         that because so few discrepancies were found, they believed the current process
+As a result, we estimated the Postal Service incurred about $1,619,826 million
+                                                                                         is adequate, even though improvements could be made. Further, management
+($654,828 for FY 2019 and $964,998 for FY 2020) in questioned costs and about
+                                                                                         disagreed with the OIG’s statement that they did not timely initiate recovery
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                                   7
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                  HIGHLIGHTS                                     RESULTS                                      APPENDICES
+
+                                                                                                                                                         BACK to COVER
+
+
+
+
+of incorrect payments to suppliers. Instead, management stated there was no         situations in which the work differed by a few days or miles from the estimate and
+overpayment; the hours and miles listed on the schedules are estimates that were    payment recovery is not warranted.
+projected when the Postal Service and the supplier agree to a fixed-price service
+change or extra trip adjustment.                                                    Evaluation of Management’s Comments
+                                                                                    We consider management’s comments responsive to recommendations 1 and
+Regarding recommendation 1, management disagreed with this recommendation           2 as the corrective actions should resolve the issues identified in the report. We
+as written but stated that they will develop standard work instructions and         consider management’s comments nonresponsive to recommendation 3.
+train key personnel on auditing the service change requests. If corrections are
+necessary for the requirements, Logistics will submit a service change request      Regarding management’s concerns with the finding, the OIG explained in our
+to Transportation Strategy who will take appropriate actions to negotiate the       report that we conducted a risk assessment to identify trips at high- or medium-
+corrections. The target implementation date is July 31, 2021.                       risk of their contracted schedules being overstated. We reported that of 141
+                                                                                    at-risk trips, 84 (or 60 percent) contained day count errors. This is an important
+Regarding recommendation 2, management agreed and stated that they will draft       distinction and therefore, management’s assertion that the current process is
+requirements for the new Transportation Management System to include the trip       adequate because, so few discrepancies were found is misguided. Specifically,
+duration field. The target implementation date is September 30, 2021.               management did not acknowledge that the day count errors identified were
+Regarding recommendation 3, management disagreed and said it is the                 directly attributable to manual input errors in the system — resulting in incorrect
+same as recommendation 1. Management further stated that, as noted for              payments to suppliers — and are not related to fixed-price contract arrangements
+recommendation 1, they will develop standard work instructions and train key        or schedule trip hour estimates. In some instances, these errors occurred as far
+personnel to audit the service change requests as submitted. If corrections are     back as 2005 and persisted over several years before correction.
+necessary for the requirements, Logistics will submit a service change request      Regarding recommendation 3, management’s assumption that this
+to Transportation Strategy who will take appropriate actions to negotiate the       recommendation is the same as recommendation 1 is incorrect and therefore,
+corrections.                                                                        their alternate plan of action is unresponsive. Specifically, recommendation
+Regarding monetary impact, management disagreed with the monetary impact            1 highlights implementing controls going forward to timely detect, correct,
+and stated that contractors are not automatically entitled to an additional         and prevent trip errors whereas recommendation 3 suggests implementing
+adjustment whenever actual days or miles differ from estimates. In addition,        a plan to review previously approved trips to correct errors, determine actual
+management mentioned that when errors are based on grossly inaccurate               overpayments, and initiate recovery. We understand that reviewing the
+information, negligence, or misrepresentation, then an adjustment is likely to be   remaining trips not reviewed in this audit would be time consuming, which is
+appropriate. Further, management said most of the identified errors were routine    why we suggested developing a plan to review the remaining trips. We view
+                                                                                    management’s alternate plan of action for recommendation 3 as unresponsive
+                                                                                    and will pursue this through the formal audit resolution process.
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                             8
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                   HIGHLIGHTS                    RESULTS   APPENDICES
+
+                                                                                                    BACK to COVER
+
+
+
+
+Regarding monetary impact, the OIG estimated about $4.1 million in incorrect
+payments and confirmed these errors with administrative officials. However,
+management incorrectly asserted that over the OIG’s five-year review period,
+only five trips in the amount of $389,000 were appropriate for recovery. It should
+be noted that management does not have a formal process or effective controls
+to timely identify and correct errors and initiate recovery of overpayments. Thus,
+we believe management’s dismissal of the finding and monetary impact is
+unfounded. Instead, management should focus on establishing a review process
+and strengthening controls for the timely detection and correction of errors.
+
+All recommendations require OIG concurrence before closure. Consequently,
+the OIG requests written confirmation when corrective actions are completed.
+Recommendations should not be closed in the Postal Service’s follow-up tracking
+system until the OIG provides written confirmation that the recommendations can
+be closed.
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                                     9
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                                         HIGHLIGHTS                                                               RESULTS       APPENDICES
+
+                                                                                                                                                                         BACK to COVER
+
+
+
+Appendices
+Click on the appendix title below to
+navigate to the section content.
+
+
+       Appendix A: Additional Information...................................................................................................... 11
+          Scope and Methodology......................................................................................................................... 11
+          Prior Audit Coverage................................................................................................................................ 11
+       Appendix B: Management’s Comments............................................................................................... 12
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes
+Report Number 20-295-R21
+    TABLE OF CONTENTS                                              HIGHLIGHTS                                           RESULTS                                       APPENDICES
+
+                                                                                                                                                                              BACK to COVER
+
+
+
+Appendix A: Additional Information
+Scope and Methodology                                                                                  ■ Consulted with appropriate personnel to confirm trip schedule hour errors.
+
+Our scope period was scheduled trip data for active routes from FYs 2016 to                            ■ Reviewed payment data to determine whether the errors affected payments.
+2020 as of September 1, 2020. We included only per annum and service period-
+                                                                                                       ■ Performed data analysis to determine the average time expanded before the
+based pay types. To accomplish our objective, we:
+                                                                                                         errors were corrected.
+■ Obtained trip data from FY 2016 to FY 2022 which included trip number,
+                                                                                                       ■ Estimated the overpayment for the scope period.
+  scheduled hours, trip frequency, and mileage.
+                                                                                                       ■ Determined whether the Postal Service timely corrected errors and recovered
+■ Analyzed data and performed a risk analysis to identify high- and medium-risk
+                                                                                                         overpayments.
+  trips (see Table 3).
+                                                                                                       We conducted this performance audit from October 2020 through May 2021,
+Table 3. Risk Assessment
+                                                                                                       in accordance with generally accepted government auditing standards and
+                                                                                                       included such tests of internal controls as we considered necessary under the
+               Risk Category                                     Number of Trips
+                                                                                                       circumstances. Those standards require that we plan and perform the audit to
+  High Risk (discrepancy of 20 hours or more)                             129                          obtain sufficient, appropriate evidence to provide a reasonable basis for our
+                                                                                                       findings and conclusions based on our audit objective. We believe that the
+ Medium Risk (discrepancy of five to 20 hours)                            142
+                                                                                                       evidence obtained provides a reasonable basis for our findings and conclusions
+                    Subtotal                                              271                          based on our audit objective. We discussed our observations and conclusions
+                                                                                                       with management on April 9, 2021 and included their comments where
+    Low Risk (discrepancy of fewer than five
+                     hours)
+                                                                        82,307                         appropriate.
+
+                      Total                                             82,578                         We assessed the reliability of trip and payment data from FYs 2016 through
+                                                                                                       2020 by interviewing knowledgeable Postal Service officials, tracing to source
+Source: OIG analysis of TCSS data for FYs 2016 through 2020 and active HCRs as of September 1, 2020.
+                                                                                                       documentation, testing for completeness, recalculating amounts, and comparing
+■ Interviewed headquarters personnel and Postal Service management to                                  it to other relevant and related data. We determined the data was sufficiently
+  obtain an understanding of the overall process for establishing scheduled                            reliable for the purposes of this report.
+  hours and the effect on payments.
+                                                                                                       Prior Audit Coverage
+■ Analyzed TCSS reports, reviewed HCR schedules, and validated data for                                The OIG did not identify any prior audits or reviews related to the objective of this
+  potential errors.                                                                                    audit conducted within the last five years.
+■ Identified the SCR number that caused the error.
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                                                                                                                 11
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                  HIGHLIGHTS   RESULTS   APPENDICES
+
+                                                                                  BACK to COVER
+
+
+
+Appendix B:
+Management’s
+Comments
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                   12
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                  HIGHLIGHTS   RESULTS   APPENDICES
+
+                                                                                  BACK to COVER
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                   13
+Report Number 20-295-R21
+   TABLE OF CONTENTS                                  HIGHLIGHTS   RESULTS   APPENDICES
+
+                                                                                  BACK to COVER
+
+
+
+
+Scheduled Hours and Payments for Highway Contract Routes                                   14
+Report Number 20-295-R21
+TABLE OF CONTENTS   HIGHLIGHTS                                  RESULTS   APPENDICES
+
+                                                                               BACK to COVER
+
+
+
+
+                          Contact us via our Hotline and FOIA forms.
+                                Follow us on social networks.
+                                        Stay informed.
+
+                                   1735 North Lynn Street
+                                  Arlington, VA 22209-2020
+                                        (703) 248-2100
+
+                              For media inquiries, please email
+                          press@uspsoig.gov or call 703-248-2100
+

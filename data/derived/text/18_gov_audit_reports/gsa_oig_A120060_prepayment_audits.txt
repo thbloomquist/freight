@@ -1,0 +1,723 @@
+          Office of Audits
+          Office of Inspector General
+          U.S. General Services Administration
+
+
+
+
+           Audit of the Prepayment Audit Process
+           Transportation Audits Division
+           Federal Acquisition Service
+           Report Number A120060/Q/9/P13001
+           March 14, 2013
+
+
+
+
+A120060/Q/9/P13001
+                       Office of Audits
+                       Office of Inspector General
+                       U.S. General Services Administration
+
+
+                                        REPORT ABSTRACT
+                          Audit of the Prepayment Audit Process
+OBJECTIVE                 Transportation Audits Division
+                          Federal Acquisition Service
+ The objective of this Report Number A120060/Q/9/P13001
+ audit was to determine March 14, 2013
+ whether the Audit Policy WHAT WE FOUND
+ and Review Branch of We identified the following during our audit:
+ the Federal Acquisition Finding 1 – The Review Branch cannot determine which agencies to monitor
+ Service’s Transportation because it has not identified the universe of federal agencies subject to
+ Audits Division ensures Public Law 105-264.
+ federal agencies audit Finding 2 – The Review Branch uses a flawed methodology to measure compliance
+ all transportation bills with Public Law 105-264 and does not follow-up with non-compliant agencies.
+                          Finding 3 – The Review Branch is not analyzing readily available transportation data
+ prior to payment, as to adequately monitor compliance with Public Law 105-264.
+ required by Public Law Finding 4 – The Review Branch is not complying with federal regulations that require
+ 105-264.      If    not, evaluation and approval of federal agencies’ prepayment audit programs.
+ determine the reasons
+ for, and the impact of, WHAT WE RECOMMEND
+ the Audit Policy and Based on our audit findings, we recommend the Commissioner of the Federal
+                          Acquisition Service (FAS):
+ Review Branch’s lack of
+ oversight.               1. Direct the Review Branch to continue its efforts to identify the best method(s) to
+                               determine the universe of federal agencies required to comply with Public Law 105-
+                               264. As part of this process, the Review Branch should access the Chief Financial
+                               Officers Council website and use it as a resource for obtaining agency contact
+                               information.
+                               2. Improve compliance measurement by ensuring that complete and comparable
+                               data are used to assess agency compliance with Public Law 105-264.
+                               3. Contact agencies with low compliance rates to identify and address the reasons for
+                               lack of compliance.
+                               4. Improve monitoring of agency compliance with Public Law 105-264 by using and
+                               analyzing transportation data more thoroughly.
+                               5. Obtain, review, and approve all prepayment audit programs, as required by
+                               CFR 102-118.325 and CFR 102-118.330.
+
+
+Pacific Rim                    MANAGEMENT COMMENTS
+Field Audit Office (JA-9)      While the Acting Commissioner agreed with the audit report’s findings and
+450 Golden Gate Avenue         recommendations, FAS is seeking an exit strategy to transfer the duties and
+Room 7-5262                    responsibilities of overseeing Public Law 105-264 to the Office of Government-wide
+                               Policy. Management’s written comments to the draft report are included in their
+San Francisco, CA 94102
+                               entirety as Appendix C.
+(415)522-2744
+
+
+
+      A120060/Q/9/P13001                            i
+                  Office of Audits
+                  Office of Inspector General
+                  U.S. General Services Administration
+
+ DATE:            March 14, 2013
+ TO:              Thomas Sharpe
+                  Commissioner
+                  Federal Acquisition Service (Q)
+
+ FROM:            Perla Corpus
+                  Audit Manager
+                  Pacific Rim Field Audit Office (JA-9)
+
+
+
+
+ SUBJECT:         Audit of the Prepayment Audit Process
+                  Transportation Audits Division
+                  Federal Acquisition Service
+                  A120060/Q/9/P13001
+
+This report presents the results of our audit of the Federal Acquisition Service’s
+prepayment audit process. Our findings and recommendations are summarized in the
+Report Abstract. Instructions regarding the audit resolution process can be found in the
+email that transmitted this report.
+
+Your written comments to the draft report are included in Appendix C of this report.
+
+If you have any questions regarding this report, please contact Eric Madariaga, Auditor-
+in-Charge, at (415) 522-2730/eric.madariaga@gsaig.gov or me at (415) 522-2733/
+perla.corpus@gsaig.gov.
+
+On behalf of the audit team, I would like to thank you and your staff for your assistance
+during this audit.
+
+
+
+
+A120060/Q/9/P13001                      ii
+Table of Contents
+
+Introduction .............................................................................................................. 1
+
+
+Results
+Finding 1 – The Review Branch cannot determine which agencies to monitor
+            because it has not identified the universe of federal agencies
+            subject to Public Law 105-264 ................................................................. 3
+                 Recommendation 1 ................................................................................. 4
+Finding 2 – The Review Branch uses a flawed methodology to measure compliance
+            with Public Law 105-264 and does not follow-up with non-compliant
+            agencies .................................................................................................. 4
+                 Recommendation 2 ................................................................................. 5
+                 Recommendation 3 ................................................................................. 5
+Finding 3 – The Review Branch is not analyzing readily available
+            transportation data to adequately monitor compliance with
+            Public Law 105-264 ................................................................................. 6
+                 Recommendation 4 ................................................................................. 8
+Finding 4 – The Review Branch is not complying with federal regulations that
+           require evaluation and approval of federal agencies’ prepayment
+           audit programs ......................................................................................... 8
+                 Recommendation 5 ................................................................................. 9
+
+
+Management Comments ............................................................................................ 9
+
+
+Office of Inspector General Comments ...................................................................... 9
+
+
+Conclusion.............................................................................................................. 10
+
+Appendixes
+Appendix A – Purpose, Scope, and Methodology ............................................. A-1
+Appendix B – Prepayment Audits Criteria ......................................................... B-1
+Appendix C – Management Comments .............................................................. C-1
+Appendix D – Report Distribution ....................................................................... D-1
+
+
+
+
+     A120060/Q/9/P13001                                        iii
+Introduction
+The Federal Acquisition Service’s (FAS) Transportation Audits Division has overall
+responsibility for identifying and recovering transportation service provider (TSP)
+overcharges and other debts related to transportation bills paid by federal agencies.
+TSP services include shipping goods (household and commodities) and transporting
+individuals (via airlines, trains, and ships). In fiscal year 2011, the Office of
+Management and Budget (OMB) reported nearly $17 billion in government-wide
+transportation expenses.
+
+The key functions of the Transportation Audits Division are to:
+
+    •   Oversee the performance of prepayment audits for transportation services
+        procured worldwide;
+    •   Conduct postpayment audits of transportation bills;
+    •   Collect overcharges; and
+    •   Adjudicate TSP claims.
+
+The Transportation Audits Division is part of FAS’s Travel, Motor Vehicle, and Card
+Services portfolio and is comprised of three branches: Audit Policy and Review,
+Accounts and Collections, and Disputes Resolution. This audit focused on the Audit
+Policy and Review Branch (Review Branch).
+
+Public Law 105-264 (passed on October 19, 1998) requires that federal agencies
+conduct prepayment audits of all transportation billings. In addition, the law grants
+authority to the General Services Administration (GSA) for oversight of agencies’
+prepayment audits. This responsibility is tasked to the Review Branch.
+
+To assist federal agencies in complying with the law, GSA provides detailed rules and
+regulations that are incorporated into the Code of Federal Regulations (CFR). Title 41,
+CFR 102-118 addresses agency requirements for prepayment audits (see Appendix B
+for a list of the applicable CFR clauses).
+
+The Review Branch oversees compliance with the Public Law and the CFR by:
+
+    •   Identifying the universe of agencies subject to Public Law 105-264;
+    •   Collecting and analyzing agencies’ prepayment audit reports to determine
+        compliance rates; 1 and
+    •   Obtaining, reviewing, and approving agencies’ prepayment audit programs. 2
+
+
+1
+ The Branch calculated an agency’s compliance rate by comparing total transportation costs audited prior
+to payment to the total budgeted transportation costs as reported by the OMB (Object Class 22).
+2
+ A prepayment audit program describes an agency’s method for performing audits of transportation
+invoices prior to payment. See Appendix B for the detailed requirements of an acceptable prepayment
+audit program.
+
+
+A120060/Q/9/P13001                             1
+The objective of this audit was to determine whether the Audit Policy and Review
+Branch of the FAS Transportation Audits Division ensures that federal agencies audit all
+transportation bills prior to payment, as required by Public Law 105-264. If not,
+determine the reasons for, and the impact of, the Audit Policy and Review Branch’s lack
+of oversight.
+
+See Appendix A – Purpose, Scope, and Methodology for additional details.
+
+
+
+
+A120060/Q/9/P13001                     2
+Results
+The Review Branch is not performing effective oversight of Public Law 105-264. As a
+result, federal agencies, bureaus, or offices (federal agencies) could pay excess
+charges to transportation service providers.
+
+Finding 1 – The Review Branch cannot determine which agencies to monitor
+because it has not identified the universe of federal agencies subject to Public
+Law 105-264.
+
+The Review Branch cannot determine which agencies are not complying with Public
+Law 105-264 because it does not maintain an inventory of the federal agencies subject
+to the law. The primary reason for this is that the Review Branch lacks agency contact
+information. The Chief of the Review Branch indicated that no information exists on the
+names and addresses of agency personnel responsible for overseeing the requirements
+of prepayment audits.
+
+The Review Branch has taken steps, such as contacting the Treasury Department and
+accessing OMB’s website, to address this problem but to date it has not been
+successful. In its first effort, the Review Branch obtained a list of 1,251 federal agency
+payment offices from the Treasury Department and conducted a mass mailing in
+September 2011 requesting transportation-related information, including data about
+their prepayment audit programs. The response rate was a mere 6 percent and only 13
+prepayment audit programs were submitted. Because the mass mailing did not achieve
+its desired results, the Review Branch went to OMB’s website to identify departments
+and agencies with reported transportation costs. As a starting point, it focused on the
+25 largest departments and independent agencies. However, the OMB website lacked
+the agency contact information necessary for the Review Branch to determine the
+universe. As of June 30, 2012, the Review Branch had not received any additional
+prepayment audit program contacts.
+
+During this audit, we noted that the Chief Financial Officers Council maintains a website
+that provides a member list of Chief Financial Officers (CFO) for 28
+departments/independent agencies of the Federal Government. 3 The council consists
+of the CFOs and Deputy CFOs of the largest federal agencies, as well as senior officials
+from OMB and the Department of the Treasury. It is responsible for monitoring and
+improving financial management within the U.S. Government. This website could prove
+to be a valuable first step in developing the contact information the Review Branch
+needs.
+
+
+
+
+3
+http://cfoc.gov
+
+
+A120060/Q/9/P13001                      3
+Recommendation 1
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+1. Direct the Review Branch to continue its efforts to identify the best method(s) to
+   determine the universe of federal agencies required to comply with Public Law 105-
+   264. As part of this process, the Review Branch should access the Chief Financial
+   Officers Council website and use it as a resource for obtaining agency contact
+   information.
+
+Finding 2 – The Review Branch uses a flawed methodology to measure
+compliance with Public Law 105-264 and does not follow-up with non-compliant
+agencies.
+
+The Review Branch cannot accurately measure compliance with Public Law 105-264
+because the data it uses to compute a compliance rate is neither complete nor
+comparable. In addition, the Review Branch did not obtain explanations from agencies
+with low compliance rates.
+
+A federal agency’s compliance rate (see Table I on the following page) should represent
+the percentage of total transportation expenditures audited prior to payment to total
+actual transportation expenditures for that agency. However, the Review Branch does
+not include all agencies within a department by limiting its analysis to only those
+agencies that have submitted transportation data. To provide a valid conclusion
+regarding compliance, the Review Branch should evaluate total transportation costs
+audited prior to payment to total transportation costs incurred at an agency, bureau, or
+office level.
+
+In addition, the Review Branch compares an agency’s total transportation costs audited
+prior to payment to the department’s total budgeted transportation costs reported by
+OMB (Object Class 22). 4 A study concluded that OMB significantly underreported
+agency transportation budgets. 5 The study found that transportation costs incurred in
+fiscal year 2008 totaled between $40 billion and $50 billion, compared to the $25 billion
+reported by OMB.
+
+
+
+
+4
+ Prepayment contractor auditors were the source of this information.
+5
+ PRTM Management Consultants, LLC, a subsidiary of PricewaterhouseCoopers, issued the study in
+February 2008 titled, Governmentwide Transportation Management Study.
+
+
+A120060/Q/9/P13001                        4
+       Table I – Summary of Total Transportation Costs Audited to Total Budgeted
+                                    Fiscal Year 2011
+
+                                             CR*                                               CR*
+                                6
+    No.             Department                (%) No.                Department                (%)
+     1    Homeland Security                     7    14 Housing & Urban Development              0
+     2    Commerce                             22    15 National Archives & Records Admin.       0
+     3    Defense                              20    16 National Aeronautics & Space Admin.      0
+     4    Energy                               62    17 Nuclear Regulatory Commission            0
+     5    Education                             0    18 National Science Foundation              0
+     6    Interior                             16    19 Office of Personnel Management           0
+     7    Justice                              55    20 Small Business Administration            0
+     8    Labor                                 0    21 Social Security Administration          41
+     9    State                                 0    22 Treasury                                 2
+    10 Transportation                           0    23 U.S. Aid for International Development   0
+    11 Environmental Protection Agency 77            24 Agriculture                              1
+    12 General Services Administration         28    25 Veteran Affairs                         11
+    13 Health & Human Services                 27                    LEFT BLANK
+       0 - Data Not Available
+       * CR-Compliance Rate is calculated using the following formula:
+       Total Transportation Costs Audited Prior to Payment / Total OMB Budgeted Amount x 100
+
+The Review Branch has not followed up with the agencies listed in Table I to obtain
+explanations or track the reasons for low compliance rates. In addition, we noted no
+follow-up was performed for departments with a zero compliance rate due to
+unavailable data. Furthermore, the Review Branch has not tried to determine why some
+agencies within a given department have not reported their transportation data. For
+example, only four of the nine bureaus of the Department of Interior submitted
+prepayment audit data through their audit contractors. We could not find evidence that
+the Review Branch attempted to follow up and obtain the data. The Review Branch was
+unable to provide an explanation for the lack of agency follow-up.
+
+Recommendations 2 and 3
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+2. Improve compliance measurement by ensuring that complete and comparable data
+   are used to assess agency compliance with Public Law 105-264.
+
+3. Contact agencies with low compliance rates to identify and address the reasons for
+   lack of compliance.
+
+
+
+
+6
+All listed items are Departments of the U.S. Government with the exception of 11, 12, 15-21, and 23,
+which are independent agencies.
+
+
+A120060/Q/9/P13001                            5
+Finding 3 – The Review Branch is not analyzing readily available transportation
+data to adequately monitor compliance with Public Law 105-264.
+
+The Review Branch is not taking advantage of all available transportation data in
+monitoring agency compliance with Public Law 105-264. The Review Branch can glean
+insight regarding an agency’s transportation costs by making more effective use of
+prepayment auditor reports and FAS’s Transportation Management Services Solution
+(TMSS) system. 7 CFR 102-118.335 requires the Review Branch to verify agency
+prepayment programs through data analysis (such as assessing cost savings or other
+improvements).
+
+Prepayment Auditors’ Transportation Reports. Reports issued by prepayment
+auditors contain useful information about the amount of overcharges and the cost
+benefit of conducting a prepayment audit.
+
+As shown in Table II, in fiscal year 2011, five prepayment auditors identified nearly
+$4 million in transportation overcharges out of $114 million in total initial billings
+reviewed. The weighted average return on investment resulting from using these
+contractors was 23 dollars (i.e., 1 dollar of audit costs resulted in 23 dollars in cost
+avoidance). 8
+
+              Table II – Summary of Prepayment Audits for 5 Contract Auditors
+                                      Fiscal Year 2011
+
+                               Number of
+    Prepayment Audit            Federal        Total Billed      Total           Total         Return on
+       Contractor              Agencies          Initially      Savings*       Audit Cost     Investment
+National Traffic Service           16           $64,919,906      $3,029,262        $91,024         32
+Commercial Traffic                 11              5,499,514         195,756          8,120        23
+USTC Live Logistics                 9            34,114,135          478,048         40,875        11
+Lexicon Relocation                  1              7,288,059          48,174         45,594         0
+Parsifal                            1              2,395,377          95,530         16,890         5
+                       Total     38        $114,216,991       $3,846,770          $202,503        23**
+*Total Savings are the amounts saved due to identified overcharges.
+**Weighted Average
+
+For the 10 agencies with the highest transportation expenditures, prepayment contract
+auditors identified nearly $41 million in overcharges during the 6-year period ended
+fiscal year 2011 (Table III). These audit costs totaled $733,908; therefore, the weighted
+average return on investment was $129. 9 This type of data allows the Review Branch
+to measure the cost effectiveness and benefits of the agencies’ prepayment audits.
+
+7
+ By inputting data, federal agencies can manage and report their transportation expenditures using this
+database system via a GSA website (http://www.gsa.gov/portal/content/100737).
+8
+ The return on investment is a performance measure used to evaluate the efficiency of an investment,
+which in this case is the outlay on audit costs. It is calculated as (Savings less Audit Costs) / Audit Costs.
+9
+ We also analyzed all 37 agencies and noted total savings of $51 million and audit costs of $1.2 million
+with a weighted average return on investment of $124.
+
+
+A120060/Q/9/P13001                               6
+               Table III – Summary of Agencies Complying with Prepayment Audits
+                                      Fiscal Years 2006-2011
+
+                                        Total Amount      Total           Total        Return on
+                   Agency                   Billed       Savings*       Audit Cost    Investment
+     Navy                                $401,133,567    $24,076,947       $208,132           $115
+     Coast Guard                           84,316,819      5,831,177         26,800            217
+     Marines                                55,155,710     2,525,226         25,569             98
+     Drug Enforcement Agency                52,202,424     1,102,619         11,111             98
+     Secret Service                         52,089,974      431,866           3,468            124
+     Bureau of Prisons                      51,947,641     2,359,704          8,497            277
+     National Cemetery Administration       33,759,049      736,030         413,853                1
+     Federal Bureau of Investigation        32,370,428      395,916          10,935             35
+     Center for Disease Control             30,121,711     1,080,808          5,890            182
+     Census Bureau                          22,091,682     2,075,075         19,653            105
+                            TOTAL     $815,189,005 $40,615,368             $733,908        $129**
+ *Total Savings are the amounts saved due to identifying overcharges.
+ **Weighted Average
+
+Move managers can also provide useful information regarding transportation
+overcharges. 10 During the 6-year period ended fiscal year 2011, one move manager
+identified $785,000 in transportation overcharges for 12 agencies with billings totaling
+$41 million.
+
+In addition, the Review Branch does not thoroughly analyze internal GSA transportation
+data. Based on Finance Center and prepayment contract auditor data, we determined
+that only 54 percent of GSA’s transportation expenses were subjected to prepayment
+audits ($15,564,823 of $28,966,063). The Review Branch was unable to explain why
+the remaining 46 percent ($13,401,240) was unaudited.
+
+Transportation Management Services Solution system. GSA’s TMSS system,
+maintained by the Center for Transportation Management, 11 is another useful source of
+transportation data available to the Review Branch. Currently, 21 federal agencies are
+managing and reporting their transportation expenditures in TMSS. In fiscal year 2011,
+10 of these agencies reported more transportation expenditures in the TMSS than the
+amount audited by their prepayment contractors, indicating that these agencies were
+not in full compliance with Public Law 105-264.
+
+
+10
+  Move managers are GSA schedule contractors that manage transportation-related services for federal
+customers. These services include pre-move counseling, TSP selection, preparation of bills of lading,
+and prepayment audits.
+11
+  As part of FAS’s Office of Travel and Transportation, the Center for Transportation Management
+provides federal customers with competitive rates, industry expertise, and proper management and
+control of transportation services.
+
+
+
+A120060/Q/9/P13001                              7
+Recommendation 4
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+4. Improve monitoring of agency compliance with Public Law 105-264 by using and
+   analyzing transportation data more thoroughly.
+
+Finding 4 – The Review Branch is not complying with federal regulations that
+require evaluation and approval of federal agencies’ prepayment audit programs.
+
+The Review Branch is not complying with CFR 102-118.325. First, the Review Branch
+is not using available information from prepayment contract auditors to obtain agencies’
+prepayment audit programs. For example, three agencies of the Department of
+Homeland Security (United States Coast Guard, Secret Service, and United States
+Immigration and Customs Enforcement) provided transportation data. However, these
+agencies did not submit their prepayment audit programs to the Review Branch for final
+approval, as required in CFR 102-118.325. The Review Branch did not provide an
+explanation as to why it did not obtain their prepayment audit programs.
+
+Second, there were no prepayment audit programs for nine agencies and
+departments, 12 including the three largest: the United States Navy, the General
+Services Administration, and the United States Coast Guard. The Chief of the Review
+Branch indicated that the Navy and Coast Guard were exempt, but was unable to
+provide documentation to support these exemptions. CFR 102-118.325 requires all
+federal agencies to submit prepayment audit programs to GSA for approval by the
+Transportation Audits Division.
+
+The Review Branch approved eight prepayment audit programs without determining
+compliance with CFR 102-118.330. The Review Branch automatically approved these
+programs without evaluation because the individual agencies used a GSA schedule
+prepayment contract auditor. The Chief of the Review Branch noted that prepayment
+contract auditors on schedule are aware of the requirements of the CFR and, therefore,
+a review of the prepayment audit program elements is unnecessary. Furthermore, she
+stated that the review of prepayment audit programs would be time consuming due to
+redundant information.
+
+We evaluated 13 submitted prepayment audit programs and determined that they
+generally did not comply with CFR 102-118.330 (see Table IV).
+
+
+
+
+12
+ Besides departments of the Federal Government, independent agencies are also included.
+
+
+A120060/Q/9/P13001                           8
+               Table IV – Summary of Prepayment Audit Program Deficiencies
+                                                                                                          13
+Department                            Agency/Bureau/Office                           Missing Criteria
+Agriculture                           Risk Management                                (b) through (j)
+Federal Housing Finance Agency        Office of the Inspector General                All except (e) and (h)
+Health & Human Services               Indian Health Services (Arizona)               All except (e) and (h)
+Health & Human Services               Indian Health Services (Maryland)              All except (a), (e) and (h)
+Housing & Urban Development           Accounting Center                              All except (a), (e) and (h)
+Interior                              National Business Center                       All except (a), (e) and (h)
+Justice                               Bureau of Prisons                              (a) through (j)
+Justice                               Marshals Service                               (a) through (j)
+National Aeronautics & Space Admin.   Shared Services Center                         All except (a), (e) and (h)
+Commerce                              National Institute of Standards & Technology   (a) through (j)
+Social Security Administration        Acquisition and Grants                         (b) through (e), (i), and (j)
+Treasury                              Administrative Resource Center                 (d), (e), (i), and (j)
+Treasury                              Internal Revenue Service                       All except (a) and (f)
+
+Accordingly, the Review Branch should review the prepayment audit programs of all
+agencies that have submitted transportation data. In addition, the Review Branch
+should notify agencies to make necessary changes to ensure that programs meet the
+requirements of CFR 102-118.330.
+
+Recommendation 5
+
+We recommend the Commissioner of the Federal Acquisition Service:
+
+5. Obtain, review, and approve all prepayment audit programs, as required by
+   CFR 102-118.325 and CFR 102-118.330.
+
+Management Comments
+
+While the Acting Commissioner agreed with the audit report’s findings and
+recommendations, FAS is seeking an exit strategy to transfer the duties and
+responsibilities of overseeing Public Law 105-264 to the Office of Government-wide
+Policy (OGP). FAS will submit an action plan to address how GSA will exit from the
+prepayment audit process completely or how FAS will transfer the responsibilities to
+OGP. Management’s comments are included in their entirety as Appendix C.
+
+Office of Inspector General Comments
+
+We look forward to FAS’s corrective action plan on its exit strategy and transition of
+responsibilities to OGP concerning Public Law 105-264. However, until official notice
+has been provided by the GSA Administrator regarding the transfer of prepayment audit
+oversight, FAS’s Transportation Audits Division must continue monitoring efforts to
+ensure that federal agencies audit transportation bills prior to payment. Therefore, FAS
+must provide a corrective action plan to address each of the report’s five
+recommendations.
+13
+ See Appendix B for criteria.
+
+
+A120060/Q/9/P13001                              9
+Conclusion
+FAS is not adequately ensuring that federal agencies audit all transportation bills prior to
+payment, as required by Public Law 105-264. The Transportation Audits Division could
+assist federal agencies to minimize transportation overcharges through effective
+monitoring methods. Obtaining a complete universe, analyzing available transportation
+data, and evaluating a federal agency prepayment audit program are methods that
+could be used to improve oversight of the prepayment audit process. Although FAS is
+planning to transfer the prepayment audit oversight role to the Office of Government-
+wide Policy, the Transportation Audits Division must continue to ensure federal agency
+compliance with the Public Law until the GSA Administrator provides official notice on
+the transfer of prepayment audit oversight. Given the nearly $17 billion spent in
+government-wide transportation expenses in fiscal year 2011, the likelihood of federal
+agencies paying for transportation overcharges increases without effective oversight by
+the Transportation Audits Division.
+
+
+
+
+A120060/Q/9/P13001                       10
+Appendix A – Purpose, Scope, and Methodology
+Purpose
+
+The audit of the Transportation Audits Division, Audit Policy and Review Branch was
+included in the Office of Inspector General’s Fiscal Year 2012 Audit Plan at the request
+of FAS Office of Travel, Motor Vehicle, and Card Services.
+
+Scope
+
+Our audit generally focused on prepayment audit transactions that occurred during
+fiscal year 2011.
+
+Methodology
+
+To accomplish our objectives, we:
+
+•   Interviewed Audit Policy and Review Branch personnel, including the Branch Chief;
+•   Interviewed FAS management officials involved in program operations, including the
+    Director of Travel Transportation Services, the Director and Deputy Director of the
+    Transportation Audits Division, Branch Chiefs for Accounts and Collections and
+    Disputes Resolution;
+•   Obtained summary listing of OMB budgets and compliance rates of the top 25
+    departments and independent agencies with reported transportation expenses;
+•   Evaluated alternative methods for calculating federal department compliance rates;
+•   Requested documentation from the Review Branch for any follow-up with
+    departments with low compliance rates;
+•   Obtained relevant transportation data from five prepayment contract auditors to
+    determine the amount of transportation overcharges and the cost-benefit of
+    conducting prepayment audits for fiscal year 2011;
+•   Identified transportation overcharges and audit costs for ten agencies with the
+    highest transportation expenditures during a 6-year period ended fiscal year 2011 to
+    determine the weighted average return on investment;
+•   Obtained relevant transportation data from one move manager and determined
+    transportation overcharges for 12 agencies during a 6-year period ended fiscal year
+    2011;
+•   Requested an explanation on why 46 percent of GSA’s total transportation expenses
+    ($13 million) were not subjected to a prepayment audit;
+•   Reviewed GSA’s Transportation Management Services Solution to assess whether
+    21 federal agencies are complying with Public Law 105-264; and
+•   Reviewed 13 submitted prepayment audit programs for compliance with the
+    requirements of CFR 102-118.325.
+
+We conducted the audit between November 2011 and May 2012 in accordance with
+generally accepted government auditing standards. Those standards require that we
+
+
+A120060/Q/9/P13001                     A-1
+plan and perform the audit to obtain sufficient, appropriate evidence to provide a
+reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and
+conclusions based on our audit objectives.
+
+Internal Controls
+
+The scope of our work was limited to answering the objective of this audit. Thus, our
+assessment and evaluation of internal controls was restricted to those issues identified
+in the Results section of this report.
+
+
+
+
+A120060/Q/9/P13001                    A-2
+Appendix B – Prepayment Audits Criteria
+As noted previously, the CFR provides guidance to federal agencies in complying with
+Public Law 105-264. Title 41, CFR 102-118 addresses requirements for prepayment
+audits. The table below specifies the clauses addressed in this report.
+
+Clause        Description of Requirement
+102-118.270   Agency requirement to establish a prepayment audit program
+102-118.320   Agency requirement to submit transportation costs to the Review Branch
+102-118.325   Agency requirement to obtain final approval from the Review Branch for its prepayment audit program
+102-118.330   Elements of an acceptable prepayment audit program
+102-118.335   Review Branch requirement to verify agencies’ prepayment programs through data analysis
+
+For CFR 102-118.330, the elements of an acceptable prepayment audit program must
+provide for the following:
+
+  (a). Verify all transportation bills against filed rates and charges before payment;
+  (b). Comply with the Prompt Payment Act;
+  (c). Allow for your agency to establish minimum dollar thresholds for transportation
+       bills subject to audit;
+  (d). Require your agency’s paying office to offset, if directed by GSA’s Audit Division,
+       debts from amounts owed to the TSP within the 3 years;
+  (e). Be approved by the GSA Audit Division. After the initial approval, the agency
+       may be subject to periodic program review and re-approval;
+  (f). Complete accurate audits of transportation bills and notify the TSP of any
+       adjustment within 7 calendar days of receipt;
+  (g). Create accurate notices to the TSPs that describe in detail the reasons for any
+       full or partial rejection of the stated charges on the invoice;
+  (h). Forward documentation monthly to the GSA Audit Division;
+  (i). Establish procedures in which transportation bills not subject to prepayment audit
+       (i.e., bills for unused tickets and charge card billings) are handled separately and
+       forwarded to the GSA Audit Division; and
+  (j). Implement a unique agency numbering system to handle commercial paper and
+       practices.
+
+
+
+
+A120060/Q/9/P13001                            B-1
+Appendix C – Management Comments
+
+
+
+
+A120060/Q/9/P13001    C-1
+Appendix C – Management Comments (cont.)
+
+
+
+
+A120060/Q/9/P13001     C-2
+Appendix D – Report Distribution
+Commissioner (Q)
+
+Acting Deputy Commissioner (Q1)
+
+FAS Chief of Staff (Q0A)
+
+FAS Controller (QB)
+
+Director, Office of Travel and Transportation Services (QMC)
+
+Division Director, GAO/IG Audit Response Division (H1C)
+
+Audit Liaison (QB0A)
+
+Audit Liaison (QB0AB)
+
+Assistant IG for Auditing (JA)
+
+Deputy Assistant IG for Investigations (JID)
+
+Director, Audit Planning, Policy, and Operations Staff (JAO)
+
+
+
+
+A120060/Q/9/P13001                     D-1
+
