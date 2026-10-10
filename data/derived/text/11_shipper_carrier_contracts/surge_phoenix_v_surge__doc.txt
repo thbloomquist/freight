@@ -1,0 +1,962 @@
+            Case 3:23-ap-00085-JAB         Doc 1     Filed 09/22/23    Page 1 of 19
+
+
+
+
+                             UNITED STATES BANKRUPTCY COURT
+                                MIDDLE DISTRICT OF FLORIDA
+                                  JACKSONVILLE DIVISION
+
+
+ IN RE:
+
+ SURGE TRANSPORTATION INC.,                                Case No. 3:23-bk-1712
+                                                           Chapter 11
+               Debtor
+
+
+
+ PHOENIX CAPITAL GROUP LLC,
+ WEX Bank, INTEGRA FUNDING
+ SOLUTIONS LLC, YANKTON                                     Adversary No.:
+ FACTORING INC., ITHRIVE
+ FINANCIAL LLC,
+
+               Plaintiffs,
+
+ VS.
+
+ SURGE TRANSPORTATION INC., AND
+ TRIUMPH FINANCIAL SERVICES LLC,
+ F/K/A ADVANCE BUSINESS CAPITAL
+ LLC D/B/A TRIUMPH BUSINESS
+ CAPITAL,
+
+               Defendants.
+
+
+            ADVERSARY COMPLAINT FOR DECLARATORY JUDGMENT,
+               RELATED RELIEF, AND DEMAND FOR JURY TRIAL
+
+       Plaintiffs Phoenix Capital Group, LLC (“Phoenix), WEX Bank (“WEX”), Integra Funding
+
+Solutions, LLC (“Integra”), Yankton Factoring, Inc. (“Yankton”), IThrive Financial, LLC
+
+(“iThrive”) (collectively, “Plaintiffs”), by and through the undersigned counsel, hereby bring this
+
+complaint (this “Complaint”) against the debtor in the above captioned chapter 11 case, Surge
+
+
+                                           Page 1 of 19
+            Case 3:23-ap-00085-JAB              Doc 1    Filed 09/22/23     Page 2 of 19
+
+
+
+
+Transportation, Inc. (“Surge” or the “Debtor”) and its financier, Triumph Financial Services, LLC
+
+f/k/a Advanced Business Capital LLC d/b/a/ Triumph Business Capital (“Triumph”) (collectively,
+
+the “Defendants”), seeking a declaration that certain funds and accounts in the Defendants’
+
+possession do not constitute property of the bankruptcy estate under 11 U.S.C. §541(d) and
+
+applicable law, and should be returned to the Plaintiffs. In support, the Plaintiffs state as follows:
+
+                                   NATURE OF THIS ACTION
+
+1.      Surge operates a freight brokerage through which it coordinates the transportation of freight
+
+for shipping customers (each a "Shipper" and collectively, "Shippers") using third-party motor
+
+carriers (as that term is defined in 49 U.S.C. §13102(3)) to physically transport the freight (each a
+
+"Carrier" and collectively, the ''Carriers").
+
+2.      Surge’s business practice has been to collect a single payment from each Shipper for each
+
+freight transportation shipment made under its direction (each a “Freight Charge”), and then
+
+forward to the respective Carriers the portion of that Freight Charge representing the agreed
+
+compensation for the Carrier’s transportation services (each a “Carrier Fee”).
+
+3.      Surge and its financier, Triumph, assert that all legal and equitable title to all Freight Charge
+
+payments belongs to Surge, including the portion allotted as the Carrier Fee.
+
+4.      In other words, the Defendants assert that both Surge’s Commission as well as the Carrier
+
+Fee are both “property of the bankruptcy estate” and thus available satisfy certain pre and post-
+
+petition claims of Triumph.
+
+5.      The Plaintiffs are all factoring companies who, before this bankruptcy case was filed,
+
+purchased and took an assignment of certain Carriers’ rights and claims to the payments made by
+
+the Shippers to Surge for their respective Carrier Fees.
+
+
+
+
+                                                Page 2 of 19
+            Case 3:23-ap-00085-JAB           Doc 1     Filed 09/22/23     Page 3 of 19
+
+
+
+
+6.     The Plaintiffs bring this action to obtain a judgment (A) declaring that, pursuant to 11
+
+U.S.C. 541(d) and applicable law, the Carrier Fee portion of Freight Charges is not property of
+
+Surge’s bankruptcy estate, (B) that those amounts instead belong and should be paid to the
+
+respective Plaintiffs and are not subject to the liens and claims of the Debtor, its bankruptcy estate,
+
+Triumph or any other creditor of the Debtor, and (C) such further relief as is further necessary or
+
+proper based on the requested declaratory judgment.
+
+                                 JURISDICTION AND VENUE
+
+7.     On July 24, 2023 (the “Petition Date”), Surge filed a voluntary petition under Title 11 of
+
+the United States Code § 101, et seq. (the “Bankruptcy Code”) before the United States Bankruptcy
+
+Court for the Middle District of Florida, Jacksonville Division (the “Bankruptcy Court” or this
+
+“Court”) commencing the above styled Chapter 11 Bankruptcy Case (the “Bankruptcy Case”).
+
+8.     On August 29, 2023, this Court entered its Final Order Approving Debtor-in-Possession
+
+Financing and Pre-Petition Factoring and Security Agreement with Triumph Financial Services,
+
+LLC (Doc. No. 112) (the “DIP Order”). Among other things, the DIP Order authorizes and
+
+conditions Triumph’s post-petition financing of the Debtor, while also prohibiting Carriers from
+
+exercising any collection rights against Shippers. In paragraph 20 of the DIP Order, this Court
+
+retained jurisdiction to enforce the DIP Order according to its terms. Further, Paragraph 24 of the
+
+DIP Order provides that all parties-in-interest have a right to object to certain alleged ownership
+
+and security interests in the Freight Charges by commencing a proceeding with the Bankruptcy
+
+Court on or before an “Objection Deadline,” which is sixty days following the entry of the DIP
+
+
+
+
+                                            Page 3 of 19
+              Case 3:23-ap-00085-JAB                Doc 1      Filed 09/22/23         Page 4 of 19
+
+
+
+
+Order (i.e. October 28, 2023)1. This Complaint is timely filed as mandated by both the Interim
+
+Order and the DIP Order.
+
+9.       This matter primarily involves the rights and obligations among the Plaintiffs and the non-
+
+debtor Shippers relating to funds that Plaintiffs contend should be excluded from property of
+
+Surge’s bankruptcy estate. As such, this is a non-core matter pursuant to 28 U.S.C. §§ 157(b) and
+
+(c).
+
+10.      The Bankruptcy Court has jurisdiction of this adversary proceeding pursuant to its prior in
+
+this Bankruptcy Case and, in turn, 28 U.S.C. §1334.
+
+11.      Venue is proper pursuant to 28 U.S.C. § 1409.
+
+12.      This adversary proceeding is commenced pursuant to Rules 7001(2), (7) and (9) of the
+
+Federal Rules of Bankruptcy Procedures (the “Bankruptcy Rules”).
+
+13.      Declaratory relief is appropriate pursuant to both Rule 7001 of the Bankruptcy Rules and
+
+28 U.S.C. §§ 2201 and 2202 (the “Declaratory Judgment Act”).
+
+14.      As set forth below, an actual legal controversy exists with respect to the declaratory relief
+
+requested in this Complaint.
+
+15.      Pursuant to Rule 7008 of the Bankruptcy Rules, Plaintiffs do not consent to the entry of a
+
+final judgment or order with respect to this Complaint if it is determined that this Court would lack
+
+Article III jurisdiction to enter such final order or judgment absent the consent of the parties.
+
+
+
+
+1
+         Notably, in Paragraph 24 of its July 27, 2023 Interim Order Approving Debtor-in-Possession Financing and
+Pre-Petition Factoring and Security Agreement with Triumph Financial Services, LLC (Doc. No. 40) (the “Interim
+Order”), this Court previously set a similar “Objection Deadline” sixty days after its entry (i.e. September 25, 2023).
+
+                                                   Page 4 of 19
+               Case 3:23-ap-00085-JAB           Doc 1     Filed 09/22/23      Page 5 of 19
+
+
+
+
+                                              THE PARTIES
+
+16.        Plaintiff Phoenix is an Arizona limited liability company with its principal place of business
+
+in Arizona. Phoenix provides freight factoring services.
+
+17.        Plaintiff WEX is a Utah chartered industrial bank. WEX provides freight factoring
+
+services.
+
+18.        Plaintiff Yankton is a South Dakota Corporation with its principal place of business in
+
+South Dakota. Yankton provides freight factoring services.
+
+19.        Plaintiff iThrive is a Utah limited liability company with its principal place of business in
+
+Utah. iThrive provides freight factoring services.
+
+20.        Plaintiff Integra is a division of T Bank with its principal place of business in Texas. Integra
+
+provides freight factoring services.
+
+21.        Defendant Triumph is based in Texas but has availed itself to jurisdiction in Florida and of
+
+this Bankruptcy Court.
+
+22.        Defendant Surge is a Florida Corporation based in the state of Florida and is the debtor and
+
+debtor-in-possession in the Bankruptcy Case.
+
+                                             BACKGROUND
+
+      I.      HOW THE DEBTOR OBTAINED POSSESSION OF THE PLAINTIFFS’
+              CARRIER FEES
+
+23.        The Debtor, Surge, does not own a fleet of trucks, does not employ drivers, nor does it
+
+actually ship anything. Surge is, instead, an intermediary who arranges the transportation of its
+
+customers’ goods in interstate commerce and is registered to perform those services as a freight
+
+broker (as that term is defined at 49 U.S.C. § 13102(2)) by the US Department of Transportation
+
+under Docket Number MC-518710 and US DOT number 223955.
+
+
+                                                Page 5 of 19
+            Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23      Page 6 of 19
+
+
+
+
+24.    Upon information and belief, when a customer wanted goods to be transported, those
+
+Shippers and Surge entered into one or more agreements governing their relationships (each a
+
+“Broker-Shipper Agreement”).
+
+25.    Under a Broker-Shipper Agreement, a Shipper granted Surge the authority to select
+
+Carriers to transport the subject freight, and Surge served as an agent authorized by the Shippers
+
+to negotiate and arrange for transportation of their shipments in interstate commerce.
+
+26.    Surge also had arrangements with a large number of Carriers in order to have access to,
+
+and the use of, the personnel and equipment needed to physically transport the Shippers’ freight
+
+when requested.
+
+27.    To that end, Surge would enter into an agreement with many of the Carriers using a contract
+
+known as a standardized Broker Carrier Agreement (each a “Broker-Carrier Agreement”).            A
+
+representative example of a Broker-Carrier Agreement is attached to this Complaint as EXHIBIT
+
+1.
+
+28.    The Broker-Carrier Agreements reflect the parties’ intent and understanding that Surge
+
+would invoice its Shippers for both the Commission and Carrier Fee, and that Surge would
+
+immediately transmit payment of the Carrier Fee to the respective Carrier upon receipt of the same
+
+from the Shipper.
+
+29.    Once Surge selected a Carrier for a particular shipment, as required under federal law, viz.
+
+49 U.S.C. §14706 and 49 C.F.R. Part 373 a bill of lading would issue for each shipment setting
+
+forth the Shipper, the Carrier, freight and other terms relevant to that particular shipment.
+
+30.    The Carriers then transported the subject freight and, upon delivery of each shipment,
+
+would submit to Surge the documentation necessary to permit Surge to invoice the Shipper for the
+
+
+
+
+                                            Page 6 of 19
+              Case 3:23-ap-00085-JAB                 Doc 1      Filed 09/22/23         Page 7 of 19
+
+
+
+
+amount of the Carrier Fee, as was agreed to in the Broker-Carrier Agreement and related load
+
+confirmation.
+
+31.      Surge earned its income by adding a mark-up or charging a commission on the Carrier Fee
+
+charges (the “Commission”).
+
+32.      Although the Carrier Fee and the Commission are separate and independent of each other,
+
+as provided in the Broker-Carrier Agreements (and as is common practice in the transportation
+
+industry), the parties agreed that Surge would issue a single invoice and collect from its Shipper
+
+customers a single payment for all Freight Charges, composed of both the Carrier Fee and the
+
+Commission that Surge charged.
+
+33.      Upon information and belief, at all relevant times Surge and Triumph have tracked and
+
+known exactly the amount of the Carrier Fee associated with each Account2 the Carriers earned
+
+for their transportation services (and which now belong to the Plaintiffs by their purchase and
+
+taking an assignment of the Carrier Fees, as explained below).
+
+34.      Upon information and belief, at all relevant times Surge and Triumph have tracked and
+
+known exactly the amount of the Commission on each Account that Surge earned and is entitled
+
+to for its freight broker services (which belong to Surge).
+
+35.      The Carriers and Surge intended and agreed that Surge would serve as the Carriers’
+
+collection agent for the Carrier Fees paid by the Shippers. This intent and agreement is evidenced
+
+by the express terms of the Broker-Carrier Agreements, wherein the Carriers granted Surge the
+
+exclusive right to handle, on their behalf, the billing and collection of the Carrier Fee from the
+
+
+
+2
+          As used in this Complaint, and pursuant to the Uniform Commercial Code (the “UCC”), the term “Account”
+is defined to include “a right to payment of a monetary obligation, whether or not earned by performance, (i) for
+property that has been or is to be sold, leased, licensed, assigned, or otherwise disposed of, (ii) for services rendered
+or to be rendered, . . .” (UCC 9-102(2)).
+
+
+
+                                                    Page 7 of 19
+             Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23    Page 8 of 19
+
+
+
+
+Shippers and, as such, agreed to “refrain” from all collection efforts unless otherwise authorized
+
+by Surge in writing.
+
+36.    The agreement of Carriers to refrain from enforcing their billing and collection rights under
+
+applicable law was predicated on the Carriers’ reasonable reliance on Surge’s reciprocal agreement
+
+that it would (a) handle all billing of the Carrier Fee to the Shippers, and then (b) merely serve as
+
+a trusted intermediary, functioning as a mere conduit by transmitting the Carrier Fees to each
+
+respective Carrier immediately upon Surges’ receipt of the same from each respective Shipper.
+
+37.    Nothing in the Broker-Carrier Agreement or otherwise granted Surge unfettered control of,
+
+or any other right to use, those Carrier Fees for its own purposes. Instead, the intent and express
+
+agreement of those parties contemplates that the Carrier Fees were to be delivered to and accepted
+
+to Surge only temporarily, and that “upon receipt” they were to be redelivered to the Carriers (or,
+
+here, the Plaintiffs as the assignees of the Carrier Fees).
+
+38.    Defendant Surge arranged, and the Carriers provided, transportation services for
+
+numerous shipments that resulting in the Carrier Fees evidenced by, among other things,
+
+COMPOSITE EXHIBIT 2 to this Complaint.
+
+39.    Defendant Surge billed the respective Shippers for the Freight Charges evidenced in
+
+Exhibit 2.
+
+40.    Included in the Freight Charges the Shipper paid, or will pay, to Surge are the respective
+
+Carrier Fees collected for the benefit of the Carriers, as evidenced by Exhibit 2.
+
+41.    Having been induced by Surge, the Carriers placed their trust and confidence in Surge
+
+and the Carriers justifiably relied on Surge’s express and implied promises to invoice, collect and
+
+timely forward to the Carriers the Carrier Fees (for the transportation services they had provided)
+
+upon receipt of those funds from the Shippers with respect to each shipment.
+
+
+
+                                             Page 8 of 19
+                Case 3:23-ap-00085-JAB           Doc 1     Filed 09/22/23      Page 9 of 19
+
+
+
+
+42.         However, Surge did not transmit payment of the Carrier Fees to their respective owners
+
+(here, the Plaintiffs) upon receipt, as it was obligated to do.
+
+43.         The Carriers would not have entered into the Broker-Carrier Agreements nor provided
+
+their transportation services for the benefit of the Shippers and Surge had they known Surge did
+
+not intend to fulfil its oblations and duty to transmit the Carrier Fees its Surge’s receipt of the
+
+same from the Shippers.
+
+      II.       HOW THE PLAINTIFF’S OBTAINED THE RIGHTS OF THE CARRIERS
+
+44.         Plaintiffs are in the factoring business, which involves the purchase of Accounts from
+
+businesses. In factoring, the entity that purchases the Accounts is known as the “Factor.” The
+
+Plaintiffs are Factors.
+
+45.         The entity from whom the Factor purchases the Accounts is the “Factoring Client.” The
+
+Factoring Client’s customer, who owes payments on the Account, is an “Account Debtor.”
+
+46.         As a Factor, each Plaintiff advances funds to their Factoring Clients by purchasing certain
+
+of the Factoring Client’s Accounts.
+
+47.         The Plaintiffs also take a security interest in the Factoring Client’s assets (including but not
+
+limited to its Accounts and the proceeds thereof) to secure repayment of the Factoring Client’s
+
+obligations.
+
+48.         To enforce collecting those Accounts, Plaintiffs provide a statutory notice of assignment to
+
+the Factoring Client’s customers (i.e., its Account Debtors). The notice instructs the Account
+
+Debtors that the Factoring Client’s Accounts have been assigned to Plaintiff for payment and that
+
+all obligations owed to the Factoring Client are to be paid directly to Plaintiff (including amounts
+
+owed on Accounts which the Factor has not purchased).
+
+
+
+
+                                                 Page 9 of 19
+                Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23     Page 10 of 19
+
+
+
+
+49.          With respect to the Accounts that a Factor has purchased, once purchased, the Factoring
+
+Client does not retain any legal or equitable interest in the Account sold and, as such, all legal and
+
+equitable interests in the sold Accounts, including the exclusive right to receive payments made
+
+by the respective Account Debtors, vest solely with the Factor (here, the Plaintiffs).
+
+50.          As such, Plaintiffs “stand in the shoes” of the Carriers and thus obtained and maintain the
+
+right to claim, sue for, collect, and retain the Accounts (and the proceeds thereof) of the assignor
+
+Carriers as evidenced on the attached and incorporated Composite Exhibit 2.
+
+      III.      TRIUMPH’S INVOLVEMENT AND THE BANKRUPTCY FILING
+
+51.          Triumph is a factoring company active in the transportation industry that provided pre-
+
+petition financial accommodations to Surge, as a broker.
+
+52.          Triumph asserts that, before the Petition Date, it factored certain receivables generated by
+
+Surge’s brokerage services and claims a lien in Surge’s other assets, including liens in Accounts
+
+that it did not purchase as part of its factoring activities.
+
+53.          As a factoring company active in the transportation industry, and as Surge’s long time
+
+financier, Triumph knew or should have known that the invoices Surge issued to Shippers were
+
+comprised of both the Commission (which was Surge’s receivable) and the Carrier Fee (which did
+
+not belong to Surge and was instead to be immediately transmitted to the respective Carrier upon
+
+Surge’s receipt of the same from the Shipper).
+
+54.          Nevertheless, Surge purported to factor and encumber the entire amount of the Freight
+
+Charges knowing that Surge had intentionally breached its obligations and duties by not
+
+transmitting the Carrier Fees to their rightful owners (the Plaintiffs, as assignees of the Carriers).
+
+55.          After the Bankruptcy Case was filed, Triumph provided continuing factoring and financial
+
+accommodations to the Debtor pursuant to the Interim Order and DIP Order, and continued to
+
+
+
+                                                Page 10 of 19
+            Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23      Page 11 of 19
+
+
+
+
+assert ownership and secured claims in, among other things, Carrier Fees that do not belong to
+
+Surge.
+
+56.      Since the Bankruptcy Case was filed, the Defendants have been collecting payments from
+
+Shippers pursuant to the authorization of this Court and have used the Bankruptcy Case to
+
+preclude Carriers (and their assignees, like the Plaintiffs) from exercising their otherwise
+
+available collection rights.
+
+57.      By so doing, during that time Surge has reduced its debt to Triumph by not less than Six
+
+Million Dollars.
+
+58.      Surge, Triumph and/or their respective counsel are holding an excess of Six Million dollars
+
+from such collections of the Freight Charges.
+
+59.      Most of the funds collected by Surge and/or Triumph during this period were derived from
+
+the payments made by Shippers to Surge for the Carrier Fees generated by the Carriers’ provision
+
+of transportation services.
+
+60.      The Defendants’ actions have caused harm, and continue to cause increasing harm, to the
+
+Plaintiffs who are the rightful owners and assignees of the Carrier Fees. The Defendants have
+
+been, and continue to be, unjustly enriched by failing to deliver the Carrier Fees to their rightful
+
+owners.
+
+61.      Once collected or held by one or more of the Defendants, the Carrier Fees constitute the
+
+res of an express or, alternatively, implied trust for the benefit of the Carriers and/or Plaintiffs as
+
+assignees of the Carrier Fees (the “Trust Funds”).
+
+62.      At all times relevant hereto, Surge, acted as a trustee and agent who was obligated to
+
+invoice, collect, account for, and transmit the Carrier Fees to and for the benefit of the Plaintiffs
+
+(as assignees of the Carrier Fees) upon receipt.
+
+
+
+                                            Page 11 of 19
+           Case 3:23-ap-00085-JAB           Doc 1     Filed 09/22/23     Page 12 of 19
+
+
+
+
+63.    In addition to its contractual obligations, in the ordinary course of Surge’s business, as a
+
+matter of transportation industry protocol, and in its course of dealing with Plaintiffs and the
+
+relevant Carriers, Surge was similarly obligated to invoice, collect and transmit the Carrier Fee for
+
+the services that had been provided upon receipt of those payments from the Shippers.
+
+64.    As agreed to by Surge and the Carriers, as well as pursuant to motor carrier industry
+
+protocols, the parties’ course of dealing, and practice and regulatory requirements governing the
+
+transportation industry, Surge served as merely a conduit entrusted by the Carriers and the
+
+Plaintiffs, who justifiably relied upon Surge to collect, hold in trust for their benefit, and timely
+
+pay over all Trust Funds that Surge collected from the Shippers for the freight transportation
+
+services that had been previously provided by Carriers.
+
+65.    Given the circumstances described in this Complaint, to the extent it has taken possession,
+
+control, or otherwise encumbered the Trust Funds, Triumph also acted (and continues to act) as a
+
+trustee and agent of the Carriers and the Plaintiffs (as assignees of the Carrier Fees).
+
+66.    Consistent with the agreements and course of dealing between the Carriers and Surge,
+
+Surge promised to pay for freight movements by the Carriers; the Carriers relied on the contracts,
+
+industry protocols, and the course of dealing between them and Surge; an agency relationship of
+
+trust and confidence existed between the Plaintiffs and Surge; and Surge and Triumph have been
+
+unjustly enriched by not paying or turning over the Carrier Fee portion of each Account when
+
+collected by Surge or Triumph.
+
+67.    The Defendants wrongfully appropriated the Trust Funds by failing to account for and
+
+properly transmit the Carrier Fees to their rightful owners, and by instead knowingly transferring
+
+some or all the Trust Funds to improper third parties, including primarily Defendant Triumph.
+
+68.    No Defendant holds any equitable interest in the Trust Funds.
+
+
+
+                                           Page 12 of 19
+            Case 3:23-ap-00085-JAB          Doc 1    Filed 09/22/23      Page 13 of 19
+
+
+
+
+69.    Under the facts and circumstances pleaded herein, it would be inequitable for either of the
+
+Defendants to be allowed to enjoy a beneficial or other equitable or legal interest in such Trust
+
+Funds, and the Defendants would be unjustly enriched if they were to be permitted to continue to
+
+retain, use, or otherwise derive any benefit from the Trust Funds, and should be estopped from
+
+doing so.
+
+70.    The Defendants have failed and refused to remit the Trust Funds to the Plaintiffs.
+
+71.    The Defendants have failed refused to account for their collections of the Freight Charges,
+
+including the Commissions that Surge earned as a freight broker as well as the amount of the
+
+Carrier Fees belonging to the Carriers that constitute the Trust Funds in their possession.
+
+72.    The Defendants’ continuing failure or refusal to remit the Trust Funds to Plaintiffs
+
+constitutes an unlawful breach of their fiduciary duties, contractual agreements, and other legal
+
+obligations.
+
+73.    The named Plaintiffs are the owners of the Trust Funds and are the equitable title holder
+
+to that property as beneficiaries of the trusts containing the Trust Funds, and such Plaintiffs are
+
+entitled to immediate payment of the Trust Funds free and clear of any and all liens, claims and
+
+encumbrances.
+
+74.    The DIP Order states that it did not adjudicate the ownership of any part of the pre-petition
+
+Freight Charges.
+
+75.    This Complaint is filed within 60 days following entry of the DIP Order.
+
+76.    All conditions precedent to the bringing of this action have occurred or been waived.
+
+
+
+
+                                           Page 13 of 19
+            Case 3:23-ap-00085-JAB           Doc 1     Filed 09/22/23   Page 14 of 19
+
+
+
+
+                                         COUNT I
+                              DECLARATORY JUDGMENT
+            (The Carrier Fee Portion of Freight Charges are not Estate Property)
+
+                                  Asserted Against All Defendants
+77.     The allegations of all preceding paragraphs are incorporated herein by reference as if set
+
+forth herein.
+
+78.     An actual legal and substantial controversy exists as to whether (a) the Carrier Fees paid to
+
+Surge or Triumph by Shippers constitute “property of the estate” in this Bankruptcy Case, or (b)
+
+are instead excluded from property of the bankruptcy estate by operation of law.
+
+79.     This controversy if of sufficient immediacy and import to warrant judicial relief under the
+
+Declaratory Judgment Act, 28 U.S.C. §§2201-2202.
+
+80.     For the reasons set forth above, the Defendants have a mere possessory interest in the
+
+Carrier Fees. At most, the Defendants could hold only bare legal title of the Carrier Fees, with
+
+equitable title to the Trust Funds vested in the Plaintiffs.
+
+81.     Accordingly, and in either event, those funds are excluded from property of Surge’s
+
+bankruptcy estate under 11 U.S.C. § 541(d) and applicable law.
+
+82.     Further, to the extent Triumph had, has or obtains possession of the Trust Funds, it holds
+
+such amounts in trust for the benefits of the Plaintiffs.
+
+                                          COUNT 2
+                                     UNJUST ENRICHMENT
+
+                                  Asserted Against All Defendants
+83.     The allegations of all preceding paragraphs are incorporated here and by reference as of
+
+set forth herein.
+
+
+
+
+                                            Page 14 of 19
+            Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23      Page 15 of 19
+
+
+
+
+84.     The Defendants received Trust Funds representing payments to the Shippers for the
+
+valuable transportation services they had provided. Defendants are not entitled to keep those Trust
+
+Funds, which instead belong to the Plaintiffs as the Carriers’ assignees.
+
+85.     The Defendants continue to improperly hold such Trust Funds.
+
+86.     The Defendants owe Plaintiffs the full amount of the Trust Funds they collected from the
+
+Shippers.
+
+87.     The Defendants would be unjustly enriched if they were to be allowed to keep the Trust
+
+Funds, particularly in that they knew the Trust Funds were not earned by Surge, nor the property
+
+of Surge, and instead belonged to the Plaintiffs.
+
+88.     Surge promised to pay for freight movements by the Carriers; the Carriers relied on the
+
+contracts, protocols and course of dealing between them and Surge; a business and trust
+
+relationship existed between the Carriers and Surge; and Surge and Triumph have been unjustly
+
+enriched by not paying or turning over the Carrier Fee portion of each Account collected by Surge
+
+or Triumph from the Shippers.
+
+89.     The Plaintiffs are entitled to recover the amount of such Trust Funds from the Defendants
+
+based upon the equitable doctrine of unjust enrichment as a result of failure to fulfil their fiduciary
+
+duties and obligations, and such other relief as may warranted.
+
+                                           COUNT 3
+                                        EQUITABLE LIEN
+
+                                     Asserted Against Triumph
+90.     The allegations of all preceding paragraphs are incorporated here and by reference as of
+
+set forth herein.
+
+91.     Surge’s indebtedness to Triumph is purportedly secured by a security interest in, inter alia,
+
+all accounts receivable, but only to the extent Surge has an interest in the same.
+
+                                            Page 15 of 19
+            Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23     Page 16 of 19
+
+
+
+
+92.      Plaintiffs are informed and believe that at some point prior to the filing of the petition in
+
+bankruptcy by Surge, Triumph became aware of the precariousness of Surge’s financial condition
+
+and knew, or should have known, that Surge would be unable to continue in business absent a
+
+merger with another entity or infusions of fresh capital which Triumph was unwilling to provide.
+
+93.      Plaintiffs are informed and believe that once Triumph became aware of Surge’s financial
+
+condition, Triumph imposed various controls on Surge’s business operations as a condition for
+
+extending further credit and/or forbearing default on Triumph’s then-existing credit facility with
+
+Surge.
+
+94.      Plaintiffs are informed and believe that during the period that Surge was operating under
+
+Triumph’s controls, only those operating expenses Triumph deemed necessary to keep the Debtor
+
+operating (and generating accounts receivable that would service Triumph’s debt such as rent,
+
+payroll and utilities) were reviewed and approved by Triumph.
+
+95.      Plaintiffs are informed and believe that Triumph intended to continue Surge’s operations
+
+for as long as possible in order to generate as much revenue as possible, much of which was used
+
+to reduce the debt owed to Triumph, without paying the third parties whose services generated that
+
+revenue.
+
+96.      Plaintiffs are informed and believe that having effectively shifted as much as possible of
+
+the debt owed to Triumph into unsecured debt owed to trade creditors, Triumph either intended
+
+that Surge would thereafter file a voluntary bankruptcy petition, and/or was indifferent to Surge’s
+
+continuing existence and the resulting adverse impacts on other stakeholders of Surge.
+
+97.      The business activities conducted by Surge while operating under the controls imposed by
+
+Triumph included placing cargo for the shipment of goods with various motor carriers, including
+
+the Carriers who sold their Accounts to the Plaintiffs.
+
+
+
+                                            Page 16 of 19
+           Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23     Page 17 of 19
+
+
+
+
+98.     Plaintiffs are informed and believe that both Surge and Triumph intended that Freight
+
+Charges collected by Surge, which the Defendants knew included Carrier Fees belonging others,
+
+would be diverted to improperly reduce the debt Surge owed to Triumph.
+
+99.     Plaintiffs are informed and believe that such placement of cargos with the Carriers was
+
+done with actual or constructive knowledge by both Defendants that Surge would not pay the
+
+Carriers their Carrier Fees, and thus wrongfully induced the Carrier to provide their valuable
+
+transportation services.
+
+100.    Plaintiffs are informed and believe these activities continued up to, and after the Petition
+
+Date.
+
+101.    Such business activities constitutes inequitable conduct on the part of Triumph, especially
+
+with respect to inducing the Carriers to transported cargo at Surge’s request after Triumph knew,
+
+or should have known, doing so would deepen Surge’s financial distress to the detriment of all
+
+stakeholders, other than Triumph.
+
+102.    Because of Triumph’s inequitable conduct with respect to the Carriers and their Accounts,
+
+Triumph should be estopped from asserting any rights or claims to the Carrier Fees in this matter.
+
+103.    To the extent Triumph is deemed to hold or have held the Trust Funds, Triumph’s right,
+
+title and interest in them should be deemed subordinated to an equitable lien securing in favor of
+
+Plaintiffs in and to the Trust Funds, to the extent the Plaintiffs do not otherwise have legal remedy
+
+enabling recovery of the same.
+
+                                     PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiffs respectfully request that judgment be entered in their favor pursuant
+
+to 28 U.S.C. 2021 and 2022 declaring:
+
+
+
+
+                                           Page 17 of 19
+            Case 3:23-ap-00085-JAB            Doc 1    Filed 09/22/23      Page 18 of 19
+
+
+
+
+(1) Any Trust Funds paid to Surge or Triumph by Shippers are excluded from “property of the
+
+    estate” in this Bankruptcy Case;
+
+(2) that the Carriers or their assignees, the Plaintiffs, are sole owners of all right, title and
+
+    interest to the respective Trust Funds;
+
+(3) that all Trust Funds collected, or to be collected, by Surge and/or Triumph shall be
+
+    segregated and held in trust for the benefit of the Plaintiffs;
+
+(4) that Surge and Triumph shall provide an accounting of all Freight Charges, including the
+
+    Commission and the Trust Funds
+
+(5) The Plaintiffs individually or collectively, are permitted to take such collection actions as
+
+    they deem necessary against parties (other than Surge, for which further order of this Court
+
+    would be required), for recovery of the amount of the unpaid Carrier Fees;
+
+AND further respectfully request the entry of a judgment in favor of Plaintiffs against Triumph
+
+(A) for unjust enrichment and requiring Triumph to abandon and turnover to Plaintiffs forthwith
+
+any Trust Funds that were or are in its possession or control; (B) subordinating the claims of
+
+Triumph to an equitable lien in favor the Plaintiffs with respect any other Trust Finds; (C) awarding
+
+costs, attorneys fees and interest to the Plaintiffs as appropriate, and (D) such further relief as this
+
+Court deems just and proper.
+
+
+
+
+                                            Page 18 of 19
+            Case 3:23-ap-00085-JAB          Doc 1     Filed 09/22/23    Page 19 of 19
+
+
+
+
+                                     JURY TRIAL DEMAND
+Plaintiffs hereby demand a jury trial on all issues so triable.
+
+
+Dated: September 22, 2023
+                                                       Respectfully submitted,
+
+        /s/Chad S. Bowen
+                                                       /s/ Chad S. Bowen______
+      David J. Jencks (admitted pro hac vice)          Chad S. Bowen
+      JENCKS LAW, P.C.                                 Florida Bar No. 0138290
+      121 North Egan                                   BOWEN LAW GROUP
+      PO Box 442                                       P.O. Box 173442
+      Madison, SD 57042                                Tampa Florida 33672
+      Phone: 605.256.0121                              (T :) (813) 335-9782
+      Email: davidjencks@jenckslaw.com                 (F :) (813) 489-4344
+                                                       Email: chad@bowenLG.com
+      Counsel for Plaintiffs                           Local Counsel for Plaintiffs
+
+
+
+
+                                            Page 19 of 19
+

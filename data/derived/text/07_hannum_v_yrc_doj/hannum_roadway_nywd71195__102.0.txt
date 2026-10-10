@@ -1,0 +1,1353 @@
+   Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 1 of 25
+
+
+
+
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF NEW YORK
+BUFFALO DIVISION
+
+UNITED STATES OF AMERICA, ex rel.
+JAMES HANNUM,
+
+              Plaintiffs,
+                                        Case No. 08-CV-0811
+     vs.
+
+YRC FREIGHT, INC.; ROADWAY
+EXPRESS, INC.; and YELLOW
+TRANSPORTATION, INC.,
+
+              Defendants.
+
+
+     DEFENDANTS’ OBJECTIONS TO MAGISTRATE JUDGE ROEMER’S
+                 REPORT AND RECOMMENDATION
+
+
+
+
+                                       Sean Cenawood, NY2463750
+                                       1221 Avenue of the Americas
+                                       New York, NY 10020-1089
+                                       Telephone: (212) 768-6700
+                                       Facsimile: (212) 768-6800
+                                       sean.cenawood@dentons.com
+
+                                       Stephen L. Hill, Jr., #MO36033
+                                       Sara M. Holzschuh, #KS24864
+                                       4520 Main Street, Suite 1100
+                                       Kansas City, Missouri 64111
+                                       Telephone: (816) 460-2400
+                                       Facsimile: (816) 531-7545
+                                       stephen.hill@dentons.com
+                                       sara.holzschuh@dentons.com
+                                       Pro Hac Vice Appearance
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 2 of 25
+
+
+
+
+       Defendants Roadway Express, Inc. (“Roadway”), Yellow Transportation, Inc. (“Yellow”),
+
+and YRC Freight, Inc. (“YRC Freight”) (collectively, “Defendants”), by counsel and pursuant to
+
+Federal Rule of Civil Procedure 72, 28 U.S.C. § 636, and Local Rule of Civil Procedure 72,
+
+respectfully submit the following Objections to Magistrate Judge Roemer’s Report and
+
+Recommendation (“R&R”).
+
+                  INTRODUCTION AND PERTINENT BACKGROUND
+
+       Relator James Hannum (the “Relator”) filed the initial complaint in this action, which the
+
+Government moved to seal, on November 3, 2008. (D.E. 1 & 2.) More than 10 years later and
+
+following no less than a half dozen Motions for Extension of Time to Consider Electing to
+
+Intervene, the Government filed its Complaint-in-Intervention (“Complaint”) on December 12,
+
+2018. (ECF 72.) It is uncontroverted and clear from the face of the complaint that, during that
+
+decade-long period, the Government, with express knowledge of the Defendants’ interpretation of
+
+their obligations under the relevant rules and regulations, never refused to make a single payment
+
+to Defendants for the full amount of any invoice, and at no time initiated the various remedies
+
+afforded to it by law based on its purported view that Defendants’ interpretation was erroneous,
+
+much less fraudulent.
+
+       The Government alleged in its Complaint that there were four contracts awarded to
+
+Roadway and Yellow by the United States Army Surface Deployment and Distribution Command
+
+(“SDDC”). (Compl. ¶ 29.) The Government raised five causes of action for monetary recovery
+
+at issue in this Objection.1 Counts I-II are alleged violations of the False Claims Act, 31 U.S.C.
+
+
+
+
+1
+ The Magistrate Judge has recommended that Count III be dismissed, with which Defendants
+agree and do not object.
+
+
+                                                1
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 3 of 25
+
+
+
+
+§§ 3729-3733 (“FCA”) against all of the Defendants, jointly and severally. Counts IV-VI are
+
+common-law allegations of unjust enrichment, payment by mistake, and breach of contract.
+
+       As discussed herein, the R&R, aside from its proper dismissal of Count III, must otherwise
+
+be rejected in its entirety. It contains significant legal error that, if adopted, would violate the
+
+Federal Rules of Civil Procedure and substantial due process, as well as unnecessarily multiply
+
+the time and resource costs that have already beset this over-a-decade-long proceeding.
+
+                             ARGUMENTS AND AUTHORITIES
+
+I.     Standard of Review of Magistrate Judge’s R&R
+
+       A district court reviewing a magistrate judge’s recommendations “may accept, reject, or
+
+modify, in whole or in part, the findings or recommendations made by the magistrate judge.” 28
+
+U.S.C. § 636(b)(1). With respect to recommendations on a dispositive matter, such as Defendants’
+
+Rule 12(b)(6) motion, the district court must review de novo all aspects of the recommendations
+
+to which a party has objected. See id. (“A judge of the court shall make a de novo determination
+
+of those portions of the report or specified proposed findings or recommendations to which
+
+objection is made.”); Fed. R. Civ. P. 72(b)(3) (“The district judge must determine de novo any part
+
+of the magistrate judge’s disposition that has been properly objected to.”).
+
+       While an objection ordinarily may not simply refer to previously filed papers or arguments,
+
+the district court must review de novo prior-presented arguments where the magistrate judge
+
+committed legal error. E.g., Freeman v. HSBC Holdings PLC, 413 F. Supp. 3d 67, 75–76
+
+(E.D.N.Y. 2019); Watson v. Geithner, No. 11-CV-9527 (AJN), 2013 WL 5441748, at *2
+
+(S.D.N.Y. Sept. 27, 2013) (“[A]n objection that a magistrate’s purely legal ruling was faulty may
+
+require convincing the district judge of an argument that the magistrate rejected; the only way for
+
+a party to raise such arguments is to reiterate them.”); see also Moss v. Colvin, 845 F.3d 516, 519
+
+
+
+
+                                                 2
+      Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 4 of 25
+
+
+
+
+n.2 (2d Cir. 2017) (quoting Watson approvingly).
+
+       With respect to a magistrate’s decision on non-dispositive matters, such as Defendants’
+
+motion to transfer pursuant to 28 U.S.C. § 1404, Rule 72(a) provides that a party may object and
+
+the district court must “modify or set aside any part of the order that is clearly erroneous or is
+
+contrary to law.” Fed. R. Civ. P. 72(a); see also 28 U.S.C. § 636(b)(1)(A) and L.R. Civ. P. 72(a).
+
+II.    The Government’s Remaining Claims Must Be Dismissed as a Matter of Law
+
+       To survive a motion to dismiss under Rule 12(b)(6), a complaint must state a claim that is
+
+“plausible” on its face. Ashcroft v. Iqbal, 129 S.Ct. 1937, 1943 (2009) (quoting Bell Atlantic Corp.
+
+v. Twombly, 550 U.S. 544, 570 (2007)); Fed. R. Civ. P. 8(a) (requiring “a short and plain statement
+
+of the claim showing that the pleader is entitled to relief”). “A complaint’s legal conclusions, even
+
+when they are couched as factual allegations, are not entitled to any assumptions of truth and
+
+should be disregarded.” Iqbal, 129 S.Ct. at 1947, 1950-51; see also Twombly, 550 U.S. at 555.
+
+When there is an “obvious alternative explanation” for alleged conduct, liability “is not a plausible
+
+conclusion.” Iqbal, 129 S.Ct. at 1949, 1951.
+
+       In the context of a Rule 12(b)(6) motion, a court may consider: (1) documents attached to
+
+the complaint as exhibits or incorporated by reference therein; (2) matters of which judicial notice
+
+may be taken; or (3) documents upon the terms and effect of which the complaint “relies heavily”
+
+and are thus rendered “integral” to the complaint. United States ex rel. Coyne v. Amgen, Inc., 229
+
+F.Supp. 3d 159,169 (E.D.N.Y. 2017); see also United States v. Northern Adult Daily Health Care
+
+Center, 205 F. Supp. 3d 276, 286-87 (E.D.N.Y. 2016).
+
+       A.      The Government Failed To Plead Its FCA Claims With Requisite Particularity
+
+       As the Magistrate Judge correctly noted, the Government’s FCA claims in Counts I and II
+
+sound in fraud, and are thus subject to the heightened pleading standard of Rule 9(b). (R&R, ECF
+
+101, at 11.) The Magistrate Judge also properly recognized that such standard required the
+
+
+                                                 3
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 5 of 25
+
+
+
+
+Government in its Complaint to: “(1) specify the statements that the plaintiff contends were
+
+fraudulent, (2) identify the speaker, (3) state where and when the statements were made, and (4)
+
+explain why the statements were fraudulent.” (Id.)
+
+       However, the R&R then summarily concludes, without any citation to the Complaint or
+
+even this case’s record, that “the Rule 9(b) requirement is relaxed somewhat when the relevant
+
+facts are peculiarly within the opposing party’s knowledge.” (Id.) The Court is not permitted to
+
+“take the word” of the government in its opposition briefing that somehow unspecified facts are
+
+only in Defendants’ knowledge, especially when no such allegation is contained the
+
+government’s actual pleading. Indeed, even the case cited in the R&R makes this clear:
+
+“Plaintiffs must still set forth the factual basis for th[e] belief” that “the necessary evidence of
+
+the essential elements of the claim is in the exclusive control of the defendant.” U.S. ex rel. Ellis
+
+v. Sheikh, 583 F. Supp. 2d 434, 438–39 (W.D.N.Y. 2008) (emphasis added).
+
+       The government alleges that Defendants did not keep certain records between September
+
+2005 and June 2010, as well as purportedly “hid evidence of their misconduct” (Compl., ¶¶ 84-
+
+85), but nothing about those allegations warrants the unsupported leap-of-logic that any
+
+supposedly relevant facts are “only” in Defendants’ particular knowledge. Instead, the Complaint
+
+explicitly pleads (and it is undisputed) that Defendants do not have these supposedly relevant
+
+facts or records either—there is no unequal access to them nor can they be “discovered” by
+
+anyone should this case proceed beyond the pleadings. (Compl., ¶¶ 84-85.) Thus, and crucially,
+
+the government cannot avail itself of some arguably “relaxed” Rule 9(b) pleading standard because
+
+it has failed utterly to plead why it did not keep its own records of transactions with and payments
+
+to Defendants. Rather, the government, acknowledging its inability to satisfy the usual Rule 9(b)
+
+standard, disingenuously pushes the notion that such inability should be overlooked by
+
+
+
+
+                                                 4
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 6 of 25
+
+
+
+
+concocting—in its briefing, though tellingly not in its Complaint—a purportedly one-sided,
+
+unilateral record-keeping burden that, without any apparent basis, falls exclusively upon
+
+Defendants.
+
+       As the Complaint makes abundantly clear, these sophisticated parties (commercial entities
+
+and the United States government) transacted arms-length business with each other for over a
+
+decade. (See Compl. generally and ¶ 1.) The government does not plead (much less even attempt
+
+to explain) why it never reweighed any shipments at any point, notwithstanding its undisputed
+
+ability to do so under the parties’ contracts/tenders and its mandate under black-letter law to verify
+
+and audit Defendants’ charges (as discussed herein). Indeed, the government apparently did not
+
+reweigh or keep records even after Relator filed his qui tam allegations over ten years ago, and
+
+even though it is undisputed and clear from the Complaint and this case’s docket sheet that the
+
+government received hundreds of thousands of pages of pre-intervention discovery and took
+
+dozens of depositions over the course of nearly ten years. Indeed, the government has and did use
+
+its subpoena power in these proceedings, and never once contended (in the Complaint, in prior
+
+proceedings, or in its briefing) that Defendants failed comply with the document or deposition
+
+subpoenas in any respect. The government did not and does not stand in the same shoes as some
+
+individual plaintiff who had zero ability to access this information prior to filing the Complaint—
+
+the government had great power and used it. Revealingly, even the R&R notes that “the United
+
+States intervened” in this action “[a]fter a lengthy inquiry.” (R&R at 5.)
+
+       It is thus impossible that “only” Defendants could possess information pinpointing
+
+concrete payments the government contends were falsely claimed. Nothing in the Complaint
+
+suggests that the government appropriately lacked any information that it could have used to
+
+actually plead facts showing “false claims.” Affording the government a “relaxed” pleading
+
+
+
+
+                                                  5
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 7 of 25
+
+
+
+
+standard when it has failed to properly plead its Complaint and in light of the undisputed record of
+
+proceedings, is not only in violation of Rules 9(b) and 12(b)(6), it is a serious miscarriage of justice.
+
+        This is particularly true where the government does not dispute, but the R&R inexplicably
+
+fails to address, that the government is basing its entire fraud case only on an unadorned list of
+
+shipments attached to the Complaint. The government labels Exhibit A as “200 examples of the
+
+more than 13,000 false claims the Defendants billed to DOD during this period,” but this is a mere
+
+legal conclusion that is not supported by any facts, much less facts satisfying Rule 9(b). An actual
+
+review of Exhibit A to the Complaint renders its insufficiency crystal clear, since it is does not
+
+contain any actual claim for payment, or any allegation that the claims were paid by the
+
+government as is required to state even a bare-minimum claim under the FCA. Instead, the six-
+
+page exhibit only identifies a delivery date, the DOD customer recipient, and a “weight
+
+variance”—without even connecting any of these shipments to a particular Defendant, or providing
+
+any other identifying information permitting Defendants to even look up the purported shipment
+
+(such as the government-issued commercial bill of lading number or the shipper’s designated PRO 2
+
+number, invoice numbers, and/or payment details).
+
+        Therefore, the Complaint fails to adduce “sufficient data to justify interposing an allegation
+
+on the subject” or “specific facts supporting a strong inference of fraud,” and instead the
+
+government requests “license to base claims of fraud on speculation and conclusory allegations.”
+
+United States ex rel. Hanks v. U.S. Oncology Speciality, LLP, 336 F. Supp. 3d 90, 118 (E.D.N.Y.
+
+2018) (quotations omitted). “[S]hifting the burden to [defendant] does not cure the pleading
+
+deficiency,” where, as here, the Complaint’s bare list of contracts and unspecified shipments
+
+
+
+
+2
+ A PRO number is a 10-digit unique identifier assigned to every shipment handled by Defendants,
+which is displayed on all shipping documents and labels.
+
+
+                                                   6
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 8 of 25
+
+
+
+
+indisputably “does not demonstrate that false claims must have been submitted.” United States ex
+
+rel. Kolchinsky v. Moody’s Corp., No. 12CV1399, 2018 WL 1322183, at *2 (S.D.N.Y. Mar. 13,
+
+2018) (quotation omitted); United States ex rel. Bilotta v. Novartis Pharm. Corp., 50 F. Supp. 3d
+
+497, 510–11 (S.D.N.Y. 2014) (“Plaintiffs must allege the false claims themselves with sufficient
+
+particularity . . . merely alleging a fraudulent underlying scheme with particularity is not enough.”).
+
+       Defendants are at a loss to discern which, if any, of the 200 shipments or thousands of
+
+underlying tenders led to some kind of false claim by any one Defendant—which means the Court
+
+should be, too. The R&R, however, fails to address the well-founded legal principle that simply
+
+alluding to an alleged scheme occurring over a period of time, without “the particulars of the false
+
+claims themselves,” constitutes a per se failure to plead with specificity.           See Corporate
+
+Compliance Assocs. v. New York Soc’y for the Relief of the Ruptured & Crippled, Maintaining the
+
+Hosp. for Special Surgery, No. 07 Civ. 292, 2014 WL 3905742 at *11 (S.D.N.Y. 2014) (granting
+
+dismissal where the government alleged defendant hospital had lied 350,000 times but failed to
+
+allege the circumstances of false claims or identify any representative claim, asking “[h]ow can a
+
+hospital reasonably be expected to frame an answer to such a claim?”); see also United States ex
+
+rel. Osmose, Inc. v. Chemical Specialties, Inc., 994 F.Supp.2d 353, 363-365 (W.D.N.Y. 2014) (a
+
+relator cannot circumscribe the Rule 9(b) pleading requirements by alleging a fraudulent scheme
+
+and merely concluding that, as a result, false claims must have been submitted); Johnson v. The
+
+University of Rochester Medical Center, 686 F.Supp.2d 259, 265-66 (W.D.N.Y. 2010)
+
+(“[S]tanding alone, allegations of violations of federal regulations or laws are insufficient if a
+
+plaintiff cannot identify with particularity any actual false claims submitted by defendant to the
+
+government.”) (internal citations omitted).
+
+
+
+
+                                                  7
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 9 of 25
+
+
+
+
+       Moreover, the government makes no effort to identify which specific individuals made the
+
+allegedly false claims. See, e.g., United States ex rel. Digital Healthcare, Inc. v. Affiliated
+
+Computer Servs, Inc., 778 F. Supp. 2d 37, 53 (D.D.C. 2011) (must identify individual actors and
+
+explain precise role in effectuating alleged fraud) (citing cases); United States ex rel. Costner v.
+
+URS Consultants, Inc., 317 F.3d 883, 889 (8th Cir.) (“[w]ithout information as to who and how
+
+and when, the defendants would be largely unable to respond”), cert. denied, 540 U.S. 875 (2003).
+
+       Lastly, even though Defendants submitted a Notice of Supplemental Authority, (ECF 96),
+
+the R&R fails to even address that, in United States v. Strock, No. 15-CV-0887-FPG, 2019 WL
+
+4640687, at *5 (W.D.N.Y. Sept. 24, 2019) (“Strock II”), Judge Geraci found that the government’s
+
+allegations that “Defendants knowingly submitted or caused to be submitted false representations
+
+. . .” were “group-pled allegations” that are “insufficient to satisfy Rule 9(b) and withstand a
+
+motion to dismiss.” The Strock II court went on to find that:
+
+       Without knowing exactly what [defendant] is alleged to have represented and when,
+       it is difficult to infer that she knew her representations were false. This is why Rule
+       9(b) requires a fraud complaint to specify the fraudulent statements, identify the
+       speaker, state where and when the statements were made, and explain why the
+       statements were fraudulent. . . . Similarly, while the Government generally alleges
+       that [defendant] submitted bids and invoices for SDVOSB contracts . . . it fails to
+       identify the specific bids or invoices that [defendant] submitted.
+
+Id. at *5.   The Complaint entirely fails to meet this pleading standard, which the R&R
+
+impermissibly excuses, in a “purely legal ruling” that is “faulty” as a matter of law. Watson, 2013
+
+WL 5441748 at *2; Moss, 845 F.3d at 519 n.2.
+
+       Since the R&R concluded that Rule 9(b) was satisfied based only on the “relaxed” pleading
+
+standard, (R&R at 15), and since the Complaint fails to plead any basis for a relaxed standard as
+
+discussed above and even per the case law relied upon by the R&R, the R&R must be reversed.
+
+Despite having nearly ten years to investigate, the government implausibly fails to allege the “who,
+
+
+
+
+                                                 8
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 10 of 25
+
+
+
+
+what, where, and when” of the allegedly false or fraudulent claims, violating Rule 9(b).
+
+Accordingly, Counts I and II must be dismissed for failure to state a claim with the requisitie
+
+particularity.
+
+        B.       The Government Failed to Allege Materiality
+
+        The Magistrate Judge’s recommendation should not be adopted, and instead dismissal
+
+should be granted because the law in this area was not fully developed at the time of the Magistrate
+
+Judge’s consideration of the dispositive issues and “continued to evolve” thereafter—as a result,
+
+the district court has “the benefit of further clarification in this area . . . in cases presenting facts
+
+similar to this one.” Freeman, 413 F. Supp. 3d at 73 n.2. As discussed above and herein, recent
+
+cases, “in combination with pre-R&R case law, signal a decided trend toward” dismissing FCA
+
+claims in circumstances similar to those here, and the Magistrate Judge’s R&R necessarily
+
+contains legal error that should be corrected by the district court. Id. (declining to adopt R&R
+
+recommending denial of Rule 12(b)(6) motion in developing area of law, instead dismissing case).
+
+        The R&R references the United States Supreme Court’s “demanding” standard for the
+
+materiality element of FCA claims set forth in Universal Health Servs., Inc. v. United States ex
+
+rel. Escobar, 136 S. Ct. 1989, 2002-03 (2016). (R&R, 16.) However, in a direct departure from
+
+Escobar and relying on three non-precedential cases (including one not even proffered by the
+
+government in its opposition brief), the R&R inexplicably opines that the Complaint was not
+
+required to contain any allegations pleading how the alleged “weight difference would have
+
+changed, or did change, the payment decision, the Government’s process for determining what it
+
+would actually pay, or examples of how the difference did [affect], or was likely to have affected[,]
+
+the Government’s decision to pay Defendants’ invoice.” (R&R at 17 (“[t]he Court does not agree
+
+that this much is required at the pleading stage”)).
+
+
+
+
+                                                   9
+    Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 11 of 25
+
+
+
+
+       In reaching that erroneous conclusion, the Magistrate Judge failed to analyze or apply the
+
+two recent Strock decisions. In Strock II, Judge Geraci found that “the Government does not allege
+
+that it expressly conditioned payment to VECO on VECO’s compliance with SDVOSB
+
+contracting requirements” and “it is not clear from the amended complaint whether the contract
+
+terms or the certification on the payment applications explicitly conditioned payment upon
+
+VECO’s SDVOSB status.” Strock II, 2019 WL 4640687 at *9; see also U.S. v. Strock, No. 15 CV
+
+0887, 2018 WL 647471 at *9-*10 (W.D.N.Y. Jan. 31, 2018) (“Strock I”) (“The inquiry itself does
+
+not show that [Defendant’s false statement and/or certification] was important enough to Plaintiff
+
+to warrant some level of investigation, but the Complaint fails to make any allegations that connect
+
+the investigation into [Defendant’s statement and/or certification] to Plaintiff’s payment
+
+determination. Nor does it provide any information regarding whether [Defendant] could have
+
+been terminated from the contracts it had already been awarded—thus barring receipt of claims
+
+for payment on active contracts”).
+
+       Strock II even specifically discusses the line of case law relied upon in the R&R opining
+
+that “the misrepresentation does not have to be so grievous that the government would have
+
+completely denied payment upon discovering the truth,” including United States ex rel. Hussain
+
+v. CDM Smith, Inc., No. 14-CV-9107 (JPO), 2017 WL 4326523, at *8 (S.D.N.Y. Sept. 27, 2017). 3
+
+However, Strock II correctly finds, as the R&R should have here, that the Complaint “does not
+
+reference any factors that the Government might have considered to determine whether to pay”
+
+Defendants and “does not make any allegations regarding the substantiality of the [contract]
+
+
+
+
+3
+  The R&R also fails to address that Hussain was relying on United States ex rel. Wood v. Allergan,
+Inc., 246 F. Supp. 3d 772 (S.D.N.Y. 2017), which was reversed and remanded by the Second
+Circuit. 899 F.3d 163 (2d Cir. 2018).
+
+
+
+                                                10
+    Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 12 of 25
+
+
+
+
+violation or whether it went to the essence of the bargain.” Id. at *11. In this case, the Complaint
+
+similarly contains no facts as to how Defendants’ alleged violations were material to the
+
+government’s payment decision, instead generally alleging Defendants’ conduct somehow “was
+
+capable of influencing DOD’s payment decisions.” (Compl. at ¶¶ 105 109; Opp. at 20.) It is
+
+insufficient, however, to plead the government “would have the option to decline to pay if it knew
+
+of the defendant’s noncompliance[.]” Escobar, 136 S. Ct. at 2002.
+
+       Again, this is particularly important in this case because it undisputed that the government
+
+has known of Defendants’ approach to negative reweighs for at least ten years. (Relator’s Compl.
+
+¶¶ 24-25.) The R&R inappropriately credits the Complaint’s single conclusory statement that
+
+“DOD officials were unaware that the Defendants had overcharged the government for shipments”
+
+in paragraph 110 of the Complaint, but ignores that the government also does not dispute that its
+
+own Complaint contains no allegation that the government refused to pay Defendants’ claims or
+
+signaled a change in its position toward payments, and instead alleges it continued to accept
+
+tenders. See United States ex rel. McBride v. Halliburton Co., 848 F.3d 1027, 1032, 1034 (D.C.
+
+Cir. 2017) (“courts need not opine in the abstract when the record offers insight into the
+
+Government’s actual payment decisions” and “should not ignore what actually occurred: the
+
+[government] investigated [relator]’s allegations and did not disallow any charged costs. In fact,
+
+[defendant] continued to receive an award fee . . . even after the Government learned of the
+
+allegations.”). Relying again on three non-precedential and out-of-circuit cases, and even cases
+
+not presented by the government, the R&R decides that even “assuming the Government knew
+
+and continued to pay Defendants despite its knowledge, this alone does not preclude materiality.”
+
+(R&R at 20.)
+
+
+
+
+                                                11
+    Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 13 of 25
+
+
+
+
+       Not so. Under the actual record of proceedings in this case and the improperly pleaded
+
+Complaint, the government cannot evade the Supreme Court’s finding that “if the government
+
+pays a particular claim in full despite its actual knowledge that certain requirements were violated,
+
+that is very strong evidence that those requirements are not material. Or, if the government
+
+regularly pays a particular type of claim in full despite actual knowledge that certain requirements
+
+were violated, and has signaled no change in position, that is strong evidence that the requirements
+
+are not material.” Escobar, 136 S. Ct. at 2003-2004. The R&R sidesteps Escobar, and instead
+
+overreaches for a handful of inapposite and non-binding case law to recommend denial of
+
+dismissal. The R&R’s approach is faulty, and it fails to comport with other and more recent
+
+decisions in this Court. See Strock, 2019 WL 4640687 at *9.
+
+       On top of this, and even though it is undisputed by the government, the R&R fails entirely
+
+to address that all of the Complaint’s claims were subject to laws mandating pre-payment
+
+agency verification of charges, and post-payment General Services Administration (“GSA”)
+
+audits, with accompanying specific remedies in the event of overcharge. See 31 U.S.C. § 3527;
+
+41 C.F.R. §102-118.525; 41 C.F.R. §102-118.10; 41 C.F.R. §102-118.35; Military Surface
+
+Deployment and Distribution Command Regulation 15-1, Procedure for Disqualifying & Placing
+
+Transportation Service Providers in Non-Use (January 10, 2012); 41 C.F.R. § 102-117.255; 41
+
+C.F.R. § 102-118.165; U.S. Freight Transportation Handbook (July 25, 2000); 41 C.F.R. § 102-
+
+118.430; 31 U.S.C. § 3726(d); 49 U.S.C. § 13710. The Complaint fails to allege how Defendants’
+
+policies could possibly be “material” to the government’s payment decision, when the government
+
+undisputedly continued to verify charges, continued to enter contracts and tenders with full
+
+
+
+
+                                                 12
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 14 of 25
+
+
+
+
+knowledge of Defendants’ practices, and failed to initiate any remedies upon awareness of such
+
+policies beginning in 2008.4
+
+       Accordingly, the R&R fails to address recent and applicable case law, and altogether
+
+ignores the undisputed facts of this case’s actual record, when incorrectly determining that the
+
+Complaint’s deficient allegations somehow satisfied the FCA’s “materiality” standard set forth in
+
+a binding United States Supreme Court holding. Contrary to the R&R’s erroneous conclusions,
+
+the Supreme Court was abundantly clear in Escobar that the “rigorous materiality requirement”
+
+should be enforced at the motion-to-dismiss stage with direction that “False Claims Act plaintiffs
+
+must . . . plead their claims with plausibility and particularity under FRCP 8 and 9(b) by pleading
+
+facts that support allegations of materiality.” Escobar, 136 S.Ct. at 1996, 2003, 2004 n.6 (FCA is
+
+not “a vehicle for punishing garden-variety breaches of contract or regulatory violations”).
+
+Accordingly, the R&R should not be adopted, and Counts I and II should be dismissed for failure
+
+to state a claim. E.g., Freeman, 413 F. Supp. 3d at 73 n.2.
+
+       C.      The Government Failed to Allege Scienter
+
+       Despite noting that “[t]he FCA’s scienter requirement is rigorous.” (R&R at 21 (quotation
+
+omitted)), the R&R concludes in summary fashion that the Complaint sufficiently pleaded scienter.
+
+(R&R at 22.)
+
+       The R&R fails to address that the Complaint, rather than allege any “knowingly” false
+
+submission to the government, merely asserts that Defendants were “motivated by profit” (what
+
+for-profit business is not?) and points to a few emails that either: (i) address the possibility that
+
+some customers might view Defendants’ interpretation as unfair, (Compl. ¶¶ 46-48); or (ii)
+
+
+
+4
+ By failing to follow these statutory and regulatory requirements and remedies, the government
+has avoided all associated, much-shorter statutes of limitations for its claims and simultaneously
+prevented Defendants from participating in a less costly, less adversarial, and less dilatory process.
+
+
+                                                 13
+    Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 15 of 25
+
+
+
+
+reference an informal discussion, unconnected to any consideration of legal obligation, purportedly
+
+reflecting that other carriers disfavored Defendants’ interpretation owning to business concerns,
+
+(Compl. ¶ 62).    Those two irrelevant allegations do not allege that Defendants had actual
+
+knowledge that their interpretation of the reweigh obligations was false, acted with deliberate
+
+ignorance of the reasonableness of that interpretation, or somehow recklessly disregarded agency
+
+guidance or law expressly warning them off that interpretation—nor can they overcome the
+
+government’s acknowledgment that it had full knowledge of Defendants’ billing practices as of at
+
+least 2008.
+
+       This is especially true where the government concedes (but the R&R overlooks) that, as of
+
+March 1, 2009, the reweigh obligations and notification requirements set forth in Military Freight
+
+Traffic Unified Rules Publication-1 (“MFTURP-1”) only applied where there was “extra weight
+
+and or size” and were silent with respect to negative reweighs—further rendering ambiguous the
+
+pre-2009 MFTURP that also does not specify notification of negative reweighs. (Compl. ¶¶ 37-
+
+38). It was not until half a decade after learning of Defendants’ interpretation that the government
+
+recognized the ambiguity and amended MFTURP-1 to add “. . . whether the variation is higher or
+
+lower.” MFTURP-1, Weight Verification, Section M (July 31, 2013).
+
+       The R&R likewise fails to address that it is well-established that a defendant cannot be
+
+liable for failing to comply with an ambiguous contractual term. United States ex rel. Purcell v.
+
+MWI Corp., 807 F.3d 281, 290-91 (D.C. Cir. 2015); United States ex rel. Colucci v. Beth Israel
+
+Med. Ctr., 785 F. Supp. 2d 303, 314–17 (S.D.N.Y. 2011) (defendants’ claims were not factually
+
+false where, at worst, they “took advantage of the uncertainty in the regulations”). “Strict
+
+enforcement of the FCA’s knowledge requirement helps ensure that innocent mistakes made in the
+
+absence of binding interpretive guidance are not converted into FCA liability[.]” Purcell, 807 F.3d
+
+
+
+
+                                                14
+    Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 16 of 25
+
+
+
+
+at 183 (quotation omitted). Moreover, even allegations or “evidence of subjective bad faith or
+
+intent of the defendant is irrelevant when there is an objectively reasonable interpretation of the
+
+statute that would allow the conduct in question.” Long v. Tommy Hilfiger, U.S.A., Inc., 671 F.3d
+
+371, 377 (3d Cir. 2012).
+
+       Nor does the R&R address that the government alone, as drafter of the regulation, had the
+
+power to define and guide its interpretation—particularly when the government has been on notice
+
+since November 3, 2008 that the Defendants’ interpretation allowed them to decide whether to
+
+reweigh freight and charge for differences from the bill of lading. The government never rebutted,
+
+and the R&R never discussed, that the doctrine of contra proferentem should prevent its post hac
+
+attempt to now ascribe meaning to an ambiguous term—and to use the FCA to punish Defendants
+
+for failing to comply. Chapman Law Firm, LPA v. United States, 103 Fed. Cl. 28, 41–43, 47
+
+(2012); Christopher v. SmithKline Beecham Corp., 132 S. Ct. 2156, 2168 (2012); see also Fry
+
+Commc’ns, Inc. v. United States, 22 Cl. Ct. 497, 503 (1991).
+
+       The lone case on which the R&R relies to determine that the Complaint’s “allegations are
+
+not conclusory and contain facts which support a strong inference of scienter,” which was not even
+
+cited by the government, is also not even an FCA case. See Gov’t Employees Ins. Co. v. Badia,
+
+No. 13-CV-1720 CBA VMS, 2015 WL 1258218, at *15 (E.D.N.Y. Mar. 18, 2015) (analyzing a
+
+“New York common law fraud claim”); (R&R at 22.) It has no bearing on the merits of
+
+Defendants’ motion to dismiss, and fails to sustain the R&R’s erroneous conclusion.
+
+       For these multiple reasons, the R&R’s recommendation is “faulty” as a matter of law, and
+
+should not be adopted. Counts I and II should instead be dismissed for failure to state a claim.
+
+       D.      The Government’s Common-Law Claims Fail Under Rules 8(a) and 12(b)(6)
+
+       The R&R notes that “the complaint does not specify whether state or federal common law
+
+applies” to the government’s common-law claims. (R&R at 24.) However, the R&R then looks
+
+
+                                                15
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 17 of 25
+
+
+
+
+outside the four corners of the Complaint, in violation of Rule 12(b)(6), to endorse the
+
+government’s dismissal briefing in which it states “that the claims are plainly governed by federal
+
+common law, and there is therefore no need to identify which common law applies or invoke
+
+supplemental jurisdiction under 28 U.S.C. § 1367.” (R&R at 24.) Simply put, it is axiomatic that
+
+neither the Magistrate Judge nor the district court is permitted to add allegations to the Complaint,
+
+or to excuse failure to comply with Federal Rule of Civil Procedure 8(a). See, e.g., Fed. R. Civ.
+
+P. 12(b)(6), 12(d).
+
+        Moreover, the R&R’s reliance on four pre-Iqbal and pre-Twombly cases to decide that Rule
+
+8(c) does not require a plaintiff to “plead facts in support of each element of a claim” under these
+
+circumstances is flat wrong. (R&R at 25-26.); see Judd Burstein, P.C. v. Long, 797 F. App’x 585,
+
+589 (2d Cir. 2019) (affirming dismissal where plaintiff did not meet his “responsibility to
+
+adequately plead the elements of his claim,” including scienter); see also Iqbal, 556 U.S. at 678–
+
+79 (“Rule 8 marks a notable and generous departure from the hypertechnical, code-pleading
+
+regime of a prior era, but it does not unlock the doors of discovery for a plaintiff armed with
+
+nothing more than conclusions. . . . where the well-pleaded facts do not permit the court to infer
+
+more than the mere possibility of misconduct, the complaint has alleged—but it has not shown—
+
+that the pleader is entitled to relief.” (quotations omitted)); Twombly, 550 U.S. at 555 (“a plaintiff's
+
+obligation to provide the grounds of his entitlement to relief requires more than labels and
+
+conclusions, and a formulaic recitation of the elements of a cause of action will not do” and “on a
+
+motion to dismiss, courts are not bound to accept as true a legal conclusion couched as a factual
+
+allegation” (quotations omitted)).
+
+        Nor does United States v. Electro-Therapeutics, Inc., No. 94 CIV. 4008 (DC), 1996 WL
+
+137687, at *5 (S.D.N.Y. Mar. 27, 1996) (another case not cited by any party) remotely stand for
+
+
+
+
+                                                  16
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 18 of 25
+
+
+
+
+the proposition that the Court may construe “the Government’s intent to raise its common law
+
+claims under federal common law.” (R&R at 25.) Rather, the Complaint could assert state-law
+
+and/or federal-law claims, see United States ex rel. Reeves v. Mercer Transportation Co., Inc., 253
+
+F. Supp. 3d 1242, 1255 (M.D. Ga. 2017), but nothing in the Complaint specifies which law applies,
+
+violating Rule 8. The government’s failure to plead any legal basis for its common-law claims
+
+unavoidably requires dismissal. United States ex rel. Lisitza v. Par Pharm. Companies, Inc., 276
+
+F. Supp. 3d 779, 809–10 (N.D. Ill. 2017); see also U.S. ex rel. Budike v. PECO Energy, 897 F.
+
+Supp. 2d 300, 326 (E.D. Pa. 2012).
+
+       Further, the government failed to rebut, and the R&R fails wholly to discuss, that the
+
+Complaint did not properly plead its unjust-enrichment and payment-by-mistake claims as
+
+alternative to its breach-of-contract claim, which is grounds for dismissal. United States ex rel.
+
+Reeves v. Mercer Transportation Co., Inc., 253 F. Supp. 3d 1242, 1255–56 (M.D. Ga. 2017);
+
+United States v. Bollinger Shipyards, Inc., No. CIV. A. 12-920, 2013 WL 393037, at *15 (E.D.
+
+La. Jan. 30, 2013) (citing cases).
+
+       Finally, because Count VI failed to specify whether the breach-of-contract claim was
+
+governed by state or federal common law, different elements may apply. Significantly, the
+
+government does not allege it actually or adequately performed any of its contractual obligations,
+
+especially when the subject contracts contain mandatory procedures for regulatory dispute
+
+resolution, as discussed above. The government also cannot ignore it pleaded no facts supporting
+
+any breach-of-contract claim against non-contracting-party YRC Freight. The R&R ignores each
+
+of these dispositive points, rendering the recommendation “faulty” as a matter of black-letter law.
+
+       All common-law claims must be dismissed for failure to state a claim.
+
+
+
+
+                                                17
+       Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 19 of 25
+
+
+
+
+III.     In the Alternative, Transfer Should Be Granted to the District of Kansas
+
+         If any claims survive dismissal, the R&R should not be adopted with respect to its
+
+recommendation that transfer be denied, as such recommendation is “clearly erroneous” and/or
+
+“contrary to law.” Fed. R. Civ. P. 72(a); see also 28 U.S.C. § 636(b)(1)(A) and L.R. Civ. P. 72(a).
+
+         The R&R correctly points out that the government does not dispute that this action could
+
+have been brought in the District of Kansas, and correctly recites the 28 U.S.C. § 1404 factors.
+
+(R&R at 5.) However, the R&R then improperly ignores several of Defendants’ arguments
+
+regarding transfer, resulting in a recommendation that is “clearly erroneous” and “contrary to law.”
+
+         The R&R determines that the “convenience of the witnesses” “weigh against transfer,”
+
+(R&R at 6), even though acknowledging that Kansas is where Defendants are headquartered and
+
+where nearly half of the government’s own material witnesses are located (as identified and
+
+deposed during the government’s actual pre-intervention investigation), and that none of the
+
+other witnesses reside in this district other than Relator. Yet, the R&R declares that Defendants
+
+should have “described the witnesses’ testimony so the court can qualitatively evaluate its
+
+materiality,” (R&R at 6)—apparently missing that the 35 witnesses discussed were identified only
+
+by the government as crucial to its own claims. Perhaps most importantly, the R&R ignores that
+
+it is undisputed that Relator cannot testify as to the enactment of the policies at issue, and has
+
+very little relevant testimony overall because he was never a manager or decision maker.
+
+         The R&R also inexplicably ignores that the convenience of witnesses routinely is found to
+
+favor transfer under similar circumstances. See, e.g., Mola, Inc. v. Kacey Enterprises, LLC, No.
+
+10-CV-1045S, 2011 WL 3667505, at *8 (W.D.N.Y. Aug. 21, 2011) (favors transfer where
+
+defendants’ witnesses were located in Washington and none of plaintiffs’ witnesses were located
+
+in New York); Cummings v. Chesapeake Energy Corp., No. 16-CV-2338 (VEC), 2016 WL
+
+
+
+
+                                                18
+    Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 20 of 25
+
+
+
+
+9527989, at *2 (S.D.N.Y. June 7, 2016) (“clearly” favors transfer to Oklahoma where the principal
+
+witnesses “who made the decisions that are at the core of Plaintiffs’ Complaint” are senior
+
+executives based at defendant’s headquarters); Pausch Med. GmbH v. Pausch LLC, No. 14-CV-
+
+1945 PAC, 2015 WL 783365, at *2 (S.D.N.Y. Feb. 24, 2015) (favors transfer because “Defendant,
+
+as a New Jersey-based company, faces clear inconveniences in having to travel to this District to
+
+litigate this dispute, particularly since neither its business nor this dispute bear any meaningful
+
+connection with this District” and “Defendant’s witnesses are located in New Jersey and can shed
+
+light on the parties’ business relationship”). This factor is weighed the most, and it unquestionably
+
+favors transfer to Kansas.
+
+       Of nearly identical importance is the locus of operative facts, which the R&R incorrectly
+
+asserts is “neutral.” (R&R at 8.) This conclusion is simply untenable given that the government
+
+does not even dispute that no harm was felt in this district, because the contracts and tenders at
+
+issue were entered into by the government outside of the Western District of New York, while
+
+those contracts and tenders were agreed to or bid on by Defendants in Kansas or Ohio. It is further
+
+undisputed that the invoices at issue per the DOD contracts and tenders were prepared in Kansas
+
+or Ohio, that Defendants did not receive DOD payments in the Western District of New York, and
+
+that such payments were processed by Defendants in Kansas, Ohio, or India. However, in an
+
+apparent misreading of the government’s opposition brief, the R&R decides that “[t]erminals in
+
+Buffalo and Rochester are therefore connected to the reweigh activity,” but the government never
+
+specified how many of the proffered New York shipments were actually within this district.
+
+Nor does the R&R discuss that the government does not explain how or why the Court should
+
+place sole stock in data pertaining to only two years and four months of the alleged eight-year
+
+scheme—particularly where the government does not dispute Defendants’ data and also declares
+
+
+
+
+                                                 19
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 21 of 25
+
+
+
+
+that, in any event, “[f]ocusing on the origin or destination location of the shipment does not,
+
+however, fully capture the Defendants’ shipping and reweigh activity.” (Opp. at 11.)
+
+       To the contrary, the Complaint contains no allegations of wrongdoing that pertain to New
+
+York at all, and the only connection to the Western District is the terminal where Relator works
+
+but where no policy decisions at issue were made. See Cummings, 2016 WL 9527989 at *2
+
+(“Plaintiffs’ arguments attempting to place the locus of operative facts in this district also fail.
+
+Although it is true that New York investment banks worked on the exchange offer, that the
+
+financial adviser was located in New York, that the place of payment, the depository of the
+
+securities, and the information agent are located in New York, and that the notes are registered on
+
+the New York Stock Exchange, none of those facts is critical to the Plaintiffs’ causes of action.
+
+This Complaint exclusively concerns Chesapeake’s decision to undertake the exchange offer and
+
+to structure it to the alleged detriment of . . . existing noteholders.”). Indeed, “[w]here there is no
+
+material connection between the district and the operative facts . . . the interests of justice require
+
+the transfer of [the] action.” Travelers Prop. Cas. Co. of Am. v. Ocean Reef Charters LLC, 324 F.
+
+Supp. 3d 366, 379 (W.D.N.Y. 2018) (quotation omitted).
+
+       The R&R also ignores that where causes of action arise exclusively from a contractual
+
+relationship and an associated, alleged fraudulent scheme, the locus of operative facts is
+
+necessarily where the subject agreements and policies were formed. Ritchie Capital Mgmt., L.L.C.
+
+v. U.S. Bank Nat. Ass’n, No. 14 CIV. 8513 PAE, 2015 WL 1611391, at *5 (S.D.N.Y. Apr. 10,
+
+2015) (factor favored transfer where agreements were entered into, where payments were received
+
+and processed, and where alleged actions took place, because “Minnesota is plainly the nerve
+
+center of this case—and the site of every action by U.S. Bank taken in alleged furtherance of the
+
+fraudulent scheme.”); Fellner v. Cameron, No. 09-CV-98S, 2010 WL 681287, at *4–5 (W.D.N.Y.
+
+
+
+
+                                                  20
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 22 of 25
+
+
+
+
+Feb. 24, 2010) (transfer favored where agreements were negotiated, witnessed, and executed in
+
+Florida); Cain v. Twitter, Inc., No. 17 CIV. 122 (PAC), 2017 WL 1489220, at *4 (S.D.N.Y. Apr.
+
+25, 2017) (locus of the operative facts is where defendant made its decisions that plaintiffs allege
+
+result in liability). However, the locus of operative facts occurred in Kansas, so Kansas citizens
+
+have a greater interest in this case. The R&R seemingly even recognizes this, although it fails to
+
+give it the due weight required by case law. (R&R at 8 (“[a]ssuming, arguendo, that this factor
+
+weighs in favor of transfer to Kansas. . .”).
+
+       The R&R also fails to address that as to the location of documents and access to proof
+
+factor, it was (and still is) undisputed that there is greater convenience to Defendants in having
+
+trial closer to the location of Defendants’ physical documents and records custodians. See In re
+
+Toa Techs., Inc., 543 F. App’x 1006, 1009 (Fed. Cir. 2013). This factor weighs in favor of transfer.
+
+       Next, the R&R asserts that Defendants failed to “prove” that the government has greater
+
+resources, (R&R at 9), but the R&R ignores that it is beyond serious dispute that “the Government
+
+has litigation resources available to it across the country in a way that a private litigant may not.”
+
+United States v. Stamps, No. 18-CV-1106 (BMC), 2018 WL 6031155, at *2 (E.D.N.Y. Nov. 16,
+
+2018); see generally U.S. ex rel Poehling v. United Health Group, Inc., et al., Case No. 2:16-cv-
+
+08697-MWF-SS (C.D. Cal.) (example of the government of this district’s willingness to support
+
+FCA cases with enormous resources). Indeed, it is uncontroverted that the government to date has
+
+pursued this matter (depositions, interviews, etc.) in various locations, including Kansas, far afield
+
+from the Eastern District of New York with relative ease. This factor must also weigh in favor of
+
+transfer to Kansas.
+
+       Relatedly, the R&R impermissibly ignores entirely that the convenience of the parties
+
+weighs in favor of transfer, and appears to conclude in one sentence, without any analysis, that
+
+
+
+
+                                                 21
+    Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 23 of 25
+
+
+
+
+transfer would merely “shift” the burden. (R&R at 7.) However, the R&R fails altogether to
+
+address that the auditor and two lawyers the government references at page 9 of its opposition are
+
+located outside of New York, so not even the government’s entire team is located in this district,
+
+whereas all of the Defendants are located in Kansas. Under circumstances such as these, federal
+
+courts regularly transfer False Claims Act (“FCA”) cases, despite protestations of “inconvenience”
+
+by government attorneys. See United States v. Nature’s Farm Prod., Inc., No. 00CIV. 6593(SHS),
+
+2004 WL 1077968, at *4 (S.D.N.Y. May 13, 2004) (finding government’s “presence in New York”
+
+does not “properly weigh against transfer” because it “is no more a resident of the Southern District
+
+of New York than it is of the Northern District of California” and “[a]lthough the government
+
+attorneys assigned to this matter are located in this district, the United States government clearly
+
+also has attorneys resident in the Northern District of California.”); United States ex rel. Thomas
+
+v. Duke Univ., No. 4:13-CV-17, 2017 WL 1169734, at *2 (W.D. Va. Mar. 28, 2017) (rejecting
+
+argument that U.S. Attorney’s Office “has spent years investigating this case, and if this case was
+
+transferred, new prosecutors . . . would need to start ‘from scratch,’” where attorneys, agents, and
+
+investigators interviewed witnesses all over the country and “U.S. Attorney’s Offices regularly
+
+coordinate on matters across jurisdictional lines”).
+
+       Indeed, in an FCA case currently pending in the Central District of California, dozens of
+
+DOJ attorneys, including those based in the Western District of New York (and some who appear
+
+in this case), have entered their appearances. See Poehling, Case No. 2:16-cv-08697-MWF-SS
+
+(C.D. Cal.). The R&R should not have ignored this Poehling case, which unequivocally vitiates
+
+the government’s assertions of inconvenience. This factor weighs strongly for transfer to Kansas.
+
+       Notwithstanding the factors’ clear weight in favor of Kansas, the R&R erroneously
+
+concludes that the “totality of the circumstances” and the “interests of justice” weigh against
+
+
+
+
+                                                 22
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 24 of 25
+
+
+
+
+transfer. (R&R at 9.) However, the R&R evaded that it is undisputed that a plaintiff’s choice of
+
+forum “is not entitled to the weight it is generally accorded when [as here] the forum chosen has
+
+no material connection with the action.” WD Encore Software, LLC, 2016 WL 1056628 at *5
+
+(quoting Invivo Research, Inc. v. Magnetic Resonance Equip. Corp., 119 F. Supp. 2d 433, 438
+
+(S.D.N.Y. 2000)). Neither the R&R nor the government can get around the fact that there are zero
+
+allegations pertaining to New York in the Complaint, that none of the alleged fraudulent decision-
+
+making occurred in New York, and that none of the contractual formation or payment-related
+
+performance occurred in New York. Both the R&R and the government also improperly ignore
+
+that in an FCA case, “[b]ecause the United States government can adequately litigate in multiple
+
+fora, while its choice of forum is properly granted significant weight, it is not a choice that deserves
+
+the same level of deference as does a choice by a plaintiff to bring an action in her home district.”
+
+Nature’s Farm Prod., Inc., 2004 WL 1077968 at *6 (internal quotations and alterations omitted).
+
+        Lastly, the R&R asserts that “transfer would likely cause an undue delay,” even
+
+recognizing “the lighter caseload and quicker disposition of matters in the District of Kansas,” but
+
+remarkably ignores that Defendants have had to wait for the R&R for eleven months (oral
+
+argument was held on August 12, 2019), and are now having to pursue the instant Objections. The
+
+time lapse in this case alone, not to mention the decade-long pre-intervention investigation, more
+
+than amply proves the point that the interests of justice weigh in favor of transfer. This is
+
+particularly true given the Poehling example ignored by the R&R, and the fact that the government
+
+does not dispute that this is early-stage litigation where discovery has not even commenced. And,
+
+the R&R ignores that most importantly, “the administration of justice is better served when the
+
+action is litigated in the forum that encompasses the locus of operative facts and thus may have a
+
+particular interest in the proper resolution of the dispute.” Wright & Miller, 15 Federal Practice
+
+
+
+
+                                                  23
+     Case 1:08-cv-00811-RJA-MJR Document 102 Filed 07/31/20 Page 25 of 25
+
+
+
+
+and Procedure § 3854, at 360-61.
+
+        Accordingly, the R&R is clearly erroneous, and transfer must be granted if dismissal is not.
+
+                                         CONCLUSION
+
+        Based on the foregoing, the R&R should not be adopted. Instead, the Court should dismiss
+
+the government’s remaining claims, Counts I, II, IV, and V, with prejudice. If any claims survive,
+
+the Court should order transfer to the District of Kansas. Defendants respectfully request all such
+
+other and further relief as the Court deems just and proper.
+
+
+
+ Dated: July 31, 2020                              DENTONS US LLP
+ New York, New York
+                                                   BY:      /S/ SEAN CENAWOOD
+                                                         Sean Cenawood, NY2463750
+                                                         1221 Avenue of the Americas
+                                                         New York, NY 10020-1089
+                                                         Telephone: (212) 768-6700
+                                                         sean.cenawood@dentons.com
+
+                                                         Stephen L. Hill, Jr., MO36033
+                                                         Sara M. Holzschuh, KS24864
+                                                         4520 Main Street, Suite 1100
+                                                         Kansas City, Missouri 64111
+                                                         Telephone: (816) 460-2400
+                                                         stephen.hill@dentons.com
+                                                         sara.holzschuh@dentons.com
+                                                         Pro Hac Vice Appearance
+
+                                                         ATTORNEYS FOR DEFENDANTS
+
+
+
+
+US_Active\115198107\V-2
+
+
+
+
+                                                24
+

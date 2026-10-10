@@ -1,0 +1,459 @@
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 1 of 9 PageID 343
+
+
+
+
+                          UNITED STATES DISTRICT COURT
+                           MIDDLE DISTRICT OF FLORIDA
+                                 TAMPA DIVISION
+
+ESTES EXPRESS LINES,
+
+       Plaintiff,
+
+v.                                                                Case No: 8:19-cv-467-T-36AEP
+
+COVERLEX, INC.,
+
+       Defendant.
+
+
+                                            ORDER
+
+       This cause comes before the Court upon Plaintiff Estes Express Lines’ (“Estes Express”)
+
+Amended Motion for Entry of Default Final Judgment [Doc. 19]. The Court granted default
+
+judgment as to liability by order dated November 25, 2019. [Doc. 15]. In that order, the Court
+
+explained that “additional explanatory information [was] needed to prove the damages sought.”
+
+See id. at 5-6. Estes Express now seeks to establish its damages. Having considered the Amended
+
+Motion and attached affidavit and being fully advised in the premises, the Court will deny the
+
+amended motion as it pertains to the establishment of damages.
+
+       I.      BACKGROUND
+
+       This lawsuit arises from a business relationship which began in 2018, when Estes Express,
+
+a duly licensed and authorized motor carrier for hire, was contacted by Coverlex , Inc. (“Coverlex”)
+
+about performing transportation services on behalf of Coverlex. [Doc. 1 at ¶ 5]. Estes Express
+
+issued a pricing agreement to Coverlex, which among other things provided shipping discounts
+
+and preferred pricing. Id. 1 at ¶¶ 6, 7; pp. 7-14. Unless otherwise provided in the Agreement, all
+
+shipments were “subject to the rules set forth in Item 1000 of the EXLA 668 Discount Tariff and
+
+the EXLA 105 Rules Tariff in effect at the time of shipment.” Id. at ¶ 10; p. 14. Approximately
+
+                                                 1
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 2 of 9 PageID 344
+
+
+
+
+2,500 shipments of commercial goods were tendered to Estes Express by Coverlex pursuant to the
+
+Agreement. Id. at ¶ 12. Coverlex was invoiced for all amounts owed and accepted each of Estes
+
+Express’ invoices and underlying paperwork without objection or protest. Id. at ¶ 18. Despite
+
+demand, Coverlex failed and refused to pay Estes Express’ original invoices in the amount of
+
+$335,575.69. 1 Id. at ¶¶ 19-20. Accordingly, Estes Express removed all discounts from the invoices
+
+in accordance with Item 720 of EXLA Tariff 105 series and notified Coverlex of the discount
+
+forfeiture based on the failure to pay. Id. at ¶¶ 21, 22; p. 17. The total amount of the unpaid,
+
+undiscounted freight charges due and owing to Estes Express is $1,829,154.14. 2 Id. at ¶ 23. That
+
+amount consists of original freight charges of $335,575.69 plus lost discount charges of
+
+$1,493,578.45. Doc. 1 at ¶ 23.
+
+       On February 22, 2019, Estes Express filed a two-count complaint against Coverlex for
+
+breach of contract and quantum meruit. [Doc. 1]. A return of service [Doc. 8-1] was filed March
+
+14, 2019, and a Clerk’s default [Doc. 10] pursuant to Federal Rule of Civil Procedure 55(a) was
+
+entered shortly after. The Court has since entered default judgment as to liability. [Doc. 15].
+
+However, the Court deferred ruling on damages because Estes Express had not satisfied its burden
+
+of proof as to damages. Id. at 4-6. Specifically, the Court noted that (i) none of the documents
+
+attached to the complaint state a total sum of $335,575.69; (ii) there was insufficient information
+
+about the lost discount charges; (iii) it did not appear that Estes Express had submitted line item
+
+
+
+
+1
+  Estes Express has noted that the total unpaid freight charges is actually $337,110.73. See Doc.
+19-1 at p. 4 n.1.
+2
+  Estes Express has also corrected the total undiscounted freight charges to $1,833,322.01 and
+has noted that it will abide by the drafting error and accept judgment for the lesser amount. See
+Doc. 19-1 at p. 5 n.3.
+                                                2
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 3 of 9 PageID 345
+
+
+
+
+charges totaling the claimed lost discount amount; and (iv) Estes Express had failed to elucidate
+
+how the shipping discounts were calculated and removed. 3 See id. at 5.
+
+       Estes Express attempts to address these issues in its amended motion for default judgment
+
+[Doc. 19]. There, it states that a supplemental affidavit has been provided “to clarify the disparity
+
+between the exhibit to the complaint and the original affidavit of indebtedness, which was simply
+
+the failure on the part of Estes [Express] to include the accessorial charges in its total damages,
+
+instead merely totaling the original freight charges, with the fuel surcharge, and loss of discount;”
+
+and to “prove[] up the debt that is owed to the Plaintiff in the principal sum of $1,829,646.64.” See
+
+id. ¶¶ 11, 12. In her affidavit, Donna Ferguson—Credit Analyst in the Credit Risk Management
+
+Department at Estes Express—explains that Coverlex failed and refused to pay Estes Express’
+
+original invoices in the amount of $335,575. [Doc. 19-1 ¶¶ 19, 20, 78]. By failing to make timely
+
+payment of the amounts owing, Coverlex allegedly forfeited $1,493,578.45 in freight discounts,
+
+resulting in a total amount due of $1,829,154.14. Id. at ¶¶ 23, 24. Ferguson provides the pricing
+
+agreement which lists various discounts and minimum charges based on the origin and destination
+
+of the shipment; whether it was outbound prepaid, outbound collect, inbound collect, or third party;
+
+
+
+
+3
+  The Court had raised these same concerns—among others—in its first order denying default
+judgment stating as follows:
+
+                   Plaintiff’s Complaint and affidavit do not provide the terms of the
+                  tariffs, do not include information about the shipments—for
+                  example, the destination, weight, or rate,—to determine how the
+                  $335,575.69 freight charges were calculated, and do not include
+                  sufficient information about how the discounts were calculated and
+                  removed, resulting in higher charges. Plaintiff merely concludes the
+                  amount due without providing sufficient factual material to prove
+                  the two main components of the total damages.
+
+[Doc. 12 at 4].
+
+
+                                                   3
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 4 of 9 PageID 346
+
+
+
+
+and whether there were accessorial exceptions. Id. at 7-14. The discount forfeiture notice was also
+
+provided with the affidavit. It states:
+
+                This is notification that your account with Estes Express Lines as
+                shown below is past due.
+
+                Failure to remit payment in full within 20 days will result in the
+                addition of forfeited discount penalties and/or 30% penalty of
+                undiscounted freight charges for the total amount due of
+                $1,833,322.01 as allowed by tariff EXLA 105 series, items 720 and
+                720-50.
+
+Id. at 17. The notice provides line item information for 2498 past due freight bills including freight
+
+bill date, reference number, and amount due. Id. at 17-69. The total past due amount is
+
+$337,110.73. Id. at 69. Ms. Ferguson also provides five sets of exemplar freight bills as exhibits
+
+and explains that each gave a breakdown of the charges for shipment including the total discounted
+
+and undiscounted amounts. Id. ¶¶ 13, 16. All five freight bills reflect a significant price increase
+
+when forfeited discounts are added; going from $119.66 to $572.69, from $202.44 to $1140.80,
+
+from $121.08 to $599.73, from $106.08 to $625.63, and from $145.95 to $720.67. See id. at 70,
+
+72, 74, 76, 78. However, none of the documents attached to the affidavit show the total
+
+undiscounted freight charges. See Doc. 19-1.
+
+        II.     LEGAL STANDARD
+
+        “Even when a default judgment is warranted based on a party's failure to defend, the
+
+allegations in the complaint with respect to the amount of damages are not deemed true.” Almeira
+
+v. GB House, LLC, No. 8:14-CV-00045-T-27, 2014 WL 1366808, at *1 (M.D. Fla. Apr. 7, 2014).
+
+A plaintiff is entitled to only those damages adequately supported by the record. See Adolph Coors
+
+Co. v. Movement Against Racism and the Klan, 777 F.2d 1538, 1544 (11th Cir. 1985). “When
+
+faced with a motion for default judgment, a court has ‘an obligation to assure there is a legitimate
+
+basis for any damage award it enters.’ ” Pinnacle Towers LLC v. airPowered, LLC, No. 5:15-CV-
+
+                                                  4
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 5 of 9 PageID 347
+
+
+
+
+81-OC-34PRL, 2015 WL 7351397, at *1 (M.D. Fla. Nov. 20, 2015) (citing Anheuser-Busch, Inc.
+
+v. Philpot, 317 F.3d 1264, 1266 (11th Cir. 2007)). “[T]he Court must determine the amount and
+
+character of damages to be awarded.” Cabrera v. Fla. Express Bus, LLC, No. 8:13-CV-1850-T-
+
+35EAJ, 2015 WL 12844403, at *2 (M.D. Fla. June 23, 2015), report and recommendation
+
+adopted, No. 8:13-CV-1850-T-35EAJ, 2015 WL 12853103 (M.D. Fla. July 10, 2015).
+
+       While an evidentiary hearing may be held to determine appropriate damages, it is not
+
+required, particularly where all of the required evidence is of record, Almeira, 2014 WL 1366808,
+
+at *1, and the plaintiff’s claim against the defendant is for a sum certain or for a sum which by
+
+computation can be made certain, or if the amount claimed is a liquidated sum or one capable of
+
+mathematical calculation, S.E.C. v. Smyth, 420 F.3d 1225, 1231 (11th Cir. 2005). See also Fed. R.
+
+Civ. P. 55(b). However, default judgement as to damages will not be granted where an affidavit is
+
+conclusory and does not sufficiently address the computation of the amount of damage. Almeira,
+
+2014 WL 1366808, at *1; Stevens v. ACR Sales & Serv., Inc., No. 608-CV-421-ORL-31KRS, 2008
+
+WL 2275529, at *1 (M.D. Fla. May 31, 2008) (finding affidavit insufficient to establish damages).
+
+“Rather than merely telling the Court in summary fashion what its damages are, a plaintiff
+
+seeking default judgment must show the Court what those damages are, how they are calculated,
+
+and where they are from.” FLCM ACQ VIII, LLC v. Taos Ventures, LLC, No. 5:13-CV-529-OC-
+
+PRL, 2015 WL 898560, at *1 (M.D. Fla. Mar. 3, 2015).
+
+       III.    DISCUSSION
+
+       In this case, Estes Express is seeking damages in the amount of of $1,829,154.14. [Doc.
+
+19-1 ¶ 24]. This amount has not been sufficiently established. The five exemplar freight bills
+
+provided as exhibits to the supplemental affidavit do in fact show significant price differences with
+
+the forfeited discount added or removed. However, the only explanation of the entries on the
+
+
+
+                                                 5
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 6 of 9 PageID 348
+
+
+
+
+exemplar bill provided by Ms. Ferguson in her affidavit is a line item description of the various
+
+figures or amounts listed. Specifically, she states
+
+               Each freight bill provides an itemized break down of the charges for
+               the shipment. For example, PRO 048-2019894 is rated as class 125,
+               at 60 pounds for $537.03, plus $15.00 for residential delivery, plus
+               a fuel surcharge of 24.6 percent, and less a discount of $453.03, for
+               a total discounted freight bill of $119.66, and an undiscounted
+               amount of $572.69. See Exhibit C.
+
+Id. ¶ 16. There is no explanation as to how the amount of the forfeited discount was determined
+
+with reference to the numbers or percentages listed in the Agreement. For instance, this specific
+
+freight bill used by Ms. Ferguson as an example is for a shipment from Florida to Oklahoma. Id.
+
+at 70. The Agreement indicates that for outbound prepaid shipping to or from Oklahoma, there is
+
+a 97% discount and an $84.00 minimum charge. Id. at 7. From the Court’s review of the
+
+documentary evidence provided, it is not clear how these rates were used in arriving at the $453.03
+
+discount or the $119.66 total charge. Accordingly, the method used by Estes Express in computing
+
+forfeited discounts for each of the 2498 freight bills at issue in this case is unclear. As this Court
+
+has stated, rather than merely telling the Court what its damages are, a plaintiff
+
+seeking default judgment must show the Court, among other things, how those damages are
+
+calculated. Taos Ventures, 2015 WL 898560, at *1. Estes Express has not done so here. Asking
+
+the Court to take a “judicial leap of faith in fixing the amount of a default judgment is
+
+fundamentally incompatible with the bright-line requirement that a plaintiff seeking
+
+a default judgment must prove its damages by record evidence.” Phazzer Elecs., Inc. v. Protective
+
+Sols., Inc., No. 6:15-CV-348-ORL-31DAB, 2015 WL 7184561, at *5 (M.D. Fla. Oct. 27,
+
+2015), report and recommendation adopted, No. 6:15-CV3-48-ORL-31DAB, 2015 WL 7076847
+
+(M.D. Fla. Nov. 13, 2015).
+
+
+
+
+                                                  6
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 7 of 9 PageID 349
+
+
+
+
+       Like here, the plaintiff in Taos Ventures submitted an affidavit to prove damages in the
+
+amount of $327,805.10 under Lease No. 1, and $229,225.24 under Lease No. 2. 2015 WL 898560,
+
+at *3. The Master Lease Agreement and supporting Schedules were attached as exhibits. Id. This
+
+Court found that the plaintiff “ha[d] not laid out precisely how it calculated the total amounts
+
+requested” and directed the plaintiff “to identify each basis and a calculation for each sum total of
+
+its damages.” Id. See also, e.g., Pinnacle Towers LLC, 2015 WL 5897524, at *2 (“This Court
+
+requires a more precise calculation from Plaintiffs because, of course, this Court has a duty to
+
+determine the proper amount of damages, if any are awarded. . . . Plaintiffs shall set forth the total
+
+amounts due under each agreement and how Plaintiff calculated those amounts. Also, they shall
+
+set forth, for each count, the amounts that Defendant has paid to date, along with the amounts
+
+Defendant still owes, and set forth the interest on those amounts still owed along with how
+
+Plaintiffs calculated the interest amounts.”); Baumann v. Prober & Raphael, No. 6:15-CV-1951-
+
+ORL-40GJK, 2017 WL 10350673, at *3 (M.D. Fla. May 17, 2017) (noting among other things
+
+that plaintiff provided no evidence or any other explanation how his damages were calculated and
+
+therefore failed to prove his entitlement to the actual damages sought); Richo v. Williams, No.
+
+3:15-CV-0474-HES-MCR, 2016 WL 9488721, at *2 (M.D. Fla. June 23, 2016) (noting that
+
+plaintiff had, in the past, provided an affidavit which included a spreadsheet of his missing wages
+
+with calculations and based on the Court’s correct calculations, a default judgment was entered in
+
+the amount of $48,411.00 in damages and liquidated damages); Volvo Fin. Servs. v. D & D Tractor
+
+& Truck Serv., Inc., No. 6:15-CV-960-ORL-31KRS, 2015 WL 13740688, at *1 (M.D. Fla. Sept.
+
+15, 2015) (instructing that in its renewed motion for default judgment, plaintiff should describe
+
+how damages, including interest, should be calculated). As in those cases, Estes Express’
+
+presentation of damages here does not sufficiently demonstrate its entitlement to $1,829,154.14.
+
+
+
+                                                  7
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 8 of 9 PageID 350
+
+
+
+
+       In contrast, this Court found that the amount of damages was sufficiently established in
+
+Trailer Bridge, Inc. v. Int'l Distribution Servs., LLC,.. No. 3:10-CV-601-J-37TEM, 2011 WL
+
+7789463, at *3 (M.D. Fla. Nov. 4, 2011), report and recommendation adopted, No. 3:10-CV-601-
+
+J-37TEM, 2011 WL 7789451 (M.D. Fla. Nov. 28, 2011). In that case, “[a] spreadsheet identifying
+
+Defendant's past due invoices and the corresponding amounts outstanding was attached to the
+
+amended complaint.” Id. The plaintiff also “provided the Court with actual copies of all but one of
+
+the outstanding invoices for the past due freight and demurrage charges.” Id. A telephonic hearing
+
+directed to the evidence submitted to the Court was conducted. Id. The Court determined there was
+
+sufficient evidence to calculate the amount of damages owed and further evidentiary hearing was
+
+not required. Id. Specifically, the Court reasoned that the documents corresponded with the invoice
+
+numbers and amounts set forth in the spreadsheet attached to the amended complaint and
+
+calculation of the invoice amounts totaled $299,920.07, less an off-set of $55,000, as stated. Id.
+
+        Estes Express has not remedied the deficiency regarding lost discount charges that the
+
+Court identified in its prior orders. See Doc. 12 at 4, Doc. 15 at 5-6. Again, there are no line item
+
+charges reflecting lost discounts totalling $1,493,578.45, and Estes Express has wholly failed to
+
+elucidate how the shipping discounts were calculated and removed. As such, additional
+
+explanatory information is needed to prove the lost discount charges. The Court will require an
+
+evidentiary hearing 4 at which Estes Express may “endeavor to meet [its] burden of proof” as to
+
+damages. Baumann v. Bank of Am., N.A., 734 Fed. Appx. 664, 671 (11th Cir. 2018).
+
+       Accordingly, it is ORDERED:
+
+
+
+
+4
+  “In conducting a hearing for default-judgment purposes, a court must preserve any federal
+statutory right to a jury trial.” Alecca v. AMG Managing Partners, LLC, No. 3:13-CV-163-J-
+39PDB, 2014 WL 2987702, at *4 (M.D. Fla. July 2, 2014) (citing Fed. R. Civ. P. 55(b)). Here,
+however, Estes Express has not made a jury demand.
+                                                 8
+Case 8:19-cv-00467-CEH-AEP Document 20 Filed 07/22/20 Page 9 of 9 PageID 351
+
+
+
+
+       1. The Amended Motion for Entry of Default Final Judgment [Doc. 19] is hereby
+
+           DENIED.
+
+       2. The amount of damages will be determined at an evidentiary hearing.
+
+       3. A telephonic status conference will be scheduled for August 4, 2020 at 11:00 a.m. The
+
+           purpose of the telephonic status conference is to select a date for the evidentiary
+
+           hearing.
+
+       DONE AND ORDERED in Tampa, Florida on July 22, 2020.
+
+
+
+
+COPIES TO:
+COUNSEL OF RECORD AND UNREPRESENTED PARTIES, IF ANY
+
+
+
+
+                                                9
+

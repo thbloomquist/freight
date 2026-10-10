@@ -1,0 +1,676 @@
+United States Bankruptcy Court for the District of Delaware
+
+                                                                                                     For Court Use Only
+ Name of Debtor: YRC Inc.                                                                            Claim Number:        0000018553
+
+ Case Number:          23-11087                                                                      File Date:           11/13/2023 19:55:55
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 Total Quality Logistics, LLC
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+                                                TQL
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          Total Quality Logistics, LLC
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        Attn: Joseph B. Wells, Corporate Counsel
+              _______________________________________________________              Address     _______________________________________________________
+               4289 Ivy Pointe Blvd.
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+              Cincinnati
+City          _______________________________________________________              City        _______________________________________________________
+               OH                                   45245
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+
+Country (if International): __________________________________________             Country (if International): __________________________________________
+              513.495.6193
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              jwells@tql.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           275,915.66
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       Other Basis
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by         See Attached Addendum.
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □
+                                                                                                                    ✔ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:                                                                                                   Amounts Alleged Due to Debtor
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □
+                            ✔ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Joseph Brown Wells                                                             11/13/2023 19:55:55
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      Joseph Brown Wells
+                            Name      ______________________________________________________________________________________________
+                                    4289 Ivy Pointe Blvd
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Cincinnati
+                            City      _____________________________________________________________________________________________
+                                      OH                                                    45245
+                            State     ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+                                      513.495.6193
+                            Phone     _____________________________________________________________________________________________
+                                       jwells@tql.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+                                     YRC Inc. (the “Debtor”)
+                    United States Bankruptcy Court for the District of Delaware
+                                        Case No. 23-11087
+
+     ADDENDUM TO PROOF OF CLAIM OF TOTAL QUALITY LOGISTICS, LLC
+
+        The claimant, Total Quality Logistics, LLC (“TQL”), holds a claim against the Debtor in
+the total amount of $275,915.66, as summarized on the attached Exhibit A.1 All such amounts are
+claimed as defenses to equal amounts alleged to be due to the Debtor by TQL and are subject to
+TQL’s rights of recoupment and/or setoff, among other rights (all of which TQL expressly
+reserves) as may arise under applicable law.
+
+        Since shortly after the commencement of the Debtor’s chapter 11 case, TQL and the Debtor
+have engaged in extensive discussions regarding potential resolution of the amounts alleged to be
+due to the Debtor by TQL as well as the amounts due by the Debtor to TQL, including those
+summarized on the attached Exhibit A.2 In the ordinary course of business between the parties, as
+well as part of such discussions regarding potential resolution, TQL has provided further detailed
+information and documentation to the Debtor with respect to the basis, and in support of, the
+amounts set forth on the attached Exhibit A. Copies of the documents and further detailed
+information supporting and providing further basis for TQL’s claim set forth in this proof of claim
+(collectively, the “Documents”) are voluminous, and as such, have not been attached hereto, but
+can be submitted as may be required in the future. TQL believes that the Debtor is in possession
+of such Documents and TQL will also make such Documents available to the Debtor upon written
+request sent to Total Quality Logistics, LLC, Attn: Joseph B. Wells, Corporate Counsel, 4289 Ivy
+Pointe Blvd., Cincinnati, Ohio 45245 or jwells@tql.com. If copies of the Documents are required
+to be filed with the Court or requested by any other party in interest, TQL reserves all rights,
+including, without limitation, the right to request to file the Documents under seal and/or to seek
+to protect such information as confidential pursuant to Section 107 of title 11 of the United States
+Code (the “Bankruptcy Code”) or otherwise applicable law, to the extent such Documents may
+contain or comprise confidential and/or proprietary information.
+
+        TQL reserves the right to amend or supplement this proof of claim from time to time and
+at any time. Without limiting the foregoing, TQL reserves the right to amend or supplement this
+proof of claim to assert any additional invoice disputes, overcharges, credits, discounts, cargo
+claims and/or any other amounts due to TQL by the Debtor within no less than the time period(s)
+provided by any applicable law, including, without limitation, 49 U.S.C. § 14706(e)(1), as well as
+any other federal transportation laws and regulations, as may be applicable.
+
+        Further, the filing of this proof of claim is not, nor shall it be deemed to be: (a) a waiver or
+release of TQL’s rights against any person, entity or property; (b) a consent by TQL to the
+
+1
+  Included in this total are amounts due to TQL with respect to certain cargo claims that TQL exercised its right of
+recoupment prior to the Petition Date pursuant to a notice of recoupment and demand for adequate assurance provided
+by TQL to the Debtor on or about July 31, 2023. Although TQL exercised its right of recoupment with respect to such
+amounts prior to the Petition Date, TQL includes these amounts herein (and continues to assert its rights of recoupment
+and/or setoff with respect to the same) out of an abundance of caution.
+2
+  Pursuant to contract, TQL is the real party in interest for those cargo claims set forth on Exhibit A which were
+assigned to it from customers of TQL, further details of which can be provided as necessary.
+jurisdiction of this Court with respect to the subject matter of these claims or any objection or other
+proceeding commenced thereto or any other proceeding commenced in this case against or
+otherwise involving TQL; (c) a waiver or release of any right or claim of TQL arising out of any
+other claim, of any nature whatsoever, which TQL has against the Debtor or any of its affiliates;
+(d) a waiver or release of any rights of TQL under any provision of the Bankruptcy Code or
+applicable non-bankruptcy law; (e) an election of any remedy to the exclusion, express or implied,
+of any other remedy; (f) a consent that this claim is a debt which is subject to discharge in this or
+any subsequent bankruptcy proceeding; (g) a ratification or consent to any obligations or liability
+based upon or arising out of any transactions between TQL and the Debtor; (h) a waiver or release
+of, or any other limitation on, any rights of TQL to have any and all final orders in any and all
+noncore matters entered only after de novo review by a U.S. District Court; (i) a waiver or release
+of any right of TQL, or consent by TQL, to trial by jury in this Court or any other court in any
+proceeding; (j) a waiver or release of any rights of TQL to request withdrawal of the reference
+with respect to any matter, including, without limitation, any matter relating to this proof of claim;
+(k) a waiver or release of, or any other limitation on, any right of TQL to assert that any portion of
+its claim against the Debtor is entitled to treatment as an administrative priority claim; or (l) a
+waiver or release of any right of netting, recoupment and/or setoff.
+
+        All of the foregoing rights and claims are hereby preserved without exception and with no
+purpose of confessing or conceding any of the foregoing in any way by this filing or by any other
+participation in this case.
+                      EXHIBIT A
+
+   Summary Description              Summary Amount
+Pending Cargo Claims           $81,839.53
+YRC Approved But Unpaid        $48,864.01
+Cargo Claims (Not Subject to
+07.31.23 Recoupment Notice)
+YRC Approved But Unpaid        $53,091.77
+Cargo Claims Subject to
+07.31.23 Recoupment Notice
+Invoice Disputes               $65,139.16
+Overcharge Claims              $19,799.85
+                               $7,181.34
+Other Credits
+TOTAL                          $275,915.66
+                        Pending Cargo Claims
+
+TQL PO #     PRO #        Claim Calculated at
+                          Carrier Tariff Amt*
+
+24922469   686302171X         $1,308.71
+24892662   6890545766         $3,260.00
+24877346   7040054221          $155.43
+24896744   7015244131         $1,183.00
+24918855   655127689X         $1,296.83
+24921109   7271373873         $6,880.00
+24807170   6961248015          $143.75
+24851925   6499634112         $2,500.00
+24833881   6928588196           $96.34
+24836982   6753744429          $131.61
+24638959   7016996083         $3,360.91
+24659784   6240225776         $4,323.54
+24804382   6898669697         $1,235.00
+24735330   689338856X          $884.90
+24706997   7040052690          $310.86
+24722187   6642134981          $712.68
+24712508   6536301974         $2,825.00
+24642500   6646593795          $163.25
+24601633   6566134096          $300.00
+24502097   8550640366          $114.00
+24470222   6897385447           $44.00
+24478289   8872209195           $96.67
+24481743   7150719382          $120.00
+24469012   6772623208          $408.00
+24484029   664659352X         $1,314.00
+24466792   6132653155         $2,912.48
+24363178   7090059227         $4,683.78
+24390417   7015049761          $556.50
+24109293   6967489002         $1,036.25
+23981605   7090931756          $350.00
+23776176   6771739385          $766.70
+23713951   6969483569          $436.60
+23637548   6071753180         $3,495.00
+23483980   6514541992         $2,352.00
+23529465   6926394264         $1,800.00
+23579361   6898771180         $3,088.74
+23391525   6928973957          $319.20
+ 23206863      6196975569                      $2,746.23
+ 23203813      6619805620                        $86.00
+ 23199211      6897922622                      $6,772.68
+ 22818527      6247472731                       $254.33
+ 22394567      6251477796                       $150.00
+ 22347344      6862882597                      $1,509.39
+ 21300590      7901276725                       $140.40
+ 20684382      4940785052                        $54.40
+ 24445897      6868656762                       $591.00
+ 23764730      7041769772                       $665.40
+ 22237931      648536306X                       $954.00
+ 21542012      6493862679                      $3,605.65
+ 24805503      7279423096                       $100.00
+ 21540335 6603468805/0375194063                $5,607.15
+ 21542012      6493862679                      $3,605.65
+ 24904266      7016212764                        $31.52
+                                              $81,839.53
+
+
+
+
+*The above amounts listed are the amounts calculated considering the YRC tariff limitations rather than
+the submitted claim amount; provided, however, TQL reserves all rights with respect to the same.
+                      YRC Approved But Unpaid Cargo Claims
+                     (Not Subject to 07.31.23 Recoupment Notice)
+
+TQL PO#      PRO #       Carrier Approved
+                           Pay Amount
+
+24865222   7290496293       $1,011.77
+24982398   6862289412        $700.00
+24863926   7295807149        $165.50
+24838684   7304439903        $311.28
+24738053   6898194176        $25.00
+24568549   7303478907       $2,750.00
+24642691   6861351763        $408.00
+24530707   7291180787        $100.00
+24457693   7040880808        $35.00
+24447249   7111523812       $2,400.00
+24304900   6619838025        $240.00
+24331171   6911861916        $198.00
+24232355   6753743951        $267.41
+24211076   6614652560        $132.83
+24067480   6753724802       $5,198.55
+24008783   6927317027        $744.00
+23999364   7053993862        $50.00
+23865868   6914486130        $66.62
+23471668   6966158599        $176.12
+23435573   6687291269        $98.00
+23322833   8872677465       $1,000.00
+23362554   8550003686        $427.50
+23036208   6929410464       $2,160.00
+23010417   8667652949        $507.00
+22294158   6257014801       $1,074.00
+21803632   6595401359        $150.44
+21563013   6196347532       $3,100.15
+20000161   6136252557        $44.33
+18287065   4443700905        $30.00
+24965630   7422161217        $450.00
+24876830   6758460055       $1,729.00
+24884401   7091067615        $575.00
+24687608   6964412055        $624.00
+24866793   6925051604       $5,000.00
+24789811   6871190402        $360.00
+24739815   7046828939        $560.00
+24716143   6895337714     $235.00
+24593338   7015436265     $104.25
+24661629   6755644082    $1,784.04
+24581979   4940774923      $50.00
+24600117   7092087068     $192.00
+24328301   670337107X     $816.86
+24231357   709410906X     $100.00
+23795879   6915066207      $25.00
+23231396   6691336996      $35.00
+23152308   6566888357    $4,515.00
+22924333   6872811638    $7,693.20
+22011323   6539061764     $444.16
+                        $48,864.01
+YRC Approved But Unpaid Cargo Claims Subject to 07.31.23 Recoupment Notice
+
+TQL PO #       PRO #      Carrier Approved
+                            Pay Amount
+24521312    7153046946         $21.00
+24246231    7047938738        $726.35
+24613129    7156462749       $2,900.00
+24229422    6751577721         $18.63
+23643543    675945396X       $1,522.75
+22556120    6745740992       $2,336.98
+18582488    659235489X        $317.04
+23865868    6914486130         $66.62
+23458460    6495909705        $100.00
+23568987    6877068079       $4,689.44
+24067480    6753724802       $5,198.55
+24214246    6343978527         $38.02
+24197537    7058356399        $921.30
+24087747    6061687108       $2,295.40
+21498549    6559711442        $265.00
+24434186    6386327200        $160.00
+24223737    7016275125        $150.00
+23497307    6869841480       $4,000.00
+20068108    6248678735       $2,500.00
+24526762    6248837254        $480.00
+24186241    6486604364       $1,120.00
+21052667    6480979413        $100.00
+23092428    6875457531       $2,400.00
+22877577    6646585884        $670.65
+23207866    3495071651        $470.18
+23681196    6193328537        $322.00
+22784920    6916902610       $3,525.00
+23450017    6929460514        $660.00
+22469890    6591769058        $364.00
+22520873    6603091642         $40.00
+17861559    6380274616        $125.00
+22023218    6645999492       $7,755.88
+21999230    6565186152       $1,050.00
+17377558    4371379988        $460.00
+18287065    4443700905         $30.00
+20295025    6364167543        $260.00
+20603940    654534414X         $64.00
+17123634    535290599X        $660.00
+18163987   8877127111     $169.00
+18462520   5351363771    $1,204.35
+17727520   6771946102    $1,577.81
+15885340   5051034532     $415.00
+24457693   7040880808      $35.00
+24177842   6533950531     $378.82
+24331171   6911861916     $198.00
+23062672   624846209X     $330.00
+                        $53,091.77
+                                                 Invoice Disputes
+
+               Inv        Invoice                Dispute
+   PRO
+             Amount        Date       TQL PO      Amt                               Summary
+5050831629   $572.18      8/5/2022    21211669   $237.34        Dispute relating to failure to correctly apply discount
+6601810409   $443.22         -           -       $443.22            Dispute relating to inability to find record of load
+6193633439   $220.35         -           -       $220.35            Dispute relating to inability to find record of load
+6759234675   $344.08     11/3/2022    22486836   $344.06                               Paid $344.06
+653607091X    $60.00         -           -        $60.00                                   Paid
+6240801974   $649.15     4/11/2022    20231297   $124.45                       emd Alex Ramirex at yellow
+5292840402   $388.21     12/14/2022   22733781   $198.00                     Dispute relating to storage fee
+6743301908    $60.00         -           -       $60.00                                    Paid
+7926820110   $884.46         -           -       $884.46            Dispute relating to inability to find record of load
+689390886X   $195.00         -           -       $195.00                   Dispute relating to lack of invoicing
+6683280476   $586.35     4/10/2023    23846981    $42.00               Dispute relating to fees in excess of quote
+7043482317   $744.50     7/13/2023    24079552   $744.50      Dispute relating to duplicate invoices and appointment fee
+7045309518   $1,331.44    5/3/2023    23972619   $816.00                      Dispute relating to detention
+3063097115   $5,635.84    5/5/2023    24065868   $4,857.08      Dispute relating to failure to correctly apply discount
+7013317261   $231.18         -           -       $231.18            Dispute relating to inability to find record of load
+6754586387   $657.81      5/8/2023    24139314    $80.00                  Dispute relating to redelivery charge
+7018404689   $748.40     5/24/2023    24135842    $50.25                  Dispute relating to appointment fee
+7010933947    $60.00         -           -        $60.00               Dispute relating to attempted delivery fee
+6756605592   $171.57     5/16/2023    24269027    $45.22               Dispute relating to fees in excess of quote
+7152840521   $364.08     5/25/2023    24384986    $39.97                         Dispute relating to class
+6967125499   $1,526.42   7/19/2023    24272301   $1,282.23                     Dispute relating to reweigh
+6895400203   $1,032.42   5/26/2023    24319562   $426.58            Dispute relating to dim change and class change
+6893368622   $322.24     5/30/2023    24295448   $322.24                  Dispute relating to return free astray
+6913378129   $2,190.20   5/30/2023    24307892   $39.00                Dispute relating to quote ID and CBOL fee
+6708652160   $532.51     5/31/2023    23649691   $532.51                                   Paid
+6967501560   $727.25      6/1/2023    24312094   $484.66                 $484.66 balance alleged due was paid
+7274611842   $346.31     6/30/2023    24430001    $95.00            Dispute relating to shipment segregation charge
+696027908X    $60.00         -           -        $60.00            Dispute relating to inability to find record of load
+7159074277    $60.00         -           -        $60.00                        Dispute relating to TONU
+6861281940   $333.82     6/28/2023    24515955    $20.46        Dispute relating to failure to correctly apply discount
+715469558X    $60.00         -           -        $60.00            Dispute relating to inability to find record of load
+6928456508    $60.00         -           -        $60.00            Dispute relating to inability to find record of load
+6928461375    $60.00         -           -        $60.00            Dispute relating to inability to find record of load
+4441659460   $584.12     7/24/2023    24563265    $83.64        Dispute relating to failure to correctly apply discount
+7093520175   $2,468.25   6/26/2023    24566882   $1,100.00                  Dispute relating to inside delivery
+7159103591   $195.00         -           -       $195.00                        Dispute relating to TONU
+6969350148    $60.00         -           -        $60.00                        Dispute relating to TONU
+7015796946   $1,946.53   6/29/2023    24640581   $1,036.21                     Dispute relating to reweigh
+7018454198    $60.00         -          -        $60.00                           Dispute relating to TONU
+7301280941    $60.00         -          -        $60.00                           Dispute relating to TONU
+7094289378    $60.00         -          -        $60.00                    Dispute relating to attempt pickup fee
+7296273686   $393.49     7/3/2023    24582251    $69.49            Dispute relating to failure to correctly apply discount
+6957362704    $60.00         -          -        $60.00              Dispute relating to inability to find record of load
+7154344542   $404.26     8/16/2023   24748376    $10.00                     Dispute relating to appointment fee
+5350813488   $558.37         -          -       $347.92                       Dispute relating to $113 charge
+7157280718   $801.00     7/5/2023    24624027    $40.05                Dispute relating to quote vs invoiced amount
+7093741522   $746.51     7/5/2023    24682514    $40.71                      Dispute relating to excess charges
+7151463844   $310.53     7/6/2023    24595236   $182.35                         Dispute relating to reweigh
+6960257099   $378.83     7/7/2023    24775596   $180.00                Dispute relating to limited access and liftgate
+7292944069   $298.45     7/7/2023    24780523    $23.65                         Dispute relating to reweigh
+7308843093   $356.40         -          -       $137.96                Dispute relating to failure to apply API pricing
+7275483830    $60.00         -          -        $60.00              Dispute relating to inability to find record of load
+7301093840    $60.00         -          -        $60.00                           Dispute relating to TONU
+7301093923    $60.00         -          -        $60.00                           Dispute relating to TONU
+6750003686   $1,426.10       -       24545916   $1,426.10              Dispute relating to missing shipper signed bol
+6966893022   $1,538.40   7/10/2023   24741842   $1,067.20                    Dispute relating to inside delivery
+7278443371   $721.08     7/10/2023   24797167   $307.66            Dispute relating to failure to correctly apply discount
+7096125790   $928.43     7/11/2023   24834485   $382.32                          Dispute relating to reclass
+7272910023   $408.52         -       24185900   $228.20          Dispute relating to limited access, liftgate, inside delivery
+7094183190   $601.27     7/13/2023   24861409   $170.67                          Dispute relating to weights
+6910672834   $253.63     7/14/2023   24835089    $80.00                      Dispute relating to redelivery fee
+6960049749   $377.08     7/14/2023   24923583    $33.76                         Dispute relating to reweigh
+7311065213   $2,751.18   7/14/2023   24775659   $119.15                         Dispute relating to reweigh
+7059026234    $60.00         -          -        $60.00                           Dispute relating to TONU
+6755048625    $60.00         -          -        $60.00                           Dispute relating to TONU
+6913360033   $2,499.78   7/14/2023   24690852   $428.22                     Dispute relating to reweigh/reclass
+692848376X    $60.00         -          -        $60.00                Dispute relating to attempted pickup charge
+6862224741   $756.12     7/17/2023   24846855   $221.51     Dispute relating to inspection - please provide photos of each pallet
+6923411798   $392.13     7/17/2023   24757653    $95.00                  Dispute relating to liftgate delivery charge
+6875864156   $467.54         -          -       $467.54                     Dispute relating to return shipment
+7278413094   $1,574.29   7/18/2023   24836810   $1,358.27               Dispute relating to reconsignment/reweigh
+7299132842   $3,374.11   7/18/2023   24825605   $715.11                      Dispute relating to reconsignment
+6872906173   $1,777.25   3/29/2023   23544086   $1,191.33              Dispute relating to charges in excess of quote
+5415069278   $854.34     7/19/2023   24619119   $586.86                    Dispute relating to additional charges
+6499634112   $4,293.33   7/20/2023   24851925   $3,051.76                       Dispute relating to reweigh
+7051422410   $359.03     7/20/2023   24893464    $67.14                          Dispute relating to reclass
+7152126722   $775.65     7/14/2023   24603207    $69.85            Dispute relating to failure to correctly apply discount
+6535386673   $421.01         -          -       $421.01              Dispute relating to inability to find record of load
+7090391757   $642.40     7/21/2023   24748527   $117.60                Dispute relating to charges in excess of quote
+6913425043      $60.00            -          -        $60.00             Dispute relating to inability to find record of load
+729188266X      $862.66       7/28/2023   24816086    $160.86                     Dispute relating to storage fees
+6960038794      $60.00            -          -        $60.00                         Dispute relating to TONU
+6866992920     $4,401.74      8/16/2023   24856901   $3,393.60                  Dispute relating to storage charges
+6928483842      $788.10       8/16/2023   24962594    $315.00                   Dispute relating to storage charges
+6960038354      $60.00            -          -        $60.00                         Dispute relating to TONU
+6877426468    $13,291.43      6/6/2023    24387401   $12,503.18                Dispute relating to excessive charges
+6969383321      $660.86       5/10/2023   23700793    $150.00                   Dispute relating to extreme length
+6960066743      $60.00            -          -        $60.00                         Dispute relating to TONU
+6746515502      $493.86       8/1/2023    25002412    $270.01                   Dispute relating to diversion charge
+7010222072      $718.85       8/1/2023    24876182    $416.26                        Dispute relating to reclass
+4399517815     $5,879.50      8/30/2023   24925740   $2,214.75                    Dispute relating to storage fees
+7273458144     $7,846.55      8/7/2023    24713243   $5,596.55                    Dispute relating to storage fees
+7298339367      $379.21           -       24955861    $379.21             Dispute relating to missing receiver signed pod
+6862801628     $2,391.20      5/10/2023   23552265   $1,740.27                     Dispute relating to tradeshow
+                                                                  Dispute relating to limited access, liftgate, sort and seg, inside
+7154983092      $402.45
+                              6/14/2023   24535748    $105.00                                 delivery
+2944891738     $2,233.07      8/14/2023   22836281    $664.62                    Dispute relating to volume quote
+6709426010      $804.28       9/8/2023    23789977    $482.79               Dispute relating to documentation needed
+6709450037      $915.64           -          -        $915.64         Dispute relating to multiple invoices/duplicate charges
+6709450046      $737.87           -          -        $737.87         Dispute relating to multiple invoices/duplicate charges
+7041372526      $181.78       7/5/2023    24776260    $38.27                         Dispute relating to liftgate
+   65556       $2,233.10          -          -       $2,233.10      Dispute relating to TQL not being correct party to be billed
+6915172925      $261.51           -          -        $103.10                         Dispute relating to class
+6964845758      $386.91           -          -        $386.91       Dispute relating to paperwork - need receiver signed POD
+7154016468      $60.00            -          -        $60.00             Dispute relating to inability to find record of load
+6914469879      $641.04       8/24/2023   24849872    $80.06                         Dispute relating to reclass
+7152535015      $783.83       8/25/2023   24678568    $545.49                      Dispute relating to detention
+6384118281      $988.99       4/24/2023   23903760    $478.36                   Dispute relating to reconsignment
+7054020868      $470.12       6/15/2023   24278678    $37.46              Dispute relating to charges in excess of quote
+6877779860      $220.35           -                   $135.48             Dispute relating to different invoices received
+6455533413      $195.00           -          -        $195.00                        Dispute relating to TONU
+6745272704      $60.00            -          -        $60.00                         Dispute relating to TONU
+6868656625      $636.76           -       23880169    $396.31                   Dispute relating to reclass/reweigh
+6877779741      $60.00            -          -        $60.00             Dispute relating to inability to find record of load
+6969526707     $1,025.18      3/21/2023   23665693    $95.01                   Dispute relating to appointment fee
+Amount disputed: $65,139.16
+                                     Overcharge Claims
+
+               OVC
+   PRO                     TQL PO                             Summary
+              Amount
+7152838321     $67.25     24593126               Overpayment due to corrected invoice
+7098949032    $165.87     24817345         Overpayment due to linear fee and reweigh dispute
+709347403X     $44.93     24374614                    Overpayment due to reclass
+7093917980     $60.00     24099929                Overpayment due to inside delivery
+6557819736    $132.70     24049180                   Overpayment due to reweigh
+6566049625     $95.00     24053487                 Overpayment due to segregation
+6251118893    $361.00     23951905               Overpayment due to corrected invoice
+6488583567    $235.00     23401877                Overpayment due to extreme length
+6343480685     $75.00     20768961         Overpayment due to cwrong carrier paid for TONU
+6643122855     $60.00     21899402               Overpayment due to TONU paid twice
+7150984051    $272.54     24293976               Overpayment due to reweigh/reclass
+6918125206     $86.93     22900002                    Overpayment due to reclass
+6872881093     $95.00     23179456                    Overpayment due to liftgate
+6897524734    $100.47     22691604                   Overpayment due to reweigh
+7091135265    $178.70     23791092                   Overpayment due to reweigh
+6688378527    $136.00     21242836                Overpayment due to limited access
+613-858735-
+     2        $127.00     21344338                 Overpayment due to sort and seg
+6540464476    $570.06     21580909                    Overpayment due to reclass
+6612377394    $141.00     21665405                Overpayment due to limited access
+6612377394    $272.00     23186912                Overpayment due to inbond charges
+6563661855    $378.36     23217495           Overpayment due to extreme length charges
+6743667162     $76.86     23240888                   Overpayment due to reweigh
+6193411531    $740.00     22341874                  Overpayment due to redelivery
+6602573158    $753.35     21718155              Overpayment due to quarantee delivery
+6918125215     $85.00     22899731          Overpayment due to alleged residential delivery
+4946431527    $964.79     21187509                   Overpayment due to reweigh
+7279410812     $31.31     24576189               Overpayment due to corrected invoice
+6195725152    $383.21     22990011                   Overpayment due to reweigh
+6048018652     $95.00     23508026                   Overpayment due to Liftgate
+6914384546     $67.25     23255570               Overpayment due to appointment fee
+6917998320    $205.68     22911831                    Overpayment due to reclass
+6349299658    $272.00     23336410                Overpayment due to inbond charges
+6606622092    $2,930.22   22088249                    Overpayment due to reclass
+6861511391     $95.00     23992313                   Overpayment due to Liftgate
+6195728553    $301.41     22593516                   Overpayment due to reweigh
+6555675827     $95.00     24365465                   Overpayment due to Liftgate
+6097146087     $95.00     24261700                   Overpayment due to Liftgate
+6097166969      $95.00     24101496           Overpayment due to Liftgate
+6966845906      $893.21    23565972            Overpayment due to reclass
+6098529272      $346.06    24099701            Overpayment due to reclass
+6964843273      $85.00     23599535   Overpayment due to alleged residential pickup
+6917129064      $433.38    24055265            Overpayment due to NMFC
+7156512909      $95.00     24618150           Overpayment due to Liftgate
+4705645009      $575.53    23381948            Overpayment due to reclass
+6488583668      $150.00    23463128   Overpayment due to extreme length charges
+6755324496      $547.06    22606066            Overpayment due to reclass
+6746467322      $761.91    23570327           Overpayment due to reweigh
+6868920057      $24.14     23389401      Overpayment due to corrected invoice
+6539493065      $80.00     23330338          Overpayment due to redelivery
+6926275482      $10.91     23315143            Overpayment due to reclass
+6703262317      $14.92     24546618           Overpayment due to reweigh
+6759813293      $60.00     23504968            Overpayment due to TONU
+6683933820      $95.00     24566505           Overpayment due to Liftgate
+6556519206      $141.77    22048555      Overpayment due to load not delivering
+7057959591      $60.00     24236261            Overpayment due to TONU
+6703328766      $607.20    24553021           Overpayment due to reweigh
+6744289753      $723.23    22665777       Overpayment due to duplicate invoice
+6918546221      $150.00    23920368   Overpayment due to extreme length charges
+6700649184      $171.02    23344696           Overpayment due to reweigh
+675372439X      $95.00     24604656           Overpayment due to Liftgate
+6706935859      $643.93    24338230           Overpayment due to reweigh
+8877505612      $237.20    22516344     Overpayment due to TQL not paying party
+7271530073      $95.00     24927595           Overpayment due to Liftgate
+6928151249      $77.39     23990246           Overpayment due to reweigh
+8872656455     $1,685.10   20024282            Overpayment due to reclass
+Total OVCs: $19,799.85
+                                            Other Credits
+
+                  OVC
+    PRO                           TQL PO                              Summary
+                 Amount
+6706878329       $28.45          22440289                              overpaid
+7208729511        $215.66        22691654                   invoice revised after payment
+6872656345        $320.77        23205657                    Overpaid, invoice adjusted
+6640356887        $10.00         23244110
+5410336115        $275.98        22255508             Not billing party, carrier said paid in full
+6964875191        $85.00         23757942                    alleged residential delivery
+6877413827        $95.00         23652285                    Overpaid, invoice adjusted
+6877420811        $95.00         23652008                    Overpaid, invoice adjusted
+7920594615        $23.47         23500985                           over payment
+6893956096        $462.78        23193066                         Reweigh dispute
+ 49898323         $595.27        24141308                        Paid wrong carrier
+ 410487339        $249.25        23667085                        Paid wrong carrier
+653672200X        $24.37         21866779                     payment resolution mail
+6516086127        $172.00        20455587                     payment resolution mail
+6549558982        $107.76        21288821                     payment resolution mail
+6645536549         $7.71         21605352                     payment resolution mail
+6496979060        $50.58         20462352                     payment resolution mail
+6533910996        $55.62         21138698                     payment resolution mail
+4443923572        $843.47        22058886                     payment resolution mail
+6605584298        $58.00         21639901                     payment resolution mail
+7116852818        $60.00         22198147                     payment resolution mail
+6680570130        $32.30         22868441                          Reclass dispute
+6646626245        $626.39        23008558                          Reclass dispute
+6491417552        $604.44        21959382                         Reweigh dispute
+4443923572       $1,987.07       22058886            guarantee dispute due to never delivered
+6916907414        $95.00         24409312                     liftgate delivery dispute.
+Total Other Credits: $7,181.34
+

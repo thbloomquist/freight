@@ -1,13 +1,70 @@
-# data/ — public document dataset for the C-09 prototype (check AT, started 2026-10-09)
+# data/ — the public document dataset for the C-09 prototype
 
-**Status: INCOMPLETE — usage limit hit mid-run.** Round 0 (rescue) and agent C are ingested; agents A (courts) and B (bankruptcy claim registers) were still running and deliver to `/tmp/claude-1000/-home-teddyb-Documents-personal-bio-freight/1d25eb90-46e6-43c2-a622-678be885d389/scratchpad/dl_A/` and `dl_B/` (manifest_X.csv, leads_X.csv, findings_X.md). That scratchpad is wiped on reboot. To finish: run `python3 -I /tmp/claude-1000/-home-teddyb-Documents-personal-bio-freight/1d25eb90-46e6-43c2-a622-678be885d389/scratchpad/r0/ingest.py A <manifest> <map.json>` (see `r0/map_C.json` for the mapping format), same for B; then the verification agent; then `research/s5_check_AT_c09_document_dataset.md`, `research/s5_check_AT_adversarial.md` and the CLAUDE.md updates. The approved plan is at `~/.claude/plans/i-want-you-to-federated-cosmos.md`.
+Built 2026-10-09 (check AT: `research/s5_check_AT_c09_document_dataset.md`; verification: `research/s5_check_AT_adversarial.md`). **271 files, 24 sets, 10,474 pages, 438 MB.** 188 are real documents (after the adversarial corrections) from actual shipments, contracts or disputes; the rest are guides, tariffs, forms and specifications.
 
-What is here now: 176 public files (about 225 MB, ~5,900 pages) in `sources/<set>/`, one row each in `catalogue.csv` (fields in `catalogue_fields.md`), hashes in `SHA256SUMS` (`sha256sum -c SHA256SUMS`), `pdftotext -layout` output in `derived/text/`, the Delphi OCR in `derived/ocr/`, tesseract's `eng.traineddata` in `_tools/tessdata/`, every query tried so far in `leads_tried.csv` (agent C only; A and B pending). Only public records live here; customer data under NDA never does (D-18). Company names only; no individuals transcribed into the catalogue. Eight rows still carry `url=UNRESOLVED`.
+## What this is, and is not
+- **Public records only.** Court filings (free RECAP copies of PACER documents), bankruptcy claims registers, carrier and government sites, GitHub test fixtures, one Wayback capture. Nothing here is under NDA. Real customer data from interviews or look-backs never goes in this folder (decision D-18): it stays in `~/Documents/personal/bio/freight_private/` and is deleted after the assessment.
+- **Companies, not people.** The catalogue and notes name companies only. The raw files are public records and may contain individuals' names, signatures and phone numbers; do not transcribe them anywhere in the project.
+- **Copyright.** Carrier tariffs, EDI guides and claim forms are kept for research. Whether they stay here or are linked only is an open point for the founders (AT §8).
 
-Sets: 01 IN Holdings/ABF 101 bills · 02 Exist v. SEFL (bills + pricing agreement + the shipper's overcharge worksheet) · 03 Vital Pharma/XPO · 04 Delphi/UPS Freight (859 pp, 48 reweighs) · 05 Circuit City/Yellow DRs · 06 UPS Freight BOL · 07 Hannum v. YRC (DOJ reweigh case) · 08 overcharge case law (Southern Furniture, Lewis, Mafcote, Gaines, Sivak) · 09 collection and cargo suits · 10 C.H. Robinson rate confirmations · 11 shipper-carrier contracts (YRC-First Brands, GM) · 12 EDI 210 guides (12) · 13 rules tariffs (27) · 14 fuel tables + EIA diesel · 15 BOL forms, NMFC, HB44, NTEP · 16 claim forms and NCWM dispute letters · 17 FAP and carrier guides · 18 government audit reports · 19 **real EDI 210/214/204 interchanges** (ODFL, AAA Cooper, Estes, SEFL, Holland, R+L, TL loads with TONU) · 20 government overcharge forms and CBCA/GAO decisions.
+## Layout
+```
+catalogue.csv          one row per file under sources/  (fields: catalogue_fields.md)
+SHA256SUMS             sha256sum -c SHA256SUMS
+leads_tried.csv        every query, register lookup and candidate URL tried by the three collectors (383 rows: 206 hits, 125 misses, 51 blocked)
+sources/<NN>_<set>/    the files + source.md (one line per file: case, document types, checks evidenced, URL, notes)
+derived/text/<set>/    pdftotext -layout output for every file with a text layer (regenerable, not hashed)
+derived/ocr/04_…/      tesseract output for the Delphi set (copied from the 2026-09-22 session)
+_tools/tessdata/       eng.traineddata, so `tesseract <png> - --tessdata-dir data/_tools/tessdata --psm 6` works
+verify_rows.csv        the verifier's per-row verdicts and corrections (applied to catalogue.csv; report in research/s5_check_AT_adversarial.md)
+doc-explanation.md     the document chain behind a price dispute, form by form: purpose, shared or per-firm format, role in the worked SEFL mismatch, what is held, what is missing and its cost
+```
 
-**Worked dispute example (draft, not yet verified):** `_worked_example_notes_DRAFT.md` — SEFL bill 806625953 (set 02 p. 28) vs the shipper's worksheet row 292: the April 2023 shipment was re-billed on 2025-08-26 at 2,720 lb instead of about 2,430 lb (+$110.23) with no inspection note, about 22 months after the carrier's own 180-day window under 49 U.S.C. 13710(a)(3)(A); the shipper's own $271k claim rests on pallets × per-shipment minimum charge, a misreading of Item 610. Bill 807148067 (p. 33) is the matching no-flag control.
+## The sets, in one line each
+| Set | Contents |
+|---|---|
+| 01 `in_holdings_abf` | 101 ABF bills, May-Aug 2024, text layer (the practice-audit set) |
+| 02 `exist_v_sefl` | 59 distinct SEFL bills 2020-23 as reprints, balance-due and corrected prints (scans), the pricing agreement in 3 dated versions, the shipper's 3,645-row overcharge worksheet: **the dispute set** |
+| 03 `vital_pharma_xpo` | 6 XPO invoices with BOLs and delivery receipts, a reweigh correction |
+| 04 `delphi_ups_freight` | ~850 pp of UPS Freight bills, BOLs, DRs (2008-10), 48 of 169 reweighed; OCR in derived/ |
+| 05, 06 | Yellow delivery receipts; a UPS Freight straight BOL |
+| 07 `hannum_v_yrc_doj` | the DOJ reweigh fraud case, both sides |
+| 08 `overcharge_case_law` | the 180-day cases (Southern Furniture v. YRC), discount-forfeiture and FCA opinions |
+| 09 `collection_and_cargo_suits` | carrier-v-shipper, 3PL and broker suits; Central Freight v. Amazon (audit set-off, expert deposition); detention and lumper disputes |
+| 10 `rate_confirmations_tl` | 12 broker and carrier rate confirmations and load tenders (CHR, TQL, Coyote, U.S. Xpress, Scotlynn, Landstar, …) |
+| 11 `shipper_carrier_contracts` | YRC-First Brands, GM, Schneider Logistics, Kroger, CJ Logistics, Surge broker-carrier agreement |
+| 12 `edi_210_guides` | 14 X12 210/211 implementation guides, carrier and shipper side |
+| 13 `rules_tariffs` | 28 rules tariffs from 16 carriers and GSA, several in dated versions |
+| 14 `fuel_tables_and_index` | DOE, GSA, FedEx Freight LTL and TL fuel tables, one Estes 2023 capture, the EIA weekly diesel series |
+| 15 `bol_forms_and_standards` | VICS BOL, uniform BOL terms, NMFC supplements, NIST HB44 §5.58, NTEP dimensioner certificates |
+| 16 `claim_forms_and_dispute_letters` | overcharge claim forms from 7 carriers; NCWM letters on reweigh rules (incl. a small importer's account) |
+| 17 `fap_and_carrier_guides` | Cass and U.S. Bank carrier material (13 adjustment reasons), document APIs, a university RFP, carrier billing pages |
+| 18 `gov_audit_reports` | GAO, GSA OIG, DoD IG, USPS OIG transportation audits |
+| 19 `edi_samples_real` | **36 real X12 files**: 210 invoices from ODFL, AAA Cooper, Estes, three TL carriers; 214s; 204 tenders |
+| 20 `gov_claims_forms_and_decisions` | SF 1113, the Notice-of-Overcharge rule, CBCA and GAO rate decisions |
+| 21 `ltl_bills_and_corrections` | ODFL bills with the carrier's audit notes, a wrong-payer correction end to end, XPO and TForce bills, statements of account, PODs |
+| 22 `tl_invoices_and_packets` | **real TL invoices to shippers** (Werner, USA Truck, Wintzer, Taylor, …), broker invoices (TQL, RXO), packets of rate con + invoice + BOL, a TONU line |
+| 23 `overcharge_claims_vs_yellow` | shippers' and 3PLs' overcharge claims in Yellow's bankruptcy with the carrier's "APPROVED" printouts, a reweigh dispute with the weight certificate, Walmart and Home Depot contracts with lane pricing |
+| 24 `nemf_interline_and_carrier_claims` | carrier claims in NEMF's bankruptcy: interline statements, Saia's interline agreement, a dispute correspondence, a W&I vendor's invoice |
 
-**Standardisation, short answer:** only the EDI X12 210/214/204 skeleton, the VICS/GS1 BOL form, NMFC classes, Part 378 claim content and the "Standard Form for Presentation of Overcharge Claims" are shared. Everything else is per firm: each carrier maps the 210 differently (Estes puts "DISCOUNT 84.0%" as text in L5, ODFL a negative DSC line, AAA Cooper names CzarLite in L7), each carrier's PDF layout and charge codes, each pricing agreement (SEFL rating items vs the YRC 33-article contract), one rate-confirmation layout per broker, and per-carrier fuel tables keyed to the same EIA index.
+## Are freight bills standardised? (short answer; AT §6 has the evidence)
+Shared across firms: the EDI X12 210/214/204 skeleton, the VICS/GS1 bill-of-lading form, NMFC classes, Part 378's claim content and the "Standard Form for Presentation of Overcharge Claims". Per firm: every carrier's PDF bill layout and charge codes, its mapping of the 210 (Estes writes the discount as text, ODFL as a negative line, AAA Cooper names the base tariff), its rules tariff, its fuel table and its claim channel; every rate agreement; every broker's rate confirmation. Build for one standard data path and many per-firm readers.
 
-**Still open:** historical fuel tables (archive.org returned 429 all session), public LTL pricing agreements with prices, real TL carrier/broker invoices to a shipper, W&I certificates, carrier dispute responses (agents A/B may have found some).
+## The worked mismatch (AT §7)
+SEFL bill 807148067 (set 02, pp. 33 and 46): shipped 2023-05-15; 35 days later a $94.00 balance-due bill added one line, "PVT RESIDEN 94.00", with the carrier's reason printed on it ("per Google Earth this is a private delivery"). Every other line reconciles to the agreement; the one question is whether residential delivery was on the bill of lading (SEFL 1090 Item 753). The shipper's 180 days ran to 2023-12-16; its worksheet never flagged the $94 and the suit came in October 2025. Second example, bill 806625953 (pp. 28 and 41): a balance-due bill of 2023-05-05 for $110.23 that raised the weight from 2,430 to 2,720 lb with no inspection note. The shipper's own worksheet multiplies pallets by the per-shipment minimum charge, which is why its $271,829 claim is overstated. Page map and the independent re-transcription: `research/s5_check_AT_adversarial.md` §2.
+
+## How the registers were reached (for the next round)
+- **CourtListener:** `https://www.courtlistener.com/api/rest/v4/search/?type=r&available_only=on&q=…` (anonymous, 5 a minute, 50 an hour); PDFs at `storage.courtlistener.com/recap/gov.uscourts.<court>.<id>/…pdf`.
+- **Epiq:** POST `https://dm.epiq11.com/api/search/getcards` (type CasesClaims, filter projectCode: YRC = Yellow, INB = Instant Brands, TLP = Tupperware, TUE = Tuesday Morning, SLQ = STG Logistics); claim PDFs by GET at `https://document.epiq11.com/document/getdocumentbycode?docId=<id>&projectCode=<code>&source=DM` (HEAD returns 405).
+- **Angeion / Donlin Recano (NEMF):** HTML POST claimant search, then `/Clients/nemf/GetClaim?claimNumber=N` (redirects to signed S3; HEAD returns 403; a WAF challenge appears after about 40 searches).
+- **Blocked to scripts:** Kroll, Stretto, Omni, Verita/KCC; Wayback's CDX index (429 all day on 2026-10-09).
+
+## Known, not kept
+Bankruptcy statement-of-financial-affairs payment lists (about 90 PDFs used for spend figures in checks AD, AN, S3a); the Miami-Dade freight-audit contract (AS); a Miller v. Costco deposition and a Vital Pharmaceuticals sale order (downloaded earlier, not freight documents); GSA freight-audit price lists (AN). Their URLs are in those research files.
+
+## Verify
+```
+cd data && sha256sum -c SHA256SUMS | grep -v ': OK'
+python3 -I -c "import csv;print(sum(1 for _ in csv.DictReader(open('catalogue.csv'))))"; find sources -type f ! -name source.md | wc -l
+```
+Both counts must match (271). Rows carry `verify_status` from the adversarial pass (145 verified, 123 narrowed, 3 wrong, all corrections applied); 5 rows still carry `UNRESOLVED` in `url` (the file came from an earlier session and its canonical URL was not found). HEAD checks on 2026-10-09: 250 of 261 URLs answer 200; the claims agents, GAO and NMFTA refuse HEAD requests from scripts but serve GET; two links are dead (the Estes 210 guide moved; the Mitsui v. Roadway RECAP path is unconfirmed).

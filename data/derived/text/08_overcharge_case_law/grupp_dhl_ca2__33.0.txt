@@ -1,0 +1,2611 @@
+     Case 14-3595, Document 33, 11/03/2014, 1360950, Page 1 of 56
+
+
+
+
+14-3595-cv
+ United States Court of Appeals
+                               for the
+
+                  Second Circuit
+
+               KEVIN GRUPP, ROBERT MOLL,
+                                                         Plaintiffs-Appellants,
+           UNITED STATES OF AMERICA, ex rel.,
+                                                                     Plaintiff,
+                               – v. –
+DHL WORLDWIDE EXPRESS, INCORPORATED, DHL EXPRESS
+       (USA), INC., DHL HOLDINGS (USA), INC.,
+                                                       Defendants-Appellees.
+               _______________________________
+   ON APPEAL FROM THE UNITED STATES DISTRICT COURT
+        FOR THE WESTERN DISTRICT OF NEW YORK
+
+
+BRIEF AND SPECIAL APPENDIX FOR PLAINTIFFS-
+               APPELLANTS
+
+
+                                        DANIEL C. OLIVERIO
+                                        JOHN L. SINATRA, JR.
+                                        REETUPARNA DUTTA
+                                        HODGSON RUSS LLP
+                                        Attorneys for Plaintiffs-Appellants
+                                        140 Pearl Street, Suite 100
+                                        Buffalo, New York 14202
+                                        (716) 856-4000
+                          Case 14-3595, Document 33, 11/03/2014, 1360950, Page 2 of 56
+
+
+
+
+                                        TABLE OF CONTENTS
+
+                                                                                                               Page
+
+JURISDICTIONAL STATEMENT .......................................................................... 1
+
+ISSUES PRESENTED FOR REVIEW ..................................................................... 1
+
+STATEMENT OF THE CASE .................................................................................. 2
+
+STATEMENT OF FACTS ........................................................................................ 5
+
+SUMMARY OF ARGUMENT ............................................................................... 10
+
+ARGUMENT ........................................................................................................... 10
+
+A.       Standard of Review........................................................................................ 10
+
+B.       DHL’s Contract Defense Fails. ..................................................................... 11
+
+         1.       DHL’s Documents Provide No Basis for Dismissal. .......................... 12
+
+         2.       This Court Already Rejected The Argument DHL Proffers Here. ..... 18
+
+         3.       DHL’s Own Statements Belie Its Proffered Interpretation. ................ 18
+
+         4.       DHL’s Definition-By-Implication Fails. ............................................. 19
+
+         5.       DHL’s Ambiguity Argument Also Lacks Merit. ................................ 21
+
+C.       The First Amended Complaint Satisfies Rule 9(b). ...................................... 27
+
+D.       This Action is Timely. ................................................................................... 28
+
+CONCLUSION ........................................................................................................ 30
+
+
+
+
+                                                          -i-
+                         Case 14-3595, Document 33, 11/03/2014, 1360950, Page 3 of 56
+
+
+
+
+                                   TABLE OF AUTHORITIES
+
+                                                                                                       Page(s)
+FEDERAL CASES
+
+Allen v. Beta Constr.,
+   309 F. Supp. 2d 42 (D.D.C. 2004) ...................................................................... 28
+
+Commercial Contr., Inc. v. United States,
+  154 F.3d 1357 (Fed. Cir. 1998) .......................................................................... 23
+
+DiFolco v. MSNBC Cable, L.L.C.,
+  622 F.3d 104 (2d Cir. 2010) ............................................................................... 19
+
+Dover v. British Airways, PLC,
+  No. 12 CV 5567, 2013 U.S. Dist. Lexis 160127 (E.D.N.Y., Nov. 8, 2013) ...... 14
+
+Gold v. Morrison-Knudsen Co.,
+  68 F.3d 1475 (2d Cir. 1995) .........................................................................26, 28
+
+Gross v. Rell,
+  695 F.3d 211 (2d Cir. 2012) ............................................................................... 11
+
+Lewellen v. Morley,
+  875 F.2d 118 (7th Cir. 1989) .............................................................................. 28
+
+Luce v. Edelstein,
+   802 F.2d 49 (2d Cir. 1986) ................................................................................. 28
+
+Meijer, Inc. v. Ferring B.V.,
+  585 F.3d 677 (2d Cir. 2009) .........................................................................10, 26
+
+Minnesota Assoc. of Nurse Anesthetists v. Allina Health Sys. Corp.,
+  276 F.3d 1032 (8th Cir. 2002) ............................................................................ 23
+
+REA Express, Inc. v. Civil Aeronautics Bd.,
+  507 F.2d 42 (2d Cir. 1974) .....................................................................18, 24, 25
+
+Ronzani v. Sanofi, S.A.,
+  899 F.2d 195 (2d Cir. 1990) ............................................................................... 28
+
+
+                                                       -ii-
+                         Case 14-3595, Document 33, 11/03/2014, 1360950, Page 4 of 56
+
+
+
+
+Sayers v. Rochester Tel. Corp,
+   7 F.3d 1091 (2d Cir. 1993) ................................................................................. 11
+
+Seiden Assocs., Inc. v. ANC Holdings, Inc.,
+   959 F.2d 425 (2d Cir. 1992) ............................................................................... 21
+
+United States ex rel. Butler v. Hughes Helicopters, Inc.,
+  71 F.3d 321 (9th Cir. 1995) ................................................................................. 21
+
+United States ex rel. Cantekin v. University of Pittsburgh,
+  192 F.3d 402 (3d Cir. 1999) ............................................................................... 25
+
+United States ex rel. Chilcott v. KBR, Inc.,
+  No. 09-cv-4018, 2013 U.S. Dist. Lexis 153331 (C.D. Ill., Oct. 24, 2013) ........ 24
+
+United States ex rel. Costa v. Baker & Taylor, Inc.,
+  No. C-95-1825, 1998 U.S. Dist. Lexis 23509 (N.D. Cal. Mar. 20, 1998) ......... 29
+
+United States ex rel. Ellis v. Sheikh,
+  583 F. Supp. 2d 434 (W.D.N.Y. 2008) ............................................................... 28
+
+United States ex rel. Feldman v. Van Gorp,
+  674 F. Supp. 2d 475 (S.D.N.Y. 2009) ............................................................4, 25
+
+United States ex rel. K & R Ltd. Partnership v. Massachusetts Housing
+  Finance Agency,
+  530 F.3d 980 (D.C. Cir. 2008) ............................................................................ 24
+
+United States ex rel. Oliver v. Parsons Co.,
+  195 F.3d 457 (9th Cir. 1999) .............................................................................. 22
+
+United States ex rel. Parikh v. Premera Blue Cross,
+  No. CV01-0476, 2007 U.S. Dist. Lexis 24845 (W.D. Wash. Apr. 3, 2007) ...... 29
+
+United States ex rel. Taylor v. Gabelli,
+  345 F. Supp. 2d 313 (S.D.N.Y. 2004) ................................................................ 21
+
+United States ex rel. Walker v. R&F Props. of Lake County, Inc.,
+  433 F.3d 1349 (11th Cir. 2005) .......................................................................... 22
+
+
+
+                                                      -iii-
+                           Case 14-3595, Document 33, 11/03/2014, 1360950, Page 5 of 56
+
+
+
+
+United States v. DHL Express (USA), Inc.,
+  742 F.3d 51 (2d Cir. 2014) .............................................................................2, 30
+
+United States v. Kellogg Brown & Root Servs.,
+  No. 4:12-cv-4110-SLD, 2014 U.S. Dist. Lexis 43000 (C.D. Ill., March
+  31, 2014) ............................................................................................................. 24
+
+United States v. Newport News Shipbuilding, Inc.,
+  276 F. Supp. 2d 539 (E.D. Va. 2003) ................................................................. 23
+
+Virgilio v. City of New York,
+   407 F.3d 105 (2d Cir. 2005) .........................................................................10, 11
+STATE CASES
+
+State ex rel. Grupp v. DHL Express (USA), Inc.,
+   907 N.Y.S.2d 772 (Sup. Ct. Erie County 2010), rev’d on other grounds,
+   922 N.Y.S.2d 888 (4th Dep’t 2011), aff’d on other grounds, 19 N.Y.3d
+   278 (2012) ........................................................................................................... 27
+FEDERAL STATUTES
+
+28 U.S.C. § 1291 ........................................................................................................ 1
+
+28 U.S.C. § 1331 ........................................................................................................ 1
+
+31 U.S.C. §§ 3729(a)(1)(A), 3730(b) ........................................................................ 3
+
+31 U.S.C. §§ 3729(a)(1)(A), (B) ............................................................................ 3, 4
+
+31 U.S.C. § 3729(b)(1)(A) ....................................................................................... 25
+
+31 U.S.C. § 3729(b)(1)(B) ....................................................................................... 26
+
+31 U.S.C. § 3730(b)(2)............................................................................................. 29
+
+31 U.S.C. §§ 3730(b)(4)(B), 3730(c)(3), and 3730(d)(1), (2) ................................... 4
+
+31 U.S.C. §§ 3730(b) and 3732(a) ............................................................................. 1
+
+31 U.S.C. § 3731(b) ................................................................................................. 28
+
+
+                                                           -iv-
+                           Case 14-3595, Document 33, 11/03/2014, 1360950, Page 6 of 56
+
+
+
+
+RULES
+
+F.R.C.P. 3, 4(m) ....................................................................................................... 29
+
+Fed. R. App. P. 32(a)(5) ........................................................................................... 31
+
+Fed. R. App. P. 32(a)(6) ........................................................................................... 31
+
+Fed. R. App. P. 32(a)(7)(B) ..................................................................................... 31
+
+Fed. R. App. P. 32(a)(7)(B)(iii) ............................................................................... 31
+
+F.R.C.P. 9(b) ................................................................................................26, 27, 28
+
+F.R.C.P. 12(b)(6)...............................................................................................passim
+
+F.R.C.P. 15(c)(1)(B) ................................................................................................ 29
+OTHER AUTHORITIES
+
+Restatement (Second) of Contracts § 202(1) ........................................................... 15
+
+
+
+
+                                                           -v-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 7 of 56
+
+
+
+
+                       JURISDICTIONAL STATEMENT
+            (A) The District Court has subject matter jurisdiction of this False
+
+Claims Act case. See 31 U.S.C. §§ 3730(b) and 3732(a); 28 U.S.C. § 1331.
+
+            (B) This Court has jurisdiction under 28 U.S.C. § 1291.
+
+            (C) The District Court’s order of dismissal was entered September
+
+11, 2014. The resulting judgment was entered September 12, 2014. The notice of
+
+appeal was filed and served on September 17, 2014.
+
+            (D) This appeal is from a final order and judgment that disposed of
+
+all claims in the First Amended Complaint under Rule 12(b)(6).
+
+                     ISSUES PRESENTED FOR REVIEW
+
+            The District Court dismissed this False Claims Act (“FCA”) case by
+
+erroneously holding that DHL’s form contract was sufficiently ambiguous that
+
+DHL could not have possessed the intent required to violate the FCA. This is
+
+wrong on the law and on the facts, especially in the context of Rule 12(b)(6). The
+
+contract is not ambiguous. Moreover, DHL’s intent, which has been sufficiently
+
+alleged and is beyond plausible, cannot be adjudicated on a motion to dismiss.
+
+            In particular, DHL’s contract reserves DHL’s higher jet fuel surcharge
+
+for shipments that travel by air. Shipments that travel solely by ground should
+
+receive DHL’s diesel fuel surcharge. The First Amended Complaint sufficiently
+
+alleges that DHL knowingly imposed its jet fuel surcharge on Government
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 8 of 56
+
+
+
+
+shipments that DHL transported solely by ground, in violation of DHL’s
+
+unambiguous contract.
+
+                          STATEMENT OF THE CASE
+
+             This FCA case has been to this Court once before — on the very same
+
+issue, namely, whether DHL’s contract allowed this practice or is ambiguous such
+
+that DHL could not have had the intent required to violate the FCA. On the first
+
+appeal, the parties briefed and argued this issue, and DHL spent the bulk of its time
+
+arguing for an affirmance based on it. A-347-51.1 Had this Court agreed with
+
+DHL, it could have affirmed Judge Curtin’s prior dismissal on this basis. But this
+
+Court’s vacatur did not address the issue, instead focusing on, and rejecting,
+
+DHL’s 180-day notice argument. See United States v. DHL Express (USA), Inc.,
+
+742 F.3d 51 (2d Cir. 2014).
+
+             On remand, Judge Curtin again dismissed the case in error, this time
+
+ruling that DHL’s contract was ambiguous (Decision, at 11), and that FCA liability
+
+was foreclosed because DHL’s supposed “reasonable interpretation” made scienter
+
+implausible (id, at 12-14). A-369-85; SPA-1-17. It is time, now, for motion
+
+
+
+1
+       Citations to “A-__” refer to the Appendix on this appeal; citations to SPA
+       refer to the Special Appendix.
+
+
+                                              -2-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 9 of 56
+
+
+
+
+practice to conclude, discovery to commence, and this FCA case to be resolved
+
+properly.
+
+             This case is straightforward. Relators Kevin Grupp and Robert Moll,
+
+on behalf of the United States, seek to recover for improper jet fuel surcharges that
+
+DHL knowingly imposed on Government packages that DHL knowingly
+
+transported solely by ground. Specifically, DHL systematically and fraudulently
+
+charged the Government an extra fee based on the rising cost of jet fuel on
+
+shipments that traveled solely by truck. DHL knowingly overcharged the
+
+Government each time it wrongfully imposed this surcharge.
+
+             A company like DHL, engaged in business with the Government, is
+
+liable under the FCA if it knowingly presents, or causes to be presented, false or
+
+fraudulent claims for payment, or knowingly makes or uses false records or
+
+statements to get false claims paid or approved. See 31 U.S.C. §§ 3729(a)(1)(A),
+
+(B).2 The “knowingly” scienter requirement covers any one of three mental states:
+
+“actual knowledge,” “deliberate ignorance,” or “reckless disregard.” Id. §
+
+2
+       The FCA facilitates the recovery of damages from those who, like DHL,
+       have defrauded the Federal Government. The FCA was enacted to combat
+       overcharges by Government contractors, and it encourages relators to “blow
+       the whistle” on “false or fraudulent” claims by bringing a qui tam lawsuit,
+       like this one, on behalf of the Federal Government. See 31 U.S.C. §§
+       3729(a)(1)(A), 3730(b).
+
+
+                                              -3-
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 10 of 56
+
+
+
+
+3729(b)(1)(A). Liability “require[s] no proof of specific intent to defraud.” Id. §
+
+3729(b)(1)(B). Here, the First Amended Complaint sufficiently alleges that DHL
+
+knowingly overcharged the Government each time it imposed a jet fuel surcharge
+
+on shipments it transported solely by ground.3
+
+             DHL claims that its contract permitted this practice. But DHL never
+
+told the Government — in its contract or otherwise — that it was charging for jet
+
+fuel on deliveries by truck. Rather, DHL relies on a convoluted contractual
+
+interpretation to link its jet fuel surcharge to its timing schedule for deliveries
+
+rather than its mode of transport (i.e., by airplane or truck).
+
+             Nevertheless, the District Court (Curtin, J.) granted DHL’s renewed
+
+motion to dismiss on this faulty argument. See 2014 U.S. Dist. LEXIS 128169
+
+
+
+
+3
+       The Government chose not to intervene in this lawsuit, which permitted
+       Grupp and Moll to continue this action, while keeping the Government
+       apprised of its progress.
+       It bears noting that the Government’s decision not to intervene has no
+       significance to the merits. See, e.g., United States ex rel. Feldman, 697
+       F.3d 78, 84 (2d Cir. 2012). The FCA anticipates this, and provides a higher
+       share of recovery to successful relators who proceed alone, as is their right.
+       The statute also permits the Government to keep abreast of proceedings and
+       intervene later for good cause. See 31 U.S.C. §§ 3730(b)(4)(B), 3730(c)(3),
+       and 3730(d)(1), (2); see also A-28. In fact, many successful FCA cases are
+       litigated this way every year. See, e.g., Feldman, 697 F.3d at 84.
+
+
+                                               -4-
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 11 of 56
+
+
+
+
+(W.D.N.Y., Sept. 11, 2014); A-369-85; SPA-1-17. Grupp and Moll timely
+
+appealed.
+
+                             STATEMENT OF FACTS
+
+            DHL is an international package delivery company. A-39 (¶ 20).
+
+Relators Kevin Grupp and Robert Moll own a delivery company that operated as a
+
+DHL independent contractor. A-37 (¶ 9). Grupp and Moll filed this FCA case
+
+because DHL falsely and fraudulently charged the Government jet fuel surcharges
+
+on Next Day and 2nd Day shipments that DHL transported solely by ground.
+
+A-40-43 (¶¶ 24-38). DHL knowingly and improperly did this. A-42-45. DHL
+
+does not deny it; rather, DHL contends it was permitted to do so. But, according to
+
+DHL’s own documents, DHL was obligated to charge only a lower diesel fuel
+
+surcharge for such shipments.
+
+            In particular, at the time, DHL offered several service levels akin to
+
+others in the industry, including “NEXT DAY 10:30 AM,” “NEXT DAY 12:00
+
+PM,” “NEXT DAY 3:00 PM,” “2ND DAY,” and “GROUND.” A-40-42; A-286;
+
+A-287-88; A-291. For each service level, DHL charged a different “base” amount
+
+(aside from any surcharge imposed).
+
+            Thus, not surprisingly, the Government paid a higher base charge for
+
+NEXT DAY 10:30 AM service than it would have for NEXT DAY 12:00 PM or
+
+
+                                             -5-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 12 of 56
+
+
+
+
+NEXT DAY 3:00 PM service, each of which was more expensive than 2ND DAY
+
+or GROUND. A-293; A-295; A-296; A-298. For each service level, DHL
+
+charged a different “base” amount. So when a Government employee wanted
+
+delivery by noon the next day, he or she selected NEXT DAY 12:00 PM, and the
+
+Government paid a greater “base” service charge than it would have if 2ND DAY
+
+or GROUND had been selected.
+
+             DHL’s contract then permitted the Government to be charged a fuel
+
+surcharge — an additional sum based on the added fuel cost used by the applicable
+
+mode of transportation. A-40 (¶ 28); A-107-08; A-319. In particular, DHL was
+
+permitted to impose either a “jet fuel” surcharge for air shipments, or a lower
+
+“diesel fuel” surcharge for ground shipments. A-40 (¶ 26); A-44-45 (¶ 48); A-319
+
+(stating that jet fuel surcharge applies to “Air Express shipments”) (emphasis
+
+added). The fuel surcharge was added on top of the base charge, and DHL billed
+
+the total to the Government, which then paid DHL.
+
+             DHL had no basis to impose jet fuel surcharges on shipments that
+
+never traveled by air. The jet fuel surcharge was tied to the price of jet fuel. A-40-
+
+A-41 (¶¶ 28-29); A-107. DHL’s trucks did not use jet fuel.
+
+             It is clear from DHL’s documents that DHL was permitted to charge
+
+the higher jet fuel surcharge if a shipment traveled, in at least some portion of its
+
+                                              -6-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 13 of 56
+
+
+
+
+journey, by air. If that shipment only traveled by truck, DHL’s contract documents
+
+required DHL to charge the lower diesel fuel surcharge, which, not surprisingly,
+
+was tied to the cost of diesel fuel. DHL trucks did use diesel fuel.
+
+             Despite these terms, DHL routinely and knowingly charged
+
+Government agencies, such as the General Services Administration and the
+
+Department of Homeland Security, a “jet fuel” surcharge for shipments that DHL
+
+knowingly transported solely by ground, despite the Government already paying a
+
+premium for expedited service. A-40 (¶¶ 24-27); A-41 (¶ 32); A-42 (¶ 36). In
+
+doing so, DHL submitted, and caused to be submitted, false and fraudulent claims.
+
+             Grupp and Moll, who observed DHL’s practices and moved DHL
+
+shipments for years, allege that DHL knowingly and improperly charged jet fuel
+
+surcharges on Government shipments that traveled only by ground, i.e., that DHL
+
+imposed the jet fuel surcharge on Government shipments “regardless of whether
+
+the delivered items were ever transported by air.” A-36-37 ( ¶¶ 2, 9, 10); A-39 (¶
+
+22); A-40-41 (¶ 29). They allege that DHL was bound to limit “its jet fuel
+
+surcharges to shipments that traveled, at least in part, by air transportation.” A-40
+
+
+
+
+                                              -7-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 14 of 56
+
+
+
+
+(¶ 26).4 They also allege that DHL stated its fuel surcharge to be an extra charge to
+
+adjust for temporary higher fuel costs. A-40 (¶ 28).5
+
+             Grupp and Moll allege that DHL’s improper practices began in 2003
+
+or 2004, when DHL built out its network of regional truck hubs. A-40-41 (¶ 29);
+
+A-41 (¶ 34). In this way, “DHL expanded its ability to transport shorter-distance
+
+packages, including Next Day and 2nd Day shipments, solely by ground, without
+
+the need for air trips through any DHL air hub.” A-41 (¶ 34). They allege that the
+
+practice continued until just before DHL left the United States domestic business
+
+in January 2009 (“through at least 2008”). A-40-41 (¶¶ 29-32).
+
+             Based on years of moving DHL shipments, Grupp and Moll allege
+
+that “[a] substantial percentage of DHL Next Day and 2nd Day shipments paid for
+
+by the United States Government did not travel by air at all, even though they
+
+included a jet fuel surcharge. Instead, they were transported via DHL’s truck hubs,
+
+or otherwise, using ground transportation.” A-37( ¶¶ 9, 10); A-41 (¶¶ 32, 33).
+
+             Then in paragraph 35 of their First Amended Complaint, Grupp and
+
+Moll explain what they saw, with examples of DHL charging its jet fuel surcharge
+4
+       DHL’s own submissions reflect this term. See A-61; A-95; A-107.
+5
+       This, too, is supported by DHL’s own prior submissions, although DHL’s
+       motion did not include the precise document that Grupp and Moll alleged in
+       their First Amended Complaint. See A-40 (¶ 28); A-107-08.
+
+
+                                              -8-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 15 of 56
+
+
+
+
+on shipments traveling solely by ground. A-42. For instance: (1) a Next Day
+
+package from Buffalo to Cleveland that did not travel by air; instead, it traveled by
+
+truck from Buffalo to DHL’s Erie, PA truck hub and, from there, by truck to
+
+Cleveland; and (2) a Next Day package from Washington, D.C. to Lorton, VA that
+
+did not travel by air; instead, it traveled by truck from Washington to DHL’s
+
+Allentown truck hub and, from there, by truck to Virginia. Moreover, based on
+
+their knowledge of DHL’s billings and pricing, Grupp and Moll provided three
+
+examples where the Department of Homeland Security improperly incurred the
+
+higher jet fuel surcharge. They even cite the numbered waybills. A-42 (¶ 36).
+
+             Because only DHL and the Government know the exact number of at-
+
+issue shipments, Grupp and Moll allege that, based on their experience, “these
+
+DHL practices occurred on vast numbers of occasions from at least 2003 to 2008.”
+
+A-42 (¶ 37). As a result of DHL’s improper jet fuel surcharges, they allege that the
+
+Government “paid DHL monies demanded through DHL’s presentment of false
+
+claims” — claims that knowingly included jet fuel surcharges on shipments that
+
+DHL knowingly transported solely by ground. A-44 (¶¶ 44-47). To obtain these
+
+payments, DHL falsely and fraudulently represented that the jet fuel surcharge was
+
+properly incurred, even though the shipments never left the ground. A-44-45 (¶
+
+48). Thus, they allege, “[a]s a result of the knowingly false and fraudulent claims
+
+                                              -9-
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 16 of 56
+
+
+
+
+submitted by DHL . . . the United States of America paid jet fuel surcharges where
+
+no air transportation was used.” A-46 (¶ 54).
+
+                            SUMMARY OF ARGUMENT
+
+             DHL’s contract is unambiguous. The contractual trigger for DHL’s
+
+higher jet fuel surcharge is “air” transportation. Travel solely by ground, under the
+
+contract, triggers the diesel fuel surcharge.
+
+             And even assuming DHL’s own contract is less than clear on this
+
+point, the question whether DHL had the scienter required for an FCA violation
+
+cannot be resolved on a 12(b)(6) motion to dismiss. On this record, DHL’s
+
+scienter and FCA liability are sufficiently plausible to permit discovery to proceed
+
+on the merits — especially under this Court’s lenient approach to scienter at the
+
+motion stage of a case. See, e.g., Meijer, Inc. v. Ferring B.V., 585 F.3d 677, 693
+
+(2d Cir. 2009) (“We are, however, ‘lenient in allowing scienter issues to withstand
+
+summary judgment based on fairly tenuous inferences,’ because such issues are
+
+‘appropriate for resolution by the trier of fact’”) (citations omitted). DHL’s motion
+
+should have been denied. This Court should reverse.
+
+                                       ARGUMENT
+A.    Standard of Review
+
+             The issues on this appeal are subject to de novo review because they
+
+are legal issues arising from a Rule 12(b)(6) motion to dismiss. See, e.g., Virgilio
+                                               -10-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 17 of 56
+
+
+
+
+v. City of New York, 407 F.3d 105, 111 (2d Cir. 2005). Factual allegations must be
+
+taken as true. See id. And all reasonable inferences must be drawn in favor of the
+
+relators. See, e.g., Gross v. Rell, 695 F.3d 211, 215 (2d Cir. 2012). Whether a
+
+contract is ambiguous is also a legal question subject to de novo review. See, e.g.,
+
+Sayers v. Rochester Tel. Corp, 7 F.3d 1091, 1094 (2d Cir. 1993).
+
+B.    DHL’s Contract Defense Fails.
+
+             DHL’s unambiguous contract permits DHL to impose a jet fuel
+
+surcharge if a shipment travels by “air.” The contract requires the lower diesel fuel
+
+surcharge for shipments that DHL transports solely by ground transportation. This
+
+interpretation of DHL’s contract is required under a plain reading of its terms,
+
+aided only by common sense.
+
+             DHL disagrees. But that does not mean that the contract becomes
+
+ambiguous. DHL also seems to believe that its contract was so ambiguous that it
+
+could charge whatever it liked and avoid the scienter required for FCA liability.
+
+DHL is wrong, and its arguments cannot succeed on a motion to dismiss.
+
+             DHL argued for dismissal by presenting an unworkable interpretation
+
+of its documents. DHL’s argument that its contractual words either have no
+
+meaning, or a meaning directly at odds with common usage, is doomed whether on
+
+
+
+
+                                              -11-
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 18 of 56
+
+
+
+
+a motion to dismiss, or at summary judgment, or at trial. DHL expects this Court
+
+to adopt unreasonable inferences based on portions of documents DHL designates.
+
+             DHL’s defense fails. As set forth below, DHL’s unambiguous
+
+contract provides no basis for a Rule 12(b)(6) dismissal because jet fuel surcharges
+
+are tethered to “air” transportation. In fact, this Court once ruled that the key term
+
+here, “Air Express,” means speedy delivery by air. Moreover, DHL’s statements
+
+about its services underscore DHL’s deceptiveness. Finally, DHL cannot escape
+
+liability by arguing that its contract is ambiguous and, as such, it lacks the requisite
+
+scienter under the FCA. That issue must await factual development in discovery.6
+
+      1.     DHL’s Documents Provide No Basis for Dismissal.
+
+             DHL’s jet fuel surcharge is limited to “Air Express shipments.” But
+
+DHL posits that this “Air Express shipments” term has nothing to do with air
+
+travel, and is, instead, a category of DHL services to which DHL can apply a jet
+
+fuel surcharge no matter how a package is transported. DHL contends that “Air
+
+
+
+6
+       The District Court’s discussion (A-378-79; SPA-10-11) of DHL’s supposed
+       need to know how a shipment will travel, before it travels, in order to assess
+       the correct surcharge is a concept not in the record. And it is false: DHL
+       knows how its packages will move when they are first scanned. Moreover,
+       DHL did not invoice the Government until each shipment was delivered in
+       any event. Thus, this argument is entitled to no weight at all.
+
+
+                                               -12-
+                    Case 14-3595, Document 33, 11/03/2014, 1360950, Page 19 of 56
+
+
+
+
+Express shipments” equals “Next Day” and “2nd Day” service — whether by
+
+ground or by air.
+
+             DHL is wrong. As a fundamental matter, DHL’s Air Express Services
+
+interpretation has no support in DHL’s documents. Such a “category” simply does
+
+not appear in any DHL document. In fact, in its brief to this Court on the first
+
+appeal, DHL admitted “that the term ‘Air Express’ is not explicitly identified as a
+
+class of services in DHL’s rate guide ….” See DHL’s Appellee Brf. 1/15/13, at 44,
+
+46, 48 (Dkt. 52). The indulgence should end here.
+
+             Significantly, DHL actually categorized its services into groups —
+
+such as DHL’s three Next Day service levels. Air Express, or Air Express
+
+shipments, is never such a grouping. Rather, Air Express shipments is simply a
+
+term DHL used to describe when its jet fuel surcharge applies. Thus, the only
+
+sensible conclusion, where the Government already pays more for DHL’s higher
+
+service levels, is that the higher “Jet Fuel Surcharge” is reserved for shipments
+
+using airplanes.
+
+             DHL’s documents permitted Government employees to select one of
+
+several separate and distinct levels of DHL services, namely: “Next Day,” “2nd
+
+Day,” or “Ground.” DHL’s documents then say that the “Jet Fuel Surcharge”
+
+applies to “Air Express shipments” A-95; A-107. “Air Express shipments” was
+
+                                                -13-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 20 of 56
+
+
+
+
+never a defined category of service available to the Government — not in the Rate
+
+Guide, not in the waybill, and not in DHL’s other documents.
+
+             Because it was not a defined term, the words “Air Express shipments”
+
+should be given their plain meaning: Air Express is a method of transport — by
+
+“air.” Thus, DHL was permitted it to impose a “jet fuel” surcharge for shipments
+
+transported, in whole or in part, by air. DHL, likewise, was permitted to impose a
+
+“diesel fuel” surcharge for those shipments transported solely by ground.
+
+             In particular, DHL’s Standard Rate Guide states that “Air Express
+
+shipments are assessed a fuel surcharge which is indexed to the USGC kerosene-
+
+type jet fuel index,” while “[g]round shipments are assessed a fuel surcharge which
+
+is indexed to the U.S. Dept. of Energy’s on-highway diesel fuel index” (emphasis
+
+added). A-95. This Rate Guide is consistent with DHL’s indexed fuel surcharge
+
+document, where the “Air Express” surcharge table is entitled “2008 Jet Fuel
+
+Surcharge Table.” A-107 (emphasis added).
+
+             The words used have a plain meaning: a “Jet Fuel Surcharge” applies
+
+to jet fuel. A “Diesel Fuel Surcharge” applies to shipments that traveled by trucks,
+
+which use diesel fuel. Each surcharge is tied to the method of transport. There is
+
+no other rational interpretation. See generally Dover v. British Airways, PLC, No.
+
+12 CV 5567, 2013 U.S. Dist. Lexis 160127, at *16 (E.D.N.Y., Nov. 8, 2013)
+
+                                              -14-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 21 of 56
+
+
+
+
+(“[t]he plain meaning of the term ‘fuel surcharge’ is a supplemental charge that is
+
+reasonably related to or based upon the cost or price of fuel”; it is an “added charge
+
+… in order to defray rising fuel costs”).
+
+             Thus, DHL reserved for itself the right to impose two different fuel
+
+surcharges — one for jet fuel and the other for diesel fuel. Each surcharge was tied
+
+to its own publically-available index: jet fuel prices on one hand, and diesel fuel
+
+prices on the other. Each surcharge changed monthly. The jet fuel surcharge rose
+
+and fell with changes in the price of jet fuel, and diesel fuel surcharges with
+
+changes in the price of diesel fuel. Each surcharge, in name, application, and
+
+calculation, was tied to the specific type of fuel, which was dependent on the
+
+method of transport.
+
+             Moreover, the reason DHL imposed the surcharges was to “hedge”
+
+against volatile fuel prices. Thus, absent a jet fuel surcharge linked to the price of
+
+jet fuel, increases in the price of jet fuel would erode DHL’s profits. The reason
+
+for DHL’s imposition of surcharges has nothing to do with the time of delivery, but
+
+has everything to do with DHL’s consumption of fuel — by airplanes or by trucks.
+
+             DHL’s stated purpose for calculating its Air Express shipments
+
+surcharge using the price of jet fuel — to enable it to quickly track changes in fuel
+
+prices (A-107) — also undermines DHL’s argument. See Restatement (Second) of
+
+                                              -15-
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 22 of 56
+
+
+
+
+Contracts § 202(1) (the “principal purpose” of the parties is given “great weight”
+
+when interpreting a contract). It makes sense that rapidly changing jet fuel prices
+
+are reflected in the surcharges that DHL applies to shipments that travel by (jet)
+
+airplane. But changes in jet fuel prices have no impact on shipments traveling
+
+solely by truck. Changes in diesel fuel prices do.
+
+             In addition, in DHL’s Indexed Fuel Surcharge document, DHL
+
+explains that “[t]hese surcharges” — plural — “are applicable to all DHL products,
+
+except for the following services: DHL Same Day, DHL Global Forwarding, DHL
+
+Global Mail and DHL Solutions” (emphasis added). A-107. Thus, both
+
+surcharges — jet fuel and diesel fuel — were potentially applicable to all Next
+
+Day and 2nd day shipments. If both surcharges can apply to Next Day shipments,
+
+then the diesel fuel surcharge must apply at times — namely, when no jet or jet
+
+fuel was used. Surcharges are tied to transport.
+
+             DHL’s claim of a single, higher, fuel surcharge tied to all Next Day
+
+and 2nd Day shipments is directly refuted by its own documents and by common
+
+sense. If DHL’s argument is credited, then it misled the Government by calling
+
+each a “fuel” surcharge, when it was, in fact, a “service surcharge.” Of course,
+
+DHL already charged more for faster service. Its fuel surcharge, then, was
+
+unrelated to service levels. Instead, it was tied to the type of fuel used.
+
+                                               -16-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 23 of 56
+
+
+
+
+             Just as DHL gave itself, in the waybill, the right to use any method of
+
+transportation, DHL could have written into its contract the ability to impose a fuel
+
+surcharge untethered to the type of fuel or the method of transport. But DHL did
+
+not do this. Instead, having promised that it would impose a surcharge based on
+
+“air” or “ground,” DHL cannot now change that promise.
+
+             Here, the ordinary meaning of words, and the entirety of DHL’s
+
+documents, mandate one result: Air Express shipments means shipment by
+
+airplane. If a shipment travels by airplane, the jet fuel surcharge applies.
+
+Otherwise, it does not. That DHL reserved its right to transport shipments how it
+
+chose does not translate into a right to apply surcharges fraudulently. And that
+
+DHL’s actual practices may have been easier for DHL than complying with the
+
+terms of its contract does not change the result. There is no contract ambiguity
+
+here.
+
+             Certainly, the First Amended Complaint adequately alleges that
+
+DHL’s practices were false and fraudulent, because DHL knowingly charged jet
+
+fuel surcharges on Next Day and 2nd Day shipments that it knew traveled solely by
+
+ground. The First Amended Complaint sufficiently alleges that DHL violated the
+
+FCA and knowingly overcharged the Government.
+
+
+
+
+                                              -17-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 24 of 56
+
+
+
+
+      2.    This Court Already Rejected The Argument DHL Proffers Here.
+
+            Decades ago, this Court considered the meaning of the term “Air
+
+Express” when a delivery company like DHL claimed its competitors were using
+
+the term “Air Express” unfairly. The Court determined that the term “Air Express
+
+. . . means simply the speedy delivery of goods by air and not any company’s
+
+particularized kind of service.” REA Express, Inc. v. Civil Aeronautics Bd., 507
+
+F.2d 42, 46 (2d Cir. 1974). The same is true in this case.
+
+      3.    DHL’s Own Statements Belie Its Proffered Interpretation.
+
+            DHL’s public statements are telling. In its “Timeline,” printed from
+
+its website, DHL touts its history: “[w]ith this concept, a new industry was born:
+
+international air express service, the rapid delivery of documents and shipments by
+
+airplane.” A-354. DHL itself told the world that air express involves airplanes.
+
+            Similarly, in its “Glossary,” also from DHL’s website, DHL explains
+
+that a fuel surcharge, also known as a bunker surcharge, is “[a]n extra surcharge by
+
+the carrier to adjust for temporary higher fuel costs.” A-366; A-368.7 Again, DHL
+
+ties its fuel surcharge to fuel costs. These documents further defeat DHL’s
+
+
+
+7
+       Unnumbered page 11 is a Word document copied and pasted from DHL’s
+       website to address cut-off printouts from the website.
+
+
+                                              -18-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 25 of 56
+
+
+
+
+arguments here.8 And they directly bear on DHL’s deceptiveness,9 standing in
+
+contrast to what DHL actually did.
+
+      4.     DHL’s Definition-By-Implication Fails.
+
+             In its brief on the first appeal, DHL admitted that its “Air Express
+
+Services” term is not “explicitly” defined. See DHL’s Appellee Brf. 1/15/13, at 44,
+
+46, 48 (Dkt. 52). Absent an express definition, DHL tries implication, relying on a
+
+passing reference to “Air Express services” contained in one of two Rate Guide
+
+descriptions of what DHL Ground offers. A-64, 74.
+
+             But DHL cannot construct its definitional scheme by such a strained
+
+implication. Nor can it do so by reference to a lone sentence located within its
+
+paperwork — in a place (the description of DHL Ground) that a Next Day or 2nd
+
+Day customer would never have occasion to read.
+
+
+
+
+8
+       These DHL documents are properly considered here. The first bears on
+       DHL’s scienter and is implied throughout, and integral to, the First
+       Amended Complaint, including at paragraph 58 (regarding DHL’s
+       implications). A-47. The second was directly referenced at paragraph 28 of
+       the First Amended Complaint. A-40. This is a proper use of documents on
+       a motion to dismiss. See, e.g., DiFolco v. MSNBC Cable, L.L.C., 622 F.3d
+       104, 111 (2d Cir. 2010).
+9
+       Discovery undoubtedly will yield additional documents like these.
+
+
+                                              -19-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 26 of 56
+
+
+
+
+             Instead, if DHL meant for its Next Day customers to understand the
+
+term “Air Express” to mean a category of service levels, DHL would have used
+
+that term prominently. Or at least DHL would have used the term in the parts of its
+
+documents where DHL organized the service levels supposedly contained within
+
+“Air Express.” See A-62; A-63; A-64; A-67; A-69-73; A-97, A-110. It did not.
+
+             Moreover, in this cited Rate Guide promise (A-64), where DHL says
+
+it provides its customer with “the same attention and careful handling that you
+
+value with our Air Express services, including tracking and delivery details,” DHL
+
+is not defining service categories. Instead, DHL is referring to customer service.
+
+             Most fatal to DHL’s attempted “implied” definition, however, is its
+
+internal inconsistency. In particular, when DHL discusses “DHL GROUND” a
+
+second time — ten pages later in the same document — DHL’s description is
+
+materially different from the previous statement. In particular, in the second
+
+reference, DHL says that DHL GROUND provides “the same attention and careful
+
+handling that you value with our express services . . . .” A-74. This quote is
+
+materially different from the earlier one. Compare A-64 with A-74. It does not
+
+compare DHL Ground to DHL’s “Air Express services.” The word “Air” is
+
+removed. And the word “express” is no longer capitalized.
+
+
+
+
+                                              -20-
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 27 of 56
+
+
+
+
+             How can “Air Express” be a term defined by implication when that
+
+term is used inconsistently in two analogous parts of DHL’s own Rate Guide?
+
+DHL’s attempted definition of Air Express by implication fails. The Air Express
+
+term is never used to collect and describe DHL service levels. Instead, the term
+
+Air Express refers to a mode of transportation to which jet fuel surcharges apply.
+
+      5.     DHL’s Ambiguity Argument Also Lacks Merit.
+
+             DHL tries to sow confusion and create an ambiguity by implication,
+
+proffering a meaning different from that alleged in the First Amended Complaint.
+
+This it cannot do. See, e.g., Seiden Assocs., Inc. v. ANC Holdings, Inc., 959 F.2d
+
+425, 428 (2d Cir. 1992) (contract “is not made ambiguous simply because the
+
+parties urge different interpretations”).
+
+             To be sure, this is not a case of DHL’s “innocent mistake” or “mere
+
+negligence.” See United States ex rel. Taylor v. Gabelli, 345 F. Supp. 2d 313, 330
+
+(S.D.N.Y. 2004). Nor is it a case of innocent breach or misinterpretation of a
+
+contract. See United States ex rel. Butler v. Hughes Helicopters, Inc., 71 F.3d 321,
+
+329 (9th Cir. 1995). Rather, the First Amended Complaint alleges DHL’s
+
+knowing submission of false claims: DHL knowingly imposed a jet fuel surcharge
+
+on shipments knowingly moved by ground. This is an objective falsehood. There
+
+is simply no provision that states DHL may do this.
+
+
+                                               -21-
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 28 of 56
+
+
+
+
+             Although the “reasonableness” of an interpretation may be relevant to
+
+whether an FCA defendant knowingly submitted a false claim, see United States ex
+
+rel. Oliver v. Parsons Co., 195 F.3d 457, 464 (9th Cir. 1999) (“[a] contractor
+
+relying on a good faith interpretation of a regulation is not subject to liability, not
+
+because his or her interpretation was correct or ‘reasonable’ but because the good
+
+faith nature of his or her action forecloses the possibility that the scienter
+
+requirement is met”), it is not dispositive, particularly on a motion to dismiss.
+
+             If it was, an FCA defendant would be permitted to submit a false
+
+claim — knowing that it was false — but nevertheless avoid liability by claiming
+
+that its false claim was based upon a “reasonable interpretation” of the
+
+requirements. That is not the law. See id. at 463 n.3, 464 (denying summary
+
+judgment where the defendant claimed that it relied on its “reasonable
+
+interpretation” of the applicable regulations, but evidence showed that the
+
+defendants acted purposely to defraud the government).
+
+             This is why DHL’s proposed rule that a supposed ambiguity gives it
+
+an automatic free pass is not the law. See also United States ex rel. Walker v. R&F
+
+Props. of Lake County, Inc., 433 F.3d 1349, 1356-57 (11th Cir. 2005) (if
+
+regulations are unclear, court may look to evidence other than the regulation and
+
+form to determine whether a claim, allegedly submitted in violation of that
+
+                                               -22-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 29 of 56
+
+
+
+
+language, is false; district court erred by deciding, on summary judgment, that
+
+ambiguity in regulation necessarily foreclosed falsity of claims; evidence outside
+
+the regulation’s language may be used to understand the meaning of that
+
+regulation).10
+
+             Instead, DHL’s state of mind on contract meaning will be important.
+
+See Commercial Contr., Inc. v. United States, 154 F.3d 1357, 1366 (Fed. Cir.
+
+1998) (“[i]f a contractor submits a claim based on a plausible but erroneous
+
+contract interpretation, the contractor will not be liable, absent some specific
+
+evidence of knowledge that the claim is false or of an intent to deceive”) (emphasis
+
+added); Minnesota Assoc. of Nurse Anesthetists v. Allina Health Sys. Corp., 276
+
+F.3d 1032 (8th Cir. 2002) (reversing summary judgment to defendants who had
+
+
+10
+       United States v. Newport News Shipbuilding, Inc., 276 F. Supp. 2d 539,
+       560-66 (E.D. Va. 2003), is similar. There, the court rejected a summary
+       judgment argument that ambiguity in the regulation rendered it impossible
+       for the defendant to have knowingly submitted false claims. Even though
+       the regulation was subject to “agency and industry dispute and doubt,” the
+       plain language and legislative history of the regulation suggested that the
+       defendant’s interpretation was incorrect. With respect to the Government’s
+       argument that the defendant acted recklessly by charging costs based on a
+       “tenuous interpretation” of the regulation without disclosing its
+       interpretation, the court noted that “both the clarity of the regulation and the
+       reasonableness of a contractor’s interpretation are relevant in deciding
+       whether a failure to disclose charging practices is indicative of a reckless
+       disregard of their falsity.” Id.
+
+
+                                              -23-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 30 of 56
+
+
+
+
+argued that regulations were “susceptible” to their interpretation; relator’s evidence
+
+showed that the defendants certified compliance with regulation while knowing
+
+that the agency interpreted the regulation differently).
+
+             In fact, in United States ex rel. K & R Ltd. Partnership v.
+
+Massachusetts Housing Finance Agency, 530 F.3d 980 (D.C. Cir. 2008), the court
+
+expressly noted that the unreasonableness of a defendant’s interpretation is
+
+“merely evidence, the absence of which does not preclude a finding of
+
+knowledge.” (citation omitted); see also United States v. Kellogg Brown & Root
+
+Servs., No. 4:12-cv-4110-SLD, 2014 U.S. Dist. Lexis 43000, at *23-*28 (C.D. Ill.,
+
+March 31, 2014) (rejecting a “reasonable interpretation” argument on a motion to
+
+dismiss and distinguishing summary judgment cases; an objectively reasonable
+
+interpretation may be knowingly false); United States ex rel. Chilcott v. KBR, Inc.,
+
+No. 09-cv-4018, 2013 U.S. Dist. Lexis 153331, at *21-*28 (C.D. Ill., Oct. 24,
+
+2013) (same and, on a motion to dismiss, drawing the reasonable inference that the
+
+relator’s interpretation was the correct one).
+
+             Simply put, “[c]ontractors should not be permitted to escape liability
+
+for knowingly choosing [what may be] a ‘reasonable,’ but incorrect, interpretation
+
+of a contract or regulation.” See Chilcott, 2013 U.S. Dist. Lexis 153331, at *31
+
+(emphasis in original). Indeed, in this Court’s REA Express decision, it determined
+
+                                              -24-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 31 of 56
+
+
+
+
+that the term “Air Express . . . means simply the speedy delivery of goods by air
+
+and not any company’s particularized kind of service.” REA Express, Inc., 507
+
+F.2d at 46. DHL’s interpretation is objectively unreasonable in any event.
+
+             In this case, the issue of DHL’s scienter is simply not one that can be
+
+adjudicated on a motion to dismiss. See generally United States ex rel. Cantekin v.
+
+University of Pittsburgh, 192 F.3d 402, 411 (3d Cir. 1999) (citation omitted) (“we
+
+must heed the basic rule that a defendant’s state of mind typically should not be
+
+decided on summary judgment”). Indeed, a dispositive motion based upon a
+
+defendant’s supposed lack of scienter is disfavored if interpretation issues are
+
+involved. See, e.g., United States ex rel. Feldman v. Van Gorp, 674 F. Supp. 2d
+
+475, 481 (S.D.N.Y. 2009) (denying summary judgment).11
+
+
+
+
+11
+       Significant, too, is paragraph 34 of the First Amended Complaint (A-41),
+       which alleges that, in 2004, DHL expanded the use of truck (ground) hubs,
+       which greatly increased its ability to transport shorter-distance packages
+       solely by ground. DHL’s at-issue contract language predates that then-new
+       business model. In other words, in an earlier era, where all or nearly all
+       DHL Next Day shipments required routing through an air hub, the issue in
+       this case would not arise. As such, DHL’s intent here, on outdated contract
+       language, is at least “reckless disregard” or “deliberate ignorance.” See 31
+       U.S.C. § 3729(b)(1)(A).
+
+
+                                              -25-
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 32 of 56
+
+
+
+
+             To be sure, scienter may be alleged generally. See Gold v. Morrison-
+
+Knudsen Co., 68 F.3d 1475, 1477 (2d Cir. 1995); 31 U.S.C. § 3729(b)(1)(B)
+
+(liability requires no specific intent to defraud).
+
+             And this Court’s stated policy of “leniency” on scienter issues at pre-
+
+trial stages such as on a Rule 12(b)(6) motion should be dispositive here. See, e.g.,
+
+Meijer, Inc. v. Ferring B.V., 585 F.3d 677, 693 (2d Cir. 2009) (“We are, however,
+
+‘lenient in allowing scienter issues to withstand summary judgment based on fairly
+
+tenuous inferences,’ because such issues are ‘appropriate for resolution by the trier
+
+of fact’”) (citations omitted). Indeed, “Rule 9(b) requires only the circumstances
+
+of fraud to be stated with particularity; knowledge itself can be alleged generally.”
+
+Id. at 695 (emphasis in original).
+
+             DHL’s intent should be explored in discovery, where, for example,
+
+Relators expect (based on related litigation) to find clear DHL statements on
+
+contract meaning that undermine its proffered interpretation here. At this juncture,
+
+it is sufficient that the First Amended Complaint states a claim that DHL’s
+
+practices are false and fraudulent: DHL knowingly charged jet fuel surcharges on
+
+Next Day and 2nd Day shipments that it knew traveled solely by ground. The First
+
+
+
+
+                                               -26-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 33 of 56
+
+
+
+
+Amended Complaint sufficiently alleges that DHL violated the FCA and
+
+knowingly overcharged the Government.12
+
+             The First Amended Complaint sufficiently alleges DHL’s false and
+
+fraudulent conduct. DHL drafted its contractual terms. It should not now be heard
+
+to complain that they are ambiguous such that DHL gets a free pass — at the Rule
+
+12(b)(6) stage — on FCA liability.
+
+C.    The First Amended Complaint Satisfies Rule 9(b).
+
+             As set forth above, the First Amended Complaint ably satisfies Rule
+
+9(b)’s particularity requirements. The letter and spirit of Rule 9(b) are met because
+
+Grupp and Moll have stated “with particularity the circumstances constituting
+
+fraud,” and “[m]alice, intent, [and] knowledge . . . may be alleged generally.” See
+
+Fed. R. Civ. Proc. 9(b). DHL has all the information it needs to answer these
+
+allegations, to investigate the matter, and to mount its defense.
+
+
+
+
+12
+       On this very issue, it is noteworthy that, in prior New York State FCA
+       litigation, the trial court (Curran, J.) rejected the very same contract
+       argument that DHL proffers here, stating that “DHL’s construction of the
+       Contract, at least at this pre-discovery juncture, cannot be accepted because
+       it would lead to an absurd or at least unsound result” (emphasis added). See
+       State ex rel. Grupp v. DHL Express (USA), Inc., 907 N.Y.S.2d 772, 782
+       (Sup. Ct. Erie County 2010), rev’d on other grounds, 922 N.Y.S.2d 888
+       (4th Dep’t 2011), aff’d on other grounds, 19 N.Y.3d 278 (2012).
+
+
+                                              -27-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 34 of 56
+
+
+
+
+             Can DHL really argue that it is unaware of its own contracts, or how it
+
+applied its fuel surcharges? DHL knows full well what this case is about. Its own
+
+motion papers prove it. DHL’s Rule 9(b) argument should be rejected.13 See, e.g.,
+
+United States ex rel. Ellis v. Sheikh, 583 F. Supp. 2d 434, 436-37 (W.D.N.Y.
+
+2008); Allen v. Beta Constr., 309 F. Supp. 2d 42, 46-47 (D.D.C. 2004); Gold, 68
+
+F.3d at 1477 (Rule 9(b) requires, in an FCA case, “specific statements or conduct
+
+giving rise to the fraud claim”) (emphasis added).
+
+D.    This Action is Timely.
+
+             The FCA contains a six-year statute of limitations with a built-in
+
+discovery rule. See 31 U.S.C. § 3731(b). This action, which addresses DHL’s
+
+false claims starting in 2003 or 2004 and running through 2008, was commenced
+
+in April 2008 — well within the FCA’s limitations period. A-4; A-11. It is
+
+commencement, not service of the complaint, that satisfies the statute of
+
+limitations. See, e.g., Lewellen v. Morley, 875 F.2d 118, 121 (7th Cir. 1989);
+
+13
+       In the event greater particularity is needed, Grupp and Moll requested leave
+       to amend to add whatever additional detail is known to the Relators,
+       including the significant and probative detail learned in discovery in related
+       litigation (including detail bearing on DHL’s state of mind relative to its
+       contract) — detail known as well to DHL. See Ronzani v. Sanofi, S.A., 899
+       F.2d 195, 198-99 (2d Cir. 1990). Under these facts, justice would require
+       no less. See, e.g., Luce v. Edelstein, 802 F.2d 49, 56-57 (2d Cir. 1986)
+       (Rule 9(b) dismissals are typically accompanied by leave to amend).
+
+
+                                              -28-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 35 of 56
+
+
+
+
+United States ex rel. Parikh v. Premera Blue Cross, No. CV01-0476, 2007 U.S.
+
+Dist. Lexis 24845, at *10 (W.D. Wash. Apr. 3, 2007) (in FCA context); United
+
+States ex rel. Costa v. Baker & Taylor, Inc., No. C-95-1825, 1998 U.S. Dist. Lexis
+
+23509, at *9-*10 (N.D. Cal. Mar. 20, 1998) (same); see also F.R.C.P. 3, 4(m).
+
+             This case was filed in 2008 under seal, as required by the FCA. See
+
+31 U.S.C. § 3730(b)(2). It was kept under seal, pursuant to the FCA, until the
+
+District Court unsealed it and allowed Grupp and Moll to serve DHL.14 A-4-6; A-
+
+25-48. Under the FCA’s express provisions, any earlier notice to (or service upon)
+
+DHL was forbidden. Any provision of time, therefore, must be read in light of the
+
+FCA’s seal requirements and six-year limitations period. All false claims made
+
+during the six years before the 2008 filing are, therefore, timely. See Parikh, 2007
+
+U.S. Dist. Lexis 24845, at *10; Costa, 1998 U.S. Dist. Lexis 23509, at *9-*10.
+
+             Indeed, this Court, in this very case, has ruled that the FCA’s seal
+
+provisions trump a contrary notice provision that would impede the FCA’s seal
+
+
+14
+       There is no question that the 2011 First Amended Complaint, which is
+       substantially the same as the original complaint, relates back to the original
+       complaint under Rule 15(c)(1)(B). See, e.g., Costa, 1998 U.S. Dist. Lexis
+       23509, at *9-10 (in FCA context). The question, in any event, is whether
+       the 2008 filing date, or the 2011 service date, governs for statute of
+       limitations purposes. Commencement is the law. Moreover, service was
+       made at the earliest possible time under the FCA.
+
+
+                                              -29-
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 36 of 56
+
+
+
+
+provisions and statute of limitations. See United States v. DHL Express (USA),
+
+Inc., 742 F.3d 51, 54 (2d Cir. 2014). There is no viable statute of limitations
+
+defense in this case. The District Court agreed on this point, holding that DHL’s
+
+argument had no merit. A-384; SPA-16.
+
+                                     CONCLUSION
+
+             DHL believes there is nothing fraudulent about imposing a jet fuel
+
+surcharge on packages that never traveled by airplane. Common sense, and the
+
+law, say otherwise. On DHL’s Rule 12(b)(6) motion to dismiss, all presumptions
+
+must favor the Relators and all doubts are to be resolved in their favor. DHL’s
+
+motion should have been denied, so that this case may proceed to merits discovery
+
+— to enable the Government to recover for DHL’s improper jet fuel surcharges.
+
+This Court should reverse.
+
+                                          Respectfully Submitted,
+                                          HODGSON RUSS LLP
+                                                   By: s/John L. Sinatra, Jr.
+                                                 Daniel C. Oliverio, Esq.
+                                                 John L. Sinatra, Jr., Esq.
+                                                 Reetuparna Dutta, Esq.
+                                           140 Pearl Street, Suite 100
+                                           Buffalo, New York 14202-4040
+                                           Telephone: (716) 856-4000
+                                           Attorneys for Plaintiffs-Appellants
+                                           Kevin Grupp and Robert Moll
+
+
+
+                                              -30-
+                             Case 14-3595, Document 33, 11/03/2014, 1360950, Page 37 of 56
+
+
+
+
+       Certificate of Compliance With Rule 32(a) — Compliance with
+Type-Volume Limitation, Typeface Requirements, and Type Style Requirements.
+
+         1.         This brief complies with the type-volume limitation of Fed. R. App. P.
+                    32(a)(7)(B) because:
+
+                               √      this brief contains 6,934 words, excluding the parts of the
+                                brief exempted by Fed. R. App. P. 32(a)(7)(B)(iii), or
+                               N.A. this brief uses a monospaced typeface and contains
+                                [number of] lines of text, excluding the parts of the brief
+                                exempted by Fed. R. App. P. 32(a)(7)(B)(iii).
+
+         2.         This brief complies with the typeface requirements of Fed. R. App. P.
+                    32(a)(5) and the type style requirements of Fed. R. App. P. 32(a)(6)
+                    because:
+
+                               √     this brief has been prepared in a proportionally spaced
+                                typeface using Microsoft Word 2010 (v.14.0.6123.5001) in 14-
+                                point Times New Roman font, or
+                               N.A. this brief has been prepared in a monospaced typeface
+                                using [name and version of word processing program] with
+                                [number of characters per inch and name of type style].
+
+                    Dated:            November 3, 2014
+
+                                                     Respectfully Submitted,
+                                                     HODGSON RUSS LLP
+                                                              By: s/John L. Sinatra, Jr.
+                                                            Daniel C. Oliverio, Esq.
+                                                            John L. Sinatra, Jr., Esq.
+                                                            Reetuparna Dutta, Esq.
+                                                      140 Pearl Street, Suite 100
+                                                      Buffalo, New York 14202-4040
+                                                      Telephone: (716) 856-4000
+                                                      Attorneys for Plaintiffs-Appellants
+                                                      Kevin Grupp and Robert Moll
+
+
+                                                         -31-
+
+
+
+055339.00000 Litigation 12171774v2
+Case 14-3595, Document 33, 11/03/2014, 1360950, Page 38 of 56
+
+
+
+
+              Special Appendix
+    Case 14-3595, Document 33, 11/03/2014, 1360950, Page 39 of 56
+
+
+
+
+                                          i
+
+                         SPECIAL APPENDIX
+                        TABLE OF CONTENTS
+
+
+                                                                              Page
+Decision and Order of the Honorable John T.
+  Curtin, dated September 10, 2014 and entered
+  September 11, 2014, Appealed From.....................                    SPA-1
+Judgment, dated September 12, 2014, Appealed
+  From ....................................................................... SPA-17
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 40 of 56
+
+
+
+                                          SPA-1
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 1 of 16
+
+
+
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF NEW YORK
+
+
+THE UNITED STATES OF AMERICA ex rel.
+KEVIN GRUPP and ROBERT MOLL,
+
+                                   Plaintiffs,
+
+                     -vs-                                        08-CV-301C
+
+DHL EXPRESS (USA), INC.,
+DHL WORLDWIDE EXPRESS, INC., and
+DPWN HOLDINGS (USA), INC. (f/k/a
+DHL HOLDINGS (USA), INC.)
+
+                                   Defendants.
+
+
+APPEARANCES:                       HODGSON RUSS LLP (DANIEL C. OLIVERIO,
+                                   ESQ., JOHN L. SINATRA, ESQ., and REETUPARNA
+                                   DUTTA, ESQ., OF COUNSEL), Buffalo, New York,
+                                   Attorneys for Plaintiffs.
+
+                                   CONNORS & VILARDO, LLP (TERRENCE M.
+                                   CONNORS, ESQ., LAWRENCE J. VILARDO, ESQ.,
+                                   and PAUL A. WOODARD, ESQ., OF COUNSEL),
+                                   Buffalo, New York, Attorneys for Defendants.
+
+
+                                      BACKGROUND
+
+       This is a qui tam action brought by the relators on behalf of the United States for
+
+alleged violations of the False Claims Act (“FCA”), 31 U.S.C. § 3729, et seq. Relators
+
+assert that the defendants have violated the FCA by improperly billing the United States
+
+for jet fuel surcharges on deliveries that traveled solely by ground transportation.
+
+Specifically, relators allege that the defendants “falsely and fraudulently misrepresented
+
+that certain Next Day and 2nd Day shipments were delivered by air such that jet fuel
+
+surcharges were necessary, when, in fact, they were delivered solely by ground
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 41 of 56
+
+
+
+                                          SPA-2
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 2 of 16
+
+
+
+transportation . . . .” (Item 25, ¶ 2). Additionally, relators allege the defendants imposed
+
+diesel fuel surcharges on ground delivery shipments when “only a small portion of those
+
+surcharge amounts was passed along to DHL’s independent contractor network of
+
+trucking companies who bought the relevant fuel.” Id., ¶ 3.
+
+       The case was originally assigned to Chief United States District Judge
+
+William M. Skretny. In a Notice of Election filed March 24, 2011, the Government
+
+declined to intervene in the action (Item 21). On July 15, 2011, the relators filed a
+
+notice of their intention to proceed with the action in light of the Government’s election
+
+not to intervene (Item 24) and additionally filed an amended complaint (Item 25). On
+
+November 8, 2011, the defendants filed a motion to dismiss (Item 36), raising several
+
+grounds for dismissal. Thereafter, on March 16, 2012, the case was transferred to the
+
+docket of the undersigned (Item 47).
+
+       In a Decision and Order filed September 14, 2012, this court granted the
+
+defendants’ motion and dismissed the complaint (Item 50). That decision was based
+
+solely on defendants’ argument that the relators had failed to satisfy the statutory notice
+
+requirement imposed by 49 U.S.C. § 13710(a)(3)(B). That statute requires a shipper, in
+
+a proceeding before the Surface Transportation Board, to contest a bill within 180 days
+
+of its receipt, as a precondition to suit. Upon appeal to the Second Circuit, that court
+
+agreed with the relators that the 180-day rule did not apply in a qui tam action under the
+
+FCA. The Court of Appeals vacated the judgement for defendants and remanded the
+
+matter to this court (Item 56).
+
+       As neither this court nor the Second Circuit addressed the defendants’ remaining
+
+grounds for dismissal, this court issued an order directing the filing of additional
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 42 of 56
+
+
+
+                                              SPA-3
+
+           Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 3 of 16
+
+
+
+submissions in support of and opposition to the motion to dismiss (Items 60, 62-64).
+
+The court has determined that oral argument is unnecessary. For the reasons that
+
+follow, the defendants’ motion to dismiss is granted.
+
+
+                                              FACTS
+
+           According to the amended complaint (Item 25, ¶ 20), defendants, collectively
+
+referred to as “DHL,” are a shipping company that transports packages for a fee.1 DHL
+
+provided delivery services to the United States government, through the General
+
+Services Administration (“GSA”), the Department of Homeland Security, and the
+
+Department of Defense. Id., ¶ 25. At all times relevant to the complaint, relators were
+
+the owners and operators of MVP Delivery and Logistics, Inc., (“MVP”), a trucking
+
+company located in Depew, New York, and an independent contractor to DHL. Id., ¶ 9.
+
+Relators allege that, beginning in or about 2003 or 2004, DHL began to assess a jet
+
+fuel surcharge on its “Next Day” and “2nd Day” delivery service, regardless of whether
+
+the package traveled by air or ground. Id., ¶ 29. Relators further allege that a
+
+“substantial percentage of DHL Next Day and 2d Day shipments paid for by the United
+
+States government did not travel by air at all, even though they included a jet fuel
+
+surcharge.” Id., ¶ 32. Additionally, beginning in 2003 or 2004, DHL began charging a
+
+diesel fuel surcharge notwithstanding the fact that it contracted out 65% to 70% of its
+
+ground delivery service. Id., ¶ 40. Relators allege that DHL “shared only a small
+
+portion of fuel surcharges with its independent contractors.” Id., ¶ 42. At all times
+
+
+
+       1
+        Defendant DHL Worldwide Express, Inc. no longer exists. For purposes of the motion, all
+defendants are referred to collectively herein as “DHL.”
+
+                                                  3
+                   Case 14-3595, Document 33, 11/03/2014, 1360950, Page 43 of 56
+
+
+
+                                            SPA-4
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 4 of 16
+
+
+
+relevant to the complaint, the jet fuel surcharge has been substantially higher than the
+
+ground fuel surcharge. Id., ¶ 38.
+
+       Relators offered three specific examples of the alleged improper jet fuel
+
+surcharges. Waybill #61662929845 represents a March 2008 Next Day shipment from
+
+Washington, D.C. to Lorton, Virginia which traveled solely by ground transportation
+
+through DHL’s truck hub in Allentown, Pennsylvania. Waybill #75371715440
+
+represents a March 2008 Next Day shipment from Buffalo, New York to Cleveland,
+
+Ohio which traveled by ground transportation through DHL’s truck hub in Erie,
+
+Pennsylvania. Waybill #65415662141 represents a February 2008 Next Day shipment
+
+from Alameda, California to Walnut Creek, California which traveled solely by ground
+
+transportation through DHL’s truck hub in Fresno, California. Relators allege that in
+
+each of these instances, the government was improperly assessed a jet fuel surcharge
+
+(Item 25, ¶ 36).
+
+       In support of their motion to dismiss, defendants submitted DHL’s 2008
+
+“Standard Rate Guide” (Item 36, Exh. B), a copy of DHL’s Ground Delivery Service
+
+Waybill (Item 36, Exh. C), DHL’s 2008 Fuel Surcharge Tables (Item 36, Exh. D), and a
+
+copy of DHL’s Next Day and 2nd Day Delivery Waybill (Item 36, Exh. E).
+
+       DHL’s 2008 Rate Guide provides information regarding DHL’s various shipping
+
+services (Item 36, Exh. B). On Page 2 of the Rate Guide, “U.S. Domestic Shipping”
+
+services are noted to include DHL Same Day, DHL Next Day: 10:30, 12:00 PM and
+
+3:00 PM, DHL 2nd Day, DHL Ground, DHL Shipready, and DHL Smartmail. Each of the
+
+“Domestic Services” are further described on Page 4 of the Rate Guide. For example,
+
+“DHL Next Day 10:30 AM” is described as providing “[g]uaranteed delivery by 10:30
+
+                                                4
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 44 of 56
+
+
+
+                                            SPA-5
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 5 of 16
+
+
+
+a.m. the next business day.” “DHL Ground” provides “[d]oor-to-door delivery throughout
+
+the U.S. . . . in 1-6 business days.” This method of shipment is said to offer “increased
+
+savings without decreased service features. We guarantee your packages receive the
+
+same attention and careful handling that you value with our Air Express services,
+
+including tracking and delivery details.”
+
+       The Rate Table for DHL Ground delivery service on page 14 of the Rate Guide
+
+contains a description of DHL Ground service and a guarantee “that your packages
+
+receive the same attention and careful handling that you value with our express
+
+services, including tracking and delivery details.” On Page 35 of the Rate Guide,
+
+entitled “FEES,” DHL advises its customers that “Air Express shipments are assessed a
+
+fuel surcharge which is indexed to the USGC kerosene-type jet fuel index. Ground
+
+shipments are assessed a fuel surcharge which is indexed to the U.S. Dept. Of
+
+Energy’s on-highway diesel fuel index.” Customers are directed to DHL’s “Fuel
+
+Surcharge Table” for further details.
+
+       On Page 37 of the Rate Guide, DHL domestic shipping services are categorized
+
+as either “Same Day,” “Time Definite,” or “Day Definite.” “DHL Ground,” a “Day
+
+Definite” delivery service, is described as a way to “[s]ave money on your routine
+
+shipments with guaranteed door-to-door delivery in 1 to 6 business days, depending on
+
+the origin and destination of your shipment.”
+
+       DHL’s fuel surcharge terms are described in a document entitled “DHL Express
+
+Fuel Surcharge Information” (Item 36, Exh. D). According to this document, “DHL
+
+utilizes an indexed fuel surcharge based upon the fuel prices published monthly by the
+
+U.S. Department of Energy.” Id. The “Air Express and International indexed surcharge
+
+                                              5
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 45 of 56
+
+
+
+                                          SPA-6
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 6 of 16
+
+
+
+calculation is linked to the monthly rounded average of the U.S. Gulf Coast (USGC)
+
+price” for kerosene-type jet fuel, while the “Ground Delivery Service indexed surcharge
+
+calculation is linked to the monthly rounded average” of the national price for diesel
+
+fuel. Id. There are two fuel surcharge tables, one for “DHL Air Express Services” and
+
+the other for “DHL Ground Delivery Service.”
+
+       DHL used distinct waybills for “Ground Delivery Service” and for “Next Day” and
+
+“2nd Day” shipments. Both waybills provided that DHL reserved the right to transport
+
+packages by any means including air, road, or any other carrier (Item 36, Exhs. C, E).
+
+
+                                       DISCUSSION
+
+       At the outset, the relators argue that in vacating the judgment and remanding the
+
+case to this court, the Second Circuit impliedly rejected the defendants’ alternative
+
+arguments in support of their motion to dismiss. On the contrary, the Second Circuit
+
+explicitly stated that the judgment in favor of DHL was vacated “on the ground that the
+
+180-day rule cannot apply to a qui tam action under the FCA.” United States ex rel.
+
+Grupp v. DHL Express (USA), Inc., 742 F.3d 51, 53 (2d Cir. 2014). Accordingly, this
+
+court will address the defendants’ remaining arguments: (1) that relators have failed to
+
+state a plausible claim for relief under the FCA, and (2) that the claims are partially
+
+time-barred.
+
+
+1. Motion to Dismiss for Failure to State a Plausible Claim for Relief
+
+       When considering a motion to dismiss under Rule 12(b)(6) of the Federal Rules
+
+of Civil Procedure, a court should “draw all reasonable inferences in Plaintiff['s] favor,
+
+
+
+                                              6
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 46 of 56
+
+
+
+                                          SPA-7
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 7 of 16
+
+
+
+assume all well-pleaded factual allegations to be true, and determine whether they
+
+plausibly give rise to an entitlement to relief.” Faber v. Metro. Life Ins. Co., 648 F.3d 98,
+
+104 (2d Cir. 2011) (internal quotation marks omitted). To state a claim for relief, “a
+
+plaintiff must provide the grounds upon which his claim rests through factual allegations
+
+sufficient ‘to raise a right to relief above the speculative level.’ ” ATSI Commc'ns, Inc. v.
+
+Shaar Fund, Ltd., 493 F.3d 87, 98 (2d Cir. 2007) (quoting Bell Atl. Corp. v. Twombly,
+
+550 U.S. 544, 555 (2007)). Plaintiff must allege “ ‘enough facts to state a claim to relief
+
+that is plausible on its face.’ ” Starr v. Sony BMG Music Entm't, 592 F.3d 314, 321 (2d
+
+Cir. 2010) (quoting Twombly, 550 U.S. at 570). “A claim has facial plausibility when the
+
+plaintiff pleads factual content that allows the court to draw the reasonable inference
+
+that the defendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 662,
+
+678 (2009).
+
+       When a plaintiff alleges fraud, the factual allegations must meet the higher
+
+pleading standard set forth in Rule 9(b) of the Federal Rules of Civil Procedure. See
+
+U.S. ex rel. Moore v. GlaxoSmithKline, LLC, 2013 WL 6085125, *3 (E.D.N.Y. Oct. 18,
+
+2013) (“The Second Circuit has held that the FCA is an ‘anti-fraud statute,’ and
+
+therefore claims brought under the FCA ‘fall within the express scope of Rule 9(b)’ of
+
+the Federal Rules of Civil Procedure.”) Under Rule 9(b), “[i]n alleging fraud or mistake,
+
+a party must state with particularity the circumstances constituting fraud or mistake.
+
+Malice, intent, knowledge, and other conditions of a person's mind may be alleged
+
+generally.” Fed.R.Civ.P. 9(b). To be fraudulent, a false statement must have been
+
+made with the requisite scienter, and thus the complaint must “plead the factual basis
+
+
+
+                                              7
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 47 of 56
+
+
+
+                                          SPA-8
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 8 of 16
+
+
+
+which gives rise to a strong inference of fraudulent intent.” Shields v. Citytrust Bancorp,
+
+Inc., 25 F.3d 1124, 1128 (2d Cir. 1994) (quoting O'Brien v. Nat'l Prop. Analysts
+
+Partners, 936 F.2d 674, 676 (2d Cir. 1991)). “In sum, to state a fraud claim, the plaintiff
+
+must make particular factual allegations supporting a reasonable inference that the
+
+defendants are liable for fraud, and allegations that strongly support an inference that
+
+the defendants acted with intent to defraud.” Williams v. GMAC Mortg., Inc., 2014 WL
+
+2560605, *3 (S.D.N.Y. June 6, 2014). A court is not, however, bound to accept
+
+“conclusory allegations or legal conclusions masquerading as factual conclusions.”
+
+Rolon v. Henneman, 517 F.3d 140, 149 (2d Cir. 2008); see also Harris v. Mills, 572
+
+F.3d 66, 72 (2d Cir. 2009) (“[A]lthough a court must accept as true all of the allegations
+
+contained in a complaint, that tenet is inapplicable to legal conclusions, and threadbare
+
+recitals of the elements of a cause of action, supported by mere conclusory statements,
+
+do not suffice.” (internal quotation marks omitted) (quoting Iqbal, 556 U.S. at 678)).
+
+       Additionally, In considering a motion to dismiss for failure to state a claim
+
+pursuant to Rule 12(b)(6), a district court may consider the facts alleged in the
+
+complaint, documents attached to the complaint as exhibits, and documents
+
+incorporated by reference in the complaint.” DiFolco v. MSNBC Cable LLC, 622 F.3d
+
+104, 111 (2d Cir. 2010). “Even where a document is not incorporated by reference, the
+
+court may nevertheless consider it where the complaint ‘relies heavily upon its terms
+
+and effect,’ which renders the document ‘integral’ to the complaint.” Chambers v. Time
+
+Warner, Inc., 282 F.3d 147, 153 (2d Cir. 2002) (quoting Int'l Audiotext Network, Inc. v.
+
+Am. Tel. & Tel. Co., 62 F.3d 69, 72 (2d Cir. 1995) (per curiam)).
+
+
+
+                                              8
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 48 of 56
+
+
+
+                                          SPA-9
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 9 of 16
+
+
+
+       The FCA imposes civil liability on any person who “knowingly presents, or
+
+causes to be presented, to [the United States government] a false or fraudulent claim
+
+for payment or approval” or “knowingly makes, uses, or causes to be made or used, a
+
+false record or statement to get a false or fraudulent claim paid or approved by the
+
+Government.” 31 U.S.C. § 3729(a). To plead a violation of the FCA, the plaintiff “must
+
+show that defendants (1) made a claim, (2) to the United States government, (3) that is
+
+false or fraudulent, (4) knowing of its falsity, and (5) seeking payment from the federal
+
+treasury.” Mikes v. Straus, 274 F.3d 687, 695 (2d Cir. 2001). “Knowing” and
+
+“knowingly” are defined as meaning that the person (1) has actual knowledge of the
+
+information; (2) acts in deliberate ignorance of the truth or falsity of the information; or
+
+(3) acts in reckless disregard of the truth or falsity of the information. 31 U.S.C.
+
+§3729(b). Here, the relators allege that DHL knowingly and falsely represented that
+
+Next Day and 2nd Day shipments were transported by air; that jet fuel surcharges were
+
+properly imposed on Next Day and 2nd Day shipments; and that diesel fuel surcharges
+
+were necessary to compensate DHL for ground shipments. Item 25, ¶ 48.
+
+       Defendants did not falsely represent that all Next Day and 2nd Day shipments
+
+were transported by air. The relevant waybills expressly advise DHL customers that
+
+DHL reserved the right to transport Next Day and 2nd Day packages by any means of
+
+transportation, not specifically by air. Additionally, nowhere in the contract documents
+
+does DHL represent that diesel fuel surcharge amounts were necessary to compensate
+
+DHL and would be passed along to its independent contractor network of trucking
+
+companies. The only possible misrepresentation relators have plausibly alleged is their
+
+claim that DHL fraudulently imposed jet fuel surcharges on Next Day and 2nd Day
+
+                                              9
+                    Case 14-3595, Document 33, 11/03/2014, 1360950, Page 49 of 56
+
+
+
+                                                SPA-10
+
+            Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 10 of 16
+
+
+
+shipments that did not travel by air.
+
+        Defendants argue that the contract documents clearly permit the imposition of jet
+
+fuel surcharges on the Next Day and 2nd Day shipments at issue, and thus relators have
+
+failed to allege a false claim. The Rate Guide states that a jet fuel surcharge is
+
+imposed on all “Air Express” shipments. Although “Air Express” is not explicitly defined,
+
+defendants argue that it refers to a category of service, not a mode of transportation,
+
+and thus impliedly includes Next Day and 2nd Day packages.2 Defendants argue that
+
+their computation of the fuel surcharges, as contemplated by the contract documents, is
+
+the only plausible interpretation in the business context in which customers want their
+
+packages delivered in a timely manner at a specific price, regardless of the method of
+
+transportation. They contend that DHL must establish the cost of a shipment prior to its
+
+delivery and explicitly reserves the right to ship Next day and 2nd Day packages by any
+
+mode of transportation it deems appropriate.
+
+        Relators argue that, as the term “Air Express” is not explicitly defined in the Rate
+
+Guide, it refers to a mode of transportation, rather than a category of service.3
+
+Consequently, they contend that jet fuel surcharges were only authorized on shipments
+
+transported by airplane. Defendants counter that this reading of the contract
+
+
+        2
+           The Second Circuit appears to have accepted as true the defendants’ assertion that, although it
+is not explicitly set out in the Rate Guide, DHL Same Day, Next Day, and 2nd Day services are “Air
+Express” services, as distinguished from “DHL Ground” service. See United States ex rel. Grupp v. DHL
+Express (USA), Inc., 742 F.3d 51, 52 (2d Cir. 2014); Rate Guide, at p. 4.
+
+        3
+           Relators argue that the Second Circuit has already determined, in REA Express, Inc. v. C.A.B.,
+507 F.2d 42 (2d Cir. 1974), that “Air Express” refers to a mode of transportation, not a category of service.
+REA involved a decision by the Civil Aeronautics Board not to review a complaint of unfair competition
+regarding the name “Air Express.” The court affirmed the Board’s determination that REA had failed to
+establish the reasonable likelihood that the unfair use of the term “Air Express” in that case caused
+specific and substantial public injury. REA is neither relevant to nor determinative in the present case.
+
+                                                     10
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 50 of 56
+
+
+
+                                         SPA-11
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 11 of 16
+
+
+
+documents, which would require the computation of an appropriate fuel surcharge
+
+following the delivery of a package based on the mode of transportation, would create
+
+confusion and uncertainty and is simply impractical given the realties of the shipping
+
+industry.
+
+       In an unrelated case based on the same contract documents, this court
+
+determined that the term “Air Express” “can either denote a mode of transportation . . .
+
+or is used as a term of art to denote a category of services . . ..” Jim Ball Pontiac-
+
+Buick-GMC, Inc. v. DHL Exp. (USA), Inc., 2010 WL 1840316, *4 (W.D.N.Y. May 7,
+
+2010). As the contract ambiguity was not resolved through extrinsic evidence in the Jim
+
+Ball case, this court denied cross motions for partial summary judgment on liability. Id.
+
+Similarly, the court here is presented with a contract ambiguity and two competing
+
+interpretations of the provisions at issue. The court must determine whether the
+
+allegation of a contract ambiguity, without more, is sufficient to allege a false claim
+
+under the FCA.
+
+       When alleging fraud, a plaintiff must “specifically plead those events which give
+
+rise to a strong inference that the defendant had an intent to defraud, knowledge of the
+
+falsity, or a reckless disregard for the truth.” Beth Israel Med. Ctr. v. Verizon Bus.
+
+Network Servs., 2013 WL 1385210, at *4 (S.D.N.Y. Mar. 18, 2013) (quoting
+
+Connecticut Nat'l Bank v. Fluor Corp., 808 F.2d 957, 962 (2d Cir. 1987)). Here, relators
+
+have alleged, in a conclusory fashion, that the imposition of jet fuel surcharges on Next
+
+Day and 2d Day shipments that were transported solely by ground transportation was
+
+fraudulent (Item 25, ¶48). However, defendant’s method of rate computation is both
+
+
+
+                                             11
+                  Case 14-3595, Document 33, 11/03/2014, 1360950, Page 51 of 56
+
+
+
+                                           SPA-12
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 12 of 16
+
+
+
+consistent with the contract documents and reasonable in the business context. The
+
+relators’ conclusory allegation of fraud, based solely on a disputed interpretation of the
+
+contract documents, is insufficient to “strongly support an inference that the defendants
+
+acted with intent to defraud.” Williams v. GMAC Mortg., Inc., 2014 WL 2560605, at *3;
+
+see also Dash v. Seagate Technology (U.S.) Holdings, Inc., 2014 WL 2922658, *4
+
+(E.D.N.Y. June 30, 2014) (conclusory statement as to defendant’s fraudulent intent not
+
+sufficient to survive motion to dismiss); Scheiner v. Wallace, 832 F. Supp. 687, 702
+
+(S.D.N.Y. 1993) (“Facts that are merely as consistent with fraudulent intent as they are
+
+with its absence are insufficient. Plaintiffs must allege facts that unambiguously give
+
+rise to a strong inference of fraudulent intent.”). Moreover, a conclusory allegation of
+
+conduct that is merely “ ‘consistent with’ liability, fail[s] to satisfy both Rule 9(b) and
+
+Twombly’s instruction that a plausible complaint ‘nudge [ ] [plaintiff’s] claims across the
+
+line from conceivable to plausible . . ..’ ” United States ex rel Corporate Compliance
+
+Assocs. v. New York Soc. for the Relief of the Ruptured and Crippled, 2014 WL
+
+3905742, *17 (S.D.N.Y. Aug. 7, 2014) (citing Twombly, 550 U.S. at 570).
+
+       Many courts have determined, in the summary judgment context, that “[w]ithout
+
+more than a relator's subjective interpretation of an imprecise contractual provision, a
+
+defendant's reasonable interpretation of its legal obligation precludes a finding that the
+
+defendant had knowledge of its falsity.” U.S. ex rel. Thomas v. Siemens AG, 991 F.
+
+Supp. 2d 540, 568 (E.D. Pa. 2014); see also U.S. Dep’t of Transp. ex rel. Arnold v.
+
+CMC Engineering, 2014 WL 2442945, *3 (3rd Cir. June 2, 2014) (as a result of contract
+
+ambiguity, court found no evidence from which a reasonable jury could find that
+
+
+
+                                               12
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 52 of 56
+
+
+
+                                         SPA-13
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 13 of 16
+
+
+
+defendant “knowingly” made a factually false claim or false certification as defined
+
+under the FCA); cf. U.S. ex rel. K & R Ltd. P'ship v. Mass. Hous. Fin. Agency, 530 F.3d
+
+980, 984 (D.C.Cir. 2008) (holding that, where relator and defendant “simply disagree
+
+about how to interpret ambiguous contract language” and relator could not point to
+
+anything that might have dissuaded defendant from its interpretation, “there is no
+
+genuine issue as to whether [the defendant] knowingly presented false claims”); United
+
+States v. Basin Elec. Power Coop., 248 F.3d 781, 805 (8th Cir. 2001) (holding relator
+
+had failed to state a claim under the FCA where the defendant's “interpretation and
+
+performance under the contract was reasonable” and the relator thus “did not prove that
+
+[the defendant] acted with the requisite knowledge”); United States ex rel. Lamers v.
+
+City of Green Bay, 168 F.3d 1013, 1018 (7th Cir. 1999) (“[I]mprecise statements or
+
+differences in interpretation growing out of a disputed legal question are similarly not
+
+false under the FCA.”); Hagood v. Sonoma County Water Agency, 81 F.3d 1465, 1477
+
+(9th Cir. 1996). Similarly, upon a motion to amend the complaint to add a claim under
+
+the FCA, the Fourth Circuit found proposed FCA claims involving general and vague
+
+contract provisions did not constitute false statements under the FCA.
+
+       While the phrase “false or fraudulent claim” in the False Claims Act should
+       be construed broadly, it just as surely cannot be construed to include a
+       run-of-the-mill breach of contract action that is devoid of any objective
+       falsehood. An FCA relator cannot base a fraud claim on nothing more
+       than his own interpretation of an imprecise contractual provision. To hold
+       otherwise would render meaningless the fundamental distinction between
+       actions for fraud and breach of contract.
+
+U.S. ex rel. Wilson v. Kellogg Brown & Root, Inc., 525 F.3d 370, 378 (4th Cir. 2008)
+
+(internal citations and quotes omitted). Here, a commonsense reading of the pertinent
+
+
+
+                                             13
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 53 of 56
+
+
+
+                                         SPA-14
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 14 of 16
+
+
+
+documents - the Rate Guide, waybills, and Fuel Surcharge Tables - would apprise DHL
+
+customers that jet fuel surcharges would be imposed on “Air Express” shipments, which
+
+include Next Day and 2nd Day shipments. Relators’ alternate interpretation of the
+
+documents falls far short of the FCA’s requirement that the relator allege the “factual
+
+basis which gives rise to a strong inference of fraudulent intent.” Shields v. Citytrust
+
+Bancorp, Inc., 25 F.3d 1124, 1128 (2d Cir. 1994); see also U.S. ex rel. K & R Ltd.
+
+P’ship, 530 F.3d at 984 (parties’ disagreement “about how to interpret ambiguous
+
+contract language” does not give rise to factual issue that defendant knowingly
+
+presented false claims). This disagreement regarding the proper imposition of jet fuel
+
+surcharges raises, at best, a possible claim of breach of contract which only the
+
+government could, and has chosen not to, assert.
+
+       Although “[c]omplaints dismissed under Rule 9(b) are ‘almost always' dismissed
+
+with leave to amend …,” Luce v. Edelstein, 802 F.2d 49, 56 (2d Cir. 1986) (quoting 2A
+
+J. Moore & J. Lucas, Moore's Federal Practice, ¶ 9.03 at 9–34 (2d ed. 1986)), the
+
+decision to allow an amendment rests in the discretion of the court. Relators have
+
+already amended the complaint once to add specific examples of the alleged false
+
+claims. On this motion, the court has determined that the complaint is deficient, not for
+
+a lack of specificity but because the alleged fraudulent scheme does not state a claim
+
+under the FCA. Thus, the court fails to see how an amendment would address the
+
+shortcomings of the FCA cause of action. The specifics of the alleged fraudulent
+
+scheme are fully included in the complaint and all pertinent contract documents have
+
+been incorporated by reference and considered by the court. No additional detail will
+
+transform this contract ambiguity into a fraud claim. Accordingly, the motion to dismiss
+
+                                             14
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 54 of 56
+
+
+
+                                         SPA-15
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 15 of 16
+
+
+
+is granted and the complaint is dismissed with prejudice.
+
+
+2. Statute of Limitations
+
+       In the interest of thoroughness, the court will address defendants’ alternative
+
+argument that relators’ claims that predate September 9, 2005 must be dismissed as
+
+time-barred. The FCA applies a six-year statute of limitations precluding relator claims
+
+filed “more than 6 years after the date on which the violation of [the FCA] is committed.”
+
+United States v. Baylor Univ. Med. Ctr., 469 F.3d 263, 267 (2d Cir. 2006) (quoting 31
+
+U.S.C. § 3731(b)(1)). The FCA's six-year statute of limitations begins to run “ ‘on the
+
+date the claim is made, or, if the claim is paid, on the date of payment.’ ” U.S. ex rel.
+
+Kreindler & Kreindler v. United Techs. Corp., 985 F.2d 1148, 1157 (2d Cir. 1993)
+
+(quoting Blusal Meats, Inc. v. United States, 638 F. Supp. 824, 829 (S.D.N.Y. 1986),
+
+aff'd, 817 F.2d 1007 (2d Cir. 1987)).
+
+       This action was commenced on April 18, 2008, with the filing of the complaint
+
+under seal (Item 1). After the government declined to intervene, the relators served an
+
+amended complaint on September 9, 2011 (Item 25). Citing Baylor, supra, defendants
+
+argue that the amended complaint does not relate back to the date of the filing of the
+
+original complaint and that any claims prior to September 9, 2005, six years prior to the
+
+date of the filing of the amended complaint, must be dismissed.
+
+       In Baylor, the court determined that the Government’s complaint-in-intervention
+
+did not relate back to the original qui tam complaint filed under seal. Section 3731(c) of
+
+the FCA was then amended to provide that any pleading by the Government, whether
+
+an amendment or a complaint-in-intervention, relates back to the original qui tam
+
+
+                                             15
+                 Case 14-3595, Document 33, 11/03/2014, 1360950, Page 55 of 56
+
+
+
+                                         SPA-16
+
+        Case 1:08-cv-00301-JTC Document 65 Filed 09/11/14 Page 16 of 16
+
+
+
+complaint, to the extent that it arises out of the same conduct, transactions, or
+
+occurrences set forth in the original complaint. 31 U.S.C. § 3731(c). Neither Baylor nor
+
+section 3731(c) applies to the original qui tam complaint in this case.
+
+       Here, the case was commenced with the filing of the original complaint in a
+
+timely fashion, the Government chose not to intervene, and the original sealed
+
+complaint tolled the applicable statute of limitations. See Hayes v. Dep’t of Educ. of
+
+City of New York, 2014 WL 2048196, *5 (S.D.N.Y. May 16, 2014). The amended
+
+complaint is substantially the same as the original complaint, with some added factual
+
+details. Thus, the allegations of the amended complaint are timely, as “no claim actually
+
+pleaded in the Amended Complaint would be time-barred, if timely when the original
+
+sealed complaint was filed.” Hayes, 2014 WL 2048196, at *6. Accordingly, if the court
+
+had not dismissed the complaint for failure to plead a plausible claim for relief under the
+
+FCA, this aspect of the defendant’s motion would be denied.
+
+
+                                      CONCLUSION
+
+       The defendants’ motion to dismiss (Item 36) is granted, and the complaint is
+
+dismissed with prejudice. The Clerk is directed to enter judgment accordingly.
+
+
+       So ordered.
+
+
+                                                   _______\s\ John T. Curtin____
+                                                            JOHN T. CURTIN
+                                                       United States District Judge
+Dated: September 10, 2014
+
+
+
+
+                                             16
+                         Case 14-3595, Document 33, 11/03/2014, 1360950, Page 56 of 56
+
+
+
+                                                 SPA-17
+
+             Case 1:08-cv-00301-JTC Document 66 Filed 09/12/14 Page 1 of 1
+AO 450 (Rev. 5/85) Judgment in a Civil Case
+
+
+
+
+                      United States District Court
+                                       WESTERN DISTRICT OF NEW YORK
+
+
+
+          THE UNITED STATES OF AMERICA                    JUDGMENT IN A CIVIL CASE
+          ex rel. Kevin Grupp and Robert Moll             CASE NUMBER: 08-CV-301C
+                  v.
+
+          DHL EXPRESS (USA), INC., et al.,
+
+
+
+          9 Jury Verdict. This action came before the Court for a trial by jury. The issues have
+               been tried and the jury has rendered its verdict.
+
+          : Decision by Court. This action came to trial or hearing before the Court. The issues
+               have been tried or heard and a decision has been rendered.
+
+          IT IS ORDERED AND ADJUDGED: that the defendants’ motion to dismiss is Granted
+
+          and the complaint is Dismissed with prejudice.
+
+
+
+          Date: September 12, 2014                        MICHAEL J. ROEMER, CLERK
+
+
+
+                                                          By: s/Suzanne Grunzweig
+                                                              Deputy Clerk
+

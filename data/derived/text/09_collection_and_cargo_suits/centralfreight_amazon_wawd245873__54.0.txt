@@ -1,0 +1,1574 @@
+                      Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 1 of 23
+
+
+
+
+ I                                                                The Honorable James L. Robart
+
+2
+
+J
+
+4
+
+ 5
+
+ 6
+
+ 7                                 TINITED STATES DISTRICT COURT
+                                  WESTERN DISTRICT OF WASHINGTON
+ I                                           AT SEATTLE
+
+ 9   CENTRAL FREIGHT LINES, INC., a Texas
+     Corporation,
+10                                                      No. 2:17-cv-0814 JLR
+                                           Plaintift
+11
+                                                        DEFENDANT'S OPPOSITION TO
+                  v                                     PLAINTIFF'S MOTION FOR PARTIAL
+T2
+                                                        JUDGMENT ON THE PLEADINGS
+     AMAZON FULFILLMENT SERVICES, A
+13   Delaware corporation, and DOES 1 through 25,       NOTED ON THE MOTION
+     inclusive,                                         CALENDAR: August ll, 2017
+t4
+                                        Defendants.
+15
+
+t6
+I7
+18
+
+t9
+20
+
+2T
+
+22
+
+23
+
+24
+
+25
+
+26
+
+                                                                          Fosrnn PspPrn PLLC
+     DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL
+                                                                       1111 THIRD ÀVENUE, SUITE 3000
+     JUDGMENT ON THE PLEADINGS - i
+                                                                      sÉATrLE, wAsHINcroN 98101'3292
+     Case No. 2:17-cv-0814 JLR                                                                   (206) 447 -9700
+                                                                    PHoNE (206) 447-4400Ê
+                                                                                            ^x
+
+     5t626246.4
+                            Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 2 of 23
+
+
+
+
+I                                                   TABLE OF CONTENTS
+
+2    I.                INTRODUCTION & SUMMARY OF ARGUMENT...........                                           I
+                                                                                                               ,''
+     II                FACTUAL BACKGROLTND.....
+J                      A. AFS AND CENTRAL FREIGHT ENTERED INTO A
+                            DETAILED COMMERCIAL CONTRACT FOR
+4                                                                                                             ,4
+                            TRANSPORTATION AND DELIVERY SERVICES
+5                      B. AFS DID NOT AGREE TO AMEND THE CONTRACT TO
+                            ELIMINATE THE AGREED-UPON RATE CHART AND
+6                           PERMIT CENTRAL FREIGHT TO CHARGE AFS BASED ON
+                                                                                                               5
+                            sPoT QUOTES.
+7                      C.   THE AUDIT REVEALS CENTRAL FREIGHT'S SYSTEMA TIC
+                            OVERCHARGING THROUGH ITS LTNAUTHORIZED USE OF
+ I                             "sPor QUorES." ................                                      ,...........6
+
+ 9                     D.  AFTER CENTRAL FREIGHT BREACHED THE CONTRACT
+                           BY REFUSING TO REPAY OVERCHARGES, AFS OFFSET
+10                         SUMS FROM OTHER OUTSTANDING INVOICES TO
+                                                                                                                7
+                           RECOUP THE OVERCHARGES. .......
+11                     E   THIS COURT HAS ALREADY DENIED CENTRAL
+                           FREIGHT'S MOTION TO BE PAID AT THE OUTSET OF THIS
+t2
+                           LITIGATION IN ADVANCE OF A DETERMINATION ON
+                                                                                                                7
+13                         THE MERITS. .....,.....
+     il.               ARGUMENT.........                                                                        7
+t4                     A.  CENTRAL FREIGHT FAILS TO CARRY ITS HEAVY
+                           BURDEN TO SHOW THAT IT IS ENTITLED TO JUDGMENT
+                                                                                                          ......8
+15                         AS A MATTER OF LAW
+t6                     B. CENTRAL FREIGHT FAILS TO ESTABLISH THAT THERE IS                                       9
+                           NO DISPUTE OF MATERIAL FACT. ........
+t7                     C.WASHINGTONLAV/EXPRESSLYRECOGNIZESTHEPRE-
+                                                                                                             ..10
+                           LITIGATION RIGHT OF SETOFF......
+18                     D   AFS HAS THE CONTRACTUAL RIGHT TO AUDIT AND
+                           RECOUP OVERPAYMENTS FOR THE ENTIRE CONTRACT
+19                         TERM.
+                       E.  COLINTE,RCLAIMS FOR RECOUPMENT NEED NOT BE
+20                                                                                                        .,..,14
+                           FILED V/ITHIN THE APPLICABLE LIMITATIONS PERIOD. ....
+                                                                                                          .....15
+2l    IV.              CONCLUSION
+
+22
+
+23
+
+24
+
+25
+
+26
+
+                                                                               FosrEn PEppnn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                           1111 THIRD AVENUE, SulrE 3000
+      ruDGMENT ON THE PLEADINGS - ii                                       SEAïrLE, WAsHINGToN 98101-3292
+      Case No. 2: l7-cv-0814 JLR                                         PHoNE (206) 447-4400 ß Ax (206') 447'9700
+
+
+
+          51626246.4
+                      Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 3 of 23
+
+
+
+
+1                            L INTRODUCTION & SUMMARY OF ARGUMENT
+2                  Defendant AmazonFulfillment Services ("AFS") respectfully submits its opposition to
+
+J    plaintiff Central Freight Lines, Inc.'s ("Central Freight") Motion for Partial Judgment on the
+
+4    Pleadings.
+
+5                  This is a breach of contract action. The Court denied Central Freight's misguided motion
+
+6    for a temporary restraining order requiring immediate payment of the amounts in dispute.
+
+7    Central Freight is now asking again,prior to any discovery, for a ruling that AFS did not
+
+ 8   properly exercise its right to offset Central Freight's overcharges, and an order requiring AFS to
+
+ 9   pay some or all of the amounts in dispute at the very outset of the case. Remarkably, in the
+
+     alternative Central Freight urges that, even if it did overcharge AFS, Central Freight
+                                                                                                               is
+10
+
+11   purportedly entitled to retain most of its overcharges and AFS should recoup only a portion of
+                                                                                                                        this
+t2   what it overpaid. Neither the contract nor the law support Central Freight's positions and
+
+13   premature motion should be denied.
+
+                   Central Freight moves for judgment on the pleadings under Fed. R. Civ. P. 12(c).
+                                                                                                                        To
+t4
+     prevail, Central Freight must demonstrate the absence of any material contested factual
+                                                                                                                     issues
+15
+
+     and that it is entitled to judgment as a matter of law. Chavez v. United States,683
+                                                                                                          F'3d 1102,
+t6
+     110S (9th Cir.2012). In evaluating this motion, the Court is to treat the
+                                                                                        allegations in AFS's
+t7
+     Answer and Counterclaim as true, and should deny the motion if those allegations
+                                                                                                          and
+18
+
+                                                                                               a claim for relief.
+t9   reasonable inferences taken from them show that AFS has plausibly alleged
+
+     Doe I v. Nestle (JSA, Inc.,766F.3d 1013, 1025 (9th Cir. 2014). central Freight
+                                                                                                     fails to meet this
+20
+
+2T   heavy burden for four keY reasons.
+                                                                                                                    governing
+22                 First, Central Freight alleges that there was an oral modification to the parties'
+
+     Transportation Agreement. Compl., Dkt. No. 1,1126. AFS flatly denies that
+                                                                                                allegation. Def.'s
+23
+                                                                                             of Central Freight's
+24    Answer, Dkt. No. 4g,nz6, The purported oral modification is at the heart
+                                                                                        amendment to the
+25    contention that it did not overcharge AFS. Whether there was any oral
+
+26
+
+                                                                                       Fosrsn PnPPEn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                                   1111 THIRD AVENUE, SUIrE 3000
+      JUDGMENT ON THE PLEADINGS - 1
+                                                                                   SEATTLE, WAsHINGToN 98101-3292
+      Case No, 2: 17-cv-08 14 JLR                                                                              (2061 447 -9700
+                                                                                 PHoNE (206) 447-4400 F
+                                                                                                          ^x
+
+      5t626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 4 of 23
+
+
+
+
+I    contract is disputed and will be the subject of conflicting testimony. As such, Central Freight
+
+2    cannot cany its burden as the moving party under Rule l2(c).
+
+J                  Second, AFS unquestionably pleads a plausible claim that Central Freight improperly
+
+4    overcharged AFS by some $3 miltion. See Def.'s Countercl., Dkt. No. 48' 1[1] 9-20,29
+
+5    (ooCountercl."). Whatever amount Central Freight alleges it is owed, courts long have recognized
+
+6    the right of a creditor (here, AFS) to offset and recoup amounts it otherwise owes a debtor. This
+
+7    common-sense practice encourages the resolution of commercial disputes between sophisticated
+
+ 8   parties without the need to invoke the court system. Central Freight's contention that AFS's only
+
+ 9   proper course was to file suit or assert counterclaims in a lawsuit stands that sensible policy on
+
+10   its head.
+
+11                 Third, the contract expressly allows AFS to audit Central Freight's billing practices for
+
+t2   the entire duration of the contract to determine whether overcharges occurred, and obliges
+
+     Central Freight to repay all overcharges that the audit reveals. For all of its allegations of
+                                                                                                                        secret
+13
+
+t4   plans and schemes by AFS and its affiliates, Central Freight cannot escape the fact that AFS has
+                                                                                                                         That
+15   followed the process set forth in the contract and has pleaded a viable claim for recovery.
+
+t6   claim must proceed through discovery and be resolved in the ordinary course of litigation.
+
+t7                 Fourth, Central Freight is simply wïong when it asserts that AFS's claim to recoupment
+
+18   and setoff is time barred by the contract. Whether asserted as a counterclaim
+                                                                                                for affirmative
+
+                                                                                                               pleaded and
+t9   recovery or as an affirmative defense to Central Freight's claims, AFS has properly
+
+20   is entitled to prove the amounts it claims it is owed by Central Freight'
+
+2l                 For all of these reasons, the Court should again reject Central Freight's efforts to short-
+
+     circuit the litigation process, deny the motion, and direct the parties to proceed with the case
+                                                                                                                             as
+22
+
+23   provided in the recently-issued case scheduling order'
+
+24                                          II. FACTUAL BACKGROUND
+                                                                                   o'Contract"), AFS has the
+25                 Under the parties' governing Transportation Agreement (the
+
+      right to audit Central Freight's invoicing for the entire Contract term. If an audit
+                                                                                                      revealed
+26
+
+                                                                                       FosrrR Prppnn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                                  1111 THIRD AVENUE, SUITE 3O()O
+      ruDGMENT ON THE PLEADINGS - 2                                                SEATTLE, WAsHINcToN 98101'3292
+      Case No. 2:17-cv-0814 JLR                                                                                (206'1 447'9700
+                                                                                 PHoNE (206) 447-4400 F
+                                                                                                          ^x
+
+      5t626246.4
+                      Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 5 of 23
+
+
+
+
+I    Central Freight overcharged AFS, Central Freight unequivocally agreed to repay the overcharged
+
+     amounts. If Central Freight refused to pay, AFS had both legal and customary rights to offset the
+,,
+
+
+J    overcharges against sums due to Central Freight under other invoices'
+
+4                  Central Freight has ignored both the contractually agreed rate chart and its repayment
+
+5    obligations for overcharges. Over a four-and- a-half-year period, it unilaterally decided to "spot
+
+6    quote,' freight charges for certain shipments without AFS's consent, thereby eliminating
+                                                                                               quotes" may be
+7    discounts the parties bargained for and agreed to in the Contract. While "spot
+
+ 8   used for shipments outside of contracted rates, they must be approved on a shipment-by-
+                                                                                                                      prior to
+ 9   shipment basis. Central Freight failed to submit these "spot quotes" to AFS for approval
+                                                                                                         rates, and
+10   shipment, thereby allowing Central Freight to disguise its overcharges as Contract
+                                                                                            on the number of
+11   overcharge AFS by $3 million. The alleged spot quotes, purportedly based
+
+12   pallet positions occupied by shipments, were not authorizedby the Contract or by AFS'
+                                                                                                              Freight's
+13                 AFS audited Central Freight pursuant to the Contract and uncovered Central
+                                                                                       Central Freight refused
+t4   repeated pricing improprieties. When presented with the audit's results,
+                                                                                                          was orally
+15   AFS's request for repayment of the overages. Central Freight claimed the contract
+
+     modified, notwithstanding the integration clause and the absence of mutual assent
+                                                                                                         and
+16
+                                                                                                  Freight to
+t7   consideration. The claimed Contract modification purportedly allowed Central
+
+18   eliminate substantial Contract discounts.
+                                                                                                   exercised its
+t9                 When Central Freight declined to reimburse AFS for the overages, AFS
+                                                                                                  actions comport
+20   right to offset the overages from sums billed in other pending invoices. AFS's
+                                                                                               outside of
+2l   with Washington commercial law that favors resolution of commercial debts
+
+22    litigation.
+
+23
+
+24
+
+25
+
+26
+
+                                                                                      Fosrnn PnPPrn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL                                  1111 THIRD AVENUE, SUITE 3OOO
+      JUDGMENT ON THE PLEADINGS - 3                                               SEATTLE, WAsHINcToN 98101-3292
+      Case No. 2:17-cv-0814 JLR                                                                               (206'1 447 -9700
+                                                                                PHoNÉ (206) 447-4400 F
+                                                                                                         ^x
+
+      5t626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 6 of 23
+
+
+
+
+I    A.        AFS And Central Freight Entered Into A Detailed Commercial Contract For
+               Transportation And Delivery Services"
+2
+               AFS, a subsidiary of Amazon.com, ananges transportation and delivery services for
+a
+J
+                                                                                       1.1, Dkt' No' 1' Ex' A'
+     suppliers of products selling through Amazon's website. See Contract $
+4
+                                                                                             JuIy 7,2011 to
+     AFS and its affiliates entered into the Contract with Central Freight effective
+5
+     pfocure central Freight's transportation services. countercl., 'ïI 3-4. In the
+                                                                                            contract, central
+6
+     Freight granted AFS substantial pricing discounts for less-than-truckload
+                                                                                       ("LTL") shipments
+7
+                                                                                     expected requirement of
+     regardless of the number of pallets. This discount was based on AFS's
+I                                                                                       The discount was
+     a substantial volume of transportation services. See Countercl., 11[9-13.
+9
+                                                                                                   In return,
+     included in the Contract through an incorporated rate chart. Countercl.,lTI6-7'
+10
+     Amazon booked a high volume of shipments with Central Freight. ,See
+                                                                                     Def''s Answer, flfl 1;
+11
+                                                                                   be modified during the
+     Countercl., llti9-13. The parties agreed that the rate chart could "not
+t2                                                                       parties." Countercl', tf 6'
+     term of this Agreement, except upon mutual agreement of the
+13
+                                                                                            immediately review
+                   Given the scale of its business, AFS does not and reasonably cannot
+T4
+                                                                                   rate structure' countercl"
+     every invoice it receives to ensure compliance with the agreed-upon
+15
+                                                             permitted AFS to audit its invoicing, and
+     fl 1 l. Accordingly, Central Freight contractually
+t6                                                                         countercl', fl 8; Contract $ 1'2'
+     further agreed to pay any overcharges discovered in any audit'
+t7                                                                       entire contract term and did not
+     The contract authorized AFS to audit central Freight for the
+18
+     provide any time limit for AFS to recoup unapproved overcharges:
+t9
+                           Amazon
+                                                                         Carrier
+20
+                          all relevant reports                           a mutually
+                          format, to allow Amazon to conduct such audit         Carrier will
+2l
+                           also
+22
+                                            the term of this
+                                       Carrier will keep all                                 the
+23                                   ,
+                           Services in  accordance  with generally accePted accounting
+24                         standards.
+
+25
+                                                                         to have the Court treat the
+      I
+       As the non-movingparty on a Rule 12(c) motion, AFS is entitled
+26                                                                     III.A below.
+      allegations in its Answer and Counterclalms as Írue' ùee Section
+
+                                                                                      FoslER PsI'Pnn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                                  1111 THIRD AVENUE, SUIrE 3000
+      JUDGMENT ON THE PLEADINGS - 4                                                sEArrLE, wAsHINGToN 98101-3292
+      Case No, 2:17-cv-0814 JLR                                                PHoNE (206) 447- 4400 F        (2061 447'9700
+                                                                                                         ^x
+
+      5t626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 7 of 23
+
+
+
+
+1    Contract $ 1.2 (emphasis added).
+
+2    B.            AFS Did Not Agree To Amend The Contract To ltliminate The Agreed-Upon Rate
+                   Chart And Perñrit Central Freight To Charge AFS Based on Spot Quotes.
+J
+                   In January 20l4,an AFS employee contacted Central Freight concerning a discrepancy in
+4
+                                                                                                                   Freight
+     one of Central Freight's billing invoices. Countercl.,l[ 12. AFS discovered that Central
+5
+     had based charges in that invoice on lineal footage rather than the Contract's rate chart.
+6
+                                                                                                 based on the rate
+     Countercl., fl 16. When contacted, Central Freight admitted it was not charging
+7
+     chart. Id AFS approved that specihc spot quote. Compl., Tll 30-33; Def.'s Answer TT 30-33.2
+ I                                                                                                                industry
+     AFS believed that Central Freight would seek approval for that single invoice based on
+ 9
+     practice. See Countercl., flfl 14-17;Email Correspondence, Dkt. No. 1, Ex. B; Piller Decl., !J9'
+10
+                   Because Central Freight wanted to modify the Contract to remove the negotiated
+11
+                                                                                       Freight to send a
+     discounts on shipments exceeding eight lineal pallets, AFS asked Central
+t2
+     proposed addendum to determine whether this rate structure would be in AFS's
+                                                                                                 best interest'
+13
+                                                                                                central Freight it
+     Email correspondence, Dkt. No. 1, Ex. B; Countercl., T 15, 17. AFS informed
+t4
+     could not agree to any proposed modification of the Contract unless and
+                                                                                      until its legal
+15
+     department had approved it. countercl., u 17; Email correspondence,
+                                                                                  Dkt' No' l, Ex' B'
+t6                                                                                                      the cost of
+     Ultimately, AFS determined that the addendum's proposed pricing would increase
+l7                                                                                            13' AFS never
+     transportation services to AFS by 43%with no benefit to AFS. Countercl., ll
+18
+     agreed to the addendum. Countercl.,']f 19'
+t9                                                                                                       AFS using
+                   Central Freight continued to ignore the Contract's rate scheme and charged
+20
+      spot quotes. Countercl.,      I 18. Central Freight did not submit these alleged spot quotes to AFS
+2l                                                                                           (AFS only received
+      for approval prior to invoicing AFS for the charges . See Def.'s Answer 1.[ 32
+22
+                                                                                               in good faith,
+      invoices from central Freight). AFS assumed that Central Freight was acting
+23
+
+24
+
+25
+
+26
+
+                                                                                    FosrrnPmrunPLLC
+      DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL                                 1111 THIRD AVENUE, sUIrE 3000
+      JUDGMENT ON THE PLEADTNGS - 5                                             SEATTLE, wAsHINGToN 98101'3292
+      Case No. 2:17-cv-0814 JLR                                                                              (206, 447 -9700
+                                                                              Pnox¡ (206) 447- 4400 F
+                                                                                                        ^x
+
+      51626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 8 of 23
+
+
+
+
+I    honoring its contractual obligations, and charging per the Contract's rate chart. ,See Countercl.,
+
+2    flfl 1S-19; see also Piller Decl., fl 9'
+J                  perhaps realizingthe impropriety of charging unauthorized rates, Central Freight inquired
+
+     as to the status of the proposed addendum in June 2016. See Countercl., fl 19. AFS
+4
+                                                                                                        responded
+
+                                                                                                  proposed new
+5    that it did not, and would not, agree to modify the Contract, as Central Freight's
+
+6    rate structure would completely eliminate discounts AFS bargained for in the Contract.
+
+     Countercl., lTI 13, 19. AFS never agreed to modiff the Contract, orally or in writing,
+                                                                                                           and Central
+7
+
+I    Freight does not suggest it provided any new or additional consideration for any modification.
+
+9    See Compl., Dkt. No. 1; Def.'s Affïrmative Defenses'1TG(1). Furthermore,
+                                                                                           the alleged
+
+                                                                                                          practices
+10   modification contravenes both industry practice3 and Central Freight's own standard
+
+1l   for LTL shipments.a Countercl.,IT 5, 14; Compl., T 19;Def.'s Answer fl 19.
+
+t2   C.            The Audit Reveals Central Freight's Systematic Overcharging Through Its
+                                       6úSpot
+                   Unauthorized Use of        Quotes.tt
+13
+                                                                                                               in June
+                   As allowed by the Contract, AFS initiated an audit of Central Freight's invoices
+t4                                                                                                          Freight
+      2016. Countercl., !f 20. The audit revealed numerous improprieties by which Central
+15
+                                                                                            Countercl., IT 28-35'
+     overbilled AFS by nearly $3 million between January 2011 and July 2016.
+r6
+     It also revealed that Central Freight had used purported "spot quotes" for each shipment
+t7                                                                                               discounts
+     exceeding eight lineal pallets, which effectively eliminated AFS's Contractual
+18
+     obtained in exchange for cargo volumes AFS shipped with Central Freight.
+                                                                                             Id. Lastly, the audit
+t9
+                                                                                    shipments without
+     revealed that Central Freight had billed AFS multiple times for single
+20
+      3
+        The industry's use of spot quotes is t'r single shipments   outside contractual ly- establ i shed rates.
+2l                                                          'throughout a transportation relationship is
+      ,See Piller DeôI., tl7. Systematlc qs9 of spot quotes
+
+22    rare in the industiy, Piller Decl., fl 8.
+      a
+        Central Freight's own published tariff rate shows that it defines     rr!sþr¡glnpby.yejght talhet
+23                                                                      tryt.!g!!.[,1^Q0.p;18 (June 19,
+      than bv lineal foot Sià"C;;;i Fi.ight, Centrat Freight     Lines,
+
+24    ;ffiii: ;;:;äåiít"åtñriõ'¡7'i'**.".ü'irr'"ight.com/poltavstatic./pdf/cENFlO0Rulesrarirr.pdr.
+      íiìlli;*#ä"f                                          a öourt may tai<e judicial notice of information
+                     å-iäiulfol motion to ¿ii*irr,
+25    o!Ïñ;liäffiii;i*;iàívË *"urite, as long as the..website's authenticitylg not in dispute  Miil
+      ilã';itír;"p;1;1;;¡;;";id"ära.9qã¡'ããî"""iñuiion."' wells Fargo Bank, N'A,. v',wrigh.ts
+                                                                                        rhis  is
+      nãairi', frc,127ï:ï;ni,' ãd 1s.6, íoitS o. N.Y' 201s4qy:fti:nry'5,'^::itted)'
+26                                                                            lully ln olscovery'
+      another"exampÍe of factual issues that need to be developed more
+                                                                                      Fosrnn Pnrrnn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                                  1111 THrRD AVENUE, SUITE 3000
+      ruDGMENT ON THE PLEADINGS . 6                                              SEATTLE, wAsHINGToN 98101-3292
+      Case No, 2:17-cv-0814 JLR                                                PHoNE (206) 447-4400 ß ñ< (206) 447 -9700
+
+
+
+      st626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 9 of 23
+
+
+
+                                                             ooTender
+1    providing invoices with a contractually required                   ID," which would confirm AFS's
+
+2    approval of individual shipments for transporta1jon. Id.
+
+J    D.            After Central Freight Breached The Contra_ct B¡'Refusing To Repay Overcharges,
+                   AFS Offset Sums F'"om Other Outstanding Invoices To Recoup The Overcharges.
+4
+                   pursuant to the audit and Contract terms, AFS demanded that Central Freight reimburse
+5
+     AFS the $3 million Central Freight had overcharged. Countercl., fl 33. Central Freight refused
+6
+     to reimburse any of its overcharges. Countercl., !f 34. Pursuant to industry custom and practice,
+7
+     and as allowed by law, AFS ofßet this debt from sums it owed Central Freight from
+                                                                                                               pending
+ 8
+     invoices. Countercl., 1 35. In doing so, AFS offset the difference between rates Central Freight
+ 9
+     should have charged under the Contract and sums Central Freight actually charged.s 1d' AFS
+10
+     ceased offsetting funds once it had recouped its overpayments. Countercl., fl 36'
+                                                                                                      Thus, Central
+11
+     Freight received the full benefit of its bargain, and did not profit from its unauthorized and
+t2
+     deceptive billing practices'
+l3
+     E.            This Court Has Already Denied Central Freightrs Motion To Be Paid At the Outset
+l4                 of This Litigation In Advance of A Determination on The Merits.
+15                 Central Freight originally brought this action in the Central District of California despite
+
+t6   a valid forum selection clause that required that suit be brought in this Court'
+                                                                                                 Compl., Dkt. No.
+
+t7   1; Minute Order, Dkt. No. 28. Central Freight moved for a TRo seeking to
+                                                                                              force AFS to pay the
+
+     disputed sums prior to a determination of the merits of Central Freigh's position.
+                                                                                                          Pl.'s Mot.
+18
+
+19   TRO, Dkt. No. 16. This Court denied the TRO, finding that monetary loss was not an irreparable
+
+20   injury. Order, Dkt. No. 47.
+2l                                                  III.ARGUMENT
+
+                   By this motion, Central Freight again seeks to have the Court predetermine that it
+))                                                                                                                     is
+
+                                                                                                   Court to rule that
+23    entitled to the relief it requests prior to any discovery. Central Freight asks the
+                                                                                judgment; or, if such a right
+24    AFS has no right to offset overpayments without first obtaining a
+
+25    exists, that AFS can dispute only overpayments incurred since February
+                                                                                         2015. Taking all the
+
+26                                                                                                 Piller Decl., fl 14
+      s
+          AFS paid Central Freight all amounts it withheld over the amount in dispute.
+                                                                                       Fosrrn PEPPr,n PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL                                   1111 THIRD AVENUE, SunE 3000
+      ruDGMENT ON THE PLEADINGS . 7                                                SEATTLE, WASHINcToN 98101-3292
+      Case No. 2:17-cv-0814 JLR
+                                                                                 PHoNE (206) 447-4400 ß        12061 447'9700
+                                                                                                          ^x
+
+      st626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 10 of 23
+
+
+
+
+1    allegations in support of AFS's counterclaim as true, and viewing the allegations in the light
+
+)    most favorable to AFS, Central Freight fails to carry its burden to show that it is entitled to
+
+J    judgment as a matter of law. Accordingly, the motion should be denied and this litigation should
+
+4    proceed in the ordinary course.
+
+5    A.            Central Freight Fails To Carry lts Heavy Burden To Show That It Is Entitled To
+                   Judgment As A Matter 0f Law.
+6
+                   A Fed. R. Civ. P. 12(c) motion challenges the legal sufficiency of a party's pleadings.
+7
+                                                                                                                    legal
+     Chavez,6g3 F.3d at 1108. Courts evaluate a Fed. R. Civ. P 12(c) motion under the same
+ 8
+     standards as a Fed. R. Civ. P. 12(bX6) motion' Id.
+ 9
+                   In this case, the pertinent pleading is the counterclaim that AFS has asserted against
+10
+     Central Freight. The allegations in the counterclaim and AFS's Answer to Central
+                                                                                                          Freight's
+11
+                                                                                                                 the [non-
+     Complaint must be accepted as true and should be viewed "in a light most favorable to
+T2
+     moving partyl.,,6 LeGras v. AETNA Life Ins. Co.,786F.3d 1233, 1236 (gth Cir.2015), cert'
+13
+     denied,136 S. Ct. 1448 (2016); Beal v, Missouri Pac. R' R' Corp',312 U'S' 45,51(1941)
+t4
+     (,,Upon such a motion [for judgment on the pleadings] denials and allegations of the answer
+15
+                                                                                          a judgment
+     which are well pleaded must be taken as true."). A court should deny a motion for
+16                                              o'non-conclusory 'factual content,' and reasonable
+     on the pleadings if the challenged claims'
+t7                                                                                                     to relief. Doe I,
+     inferences from that content . . . plausibly suggestf]" that the claimant is entitled
+18
+      766F.3dat1025(quoting Mossv. u.s. seØet serv.,572F.3d962,969 (9thcir.2009)'
+t9                                                                                                                   have
+                   Courts grant 12(c) motions sparingly and with caution. As leading commentators
+20
+                       ,,hasty or imprudent use of this summary procedure by the courts violates the policy in
+      explained,
+2l                                                                                                 her claim or
+      favor of ensuring to each litigant a full and fair hearing on the merits of his or
+22
+                                                                                                 grant a motion
+      defense. The importance of this policy has made federal judges unwilling to
+23
+
+24
+
+25
+
+26
+
+                                                                                       Fosrrn PrPPnn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                                   1111 THIRD AVENUE, SUITE 3O()O
+      JUDGMENT ON THE PLEADINGS . 8                                                SEATTLE, WAsHINcToN 98101-3292
+      Case No. 2:17-cv-0814 JLR
+                                                                                 PHoNE (206) 447-4400 ß Ax (206', 447 -9700
+
+
+
+      5t626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 11 of 23
+
+
+
+                                                                                                                             to
+1    under Rule 12(c) unless the movant clearly establishes that no material issue of fact remains
+
+     be resolved and that he is entitled to judgment as a matter of law." Wright & Miller,
+                                                                                                                5C Fed.
+2
+
+J    prac. & proc. Civ. $ l363 (internal footnote omitted); see also Chavez,683 F.3d at 1108 (Rule
+
+4    12(c) motions denied unless movant establishes the absence of material fact issues and
+
+5    entitlement to judgment as a matter of law).
+
+6                  Central Freight fails to meet its burden for four key reasons. First, material factual
+                                                                                                    the facts
+7    disputes are evident on the face of the pleadings and from competing version of
+
+     submitted by the parties in connection with prior motion practice and in this motion.
+                                                                                                                 Second'
+ 8
+
+     AFS was well within its legal rights as a creditor to offset amounts it allegedly
+                                                                                                  owes Central
+ 9
+
+                                                                                                                  allows
+10   Freight in order to recoup debts AFS is owed under the Contract. Third, the Contract
+                                                                                                                      Central
+11   AFS to audit Central Freight's billing practices for the entire Contract term, and obliges
+                                                                                                 and setoff is not
+T2   Freight to repay all sums it overcharged. Fourth, AFS's claim to recoupment
+
+13   time barred when asserted as a defense regardless of time limitations in the contract.
+
+                   Central Freight Fails To Establish That There Is No Dispute Of Material
+                                                                                                                  Fact.
+t4   B.
+                                                                                       pleadings regarding
+15                 Central Freight seeks to have the Court enter a judgment on the
+                                                                                                     the amounts it
+r6   whether AFS breached the Contract, i.e., whether AFS had the right to withhold
+                                                                                         facts regarding the
+t7   overpaid Central Freight. Motion at 2. This issue turns on the disputed
+
+     purported oral contract amendment and whether Central Freight overcharged
+                                                                                                 AFS for the
+18
+
+t9    services, as Central Freight has no legitimate claim to the withheld amounts
+                                                                                               if it did not have
+                                                                                               Barry v' United
+20    authority to charge AFS rates above those provided for in the contract. See
+                                                                                            to pay under the one
+2l    States,22g U.S. 47, 53 (1913) ("It would be folly to require the [creditor]
+
+      contract what it must eventually recover for a breach of the other.").
+                                                                                     This issue, among others,
+22
+
+23    remains heavily disputed and cannot be decided at this stage of the
+                                                                                  litigation. See Chavez,683
+                                                                                   material facts in dispute).
+24    F.3d at 110g fiudgment on the pleadings proper only if there are no
+                                                                                               rate chart. ,S¿¿ Pl.'s
+25                  Central Freight does not dispute that it did not follow the Contract's
+                                                                            quotes rather than the contractual
+26    Answer, Dkt. No. 50, 1T 13 (admitting it started applying spot
+
+                                                                                        Fostrn Pnppsn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL                                    1111 THrRD AVENUE, surrE 3000
+      ruDGMENT ON THE PLEADINGS - 9                                                 SEATTLE, WASHtNGToN 98101-3292
+      Case No. 2:17-cv-0814 JLR                                                                                 (206'1 447 -9700
+                                                                                  PHoNE (206) 447-4400 F
+                                                                                                           ^x
+
+      5t626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 12 of 23
+
+
+
+
+1    rate). To justify its breach, Central Freight alleges the parties orally modified the Contract to
+
+2    allow Central Freight to negate the bargained-for discount. /d. AFS denies the parties modified
+
+J    the Contracl. See, e.g., Countercl., fl 16 ("Central Freight falsely claimed the parties had orally
+
+4    modified the Contract to allow Central Freight to issue spot quotes for 8+ Pallet Shipments.");
+
+5    Def.'s Answer,'1T27 (.'[T]here was no oral modification.").
+
+6                  Whether the parties modified the Contract goes to the heart of whether Central Freight is
+
+7    entitled to the withheld payments. Because Central Freight fails to show the absence of a
+
+ 8   material dispute of fact on this issue, its Motion must be denied. Chavez,683 F.3d at 1108.
+
+9    C.            Washington Law Expressly Recognizes The Pre-Litigation Right Of Setoff.
+
+10                 Central Freight's Motion relies on the assumption that "fa]bsent a contractual setoff
+
+1l   provision, Washington law does not permit the withholding of payment as set-off against a
+
+l2   disputed services contract as an extra-judicial, self-help remedy." Motion at 5. The Motion
+
+13   presents no authority for that false proposition, nor any authority that would otherwise prohibit
+
+t4   AFS from offsetting a debt against amounts owed.
+
+15                 To the contrary, the law, as well as industry standard and custom, allow large commercial
+
+t6   entities to offset debts from liabilities without judicial intervention so as to avoid burdening
+
+     courts with every claim of over- or underpayment. "The common law right of offset, or
+                                                                                                                     set-off,
+l7
+18   permits a person 'to apply the unappropriated moneys of his debtor, in his hands, in
+                                                                                                                      2d 44,
+19   extinguishment of the debts due him."' Indus. Bank, N.A. v. United States, 583 F. Supp.
+
+20   49-s0 (D.D.C.2008).
+
+2t                 The U.S. Supreme Court has recognized this right since at least 1841, ruling that the right
+
+22   to offset liabilities from debts "belong[ed] to every creditor," even the United States
+
+23   Government .7 Gratiot v. United States,40 U.S. (15 Pet.) 336, 370 (1841)
+                                                                                           ("[Setoffl is but the
+
+24
+                                                                                                                                s
+25
+
+26
+
+                                                                                      Fosrnn PrPPsn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL
+                                                                                    1111 THIRD AVENUE, SUITE 3000
+      ruDGMENT ON THE PLEADINGS - 10                                              SEATTLE, WASHINcToN 98101-3292
+      Case No. 2: 17-cv-0814 JLR                                                                              (206') 447'9700
+                                                                                PHoNE (206) 447-4400 ß
+                                                                                                         ^x
+
+      51626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 13 of 23
+
+
+
+
+1    exercise of the common right, which belongs to every creditor, to apply the unappropriated
+
+2    moneys of his debtor, in his hands, in extinguishment of the debts due to him."); Ikelionwu v.
+
+J    united states, 1 50 F .3d 233 , 239 (2d cir. I 998) (" [T]he United states as creditor has at least as
+
+4    much right to a set-off as an ordinary person."). The setoff right exists independent of statutory
+
+5    or contractual authority to every creditor. See United States v. Munsey Tr. Co. of LVashington,
+
+6    D.C.,332rJ.5.234,239 (1947); Marre v. United States,l17 F.3d 297,302 (5th Cir. 1997);
+
+7    Murphy v. F.D.LC., 38 F.3d 1490, 1504 (9th Cir.1994) ("The right to set-off may arise,
+
+ 8   however, independently of contract.").
+
+ 9                 Contrary to Central Freight's core atgument, the right to setoff does not require a creditor
+
+10   to first file suit to recover the debt owed, although it has the option to do so.
+
+11                         The liability mieht have been asserted by the [creditor] in an
+                           action; but it mi]ght, as it did, charge it up a¡ asetoff ag_ainst its
+t2                         own liability. It would be folly to require the fcreditor]^to p1y
+                           under the one contract what it must eïentually recover for a breach
+13                         of the other.
+                       U .5. at 53 (setting off against "money due under alater contract"). A
+                                                                                                  creditor may
+     Barry,2Zg
+t4
+     also offset an unliquidated, contingent debt owed it under a separate contract.
+                                                                                                     [larren, Little &
+15
+     Lund, Inc. v. Max J. Kuney Co., !15 Wn.2d 211,213,216,796P.2d 1263 (1990)'
+t6
+                   In a similar situation, the U.S. Supreme Court, in Munsey Trust, agunrecognized the
+t7
+     right to offset sums owed from a debt because this right "belongs to every creditor."
+                                                                                                                 Munsey Tr.
+18
+     Co.,332U.S. at 239 (emphasis added). After the government exercised setoff, the contractor's
+t9
+     surety sued to recover the withheld amounts. Id. at238-39 The court noted that
+                                                                                                       if this matter
+20
+                                                                                            oothis
+                                                                                                     case would
+     concerned only the Government's right to offset claims of the contractor,
+2l
+     present no difficulty" because this right is inherent to every creditor. Id. at239.
+                                                                                                       The
+22
+
+23
+                                                                                               519 ("Either the
+      10 Wash. 193,194-95, 38 P. 1013 (1 8ea); see also 174 C.J.S. Contracts $
+24
+      builder or owner, whichever PartY 1S liable to a subcontractor for the subcontractor's
+                                                                                          for exPenses
+      compensation, maY be entitled to a deduction or set-off against such compensation
+25                                                   subcontractor's  failure to ôomply with his or her
+      incurred or damages sustained by reason of the
+26    contract.")
+
+                                                                                        Fosren PnI'PEn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL                                    1111 THIRD AVENUE, SUITE 3O()O
+      JUDGMENT ON THE PLEADINGS - I1                                                SEATTLE, WASHINcToN 98101-3292
+      Case No. 2:17-cv-0814 JLR                                                                                 (206) 447'9700
+                                                                                  PHoNE (206) 447-4400 ß
+                                                                                                           ^x
+
+      51626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 14 of 23
+
+
+
+
+I    complicating factor, however, was that the action involved the subrogated rights of laborers and
+
+2    materialmen whom the surety had paid. Id. af.23940. Ultimately, the court held that "the
+
+J    government properly used its right to setoff its independent claim" even though the debt arose
+
+4    from a separate contract. Id. a|236-37,239,244 (emphasis added).
+
+5                  Washington recognizes a party's right to offset debts from liabilities. In l4/anen, Little &
+
+6    Lund,the general contractor withheld funds owed under one contract to offset an unliquidated
+
+7    contingent debt owed to it on a separate contract. Waruen,l15 Wn.2d at2l2-ß.8 After the
+
+ I   subcontractor sued to recover the offset funds, the general contractor pleaded setoffas an
+
+ 9   affirmative counterclaim. Id. at2l2. The Washington Supreme Court reversed the trial court's
+
+l0   dismissal of the general contractor's counterclaim because Washington law allows a creditor to
+
+1l   ofßet a contingent unliquidated amount from a liquidated amount. Id. at2l6. Contrary to
+
+t2   Central Freight's assertion, the Supreme Court did not condemn the general contractor's use of
+
+13   setoff without first filing suit. Setoff can be asserted as a counterclaim, although it is not the
+
+t4   exclusive remedy. See Barry,229 U.S. af 53.
+
+15                 No case Central Freight cites supports its position that AFS cannot exercise setoff
+16   without first filing suit. For example, Archway Cookies stands only for the proposition that a
+
+t7   party cannot offset amounts after the parties initiated litigation on that very contract. Archway
+                                                                                          *1, *4 (D. Or. July 15,
+l8   Cookies v. Smith Cookie Co,, CY 03-895-H4,2004 WL 1586890, at
+
+t9   2004) (court issued injunction in May 2003. Plaintiff began withholding payments in June 2003
+
+20   on the contract in dispute). It does not condemnpreJitigation setoff rights at issue here.
+
+                   Such an approach would be unworkable and would serve only to clog the
+                                                                                                      judiciary with
+2t
+
+22   numerous minor claims of over- or underpayment between commetcial entities. Industry
+
+23
+      The diffi"ulty with Central Freight's position is that courts do not decide setoff rightt qlgl
+     s
+
+24   ,o-éon" filesä tuwsrrii- Às suchlthe óontracting party that exercised pre-litigation setoff later
+     ;;ã;iir   r.t"if iiÀht às a counteíclaim and affirmative defense. This was the case in Warren.
+25
+     None of the cares cãnüaiFreight cites holds that pre-litigation setofß are improper. Rather, the
+     il;";d;ior"J"ra       ttìriory of,central Freight's cäg9s {epgnstrate that pre-litigation setoff is a
+26   common commerclal practice that long hasènjoyed judicial approval.
+
+
+                                                                                       FosruR P¡r'Pnn PLLC
+     DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL
+                                                                                    1111 THIRD AVENUE SUIrE 3000
+     JUDGMENT ON THE PLEADINGS - 12
+                                                                                   SEAT:[LE, WAsHINcToN 98101-3292
+     Case No. 2:17-cv-0814 JLR                                                                                 (206't 447 -9700
+                                                                                 PHoNE (206) 447-4400 F
+                                                                                                          ^x
+
+      5t626246.4
+                      Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 15 of 23
+
+
+
+
+ 1   standard and custom, and the applicable law allow AFS to offset its liabilities from Central
+
+2    Freight's overpayments. central Freight's Motion therefore fails.
+
+J    D.             AFS Has The Contractual Right To Audit And Recoup Overpayments For The
+                    Entire Contract Term.
+4
+                    Central Freight asks the Court to disregard Central Freight's contractual obligation to
+ 5
+     ,'reimburse
+                        IAFSI for the full amount of any overcharge identified in the audit within 10 days
+ 6
+     from receipt of the audit results." Contract $ 1.2. Central Freight granted AFS a contractual
+ 7
+     right to conduct audits during the entire Contract term. Id. Now, it asks the Court to disregard
+ 8
+     this section of the Contract to find that AFS had no right to reimbursement, and even if did, that
+ 9
+     such right was limited to 18 months. Motion at4,7-8. There is no basis to rewrite the Contract
+10
+     in that way.
+11
+                    Under Washington law, a court must read a contract as a whole and cannot apply an
+r2
+     interpretation that'orenders some of the language meaningless or ineffective." Eagle W. Ins' Co'
+13
+     v. SAT, 2400, LLC, 187 F. Supp. 3d 1231,1239 (W.D. Wash. 2016). The Court must give effect
+t4
+     to the parties' intent when entering into the contract. Id. "The contracting parties' intent is
+15
+     determined by construing the terms of the contract as a whole, in light of the circumstances
+T6
+     underwhichitismade." TacomaAutoMøll, Inc.v.NissanN.Am., Inc.,169Wn.App. 111, 131,
+t7
+     27g p.3d 457 (2012) (internal quotation marks omitted). Determining the parties' intent often is
+18
+     a mixed question of law and fact that often requires consideration of extrinsic evidence. Wm'
+19
+     Dickson Co. v. Pierce Cty.,l28 Wn. App. 488,493-95, 116 P.3d 409 (2005); Chavez,683 F'3d
+20
+     at 1108.
+2l
+                    Central Freight's interpretation of the Contract implies there is ambiguity. Central
+22
+     Freight focuses on the time limitation in a provision to dispute specific invoices: "Invoices. . . .
+23
+     All claims fited by Amazonfor overcharge and all claims filed by Carrier for undercharge must
+24
+     be filed within 1B months of the original invoice." Contract $ 2.2. But it is impracticable
+                                                                                                                          for a
+25
+     large volume shipper, such as AFS, to immediately scrutinize every invoice it receives.
+26
+
+
+     DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                                      Fosrrn Pnppnn PLLC
+                                                                                    1111 THIRD AVENUE, SUITE 3()O()
+     JUDGMENT ON THE PLEADINGS - 13
+                                                                                   SEATTLE, WASHINcToN 98101-3292
+     Case No. 2:17-cv-0814 JLR                                                                                 (206'1 447 -9700
+                                                                                 PHoNE (206) 447-4400 F
+                                                                                                          ^x
+
+      51,626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 16 of 23
+
+
+
+
+ 1   Countercl., fl 1 1. To protect itself from overcharges, AFS reserved the right to audit Central
+
+2    Freight's invoicing at any time during the Contract term. Contract $ 1.2. Central Freight
+
+J    disregards this right, instead focusing on the individual invoice dispute mechanisms as AFS's
+
+4    sole remedy. See Motion at7-8.
+
+5                  At best, Central Freight's interpretation conflicts with this audit provision, thereby
+
+6    creating ambiguity that cannot be decided on a motion for judgment on the pleadings. See
+
+7    Consul, Ltd. v. Sotide Enter's, Inc., 802 F.2d 1 143, ll49 (9th Cir. 1986) (a motion to dismiss
+
+ I   cannot be granted to enforce an ambiguous contract). Accepting all facts in the counterclaim as
+
+ 9   true, and resolving all reasonable inferences in favor of AFS, Central Freight's attempt to time
+
+10   limit AFS's right to setoff also fails.
+11   E.            Counterclaims for Recoupment Need Not Be Filed Within the Applicable
+                   Limitations Period.
+T2
+                   Even if the Contract somehow limits the ability of AFS to pursue overcharge claims AFS
+13
+     has properly and timely asserted its setoff entitlement as a counterclaim. "fO]ffset is one of the
+t4
+     defenses that is not barred by the statutes of limitations 'so long as the main action itself is
+15
+     timely."' Olsen v. Pesarik,l 18 Wn. App. 688, 692,77 P.3d 385 (2003). Courts allow a
+t6                                                                                         o'goes
+     defendant to counterclaim on any debt, even if the debt is stale, because it                    to the justice of
+t7
+     the plaintiffls claim." Seattle First Nat. Bank, N.A. v. Siebol,64 Wn. App. 401, 407,824P.2d
+18
+      IZ5Z (lgg2); Btodgett v. Orton,l4 Wn.2d 270,274,127 P.2d 671 (1942) (allowed to setoff debt
+19
+     because it continues to exist even if remedy is otherwise baned). Washington courts desire
+                                                                                                                           to
+20
+     see an equitable resolution between the parties so that one party cannot use a technical
+                                                                                                                   defense to
+2l
+     work an injustice and obtain a windfall.
+22
+                   Central Freight alleges that AFS failed to pay certain invoices. Compl., Dkt. No. 1. AFS
+23
+     asserts in its counterclaim that Central Freight is not entitled to this money on the
+                                                                                                          ground of
+24
+     setoff. Countercl.,ll 35. AFS does not allege that Central Freight's action is untimely. Thus,
+25
+
+26
+
+                                                                                       Fosrnn Prppnn PLLC
+     DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL
+                                                                                    1111 THrRD AVENUE, SunE 3000
+     JUDGMENT ON THE PLEADINGS - 14
+                                                                                   SEATTLE, WAsHINcToN 98101-3292
+     Case No. 2:17-cv-0814 JLR                                                                                 (206) 447'9700
+                                                                                 PHoNE (206) 447-4400 E
+                                                                                                          ^x
+
+      s1626246.4
+                     Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 17 of 23
+
+
+
+
+ 1   AFS may assert as a counterclaim its claims for setoff against any sums owed Central Freight,
+
+2    even if such claim would otherwise be time barred. Olsen,l 18 V/n. App. at 692.
+
+J                  Equity demands this result. Central Freight claims that AFS cannot assert its setoff rights
+
+4    for overcharges occurring more than 1 8 months prior to the start of litigation. Motion at 7 -8 .
+
+5    Such an interpretation would grant Central Freight a windfall of some $1.6 million because it
+
+6    successfully hid its violations of the Contract and the overcharges from AFS over an 18-month
+
+7    period. This result would reward improper behavior by Central Freight.
+
+ 8                 Central Freight's position is supported by neither the Contract nor the law. The Contract
+
+ 9   empowers AFS to audit Central Freight and demand repayment for the entire Contract term.
+
+10   Even if the Contract did not provide AFS such a right, AFS could assert any claim it may have
+
+l1   against Central Freight as a counterclaim, even if it might otherwise be time barred as an
+
+t2   independent action. Olsen,l18 V/n. App. at 692. AFS may assert its entire setoff rights against
+
+13   Central Freight as a counterclaim even if it did not offset the debts prior to the litigation.
+
+t4                 More to the point, none of these issues can be decided without discovery and a full airing
+
+     on the merits. Central Freight is attempting (again) an end-run on the litigation
+                                                                                                  process and
+15
+
+l6   seeks summary judgment in the guise of a Rule 12(c) motion'
+
+t7                                                 IV. CONCLUSION
+
+18                 For the foregoing reasons, the Court should deny Central Freight's Motion for Partial
+
+l9   Judgment on the pleadings. A proposed order denying the motion is attached as Exhibit A.
+
+20
+
+2I
+22
+
+23
+
+24
+
+25
+
+26
+
+                                                                                      Fosrnn PnrPEn PLLC
+      DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL
+                                                                                   1111 THIRD AVENUE, SUITE 3OOO
+      ruDGMENT ON THE PLEADINGS - 15
+                                                                                  SEATTLE, WÂsHINGToN 98101-3292
+      Case No. 2:17-cv-0814 JLR                                                                               (206\ 447-9700
+                                                                                PHoNE (206) 447-4400 F
+                                                                                                         ^x
+
+      51626246.4
+                   Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 18 of 23
+
+
+
+
+ I                DATED this 7th day of August,2}I7
+
+2                                    /s Tim J. Filer
+                                     Tim J. Filer, WSBA No. 16285
+ a
+ J                                   Steven W. Block, V/SBA No.24299
+                                     FOSTER PEPPER PLLC
+4
+                                      1111 Third Avenue, Suite 3000
+ 5
+                                      eattle, Washingto n 9 81 0 1 -3292
+                                      S
+
+                                     Telephone: (206) 447 -4400
+ 6                                   Facsimile: (206) 441 -9700
+                                     Email : tim. filer@foster. com
+ 7                                           steve.block@foster. com
+                                     Attorneys for Defendant,
+ 8
+                                     Amazon Fulfillment Services, Inc.
+ 9
+
+10
+
+11
+
+
+t2
+
+13
+
+I4
+15
+
+I6
+T7
+
+18
+
+t9
+
+20
+
+2T
+
+22
+
+23
+
+24
+
+25
+
+26
+
+
+     DEFENDANT'S OPPOSITION TO MOTION FOR PARTIAL                                FosrER Ptppnn PLLC
+                                                                              1111 THIRD AVENUE, SurrE 3000
+     ruDGMENT ON THE PLEADINGS - 16
+                                                                             SEATTLE, WASHINGToN 98101-3292
+     Case No. 2:17-cv-0814 JLR
+                                                                           PHoNE (206) 447-4400 F        (206) 447 -9700
+                                                                                                    ^x
+
+     5t626246.4
+                    Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 19 of 23
+
+
+
+ 1                                       DECLARATION OF' SERVICE
+2                 I hereby certify that on August 7,2017 I served via email the foregoing document to the
+J    following counsel of record:
+
+4
+     Jacob M Downs jdowns@corrdowns.com, adixon@corrdowns.com, icorr@condowns.com
+ 5
+     Marc H Kallish mkallish@ralaw.com, cgarcia@talaw.com
+ 6
+
+ 7   Gany L Wills gwills@ralaw.com
+
+ 8
+                  DATED this 7th day of August,2}l7
+ 9
+
+10                                                           /s Tim .1. Filer
+                                                             Tim J. Filer, WSBA No. 16285
+11
+                                                             Steven W. Block, WSBA No.24299
+T2
+                                                             FOSTER PEPPER PLLC
+                                                              1111 Third Avenue, Suite 3000
+13                                                            S eattle, V/ashingto n 981 0 l -3292
+
+                                                             Telephone: (206) 447 -4400
+t4                                                           Facsimile: (206) 447 -97 00
+                                                             Email : tim. filer@foster.com
+15
+                                                                     steve.block@foster. com
+t6                                                           Attorneys for D efendant,
+                                                             Amazon Fulfillment Services, Inc.
+t7
+18
+
+19
+
+20
+
+2l
+22
+
+23
+
+24
+
+25
+
+26
+
+
+     DEFENDANT'S OPPOSITION TO MOTION FORPARTIAL                                   FosrnR P¡ppnn PLLC
+                                                                                1111 THrRD AVENUE, SunE 3000
+     JUDGMENT ON THE PLEADINGS - 17
+                                                                              SEATTLE, WÂsHINcroN 98101-3292
+     Case No. 2:17-cv-0814 JLR
+                                                                            PHoNE (206) 447- 4400 F Ax (206'1 447 -9700
+
+
+     51626246.4
+Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 20 of 23
+
+
+
+
+                                             E       ¡   ITA
+                      Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 21 of 23
+
+
+
+
+ 1                                                                            The Honorable James L. Robart
+
+2
+
+ J
+
+4
+
+ 5
+
+ 6
+
+ 7                                    I.JNITED STATES DISTRICT COURT
+                                     WESTERN DISTRICT OF WASHINGTON
+ 8                                               AT SEATTLE
+
+ 9   CENTRAL FREIGHT LINES, INC., a Texas
+     Corporation,
+10                                                                No. 2:17-cv-0814 JLR
+                                                Plaintiff,
+11                                                                IPROPOSEDI ORDER DENYING
+                  v                                               PLAINTIFF'S MOTION FOR PARTIAL
+t2                                                                JUDGMENT ON THE PLEADINGS
+     AMAZON FULFILLMENT SERVICES, A
+13   Delaware corporation, and DOES I through 25,                 NOTED ON THE MOTION
+     inclusive,                                                   CALENDAR: August ll, 2017
+t4
+                                            Defendants.
+15
+
+T6                Before the Court is Plaintiff Central Freight Lines, Inc.'s Motion for Partial Judgment on
+
+t7   the pleadings. The Court reviewed Plaintiff s Motion, Defendant Amazon Fulfillment Services'
+
+18   Opposition to the Motion, any Reply by the Plaintiff, and the pleadings on file with the Court.
+
+t9                Deeming itself fully advised, IT IS HEREBY ORDERED that Plaintiffls Motion for
+
+20   Partial Judgment on the Pleadings is DENIED.
+
+2l                (l)     Plaintiff failed to meet its burden to show that there is no material dispute of fact
+
+22   regarding whether Defendant overpaid Plaintiff for services provided under the Contract.
+
+23   Plaintiff alleges it charged Defendant pursuant to an oral modification of the contract. Pl.'s
+
+24   Answer, Dkt. No. 50, I 13. Defendant denies that the parties modified the contract. Def.'s
+
+25   Answer, Dkt. No. 48,n27. As the Court finds a material dispute of fact, Plaintiff s Motion must
+
+26   be denied. See Chavez v. United States,683 F.3d 1 102,1108 (9th Cir.2012).
+
+                                                                 FOR                Fosrrn Prpran PLLC
+     IPROPOSEDI ORDER DENYING PLAINTIFF'S MOTION                                   u1l THTRD AVENUE, SUITE3000
+     PARTIAL ruDGMENT ON THE PLEADINGS - I
+                                                                                  sEArrLE, WASHINGToN 98101-3292
+     Case No. 2:17-cv-0814 JLR
+                                                                                PHoNE (206) 447-4400 F        12061 447'9700
+                                                                                                         ^x
+
+     5t626626.1
+                    Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 22 of 23
+
+
+
+
+ 1                 (2)   Plaintiff failed to meet its burden to show as a matter of law that Washington
+
+2    prohibits a pre-litigation right to setoff debts from tiabilities. The Court finds that a creditor may
+
+J    offset debts from its liabilities without first initiating litigation. See Barry v. United States,229
+
+4    U.S. 47, 53 (1913); l4/erren, Littte & Lund, Inc. v. Max J' Kuney Co.,115 Wn.2d 2Il,212-16,
+
+5    796P.2dt263 (r9e0).
+
+6                  (3)   Plaintiff failed to meet its burden to show the absence of a material dispute of fact
+
+7    regarding whether Defendant had the contractual right to tecoup all of its alleged overpayments
+
+ 8   since 2012. Plaintiff and Defendant cite conflicting contractual provisions that either allow
+
+ 9   Defendant to recoup overpayments made during the entire contractual term, or bar recoupment of
+
+10   overpayments made prior to February 2015. The Court will not resolve this contested contract
+
+11   interpretation issue on a motion for judgment on the pleadings. See Consul, Ltd' v' Solide
+
+t2   Enter's, Inc.,802F.2d ll43,ll49 (9th Cir. 1986).
+
+13                 (4)   plaintiff failed to meet its burden to show that Defendant's setoff counterclaim is
+
+t4   untimely. Under Washington law, setoff and recoupment claims may be brought as defenses
+
+15   regardless of whether they can serve as the basis for affirmative recovery. Olsen v. Pesarik,
+                                                                                                                           ll8
+t6   Wn. App. 68g, 692,77 P.3d 385 (2003). Accordingly, Defendant may pursue its setoff defense
+
+I7   and counterclaim for the entire contractual period.
+
+18                       DATED this _        day of                            2017.
+
+t9
+20
+                                                        Honorable James L. Robart
+2T                                                      United States District Judge
+
+22
+
+23
+
+24
+
+25
+
+26
+
+                                                  FOR                                Fosrsn PEPPTn PLLC
+      lpRoPosEDl ORDER DENYING PLAINTIFF'S MOTION                                  1111 THTRD AVENUE, SUITE 3000
+      PARTIAL JUDGMENT ON THE PLEADINGS  - 2
+                                                                                 SEATTLÉ, WAsHINcToN 98101-3292
+      Case No. 2:17-cv-0814 JLR                                                                              (2061 447 -9700
+                                                                               PHoNE (206) 447-4400 E
+                                                                                                        ^x
+
+      5t626626.1
+                   Case 2:17-cv-00814-JLR Document 54 Filed 08/07/17 Page 23 of 23
+
+
+
+
+1    Presented by:
+
+2    FOSTER PEPPER PLLC
+
+J    s/ Tim J. Ler
+     Tim J. Filer, WSBA No. 16285
+4    Steven W. Block, WSBA No.24299
+     FOSTER PEPPER PLLC
+5
+     1111 Third Avenue, Suite 3000
+6    Seattle, Washingto n 9 8 I 0 | -3292
+     Telephone: (206) 447 -4400
+7    Facsimile: (206) 447 -97 00
+     Email : tim.filer@foster. com
+ I            steve.block@foster.com
+     Att orneys for D efendant,
+ 9
+     Amazon Ful/ìllment Services, Inc'
+10
+
+11
+
+l2
+13
+
+T4
+
+l5
+t6
+l7
+18
+
+t9
+20
+
+2l
+22
+
+23
+
+24
+
+25
+
+26
+
+                                              MOTION FOR              Fosrrn PrPPnn PLLC
+      IPROPOSEDI ORDER DENYING PLAINTIFF'S                          1111 THIRD AVENUE, SunE 3000
+      PARTIAL JUDGMENT ON THE PLEADINGS - 3                       SEATTLE, WAsH¡NGToN 98101-3292
+      Case No. 2:17-cv-0814 JLR                                                                (2061 447 -9700
+                                                                PHoNÉ (206) 447- 4400 F
+                                                                                          ^x
+
+      5t626626.1
+

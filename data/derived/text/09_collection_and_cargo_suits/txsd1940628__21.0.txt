@@ -1,0 +1,893 @@
+   Case 5:23-cv-00120          Document 21         Filed on 05/09/24 in TXSD           Page 1 of 17
+                                                                                           United States District Court
+                                                                                             Southern District of Texas
+
+                                                                                                ENTERED
+                                                                                                May 09, 2024
+                          UNITED STATES DISTRICT COURT
+                                                                                             Nathan Ochsner, Clerk
+                           SOUTHERN DISTRICT OF TEXAS
+                                LAREDO DIVISION
+
+ LANDSTAR RANGER, INC.                              §
+                                                    §
+ VS.                                                §       CIVIL ACTION NO. 5:23-CV-120
+                                                    §
+ URBAN ROADS, INC.                                  §
+
+                                               ORDER
+
+        Before the Court is Plaintiff Landstar Ranger, Inc.’s motion for default
+
+judgment against Defendant Urban Roads, Inc. (Dkt. No. 18). Plaintiff filed the
+
+motion after obtaining the Clerk’s entry of default against Defendant (Dkt. Nos. 16,
+
+17), which has not answered or otherwise responded to the suit. For the reasons
+
+below, Plaintiff’s motion for default judgment (Dkt. No. 18) is GRANTED. The Court
+
+will enter final judgment separately, pursuant to Federal Rule of Civil Procedure 58.
+
+                                     I.       BACKGROUND
+
+        On November 2, 2023, Plaintiff filed an original complaint, claiming Defendant
+
+breached over three hundred transportation contracts between the parties by not
+
+paying for Plaintiff’s shipment services (Dkt. No. 1 at 2).1 Plaintiff alleged Defendant
+
+accepted an invoice and underlying paperwork for each shipment without protest (id.
+
+at 3). Yet Defendant failed to pay Plaintiff, despite Plaintiff’s demand for payment
+
+(id.). Plaintiff presented claims for (1) breach of contract; (2) quantum meruit; and (3)
+
+promissory estoppel (id. at 2–4). Plaintiff also sought attorneys’ fees (id. at 4).
+
+
+
+1 Plaintiff made a typographical error in the number of contracts it initially alleged Defendant had
+
+breached (see Dkt. No. 1 at 2) (alleging breach of 312 transportation contracts). Plaintiff clarified in
+an advisory to the Court that the correct number of underlying contracts is 302 (Dkt. No. 20).
+  Case 5:23-cv-00120       Document 21      Filed on 05/09/24 in TXSD     Page 2 of 17
+
+
+
+
+      Plaintiff served Defendant with summons on November 13, 2023 (Dkt. No. 4).
+
+Therefore, Defendant’s answer was due by December 4, 2023. See J. Garcia
+
+Marmolejo Civ. R. 6(A)(4) (“Responses by the nonmovant must be filed within 21
+
+calendar days of [an opposed] motion.”). However, Defendant did not file a timely
+
+answer or otherwise appear in the case, and still has not done so as of the date of this
+
+order. On January 25, 2024, Plaintiff filed an amended complaint, seeking damages
+
+of $295,075.44 against Defendant, in addition to attorneys’ fees (Dkt. No. 9 at 3–4).
+
+      On March 1, 2023, after Defendant failed to respond to the amended complaint,
+
+United States Magistrate Judge Christopher dos Santos ordered Plaintiff to advise
+
+the Court regarding how it intended to proceed with the lawsuit (Dkt. No. 14). On
+
+March 4, 2024, Plaintiff filed a request for entry of default against Defendant, which
+
+the Clerk of Court entered on March 8, 2024 (Dkt. Nos. 16, 17). On March 12, 2024,
+
+Plaintiff filed the pending motion for default judgment (Dkt. No. 18).
+
+      In the default judgment motion, Plaintiff seeks damages of $295,075.44 in
+
+compensation for Plaintiff’s performance on the underlying transportation contracts
+
+(Dkt. No. 18 at 6). Plaintiff seeks attorneys’ fees of $3,034.80, out-of-pocket costs of
+
+$628, all costs of Court, and postjudgment interest (id.). Plaintiff submitted an exhibit
+
+compiling all the shipment invoices (Dkt. No. 18-5). The invoices’ total is $295,075.44,
+
+consistent with Plaintiff’s allegations (see Dkt. No. 9-1 at 26). Plaintiff also submitted
+
+an affidavit about its request for attorneys’ fees and costs (Dkt. No. 18-3). A certificate
+
+of service indicates Plaintiff served the motion on Defendant and its registered agent
+
+on March 12, 2023 (Dkt. No. 18 at 7). Defendant has not responded to the motion.
+
+
+
+
+                                            2
+  Case 5:23-cv-00120      Document 21      Filed on 05/09/24 in TXSD     Page 3 of 17
+
+
+
+
+                               II.    JURISDICTION
+
+      A. Subject-Matter Jurisdiction
+
+      A federal court is “duty-bound to examine its subject-matter jurisdiction sua
+
+sponte.” Burciaga v. Deutsche Bank Nat'l Tr. Co., 871 F.3d 380, 384 n.4 (5th Cir.
+
+2017) (citations omitted). Under 28 U.S.C. § 1332(a), district courts have original
+
+jurisdiction over civil actions where the matter in controversy exceeds $75,000 and
+
+the parties are, as relevant here, citizens of different states. See I F G Port Holdings,
+
+L.L.C. v. Lake Charles Harbor & Terminal Dist., 82 F.4th 402, 408 (5th Cir. 2023).
+
+      Plaintiff alleged that it is a Delaware corporation with a principal place of
+
+business in Florida, and that Defendant is a California corporation with a principal
+
+place of business in California (Dkt. No. 9 at 1). Corporations are deemed citizens of
+
+every state and foreign state in which they are incorporated, and the state or foreign
+
+state in which they have their principal place of business. See 28 U.S.C. § 1332(c)(1).
+
+Accordingly, Plaintiff is deemed a citizen of Delaware and Florida, and Defendant is
+
+deemed a California citizen. This fulfills the diverse citizenship requirement. See 28
+
+U.S.C. § 1332(a). Further, the amount-in-controversy requirement is met because
+
+Plaintiff seeks $295,075.44 in damages. See id. (amount in controversy must exceed
+
+$75,000). So, the Court can exercise subject-matter jurisdiction over the parties here.
+
+      B. Personal Jurisdiction
+
+      Because Defendant is a California citizen, a brief discussion is warranted as to
+
+whether the Court has personal jurisdiction over it. “Federal courts ordinarily follow
+
+state law in determining the bounds of their jurisdiction over persons.” Daimler AG
+
+
+
+
+                                           3
+  Case 5:23-cv-00120      Document 21     Filed on 05/09/24 in TXSD     Page 4 of 17
+
+
+
+
+v. Bauman, 571 U.S. 117, 125 (2014) (citing Fed. R. Civ. P. 4(k)(1)(A) (service of
+
+process establishes personal jurisdiction over a defendant “who is subject to the
+
+jurisdiction of a court of general jurisdiction in the state where the district court is
+
+located.”)). Specific personal jurisdiction over a defendant exists where the defendant
+
+takes “some act by which [it] purposefully avails itself of the privilege of conducting
+
+activities within the forum State.” Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.,
+
+592 U.S. 351, 359 (2021) (quoting Hanson v. Denckla, 357 U.S. 235, 253 (1958)). This
+
+requirement is satisfied if the defendant entered into a contractual relationship
+
+centered in the forum state and the plaintiff’s claims arise out of that contact with
+
+the forum. See id. at 359 (citations omitted).
+
+      Here, Defendant entered into transportation contracts with Plaintiff which
+
+involved shipments to Laredo, Texas, and this dispute arises out of that contact with
+
+Texas. Thus, the Court has personal jurisdiction over Defendant.
+
+                            III.   LEGAL STANDARDS
+
+      Obtaining default judgment is a three-step process: (1) a properly-served
+
+defendant defaults—that is, “fail[s] to plead or otherwise respond to the complaint
+
+within the time required by the Federal Rules”; (2) the plaintiff procures the Clerk’s
+
+entry of default; and (3) the plaintiff moves for a default judgment against the
+
+defendant. See New York Life Ins. Co. v. Brown, 84 F.3d 137, 141 (5th Cir. 1996); Fed
+
+R. Civ. P. 55(a)–(b); see also Champion v. Phaselink Util. Sols., LLC, No. SA-22-CV-
+
+00145-JKP, 2022 WL 3693461, at *2 (W.D. Tex. Aug. 24, 2022).
+
+      Even if the plaintiff meets these requirements, the decision to grant a default
+
+
+
+
+                                           4
+      Case 5:23-cv-00120    Document 21     Filed on 05/09/24 in TXSD     Page 5 of 17
+
+
+
+
+judgment is in the district judge’s discretion. See Lewis v. Lynn, 236 F.3d 766, 767
+
+(5th Cir. 2001) (citation omitted). Because a default judgment is a “drastic remedy,
+
+not favored by the Federal Rules,” it will be granted “only when the adversary process
+
+has been halted because of an essentially unresponsive party.” Sun Bank of Ocala v.
+
+Pelican Homestead & Sav. Ass'n, 874 F.2d 274, 276 (5th Cir. 1989) (citation omitted).
+
+         When determining whether to grant default judgment, the Court must (1)
+
+decide whether default judgment is procedurally warranted; and (2) assess the
+
+substantive merits of plaintiff’s claims. See Champion, 2022 WL 3693461, at *2–3
+
+(citations omitted). “Relevant factors [for finding default judgment is procedurally
+
+warranted] include [1] whether material issues of fact are at issue, [2] whether there
+
+has been substantial prejudice, [3] whether the grounds for default are clearly
+
+established, [4] whether the default was caused by a good faith mistake or excusable
+
+neglect, [5] the harshness of a default judgment, and [6] whether the court would
+
+think itself obliged to set aside the default on the defendant's motion.” Lindsey v.
+
+Prive Corp., 161 F.3d 886, 893 (5th Cir. 1998).
+
+                                  IV.    DISCUSSION
+
+         A. Default Judgment
+
+         Based on the Lindsey factors, default judgment is procedurally warranted.
+
+(1)      Whether material issues of fact are at issue: Defendant has not answered or
+
+         otherwise appeared in the case, and thus has not contested any of Plaintiff’s
+
+         allegations of fact. See Jackson v. FIE Corp., 302 F.3d 515, 524 (5th Cir. 2002)
+
+         (“[D]efendant, by his default, admits the plaintiff's well-pleaded allegations of
+
+
+
+
+                                             5
+      Case 5:23-cv-00120    Document 21      Filed on 05/09/24 in TXSD    Page 6 of 17
+
+
+
+
+         fact, is concluded on those facts by the judgment, and is barred from contesting
+
+         on appeal the facts thus established.”) (citation omitted).
+
+(2)      Whether there has been substantial prejudice: “Defendant’s failure to respond
+
+         threatens to bring the adversary process to a halt, effectively prejudicing
+
+         Plaintiff’s interests.” Ins. Co. of the W. v. H & G Contractors, Inc., No. CIV.A.
+
+         C-10-390, 2011 WL 4738197, at *3 (S.D. Tex. Oct. 5, 2011) (citing Lindsey, 161
+
+         F.3d at 893; Sun Bank of Ocala, 874 F.2d at 276).
+
+(3)      Whether the grounds for default are clearly established: The grounds for
+
+         default are clearly established by the procedural history of this case and the
+
+         Clerk’s entry of default, which noted that Defendant “has failed to answer or
+
+         otherwise appear within the time period provided in the Summons and by law”
+
+         (Dkt. No. 17). See Innovative Sports Mgmt., Inc. v. Paisa's Truck LLC, No. 4:22-
+
+         CV-04105, 2024 WL 625316, at *3 (S.D. Tex. Feb. 14, 2024) (grounds for default
+
+         clearly established by record and Clerk's Entry of Default).
+
+(4)      Whether the default was caused by a good faith mistake or excusable neglect:
+
+         There is no evidence in the record that Defendant’s failure to respond is the
+
+         result of a good faith mistake or excusable neglect. See United States v. One
+
+         Smith & Wesson SDV9VE Pistol, 9 MM; SN FEC0557, No. 5:23-CV-49, 2024
+
+         WL 913697, at *2 (S.D. Tex. Mar. 4, 2024) (Garcia Marmolejo, J.) (granting
+
+         default judgment where record contained no evidence of good faith mistake or
+
+         excusable neglect causing default of potential claimants) (citation omitted).
+
+(5)      The harshness of a default judgment: Plaintiff seeks only the relief to which it
+
+
+
+
+                                             6
+      Case 5:23-cv-00120    Document 21     Filed on 05/09/24 in TXSD   Page 7 of 17
+
+
+
+
+         is entitled under law, mitigating the harshness of default judgment. See
+
+         Hancock Whitney Bank v. ECS Exec. Corp Servs., No. 4:21-CV-00932, 2022 WL
+
+         1211375, at *3 (S.D. Tex. Apr. 25, 2022) (citation omitted).
+
+(6)      Whether the court would think itself obliged to set aside the default on the
+
+         defendant's motion: There is no evidence indicating the Court would feel
+
+         obliged to set aside the default if challenged by Defendant. See Joosten v.
+
+         Williams, No. 4:22-CV-02427, 2023 WL 9231487, at *2 (S.D. Tex. Dec. 27,
+
+         2023), report and recommendation adopted, No. 4:22CV02427, 2024 WL
+
+         150764 (S.D. Tex. Jan. 12, 2024) (citation omitted).
+
+         Therefore, all of the Lindsey factors point towards default judgment being
+
+procedurally warranted here. Plaintiff also personally served Defendant with the
+
+lawsuit and served the instant motion on Defendant by certified mail, with return
+
+receipt requested (Dkt. Nos. 4, 18 at 7). See L.R. 5.5 (“Motions for default judgment
+
+must be served on the defendant-respondent by certified mail (return receipt
+
+requested).”). In addition, Defendant is a corporation and is thus not a minor,
+
+incompetent person, or a military servicemember, persons for whom certain
+
+limitations on entering default judgment apply (see Dkt. No. 18 at 5). See Fed. R. Civ.
+
+P. 55(b)(2); 50 U.S.C. § 3931(b)(1); Rodriguez v. Machinestation Int'l, No. CV H-23-
+
+112, 2023 WL 8602792, at *2 (S.D. Tex. Nov. 3, 2023), report and recommendation
+
+adopted, No. 4:23-CV-00112, 2023 WL 8602788 (S.D. Tex. Dec. 12, 2023).
+
+         Further, Plaintiff’s claims have substantive merit, as Plaintiff has pleaded
+
+sufficient facts to satisfy the elements of its breach of contract claim against
+
+
+
+
+                                             7
+  Case 5:23-cv-00120      Document 21      Filed on 05/09/24 in TXSD     Page 8 of 17
+
+
+
+
+Defendant. In Texas, “[t]he essential elements of a breach of contract action are: (1)
+
+the existence of a valid contract; (2) performance or tendered performance by the
+
+plaintiff; (3) breach of the contract by the defendant; and (4) damages sustained by
+
+the plaintiff as a result of the breach.” Smith Int'l v. Egle Grp., 490 F.3d 380, 387 (5th
+
+Cir. 2007) (citation omitted). “A breach occurs when a party fails to perform a duty
+
+required by the contract.” Id. (citation omitted).
+
+      Plaintiff alleges the parties entered into 302 transportation contracts from
+
+July 2022 through December 2023 (Dkt. Nos. 18 at 4; 20). Plaintiff claims that
+
+Defendant received the economic benefit of Plaintiff’s transportation services and is
+
+thus liable for its freight charges (Dkt. No. 18 at 4). Plaintiff invoiced Defendant for
+
+each shipment, totaling $295,075.44 (id.). Plaintiff alleges that “[d]espite accepting
+
+each invoice and underlying paperwork without objection or protest, and despite due
+
+demand, Defendant has not made any payments to Plaintiff. Therefore, Defendant
+
+breached its obligations under each transportation contract by failing to pay
+
+Plaintiff’s invoices within a reasonable period” (id.).
+
+      In summary, Plaintiff has alleged the parties entered into 302 contracts, which
+
+Plaintiff tendered performance under, and which Defendant breached by failing to
+
+pay Plaintiff for its freight charges, causing Plaintiff damages of $295,075.44. That
+
+sufficiently makes out Plaintiff’s breach of contract claim against Defendant. See
+
+Landstar Ranger, Inc. v. MDZ Logistics, LLC, No. CV M-23-228, 2023 WL 7559144,
+
+at *2 (S.D. Tex. Oct. 27, 2023) (Plaintiff presented colorable breach of contract claim
+
+where it “stat[ed] that it provided transportation services pursuant to transportation
+
+
+
+
+                                            8
+  Case 5:23-cv-00120     Document 21      Filed on 05/09/24 in TXSD    Page 9 of 17
+
+
+
+
+contracts and that Defendant failed to pay the amount owed.”), report and
+
+recommendation adopted, No. 7:23-CV-00228, 2023 WL 7649359 (S.D. Tex. Nov. 14,
+
+2023). Entering default judgment against Defendant for the undisputed sum of
+
+$295,075.44 is therefore appropriate based on the pleadings and supporting
+
+documentation Plaintiff provided. See James v. Frame, 6 F.3d 307, 311 (5th Cir. 1993)
+
+(evidentiary hearing on damages unnecessary where damages could be “computed
+
+with certainty by reference to the pleadings and supporting documents alone.”)
+
+(citation omitted).
+
+      Plaintiff also brought claims of quantum meruit and promissory estoppel
+
+against Defendant (Dkt. No. 9 at 3–4). Though these claims were not pleaded in the
+
+alternative, they are based upon Defendant’s same underlying failure to pay Plaintiff
+
+$295,075.44 for the transportation of Defendant’s property (see id.). Plaintiff did not
+
+raise these claims in its motion for default judgment, instead requesting default
+
+judgment only for Defendant’s breach of contract (see Dkt. No. 18). Therefore, the
+
+Court will not analyze these claims.
+
+      B. Damages
+
+             1. Breach of Contract
+
+      “A default judgment establishes the defendant's liability but not the quantity
+
+of damages.” L. Funder, L.L.C. v. Munoz, 924 F.3d 753, 761 (5th Cir. 2019), as revised
+
+(June 6, 2019) (citation omitted). “[W]here a plaintiff submits an affidavit and
+
+supporting documents demonstrating that the damages are in an amount certain, the
+
+entry of a default judgment in that amount without the need for an evidentiary
+
+
+
+
+                                          9
+  Case 5:23-cv-00120     Document 21     Filed on 05/09/24 in TXSD     Page 10 of 17
+
+
+
+
+hearing is permissible.” Champion, 2022 WL 3693461, at *3 (citing Leedo Cabinetry
+
+v. James Sales & Distrib., Inc., 157 F.3d 410, 414 (5th Cir. 1998)).
+
+      Here, Plaintiff submitted an invoice exhibit compiling amounts owed for every
+
+shipment, and a detailed affidavit regarding attorneys’ fees and Plaintiff’s out-of-
+
+pocket expenses (Dkt. Nos. 18-3, 18-5). The invoice exhibit compiles 302 separate
+
+shipment invoices, which total $295,075.44 (Dkt. No. 18-5). Plaintiff alleges that
+
+Defendant failed to pay Plaintiff for any of these shipments, causing damages to
+
+Plaintiff to the tune of $295,075.44 (Dkt. No. 18 at 4). This figure is an amount
+
+certain, and thus damages are “capable of mathematical calculation.” See Hancock
+
+Whitney Bank, 2022 WL 1211375, at *4 (quoting United Artists Corp. v. Freeman, 605
+
+F.2d 854, 857 (5th Cir. 1979)). Therefore, a hearing is unnecessary as to these
+
+damages. Having sufficiently established breach of the transportation contracts and
+
+the amount of damages that flowed from the breach, Plaintiff is entitled to recover
+
+$295,075.44 from Defendant.
+
+             2. Attorneys’ Fees
+
+      In determining the award and reasonableness of attorneys’ fees, state law
+
+controls where state law supplies the rule of decision, as here. Mathis v. Exxon Corp.,
+
+302 F.3d 448, 461 (5th Cir. 2002). “Under Texas law, when a prevailing party in a
+
+breach of contract suit seeks attorneys’ fees, an award of reasonable fees is mandatory
+
+under Tex. Civ. Prac. & Rem. Code Ann. § 38.001(8).” Kona Tech. Corp. v. S. Pac.
+
+Transp. Co., 225 F.3d 595, 614 (5th Cir. 2000) (citations omitted).
+
+      “Federal courts sitting in diversity typically apply the two-step lodestar
+
+
+
+
+                                          10
+  Case 5:23-cv-00120          Document 21         Filed on 05/09/24 in TXSD          Page 11 of 17
+
+
+
+
+method in calculating reasonable attorneys’ fees under Texas law.” Winston v. State
+
+Farm Lloyds, No. SA-20-CV-00515-JKP, 2022 WL 3327770, at *4 (W.D. Tex. Aug. 11,
+
+2022) (citing Rappaport v. State Farm Lloyds, No. 00–10745, 2001 WL 1467357, at
+
+*3 (5th Cir. 2001) (per curiam)).2 “Using this approach, the Court first multiplies the
+
+number of hours reasonably expended on the litigation by a reasonable hourly billing
+
+rate.” Id. (citing La. Power & Light Co. v. Kellstrom, 50 F.3d 319, 324 (5th Cir. 1995)).
+
+“Once the lodestar figure is initially determined, the Court may adjust the figure
+
+upward or downward as necessary in light of enunciated factors.” Id. (citing La.
+
+Power, 50 F.3d at 324.) The factors Texas courts use to assess the reasonableness of
+
+attorneys’ fees are as follows:
+
+        (1)     the time and labor required, the novelty and difficulty of the questions
+                involved, and the skill required to perform the legal service properly;
+        (2)     the likelihood that the acceptance of the particular employment will
+                preclude other employment by the lawyer;
+        (3)     the fee customarily charged in the locality for similar legal services;
+        (4)     the amount involved and the results obtained;
+        (5)     the time limitations imposed by the client or by the circumstances;
+        (6)     the nature and length of the professional relationship with the client;
+        (7)     the experience, reputation, and ability of the lawyer or lawyers
+
+2 For some time, the caselaw was unclear regarding whether the lodestar method applied to breach of
+
+contract claims. The Texas Court of Appeals in San Antonio held in an unpublished opinion that the
+lodestar method does not apply in a “garden-variety breach of contract claim.” See Paez v. Trent Smith
+Custom Homes, LLC, No. 04-13-00394-CV, 2014 WL 1089751, at *4 (Tex. App.—San Antonio Mar. 19,
+2014); see also Concert Health Plan v. Hous. Nw. Ptrs., Ltd., No. 14–12–00457–CV, 2013 WL 2382960,
+at *9 n.17 (Tex. App.—Houston [14th Dist.] May 30, 2013, no pet.) (“[T]he lodestar method is not the
+method used for calculating the appropriate attorney’s fees in a breach-of-contract case. . .”); see also
+Structural Metals, Inc. v. S & C Elec. Co., 590 F. App'x 298, 308 (5th Cir. 2014) (“It is unclear whether
+the lodestar method is the correct method for calculating attorney’s fees under [Texas Civil Practice &
+Remedies Code] section 38.001.”). But the Texas Supreme Court has since clarified that, “[i]t should
+have been clear from our opinions . . . that we intended the lodestar analysis to apply to any situation
+in which an objective calculation of reasonable hours worked times a reasonable rate can be employed.”
+Rohrmoos Venture v. UTSW DVA Healthcare, LLP, 578 S.W.3d 469, 497–98 (Tex. 2019). Accordingly,
+the Court employs the lodestar method here.
+
+
+
+
+                                                  11
+  Case 5:23-cv-00120      Document 21      Filed on 05/09/24 in TXSD     Page 12 of 17
+
+
+
+
+             performing the services; and
+      (8)    whether the fee is fixed or contingent on results obtained or uncertainty
+             of collection before the legal services have been rendered.
+
+Arthur Andersen & Co. v. Perry Equip. Corp., 945 S.W.2d 812, 818 (Tex. 1997); but
+
+see Rohrmoos Venture, 578 S.W.3d at 501 (“[Arthur Andersen] considerations . . . may
+
+not be used to enhance or reduce the [lodestar] calculation to the extent that they are
+
+already reflected in the reasonable hours worked and reasonable hourly rate.”).
+
+      When determining whether to award attorneys’ fees, and in what amount,
+
+“[t]he court can also look at the entire record, the evidence presented on
+
+reasonableness, the amount in controversy, the common knowledge of the
+
+participants as lawyers and judges, and the relative success of the parties.” Hancock
+
+Whitney Bank, 2022 WL 1211375, at *5 (quoting Jarvis v. Rocanville Corp., 298
+
+S.W.3d 305, 318 (Tex. App.—Dallas 2009, pet. denied)). Attorneys’ fees have
+
+historically included fees for paralegal services. Richlin Sec. Serv. Co. v. Chertoff, 553
+
+U.S. 571, 582 (2008).
+
+      Plaintiff supplied an affidavit explaining the basis for its $3,034.80 attorneys’
+
+fees figure and addressing the reasonableness of the fees (Dkt. No. 18-3). Plaintiff’s
+
+attorney, Vic Houston Henry, who filed the affidavit, cited hourly rates of $250 for
+
+shareholder attorneys from the Dallas firm involved in this case, $200 for associate
+
+attorneys, and $140 for paralegals (Dkt. No. 18-3 at 2). The attorneys who provided
+
+legal services on this matter included Mr. Henry (shareholder), who has been an
+
+attorney since 1984, Emileigh S. Hubbard (shareholder), who has been an attorney
+
+since 2011, and Davinder Jassal (associate), who has been licensed as a Texas
+
+
+
+
+                                           12
+  Case 5:23-cv-00120          Document 21        Filed on 05/09/24 in TXSD          Page 13 of 17
+
+
+
+
+attorney since 2018 (id.).3 The paralegals who provided services on this case are Lisa
+
+Meredith, who has 16–17 years’ experience,4 and Sabrina Moreno, who has over two
+
+years’ experience (id.).
+
+       These hourly attorneys’ fees are reasonable and customary for a Dallas firm
+
+such as the one representing Plaintiff in this case. If anything, they are somewhat
+
+low for the Dallas-Fort Worth-Arlington Metropolitan Area. See STATE BAR OF TEXAS
+
+DEP'T OF RSCH. AND ANALYSIS, 2019 Hourly Fact Sheet,5 at 10 (median hourly rate of
+
+$308 for attorneys in Dallas-Fort Worth-Arlington Metropolitan Statistical Area).
+
+       As for the paralegals, Mr. Henry’s affidavit does not clarify whether their work
+
+was clerical or legal in nature (see Dkt. No. 18-3 at 2–3). This is problematic, because
+
+“[p]aralegal work can only be recovered as attorney's fees if the work is legal rather
+
+than clerical.” Vela v. City of Houston, 276 F.3d 659, 681 (5th Cir. 2001). In addition,
+
+the cited paralegal billing rate of $140 per hour is higher than average. The 2019
+
+median hourly rate for paralegals in Texas was $123. See STATE BAR OF TEXAS DEP'T
+
+OF RSCH. AND ANALYSIS, 2020 Paralegal Compensation Survey,6 at 7. Although Lisa
+
+
+Meredith has 16–17 years’ experience, Sabrina Moreno has just “over 2 years of
+
+experience”—yet Plaintiff argues a $140 hourly rate is reasonable for both of them.
+
+
+
+3 The affidavit erroneously states Mr. Jassal has “over two (5) years of experience practicing law. . .”
+
+The State Bar of Texas website clarifies that Mr. Jassal has been licensed since November 2, 2018.
+STATE BAR OF TEXAS, https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&temp
+late=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=355755 (last visited
+May 9, 2024).
+4 The affidavit again erroneously states that Lisa Meredith “is a paralegal with over sixteen (17)
+
+years of experience. . .” (Dkt. No. 18-3).
+5 Available at https://www.texasbar.com/AM/Template.cfm?Section=Demographic_and_Economic_Tre
+
+nds&Template=/CM/ContentDisplay.cfm&ContentID=54237 (last visited May 9, 2024).
+6 Available at https://www.texasbar.com/AM/Template.cfm?Section=Home&Template=/CM/Content
+
+Display.cfm&ContentID=52102 (last visited May 9, 2024).
+
+
+                                                  13
+  Case 5:23-cv-00120         Document 21       Filed on 05/09/24 in TXSD         Page 14 of 17
+
+
+
+
+That is unlikely. See City of San Antonio, Texas v. Hotels.com, No. 5-06-cv-381-OLG,
+
+2017 WL 1382553, at *12 (W.D. Tex. Apr. 17, 2017) (citing then-prevailing hourly
+
+market rate for paralegals with 10-20 years of experience as $115.00 versus $65.00
+
+for paralegals with 0-4 years of experience). It is Plaintiff’s burden to show that the
+
+requested attorneys’ fees are reasonable. Michels Corp. v. EMS USA, Inc., No. CV H-
+
+16-2370, 2018 WL 2995637, at *1 (S.D. Tex. Feb. 5, 2018). Plaintiff has not presented
+
+adequate support for the award of paralegal fees here. See id. (denying paralegal fees
+
+where plaintiff’s evidence did not demonstrate whether the paralegals’ work was
+
+more clerical or legal in nature, and the asserted hourly rate “appear[ed] high”).
+
+       Thus, the adjusted breakdown of reasonable attorneys’ fees is as follows:
+
+           •   Vic Henry: 9.9 hours7 at $250.00 per hour = $2,475.00
+           •   Emileigh Hubbard: 0.3 hours at $250.00 per hour = $75.00
+           •   Davinder Jassal: 0.6 hours at $200.00 per hour = $120.00
+           •   Total reasonable fees = $2,670.00
+
+       Having determined that $2,670.00 is an appropriate lodestar figure, the Court
+
+turns to whether exceptional circumstances exist warranting an adjustment of the
+
+lodestar under the Arthur Andersen & Co. factors. See 945 S.W.2d at 818; see also El
+
+Apple I, Ltd. v. Olivas, 370 S.W.3d 757, 765 (Tex. 2012) (“We accordingly accept the
+
+premise that lodestar presumptively produces a reasonable fee, but that exceptional
+
+circumstances may justify enhancements to the base lodestar.”).
+
+       In his affidavit, Mr. Henry stated that:
+
+       •   The time and labor required, and the novelty and difficulty of the questions
+
+7 At the time of filing the affidavit, Mr. Henry had worked 8.9 hours on the case, but anticipated
+
+attorneys “working an additional $250 for services concerning revising and filing the Motion for
+Default Judgment” (Dkt. No. 18-3 at 3). That is equivalent to one shareholder attorney billing hour,
+which the Court finds reasonable and credits here to Mr. Henry, resulting in a total of 9.9 hours.
+
+
+                                                14
+  Case 5:23-cv-00120      Document 21      Filed on 05/09/24 in TXSD   Page 15 of 17
+
+
+
+
+           involved in this matter were of average amounts and difficulty;
+       •   The skill required to perform the legal services in this matter properly
+           required average competency;
+       •   Taking on this representation did not cause the firm to turn down any other
+           employment;
+       •   The attorneys’ fees here represent usual and customary charges for legal
+           services in lawsuits like this one;
+       •   There were no time limitations imposed by the representation, and the firm
+           has had a relationship with this client for over 22 years;
+       •   The experience, reputation, and ability of the lawyers and paralegals
+           involved was more than sufficient to handle this case; and
+       •   The fees in this case were hourly and not contingent.
+
+(Dkt. No. 18-3 at 3).
+
+       To the extent these considerations are already reflected in the lodestar figure,
+
+which many of them are, they cannot be used to enhance or reduce the lodestar
+
+calculation. See Rohrmoos Venture, 578 S.W.3d at 500–01. Nor does Plaintiff seek to
+
+enhance the lodestar. Because there is a “‘strong presumption’ that the lodestar figure
+
+is reasonable,” the Court declines to disturb it. See Perdue v. Kenny A. ex rel. Winn,
+
+559 U.S. 542, 554 (2010) (noting that “[the] presumption may be overcome in those
+
+rare circumstances in which the lodestar does not adequately take into account a
+
+factor that may properly be considered in determining a reasonable fee.”). Therefore,
+
+Plaintiff is entitled to attorneys’ fees of $2,670.00.
+
+              3. Out-of-Pocket Expenses
+
+       Plaintiff also seeks to recover “out of pocket costs of $628” (Dkt. No. 18 at 6).
+
+This sum accounts for the $402 fee to file this case, and a $226 fee for service on
+
+Defendant in California (Dkt. No. 18-3 at 3).
+
+       Federal Rule of Civil Procedure 54(d) provides that costs should be awarded to
+
+the prevailing party. And 28 U.S.C. § 1920 permits recovery of court fees as a court
+
+
+
+                                            15
+  Case 5:23-cv-00120         Document 21       Filed on 05/09/24 in TXSD         Page 16 of 17
+
+
+
+
+cost. See Jensen v. Lawler, 338 F. Supp. 2d 739, 745 (S.D. Tex. 2004). Therefore,
+
+Plaintiff is entitled to recover the $402 filing fee from Defendant.
+
+        However, private process server fees are not recoverable costs unless
+
+exceptional circumstances exist. Marmillion v. Am. Int'l Ins. Co., 381 F. App'x 421,
+
+431 (5th Cir. 2010) (citing Cypress–Fairbanks Indep. Sch. Dist. v. Michael, 118 F.3d
+
+245, 257 (5th Cir. 1997)). Plaintiff has not alleged any exceptional circumstances
+
+surrounding service that warrant the award of service costs here. Therefore,
+
+Plaintiff’s request for recovery of service costs will be denied.
+
+               4. Postjudgment Interest
+
+        District courts have no discretion to deny postjudgment interest on monetary
+
+judgments. Fairmont Specialty Ins. Co. v. Apodaca, 234 F. Supp. 3d 843, 855 (S.D.
+
+Tex. 2017) (citing Meaux Surface Prot., Inc. v. Fogleman, 607 F.3d 161, 173 (5th Cir.
+
+2010)). Accordingly, Plaintiff is entitled to recover postjudgment interest at the
+
+prevailing rate of 5.19% per annum. See 28 U.S.C. § 1961; UNITED STATES DISTRICT
+
+& BANKRUPTCY COURT SOUTHERN DISTRICT OF TEXAS: POST-JUDGMENT INTEREST
+
+RATES (rate effective May 6, 2024, through May 12, 2024).8
+
+                                    V.      CONCLUSION
+
+        Plaintiff Landstar Ranger, Inc.’s motion for default judgment against
+
+Defendant Urban Roads, Inc. (Dkt. No. 18) is hereby GRANTED.
+
+        IT IS HEREBY ORDERED that Plaintiff Landstar Ranger, Inc. is awarded
+
+breach of contract damages in the amount of $295,075.44.
+
+
+8 Rate available at https://www.txs.uscourts.gov/page/post-judgment-interest-rates (last visited May
+
+9, 2024).
+
+
+                                                16
+  Case 5:23-cv-00120    Document 21     Filed on 05/09/24 in TXSD     Page 17 of 17
+
+
+
+
+      IT IS FURTHER ORDERED that Plaintiff Landstar Ranger, Inc. is awarded
+
+attorneys’ fees in the amount of $2,670.00.
+
+      IT IS FURTHER ORDERED that Plaintiff Landstar Ranger, Inc. is awarded
+
+costs of $402.00.
+
+      IT IS FURTHER ORDERED that Plaintiff Landstar Ranger, Inc. is awarded
+
+postjudgment interest on the above at a rate of 5.19% per annum.
+
+      Pursuant to Federal Rule of Civil Procedure 58(a), and for the reasons set forth
+
+above, final judgment is hereby ENTERED for Plaintiff Landstar Ranger, Inc.
+
+      It is so ORDERED.
+
+      SIGNED May 9, 2024.
+
+                                          _______________________________
+                                          Marina Garcia Marmolejo
+                                          United States District Judge
+
+
+
+
+                                         17
+

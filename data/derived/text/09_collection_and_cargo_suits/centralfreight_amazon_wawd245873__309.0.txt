@@ -1,0 +1,1344 @@
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+                            UNITED STATES DISTRICT COURT
+                           WESTERN DISTRICT OF WASHINGTON
+ 8
+                                     AT SEATTLE
+ 9
+
+10         CENTRAL FREIGHT LINES, INC.,                 CASE NO. C17-0814JLR
+
+11                              Plaintiff,              ORDER DENYING
+                  v.                                    DEFENDANTS’ RENEWED
+12                                                      MOTION FOR JUDGMENT AS A
+                                                        MATTER OF LAW OR FOR A
+           AMAZON FULFILLMENT
+13                                                      NEW TRIAL
+           SERVICES, et al.,
+14
+                                Defendants.
+15
+                                     I. INTRODUCTION
+16
+           Before the court is Defendant Amazon Fulfillment Services, Inc.’s (“AFS”)
+17
+     renewed motion for judgment as a matter of law or for a new trial (Mot. (Dkt. # 286)).
+18
+     CFL filed a response to the motion (Resp. (Dkt. # 302)) and AFS filed a reply (Reply
+19
+     (Dkt. # 306)). The court has considered the motion, the parties’ submissions concerning
+20
+     //
+21
+     //
+22
+
+
+     ORDER - 1
+ 1   the motion, the relevant portions of the record, and the applicable law. Being fully
+
+ 2   advised, 1 the court DENIES the motion.
+
+ 3                                      II. BACKGROUND
+
+ 4   A.     Factual Background
+
+ 5          The facts of this case have been detailed in several prior orders. (See, e.g., MSJ
+
+ 6   Order (Dkt. # 214) (sealed) at 2-17.) Therefore, the court offers only a brief summary of
+
+ 7   the facts before turning to the relevant procedural history.
+
+ 8          This case arises from a contract dispute between CFL, a freight carrier, and AFS.
+
+ 9   (See generally FAC (Dkt. # 139).) AFS is a subsidiary of Amazon.com, Inc., which
+
+10   arranges inbound transportation of merchandise from vendors to Amazon Fulfillment
+
+11   Centers. (CFL MSJ Resp. (Dkt. ## 156 (redacted), 166 (sealed)) at 12.) CFL provided
+
+12   shipping services to AFS pursuant to a Transportation Agreement executed on July 7,
+
+13   2011. (FAC ¶¶ 13-14, Ex. A (“Agreement”).) The Agreement adopts and applies
+
+14   CzarLite, a third-party freight rating system, for pricing and shipments, including
+
+15   CzarLite’s discount for less-than-truckload (“LTL”) shipments. (See id. at 13.) After
+
+16   CFL complained to AFS that it was losing money on shipments that required more than
+
+17   eight pallet spaces (“9+ pallet shipments”), the parties orally modified the Agreement to
+
+18   allow CFL to apply volume rates calculated by its spot-quote system to 9+ pallet
+
+19   shipments. (See MSJ Order at 27, 32.) After AFS withheld payments from CFL for
+
+20   //
+
+21          1
+               Neither party requested oral argument (see Mot. at 1; Resp. at 1), and the court finds
+     that oral argument would not be helpful to its disposition of the motion, see Local Civil Rules
+22   W.D. Wash. LCR 7(b)(4).
+
+
+     ORDER - 2
+ 1   shipments that CFL completed to offset alleged overcharges for prior shipments, this
+
+ 2   litigation commenced. (See id. at 16-17.) CFL claimed that AFS breached the parties’
+
+ 3   Agreement by withholding payment for those shipments, and AFS counterclaimed,
+
+ 4   alleging that CFL overcharged AFS. (See FAC ¶¶132-37 (alleging that AFS
+
+ 5   “[w]rongfully with[held] payments as purported set-off to the amounts it wrongfully
+
+ 6   claimed it overpaid” to CFL); Answer and Counterclaim (Dkt. # 48) ¶¶ 40-45.)
+
+ 7   B.     Procedural History
+
+ 8          1. Partial Summary Judgment
+
+ 9          The court granted in part and denied in part CFL’s motion for partial summary
+
+10   judgment and AFS’s motion for partial summary judgment. (See generally MSJ Order.)
+
+11   In relevant part, the court held that (1) the parties orally modified the Agreement on
+
+12   January 16, 2014, to allow CFL to charge spot-quoted volume rates for its 9+ pallet
+
+13   shipments without AFS’s prior approval (see id. at 26-27); (2) the Agreement allowed
+
+14   CFL to bill AFS using multiple bills of lading (“BOL”) at least until January 13, 2016,
+
+15   but a genuine dispute of material fact remains whether CFL was contractually obligated
+
+16   to use a single master bill of lading (“MBOL”) for same day/same origin/same
+
+17   destination shipments after January 13, 2016 (see id. at 37-39); and (3) a genuine dispute
+
+18   of material fact remained regarding whether CFL’s invoices to AFS required a valid
+
+19   Tender ID (see id. at 40-41). Further, the court granted summary judgment in favor of
+
+20   CFL on CFL’s declaratory judgment claim that AFS’s $2,856,602.00 setoff was
+
+21   improper. (See id. at 49.) The court held that AFS’s setoff was improper under both the
+
+22   Agreement and the common law. (See id. at 47-48 (“The court now concludes that the
+
+
+     ORDER - 3
+ 1   Agreement does not allow for setoff.”), 49 (“The court concludes that AFS’s setoff was
+
+ 2   improper.”).)
+
+ 3          On October 16, 2019, the court denied as premature and without prejudice CFL’s
+
+ 4   motion for entry of monetary judgment on its declaratory judgment that AFS’s setoff was
+
+ 5   improper. (See 10/16/19 Order (Dkt. # 263) at 12-13.) Because AFS was not precluded
+
+ 6   from challenging at trial the timeliness, validity or cost of the invoices on which AFS
+
+ 7   withheld payment as setoff, and because CFL was pursuing an overlapping breach claim
+
+ 8   based on nonpayment of the same invoices, the court determined that it would be
+
+ 9   premature to award a “necessary and proper” sum to CFL prior to trial under 28 U.S.C.
+
+10   § 2202. (See id. at 12.)
+
+11          2. The Pretrial Order
+
+12          The parties submitted their proposed pretrial order on September 30, 2019, and
+
+13   included a list of stipulated facts, including:
+
+14      • “AFS decided to withhold money it owed Central Freight for freight
+
+15          services rendered in order to ‘set off’ the $2,856,602 million it had
+
+16          demanded from Central Freight but that Central Freight refused to pay”;
+
+17      • “AFS did not inform Central Freight in advance of its intent to effectuate a
+
+18          set off”; and
+
+19      • “AFS began withholding payments to Central Freight on March 13, 2017.”
+
+20   (See Prop. PTO (Dkt. # 242) at 8-12.) 2
+
+21
+
+22          2
+                The court entered the pretrial order on October 15, 2019. (See PTO (Dkt. # 254).)
+
+
+     ORDER - 4
+ 1          The parties also included agreed issues of law, including “[w]hether Central
+
+ 2   Freight agreed to consolidate shipments onto MBOL, such that Central Freight and AFS
+
+ 3   formed a contract on the MBOL Issue, after April 30, 2016”; “[w]hether AFS breached
+
+ 4   the Transportation Agreement by withholding as set off $431,028 on the MBOL Issue”;
+
+ 5   “[w]hether Central Freight breached the oral agreement found by the Court by failing to
+
+ 6   use its spot quote system to rate shipments that occupied 9 or more pallet spaces as
+
+ 7   agreed”; “[w]hether AFS breached the oral agreement found by the Court by setting off
+
+ 8   funds for shipments that were rated pursuant to the oral agreement (i.e., those occupying
+
+ 9   9 or more pallet spaces)”; and “[w]hether AFS should repay Central Freight the
+
+10   $112,203.52 it paid AFS because the payment was contingent on resolving all payment
+
+11   issues between Central Freight and AFS.” (See id. at 12-14.)
+
+12          3. Jury Instructions
+
+13          At the pretrial conference, the court cautioned the parties to hew closely to the
+
+14   applicable model jury instructions, namely the Ninth Circuit’s model civil jury
+
+15   instructions and the Washington civil pattern jury instructions. (See PTC Tr. (Dkt. # 248)
+
+16   at 21-22.) The parties jointly submitted agreed and disputed jury instructions on October
+
+17   16, 2019. (Agreed Instr. (Dkt. # 262); Disputed Instr. (Dkt. # 261)); see also Local Rules
+
+18   W.D. Wash. LCR 51(f) (instructing parties to submit a document titled “Joint
+
+19   Instructions” that reflects all agreed-upon instructions, and a second document titled
+
+20   “Joint Statement of Disputed Instructions” that includes all disputed instructions).
+
+21   //
+
+22   //
+
+
+     ORDER - 5
+ 1          The parties submitted a separate breach instruction for each of CFL’s alleged
+
+ 2   breaches of contract. In the proposed instruction for CFL’s breach claim based on the 9+
+
+ 3   pallet shipments, the parties stated that CFL has the burden of proving:
+
+ 4          1. Central Freight charged a rate using its spot quote software program for
+            shipments that were 9 or more pallet spaces in size and did not inflate the
+ 5          rates;
+
+ 6          2. That AFS breached the agreement by withholding as setoff money for
+            shipments that were nine (9) or more pallet spaces in size; [and]
+ 7
+            3. That AFS should reimburse Central Freight for the amounts set off for the
+ 8          9 or more pallets shipments.
+
+ 9   (Agreed Instr. at 62.) In the proposed instruction for CFL’s breach claim based on the
+
+10   MBOL issue, the parties stated that CFL has the burden of proving that:
+
+11          1. That Central Freight was entitled to send one invoice for each bill of
+            lading;
+12
+            2. That Central Freight was not required to combine bills of lading for
+13          shipments that were on the same day and were going from the same origin to
+            the same destination;
+14
+            3. That AFS breached the parties’ written contract by clawing back money
+15          for shipments that were on the same day and were going from the same origin
+            to the same destination that were not combined into a master bill of lading;
+16          and
+
+17          4. That Central Freight was damaged as a result of AFS’s claw back.
+
+18   (Id. at 65.) The parties submitted a single instruction for AFS’s breach counterclaim.
+
+19   (Id. at 68.) In relevant part, that proposed instruction states that AFS has the burden of
+
+20   proving:
+
+21          That the terms of the contract included that Central Freight was to charge for
+            all LTL shipments pursuant to the rate schedule in the Transportation
+22          Agreement for shipments fewer [sic] pallet spaces in size; that Central
+
+
+     ORDER - 6
+ 1           Freight was required to combine separate bills of lading for shipments that
+             were on the same day and were going from the same origin to the same
+ 2           destination, and by failing to include required Tender IDs; [and]
+
+ 3                                              ***
+             That AFS was not in breach of the contract . . . .
+ 4
+     (Id.)
+ 5
+             The court read preliminary jury instructions to the jury on the first day of
+ 6
+     trial, October 21, 2019, including the joint statement of the case drafted by the
+ 7
+     parties. (See 10/22/19 Min. Entry (Dkt. # 270); Prelim. Instr. (Dkt. # 269) at 3-5.)
+ 8
+     The court modified the parties’ proposed jury instruction on the parties’ breach
+ 9
+     claims and counterclaims in order to hew closely to the model instructions, to
+10
+     maintain consistency with the court’s prior rulings, and to ensure that the burden
+11
+     of proof was on the proper party for each claim. (See Final Instr. (Dkt. # 278) at
+12
+     30-42, Instruction Nos. 27-35.) Accordingly, the instruction for CFL’s breach
+13
+     claim based on the 9+ pallet shipments states, in relevant part:
+14
+             The court has determined that AFS entered into a contract with CFL (known
+15           as the Transportation Agreement). The court has determined that the parties
+             modified that contract. The court has determined that the terms of the
+16           contract, as modified:
+
+17           •      Allow CFL to spot quote shipments consisting of nine or more pallet
+             spaces at its volume rate without AFS’s preapproval.
+18
+             •      Do not allow for setoff.
+19
+             CFL alleges five breaches of contract, as set forth in this instruction and
+20           Instructions 28, 29, 30, and 31. CFL has the burden of proving each of the
+             following propositions on its first alleged breach of contract:
+21
+     //
+22
+
+
+     ORDER - 7
+ 1          1.    That AFS breached the foregoing terms of the Transportation
+            Agreement by withholding payment on shipments to set off alleged
+ 2          overcharges for shipments consisting of nine or more pallet spaces;
+
+ 3          2.     That CFL was not in material breach of the contract; and
+
+ 4          3.     That CFL was damaged by AFS’s breach.
+
+ 5   (See id. at Instruction No. 27.) The instruction for CFL’s breach claim based on the
+
+ 6   MBOL issue states, in relevant part:
+
+ 7          The court has determined that AFS entered into a contract with CFL (known
+            as the Transportation Agreement). The court has determined that the terms
+ 8          of that contract:
+
+ 9          •     Allow CFL to bill AFS through the use of multiple bills of lading
+            (“BOL”)—as opposed to a single master bill of lading—(“MBOL”) for
+10          shipments from the same origin, to the same destination, on the same day;
+            and
+11
+            •      Do not allow for setoff.
+12
+            CFL has the burden of proving each of the following propositions on its third
+13          alleged breach of contract:
+
+14          1.    That AFS breached the foregoing terms of the Transportation
+            Agreement by withholding payment on shipments to set off alleged
+15          overcharges for CFL’s use of multiple BOLs—as opposed to a single
+            MBOL—for shipments from the same origin, to the same destination, on the
+16          same day;
+
+17          2.     That CFL was not in material breach of the contract; and
+
+18          3.     That CFL was damaged by AFS’s breach.
+
+19   (Id. at Instruction No. 29.) The instructions for AFS’s breach counterclaims
+
+20   followed the formatting for the CFL breach instructions. For AFS’s breach
+
+21   //
+
+22   //
+
+
+     ORDER - 8
+ 1   counterclaim based on the 9+ pallet shipments, the instruction states that AFS
+
+ 2   bears the burden of proving:
+
+ 3          1. That CFL breached the foregoing term of the Transportation Agreement
+               by failing to spot quote shipments consisting of nine or more pallet spaces
+ 4             at its volume rate;
+
+ 5          2. That AFS was not in material breach of the contract; and
+
+ 6          3. That AFS was damaged as a result of CFL’s breach.
+
+ 7   (Id. at Instruction No. 32.) The instruction for AFS’s counterclaim based on the MBOL
+
+ 8   issue states:
+
+ 9          The court has determined that AFS entered into a contract with CFL (the
+            “Transportation Agreement”). The court has determined that the terms of
+10          that contract:
+
+11          Allow CFL to bill AFS through the use of multiple bills of lading
+            (“BOL”)—as opposed to a single master bill of lading—(“MBOL”) for
+12          shipments from the same origin, to the same destination, on the same day.
+
+13          AFS has the burden of proving each of the following propositions on its
+            fourth alleged breach of contract:
+14
+            1.     That CFL and AFS modified the contract on or after February 13,
+15          2016, to require CFL to bill AFS through the use of a single MBOL—as
+            opposed to multiple BOLs—for shipments from the same origin, to the same
+16          destination, on the same day;
+
+17          2.     That CFL breached the contract by failing to bill AFS through the use
+            of a single MBOL for shipments from the same origin, to the same
+18          destination, on the same day;
+
+19          3.       That AFS was not in material breach of the contract; and
+
+20          4.       That AFS was damaged as a result of CFL’s breach.
+
+21   (Id. at Instruction No. 35.)
+
+22   //
+
+
+     ORDER - 9
+ 1          4. The Trial
+
+ 2          At trial the parties introduced evidence of AFS’s setoff amount for 1-8 pallet
+
+ 3   shipments, 9+ pallet shipments, the MBOL issue, and the Tender ID issue. Among the
+
+ 4   exhibits the parties relied on are two AFS audit spreadsheets: the first supports AFS’s
+
+ 5   demand letter asking CFL to repay $2,389,538.00 in alleged overcharges for 1-8 pallet
+
+ 6   shipments and 9+ pallet shipments (see Trial Ex. 110 (“Original AFS Audit”); Trial Ex.
+
+ 7   18 (“Demand Ltr.”)), and the second showed a higher amount of $2,415,787.27 (see Trial
+
+ 8   Ex. 111 (“Second AFS Audit”)). CFL witness Doug Culbertson’s analysis of CFL’s
+
+ 9   alleged damages relied on the Second AFS Audit and was admitted into evidence. (See
+
+10   Trial Ex. 123 (“Culbertson Analysis”).) In both CFL’s opening statement and closing
+
+11   argument, and without objection from AFS, CFL used a demonstrative that relied upon
+
+12   the numbers in the Second AFS Audit. (See Day 1 Tr. (Dkt. # 292) at 144; Day 5 Tr.
+
+13   (Dkt. # 296) at 56; (Rogers Decl. (Dkt. # 287) ¶ 4, Ex. C (“Demonstrative”).)
+
+14          CFL introduced evidence from a number of witnesses on CFL’s process for
+
+15   spot-quoting 9+ pallet shipments. Tom Botsios, CFL’s Executive Vice President of
+
+16   Operations, testified that CFL used its spot-quote program to bill these shipments, and
+
+17   that he personally observed CFL personnel pricing AFS’s 9+ pallet shipments using the
+
+18   spot quote program. (See Day 2 Tr. (Dkt. # 293) at 215-17.) Rob Harris, CFL’s rate
+
+19   auditor, testified that he audited CFL’s bills to all of CFL’s customers, including AFS.
+
+20   (See Day 3 Tr. (Dkt. # 294) at 401-30.) Mr. Harris testified that he trained both of the
+
+21   night clerks who input the data on how to rate the AFS large-volume shipments in
+
+22   accordance with CFL’s agreement with AFS, and audited the bills and did not find
+
+
+     ORDER - 10
+ 1   deviations from the way he trained them. (See id.) Mr. Harris further testified that he
+
+ 2   occasionally personally input the data for AFS 9+ pallet shipments into the spot quote
+
+ 3   program himself. (See id.) Doug Culbertson, CFL’s Vice President of Pricing during the
+
+ 4   relevant time period, testified that he observed CFL employees using the spot quote
+
+ 5   program to rate AFS’s 9+ pallet shipments, and performed an analysis of the shipments
+
+ 6   and concluded that the pricing was “remarkably consistent” for shipments of the same
+
+ 7   size and the same number of pallets. (See Day 2 Tr. at 325-27.)
+
+ 8          CFL rested its case on the third day of trial. (See Day 3 Tr. at 129.) AFS made an
+
+ 9   oral motion for judgment as a matter of law on CFL’s claims and AFS’s counterclaims
+
+10   under Federal Rule of Civil Procedure 50. (See Day 3 Tr. at 217-26.) AFS argued that
+
+11   there was a “complete failure of evidence” from CFL on the issue of whether CFL billed
+
+12   AFS according to its spot-quote volume rate for 9+ pallet shipments, and that “[t]here is
+
+13   no evidence in the record, nor will there be, that the spot-quote program was ever used.”
+
+14   (See id. at 218-19.) AFS further argued that CFL failed to prove that CFL and AFS
+
+15   entered into a settlement agreement with respect to CFL’s $112,203.52 payment to AFS.
+
+16   (See id. at 221.) The court heard a brief oral response from CFL. (See id. at 222-23.)
+
+17   Although the court deferred ruling on AFS’s motion, the court noted that the burden to
+
+18   prove that CFL charged AFS the incorrect amount for the 9+ pallet shipments is on AFS
+
+19   as part of AFS’s counterclaim, not on CFL. (See id. at 220.)
+
+20          AFS filed a brief in further support of its motion for judgment as a matter of law
+
+21   on the fourth day of trial. (See AFS JMOL Brief (Dkt. # 272).) AFS argued that the
+
+22   court had ruled that CFL was required to calculate its volume rates for the 9+ pallet
+
+
+     ORDER - 11
+ 1   shipments “through its spot quote software program,” and argued that CFL’s use of its
+
+ 2   spot quote software program was an “express condition precedent” to the parties’ oral
+
+ 3   modification of the Agreement. (See id. at 4-5.) AFS also argued, for the first time, that
+
+ 4   the issue of setoff is separate and apart from the issue of breach of contract, and that the
+
+ 5   language regarding setoff in the jury instructions reflects “[c]onfusion regarding CFL’s
+
+ 6   obligation to prove compliance with its contract obligations.” (See id. at 8.) AFS further
+
+ 7   argued that the court’s ruling that the Agreement “does not allow for setoff” means only
+
+ 8   that the Agreement is “silent as to setoff” and neither “permit[s] nor prohibit[s] it.” (See
+
+ 9   id. at 9.) AFS then, again for the first time, took issue with setoff-related language in the
+
+10   jury instructions, portions of which AFS and CFL jointly proposed. (See id. at 8-9.)
+
+11          AFS rested its case on the fourth day of trial. (See Day 4 Tr. (Dkt. # 295) at 149.)
+
+12   CFL moved for judgment as a matter of law on AFS’s counterclaims. (See id. at 155-57.)
+
+13   The court heard brief argument from the parties on CFL’s motion and took it under
+
+14   advisement. (See id. at 155-67.) The court noted that AFS appeared to invent its
+
+15   “condition precedent” theory on the eve of trial, and AFS conceded that the words
+
+16   “condition precedent” do not appear in the court’s summary judgment order, in the
+
+17   pretrial order, or in any other filing in this case prior to AFS’s trial brief. (See id. at
+
+18   164-66; see generally MSJ Order; PTO.)
+
+19          The court subsequently took the parties’ formal exceptions to the court’s proposed
+
+20   jury instructions and verdict form. (See id. at 167-77.) AFS took exception to all of the
+
+21   court’s breach instructions, again based on the language regarding setoff. (See id. at
+
+22   169-78 (taking exception to Jury Instruction Nos. 27-35).)
+
+
+     ORDER - 12
+ 1          The court read the jury instructions on the morning of the fifth and final day of
+
+ 2   trial. (See Day 5 Tr. at 3-31.) After closing statements, the jury retired to deliberate.
+
+ 3   (See id. at 102.) The same afternoon, the jury reached a verdict, finding AFS liable for
+
+ 4   breach of contract; determining that AFS’ breach caused CFL $2,472,227.10 in damages;
+
+ 5   and finding CFL not liable for breach of contract against AFS. (See id. at 104-07;
+
+ 6   Verdict Form (Dkt. # 280) at 2.) AFS subsequently filed the present motion, which the
+
+ 7   court now considers.
+
+ 8                                      III. ANALYSIS
+
+ 9   A.     Legal Standards for Renewed Motion for Judgment as a Matter of Law
+
+10          The court may grant AFS’s renewed motion for judgment as a matter of law if it
+
+11   “finds that a reasonable jury would not have a legally sufficient evidentiary basis” to find
+
+12   for CFL. See Fed. R. Civ. P. 50(a). The court must view the evidence and draw all
+
+13   reasonable inferences in favor of CFL—the party in whose favor the jury returned its
+
+14   verdict. Ostad v. Oregon Health Sci. Univ., 327 F.3d 876, 881 (9th Cir. 2003). Granting
+
+15   a motion for judgment as a matter of law is proper if “the evidence permits only one
+
+16   reasonable conclusion, and the conclusion is contrary to that reached by the jury.” Id.
+
+17   Judgment as a matter of law “is appropriate when the jury could have relied only on
+
+18   speculation to reach its verdict.” Lakeside-Scott v. Multnomah Cnty., 556 F.3d 797,
+
+19   802-03 (9th Cir. 2009).
+
+20          Because it is a renewed motion for judgment as a matter of law, a proper
+
+21   post-verdict Rule 50(b) motion is limited to the grounds asserted in the pre-deliberation
+
+22   Rule 50(a) motion. EEOC v. GoDaddy Software, Inc., 581 F.3d 951, 961-62 (9th Cir.
+
+
+     ORDER - 13
+ 1   2009). Thus, a party cannot properly raise arguments in its post-trial motion under Rule
+
+ 2   50(b) that it did not raise in its pre-verdict Rule 50(a) motion. Id. (citing Freund v.
+
+ 3   Nycomed Amersham, 347 F.3d 752, 761 (9th Cir. 2003) and other cases). In its Rule
+
+ 4   50(a) motion, AFS argued that (1) CFL’s evidence is insufficient to prove that CFL spot-
+
+ 5   quoted the 9+ pallet shipments at its volume rate and (2) CFL offered no evidence of a
+
+ 6   settlement agreement on the MBOL issue. (See Day 3 Tr. at 218-23.) These issues are
+
+ 7   properly before the court, and the court will consider them under the standards recited
+
+ 8   above.
+
+ 9   B.       Grounds Raised for Judgment as a Matter of Law
+
+10            1. Sufficiency of Evidence on CFL’s Breach Claim and AFS’s Breach
+                 Counterclaim
+11
+              AFS argues that CFL “failed to offer evidence at trial sufficient for a jury to
+12
+     reasonably conclude that CFL complied with the contract modification” that allowed
+13
+     CFL to spot-quote 9+ pallet shipments. (See Mot. at 6.) It is unclear whether AFS’s
+14
+     argument is aimed at CFL’s breach claim or AFS’s breach counterclaim. (See Mot. at
+15
+     6-8.) Although AFS argues in terms of the sufficiency of CFL’s evidence, AFS also
+16
+     argues in terms of CFL’s burden to comply with the contract by charging AFS the proper
+17
+     amount, which is the subject of AFS’s counterclaim. (See id. at 6.) The court addresses
+18
+     both.
+19
+                 a. Sufficiency of Evidence for CFL’s Breach Claim
+20
+              In order to prove CFL’s claim for breach of contract, CFL bore the burden to
+21
+     prove that AFS withheld payment to CFL on shipments to set off alleged overcharges for
+22
+
+
+     ORDER - 14
+ 1   prior shipments. (See Final Instr. at Nos. 27-30.) AFS, however, provides no argument
+
+ 2   regarding the sufficiency of CFL’s evidence that AFS withheld payment, and instead
+
+ 3   focuses entirely on the sufficiency of CFL’s evidence that CFL accurately billed AFS.
+
+ 4   (See Mot. at 6-8.) During trial the jury was presented with sufficient evidence to
+
+ 5   conclude CFL met its burden to prove that AFS withheld payment, including the parties’
+
+ 6   stipulated facts. (See Trial Ex. 600 ¶¶ 31-32, 34-35.) Accordingly, the court will not
+
+ 7   overturn the jury’s verdict on CFL’s breach claim on the grounds of sufficiency of the
+
+ 8   evidence.
+
+ 9          AFS argues that because contract modification is an affirmative defense, CFL has
+
+10   the burden to prove that its “noncompliance” with the Agreement (i.e. its compliance
+
+11   with the modified contract) was justified only if CFL generated 9+ pallet rates through its
+
+12   spot quote software. (See Mot. at 6.) AFS then argues that CFL failed to provide
+
+13   evidence that it did so. (See id. at 7-8.)
+
+14          AFS confuses the defense of contract modification with CFL’s burden on CFL’s
+
+15   breach of contract claim against AFS. It goes without saying that CFL does not bear the
+
+16   burden to prove an affirmative defense on CFL’s own claim. CFL’s burden to prove
+
+17   breach of contract was to prove that AFS breached the contract as modified. Any burden
+
+18   to prove that CFL failed to charge AFS the correct amount, and in doing so breached the
+
+19   contract, is properly on AFS for AFS’s breach counterclaim.
+
+20          Even if CFL had borne the burden on its affirmative breach claim to show that it
+
+21   properly billed AFS, there is sufficient evidence in the record from which a jury could
+
+22   have so found. Tom Botsios, CFL’s Executive Vice President of Operations, testified
+
+
+     ORDER - 15
+ 1   that CFL used its spot-quote program to bill these shipments, and that he personally
+
+ 2   observed CFL personnel pricing AFS’s 9+ pallet shipments using the spot quote program.
+
+ 3   (See Day 2 Tr. at 215-17.) Rob Harris, CFL’s rate auditor, testified that he audited CFL’s
+
+ 4   bills to all of CFL’s customers, including AFS. (See Day 3 Tr. at 401-30.) Mr. Harris
+
+ 5   testified that he trained both of the night clerks who input the data on how to rate the AFS
+
+ 6   large-volume shipments in accordance with CFL’s agreement with AFS, and audited the
+
+ 7   bills and did not find deviations from the way he trained them. (See id.) Mr. Harris
+
+ 8   further testified that he occasionally personally input the data for AFS 9+ pallet
+
+ 9   shipments into the spot quote program himself. (See id.) Doug Culbertson, CFL’s Vice
+
+10   President of Pricing during the relevant time period, testified that he observed CFL
+
+11   employees using the spot quote program to rate AFS’s 9+ pallet shipments, and
+
+12   performed an analysis of the shipments and concluded that the pricing was “remarkably
+
+13   consistent” for shipments of the same size and the same number of pallets. (See Day 2
+
+14   Tr. at 325-27.)
+
+15          Although AFS may disagree with the weight the jury may have given this
+
+16   evidence, the court must view the evidence and draw all reasonable inferences in favor of
+
+17   CFL—the party in whose favor the jury returned its verdict. See Ostad, 327 F.3d at 881.
+
+18   Therefore, even if the burden to prove that CFL accurately billed AFS was on CFL,
+
+19   which it is not, the court would conclude that a jury could have reasonably found that
+
+20   CFL met that burden.
+
+21   //
+
+22   //
+
+
+     ORDER - 16
+ 1             b. Sufficient Evidence for AFS’s Breach Counterclaim
+
+ 2          AFS’s arguments regarding contract modification and evidence that CFL properly
+
+ 3   billed AFS are issues that are more relevant to AFS’s counterclaim than CFL’s claim.
+
+ 4   However, because the court held on summary judgment that the parties modified the
+
+ 5   contract to allow CFL to spot-quote 9+ pallet shipments (see MSJ Order at 27, 32), at
+
+ 6   trial CFL no longer bore the burden to prove that modification occurred.
+
+ 7          On its counterclaim, AFS properly bore the burden to prove that CFL billed AFS
+
+ 8   more than the contract as modified allowed. As stated above, AFS fails to show that, in
+
+ 9   the light most favorable to CFL, the evidence permits only the conclusion that CFL
+
+10   overcharged AFS. AFS cites to no evidence that CFL overbilled AFS. Therefore, AFS
+
+11   fails to meet the Rule 50(a) standard for renewed judgment as a matter of law.
+
+12          2. CFL’s Evidence of a Settlement Agreement
+
+13          AFS argues that CFL presented no evidence that CFL’s payment of $112,203.52
+
+14   to AFS was in furtherance of a settlement agreement and argues that CFL’s majority
+
+15   owner and former president both agreed that “[t]here was no agreement.” (See Mot. at 8
+
+16   (citing Day 3 Tr. at 116:14-17, 120:11-25; Day 2 Tr. at 101:7-16).) CFL disputes AFS’s
+
+17   characterization of the evidence. (See Resp. at 5-6.) However, CFL points only to the
+
+18   testimony of Mr. Orr, a CFL witness, as evidence of a MBOL settlement agreement. (See
+
+19   id. (citing Day 3 Tr. at 119-20 (Mr. Orr testifying that “[t]here was no agreement because
+
+20   [Mr.] Piller wanted a much larger sum”); id. at 124-25 (Mr. Orr testifying that it was his
+
+21   “hope” that CFL’s MBOL payment would settle the parties’ MBOL dispute, but that he
+
+22   didn’t know if Mr. Piller agreed to a settlement)).)
+
+
+     ORDER - 17
+ 1          Mr. Orr’s testimony is insufficient to show that there was mutual assent as
+
+ 2   required to form a settlement agreement between CFL and AFS regarding the parties’
+
+ 3   MBOL dispute. Nevertheless, it is undisputed that CFL’s payment was in response to
+
+ 4   AFS’s demands regarding the MBOL issue. At trial, AFS failed to prove its counterclaim
+
+ 5   that the parties modified their contract to require CFL to use MBOLs for same day/same
+
+ 6   origin/same destination shipments. Accordingly, the jury could have reasonably found
+
+ 7   that CFL was entitled to recover the $112,203.52 payment as damages for AFS’s breach
+
+ 8   of contract even in the absence of a settlement agreement. Therefore, the evidence does
+
+ 9   not permit “only one reasonable conclusion” that is contrary to the jury’s verdict. See
+
+10   Ostad, 327 F.3d at 881.
+
+11   C.     Legal Standard for Motion for a New Trial
+
+12          The standard under which the court considers AFS’s motion for a new trial is
+
+13   distinct from the standards under which it considers AFS’s renewed motion for judgment
+
+14   as a matter of law. Under Rule 59(a)(1)(A), the “court may, on motion, grant a new trial
+
+15   on all or some of the issues—and to any party . . . after a jury trial, for any reason for
+
+16   which a new trial has heretofore been granted in an action at law in federal court.” Fed.
+
+17   R. Civ. P. 59(a)(1)(A). “Rule 59 does not specify the grounds on which a motion for new
+
+18   trial may be granted.” Molski v. M.J. Cable, Inc., 481 F.3d 724, 729 (9th Cir. 2007).
+
+19   Rather, the court is “bound by those grounds that have been historically recognized.” Id.
+
+20   “Historically recognized grounds include, but are not limited to, claims ‘that the verdict is
+
+21   against the weight of the evidence, that the damages are excessive, or that, for other
+
+22   reasons, the trial was not fair to the party moving.’” Id. (citation omitted).
+
+
+     ORDER - 18
+ 1          Courts apply a lower standard of proof to motions for new trial than they do to
+
+ 2   motions for judgment as a matter of law. Thus, even if the court declines to grant
+
+ 3   judgment as a matter of law, it may order a new trial under Rule 59. A verdict may be
+
+ 4   supported by substantial evidence, yet still be against the clear weight of evidence. Id.
+
+ 5   Unlike a motion for judgment as a matter of law, in addressing a motion for a new trial,
+
+ 6   “[t]he judge can weigh the evidence and assess the credibility of witnesses, and need not
+
+ 7   view the evidence from the perspective most favorable to the prevailing party.” Id.
+
+ 8   Instead, if, “having given full respect to the jury’s findings, the judge on the entire
+
+ 9   evidence is left with the definite and firm conviction that a mistake has been committed,”
+
+10   then the motion should be granted. Id. at 1371-72.
+
+11          However, a motion for new trial should not be granted “simply because the court
+
+12   would have arrived at a different verdict.” Pavao v. Pagay, 307 F.3d 915, 918 (9th Cir.
+
+13   2002); U.S. v. 40 Acres, 175 F.3d 1133, 1139 (9th Cir. 1999). Indeed, when a motion for
+
+14   a new trial is based on insufficiency of the evidence, “a stringent standard applies” and a
+
+15   “new trial may be granted . . . only if the verdict is against the great weight of the
+
+16   evidence” or “it is quite clear that the jury has reached a seriously erroneous result.”
+
+17   Digidyne Corp. v. Data Gen. Corp., 734 F.2d 1336, 1347 (9th Cir. 1984) (internal
+
+18   quotations and citations omitted). Further, the court should uphold a jury’s award of
+
+19   damages unless the award is based on speculation or guesswork. See City of Vernon v. S.
+
+20   Cal. Edison Co., 955 F.2d 1361, 1371 (9th Cir. 1992). Finally, the court notes that
+
+21   “denial of a motion for a new trial is reversible ‘only if the record contains no evidence in
+
+22   support of the verdict’ or if the district court ‘made a mistake of law.’” GoDaddy
+
+
+     ORDER - 19
+ 1   Software, Inc., 581 F.3d at 962 (citing Molski v. M.J. Cable, Inc., 481 F.3d 724, 729 (9th
+
+ 2   Cir. 2007)).
+
+ 3   D.     Grounds Raised for a New Trial
+
+ 4          AFS raises three issues in its motion for a new trial: (1) that CFL made
+
+ 5   misleading statements during closing argument (Mot. at 9-10); (2) that the jury
+
+ 6   instructions improperly shifted the burden to AFS to prove that CFL did not use its spot-
+
+ 7   quote software program (id. at 10-12); and (3) that the portions of the jury instructions
+
+ 8   regarding setoff denied AFS a fair trial (id. at 12-14). The court considers each in turn.
+
+ 9          1. CFL’s Closing Argument
+
+10          AFS argues that the jury’s verdict “was based on misrepresentations of fact by
+
+11   CFL” in a demonstrative that CFL showed to the jury during closing argument. (See
+
+12   Mot. at 9-10 (citing Demonstrative).) The Demonstrative outlined CFL’s claimed
+
+13   damages:
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+
+     ORDER - 20
+ 1   (Id.) 3 AFS argues that the jury arrived at its verdict of $2,472,227.10 (see Verdict Form
+
+ 2   at 2) in three steps: (1) adding the amount AFS failed to pay for 9+ pallet shipments
+
+ 3   ($1,781,158.01), 1-8 pallet shipments ($634,629.25), the MBOL set off amount
+
+ 4   ($431,028.00), and the amount AFS failed to pay based on alleged Tender ID defects
+
+ 5   ($36,038), to reach a top-line overcharge of $2,882,851.26; (2) adding CFL’s payment on
+
+ 6   the MBOL issue to AFS ($112,203.52); and (3) subtracting the amount CFL admitted it
+
+ 7   overcharged AFS ($522,827.68). (See Mot. at 9-10.) However, AFS argues that the
+
+ 8   evidence in the record does not support the top-line overcharge amount of $2,882,851.26.
+
+ 9   (See id.) AFS contends that CFL’s only evidence of the amount of its unpaid invoices to
+
+10   AFS is contained in Trial Exhibit No. 107, which reflects a setoff amount of
+
+11   $2,847,666.33, and Todd Militzer’s testimony that he saw another aging statement with
+
+12   $12,000 more in withholding. (See id. at 10 (citing Day 3 Tr. at 41:25-42:21).) AFS
+
+13   argues that the jury’s reliance on the erroneous demonstrative warrants a new trial. (See
+
+14   id.)
+
+15          CFL responds that (1) AFS waived any objection to CFL’s use of the
+
+16   demonstrative by not objecting to its use at trial; and (2) the numbers in the
+
+17   demonstrative are supported by evidence in the record. (See Resp. at 7.) CFL points to
+
+18   AFS’s audit spreadsheets (Original AFS Audit; Second AFS Audit) and AFS’s demand
+
+19   letter (Trial Ex. 18 (“Demand Letter”)) for the damages for the MBOL and Tender ID
+
+20   issues; Doug Culbertson’s damages analysis (Trial Ex. 123) for the damages for unpaid
+
+21
+            3
+             CFL used the same demonstrative during its opening statement, also without objection.
+22   (See Day 1 Tr. at 144-45.)
+
+
+     ORDER - 21
+ 1   invoices for 9+ and 1-8 pallet shipments; and states that the “CFL MBOL Payment to
+
+ 2   AFS” was undisputed. (See Resp. at 7.)
+
+ 3          The court instructed the parties at the pretrial conference that any demonstratives
+
+ 4   need to be shown to opposing counsel prior to their use at trial. (See PTC Tr. (Dkt.
+
+ 5   # 248) at 9.) CFL used the same demonstrative in its opening statement, and emailed
+
+ 6   AFS the evening before closing statements and stated “[w]e’re just using what we
+
+ 7   disclosed earlier in the week.” (See Willis Decl. (Dkt. # 303) ¶ 3, Ex. 2.) AFS did not
+
+ 8   object to CFL’s use of the demonstrative at any point during the trial. (See generally Day
+
+ 9   1 Tr.; Day 5 Tr.) By failing to object, AFS waived its right to later challenge CFL’s use
+
+10   of the demonstrative.
+
+11          Moreover, even if AFS had preserved its objection, sufficient evidence in the
+
+12   record supports the numbers CFL presented to the jury in its demonstrative. CFL witness
+
+13   Doug Culbertson calculated the amount AFS purportedly withheld based on an audit
+
+14   spreadsheet prepared and produced by AFS. (See Culbertson Analysis; 2nd AFS Audit.)
+
+15   Although AFS also produced a separate audit spreadsheet with a lower number, it is the
+
+16   duty of the jury, not the court, to weigh this conflicting evidence and reach a resolution.
+
+17   See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255 (1986) (“Credibility
+
+18   determinations, the weighing of the evidence, and the drawing of legitimate inferences
+
+19   from the facts are jury functions, not those of a judge, whether he is ruling on a motion
+
+20   for summary judgment or for a directed verdict.”). Based on the testimony of Mr.
+
+21   Culbertson and the Second AFS Audit, the jury could have reasonably concluded that the
+
+22   higher number was the proper amount to award CFL.
+
+
+     ORDER - 22
+ 1          AFS also states that CFL concedes that the higher number based on the Second
+
+ 2   AFS Audit is more than the amount AFS actually withheld. However, the evidence AFS
+
+ 3   points to for this assertion is ambiguous: Trial Exhibit 600, containing the parties’
+
+ 4   admitted facts, contains this statement from AFS: “However, [the Second AFS Audit]
+
+ 5   calculated the overcharge to be $2,415,787.27, more than the amount shown in [the
+
+ 6   Original AFS Audit] and the amount AFS set off from CFL.” (See Trial Ex. 600.) This
+
+ 7   statement is ambiguous and has at least two plausible interpretations:
+
+ 8             • The amount in the Second AFS Audit is more than the amount shown in the
+
+ 9                 Original AFS Audit, and the amount in the Second AFS Audit is “the
+
+10                 amount AFS set off from CFL.”; or
+
+11             • The amount in the Second AFS Audit is more than the amount shown in the
+
+12                 Original AFS Audit, and also more than the amount AFS set off from CFL.
+
+13          In either case, the jury was presented with two audit spreadsheets, and the court
+
+14   cannot say it was unreasonable for the jury to conclude that the Second AFS Audit
+
+15   contained the amount AFS set off. Therefore, CFL’s use of the demonstrative does not
+
+16   meet the “stringent standard” to show that the verdict is “against the great weight of the
+
+17   evidence” or that “it is quite clear that the jury has reached a seriously erroneous result,”
+
+18   see Digidyne Corp., 734 F.2d at 1347, and is not grounds for a new trial.
+
+19          2. Burden of Proof
+
+20          AFS argues that the court’s final jury instructions “improperly shifted to AFS the
+
+21   burden of proving that CFL did not use its spot quote software to generate rates for 9+
+
+22   pallet shipments.” (See Mot. at 10-12.) AFS contends that (1) because contract
+
+
+     ORDER - 23
+ 1   modification is an affirmative defense, and the party asserting modification has the
+
+ 2   burden of proof, the burden should have been on CFL to prove that CFL complied with
+
+ 3   the Agreement as modified, which in AFS’s view means proving that it used its spot-
+
+ 4   quote software to generate the volume rates that it billed AFS for 9+ pallet shipments
+
+ 5   (see id. at 11); and (2) that AFS should not have to “prove a negative” because CFL “had
+
+ 6   exclusive control of the information regarding use (or lack thereof) of its software.” (See
+
+ 7   id. (citing Jolliffe v. N. Pac. R. Co., 100 P. 977, 978 (Wash. 1909); United States v. New
+
+ 8   York, N.H. & H.R. Co., 355 U.S. 253, 256 n.5 (1957). Once again, AFS does not
+
+ 9   specifically state whether its claimed improper burden-shifting occurred in the
+
+10   instructions for CFL’s breach claim or AFS’s breach counterclaim, although it cites to an
+
+11   instruction for each. (See Mot. at 10-11 (citing Final Instr. Nos. 27, 32).)
+
+12          The court has already addressed the proper burdens of proof for CFL’s breach of
+
+13   contract claim and AFS’s breach of contract counterclaim. (See supra § III.B.1.) The
+
+14   instructions properly placed the burden of proving CFL’s breach claim (that AFS failed
+
+15   to pay CFL) on CFL, and the burden of proving AFS’s breach claim (that CFL
+
+16   overcharged AFS) on AFS. See Washington Pattern Civil Jury Instructions WPI 300.02
+
+17   (placing on the party claiming breach of contract the burden to prove that the defendant
+
+18   breached a term of a contract in the ways claimed by the plaintiff—in this case, by
+
+19   withholding payments to set off alleged prior overcharges).
+
+20          AFI relies on a “narrow exception” and argues that notwithstanding the ordinary
+
+21   burdens of proof set forth above and as expressed in the Washington Pattern Instructions,
+
+22   CFL should have borne the burden to prove that it used its spot-quote software to bill
+
+
+     ORDER - 24
+ 1   AFS accurately under the parties’ oral modification on 9+ pallet shipments. (See Mot. at
+
+ 2   11-12.) Under this narrow exception, when necessary information “is exclusively within
+
+ 3   the knowledge of one or the other of the parties, the burden would be on the party
+
+ 4   possessed of that knowledge to make the proof.” (See id. at 11 (quoting Jolliffe v. N. Pac.
+
+ 5   R. Co., 100 P. 977, 978 (Wash. 1909).) As the authority AFS relies on makes clear,
+
+ 6   however, “[t]his consideration should not be overemphasized” because “[n]early all
+
+ 7   required allegations of the plaintiff in actions for tort or breach of contract relating to the
+
+ 8   defendant’s acts or omissions describe matters particularly in the defendant’s
+
+ 9   knowledge.” 2 McCormick On Evid. § 337 (8th ed.). Here, the parties engaged in
+
+10   discovery for several years, and AFS does not explain why it could not have taken
+
+11   discovery, including depositions, of CFL employees with personal knowledge regarding
+
+12   CFL’s billing of AFS. Moreover, AFS maintained a sophisticated auditing system to
+
+13   ensure that carriers’ invoices were consistent with AFS’s contracts. 4
+
+14          In sum, the jury instructions properly placed the burdens on the respective parties
+
+15   to prove their claims and are not grounds for a new trial. However, even if CFL had
+
+16   properly borne the burden to prove that it used its spot-quote program to generate the
+
+17   volume rates for AFS’s 9+ pallet shipments, a reasonable jury could have found that CFL
+
+18   met that burden. (See supra § II.B.4.)
+
+19   //
+
+20
+            4
+              In its initial motion for judgment as a matter of law, AFS argued that CFL lacked
+21
+     evidence to prove that it used its spot-quote software program because the employees who did
+     not physically punch in the numbers into the system did not testify. However, AFS did not seek
+22   to depose any of these clerks.
+
+
+     ORDER - 25
+ 1          3. Jury Instructions Regarding Setoff
+
+ 2          AFS’s final argument ignores the court’s prior orders, the parties’ joint proposed
+
+ 3   jury instructions, and the parties’ stipulated facts. CFL maintained declaratory judgment
+
+ 4   and breach of contract claims based on AFS’s withholding of payments to set off alleged
+
+ 5   overcharges. (See FAC ¶¶ 131.F (seeking declaratory judgment that AFS “wrongfully
+
+ 6   withheld payments as purported set-off to the amounts it wrongfully claimed it overpaid),
+
+ 7   136.e (alleging in breach of contract claim that AFS “[w]rongfully withh[eld] payments
+
+ 8   as purported set-off to the amounts it wrongfully claimed it overpaid” to CFL).) The
+
+ 9   court granted summary judgment in favor of CFL on CFL’s declaratory judgment claim
+
+10   that AFS’s $2,856,602.00 setoff was improper. (See MSJ Order at 49.) The court held
+
+11   that AFS’s setoff was improper under both the Agreement and the common law. (See id.
+
+12   at 47-48 (“The court now concludes that the Agreement does not allow for setoff.”), 49
+
+13   (“The court concludes that AFS’s setoff was improper.”).)
+
+14          AFS now argues that the court should not have included the term “setoff” in the
+
+15   jury instructions, because “which party currently ‘holds the money’ is irrelevant to a
+
+16   determination of the underlying issues.” (See Mot. at 13.) AFS argues that “[i]f AFS
+
+17   breached the contract, it did so by failing to pay invoices properly issued for shipments
+
+18   made.” (See id.) AFS fails to explain any meaningful difference between the language it
+
+19   now proposes (“failing to pay invoices”) and the language it argues was improper
+
+20   (“withholding payment on shipments to set off alleged overcharges”). AFS takes issue
+
+21   with the court’s instruction that the contract “does not allow for setoff,” but fails to
+
+22   //
+
+
+     ORDER - 26
+ 1   explain how the jury would evaluate the case any differently if the instructions stated that
+
+ 2   the contract included a term that requires AFS to pay for shipments CFL billed to AFS.
+
+ 3          AFS’s argument is all the more perplexing because AFS proposed the “setoff”
+
+ 4   terminology that it now complains of multiple times in pretrial filings. (See, e.g., Prop.
+
+ 5   PTO at 12-14 (listing as an agreed issue of law “[w]hether AFS breached the oral
+
+ 6   agreement found by the Court by setting off funds for shipments that were rated pursuant
+
+ 7   to the oral agreement (i.e., those occupying 9 or more pallet spaces)”); Agreed Instr. at 62
+
+ 8   (jointly proposing that CFL bears the burden on its breach of contract claim to prove,
+
+ 9   among other elements, that “AFS breached the agreement by withholding as setoff
+
+10   money for shipments that were nine (9) or more pallet spaces in size”; and that “AFS
+
+11   should reimburse Central Freight for the amounts set off for the 9 or more pallets
+
+12   shipments.”).)
+
+13          Moreover, AFS’s attempts to distinguish “failing to pay” (which AFS now
+
+14   contends would have been proper language” and “withholding payment to set off” (which
+
+15   AFS now contends is improper) are unpersuasive. “Setoff” describes the purpose for
+
+16   which AFS withheld payment—a purpose that AFS stipulated to as an agreed fact. 5 (See
+
+17   Prop. PTO at 12-14) (stipulating that “AFS decided to withhold money it owed Central
+
+18   Freight for freight services rendered in order to ‘set off’ the $2,856,602 million it had
+
+19   demanded from Central Freight but that Central Freight refused to pay”).
+
+20
+            5
+              AFS’s attempt to define its withholding of payment as merely an issue of “who holds
+21
+     the money” while a dispute is resolved is unpersuasive. Neither party disputes that failing to pay
+     amounts owed is a breach of contract. AFS’s “holding” of the money (i.e. AFS’s failure to pay
+22   CFL) is precisely the substance of CFL’s breach of contract claim.
+
+
+     ORDER - 27
+ 1          AFS’s complaints that the jury instructions amounted to a directed verdict also
+
+ 2   ring hollow. AFS’s argument is based on a combination of the “setoff” language in the
+
+ 3   jury instructions and the fact that AFS stipulated that it withheld $2,856,602 from CFL to
+
+ 4   set off alleged overcharges. (See Joint Prop. Instr. Nos. 37; see also id. No. 38 (requiring
+
+ 5   CFL to prove “[t]had AFS breached the parties’ written Transportation Agreement by
+
+ 6   setting off more money than it was entitled to . . .”); No. 39 (requiring CFL to prove
+
+ 7   “[t]hat AFS breached the parties’ written contract by clawing back money for
+
+ 8   shipments . . .”); see also Prop. PTO at 8-12 (stipulating that “AFS decided to withhold
+
+ 9   money it owed Central Freight for freight services rendered in order to ‘set off’ the
+
+10   $2,856,602 million it had demanded from Central Freight but that Central Freight refused
+
+11   to pay”).)
+
+12          AFS’s argument that the instructions amounted to a directed verdict are
+
+13   inexplicable given that AFS proposed the very language it now complains of and the fact
+
+14   that along with that language, with full knowledge of the court’s summary judgment
+
+15   order, stipulated that it took the actions that constitute a breach of contract in its
+
+16   stipulated facts. Having admitted that it withheld payments as setoff and submitted
+
+17   proposed jury instructions that speak in terms of setoff, AFS cannot now complain that
+
+18   the jury instructions included “setoff” language that accurately reflects the court’s prior
+
+19   orders. (See Joint Prop. Instr. Nos. 37; see also id. Nos. 38 (proposing agreed instruction
+
+20   requiring CFL to prove “[t]had AFS breached the parties’ written Transportation
+
+21   Agreement by setting off more money than it was entitled to . . .”), 39 (proposed agreed
+
+22   instruction requiring CFL to prove “[t]hat AFS breached the parties’ written contract by
+
+
+     ORDER - 28
+ 1   clawing back money for shipments . . .”).) The fact that AFS conceded a fact that
+
+ 2   established liability under the proper jury instructions does not mean that those jury
+
+ 3   instructions were incorrect or unfair, and it is not grounds for a new trial.
+
+ 4                                       IV. CONCLUSION
+
+ 5          Based on the foregoing analysis, the court DENIES AFS’s renewed motion for
+
+ 6   judgment as a matter of law or for a new trial (Dkt. # 286).
+
+ 7          Dated this 21st day of February, 2020.
+
+ 8
+
+ 9                                                      A
+                                                        JAMES L. ROBART
+10
+                                                        United States District Judge
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+
+     ORDER - 29
+

@@ -1,0 +1,904 @@
+United States Bankruptcy Court for the District of New Jersey
+
+                                                                                                        For Court Use Only
+ Name of Debtor: Best Dedicated Solutions, LLC                                                          Claim Number:        0000010053
+
+ Case Number:          26-10262                                                                         File Date:           02/05/2026 13:15:10
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                                  04/25
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 Werner Enterprises Inc
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?         □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                         Where should payments to the creditor be sent? (if different)
+
+Name          Werner Enterprises Inc
+             ________________________________________________________                 Name        ________________________________________________________
+
+Address        39365 Treasury Crt
+              _______________________________________________________                 Address     _______________________________________________________
+
+              _______________________________________________________                             _______________________________________________________
+
+             _______________________________________________________                              _______________________________________________________
+
+             _______________________________________________________                             _______________________________________________________
+
+City           Chicago
+             _______________________________________________________                             _______________________________________________________
+                                                                                      City
+
+State          IL
+             ______________________                  60694
+                                           ZIP Code _______________________                      ______________________        ZIP Code _______________________
+                                                                                      State
+
+Country (if International): __________________________________________                Country (if International): __________________________________________
+
+Phone:       _______________________________________________________                  Phone:     _______________________________________________________
+              credit@werner.com
+Email:       _______________________________________________________                  Email:     _______________________________________________________
+Uniform claim identifier (if you use one): _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+4. Does this claim amend one already filed?                                           5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                                 □✔ No
+□ Yes.                                                                                □ Yes.
+     Claim number on court claims register (if known) _____________________              Who made the earlier filing?
+
+     Filed on ______________________________________________________                     _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                                   Page 1 of 3
+Part 2:      Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                         8. What is the basis of the claim?
+                                                      7. How much is the claim?
+    identify the debtor?                                 14,300.00
+                                                      $_______________________________________
+□
+✔ No
+                                                                                                             Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                             personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                                Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                                 Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                      charges?
+number you use to identify the debtor:                                                                       such as health care information.
+                                                      □ No
+    ___________________________________________
+                                                      □✔ Yes. Attach statement itemizing interest, fees,      Goods Sold/Services Performed (Trade)
+                                                                                                             _________________________________________________________
+                                                               expenses, or other charges required by
+                                                               Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                       10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                          □
+                                                                              ✔ No                                        □
+                                                                                                                          ✔ No
+□ Yes. The claim is secured by a lien on property.                            □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                              any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal              $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                               12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                                  under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                          ____________________________________                □
+                                                                              ✔ No
+                                                                                                                                               some categories, the law limits the
+                                                                                                                                               amount entitled to priority.
+Basis
+i     for perfection:                                                         □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                              □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,               child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that             □  Up to $3,800* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                                   rental of property or services for personal, family, or
+Value of property:                                $_____________________      household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:              $_____________________
+                                                                              □ Wages, salaries, or commissions (up to $17,150*)               $_____________________
+                                                                              earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________                 filed or the debtor’s business ends, whichever is earlier.
+(The sum of the secured and unsecured amounts should match the                11 U.S.C. § 507(a)(4).                                           $_____________________
+amount in line 7.)                                                            □ Taxes or penalties owed to governmental units.
+                                                                              11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                                   $_____________________
+default as of the date of the petition: $_____________________                □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                              507(a)(5).
+Annual Interest Rate (when case was filed)            ______________%                                                                          $_____________________
+                                                                              □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                                    □ Fixed □ Variable        (___________) that applies.
+                                                                              * Amounts are subject to adjustment on 4/01/28 and every 3 years after that for cases
+                                                                              begun on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                           Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Erica Chandler                                                                 02/05/2026 13:15:10
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                            Name      ______________________________________________________________________________________________
+
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                            City      _____________________________________________________________________________________________
+
+                            State      ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+
+                            Phone     _____________________________________________________________________________________________
+
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+                   Bill To                                          Remit To                                    Invoice Number
+  BEST DEDICATED SOLUTIONS, LLC                       WERNER LOGISTICS                                     WLM89131092
+  702 N DEERPATH DR                                   A SERVICE OF WERNER ENTERPRISES
+  VERNON HILLS, IL 60061                              39365 TREASURY CENTER                                     Invoice Date
+                                                      CHICAGO, IL 60694-9300                                    04-25-2025
+
+
+
+                   Shipper                                          Consignee                                   Due Date
+  RICHER V                                             FDC 945                                                  05-25-2025
+  822 UNION PACIFIC BLVD                               3046 BILL CRISP BLVD
+  LAREDO, TX 78045-9476                                FLORENCE, SC 29506-8249
+
+
+
+ Pick Up Date Delivery Date         Bill of Lading                          PO #                 Customer Ref #                Class
+  01-21-2025    01-23-2025                                                                  502464982|IDB61769|954
+
+
+        Equip Ref #                                                                                               Tour #
+                                                                                                           4001028440
+
+
+Stops                            Address                                           City                 State       Zip         Miles
+
+
+
+            Charge Description                       Weight        Qty           UOM      Rate                    Charges
+ LINEHAUL                                             44,000             1.00    FLT      2,800.000                    2,800.00
+
+
+                                                                                            Total Charges:         2,800.00 USD
+                                                                                                                 ==================
+Billing Comment:
+FB
+
+
+
+
+               Please reference our invoice number on your payment for proper credit ----     WLM89131092
+                  Please contact ARIEL SHELDON at billing@werner.com for any questions regarding this invoice.
+
+SCAC CODE: WVAS                                      Original Invoice
+                                     Carrier Rate and Load Confirmation
+                                                              BEST DEDICATED SOLUTIONS
+                                                              702 N. DEERPATH DR.
+                                                              VERNON HILLS, IL 60061
+                                                              Aaron Trujillo
+                                                              aaron.trujillo@stgusa.com
+
+
+
+
+Load Number: 954354                                          Carrier: WERNER ENTERPRISES, INC.
+                                                             Contact: CHELSEA WERNER ENTERPRISES, INC., (p)
+Date: 01/20/2025                                             (614)876-4918 (f) ( ) -
+Equipment Type: 53 V                                         Driver Info:
+USDOT / MC#: 53467 / MC138328                                Truck / Trailer Details:
+Carrier Sales Rep: Aaron Trujillo                            PO Number:
+Distance (Miles): 1,432.07                                   Other Carrier Capabilities:
+Expected Trailer Return Date:                                Special Instructions:
+Bill of Lading Number: 502464982                             BEST Trailer:
+
+Shipper Pickup (Stop 1)
+ Richer V                                                    Pickup Instructions:
+ 822 Union Pacific Blvd                                      Shipper References:
+ Laredo, TX US 78045                                         Pickup/Delivery Number: 502464982/idb61769
+ Expected Date: 01/21/2025
+ Appointment Required: No
+ Appointment Time: 14:00
+
+
+Consignee Delivery (Stop 2)
+ CLARIOS - FDC 945                                           Delivery Instructions:
+ 3046 BILL CRISP DR                                          Consignee References:
+ FLORENCE, SC US 29506                                       Pickup/Delivery Number: 502464982/idb61769
+ Expected Date: 01/23/2025
+ Appointment Required: No
+ Appointment Time:
+
+
+                                                 Shipment Information
+Handling Unit                       Package
+Qty            Type                 Qty   Type      Weight                   Commodity Description
+                                                    44800 lbs                BATTERIES
+                                                         Carrier Fees
+Description                                                                                                           Cost
+Net Freight Charges                                                                                          USD 2,800.00
+Total Cost                                                                                                  USD 2,800.00
+
+Drivers must call or email BEST DEDCIATED SOLUTIONS (“BDS”) dispatch with all communication: (847) 752-6071
+or dispatch@shipbds.com & your sales rep’s email. All route delays without communication prior to the stated 1st
+delivery appointment will incur a service fee penalty. Trailer must be clean, dry, odor free, with no holes & exclusive to
+this load. Driver must CHECK IN as Best Dedicated Solutions. Must pick up & deliver on time per rate confirmation
+times and instructions. Carriers are required to call Best Dedicated Solutions twice a day. In addition; carriers are
+responsible to call in to report pickup and delivery status. Please call BEST DEDICATED SOLUTIONS dispatch 24/7
+at (847) 752-6071 or after hours at EXT 1024. Any discrepancies such as overages, shortages, damages, trailer seal
+discrepancies or detention must be reported immediately. You may be required to pay for a lumper. BDS will
+reimburse with the receipt. If you request a lumper comcheck from BEST DEDICATED SOLUTIONS, there is a $15
+fee. Reimbursement pertaining to any accessorial charges must be reported within 24 hours of delivery, or subject to
+non-payment. Documentation & receipts must accompany carrier invoice in order to be reimbursed. This rate
+confirmation includes all stop-off charges, fuel surcharges, out of route, tolls, storage, and/or all arbitrary charges. No
+load may be double brokered, railed or service substituted. Failure to comply will result in rate reduction. BDS will only
+pay Carrier on rate confirmation. Invoices which are received by BDS more than FORTY-FIVE (45) days after
+DELIVERED services are performed will not be accepted for payment. Inquiries or claims for non-payment received by
+BROKER more than FORTY-FIVE DAYS (45) days after such invoices are due and payable will not be investigated,
+researched or paid. Directions supplied by BDS in any manner are for informational purposes only. Carrier is
+responsible for obtaining directions. It is the carrier's responsibility to lawfully operate a loaded vehicle of any weight,
+dimension, or commodity over any road, highway bridge, or route. Carrier shall solely be responsible for any citations,
+fines, and/or penalties delivering this load. If load parameters agreed upon between BDS and carrier are not fulfilled;
+BDS reserves the right to revise carrier rate commensurate with the service failure. Act of God events are excluded.
+This Rate Confirmation Sheet is a legally binding agreement between BEST DEDICATED SOLUTIONS and Carrier.
+No signature is required to enforce the provisions of this agreement; rather both parties accept the conditions
+contained herein upon Carrier’s partial or full performance for the shipment above. Any disputes arising out of this
+agreement shall be handled exclusively and solely under the laws and in the courts of the State of Illinois. Attorney fees
+may be recouped by the prevailing party. This agreement is subject to the terms of the Carrier Contract executed
+between the Carrier and BEST DEDICATED SOLUTIONS previously and constitutes an addendum to the Carrier
+Contract.
+
+IF YOU ARE HAULING A LOAD WITH A BDS TRAILER YOU MUST SIGN AND SUBMIT OUR
+EQUIPMENT USAGE AGREEMENT
+
+***PRE AND POST TRAILER INSPECTIONS ARE REQUIRED FOR ALL BDS TRAILERS***
+Trailer Inspection Form: https://shipbds.com/web-form/
+
+
+
+Thank you for accepting our tender. Driver's information is required before pick-up.
+
+
+SIGNATURE: _____________________________________________
+
+Driver Name/Cell: ________________________________________
+
+Truck/Trailer #: __________________________________________
+
+Load #: ________________________________________________
+EMAIL 30-DAY TERM INVOICES & DOCUMENTS REQUIRED TO: ap@shipbds.com
+EMAIL ONLY QUICK PAY INVOICES& DOCUMENTS TO: quickpay@shipbds.com
+
+Circle the option you’d like below.
+
+Quick Pay Options & Fees:
+Wire Transfer – Same Day: $40 wire fee and 10% Quick Pay fee
+ACH – Next Business Day: 5% Quick Pay fee **Must receive by 2PM CST
+ACH – 3 Day Quick Pay: 3% Quick Pay fee
+ACH – 10 Day Quick Pay: 2% Quick Pay fee
+**Voided check required for set up**
+Email a voided check to: quickpay@shipbds.com
+                   Bill To                                          Remit To                                    Invoice Number
+  BEST DEDICATED SOLUTIONS, LLC                       WERNER LOGISTICS                                     WLM91292150
+  702 N DEERPATH DR                                   A SERVICE OF WERNER ENTERPRISES
+  VERNON HILLS, IL 60061                              39365 TREASURY CENTER                                     Invoice Date
+                                                      CHICAGO, IL 60694-9300                                    04-25-2025
+
+
+
+                   Shipper                                          Consignee                                   Due Date
+  CWS CROSSDOCKING AND WAREHOUSE                       FDC 945                                                  05-25-2025
+  18712 METROPOLITAN RD                                3046 BILL CRISP BLVD
+  LAREDO, TX 78045                                     FLORENCE, SC 29506-8249
+
+
+
+ Pick Up Date Delivery Date         Bill of Lading                          PO #                 Customer Ref #                Class
+  01-22-2025    01-24-2025                                                                  954925|502630484|IDB61
+
+
+        Equip Ref #                                                                                               Tour #
+                                                                                                           4001028674
+
+
+Stops                            Address                                           City                 State       Zip         Miles
+
+
+
+            Charge Description                       Weight        Qty           UOM      Rate                    Charges
+ LINEHAUL                                             44,000             1.00    FLT      2,800.000                    2,800.00
+
+
+                                                                                            Total Charges:         2,800.00 USD
+                                                                                                                 ==================
+Billing Comment:
+FB
+
+
+
+
+               Please reference our invoice number on your payment for proper credit ----     WLM91292150
+                  Please contact ARIEL SHELDON at billing@werner.com for any questions regarding this invoice.
+
+SCAC CODE: WVAS                                      Original Invoice
+                                     Carrier Rate and Load Confirmation
+                                                              BEST DEDICATED SOLUTIONS
+                                                              702 N. DEERPATH DR.
+                                                              VERNON HILLS, IL 60061
+                                                              Aaron Trujillo
+                                                              aaron.trujillo@stgusa.com
+
+
+
+
+Load Number: 954925                                          Carrier: WERNER ENTERPRISES, INC.
+                                                             Contact: CHELSEA WERNER ENTERPRISES, INC., (p)
+Date: 01/22/2025                                             (614)876-4918 (f) ( ) -
+Equipment Type: 53 V                                         Driver Info:
+USDOT / MC#: 53467 / MC138328                                Truck / Trailer Details:
+Carrier Sales Rep: Aaron Trujillo                            PO Number:
+Distance (Miles): 1,432.07                                   Other Carrier Capabilities:
+Expected Trailer Return Date:                                Special Instructions:
+Bill of Lading Number: 502630484                             BEST Trailer:
+
+Shipper Pickup (Stop 1)
+ CWS1                                                        Pickup Instructions:
+ 18712 Metropolitan Rd                                       Shipper References:
+ LAREDO, TX US 78045                                         Pickup/Delivery Number: 502630484/idb61792
+ Expected Date: 01/22/2025
+ Appointment Required: No
+ Appointment Time: 16:00
+
+
+Consignee Delivery (Stop 2)
+ CLARIOS - FDC 945                                           Delivery Instructions:
+ 3046 BILL CRISP DR                                          Consignee References:
+ FLORENCE, SC US 29506                                       Pickup/Delivery Number: 502630484/idb61792
+ Expected Date: 01/24/2025
+ Appointment Required: No
+ Appointment Time: 14:00
+
+
+                                                 Shipment Information
+Handling Unit                       Package
+Qty            Type                 Qty   Type      Weight                   Commodity Description
+                                                    41000 lbs                BATTERIES
+                                                         Carrier Fees
+Description                                                                                                           Cost
+Net Freight Charges                                                                                          USD 2,800.00
+Total Cost                                                                                                  USD 2,800.00
+
+Drivers must call or email BEST DEDCIATED SOLUTIONS (“BDS”) dispatch with all communication: (847) 752-6071
+or dispatch@shipbds.com & your sales rep’s email. All route delays without communication prior to the stated 1st
+delivery appointment will incur a service fee penalty. Trailer must be clean, dry, odor free, with no holes & exclusive to
+this load. Driver must CHECK IN as Best Dedicated Solutions. Must pick up & deliver on time per rate confirmation
+times and instructions. Carriers are required to call Best Dedicated Solutions twice a day. In addition; carriers are
+responsible to call in to report pickup and delivery status. Please call BEST DEDICATED SOLUTIONS dispatch 24/7
+at (847) 752-6071 or after hours at EXT 1024. Any discrepancies such as overages, shortages, damages, trailer seal
+discrepancies or detention must be reported immediately. You may be required to pay for a lumper. BDS will
+reimburse with the receipt. If you request a lumper comcheck from BEST DEDICATED SOLUTIONS, there is a $15
+fee. Reimbursement pertaining to any accessorial charges must be reported within 24 hours of delivery, or subject to
+non-payment. Documentation & receipts must accompany carrier invoice in order to be reimbursed. This rate
+confirmation includes all stop-off charges, fuel surcharges, out of route, tolls, storage, and/or all arbitrary charges. No
+load may be double brokered, railed or service substituted. Failure to comply will result in rate reduction. BDS will only
+pay Carrier on rate confirmation. Invoices which are received by BDS more than FORTY-FIVE (45) days after
+DELIVERED services are performed will not be accepted for payment. Inquiries or claims for non-payment received by
+BROKER more than FORTY-FIVE DAYS (45) days after such invoices are due and payable will not be investigated,
+researched or paid. Directions supplied by BDS in any manner are for informational purposes only. Carrier is
+responsible for obtaining directions. It is the carrier's responsibility to lawfully operate a loaded vehicle of any weight,
+dimension, or commodity over any road, highway bridge, or route. Carrier shall solely be responsible for any citations,
+fines, and/or penalties delivering this load. If load parameters agreed upon between BDS and carrier are not fulfilled;
+BDS reserves the right to revise carrier rate commensurate with the service failure. Act of God events are excluded.
+This Rate Confirmation Sheet is a legally binding agreement between BEST DEDICATED SOLUTIONS and Carrier.
+No signature is required to enforce the provisions of this agreement; rather both parties accept the conditions
+contained herein upon Carrier’s partial or full performance for the shipment above. Any disputes arising out of this
+agreement shall be handled exclusively and solely under the laws and in the courts of the State of Illinois. Attorney fees
+may be recouped by the prevailing party. This agreement is subject to the terms of the Carrier Contract executed
+between the Carrier and BEST DEDICATED SOLUTIONS previously and constitutes an addendum to the Carrier
+Contract.
+
+IF YOU ARE HAULING A LOAD WITH A BDS TRAILER YOU MUST SIGN AND SUBMIT OUR
+EQUIPMENT USAGE AGREEMENT
+
+***PRE AND POST TRAILER INSPECTIONS ARE REQUIRED FOR ALL BDS TRAILERS***
+Trailer Inspection Form: https://shipbds.com/web-form/
+
+
+
+Thank you for accepting our tender. Driver's information is required before pick-up.
+
+
+SIGNATURE: _____________________________________________
+
+Driver Name/Cell: ________________________________________
+
+Truck/Trailer #: __________________________________________
+
+Load #: ________________________________________________
+EMAIL 30-DAY TERM INVOICES & DOCUMENTS REQUIRED TO: ap@shipbds.com
+EMAIL ONLY QUICK PAY INVOICES& DOCUMENTS TO: quickpay@shipbds.com
+
+Circle the option you’d like below.
+
+Quick Pay Options & Fees:
+Wire Transfer – Same Day: $40 wire fee and 10% Quick Pay fee
+ACH – Next Business Day: 5% Quick Pay fee **Must receive by 2PM CST
+ACH – 3 Day Quick Pay: 3% Quick Pay fee
+ACH – 10 Day Quick Pay: 2% Quick Pay fee
+**Voided check required for set up**
+Email a voided check to: quickpay@shipbds.com
+                   Bill To                                          Remit To                                      Invoice Number
+  BEST DEDICATED SOLUTIONS, LLC                       WERNER LOGISTICS                                       WLM91418368
+  702 N DEERPATH DR                                   A SERVICE OF WERNER ENTERPRISES
+  VERNON HILLS, IL 60061                              39365 TREASURY CENTER                                       Invoice Date
+                                                      CHICAGO, IL 60694-9300                                      04-25-2025
+
+
+
+                   Shipper                                          Consignee                                     Due Date
+  RICHER V                                             SJDC 936 CLARIOS                                           05-25-2025
+  822 UNION PACIFIC BLVD                               2330 SW LOWER LAKE RD
+  LAREDO, TX 78045-9476                                SAINT JOSEPH, MO 64504-9534
+
+
+
+ Pick Up Date Delivery Date         Bill of Lading                          PO #                   Customer Ref #                Class
+  01-27-2025    01-29-2025                                                                    952909
+
+
+        Equip Ref #                                                                                                 Tour #
+                                                                                                             4001046918
+
+
+Stops                            Address                                             City                 State       Zip         Miles
+
+
+
+            Charge Description                       Weight        Qty          UOM         Rate                    Charges
+ LINEHAUL                                             40,000             1.00   FLT         2,100.000                    2,100.00
+
+
+                                                                                              Total Charges:         2,100.00 USD
+                                                                                                                   ==================
+Billing Comment:
+FB
+
+
+
+
+               Please reference our invoice number on your payment for proper credit ----     WLM91418368
+                  Please contact ARIEL SHELDON at billing@werner.com for any questions regarding this invoice.
+
+SCAC CODE: WVAS                                      Original Invoice
+                   Bill To                                          Remit To                                      Invoice Number
+  BEST DEDICATED SOLUTIONS, LLC                       WERNER LOGISTICS                                       WLM98113988
+  702 N DEERPATH DR                                   A SERVICE OF WERNER ENTERPRISES
+  VERNON HILLS, IL 60061                              39365 TREASURY CENTER                                       Invoice Date
+                                                      CHICAGO, IL 60694-9300                                      04-25-2025
+
+
+
+                   Shipper                                          Consignee                                     Due Date
+  CWS CROSSDOCKING AND WAREHOUSE                       SJDC 936 CLARIOS                                           05-25-2025
+  18712 METROPOLITAN RD                                2330 SW LOWER LAKE RD
+  LAREDO, TX 78045                                     SAINT JOSEPH, MO 64504-9534
+
+
+
+ Pick Up Date Delivery Date         Bill of Lading                          PO #                   Customer Ref #                Class
+  02-14-2025    02-17-2025                                                                    963813|504846313|IDB62
+
+
+        Equip Ref #                                                                                                 Tour #
+                                                                                                             4001094379
+
+
+Stops                            Address                                             City                 State       Zip         Miles
+
+
+
+            Charge Description                       Weight        Qty          UOM         Rate                    Charges
+ LINEHAUL                                             40,000             1.00   FLT         2,100.000                    2,100.00
+
+
+                                                                                              Total Charges:         2,100.00 USD
+                                                                                                                   ==================
+Billing Comment:
+FB
+
+
+
+
+               Please reference our invoice number on your payment for proper credit ----     WLM98113988
+                  Please contact ARIEL SHELDON at billing@werner.com for any questions regarding this invoice.
+
+SCAC CODE: WVAS                                      Original Invoice
+                                     Carrier Rate and Load Confirmation
+                                                              BEST DEDICATED SOLUTIONS
+                                                              702 N. DEERPATH DR.
+                                                              VERNON HILLS, IL 60061
+                                                              Aaron Trujillo
+                                                              aaron.trujillo@stgusa.com
+
+
+
+
+Load Number: 963813                                          Carrier: WERNER ENTERPRISES, INC.
+                                                             Contact: CHELSEA WERNER ENTERPRISES, INC., (p)
+Date: 02/12/2025                                             (614)876-4918 (f) ( ) -
+Equipment Type: 53 V                                         Driver Info:
+USDOT / MC#: 53467 / MC138328                                Truck / Trailer Details:
+Carrier Sales Rep: Aaron Trujillo                            PO Number: IDB62135
+Distance (Miles): 971.84                                     Other Carrier Capabilities:
+Expected Trailer Return Date:                                Special Instructions:
+Bill of Lading Number: 504846313                             BEST Trailer:
+
+Shipper Pickup (Stop 1)
+ CWS1                                                        Pickup Instructions:
+ 18712 Metropolitan Rd                                       Shipper References:
+ LAREDO, TX US 78045                                         Pickup/Delivery Number: 504846313/IDB62135
+ Expected Date: 02/14/2025
+ Appointment Required: No
+ Appointment Time: 16:00
+
+
+Consignee Delivery (Stop 2)
+ SJDC 936                                                    Delivery Instructions:
+ 2330 Lower Lake Rd                                          Consignee References:
+ SAINT JOSEPH, MO US 64504-9534                              Pickup/Delivery Number: 504846313/IDB62135
+ Expected Date: 02/17/2025
+ Appointment Required: No
+ Appointment Time: 03:00
+
+
+                                                 Shipment Information
+Handling Unit                       Package
+Qty            Type                 Qty   Type      Weight                   Commodity Description
+                                                    44500 lbs                BATTERIES
+                                                         Carrier Fees
+Description                                                                                                           Cost
+Net Freight Charges                                                                                          USD 2,100.00
+Total Cost                                                                                                  USD 2,100.00
+
+Drivers must call or email BEST DEDCIATED SOLUTIONS (“BDS”) dispatch with all communication: (847) 752-6071
+or dispatch@shipbds.com & your sales rep’s email. All route delays without communication prior to the stated 1st
+delivery appointment will incur a service fee penalty. Trailer must be clean, dry, odor free, with no holes & exclusive to
+this load. Driver must CHECK IN as Best Dedicated Solutions. Must pick up & deliver on time per rate confirmation
+times and instructions. Carriers are required to call Best Dedicated Solutions twice a day. In addition; carriers are
+responsible to call in to report pickup and delivery status. Please call BEST DEDICATED SOLUTIONS dispatch 24/7
+at (847) 752-6071 or after hours at EXT 1024. Any discrepancies such as overages, shortages, damages, trailer seal
+discrepancies or detention must be reported immediately. You may be required to pay for a lumper. BDS will
+reimburse with the receipt. If you request a lumper comcheck from BEST DEDICATED SOLUTIONS, there is a $15
+fee. Reimbursement pertaining to any accessorial charges must be reported within 24 hours of delivery, or subject to
+non-payment. Documentation & receipts must accompany carrier invoice in order to be reimbursed. This rate
+confirmation includes all stop-off charges, fuel surcharges, out of route, tolls, storage, and/or all arbitrary charges. No
+load may be double brokered, railed or service substituted. Failure to comply will result in rate reduction. BDS will only
+pay Carrier on rate confirmation. Invoices which are received by BDS more than FORTY-FIVE (45) days after
+DELIVERED services are performed will not be accepted for payment. Inquiries or claims for non-payment received by
+BROKER more than FORTY-FIVE DAYS (45) days after such invoices are due and payable will not be investigated,
+researched or paid. Directions supplied by BDS in any manner are for informational purposes only. Carrier is
+responsible for obtaining directions. It is the carrier's responsibility to lawfully operate a loaded vehicle of any weight,
+dimension, or commodity over any road, highway bridge, or route. Carrier shall solely be responsible for any citations,
+fines, and/or penalties delivering this load. If load parameters agreed upon between BDS and carrier are not fulfilled;
+BDS reserves the right to revise carrier rate commensurate with the service failure. Act of God events are excluded.
+This Rate Confirmation Sheet is a legally binding agreement between BEST DEDICATED SOLUTIONS and Carrier.
+No signature is required to enforce the provisions of this agreement; rather both parties accept the conditions
+contained herein upon Carrier’s partial or full performance for the shipment above. Any disputes arising out of this
+agreement shall be handled exclusively and solely under the laws and in the courts of the State of Illinois. Attorney fees
+may be recouped by the prevailing party. This agreement is subject to the terms of the Carrier Contract executed
+between the Carrier and BEST DEDICATED SOLUTIONS previously and constitutes an addendum to the Carrier
+Contract.
+
+IF YOU ARE HAULING A LOAD WITH A BDS TRAILER YOU MUST SIGN AND SUBMIT OUR
+EQUIPMENT USAGE AGREEMENT
+
+***PRE AND POST TRAILER INSPECTIONS ARE REQUIRED FOR ALL BDS TRAILERS***
+Trailer Inspection Form: https://shipbds.com/web-form/
+
+
+
+Thank you for accepting our tender. Driver's information is required before pick-up.
+
+
+SIGNATURE: _____________________________________________
+
+Driver Name/Cell: ________________________________________
+
+Truck/Trailer #: __________________________________________
+
+Load #: ________________________________________________
+EMAIL 30-DAY TERM INVOICES & DOCUMENTS REQUIRED TO: BDSap@stgusa.com
+EMAIL ONLY QUICK PAY INVOICES& DOCUMENTS TO: BDSquickpay@stgusa.com
+
+Circle the option you’d like below.
+
+Quick Pay Options & Fees:
+Wire Transfer – Same Day: $40 wire fee and 10% Quick Pay fee
+ACH – Next Business Day: 5% Quick Pay fee **Must receive by 2PM CST
+ACH – 3 Day Quick Pay: 3% Quick Pay fee
+ACH – 10 Day Quick Pay: 2% Quick Pay fee
+**Voided check required for set up**
+Email a voided check to: BDSquickpay@stgusa.com
+                                     Carrier Rate and Load Confirmation
+                                                              BEST DEDICATED SOLUTIONS
+                                                              702 N. DEERPATH DR.
+                                                              VERNON HILLS, IL 60061
+                                                              Aaron Trujillo
+                                                              aaron.trujillo@stgusa.com
+
+
+
+
+Load Number: 965527                                          Carrier: WERNER ENTERPRISES, INC.
+                                                             Contact: CHELSEA WERNER ENTERPRISES, INC., (p)
+Date: 02/18/2025                                             (614)876-4918 (f) ( ) -
+Equipment Type: 53 V                                         Driver Info:
+USDOT / MC#: 53467 / MC138328                                Truck / Trailer Details:
+Carrier Sales Rep: Aaron Trujillo                            PO Number:
+Distance (Miles): 967.87                                     Other Carrier Capabilities:
+Expected Trailer Return Date:                                Special Instructions:
+Bill of Lading Number: 505562250                             BEST Trailer:
+
+Shipper Pickup (Stop 1)
+ CWS1                                                        Pickup Instructions:
+ 18712 Metropolitan Rd                                       Shipper References:
+ LAREDO, TX US 78045                                         Pickup/Delivery Number: 505562250/idb62246
+ Expected Date: 02/19/2025
+ Appointment Required: No
+ Appointment Time: 12:00
+
+
+Consignee Delivery (Stop 2)
+ SJDC 936                                                    Delivery Instructions:
+ 2330 Lower Lake Rd                                          Consignee References:
+ SAINT JOSEPH, MO US 64504-9534                              Pickup/Delivery Number: 505562250/idb62246
+ Expected Date: 02/21/2025
+ Appointment Required: No
+ Appointment Time: 18:00
+
+
+                                                 Shipment Information
+Handling Unit                       Package
+Qty            Type                 Qty   Type      Weight                   Commodity Description
+                                                    43900 lbs                BATTERIES
+                                                         Carrier Fees
+Description                                                                                                           Cost
+Net Freight Charges                                                                                          USD 2,100.00
+Total Cost                                                                                                  USD 2,100.00
+
+Drivers must call or email BEST DEDCIATED SOLUTIONS (“BDS”) dispatch with all communication: (847) 752-6071
+or dispatch@shipbds.com & your sales rep’s email. All route delays without communication prior to the stated 1st
+delivery appointment will incur a service fee penalty. Trailer must be clean, dry, odor free, with no holes & exclusive to
+this load. Driver must CHECK IN as Best Dedicated Solutions. Must pick up & deliver on time per rate confirmation
+times and instructions. Carriers are required to call Best Dedicated Solutions twice a day. In addition; carriers are
+responsible to call in to report pickup and delivery status. Please call BEST DEDICATED SOLUTIONS dispatch 24/7
+at (847) 752-6071 or after hours at EXT 1024. Any discrepancies such as overages, shortages, damages, trailer seal
+discrepancies or detention must be reported immediately. You may be required to pay for a lumper. BDS will
+reimburse with the receipt. If you request a lumper comcheck from BEST DEDICATED SOLUTIONS, there is a $15
+fee. Reimbursement pertaining to any accessorial charges must be reported within 24 hours of delivery, or subject to
+non-payment. Documentation & receipts must accompany carrier invoice in order to be reimbursed. This rate
+confirmation includes all stop-off charges, fuel surcharges, out of route, tolls, storage, and/or all arbitrary charges. No
+load may be double brokered, railed or service substituted. Failure to comply will result in rate reduction. BDS will only
+pay Carrier on rate confirmation. Invoices which are received by BDS more than FORTY-FIVE (45) days after
+DELIVERED services are performed will not be accepted for payment. Inquiries or claims for non-payment received by
+BROKER more than FORTY-FIVE DAYS (45) days after such invoices are due and payable will not be investigated,
+researched or paid. Directions supplied by BDS in any manner are for informational purposes only. Carrier is
+responsible for obtaining directions. It is the carrier's responsibility to lawfully operate a loaded vehicle of any weight,
+dimension, or commodity over any road, highway bridge, or route. Carrier shall solely be responsible for any citations,
+fines, and/or penalties delivering this load. If load parameters agreed upon between BDS and carrier are not fulfilled;
+BDS reserves the right to revise carrier rate commensurate with the service failure. Act of God events are excluded.
+This Rate Confirmation Sheet is a legally binding agreement between BEST DEDICATED SOLUTIONS and Carrier.
+No signature is required to enforce the provisions of this agreement; rather both parties accept the conditions
+contained herein upon Carrier’s partial or full performance for the shipment above. Any disputes arising out of this
+agreement shall be handled exclusively and solely under the laws and in the courts of the State of Illinois. Attorney fees
+may be recouped by the prevailing party. This agreement is subject to the terms of the Carrier Contract executed
+between the Carrier and BEST DEDICATED SOLUTIONS previously and constitutes an addendum to the Carrier
+Contract.
+
+IF YOU ARE HAULING A LOAD WITH A BDS TRAILER YOU MUST SIGN AND SUBMIT OUR
+EQUIPMENT USAGE AGREEMENT
+
+***PRE AND POST TRAILER INSPECTIONS ARE REQUIRED FOR ALL BDS TRAILERS***
+Trailer Inspection Form: https://shipbds.com/web-form/
+
+
+
+Thank you for accepting our tender. Driver's information is required before pick-up.
+
+
+SIGNATURE: _____________________________________________
+
+Driver Name/Cell: ________________________________________
+
+Truck/Trailer #: __________________________________________
+
+Load #: ________________________________________________
+EMAIL 30-DAY TERM INVOICES & DOCUMENTS REQUIRED TO: BDSap@stgusa.com
+EMAIL ONLY QUICK PAY INVOICES & DOCUMENTS TO: quickpay@stgusa.com
+
+Circle the option you’d like below.
+
+Quick Pay Options & Fees:
+Wire Transfer – Same Day: $40 wire fee and 10% Quick Pay fee
+ACH – Next Business Day: 5% Quick Pay fee **Must receive by 2PM CST
+ACH – 3 Day Quick Pay: 3% Quick Pay fee
+ACH – 10 Day Quick Pay: 2% Quick Pay fee
+**Voided check required for set up**
+Email a voided check to: quickpay@stgusa.com
+                                     Carrier Rate and Load Confirmation
+                                                              BEST DEDICATED SOLUTIONS
+                                                              702 N. DEERPATH DR.
+                                                              VERNON HILLS, IL 60061
+                                                              Aaron Trujillo
+                                                              aaron.trujillo@stgusa.com
+
+
+
+
+Load Number: 965638                                          Carrier: WERNER ENTERPRISES, INC.
+                                                             Contact: CHELSEA WERNER ENTERPRISES, INC., (p)
+Date: 02/25/2025                                             (614)876-4918 (f) ( ) -
+Equipment Type: 53 V                                         Driver Info:
+USDOT / MC#: 53467 / MC138328                                Truck / Trailer Details: Trl MP038 Truck 2005
+Carrier Sales Rep: Aaron Trujillo                            PO Number: IDE13332; IDE13328
+Distance (Miles): 967.93                                     Other Carrier Capabilities:
+Expected Trailer Return Date:                                Special Instructions:
+Bill of Lading Number: 505906068                             BEST Trailer:
+
+Shipper Pickup (Stop 1)
+ CLARIOS -- LAREDO 2                                         Pickup Instructions:
+ 822 Union Pacific Blvd                                      Shipper References:
+ Laredo, TX US 78045                                         Pickup/Delivery Number: 505906068/IDE13332; IDE13328
+ Expected Date: 02/25/2025
+ Appointment Required: No
+ Appointment Time:
+
+
+Consignee Delivery (Stop 2)
+ CLARIOS BDJC 16007                                          Delivery Instructions:
+ 2330 LOWER LAKE ROAD                                        Consignee References:
+ Saint Joseph, MO US 64504                                   Pickup/Delivery Number: 505906068/IDE13332; IDE13328
+ Expected Date: 02/28/2025
+ Appointment Required: No
+ Appointment Time: 02:00
+
+
+                                                 Shipment Information
+Handling Unit                       Package
+Qty            Type                 Qty   Type      Weight                   Commodity Description
+                                                    44500 lbs                BATTERIES
+                                                         Carrier Fees
+Description                                                                                                           Cost
+Net Freight Charges                                                                                               USD 0.00
+Accessorial Charges                                                                                            USD 150.00
+Total Cost                                                                                                    USD 150.00
+
+                                                         Fee Details
+Item Description                     Unit                         Quantity              Unit Price                    Total
+TONU                                 Fixed Cost                         1.00           USD 150.00              USD 150.00
+
+Drivers must call or email BEST DEDCIATED SOLUTIONS (“BDS”) dispatch with all communication: (847) 752-6071
+or dispatch@shipbds.com & your sales rep’s email. All route delays without communication prior to the stated 1st
+delivery appointment will incur a service fee penalty. Trailer must be clean, dry, odor free, with no holes & exclusive to
+this load. Driver must CHECK IN as Best Dedicated Solutions. Must pick up & deliver on time per rate confirmation
+times and instructions. Carriers are required to call Best Dedicated Solutions twice a day. In addition; carriers are
+responsible to call in to report pickup and delivery status. Please call BEST DEDICATED SOLUTIONS dispatch 24/7
+at (847) 752-6071 or after hours at EXT 1024. Any discrepancies such as overages, shortages, damages, trailer seal
+discrepancies or detention must be reported immediately. You may be required to pay for a lumper. BDS will
+reimburse with the receipt. If you request a lumper comcheck from BEST DEDICATED SOLUTIONS, there is a $15
+fee. Reimbursement pertaining to any accessorial charges must be reported within 24 hours of delivery, or subject to
+non-payment. Documentation & receipts must accompany carrier invoice in order to be reimbursed. This rate
+confirmation includes all stop-off charges, fuel surcharges, out of route, tolls, storage, and/or all arbitrary charges. No
+load may be double brokered, railed or service substituted. Failure to comply will result in rate reduction. BDS will only
+pay Carrier on rate confirmation. Invoices which are received by BDS more than FORTY-FIVE (45) days after
+DELIVERED services are performed will not be accepted for payment. Inquiries or claims for non-payment received by
+BROKER more than FORTY-FIVE DAYS (45) days after such invoices are due and payable will not be investigated,
+researched or paid. Directions supplied by BDS in any manner are for informational purposes only. Carrier is
+responsible for obtaining directions. It is the carrier's responsibility to lawfully operate a loaded vehicle of any weight,
+dimension, or commodity over any road, highway bridge, or route. Carrier shall solely be responsible for any citations,
+fines, and/or penalties delivering this load. If load parameters agreed upon between BDS and carrier are not fulfilled;
+BDS reserves the right to revise carrier rate commensurate with the service failure. Act of God events are excluded.
+This Rate Confirmation Sheet is a legally binding agreement between BEST DEDICATED SOLUTIONS and Carrier.
+No signature is required to enforce the provisions of this agreement; rather both parties accept the conditions
+contained herein upon Carrier’s partial or full performance for the shipment above. Any disputes arising out of this
+agreement shall be handled exclusively and solely under the laws and in the courts of the State of Illinois. Attorney fees
+may be recouped by the prevailing party. This agreement is subject to the terms of the Carrier Contract executed
+between the Carrier and BEST DEDICATED SOLUTIONS previously and constitutes an addendum to the Carrier
+Contract.
+
+IF YOU ARE HAULING A LOAD WITH A BDS TRAILER YOU MUST SIGN AND SUBMIT OUR
+EQUIPMENT USAGE AGREEMENT
+
+***PRE AND POST TRAILER INSPECTIONS ARE REQUIRED FOR ALL BDS TRAILERS***
+Trailer Inspection Form: https://shipbds.com/web-form/
+
+
+
+Thank you for accepting our tender. Driver's information is required before pick-up.
+
+
+SIGNATURE: _____________________________________________
+
+Driver Name/Cell: ________________________________________
+
+Truck/Trailer #: __________________________________________
+
+Load #: ________________________________________________
+EMAIL 30-DAY TERM INVOICES & DOCUMENTS REQUIRED TO: BDSap@stgusa.com
+EMAIL ONLY QUICK PAY INVOICES & DOCUMENTS TO: quickpay@stgusa.com
+
+Circle the option you’d like below.
+
+Quick Pay Options & Fees:
+Wire Transfer – Same Day: $40 wire fee and 10% Quick Pay fee
+ACH – Next Business Day: 5% Quick Pay fee **Must receive by 2PM CST
+ACH – 3 Day Quick Pay: 3% Quick Pay fee
+ACH – 10 Day Quick Pay: 2% Quick Pay fee
+**Voided check required for set up**
+Email a voided check to: quickpay@stgusa.com
+

@@ -1,0 +1,16 @@
+# 18_gov_audit_reports
+
+Generated from `data/catalogue.csv` on 2026-10-09. One line per file; the catalogue row holds the full record.
+
+| file_id | file | case / origin | doc no. | doc types | checks evidenced | real? | mode | dates | pages | text | URL | notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 18-099 | `gao_afmd-89-47_transportation_audits.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 1989–1989 | 16 | partial | https://www.gao.gov/assets/afmd-89-47.pdf | Aggregate audit findings, no sample bills: GAO 1989 transportation audits |
+| 18-100 | `gao_nsiad-92-157.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 1992–1992 | 18 | partial | https://www.gao.gov/assets/nsiad-92-157.pdf | Aggregate audit findings, no sample bills: GAO 1992 |
+| 18-101 | `gao_nsiad-92-61_dod_commercial_transportation.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 1991–1991 | 66 | partial | https://www.gao.gov/assets/nsiad-92-61.pdf | Aggregate audit findings, no sample bills: GAO 1991: savings through better audit and negotiation of rates |
+| 18-102 | `gao_t-nsiad-99-213.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 1999–1999 | 14 | partial | https://www.gao.gov/assets/t-nsiad-99-213.pdf | Aggregate audit findings, no sample bills: GAO 1999 testimony |
+| 18-103 | `gsa_oig_A120060_prepayment_audits.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 2013–2013 | 20 | yes | https://gsaig.gov/sites/default/files/audit-reports/A120060_1.pdf | Aggregate audit findings, no sample bills: GSA OIG prepayment audit programme |
+| 18-104 | `gsa_oig_A120169_postpayment_audits.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 2014–2014 | 22 | yes | https://www.gsaig.gov/sites/default/files/audit-reports/A120169_1.pdf | Aggregate audit findings, no sample bills: GSA OIG postpayment audit programme |
+| 18-105 | `dodig_d-2001-148.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 2001–2001 | 66 | yes | https://web.archive.org/web/20120916222040id_/http://www.dodig.mil/Audit/reports/fy01/01-148.pdf | Aggregate audit findings, no sample bills: DoD IG 2001 freight payment |
+| 18-106 | `dodig_d-2009-072.pdf` | GAO / GSA OIG / DoD IG |  | gov_audit_report | B2|B8|C1 | real | both | 2009–2009 | 30 | partial | https://web.archive.org/web/20120916052919id_/http://www.dodig.mil/Audit/reports/fy09/09-072.pdf | Aggregate audit findings, no sample bills: DoD IG 2009 transportation payments |
+| 18-107 | `USPS_OIG_22-202-R23_late_trip_payment_HCR.pdf` | USPS | 22-202-R23 | gov_audit_report | A1 math|D3 detention|F3 accrual | real | TL | 2021–2023-04 | 22 | yes | https://www.uspsoig.gov/sites/default/files/reports/2023-04/22-202-r23.pdf | $25.1M questioned costs in late-trip payments; sampling method is a model for an audit test. |
+| 18-108 | `USPS_OIG_20-295-R21_scheduled_hours_payments_HCR.pdf` | USPS | 20-295-R21 | gov_audit_report | A1 math|B7 TL mileage | real | TL | 2016–2021-05 | 17 | yes | https://www.uspsoig.gov/sites/default/files/reports/2023-01/20-295-R21.pdf | Scheduled hours vs paid on truckload mail routes. |

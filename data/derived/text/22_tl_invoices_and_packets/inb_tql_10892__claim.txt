@@ -1,0 +1,640 @@
+United States Bankruptcy Court for the Southern District of Texas
+
+                                                                                                     For Court Use Only
+ Name of Debtor: Corelle Brands LLC (f/k/a Instant Brands LLC)                                       Claim Number:        0000010892
+
+ Case Number:          23-90715                                                                      File Date:           03/25/2024 14:56:33
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 Total Quality Logistics, LLC
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+                                                TQL
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          Total Quality Logistics, LLC
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        Attn: Joseph B. Wells, Corporate Counsel
+              _______________________________________________________              Address     _______________________________________________________
+               4289 Ivy Pointe Blvd
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+              Cincinnati
+City          _______________________________________________________              City        _______________________________________________________
+               OH                                   45245
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+
+Country (if International): __________________________________________             Country (if International): __________________________________________
+              5134956193
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              jwells@tql.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           15,848.99
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       Other Basis
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by         Post-Petition Services
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □
+                                                                                                                    ✔ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □ No                                                             some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □
+                                                                        ✔ Yes. Check one:
+                                                                                                                                         Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).                                                         15,848.99
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                       □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                                                       ✔
+                                               □ Fixed □ Variable       (___________)
+                                                                          507(a)(2)     that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □
+                            ✔ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Joseph Brown Wells                                                             03/25/2024 14:56:33
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      Joseph Brown Wells, Corporate Counsel
+                            Name      ______________________________________________________________________________________________
+                                    Total Quality Logistics, LLC
+                            Address _____________________________________________________________________________________________
+                                      4289 Ivy Pointe Blvd
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Cincinnati,
+                            City      _____________________________________________________________________________________________
+                                      OH                                                    45245
+                            State     ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+                                      5134956193
+                            Phone     _____________________________________________________________________________________________
+                                       jwells@tql.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+                Corelle Brands LLC fka Instant Brands LLC (the “Debtor”)
+             United States Bankruptcy Court for the Southern District of Texas
+                                   Case No. 23-90715
+
+  ADDENDUM TO PROOF OF CLAIM FOR ADMINISTRATIVE EXPENSE CLAIM
+                OF TOTAL QUALITY LOGISTICS, LLC
+
+       The claimant, Total Quality Logistics, LLC (“TQL”), holds an administrative expense
+claim against the Debtor in the amount of $15,848.99 for logistics services provided by TQL to
+the Debtor after the Petition Date. An itemization of the amounts due and owing TQL by the
+Debtor for such post-petition logistics services is attached hereto and incorporated herein as
+Exhibit A. Copies of the relevant invoice(s) are attached hereto and incorporated herein as Exhibit
+B. TQL reserves the right to amend or supplement this proof of claim from time to time and at
+any time.
+                             EXHIBIT A
+
+Invoice No.   Invoice Date      Invoice    Balance Due
+                               Amount
+26531517A      12/27/2023      $1,853.77    $1,853.77
+ 26737009      1/26/2024       $2,649.95    $2,649.95
+ 26738303      1/26/2024       $1,857.32    $1,857.32
+ 26991046       2/5/2024       $1,147.15    $1,147.15
+ 26991047       2/5/2024       $2,155.17    $2,155.17
+ 26930059       2/6/2024       $2,027.25    $2,027.25
+ 26991045       2/6/2024       $1,339.92    $1,339.92
+ 26899996      2/16/2024       $2,007.25    $2,007.25
+ 27035969      2/19/2024        $811.21      $811.21
+  TOTAL                                    $15,848.99
+EXHIBIT B
+                                 REMIT PAYMENT TO:                                                      Invoice          26531517A
+                                 PO BOX 634558                                                          Date             12/27/2023
+                                 CINCINNATI, OH 45263-4558                                              Page             1 of 1
+
+                                 (Please reference #26531517A when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (12/14/2023)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              PEYTON'S MID SOUTH (PORTLAND, TN) (12/15/2023)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                   Trailer Size               Payment Terms
+Harrison L Reid                 10208855                  Van                              53 ft                        DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                   # of Cases                    Weight
+FTL                             No                        37                               3474                         25064
+Quantity        Customer PO No.                                 Description                                    Rate         UOM         Amount
+       1 [Load ID:168799693 ]         FREIGHT                                                               1,402.77000    EACH          $1,402.77
+           Blu-Jay (Instant Brands)
+       1                              UNLOADING                                                                   451.00000       EACH            $451.00
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                            Total USD                          $1,853.77
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                      Amounts not paid within 30 days of the date of
+                                                                                                          the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                   charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20231215
+                                 REMIT PAYMENT TO:                                                         Invoice        26737009
+                                 PO BOX 634558                                                             Date           01/11/2024
+                                 CINCINNATI, OH 45263-4558                                                 Page           1 of 1
+
+                                 (Please reference #26737009 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (01/08/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              PUBLIX SUPERMARKET - BLDG 2 (01/10/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                     Trailer Size                 Payment Terms
+Harrison L Reid                 10208855                  Van                              48 ft or 53 ft                  DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                     # of Cases                      Weight
+FTL                             No                        12                               737                             6428
+Quantity        Customer PO No.                                 Description                                       Rate         UOM          Amount
+       1 [Load ID:169695995]          FREIGHT                                                                  2,552.11000     Flat          $2,552.11
+           Blu-Jay (Instant Brands)
+       1 [Load ID:169695995]          UNLOADING                                                                     97.84000       Each              $97.84
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                              Total USD                          $2,649.95
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                        Amounts not paid within 30 days of the date of
+                                                                                                            the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                     charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240111-11
+                                 REMIT PAYMENT TO:                                                      Invoice          26738303
+                                 PO BOX 634558                                                          Date             01/22/2024
+                                 CINCINNATI, OH 45263-4558                                              Page             1 of 1
+
+                                 (Please reference #26738303 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (01/09/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              PUBLIX - DACULA LV WHSE (01/10/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                   Trailer Size                Payment Terms
+Harrison L Reid                 10208855                  Van                              53 ft                        DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                   # of Cases                     Weight
+FTL                             No                        34                               3481                         21158
+Quantity        Customer PO No.                                 Description                                    Rate         UOM          Amount
+       1 [Load ID:169695999]          FREIGHT                                                               1,640.27000     Flat          $1,640.27
+           Blu-Jay (Instant Brands)
+       1 [Load ID:169695999]          UNLOADING                                                                   217.05000       Each            $217.05
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                            Total USD                          $1,857.32
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                      Amounts not paid within 30 days of the date of
+                                                                                                          the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                   charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240119-13
+                                 REMIT PAYMENT TO:                                                         Invoice        26991046
+                                 PO BOX 634558                                                             Date           02/05/2024
+                                 CINCINNATI, OH 45263-4558                                                 Page           1 of 1
+
+                                 (Please reference #26991046 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (01/29/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              B WILHELM (WALDEN, NY) (01/30/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                     Trailer Size                 Payment Terms
+Harrison L Reid                 10208855                  Van                              48 ft or 53 ft                  DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                     # of Cases                      Weight
+FTL                             No                        15                               945                             9523
+Quantity        Customer PO No.                                 Description                                       Rate         UOM          Amount
+       1 [Load ID:170684674]          FREIGHT                                                                  1,147.15000     Flat          $1,147.15
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                              Total USD                          $1,147.15
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                        Amounts not paid within 30 days of the date of
+                                                                                                            the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                     charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240131
+                                 REMIT PAYMENT TO:                                                         Invoice        26991047
+                                 PO BOX 634558                                                             Date           02/05/2024
+                                 CINCINNATI, OH 45263-4558                                                 Page           1 of 1
+
+                                 (Please reference #26991047 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (01/30/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              POWER SALES & ADVERTISING (LENEXA, KS) (02/01/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                     Trailer Size                 Payment Terms
+Harrison L Reid                 10208855                  Van                              48 ft or 53 ft                  DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                     # of Cases                      Weight
+FTL                             No                        13                               595                             7729
+Quantity        Customer PO No.                                 Description                                       Rate         UOM          Amount
+       1 [Load ID:170684675]          FREIGHT                                                                  2,155.17000     Flat          $2,155.17
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                              Total USD                          $2,155.17
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                        Amounts not paid within 30 days of the date of
+                                                                                                            the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                     charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240201
+                                 REMIT PAYMENT TO:                                                        Invoice         26930059
+                                 PO BOX 634558                                                            Date            02/06/2024
+                                 CINCINNATI, OH 45263-4558                                                Page            1 of 1
+
+                                 (Please reference #26930059 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (01/30/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              IMPERIAL DISTRIBUTORS (WORCESTER,MA) (01/31/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                    Trailer Size                 Payment Terms
+Harrison L Reid                 10208855                  Van                             48 ft or 53 ft                  DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                    # of Cases                      Weight
+FTL                             No                        17                              1288                            10275
+Quantity        Customer PO No.                                 Description                                      Rate         UOM          Amount
+       1 [Load ID:170389493]          FREIGHT                                                                 1,517.25000     Flat          $1,517.25
+           Blu-Jay (Instant Brands)
+       1 [Load ID:170389493]          UNLOADING                                                                    510.00000       Each            $510.00
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                             Total USD                          $2,027.25
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                       Amounts not paid within 30 days of the date of
+                                                                                                           the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                    charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240204 20240206-92
+                                 REMIT PAYMENT TO:                                                        Invoice         26991045
+                                 PO BOX 634558                                                            Date            02/06/2024
+                                 CINCINNATI, OH 45263-4558                                                Page            1 of 1
+
+                                 (Please reference #26991045 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (01/29/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              PEYTONS NORTH (01/30/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                    Trailer Size                 Payment Terms
+Harrison L Reid                 10208855                  Van                             48 ft or 53 ft                  DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                    # of Cases                      Weight
+FTL                             No                        14                              1106                            7795
+Quantity        Customer PO No.                                 Description                                      Rate         UOM          Amount
+       1 [Load ID:170389495]          FREIGHT                                                                 1,147.92000     Flat          $1,147.92
+           Blu-Jay (Instant Brands)
+       1 [Load ID:170389495]          UNLOADING                                                                    192.00000       Each            $192.00
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                             Total USD                          $1,339.92
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                       Amounts not paid within 30 days of the date of
+                                                                                                           the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                    charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240205-25
+                                 REMIT PAYMENT TO:                                                        Invoice         26899996
+                                 PO BOX 634558                                                            Date            02/16/2024
+                                 CINCINNATI, OH 45263-4558                                                Page            1 of 1
+
+                                 (Please reference #26899996 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (02/08/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              IMPERIAL DISTRIBUTORS (WORCESTER,MA) (02/09/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                    Trailer Size                 Payment Terms
+Harrison L Reid                 10208855                  Van                             48 ft or 53 ft                  DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                    # of Cases                      Weight
+FTL                             No                        18                              0                               12658
+Quantity        Customer PO No.                                 Description                                      Rate         UOM          Amount
+       1 [Load ID:170809390]          FREIGHT                                                                 1,472.25000     Flat          $1,472.25
+           Blu-Jay (Instant Brands)
+       1 [Load ID:170809390]          UNLOADING                                                                    535.00000       Each            $535.00
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                             Total USD                          $2,007.25
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                       Amounts not paid within 30 days of the date of
+                                                                                                           the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                    charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240209
+                                 REMIT PAYMENT TO:                                                        Invoice         27035969
+                                 PO BOX 634558                                                            Date            02/19/2024
+                                 CINCINNATI, OH 45263-4558                                                Page            1 of 1
+
+                                 (Please reference #27035969 when making payment.)
+
+                                                                              PICKUPS
+                                                                              CORELLE BRANDS (GREENCASTLE, PA) (02/08/2024)
+
+
+
+Bill To:                                                                      DROPS
+                                                                              C & S WAREHOUSE BETHLEHEM PA (02/09/2024)
+ BLUJAY SOLUTIONS (INSTANT BRANDS)
+ 3025 HIGHLAND PARKWAY
+ SUITE 700
+ DOWNERS GROVE, IL 60515
+
+        Salesperson ID                 Customer ID                  Trailer Type                    Trailer Size                    Payment Terms
+Harrison L Reid                 10208855                  Van                             48 ft or 53 ft                     DUE UPON RCPT
+          Rate Type                    Hazmat Load                  # of Pallets                    # of Cases                         Weight
+FTL                             No                        31                              2592                               19046
+Quantity        Customer PO No.                                 Description                                         Rate         UOM          Amount
+       1 [Load ID:170865809]          FREIGHT                                                                      811.21000     Flat           $811.21
+           Blu-Jay (Instant Brands)
+
+
+
+
+                                    Pay and manage your invoices online with our free customer web
+                                    portal, TQL TRAX. Visit or Click TQL.com/TRAX to learn more.
+                                    Would you prefer to be paperless? Please email Accounting at
+                                    ACustomerQuestions@tql.com and we can begin invoicing you
+                                    via email or fax
+WE SUPPORT THE CREDIT INDUSTRY BY REPORTING ACCOUNTS RECEIVABLE INFORMATION DUN &
+BRADSTREET, ANSONIA CREDIT DATA, THE BLUE BOOK, RED BOOK, COMPUNET, & EXPERIAN                             Total USD                            $811.21
+               THANK YOU VERY MUCH FOR YOUR BUSINESS                                                       Amounts not paid within 30 days of the date of
+                                                                                                           the invoice are subject to a 1.5% monthly finance
+   ANY QUESTIONS OR CHANGE IN ADDRESS. PLEASE CALL US AT (513) 831-2600                                    charge.
+                      OR VISIT US AT WWW.TQL.COM
+
+
+
+
+20240212-13 20240213-91
+

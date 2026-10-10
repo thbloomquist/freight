@@ -1,0 +1,688 @@
+            Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 1 of 14
+                                                          PRIVILEGED AND
+                                                           CONFIDENTIAL
+                                                    ATTORNEY WORK PRODUCT
+                                                         DRAFT OF 4/18/2008
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF NEW YORK
+
+The United States of America
+
+               ex rel.
+
+Kevin Grupp and Robert Moll,
+
+                                Plaintiffs,
+
+       v.                                                            Civ. No.: __________
+
+DHL Express (USA), Inc.,
+DHL Worldwide Express, Inc., and
+DHL Holdings (USA), Inc.
+
+                                Defendants.
+
+
+
+                                              COMPLAINT
+
+               Plaintiff, the United States of America, ex rel. Kevin Grupp and Robert Moll,
+
+alleges as its Complaint against defendants as follows:
+
+
+                                              Introduction
+
+               1.        This is an action to recover damages, treble damages, and penalties on
+
+behalf of the United States of America on account of false and fraudulent claims made or caused
+
+to be made by defendants, their agents, employees, and co-conspirators, in violation of the
+
+Federal Civil False Claims Act, 31 U.S.C. § 3729, et seq., as amended (the “Act”). These
+
+violations involved the intentional submission of false claims to the United States of America,
+
+including several of its agencies or departments (including the Departments of Defense and
+
+Homeland Security), for the purpose of getting payments in excess of those to which defendants
+          Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 2 of 14
+
+
+
+were lawfully entitled for package delivery charges, namely, by including improper fuel
+
+surcharges.
+
+
+               2.      Defendants DHL Express (USA), Inc., DHL Worldwide Express, Inc., and
+
+DHL Holdings (USA), Inc. (collectively “DHL”), and their employees, agents, and
+
+co-conspirators on their behalf, submitted to the United States of America claims for delivery
+
+services that falsely and fraudulently: (a) misrepresented that air express packages were
+
+delivered by air when, in fact, they were delivered solely by ground transportation; (b) imposed
+
+jet fuel surcharges for packages that were delivered solely by ground transportation; and (c)
+
+imposed diesel fuel surcharges on ground delivery shipments when, in fact, only a small portion
+
+of those surcharge amounts was passed along to DHL’s independent contractor network of
+
+trucking companies who bought the relevant fuel. As a result of these knowingly false and
+
+fraudulent claims, DHL received payments from the United States of America that were inflated,
+
+excessive, and unearned.
+
+
+               3.      The Act provides that any person who knowingly submits or causes to be
+
+submitted, or conspires to submit, a false or fraudulent claim to the United States of America for
+
+payment or approval is liable for a civil penalty of between $5,500 and $11,000 for each false or
+
+fraudulent claim submitted or paid, plus three times the amount of damages sustained by the
+
+United States of America from the payment of such fraudulent claims. The Act’s Qui Tam
+
+provisions further allow any person having information regarding a false or fraudulent claim
+
+against the United States of America to bring an action for himself (as the “relator”) and for the
+
+United States of America, and to share in any recovery.
+
+
+
+                                               -2-
+          Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 3 of 14
+
+
+
+               4.      Based on these provisions of the Act, Kevin Grupp and Robert Moll, as
+
+plaintiffs/relators, seek to recover damages, treble damages, and civil penalties arising from false
+
+claims made to the United States of America that were knowingly presented or caused to be
+
+presented to, and were paid by, the United States of America as a result of the acts of DHL and
+
+its agents, employees, and co-conspirators.
+
+
+                                               Parties
+
+               5.      Plaintiff/relator, Kevin Grupp, is and was, at all times relevant to this
+
+Complaint, a resident of Clarence Center, New York and the County of Erie, within the Western
+
+District of New York. Kevin Grupp has personal knowledge of the facts alleged in this
+
+Complaint and is acquainted with DHL and its business practices.
+
+
+               6.      Plaintiff/relator, Robert Moll, is and was, at all times relevant to this
+
+Complaint, a resident of Orchard Park, New York and the County of Erie, within the Western
+
+District of New York. Robert Moll has personal knowledge of the facts alleged in this
+
+Complaint and is acquainted with DHL and its business practices.
+
+
+               7.      Kevin Grupp and Robert Moll own and operate MVP Delivery and
+
+Logistics, Inc. (“MVP”) – a trucking company located in Depew, New York that serves as an
+
+independent contractor to DHL.
+
+
+               8.      Grupp and Moll bring this action for violations of 31 U.S.C. sections 3729
+
+et seq. on behalf of themselves and the United States of America pursuant to 31 U.S.C. section
+
+3730(b)(1). The allegations of this action are based upon the personal knowledge of Grupp and
+
+Moll unless otherwise described as made upon information and belief.
+
+                                                -3-
+          Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 4 of 14
+
+
+
+                9.      Grupp and Moll are original sources of the factual allegations of this
+
+Complaint within the meaning of 31 U.S.C. section 3730(e)(4)(B) of the Act.
+
+
+                10.     Upon information and belief, defendant DHL Express (USA), Inc. is a
+
+corporation organized and existing under the laws of the State of Ohio with a principal office for
+
+the transaction of business located at 1200 South Pine Island Road, Plantation, Florida 33324.
+
+
+                11.     Upon information and belief, defendant DHL Worldwide Express, Inc. is a
+
+corporation organized and existing under the laws of the State of Ohio with a principal office for
+
+the transaction of business located at 1200 South Pine Island Road, Plantation, Florida 33324.
+
+
+                12.     Upon information and belief, defendant DHL Holdings (USA), Inc. is a
+
+corporation organized and existing under the laws of the State of Delaware with a principal
+
+office for the transaction of business located at 1200 South Pine Island Road, Plantation, Florida
+
+33324.
+
+
+                13.     The DHL defendants are subsidiaries of Duetsche Post World Net.
+
+
+                                        Jurisdiction and Venue
+
+                14.     DHL is doing business in this District and elsewhere in New York and is
+
+subject to this Court’s jurisdiction.
+
+
+                15.     Upon information and belief, DHL is authorized to do business in New
+
+York.
+
+
+
+
+                                                 -4-
+            Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 5 of 14
+
+
+
+               16.     This Court has jurisdiction over the subject matter of this action under
+
+28 U.S.C. section 1331 and 31 U.S.C. section 3732, both of which specifically confer
+
+jurisdiction on this Court for actions under the Act ( i.e., under 31 U.S.C. sections 3729 and
+
+3730).
+
+
+               17.     Venue is proper in this jurisdiction under 31 U.S.C. section 3732(a)
+
+because any one or all of the defendants can be found and/or transact business within the
+
+Western District of New York, and because violations of 31 U.S.C. sections 3729 and 3730
+
+alleged in the Complaint occurred within this judicial district. Venue is also proper pursuant to
+
+28 U.S.C. sections 1391(b) and (c).
+
+
+                                       Allegations of Fact
+
+               18.     At all relevant times, DHL was and is in the business of picking up and
+
+delivering items and packages for a fee.
+
+
+               19.     DHL does not use DHL-owned trucks or DHL employees to conduct
+
+about 65%-70% of the ground transportation of DHL packages. Instead, DHL uses a network of
+
+independent contractors who are required to use the DHL logo and are authorized to handle its
+
+packages.
+
+
+               20.     MVP, the corporation owned by Grupp and Moll, is such an independent
+
+contractor to DHL, providing package pick-up and delivery services in the Buffalo area.
+
+
+
+
+                                               -5-
+           Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 6 of 14
+
+
+
+               21.     The relationship among DHL, MVP, Grupp, and Moll is such that MVP,
+
+Grupp, and Moll qualify for the anti-retaliation protections of the Act, in addition to any
+
+common law or other remedies against retaliation by DHL.
+
+
+               22.     DHL, by agreements and with the approval of the United States of
+
+America, has been and/or is authorized, upon request, to pick up and deliver items for the United
+
+States of America, including deliveries for the benefit of the Departments of Defense, Homeland
+
+Security, and other departments and agencies.
+
+
+               23.     Over the last several years, DHL, under the terms of its agreements and
+
+contracts with Departments and agencies of the United States of America, picked up and
+
+delivered certain items under various terms and conditions expressly and particularly specified
+
+by the United States of America including, but not limited to, the places of pick up and delivery;
+
+the method or mode of transportation (e.g., by air or ground); and the time and date by which the
+
+items were to be delivered to their destination.
+
+
+               24.     Beginning in or about 2003 or 2004, DHL engaged in a practice whereby
+
+DHL misrepresented that all air express packages would travel by air when, in fact, many of
+
+them were actually transported solely via DHL’s truck hubs, or otherwise, using ground
+
+transportation. This practice is ongoing.
+
+
+               25.     Beginning in or about 2003 or 2004, after citing rising jet fuel costs, DHL
+
+represented the need for and began charging a jet fuel surcharge for air express deliveries
+
+irrespective of whether the delivered items were ever transported by air. This practice is
+
+ongoing.
+
+                                                   -6-
+          Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 7 of 14
+
+
+
+               26.     DHL’s jet fuel surcharge is currently 22%.
+
+
+               27.     In some instances, the particular contract between DHL and the United
+
+States caps DHL’s jet fuel surcharge at 7% for certain packages.
+
+
+               28.     Beginning in or about 2003 or 2004, with respect to its air express service,
+
+DHL computed its jet fuel surcharge, added it to the bills, and then charged it to, and was paid
+
+by, the United States of America. This practice is ongoing.
+
+
+               29.     A substantial percentage of DHL air express deliveries paid for by the
+
+United States government did not travel by air at all even though they included a jet fuel
+
+surcharge. Instead, they were transported via DHL’s truck hubs, or otherwise, using ground
+
+transportation. In these cases, the packages never flew by air through DHL’s sole air hub – in
+
+Wilmington, Ohio. This practice is ongoing.
+
+
+               30.     Over the last several years, many thousands of packages have been
+
+transported this way for DHL’s customers, both governmental and non-governmental.
+
+
+               31.     In 2004, DHL began adding to and expanding its network of regional
+
+truck (ground) hubs across the United States. In this way, DHL expanded its ability to transport
+
+shorter-distance packages, including air express packages, solely by ground, without the need for
+
+air trips through DHL’s Wilmington, Ohio air hub.
+
+
+               32.     To exemplify DHL’s practices: a package sent air express from Buffalo
+
+to Cleveland will not travel by air; instead, it will travel by truck from Buffalo to DHL’s Erie,
+
+Pennsylvania truck hub and, from there, by truck to Cleveland. Similarly, a package sent air
+
+
+                                                -7-
+          Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 8 of 14
+
+
+
+express from Washington, D.C. to Lorton, Virginia will not travel by air; instead, it will travel by
+
+truck from Washington to DHL’s Allentown, Pennsylvania truck hub and, from there, by truck to
+
+Virginia. DHL charges its air fuel surcharge in these situations.
+
+
+               33.     Beginning in or about 2003 or 2004, after citing rising fuel costs, DHL
+
+represented the need for and began charging a diesel fuel surcharge for non-air-express service
+
+notwithstanding the fact that, for 65-70% of pickups and deliveries, DHL’s independent
+
+contractors (like MVP) incurred the majority of fuel costs associated with DHL’s ground
+
+transportation service.
+
+
+               34.     In this way, DHL was able to extract diesel fuel surcharges from the
+
+United States and other customers under false pretenses.
+
+
+               35.     DHL’s diesel fuel surcharge for ground service is currently 6.3%.
+
+
+               36.     Beginning in or about 2003 or 2004, DHL computed its diesel fuel
+
+surcharge, added it to the bill, and then charged it to, and was paid by, the United States of
+
+America. This practice is ongoing.
+
+
+               37.     DHL has shared, and presently shares, only a small portion of fuel
+
+surcharges with its independent contractors.
+
+
+               38.     The United States of America, including the Departments of Defense,
+
+Homeland Security, and other departments and agencies, has paid and pays DHL for air transport
+
+when ground transport is used, has paid and pays DHL jet fuel surcharges when no jet fuel is
+
+
+
+
+                                                -8-
+          Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 9 of 14
+
+
+
+consumed, and has paid and pays DHL diesel fuel surcharges when DHL is not buying all of the
+
+diesel fuel.
+
+
+               39.     The fuel surcharge practices described in this complaint constitute
+
+“claims” for payment submitted under the Act and, in particular, under 31 U.S.C. 3729(c).
+
+
+               40.     Under the terms of its agreements and contracts with DHL, the United
+
+States of America, including the Departments of Defense, Homeland Security, and other
+
+departments and agencies, paid DHL monies demanded through DHL’s presentment of claims
+
+that contained jet fuel surcharges and diesel fuel surcharges.
+
+
+               41.     During the years at issue in this complaint, DHL and its employees,
+
+agents, and co-conspirators, knowingly presented or caused to be presented false and fraudulent
+
+claims to the United States of America, including the Departments of Defense, Homeland
+
+Security, and other departments and agencies, through the submission of requests for payment
+
+for deliveries that included jet fuel surcharges and diesel fuel surcharges.
+
+
+               42.     During the years at issue in this complaint, DHL and its employees,
+
+agents, and co-conspirators, knowingly made false records that directly resulted in improper
+
+and/or inflated payments being made by the United States of America for delivery services
+
+containing fuel surcharges.
+
+
+               43.     During the years at issue in this complaint, DHL and its employees
+
+conspired and agreed among themselves and with others, both known and unknown, to create
+
+and submit for payment to the United States of America, including the Departments of Defense,
+
+
+
+                                                -9-
+         Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 10 of 14
+
+
+
+Homeland Security, and other departments and agencies, false and fraudulent claims for payment
+
+with knowledge and intent to defraud the United States of America and, during the relevant
+
+period, performed acts in furtherance of such conspiracy that ultimately resulted in the United
+
+States of America overpaying DHL for delivery services.
+
+
+               44.     In particular, DHL submitted to the United States of America, including
+
+the Departments of Defense, Homeland Security, and other departments and agencies, claims for
+
+payment for delivery services that falsely and fraudulently represented: (a) that shipment was by
+
+air, (b) that jet fuel surcharges were properly incurred, and (c) that diesel fuel surcharges were
+
+needed to compensate DHL, when, in fact, DHL together with its agents, employees, and co-
+
+conspirators knew that these representations were untrue.
+
+
+               45.     In connection with the submission of such false and fraudulent claims,
+
+DHL, together with its agents, employees, and co-conspirators, created false delivery invoices to
+
+support its fraudulent claims to the United States of America.
+
+
+               46.     As a result, DHL obtained payment for amounts set forth in the false and
+
+fraudulent claims submitted by DHL when such payments were in excess of what DHL would
+
+have been entitled to receive if the mode of transportation and the justifications for, and
+
+applicability of, fuel surcharges were accurately and truthfully represented.
+
+
+               47.     Upon information and belief, some of the conduct at issue in this
+
+complaint was done by Airborne Express, Inc., which was bought and then merged into DHL in
+
+2003 or 2004. DHL, as the successor corporation, remains liable for this conduct.
+
+
+
+
+                                               - 10 -
+         Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 11 of 14
+
+
+
+                                             Count I
+
+                        Substantive Violations of the False Claims Act
+                             [31 U.S.C. §§ 3729(a)(1) and (a)(2)]
+
+               48.     Grupp and Moll repeat and reallege each allegation of numbered
+
+paragraphs 1 through __ of this Complaint as part of this First Cause of Action.
+
+
+               49.     DHL, together with its agents, employees, and co-conspirators, presented
+
+and caused to be presented to the United States of America, including the Departments of
+
+Defense, Homeland Security, and other departments and agencies, knowingly false and
+
+fraudulent claims for payment for delivery services and, as well, knowingly created and made
+
+false records in connection with such fraudulent and false submissions.
+
+
+               50.     As a result of the knowingly false and fraudulent claims submitted by
+
+DHL, together with its agents, employees, and co-conspirators, the United States of America,
+
+including the Departments of Defense, Homeland Security, and other departments and agencies,
+
+paid for air delivery when ground transportation was used, paid jet fuel surcharges where no air
+
+transportation was used, and paid diesel fuel surcharges when DHL was not purchasing or
+
+reimbursing the increased cost of all or most of the fuel used in its ground transport operations.
+
+
+               51.     As a result of DHL’s knowing conduct and fraudulent charging of the
+
+United States of America for delivery services that were not performed in the manner required or
+
+agreed to, the United States of America has overpaid or erroneously paid DHL substantial
+
+amounts of money, which total, at this time, is unknown but which can be expected to exceed
+
+several millions of dollars over the period relevant to this Complaint.
+
+
+
+                                               - 11 -
+           Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 12 of 14
+
+
+
+               52.    As a result of the knowingly fraudulent conduct of DHL together with that
+
+of its respective agents, employees, and co-conspirators, DHL is liable to the United States of
+
+America for the amount of the overpayments made to it, trebled, plus penalties, interest, and
+
+attorneys’ fees under the Act.
+
+
+                                            Count II
+
+                                 False Claims and Conspiracy
+                                   [31 U.S.C. § 3729(a)(3)]
+
+               53.    Grupp and Moll repeat and reallege each allegation contained in
+
+paragraphs 1 through __ of this Complaint as part of this Second Cause of Action.
+
+
+               54.    Beginning no later than 2003 or 2004, and possibly earlier, DHL and its
+
+employees knowingly conspired among themselves and with others, including DHL’s employees
+
+and agents, to defraud the United States of America by causing false and fraudulent claims to be
+
+submitted and by knowingly making and submitting claims for payment that falsely charged fuel
+
+surcharges; and further, by submitting claims for payment to the United States of America that
+
+DHL knew were false because DHL implied that certain items were transported by air when, in
+
+fact, such items were entirely transported by trucks or other ground transportation. In addition,
+
+DHL engaged in its scheme to collect improper diesel fuel surcharges.
+
+
+               55.    In furtherance of the conspiracy, DHL entered into contracts for the
+
+transportation of items and created other records and documents substantiating such information,
+
+knowing that information to be false and untrue, with the intent to defraud the United States of
+
+America.
+
+
+
+                                              - 12 -
+         Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 13 of 14
+
+
+
+               56.      Based upon the false and fraudulent claims submitted by DHL, the United
+
+States of America paid DHL in excess of what it was entitled to for the services it provided under
+
+the terms of its contracts with the United States of America.
+
+
+               57.      As a result, the United States of America has sustained substantial
+
+damages directly related to overpayments made to DHL based upon false and fraudulent claims,
+
+and DHL is therefore liable to the United States of America for the amount of such
+
+overpayments made to it, trebled, together with penalties, interest, and the costs of this action,
+
+including attorneys’ fees, as provided for by the Act.
+
+
+                                           Jury Demand
+
+               58.      Grupp and Moll demand a jury on all issues and matters triable by a jury
+
+under this Complaint.
+
+
+                                         Relief Requested
+
+               WHEREFORE, the United States of America ex rel. Kevin Grupp and Robert
+
+Moll demands judgment against DHL as follows:
+
+
+               a)       On the first cause of action, for treble damages under 31 U.S.C.
+                        § 3729(a)(1) and (a)(2) in an amount to be determined at trial, plus
+                        penalties, costs, interest, and attorneys’ fees;
+
+               b)       On the second cause of action, for treble damages under 31 U.S.C.
+                        § 3729(a)(3) in an amount to be determined at trial, plus penalties, costs,
+                        interest, and attorneys’ fees;
+
+               c)       On the first and second causes of action, for the damages sustained by the
+                        United States of America; and
+
+               d)       For award of such other and further relief as this Court deems proper as a
+                        matter of law or under the False Claims Act, 31 U.S.C. §§ 3729 et seq.
+
+
+                                                - 13 -
+            Case 1:08-cv-00301-JTC Document 1 Filed 04/18/08 Page 14 of 14
+
+
+
+
+Dated:             Buffalo, New York
+                   April 18, 2008
+
+                                                 HODGSON RUSS LLP
+                                                 Attorneys for Kevin Grupp and Robert Moll
+
+                                                 By:    s/Daniel C. Oliverio
+                                                        Daniel C. Oliverio, Esq.
+                                                        Joseph V. Sedita, Esq.
+                                                        John L. Sinatra, Jr., Esq.
+                                                 140 Pearl Street, Suite 100
+                                                 Buffalo, New York 14202-4040
+                                                 Telephone: (716) 856-4000
+
+
+
+
+                                        - 14 -
+
+
+000161/01258 BFLODOCS 2265352v5
+

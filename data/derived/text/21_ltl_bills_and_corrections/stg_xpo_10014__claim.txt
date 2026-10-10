@@ -1,0 +1,612 @@
+United States Bankruptcy Court for the District of New Jersey
+
+                                                                                                        For Court Use Only
+ Name of Debtor: STG Logistics, Inc.                                                                    Claim Number:        0000010014
+
+ Case Number:          26-10258                                                                         File Date:           01/26/2026 17:17:05
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                                  04/25
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 XPO Logistics Freight, Inc.
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?         □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                         Where should payments to the creditor be sent? (if different)
+
+              XPO Logistics Freight, Inc.                                                         XPO Logistics Freight, Inc.
+Name         ________________________________________________________                 Name        ________________________________________________________
+               9151 Boulevard 26 Bldg A                                                           2211 Old Earhart Road
+Address       _______________________________________________________                 Address     _______________________________________________________
+               Bankruptcy Dept
+              _______________________________________________________                             _______________________________________________________
+
+             _______________________________________________________                              _______________________________________________________
+
+             _______________________________________________________                             _______________________________________________________
+               North Richland Hills                                                                Ann Arbor
+City         _______________________________________________________                  City       _______________________________________________________
+
+State          TX
+             ______________________                  76180
+                                           ZIP Code _______________________                        MI
+                                                                                                 ______________________                  48105
+                                                                                                                               ZIP Code _______________________
+                                                                                      State
+                            United States of America
+Country (if International): __________________________________________                                            United States of America
+                                                                                      Country (if International): __________________________________________
+              8178125323                                                                          8178125323
+Phone:       _______________________________________________________                  Phone:     _______________________________________________________
+              Bankruptcy@xpo.com                                                                  Bankruptcy@xpo.com
+Email:       _______________________________________________________                  Email:     _______________________________________________________
+Uniform claim identifier (if you use one): _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+4. Does this claim amend one already filed?                                           5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                                 □✔ No
+□ Yes.                                                                                □ Yes.
+     Claim number on court claims register (if known) _____________________              Who made the earlier filing?
+
+     Filed on ______________________________________________________                     _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                                   Page 1 of 3
+Part 2:      Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                         8. What is the basis of the claim?
+                                                      7. How much is the claim?
+    identify the debtor?                                 4,732.12
+                                                      $_______________________________________
+□ No                                                                                                         Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                             personal injury or wrongful death, or credit card. Attach redacted
+□
+✔ Yes.                                                Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                                 Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                      charges?
+number you use to identify the debtor:                                                                       such as health care information.
+                                                      □✔ No
+          7288
+    ___________________________________________
+                                                      □ Yes. Attach statement itemizing interest, fees,       Goods Sold/Services Performed (Trade)
+                                                                                                             _________________________________________________________
+                                                               expenses, or other charges required by
+                                                               Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                       10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                          □
+                                                                              ✔ No                                        □
+                                                                                                                          ✔ No
+□ Yes. The claim is secured by a lien on property.                            □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                              any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal              $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                               12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                                  under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                          ____________________________________                □
+                                                                              ✔ No
+                                                                                                                                               some categories, the law limits the
+                                                                                                                                               amount entitled to priority.
+Basis
+i     for perfection:                                                         □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                              □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,               child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that             □  Up to $3,800* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                                   rental of property or services for personal, family, or
+Value of property:                                $_____________________      household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:              $_____________________
+                                                                              □ Wages, salaries, or commissions (up to $17,150*)               $_____________________
+                                                                              earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________                 filed or the debtor’s business ends, whichever is earlier.
+(The sum of the secured and unsecured amounts should match the                11 U.S.C. § 507(a)(4).                                           $_____________________
+amount in line 7.)                                                            □ Taxes or penalties owed to governmental units.
+                                                                              11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                                   $_____________________
+default as of the date of the petition: $_____________________                □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                              507(a)(5).
+Annual Interest Rate (when case was filed)            ______________%                                                                          $_____________________
+                                                                              □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                                    □ Fixed □ Variable        (___________) that applies.
+                                                                              * Amounts are subject to adjustment on 4/01/28 and every 3 years after that for cases
+                                                                              begun on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                           Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         LaTricia Hemphill                                                              01/26/2026 17:17:05
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                            Name      ______________________________________________________________________________________________
+
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                            City      _____________________________________________________________________________________________
+
+                            State      ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+
+                            Phone     _____________________________________________________________________________________________
+
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+                                                                                                                       LTL INVOICE#         271-432501
+
+
+               DUNS# 08-043-1863 FED TAX ID# 94-2904084
+
+
+                                                                                                                                                                B
+ CORRESPONDENCE:                     CUSTOMER SERVICE:                                                           STG LOGISTICS: NORTH BERGEN FA                 I
+ PO BOX 982020                       PHONE 1-800-755-2728
+                                                                                                                                                                L
+ N. RICHLAND HILLS, TX 76182         EMAIL LTLCCG@XPO.COM
+                                                                                                                 6801 WEST SIDE AVE                             L
+ VISIT OUR WEBSITE at ltl.xpo.com/billing                                                                        NORTH BERGEN, NJ 07047                         T
+                                                                                                                 US                                             O
+
+                                                                                                                                                  SHIPMENT
+SHIPPER                                            CONSIGNEE                                          CUSTOMER NUMBERS
+                                                                                                                                                  DATE
+
+ STG LOGISTICS: NORTH BERGEN FA                     ATLANTIC METALS & ALLOYS INC                      SN# BG1069208425                            12/23/2025
+                                                                                                      BM BG1069208425
+ 6801 WEST SIDE AVE                                 100 BENTON ST UNIT D
+                                                                                                      SI BG1069208425
+ NORTH BERGEN, NJ, 07047                            STRATFORD, CT, 06615-7310
+                                                                                                      TN 8093600
+ US                                                 US
+
+
+PCS            DESCRIPTION OF ARTICLES AND MARKS                                             WEIGHT (lbs)               RATE            CHARGES
+
+5              PLT BISMUTH INGOTS 133800 CLASS 60                                                     10,315            53.33            $5,500.99
+               XPO LOGISTICS DISCOUNT SAVES YOU                                                                                         -$4,675.84
+               FSC FUEL SURCHARGE 30.50%                                                                                                   $251.67
+               OCF ORIG CONTAINER FREIGHT STATION                                                                                          $880.00
+               CBR REWEIGH OF SHIPMENT FEE                                                                                                  $47.85
+
+5              TOTAL                                                                                  10,315                          US $2,004.67 PREPAID
+
+
+DO NOT STACK/TOP LOAD DO NOT BREAK DOWN PALLET 5 PLT REWEIGHED PER WEIGHT CERTIFICATE
+
+
+
+
+                                                          *** PAYMENT IS DUE BY 12/29/2025 ***
+                                               DELINQUENT BALANCES ARE SUBJECT TO LATE FEES AS REFERENCED IN TARIFF 199.
+
+
+Remit To                        For ACH or Wire in USD
+XPO                             XPO Logistics Freight, Inc.
+PO Box 660006                   Wells Fargo
+Dallas, TX 75266-0006           Routing #: 121000248
+                                SWIFT Code: WFBIUS6S
+                                Account #: 4943582890
+                                                                                                      TOTAL DUE:                    US $2,004.67
+
+                                                                                                      LTL INVOICE#                  271-432501
+                                                                                                      TOTAL DUE:                    US $2,004.67
+               DUNS# 08-043-1863 FED TAX ID# 94-2904084
+
+PLEASE RETURN THIS STUB WITH YOUR PAYMENT                                           If payment is not in full please explain:
+
+
+
+REMIT TO:
+XPO
+PO Box 660006                                                                       For changes of address, complete the form at the end of this document and mail
+
+Dallas, TX 75266-0006                                                               it along with this remit stub.
+
+
+
+                                                                                                                      271432501 0200467 4
+
+                                                                         Page
+                                                                         Page11of
+                                                                                of22
+                                                                                   5
+Page
+Page22of
+       of22
+          5
+Page
+Page33of
+       of22
+          5
+Page
+Page44of
+       of22
+          5
+                                       Page 1 of 1                                                                                                  Pro Number
+Delivery Receipt                     www.xpo.com
+                                                                                CNWY                                                                271-432501
+
+Equip Number          Date                       Origin                   Destination        Our Revenue          Advance            Beyond        Route
+463-1422              12/23/2025                 XCV                      XBP                                                                      STR-2
+Consignee                                              Shipper                                          Bill To                               Appointment
+
+
+ATLANTIC METALS & ALLOYS INC                           STG LOGISTICS: NORTH BERGEN FA
+100 BENTON ST UNIT D                                   6801 WEST SIDE AVE
+STRATFORD, CT US 06615-7310                            NORTH BERGEN, NJ US 07047
+Shipment Numbers
+BM BG1069208425, SI BG1069208425, SN# BG1069208425, TN 8093600
+HM     PCS Description of Articles and Remarks                                                                                       Weight      Rate          Charges
+           5   PALLET BISMUTH INGOTS 133800 CLASS 60                                                                                  10315
+               OCF ORIG CONTAINER FREIGHT STATION
+               CBR REWEIGH OF SHIPMENT FEE
+           5   TOTAL                                                                                                                  10315                          PPD
+               CHILD PRO #'s: 2346-563892, 2346-563870, 2346-563881, 2217-432501, 2346-563866
+               DO NOT STACK/TOP LOAD DO NOT BREAK DOWN PALLET 5 PLT REWEIGHED PER WEIGHT
+               CERTIFICATE
+               Driver Notes
+
+Received                   ☐ Inside Delivery             ☐ Residential Delivery   Shrink Wrap Intact?               Driver Name                  Date
+           PIECES ABOVE.                                                                                            RICK G                              12/29/2025
+                           ☐ Liftgate Service            ☐ Construction Util.     ☒ Yes    ☐ No    ☐ N/A
+     DESCRIBED FREIGHT
+           IN GOOD ORDER   Delivered                     Time                     Consignee Signature               Consignee Name               Date
+      EXCEPT AS NOTED.
+                                                5 Of 5            09:13                                             ANTHONY ELEM                        12/29/2025
+
+SUBJECT TO TERMS AND CONDITIONS HEREIN, AND TARIFF CNWY-199 IN EFFECT ON DATE OF SHIPMENT.
+
+
+
+
+                                                                                   Page
+                                                                                   Page55of
+                                                                                          of22
+                                                                                             5
+                                                                                                                       LTL INVOICE#         271-432453
+
+
+               DUNS# 08-043-1863 FED TAX ID# 94-2904084
+
+
+                                                                                                                                                                B
+ CORRESPONDENCE:                     CUSTOMER SERVICE:                                                           STG LOGISTICS: NORTH BERGEN FA                 I
+ PO BOX 982020                       PHONE 1-800-755-2728
+                                                                                                                                                                L
+ N. RICHLAND HILLS, TX 76182         EMAIL LTLCCG@XPO.COM
+                                                                                                                 6801 WEST SIDE AVE                             L
+ VISIT OUR WEBSITE at ltl.xpo.com/billing                                                                        NORTH BERGEN, NJ 07047                         T
+                                                                                                                 US                                             O
+
+                                                                                                                                                  SHIPMENT
+SHIPPER                                            CONSIGNEE                                          CUSTOMER NUMBERS
+                                                                                                                                                  DATE
+
+ STG LOGISTICS: NORTH BERGEN FA                     DUPONT                                            PO# ONEYTYOFL1784700                        12/18/2025
+                                                                                                      PO DMALTYOA73891
+ 6801 WEST SIDE AVE                                 111 HAYES MEMORIAL DRIVE
+                                                                                                      PO# 232514495
+ NORTH BERGEN, NJ, 07047                            MARLBOROUGH, MA, 01752
+                                                                                                      PO# 4241287970
+ US                                                 US
+                                                                                                      SN 916 54894061
+
+
+PCS            DESCRIPTION OF ARTICLES AND MARKS                                             WEIGHT (lbs)               RATE            CHARGES
+
+1              PLT MISC FREIGHT CLASS 150                                                              1,942
+               AS WEIGHT                                                                               2,000           318.06            $6,361.20
+               XPO LOGISTICS DISCOUNT SAVES YOU                                                                                         -$5,407.02
+               FSC FUEL SURCHARGE 30.75%                                                                                                   $293.41
+               APT APPOINTMENT                                                                                                              $67.50
+
+1              TOTAL                                                                                   1,942                          US $1,315.09 PREPAID
+
+
+1 PLT
+
+
+
+
+                                                          *** PAYMENT IS DUE BY 12/23/2025 ***
+                                               DELINQUENT BALANCES ARE SUBJECT TO LATE FEES AS REFERENCED IN TARIFF 199.
+
+
+Remit To                        For ACH or Wire in USD
+XPO                             XPO Logistics Freight, Inc.
+PO Box 660006                   Wells Fargo
+Dallas, TX 75266-0006           Routing #: 121000248
+                                SWIFT Code: WFBIUS6S
+                                Account #: 4943582890
+                                                                                                      TOTAL DUE:                    US $1,315.09
+
+                                                                                                      LTL INVOICE#                  271-432453
+                                                                                                      TOTAL DUE:                    US $1,315.09
+               DUNS# 08-043-1863 FED TAX ID# 94-2904084
+
+PLEASE RETURN THIS STUB WITH YOUR PAYMENT                                           If payment is not in full please explain:
+
+
+
+REMIT TO:
+XPO
+PO Box 660006                                                                       For changes of address, complete the form at the end of this document and mail
+
+Dallas, TX 75266-0006                                                               it along with this remit stub.
+
+
+
+                                                                                                                      271432453 0131509 5
+
+                                                                         Page 6
+                                                                              1 of 22
+                                                                                   13
+Page 7
+     2 of 22
+          13
+Page 8
+     3 of 22
+          13
+Page 9
+     4 of 22
+          13
+Page
+Page10
+     5 of
+        of13
+           22
+Page
+Page11
+     6 of
+        of13
+           22
+Page
+Page12
+     7 of
+        of13
+           22
+Page
+Page13
+     8 of
+        of13
+           22
+Page
+Page14
+     9 of
+        of13
+           22
+Page 15
+     10 of 22
+           13
+Page 16
+     11 of 22
+           13
+Page 17
+     12 of 22
+           13
+                                       Page 1 of 1                                                                                                     Pro Number
+Delivery Receipt                     www.xpo.com
+                                                                                CNWY                                                                   271-432453
+
+Equip Number           Date                      Origin                   Destination        Our Revenue          Advance            Beyond            Route
+435-1017               12/18/2025                XCV                      XWO                                                                          MAR-DUP
+Consignee                                              Shipper                                          Bill To                               Appointment
+
+
+DUPONT                                                 STG LOGISTICS: NORTH BERGEN FA                                                         10:00-10:00
+111 HAYES MEMORIAL DRIVE                               6801 WEST SIDE AVE                                                                     12/23
+MARLBOROUGH, MA US 01752                               NORTH BERGEN, NJ US 07047                                                              prince
+Shipment Numbers
+PO# 232514495, 4241287970
+HM     PCS Description of Articles and Remarks                                                                                       Weight      Rate            Charges
+           1   PALLET MISC FREIGHT CLASS 150                                                                                           1942
+           1   TOTAL                                                                                                                   1942                          PPD
+               CHILD PRO #'s: 2217-432453
+               1 PLT
+               Driver Notes
+
+Received                   ☐ Inside Delivery             ☐ Residential Delivery   Shrink Wrap Intact?               Driver Name                  Date
+           PIECES ABOVE.                                                                                            ANTHONY C                           12/23/2025
+                           ☐ Liftgate Service            ☐ Construction Util.     ☒ Yes    ☐ No    ☐ N/A
+     DESCRIBED FREIGHT
+           IN GOOD ORDER   Delivered                     Time                     Consignee Signature               Consignee Name               Date
+      EXCEPT AS NOTED.
+                                                1 Of 1            10:31                                             FRANK R                             12/23/2025
+
+SUBJECT TO TERMS AND CONDITIONS HEREIN, AND TARIFF CNWY-199 IN EFFECT ON DATE OF SHIPMENT.
+
+
+
+
+                                                                                   Page 18
+                                                                                        13 of 22
+                                                                                              13
+                                                                                                                       LTL INVOICE#         271-432744
+
+
+               DUNS# 08-043-1863 FED TAX ID# 94-2904084
+
+
+                                                                                                                                                                B
+ CORRESPONDENCE:                     CUSTOMER SERVICE:                                                           STG LOGISTICS: NORTH BERGEN FA                 I
+ PO BOX 982020                       PHONE 1-800-755-2728
+                                                                                                                                                                L
+ N. RICHLAND HILLS, TX 76182         EMAIL LTLCCG@XPO.COM
+                                                                                                                 6801 WEST SIDE AVE                             L
+ VISIT OUR WEBSITE at ltl.xpo.com/billing                                                                        NORTH BERGEN, NJ 07047                         T
+                                                                                                                 US                                             O
+
+                                                                                                                                                  SHIPMENT
+SHIPPER                                            CONSIGNEE                                          CUSTOMER NUMBERS
+                                                                                                                                                  DATE
+
+ STG LOGISTICS: NORTH BERGEN FA                     ORTTECH INC                                       SN# 31994188                                01/09/2026
+                                                                                                      BM 31994188
+ 6801 WEST SIDE AVE                                 32425 AURORA RD
+                                                                                                      SI SX70005053
+ NORTH BERGEN, NJ, 07047                            SOLON, OH, 44139-2858
+ US                                                 US
+
+
+PCS            DESCRIPTION OF ARTICLES AND MARKS                                             WEIGHT (lbs)               RATE            CHARGES
+
+3              CAS HYDRAULIC CLUTCH AND BRAKE 999999-99 CLASS 150                                      1,524           393.20            $5,992.37
+               XPO LOGISTICS DISCOUNT SAVES YOU                                                                                         -$5,093.51
+               FSC FUEL SURCHARGE 30.00%                                                                                                   $269.66
+               OCF ORIG CONTAINER FREIGHT STATION                                                                                          $243.84
+
+3              TOTAL                                                                                   1,524                          US $1,412.36 PREPAID
+
+
+OPERATIONSAIRGO WORLDWIDE LOGISTICS, LLC322 N SHORE DR BLDG 18, SUITE 200PITTSBURGH PA 15212-5875UNITED STATESPHONE: +1 412-
+659-2679FAX: +1 412-754-7417 3 CAS .SHP PH: 201-865-6200
+
+
+
+
+                                                          *** PAYMENT IS DUE BY 01/12/2026 ***
+                                               DELINQUENT BALANCES ARE SUBJECT TO LATE FEES AS REFERENCED IN TARIFF 199.
+
+
+Remit To                        For ACH or Wire in USD
+XPO                             XPO Logistics Freight, Inc.
+PO Box 660006                   Wells Fargo
+Dallas, TX 75266-0006           Routing #: 121000248
+                                SWIFT Code: WFBIUS6S
+                                Account #: 4943582890
+                                                                                                      TOTAL DUE:                    US $1,412.36
+
+                                                                                                      LTL INVOICE#                  271-432744
+                                                                                                      TOTAL DUE:                    US $1,412.36
+               DUNS# 08-043-1863 FED TAX ID# 94-2904084
+
+PLEASE RETURN THIS STUB WITH YOUR PAYMENT                                           If payment is not in full please explain:
+
+
+
+REMIT TO:
+XPO
+PO Box 660006                                                                       For changes of address, complete the form at the end of this document and mail
+
+Dallas, TX 75266-0006                                                               it along with this remit stub.
+
+
+
+                                                                                                                      271432744 0141236 6
+
+                                                                        Page
+                                                                         Page19
+                                                                              1 of 4
+                                                                                   22
+Page
+ Page20
+      2 of 4
+           22
+Page
+ Page21
+      3 of 4
+           22
+                                       Page 1 of 1                                                                                                  Pro Number
+Delivery Receipt                     www.xpo.com
+                                                                                CNWY                                                                271-432744
+
+Equip Number          Date                       Origin                   Destination        Our Revenue          Advance            Beyond        Route
+321-4734              01/09/2026                 XCV                      XCL                                                                      SLN-SOLON
+Consignee                                              Shipper                                          Bill To                               Appointment
+
+
+ORTTECH INC                                            STG LOGISTICS: NORTH BERGEN FA
+32425 AURORA RD                                        6801 WEST SIDE AVE
+SOLON, OH US 44139-2858                                NORTH BERGEN, NJ US 07047
+Shipment Numbers
+BM 31994188, SI SX70005053, SN# 31994188
+HM     PCS Description of Articles and Remarks                                                                                       Weight      Rate          Charges
+           3   CASE HYDRAULIC CLUTCH AND BRAKE 999999-99 CLASS 150                                                                     1524
+               OCF ORIG CONTAINER FREIGHT STATION
+           3   TOTAL                                                                                                                   1524                          PPD
+               CHILD PRO #'s: 2346-574112, 2217-432744, 2346-574101
+               OPERATIONSAIRGO WORLDWIDE LOGISTICS, LLC322 N SHORE DR BLDG 18, SUITE
+               200PITTSBURGH PA 15212-5875UNITED STATESPHONE: +1 412-659-2679FAX: +1
+               412-754-7417 3 CAS .SHP PH: 201-865-6200
+               Driver Notes
+
+Received                   ☐ Inside Delivery             ☐ Residential Delivery   Shrink Wrap Intact?               Driver Name                  Date
+           PIECES ABOVE.                                                                                            ADRIAN W                            01/12/2026
+                           ☐ Liftgate Service            ☐ Construction Util.     ☒ Yes    ☐ No    ☐ N/A
+     DESCRIBED FREIGHT
+           IN GOOD ORDER   Delivered                     Time                     Consignee Signature               Consignee Name               Date
+      EXCEPT AS NOTED.
+                                                3 Of 3            12:12                                             DAN JONES                           01/12/2026
+
+SUBJECT TO TERMS AND CONDITIONS HEREIN, AND TARIFF CNWY-199 IN EFFECT ON DATE OF SHIPMENT.
+
+
+
+
+                                                                                   Page
+                                                                                    Page22
+                                                                                         4 of 4
+                                                                                              22
+

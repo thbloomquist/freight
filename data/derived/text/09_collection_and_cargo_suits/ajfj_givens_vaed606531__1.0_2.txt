@@ -1,0 +1,1386 @@
+Case 2:26-cv-01050-AWA-DEM              Document 1          Filed 09/30/26   Page 1 of 27 PageID# 1
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                         FOR THE EASTERN DISTRICT OF VIRGINIA
+                                     Norfolk Division
+
+ AJFJ TRANSPORT CORPORATION, dba                        :
+ AJFJ TRANSPORT, and JASHMEN SINGH                      :
+ BRAR,                                                  :
+                                                        :
+         Plaintiffs,                                    :
+                                                        :        Civil Action No.: 26-cv-1050
+ v.                                                     :
+                                                        :
+ GIVENS TRANSPORTATION SOLUTIONS,                       :
+ LC, and CONNOR KILPATRICK,                             :
+                                                        :        TRIAL BY JURY DEMANDED
+         Defendants.                                    :
+
+                                     VERIFIED COMPLAINT
+
+         COMES NOW, Plaintiffs AJFJ Transport Corporation d/b/a AJFJ Transport (“AJFJ”) and
+
+ Jashmeen Singh Brar (“Brar”; collectively, “Plaintiffs”), by and through undersigned counsel,
+
+ and move this Honorable Court for judgment against Defendants Givens Transportation
+
+ Solutions, LC (“GTS”) and Connor Kilpatrick (“Kilpatrick”; collectively, “Defendants”), on the
+
+ grounds and for the relief set forth below:
+
+                                       Summary of the Action
+
+      1. This is an action for defamation per se, tortious interference with business relationships and
+
+ expectancies, vicarious liability, and injunctive relief arising from a FreightGuard report that
+
+ Defendants caused to be published on Carrier411.com against AJFJ and that expressly identified
+
+ Brar by name.
+
+      2. On October 15, 2025, Kilpatrick, a Director of Operations and Senior Account Manager for
+
+ GTS, published a FreightGuard report accusing AJFJ and Brar of “HELD LOAD HOSTAGE,”
+
+ “IN-TRANSIT AGREEMENT MODIFICATION,” and “UNETHICAL OR DECEPTIVE
+
+
+
+
+                                                   1
+Case 2:26-cv-01050-AWA-DEM              Document 1         Filed 09/30/26       Page 2 of 27 PageID# 2
+
+
+
+
+ BUSINESS PRACTICES.” In the narrative accompanying the report, Kilpatrick asserted that Brar
+
+ demanded additional money “BEFORE FINISHING HIS ROUND TRIP DELIVERY (HELD
+
+ LOAD HOSTAGE).”
+
+     3. Those factual accusations were false. AJFJ had transported the freight from Newark, New
+
+ Jersey to Maine, had arrived at the delivery site, and the shipment was actively being unloaded
+
+ while the parties disputed additional detention and accessorial compensation. AJFJ did not stop
+
+ the unloading, did not refuse to deliver the cargo, and did not condition release of the cargo on
+
+ additional payment.
+
+     4. The contemporaneous written record is particularly significant. Before the FreightGuard
+
+ was ever published, Brar expressly told Kilpatrick in writing that the freight “was being unloaded,”
+
+ that “none of the freight shipment was halted,” and that he had never stated anything remotely
+
+ resembling an intent to hold the freight hostage. Kilpatrick nevertheless threatened to file a
+
+ FreightGuard report and even threatened to call the police if Brar continued to seek additional
+
+ compensation.
+
+     5. GTS then issued an updated written rate confirmation increasing AJFJ’s compensation from
+
+ $3,750.00 to $4,150.00, including detention and additional cost. AJFJ signed and returned that rate
+
+ confirmation. Five days later, GTS unilaterally deducted the same $400.00 and Kilpatrick
+
+ published the threatened FreightGuard report.
+
+     6. The report was not an inconsequential internet review. Carrier411 markets FreightGuard
+
+ reports as carrier-vetting information used by freight brokers and shippers in deciding whether a
+
+ carrier is safe to use. A FreightGuard accusation that a carrier “held load hostage” strikes directly
+
+ at the carrier’s honesty, integrity, reliability, and fitness to operate in the trucking industry.
+
+
+
+
+                                                     2
+Case 2:26-cv-01050-AWA-DEM             Document 1     Filed 09/30/26      Page 3 of 27 PageID# 3
+
+
+
+
+    7. The report has caused concrete and continuing business harm. AJFJ has documented at least
+
+ $37,300.00 in specific denied load opportunities, plus $270.00 in permit-related expense, and has
+
+ identified broader lost revenue substantially exceeding $75,000.00. Plaintiffs continue to lose
+
+ business because brokers reviewing AJFJ’s MC number encounter the FreightGuard report and
+
+ disqualify or decline AJFJ.
+
+                                            The Parties
+
+    8. Plaintiff AJFJ Transport Corporation is a corporation that operates under the trade name
+
+ AJFJ Transport and maintains its principal place of business at 1004 Blue Heron Court, Forney,
+
+ Texas 75126. AJFJ is incorporated under the laws of the State of New Jersey. AJFJ operates as an
+
+ interstate motor carrier under USDOT No. 2778371 and MC No. 924738. AJFJ is a small family-
+
+ operated trucking company. It has operated interstate authority since approximately 2015 and, at
+
+ the time of the events at issue, had spent more than a decade building relationships with freight
+
+ brokers and shippers throughout the United States.
+
+    9. Plaintiff Jashmeen Singh Brar is an individual and citizen of Texas who resides in Forney,
+
+ Texas. Brar is an officer and Operations Manager of AJFJ and personally dispatched the shipment
+
+ at issue. The challenged FreightGuard report identifies Brar by name as the “DRIVER,
+
+ DISPATCHER” and directly accuses him of the misconduct described herein.
+
+    10. Defendant Givens Transportation Solutions, LC is a limited liability company and federally
+
+ authorized property broker operating under MC No. 182974. GTS identifies 1720 S. Military
+
+ Highway, Chesapeake, Virginia 23320 as its official federal physical address and its billing
+
+ address. GTS conducts freight-brokerage operations and arranges transportation between shippers,
+
+ receivers, and interstate motor carriers such as AJFJ. GTS also maintains a brokerage sales office
+
+ in the greater Charlotte/Fort Mill area.
+
+
+
+
+                                                 3
+Case 2:26-cv-01050-AWA-DEM            Document 1        Filed 09/30/26     Page 4 of 27 PageID# 4
+
+
+
+
+    11. Defendant Connor Kilpatrick is an individual who, upon information and belief, is a citizen
+
+ of South Carolina. At all relevant times, Kilpatrick was employed by and acted as an agent of GTS,
+
+ holding himself out as GTS’s “Director of Operations” and “Senior Account Manager.” At all
+
+ relevant times, Kilpatrick was acting within the course and scope of his employment and agency
+
+ for GTS when he negotiated with AJFJ, administered the shipment, authorized or requested
+
+ changes to AJFJ’s compensation, threatened the FreightGuard report, and ultimately submitted the
+
+ FreightGuard report under GTS’s name and Carrier411 account.
+
+                                      Jurisdiction and Venue
+
+    12. This Court has subject-matter jurisdiction under 28 U.S.C. § 1332(a)(1). Complete
+
+ diversity exists between Plaintiffs and Defendants, and the amount in controversy exceeds
+
+ $75,000.00, exclusive of interest and costs. AJFJ is a citizen of New Jersey, its state of
+
+ incorporation, and Texas, where it maintains its principal place of business and its members reside.
+
+ Brar is a citizen of Texas. Kilpatrick is, upon information and belief, a citizen of South Carolina.
+
+ GTS is a limited liability company. Upon information and belief, based on GTS’s public
+
+ identification of the partners who formed and own its brokerage operation, GTS’s members are
+
+ Chris Reed, Beau Whitenack, and Justin McNinch. Reed and McNinch are citizens of South
+
+ Carolina, and Whitenack is a citizen of North Carolina. No member of GTS is a citizen of New
+
+ Jersey or Texas. Plaintiffs will promptly amend or supplement these jurisdictional allegations if
+
+ GTS’s disclosure under Fed. R. Civ. P. 7.1 identifies any additional member or different citizenship
+
+ information.
+
+    13. The amount in controversy requirement is satisfied independently by AJFJ’s ongoing actual
+
+ business losses and reputational damages, which exceed $75,000.00. In addition, Plaintiffs seek
+
+
+
+
+                                                  4
+Case 2:26-cv-01050-AWA-DEM             Document 1        Filed 09/30/26       Page 5 of 27 PageID# 5
+
+
+
+
+ presumed and general damages available for defamation per se and punitive damages based upon
+
+ Defendants’ knowing and malicious publication of false statements.
+
+     14. This Court has personal jurisdiction over GTS because GTS maintains its official federal
+
+ physical address and billing address in Chesapeake, Virginia, regularly transacts business in
+
+ Virginia, purposefully avails itself of the privileges and protections of Virginia law, and agreed in
+
+ its Broker/Carrier Agreement that Virginia law governs disputes arising from its carrier
+
+ relationships and that such disputes are to be submitted to a court of proper jurisdiction in Virginia.
+
+     15. This Court has personal jurisdiction over Kilpatrick pursuant to Fed. R. Civ. P. 4(k)(1)(A)
+
+ and Va. Code § 8.01-328.1 because Kilpatrick purposefully transacted GTS’s brokerage business
+
+ as a senior operational employee and agent of GTS, administered the AJFJ relationship on GTS’s
+
+ behalf, invoked and exercised GTS’s federally registered broker authority, directed GTS personnel
+
+ concerning compensation and payment, and committed the tortious conduct alleged herein in the
+
+ course of that agency. The dispute arises directly from those contacts and from a broker-carrier
+
+ relationship that GTS expressly made subject to Virginia law and a Virginia forum.
+
+     16. Venue is proper in the Eastern District of Virginia pursuant to 28 U.S.C. § 1391(b)(2)
+
+ because a substantial part of the events and omissions giving rise to the claims were undertaken
+
+ through or are attributable to GTS’s Virginia-centered corporate and billing operations, including
+
+ GTS’s payment obligations on the carrier transaction and its continuing corporate responsibility
+
+ for a FreightGuard publication submitted in GTS’s name and maintained after notice of its alleged
+
+ falsity.
+
+     17. Venue is proper in the Norfolk Division under Local Civil Rules 3(B)(3) and (C) because
+
+ Chesapeake, Virginia is within the Norfolk Division and GTS maintains its official federal physical
+
+ and billing address there.
+
+
+
+
+                                                   5
+Case 2:26-cv-01050-AWA-DEM             Document 1      Filed 09/30/26      Page 6 of 27 PageID# 6
+
+
+
+
+    18. Plaintiffs’ records reflect that the broker-carrier relationship between AJFJ and GTS was
+
+ subject to GTS’s Broker/Carrier Agreement. That agreement identifies GTS at its Chesapeake,
+
+ Virginia address, selects Virginia law for any disagreement or dispute, and provides that disputes
+
+ are to be submitted to a court of proper jurisdiction in Virginia. Those provisions further confirm
+
+ GTS’s purposeful Virginia contacts and its expectation that disputes arising from its carrier
+
+ relationships may be litigated in Virginia. Kilpatrick’s alleged conduct was undertaken solely in
+
+ his role administering that same GTS carrier relationship and is closely related to the contractual
+
+ relationship and dispute.
+
+    19. The challenged FreightGuard report was first published on October 15, 2025. This action
+
+ is filed within one year of that publication and is timely under the applicable limitations period,
+
+ including Va. Code § 8.01-247.1.
+
+                                      STATEMENT OF FACTS
+
+                AJFJ Had an Established Business and Professional Reputation
+
+    20. AJFJ operates as an interstate motor carrier that depends upon repeat and prospective
+
+ freight-broker relationships to keep its equipment moving and generate revenue. Freight
+
+ opportunities are time-sensitive, and a carrier must frequently be approved by a broker within
+
+ minutes in order to secure a load.
+
+    21. AJFJ had been operating under its federal motor-carrier authority for approximately ten
+
+ years before the events at issue. Brar represented to GTS and other brokers that AJFJ had zero
+
+ cargo claims and had developed a reputation for successfully transporting interstate freight.
+
+    22. AJFJ’s ability to obtain new loads depends heavily on its MC number and the electronic
+
+ vetting systems used by brokers. An accusation that AJFJ holds freight hostage or engages in
+
+ deceptive business practices is therefore uniquely damaging to its business.
+
+
+
+
+                                                  6
+Case 2:26-cv-01050-AWA-DEM            Document 1        Filed 09/30/26      Page 7 of 27 PageID# 7
+
+
+
+
+                             GTS Booked AJFJ for Load No. 40035823
+
+     23. On or about October 9, 2025, GTS, through Kilpatrick, engaged AJFJ to transport Load
+
+ No. 40035823. The original written rate confirmation reflected a carrier freight pay of $3,750.00.
+
+     24. The original rate confirmation identified the shipment as weighing approximately 44,929
+
+ pounds and consisting of 584 pieces. It identified pickup at 250 Port Street in Newark, New Jersey
+
+ and delivery at 68 Jordan River Road in Trenton, Maine.
+
+     25. The original rate confirmation further stated: “Driver Load: No driver loading or unload,”
+
+ confirming that the receiver - not Plaintiffs - would be responsible for the physical unloading
+
+ operation at destination.
+
+     26. AJFJ accepted the load, AJFJ traveled to Newark, and on October 9, 2025, Brar advised
+
+ GTS that AJFJ was loaded and rolling. The parties communicated throughout the movement of the
+
+ freight.
+
+       GTS Changed the Delivery Instructions and Directed Brar to an Unusual Jobsite
+
+     27. The delivery location and method were not as straightforward as the original rate
+
+ confirmation suggested. On the evening of October 9, Kilpatrick advised Brar by email that
+
+ delivery was instead “set up” for 7:30-8:00 a.m. at 218 Downeast Highway, Ellsworth, Maine,
+
+ where AJFJ would be “escorted from Facility to final delivery location.”
+
+     28. Before arrival, Brar had specifically asked GTS what type of unloading environment he
+
+ should expect - “Crew warehouse jobsite?” - demonstrating that the final delivery circumstances
+
+ had not been clearly disclosed in the original rate confirmation.
+
+     29. AJFJ arrived in Maine early on October 10 and advised GTS at approximately 3:33 a.m.
+
+ that it was “On site.” Later that morning, Brar confirmed he was “With the crew.”
+
+
+
+
+                                                  7
+Case 2:26-cv-01050-AWA-DEM             Document 1        Filed 09/30/26      Page 8 of 27 PageID# 8
+
+
+
+
+    30. The final delivery was a residential/rural jobsite that was not ordinarily configured to
+
+ receive a tractor-trailer carrying an intermodal container. Contemporaneous photographs show a
+
+ narrow, soft and rutted access area adjacent to a two-lane road, a residential structure, and trees
+
+ and other obstacles in close proximity to the route required for the tractor-trailer.
+
+    31. The photographs further show the tractor-trailer and Hapag-Lloyd container positioned on
+
+ a narrow dirt/gravel path with limited clearance, as well as significant tire ruts and disturbed
+
+ ground at the roadway entrance. The conditions materially differed from a normal commercial
+
+ warehouse or paved receiving facility.
+
+   AJFJ Completed the Delivery Despite the Difficult Conditions and Equipment Damage
+
+    32. AJFJ did not abandon the load when confronted with the delivery conditions. Instead, it
+
+ worked with the receiving/construction crew to maneuver and stage the tractor-trailer so that the
+
+ freight could be unloaded.
+
+    33. The maneuvering took approximately 30 to 45 minutes. Brar reports that the clutch
+
+ overheated multiple times and that the receiver’s crew used a forklift to assist with positioning the
+
+ equipment.
+
+    34. During that process, a mud flap assembly on the rented trailer was damaged. A
+
+ contemporaneous photograph depicts the bent/damaged mud flap assembly. AJFJ later incurred
+
+ approximately $450.00 to address the damage. AJFJ also allowed the receiver’s crew to use some
+
+ of its own tools to complete the work. At approximately 11:06 a.m. on October 10, Brar
+
+ contemporaneously emailed GTS: “Im letting them use some of my tools as well lol.”
+
+    35. The delivery and unloading process lasted for hours. AJFJ estimates it was at the delivery
+
+ location for approximately seven hours, during which AJFJ’s tractor, trailer, and driver were
+
+ unavailable for other revenue-producing work.
+
+
+
+
+                                                   8
+Case 2:26-cv-01050-AWA-DEM               Document 1     Filed 09/30/26     Page 9 of 27 PageID# 9
+
+
+
+
+    36. The cargo nevertheless reached its intended destination and was placed with the receiving
+
+ crew. At no time did Plaintiffs drive away with the cargo, sequester it, direct the receiver to stop
+
+ unloading, or use possession of the freight itself as leverage for payment.
+
+ GTS Acknowledged Detention and Agreed that Additional Compensation Was Appropriate
+
+    37. As the delivery delays continued, GTS itself acknowledged that AJFJ was entitled to
+
+ additional compensation. At approximately 11:27 a.m. on October 10, Kilpatrick instructed Brar
+
+ to keep track of detention and wrote: “We pay $50 an hour after 2h free.”
+
+    38. In the same email, Kilpatrick thanked Brar for helping at the difficult jobsite and offered
+
+ additional compensation: “I’ll also give you $100 out of my own pocket for this.” He instructed
+
+ GTS employee Sean Reed (“Reed”) to add the amount to the rate confirmation after completion.
+
+    39. At approximately 11:44 a.m., Reed told Brar that an updated rate confirmation would
+
+ follow. At approximately 12:06 p.m., Kilpatrick again instructed Reed to “send an additional $250
+
+ on the rate con” including detention.
+
+    40. At approximately 12:21 p.m., Reed confirmed in writing: “Pending POD, Will Add $250
+
+ on RC.” Thus, GTS was not merely confronting a unilateral demand by AJFJ; GTS was actively
+
+ negotiating and approving additional compensation based on the actual conditions encountered at
+
+ delivery.
+
+    41. Brar requested that the approved compensation be memorialized on the rate confirmation
+
+ before the receiver completed unloading. That request did not stop the unloading. The freight
+
+ remained at destination and the receiver’s crew continued unloading throughout the compensation
+
+ discussion.
+
+    42. As the parties continued to quantify detention, damaged equipment, use of tools, and the
+
+ additional work required, Brar requested $200.00 in detention and $250.00 for the receiver’s lack
+
+
+
+
+                                                  9
+Case 2:26-cv-01050-AWA-DEM            Document 1       Filed 09/30/26      Page 10 of 27 PageID# 10
+
+
+
+
+  of preparedness. He later proposed resolving all additional compensation for $400.00 above the
+
+  original rate.
+
+      Kilpatrick Manufactured a “Hostage” Narrative During the Compensation Dispute
+
+      43. Rather than treat the matter as an ordinary dispute over detention and accessorial
+
+  compensation, Kilpatrick became confrontational. He repeatedly accused Brar of lying and
+
+  characterized the negotiations as an “in-transit modification” even though the freight had reached
+
+  the delivery location and was in the process of being unloaded.
+
+      44. At approximately 3:33 p.m. on October 10, Kilpatrick introduced the phrase “holding
+
+  freight hostage” himself, asking Brar rhetorically: “Are you going to add on - holding freight
+
+  hostage next if I don’t agree to your demands?”
+
+      45. Kilpatrick then threatened a FreightGuard report if Brar continued to pursue the additional
+
+  compensation: “If you want more money that’s out of our original agreement I’ll send it but I’m
+
+  also going to freight guard report you and tell everyone else what I experienced with you.”
+
+      46. Kilpatrick further presented AJFJ with an ultimatum: accept less additional compensation
+
+  or take the additional money and receive a FreightGuard report. This threat expressly linked the
+
+  prospective publication to the compensation dispute.
+
+      47. Brar immediately rejected the “hostage” accusation in writing. At approximately 3:58 p.m.,
+
+  he wrote that Kilpatrick had threatened to call police for “holding the freight hostage” even though
+
+  Brar “NEVER said anything” remotely like that.
+
+      48. Brar further explained in the same written communication: “The freight was being
+
+  unloaded with you now having the delivery paperwork as well. The freight wasn’t in transit, it was
+
+  received and actively being unloaded. None of the freight shipment was halted over anything on
+
+  my end.”
+
+
+
+
+                                                  10
+Case 2:26-cv-01050-AWA-DEM            Document 1           Filed 09/30/26   Page 11 of 27 PageID# 11
+
+
+
+
+     49. This written denial put Kilpatrick and GTS on direct notice - before any FreightGuard
+
+  publication - that Brar disputed the factual premise that he had withheld cargo or conditioned
+
+  delivery of cargo upon payment.
+
+     50. Kilpatrick nevertheless escalated the threat. At approximately 4:32 p.m., he wrote that if
+
+  Brar engaged in “in-transit modifications or holding my freight hostage,” he would report AJFJ to
+
+  Carrier411 and, “depending on how far you want to take it,” call “the police 911.”
+
+     51. Kilpatrick then demanded that Brar tell him what would happen if GTS did not pay the
+
+  requested additional compensation “so I can freight guard report you and send the money already.”
+
+  The statement demonstrates that Kilpatrick was actively attempting to create a factual predicate
+
+  for the report he had already threatened to publish.
+
+     52. Kilpatrick’s emails also contained personal and hostile language, accusing Brar of
+
+  attacking his family, attempting to take food off his family’s plate, and telling Brar to “hurry up,
+
+  what the f*** do you want?” The tenor and timing of these communications support the inference
+
+  that the eventual FreightGuard was retaliatory rather than a neutral carrier-performance report.
+
+                               The Cargo Was Delivered;
+      The Remaining Dispute Concerned Compensation and the Empty Container Return
+
+     53. By the later stages of the October 10 email exchange, the freight was at destination and
+
+  had been or was being unloaded. The remaining operational issue concerned the empty container
+
+  and its return to the Newark area after delivery.
+
+     54. AJFJ disputed whether the original paperwork adequately documented the empty-container
+
+  return as a separate leg. It nevertheless transported the empty container back toward Newark after
+
+  the cargo had been delivered. AJFJ attempted to return the empty container on Saturday afternoon
+
+  but reports that the Newark location would not accept the return when it arrived. It retained the
+
+  equipment and returned again the next business day to complete the return.
+
+
+                                                      11
+Case 2:26-cv-01050-AWA-DEM            Document 1        Filed 09/30/26      Page 12 of 27 PageID# 12
+
+
+
+
+     55. The empty-container issue did not transform the previously delivered cargo into freight
+
+  being “held hostage.” The cargo itself was no longer in AJFJ’s possession as leverage during the
+
+  return dispute.
+
+             GTS Issued and AJFJ Accepted a Written $4,150.00 Rate Confirmation
+
+     56. At approximately 5:08 p.m. on October 10, Kilpatrick instructed Reed to add another
+
+  $150.00 to the previously approved $250.00 - a total increase of $400.00 - notwithstanding
+
+  Kilpatrick’s continuing accusations.
+
+     57. GTS then issued an updated written rate confirmation dated October 10, 2025. The updated
+
+  rate confirmation changed the delivery information to 218 Downeast Highway, Ellsworth, Maine
+
+  and expressly listed: carrier freight pay of $3,750.00; detention time of $250.00; additional cost of
+
+  $150.00; and total carrier pay of $4,150.00.
+
+     58. AJFJ signed and returned the updated rate confirmation to GTS at approximately 5:23 p.m.
+
+  on October 10. GTS acknowledged receipt. This written agreement is irreconcilable with the later
+
+  suggestion that Brar or AJFJ simply extorted or unilaterally imposed $500.00 in additional
+
+  compensation.
+
+     59. The updated rate confirmation also confirms that the final additional compensation was
+
+  $400.00, not the $500.00 later stated in Kilpatrick’s FreightGuard narrative.
+
+                         Five Days Later GTS Reversed the $400.00 and
+                        Kilpatrick Published the Threatened FreightGuard
+
+     60. On October 15, 2025, five days after GTS issued the $4,150.00 written rate confirmation,
+
+  Kilpatrick announced that GTS would deduct $400.00 from AJFJ’s invoice and revert to the
+
+  original $3,750.00 rate.
+
+     61. Kilpatrick claimed the deduction was based on the same narrative he had threatened to
+
+  place on Carrier411, including “Held load hostage,” “In-transit modification/agreement to rate,”
+
+
+                                                   12
+Case 2:26-cv-01050-AWA-DEM           Document 1      Filed 09/30/26    Page 13 of 27 PageID# 13
+
+
+
+
+  and “Deceptive and unethical business practices.” He also asserted disputes concerning the tarp
+
+  and timing of the empty-container return.
+
+     62. The deduction was communicated not only to Brar but internally to GTS payables and
+
+  other GTS personnel, evidencing corporate knowledge of and participation in the position
+
+  Kilpatrick was taking against AJFJ.
+
+     63. On the same date, October 15, 2025, Kilpatrick used GTS’s Carrier411 access to submit
+
+  FreightGuard Report FG174914 against AJFJ. Carrier411 immediately emailed notice of the report
+
+  to AJFJ and copied a GTS email address.
+
+     64. The report identified the reported company as “AJFJ TRANSPORT CORPORATION
+
+  DBA AJFJ TRANSPORT,” MC924738, and identified the submitter as “CONNOR
+
+  KILPATRICK” of “GIVENS TRANSPORTATION SOLUTIONS, LLC,” as shown below:
+
+
+
+
+                                                13
+Case 2:26-cv-01050-AWA-DEM            Document 1       Filed 09/30/26      Page 14 of 27 PageID# 14
+
+
+
+
+                      The FreightGuard Contains False Statements of Fact
+
+     65. The report selected and published the following factual categories against AJFJ:
+
+         a. “HELD LOAD HOSTAGE”;
+
+         b. “IN-TRANSIT AGREEMENT MODIFICATION”; and
+
+         c. “UNETHICAL OR DECEPTIVE BUSINESS PRACTICES.”
+
+     66. Kilpatrick then published the following narrative concerning Brar: “DRIVER,
+
+  DISPATCHER JASH BRAR GOT TO DELIVERY, ALLEDGELY MESSED UP ONE OF HIS
+
+  MUD FLAPS AND DEMANDED I SEND HIM EXTRA $500 ON THE RATE CON (IN-
+
+  TRANSIT AGREEMENT/MODIFICATION) BEFORE FINISHING HIS ROUND TRIP
+
+  DELIVERY (HELD LOAD HOSTAGE).”
+
+     67. Kilpatrick further published that Brar justified the request based on the receiver’s “LACK
+
+  OF PREPAREDNESS,” adding “WHATEVER THE HELL THAT MEANS,” and asserted that
+
+  AJFJ failed to re-tarp the open top and caused an additional $250.00 loss.
+
+     68. The report concluded: “THIS CARRIER WAS BY FAR ONE OF THE WORST
+
+  CARRIERS I’VE EVER ENCOUNTERED. DNU.” Plaintiffs do not base their defamation claim
+
+  on this final subjective opinion standing alone; their claims arise from the specific false factual
+
+  accusations and categories that precede and purport to justify that opinion.
+
+                          The “Held Load Hostage” Accusation Is False
+
+     69. The statement that Brar or AJFJ “held load hostage” is false. The cargo was transported to
+
+  Maine and was at the receiver’s location while the parties were discussing detention and
+
+  accessorial compensation. Brar did not tell Kilpatrick that AJFJ would refuse to deliver the cargo
+
+  unless paid additional money. Kilpatrick cannot identify any written statement in which Brar said
+
+  that because no such statement exists.
+
+
+
+
+                                                  14
+Case 2:26-cv-01050-AWA-DEM             Document 1         Filed 09/30/26   Page 15 of 27 PageID# 15
+
+
+
+
+     70. The contemporaneous emails establish the opposite. Before publication, Brar expressly
+
+  told Kilpatrick that the freight was received, actively being unloaded, and that none of the freight
+
+  shipment had been halted.
+
+     71. Kilpatrick knew that the receiver’s crew was unloading the shipment because GTS was
+
+  communicating with Brar during the unloading, requesting the POD, calculating detention, and
+
+  issuing a revised rate confirmation while the delivery was being completed.
+
+     72. Kilpatrick himself introduced the concept of “holding freight hostage” as a threatened
+
+  future accusation during the negotiation. He then repeated the accusation on Carrier411 after Brar
+
+  refused to abandon the compensation dispute.
+
+     73. The words “held load hostage” are particularly damaging in the trucking industry because
+
+  they convey that a carrier intentionally withholds cargo entrusted to it and uses the cargo as
+
+  leverage to extract payment. Such an accusation attacks the carrier’s honesty, trustworthiness, and
+
+  fitness to be entrusted with customers’ freight.
+
+               The Report Falsely Mischaracterizes the Compensation Negotiation
+
+     74. The report falsely states that Brar demanded “EXTRA $500” before finishing the round
+
+  trip. The final negotiated increase was $400.00, and GTS itself issued a written rate confirmation
+
+  accepting that $400.00 increase.
+
+     75. The negotiation did not occur in a vacuum. GTS had already acknowledged detention,
+
+  thanked Brar for helping at the difficult site, and offered additional money before the parties
+
+  disputed the final amount.
+
+     76. The updated rate confirmation allocated $250.00 to detention and $150.00 to additional
+
+  cost, confirming that the additional compensation was documented by GTS as an agreed rate
+
+  adjustment rather than a unilateral seizure of freight.
+
+
+
+
+                                                     15
+Case 2:26-cv-01050-AWA-DEM             Document 1     Filed 09/30/26     Page 16 of 27 PageID# 16
+
+
+
+
+     77. Similarly, the accusation of “UNETHICAL OR DECEPTIVE BUSINESS PRACTICES”
+
+  falsely portrays an ordinary, documented compensation dispute as dishonest conduct. Brar
+
+  disclosed his position openly in writing, provided photographs and delivery information, and
+
+  repeatedly documented the basis for the requested compensation.
+
+      The Tarp and Empty-Container Disputes Do Not Make the Hostage Accusation True
+
+     78. A separate dispute arose over whether AJFJ was responsible for re-tarping the open-top
+
+  container after unloading. The original rate confirmation expressly stated that the driver was not
+
+  responsible for loading or unloading, and Brar maintains that the unloading crew handled the tarp
+
+  and did not reinstall it before he departed.
+
+     79. The parties also disputed the return timing for the empty container. Those issues may
+
+  involve competing contractual positions, but they do not establish that Plaintiffs held cargo
+
+  hostage, committed extortionate conduct, or engaged in deceptive business practices during
+
+  delivery.
+
+     80. Defendants were free to dispute accessorial charges, seek an offset they believed
+
+  contractually justified, or pursue an ordinary claim. They were not free to knowingly publish
+
+  materially false factual accusations about Plaintiffs to an industry database in retaliation for a
+
+  payment dispute.
+
+     Defendants Published with Knowledge of Falsity or Reckless Disregard for the Truth
+
+     81. Kilpatrick had first-hand knowledge of the entire transaction. He was the GTS employee
+
+  communicating directly with Brar before, during, and after delivery and had access to the email
+
+  chain, rate confirmations, POD communications, and GTS’s internal payment records.
+
+     82. Before publication, Brar expressly informed Kilpatrick in writing that the hostage
+
+  allegation was false and explained that the freight was being unloaded and had not been halted.
+
+
+
+
+                                                 16
+Case 2:26-cv-01050-AWA-DEM           Document 1        Filed 09/30/26     Page 17 of 27 PageID# 17
+
+
+
+
+     83. Before publication, GTS issued the revised $4,150.00 rate confirmation and accepted
+
+  AJFJ’s signed copy. Kilpatrick therefore knew GTS had itself agreed in writing to the $400.00
+
+  increase he later portrayed as improper coercion.
+
+     84. Kilpatrick also knew that the report’s $500.00 figure was inaccurate. The final negotiated
+
+  increase was $400.00, and GTS’s own rate confirmation memorialized exactly $400.00 in
+
+  additional compensation.
+
+     85. The timing further demonstrates malice. Kilpatrick threatened to use FreightGuard during
+
+  the payment negotiations, asked Brar to articulate a response so Kilpatrick could “freight guard
+
+  report” him, then published the report five days later after GTS had issued and received the signed
+
+  revised rate confirmation.
+
+     86. GTS is independently responsible for the publication because the report was submitted
+
+  under GTS’s name and account by a senior operations employee acting on GTS’s behalf. GTS
+
+  personnel were copied on and participated in the underlying payment dispute, and GTS has
+
+  maintained the report despite Plaintiffs’ contemporaneous written response denying the
+
+  allegations.
+
+           Carrier411 and FreightGuard Reports Materially Affect Carrier Selection
+
+     87. Carrier411 operates an industry carrier-vetting database used by freight brokers and
+
+  shippers. Its FreightGuard system allows customers to report carriers based upon designated
+
+  criteria, including “Held Load Hostage” and “In-Transit Agreement Modification.”
+
+     88. Carrier411 expressly markets FreightGuard reports as information that helps brokers and
+
+  shippers make carrier-selection decisions. A released report is associated with the carrier’s MC
+
+  number and can be seen by Carrier411 customers reviewing that carrier.
+
+
+
+
+                                                  17
+Case 2:26-cv-01050-AWA-DEM            Document 1       Filed 09/30/26      Page 18 of 27 PageID# 18
+
+
+
+
+     89. The reported carrier is given a limited opportunity to submit a response but cannot simply
+
+  log into Carrier411 as a customer and remove the broker’s report. Plaintiffs timely submitted a
+
+  response denying the hostage allegation and explaining the difficult delivery conditions, detention,
+
+  equipment damage, and rate-confirmation dispute.
+
+     90. The current FreightGuard report remains associated with AJFJ’s MC number. Thus,
+
+  prospective brokers conducting routine vetting encounter the accusation before deciding whether
+
+  to tender a load to AJFJ.
+
+     The FreightGuard Has Caused Specific Lost Loads and Continuing Business Damage
+
+     91. After the FreightGuard was published, AJFJ began receiving denials from brokers who
+
+  would not use AJFJ because of the report. Because freight opportunities move quickly, a single
+
+  disqualification can cause AJFJ to lose both the rejected load and the opportunity to pursue other
+
+  loads while trying to overcome the FreightGuard issue.
+
+     92. AJFJ has documented at least sixteen (16) specific load opportunities that it was denied
+
+  after publication of the FreightGuard Report. The denied opportunities ranged in value from
+
+  approximately $700.00 to $4,200.00 per load and included freight opportunities throughout the
+
+  United States. Collectively, the documented denied load opportunities total approximately
+
+  $37,300.00 in lost gross revenue. AJFJ also incurred approximately $270.00 in permit-related
+
+  expenses associated with one of those lost opportunities.
+
+     93. Accordingly, AJFJ has presently documented at least approximately $37,570.00 in specific
+
+  economic losses attributable to denied load opportunities following publication of the
+
+  FreightGuard Report. These documented denials represent only a portion of the harm caused by
+
+  Defendants’ conduct. AJFJ has experienced additional rejected load opportunities that were not
+
+  formally documented, has been forced to accept inferior freight opportunities, and has lost
+
+
+
+
+                                                  18
+Case 2:26-cv-01050-AWA-DEM             Document 1       Filed 09/30/26      Page 19 of 27 PageID# 19
+
+
+
+
+  additional business opportunities because brokers utilizing Carrier411 have declined or refused to
+
+  do business with AJFJ as a result of the FreightGuard Report.
+
+     94. AJFJ reasonably anticipates identifying additional lost loads, customers, business
+
+  relationships, and economic damages through discovery. The identities of the brokers and logistics
+
+  providers associated with AJFJ’s documented losses, together with supporting records concerning
+
+  those lost opportunities, are maintained by AJFJ and may be produced in discovery as appropriate.
+
+     95. Once AJFJ learned that particular brokers would automatically decline AJFJ because of the
+
+  FreightGuard, it became economically irrational to continue spending time repeatedly pursuing
+
+  those brokers. AJFJ therefore lost additional opportunities that could not all be documented by a
+
+  discrete rejection email or phone call.
+
+     96. AJFJ has also been forced to accept inferior freight options, deadhead farther, or forego
+
+  loads that would otherwise fit its routes. Plaintiffs estimate the resulting lost revenue and business
+
+  disruption at no less than approximately $75,000.00 to $100,000.00 and continuing, exclusive of
+
+  reputational and punitive damages.
+
+     97. The publication has also damaged AJFJ’s goodwill and standing within an industry in
+
+  which trust between brokers and carriers is essential. The harm is ongoing because the
+
+  FreightGuard remains accessible to brokers vetting AJFJ.
+
+     98. Brar has separately suffered injury to his professional reputation because Defendants did
+
+  not publish only about an anonymous corporation; the report personally identifies “JASH BRAR”
+
+  as the driver and dispatcher who allegedly held freight hostage and acted deceptively.
+
+
+
+
+                                                   19
+Case 2:26-cv-01050-AWA-DEM            Document 1        Filed 09/30/26      Page 20 of 27 PageID# 20
+
+
+
+
+                                       CAUSES OF ACTION
+
+                                            COUNT I
+                                     Defamation - Libel Per Se
+                                     (Against All Defendants)
+
+     99. Plaintiffs incorporate and re-allege each preceding allegation as if fully set forth herein.
+
+     100. Kilpatrick wrote and caused to be published on Carrier411 a FreightGuard report naming
+
+  both AJFJ and Brar and communicating the report to Carrier411 and its broker/shipping customers.
+
+     101. The challenged statements include, without limitation, that Plaintiffs “HELD LOAD
+
+  HOSTAGE”; engaged in “IN-TRANSIT AGREEMENT MODIFICATION” and “UNETHICAL
+
+  OR DECEPTIVE BUSINESS PRACTICES”; and that Brar demanded additional money before
+
+  finishing delivery and thereby held the load hostage.
+
+     102. These statements are factual or imply provably false facts. They are false for the reasons
+
+  alleged above, including because the cargo was delivered to and actively being unloaded by the
+
+  receiver; Brar expressly stated that no shipment was halted; GTS negotiated and agreed to
+
+  additional compensation; and GTS issued a written $4,150.00 rate confirmation.
+
+     103. The statement that Brar demanded an extra $500.00 was also materially false. GTS’s own
+
+  final written rate confirmation increased the original rate by $400.00, not $500.00.
+
+     104. Kilpatrick published the statements knowing they were false or, at minimum, with
+
+  reckless disregard for whether they were true. He possessed and participated in the
+
+  contemporaneous communications that directly contradicted the hostage allegation and threatened
+
+  the report before publishing it.
+
+     105. GTS is liable for Kilpatrick’s publication because he acted within the course and scope of
+
+  his employment and agency; used GTS’s Carrier411 access; identified himself and GTS as the
+
+
+
+
+                                                   20
+Case 2:26-cv-01050-AWA-DEM            Document 1         Filed 09/30/26     Page 21 of 27 PageID# 21
+
+
+
+
+  submitter; and published the report for the purpose of GTS’s brokerage business and carrier-
+
+  management interests.
+
+     106. GTS further knew of, authorized, ratified, and maintained the publication through its
+
+  employees and internal payment process, including after Plaintiffs expressly denied the hostage
+
+  allegation and after GTS issued the revised written rate confirmation.
+
+     107. The challenged statements constitute defamation per se because they directly prejudice
+
+  Plaintiffs in their profession and trade, impute a lack of honesty and integrity in the performance
+
+  of their business, and accuse Plaintiffs of conduct reasonably understood in the freight industry as
+
+  extortionate or dishonest misuse of entrusted cargo.
+
+     108. Because the statements are defamatory per se, injury to Plaintiffs’ reputation is presumed
+
+  under Virginia law. Plaintiffs have additionally suffered provable special damages, including lost
+
+  loads, lost revenue, and impaired business relationships.
+
+     109. Defendants acted with actual malice. Their misconduct was willful, wanton, retaliatory,
+
+  and undertaken with knowledge of falsity or reckless disregard for the truth, entitling Plaintiffs to
+
+  punitive damages in the amount permitted by law.
+
+                                           COUNT II
+               Tortious Interference with Business Relationships and Expectancies
+                                    (Against All Defendants)
+
+     110. Plaintiff AJFJ incorporates and re-alleges each preceding allegation as if fully set forth
+
+  herein.
+
+     111. AJFJ had valid existing business relationships and reasonable business expectancies with
+
+  freight brokers throughout the United States, including repeat brokers and specific brokers from
+
+  whom AJFJ sought and reasonably expected to obtain loads in the ordinary course of its business.
+
+
+
+
+                                                   21
+Case 2:26-cv-01050-AWA-DEM              Document 1     Filed 09/30/26       Page 22 of 27 PageID# 22
+
+
+
+
+     112. Defendants knew that AJFJ depended upon broker relationships and prospective load
+
+  bookings. Indeed, GTS itself was acting as a freight broker and knew precisely how Carrier411
+
+  and FreightGuard reports are used to vet and disqualify carriers.
+
+     113. Defendants intentionally interfered with AJFJ’s business relationships and expectancies
+
+  by publishing false factual accusations on the very database used by brokers to decide whether to
+
+  transact with AJFJ.
+
+     114. Defendants employed improper methods, including defamation, knowingly false factual
+
+  accusations, threats to use Carrier411 as leverage in a payment dispute, and malicious publication
+
+  after AJFJ had expressly advised Defendants that the hostage accusation was false.
+
+     115. The interference had its intended and foreseeable effect. Brokers denied AJFJ specific
+
+  loads after reviewing the FreightGuard, and AJFJ lost existing and prospective business
+
+  opportunities as a result.
+
+     116. AJFJ has documented at least approximately $37,570.00 in specific denied-load and
+
+  related losses and has suffered broader revenue loss estimated at $75,000.00 to $100,000.00 and
+
+  continuing.
+
+     117. Defendants’ conduct was willful and malicious and supports an award of punitive
+
+  damages sufficient to punish and deter similar misuse of an industry reporting system, subject to
+
+  the limits imposed by Virginia law.
+
+                                           COUNT III
+                                Vicarious Liability and Ratification
+                                          (Against GTS)
+
+     118. Plaintiffs incorporate and re-allege each preceding allegation as if fully set forth herein.
+
+     119. At all relevant times, Kilpatrick was an employee and agent of GTS and held the title of
+
+  Director of Operations and Senior Account Manager. Kilpatrick negotiated the AJFJ load,
+
+
+
+
+                                                  22
+Case 2:26-cv-01050-AWA-DEM             Document 1        Filed 09/30/26       Page 23 of 27 PageID# 23
+
+
+
+
+  administered the delivery, communicated on GTS email, directed GTS employees concerning rate-
+
+  confirmation changes, communicated with GTS payables, and submitted the FreightGuard report
+
+  in GTS’s name.
+
+      120. The acts complained of were naturally incident to Kilpatrick’s work for GTS and were
+
+  undertaken, at least in part, to further GTS’s business interests in administering the load, managing
+
+  a carrier dispute, and reporting a carrier through GTS’s Carrier411 account.
+
+      121. GTS is therefore vicariously liable for Kilpatrick’s defamatory publication and tortious
+
+  interference under the doctrine of respondeat superior.
+
+      122. GTS also ratified the conduct. The FreightGuard was submitted as a GTS report; GTS
+
+  personnel were involved in the same payment dispute; a GTS email address was copied on the
+
+  FreightGuard notice; and GTS has not withdrawn or corrected the report despite the
+
+  contemporaneous evidence contradicting the hostage allegation.
+
+      123. As a direct and proximate result of Kilpatrick’s conduct within the course and scope of
+
+  his agency, and GTS’s ratification thereof, Plaintiffs suffered the damages alleged herein.
+
+                                              COUNT IV
+                                           Injunctive Relief
+                                        (Against All Defendants)
+
+      124. Plaintiffs incorporate and re-allege each preceding allegation as if fully set forth herein.
+
+      125. The FreightGuard report remains associated with AJFJ’s MC number and continues to
+
+  impair AJFJ’s ability to obtain freight and Brar’s professional reputation.
+
+      126. Money damages alone are inadequate to prevent future brokers from seeing and relying
+
+  upon the false factual accusations because every new broker that encounters the report presents
+
+  another risk of a lost business opportunity that is difficult to identify and quantify after the fact.
+
+
+
+
+                                                    23
+Case 2:26-cv-01050-AWA-DEM               Document 1        Filed 09/30/26      Page 24 of 27 PageID# 24
+
+
+
+
+      127. Defendants can take steps within their control to retract, delete, correct, or otherwise
+
+  designate the FreightGuard report as withdrawn or resolved and can refrain from republishing the
+
+  same false factual accusations.
+
+      128. After final adjudication that the challenged factual statements are false and defamatory, a
+
+  narrowly tailored injunction requiring Defendants to take available steps to withdraw the report
+
+  and prohibiting republication of the adjudicated false statements would prevent continuing
+
+  irreparable injury without restricting truthful speech or lawful opinion.
+
+      129. The balance of hardships favors Plaintiffs because Defendants have no legitimate interest
+
+  in maintaining or republishing factual statements adjudicated to be false, while Plaintiffs continue
+
+  to suffer injury to reputation, goodwill, and business relationships for so long as the report remains
+
+  available to prospective brokers.
+
+                                       RESERVATION OF RIGHTS
+
+             Plaintiffs allege the foregoing based upon personal knowledge, contemporaneous
+
+  communications, records in their possession, public records, and information reasonably
+
+  available before discovery. Substantial additional evidence concerning GTS’s Carrier411
+
+  account, the internal decision to publish and maintain the FreightGuard, GTS’s members and
+
+  citizenship, broker vetting records, lost-load causation, and Defendants’ internal communications
+
+  is in Defendants’ or third parties’ possession. Plaintiffs reserve the right to amend this Complaint
+
+  upon a reasonable opportunity for discovery.
+
+                                      DEMAND FOR JURY TRIAL
+
+             In accordance with Fed. R. Civ. P. 38(b), Plaintiffs demand a trial by jury on all issues so
+
+  triable.
+
+
+
+
+                                                      24
+Case 2:26-cv-01050-AWA-DEM          Document 1       Filed 09/30/26     Page 25 of 27 PageID# 25
+
+
+
+
+                                    PRAYER FOR RELIEF
+
+        WHEREFORE, the premises considered, Plaintiffs respectfully request that this
+
+  Honorable Court:
+
+        A. Enter judgment in favor of Plaintiffs and against Defendants, jointly and severally
+
+            where applicable;
+
+        B. Award Plaintiffs compensatory, presumed, general, special, and consequential damages
+
+            in an amount to be proven at trial and in excess of $75,000.00;
+
+        C. Award punitive damages based upon Defendants’ willful, malicious, and knowing
+
+            misconduct, up to the maximum amount ($350,000) permitted by Virginia law;
+
+        D. After adjudicating the challenged factual statements to be false and defamatory,
+
+            permanently enjoin Defendants from republishing those adjudicated false statements
+
+            and require Defendants to take all steps reasonably available to them to withdraw,
+
+            retract, or cause the FreightGuard report to be designated as withdrawn or removed to
+
+            the maximum extent permitted by Carrier411;
+
+        E. Award pre-judgment and post-judgment interest as permitted by law, together with
+
+            taxable costs;
+
+        F. Award Plaintiffs their attorney fees pursuant to St. John v. Thompson, 299 Va. 431, 435,
+
+            854 S.E.2d 648, 651 (2021); see also, Prospect Dev. Co. v. Bershader, 258 Va. 75, 92
+
+            (1999); and
+
+        G. Grant such other and further relief as the Court deems just and proper.
+
+  Dated: September 30, 2026,                         Respectfully submitted,
+
+
+                                                     By: ____/s/ Robert Powers________
+                                                     Robert Powers, Esq.
+                                                     MCCLANAHAN POWERS, PLLC
+
+
+                                                25
+Case 2:26-cv-01050-AWA-DEM   Document 1    Filed 09/30/26    Page 26 of 27 PageID# 26
+
+
+
+
+                                           3160 Fairview Park Drive, Suite 410
+                                           Falls Church, VA 22042
+                                           Telephone: (703) 520-1326
+                                           Facsimile: (703) 828-0205
+                                           Email: rpowers@mcplegal.com
+                                                  ldavis@mcplegal.com
+                                           Counsel for Plaintiffs
+
+
+
+
+                                      26
+Case 2:26-cv-01050-AWA-DEM              Document 1    Filed 09/30/26     Page 27 of 27 PageID# 27
+
+
+
+
+                              VERIFIED COMPLAINT - VERIFICATION
+
+  State of Texas          )
+  County of Kaufman       )
+
+         JASHMEEN SINGH BRAR, being duly sworn, deposes and states:
+
+         I am a Plaintiff in this action and the Operations Manager and an officer of AJFJ
+
+  Transport Corporation. I have read the foregoing Verified Complaint and know its contents. The
+
+  factual allegations are true based upon my personal knowledge, except as to matters stated upon
+
+  information and belief, and as to those matters I believe them to be true. My knowledge,
+
+  information, and belief are derived from my personal involvement in the shipment and
+
+  communications described in the Complaint, my position with AJFJ, my review of AJFJ’s
+
+  business records, and my review of the documents and records relating to the FreightGuard
+
+  report and resulting lost business.
+
+         I declare under penalty of perjury under the laws of the United States of America that the
+
+  foregoing is true and correct.
+
+
+                 September 25
+  Executed on ____________________, 2026.
+
+  __________________________________
+  JASHMEEN SINGH BRAR
+
+
+
+
+                                                 27
+

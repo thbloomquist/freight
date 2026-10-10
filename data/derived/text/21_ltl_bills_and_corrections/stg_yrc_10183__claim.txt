@@ -1,0 +1,891 @@
+United States Bankruptcy Court for the District of New Jersey                                          Your Mail ID is                 DAB78C36-8E50-4E
+
+                                                                                                        For Court Use Only
+ Name of Debtor: STG Logistics, Inc.                                                                    Claim Number:        0000010183
+
+ Case Number:          26-10258                                                                         File Date:           03/09/2026 14:24:51
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                                  04/25
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 YRC FREIGHT
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+                                                Yellow, Yellow-Roadway, Roadway
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?         □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                         Where should payments to the creditor be sent? (if different)
+
+Name          YRC FREIGHT
+             ________________________________________________________                 Name        ________________________________________________________
+
+Address        11500 Outlook Street
+              _______________________________________________________                 Address     _______________________________________________________
+               STE 400
+              _______________________________________________________                             _______________________________________________________
+
+             _______________________________________________________                              _______________________________________________________
+
+             _______________________________________________________                             _______________________________________________________
+
+City           Overland Park
+             _______________________________________________________                             _______________________________________________________
+                                                                                      City
+
+State          KS
+             ______________________                  66211
+                                           ZIP Code _______________________                      ______________________        ZIP Code _______________________
+                                                                                      State
+
+Country (if International): __________________________________________                Country (if International): __________________________________________
+              9133443000
+Phone:       _______________________________________________________                  Phone:     _______________________________________________________
+              legal@myyellow.com
+Email:       _______________________________________________________                  Email:     _______________________________________________________
+Uniform claim identifier (if you use one): _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+4. Does this claim amend one already filed?                                           5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                                 □✔ No
+□ Yes.                                                                                □ Yes.
+     Claim number on court claims register (if known) _____________________              Who made the earlier filing?
+
+     Filed on ______________________________________________________                     _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                                   Page 1 of 3
+Part 2:      Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                         8. What is the basis of the claim?
+                                                      7. How much is the claim?
+    identify the debtor?                                 13,583.67
+                                                      $_______________________________________
+□ No                                                                                                         Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                             personal injury or wrongful death, or credit card. Attach redacted
+□
+✔ Yes.                                                Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                                 Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                      charges?
+number you use to identify the debtor:                                                                       such as health care information.
+                                                      □✔ No
+          227S
+    ___________________________________________
+                                                      □ Yes. Attach statement itemizing interest, fees,       Goods Sold/Services Performed (Trade)
+                                                                                                             _________________________________________________________
+                                                               expenses, or other charges required by
+                                                               Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                       10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                          □
+                                                                              ✔ No                                        □
+                                                                                                                          ✔ No
+□ Yes. The claim is secured by a lien on property.                            □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                              any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal              $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                               12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                                  under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                          ____________________________________                □
+                                                                              ✔ No
+                                                                                                                                               some categories, the law limits the
+                                                                                                                                               amount entitled to priority.
+Basis
+i     for perfection:                                                         □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                              □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,               child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that             □  Up to $3,800* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                                   rental of property or services for personal, family, or
+Value of property:                                $_____________________      household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:              $_____________________
+                                                                              □ Wages, salaries, or commissions (up to $17,150*)               $_____________________
+                                                                              earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________                 filed or the debtor’s business ends, whichever is earlier.
+(The sum of the secured and unsecured amounts should match the                11 U.S.C. § 507(a)(4).                                           $_____________________
+amount in line 7.)                                                            □ Taxes or penalties owed to governmental units.
+                                                                              11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                                   $_____________________
+default as of the date of the petition: $_____________________                □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                              507(a)(5).
+Annual Interest Rate (when case was filed)            ______________%                                                                          $_____________________
+                                                                              □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                                    □ Fixed □ Variable        (___________) that applies.
+                                                                              * Amounts are subject to adjustment on 4/01/28 and every 3 years after that for cases
+                                                                              begun on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                           Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Todd Wilson                                                                    03/09/2026 14:24:51
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                            Name      ______________________________________________________________________________________________
+
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                            City      _____________________________________________________________________________________________
+
+                            State      ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+
+                            Phone     _____________________________________________________________________________________________
+
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+US-- ‪STG LOGISTICS‬- ST227S
+Total (Count)         $13,583.67 (8)
+Overdue               $13,583.67
+
+
+
+                                               Cumulative
+    Pro Number          Amount         Sales    Amount                   Accessorial
+648-358429-6               $200.00 HMES            $200.00 DRVD PRNT
+609-194236-2              $1,252.69 HMES         $1,452.69 DEF AS IDIS REWT PRNT FSC
+670-438395-X              $1,323.80 HMES         $2,776.49 IDIS PRNT FSC
+                          $2,776.49
+
+655-987651-6                $884.14 NPME         $3,660.63 DEF AS   IDIS APPT PRNT FSC   SINV
+                            $884.14
+
+691-553093-9               $2,450.70 YRCF        $6,111.33 APPT REWT CBLS CALC PRNT FSC SINV
+670-757823-0                $997.01 YRCF         $7,108.34 LFTD PRNT FSC SINV
+660-263275-X               $3,963.08 YRCF       $11,071.42 DEF AS PRNT FSC SINV
+653-301787-9               $2,512.25 YRCF       $13,583.67 PLTW APPT REWT PRNT FSC SINV
+                          $9,923.04
+
+                         $13,583.67
+   Age    Bill Date   Due Date        Tariff # (PrePaid)      P/C    Pickup Date
+1321       6/3/2022     6/3/2022 YRC.557                   COLLECT      5/13/2022
+1241      8/22/2022    8/22/2022 YELL.334..8000/YRC.557    COLLECT       7/8/2022
+1181     10/21/2022   10/21/2022 RDWY.81300..411           COLLECT       9/8/2022
+
+
+1263     7/31/2022     7/31/2022 YELL.334..8000/YRC.557    COLLECT     6/24/2022
+
+
+1142     11/29/2022   11/29/2022 YELL.299                  COLLECT    10/12/2022
+1042       3/9/2023     3/9/2023 RDWY.499..300100          PREPAID     2/10/2023
+963       5/27/2023    5/27/2023 RDWY.499..300100          PREPAID      5/8/2023
+889        8/9/2023     8/9/2023 RDWY.499..300100          COLLECT      7/5/2023
+                                                                               Child Account
+Delivery Date     BOL/Shipper No        PO Number     Orig Term NoDest Term No City-State
+     5/13/2022                                             311.00      311.00 N BERGEN,NJ
+     7/19/2022 T 00286320003321169 PO# R HO001-0122        364.00      323.00 N BERGEN,NJ
+     9/12/2022 T N1883348HKG       PO# R AUG 2022          208.00      323.00 N BERGEN,NJ
+
+
+    7/5/2022                      PO# R 305595            107.00      106.00 N BERGEN,NJ
+
+
+  10/21/2022                                              153.00      896.00 N BERGEN,NJ
+    3/3/2023 T 407175                                     184.00      184.00 N BERGEN,NJ
+   5/11/2023 T 6353759390                                 126.00      223.00 N BERGEN,NJ
+    7/7/2023                      PO# R 4502395142        184.00      126.00 N BERGEN,NJ
+  Child Account    Child Account
+      Name            Number
+STG LOGISTICS     ST227S
+STG LOGISTICS     ST227S
+STG LOGISTICS     ST227S
+
+
+STG LOGISTICS     ST227S
+
+
+STG LOGISTICS     ST227S
+STG LOGISTICS     ST227S
+STG LOGISTICS     ST227S
+STG LOGISTICS     ST227S
+                               2EDD26014383F4E67927 15:25:03
+
+
+
+
+                                        HMES                                                                 PAST DUE
+                                                                                                               )UHLJKW%LOO            $PRXQW 'XH
+                                                                                                            648-358429-6                       U.S. Dollars
+
+                                                                                                                                         $200.00
+                                                                                  
+                                                                                  6(59,&( STANDARD &+$5*(6COLLECT
+
+CTL C/O STG LOGISTICS                                                                                                   Invoice Date:
+PICKUP REQUEST NO FREIGHT                                                       Mail Payments To                                                05/17/2022
+                                                                                                                        Payment Due:            ON RECEIPT
+951 THORNDALE AVE                                                                USF Holland LLC
+                                                                                 27052 Network Place                    Shipment Date:          05/13/2022
+BENSENVILLE, IL 60106
+                                                                                 Chicago, IL 60673-1270
+
+
+                                                                                                                                        7D[,'38-0655940
+                                                                                                                                                0141525
+
+
+  6KLSSLQJ'HWDLOV                         6KLSSHU                               &RQVLJQHH                                7KLUG3DUW\
+4XRWH,'                                 HOLLAND TERMINAL                        CTL C/O STG LOGISTICS
+7DULII,WHP                                5550 CLEVELAND                          PICKUP REQUEST NO FREIGHT
+ YRC.557                                    S BEND, IN 46628                        951 THORNDALE AVE
+                                                                                    BENSENVILLE, IL 60106
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                         'HVFULSWLRQRI$UWLFOHV                           &ODVV&RGH          :HLJKW             5DWH                    &KDUJHV
+                               DRIVER DISPATCHED NO FREIGHT TENDERED 1 UNIT          DRVD                                    195.00                      195.00
+                               PAPER INVOICE FEE                                     PRNT                                                                  5.00
+
+
+
+
+ 7RWDO 3LHFHV                                                                                       7RWDO :HLJKW                      7RWDO $PRXQW 'XH
+                                                                                                                                                         200.00
+
+
+
+
+TYPE      REFERENCE NUMBER                                           STORE #        DEPT NO.      CTN COUNT WEIGHT
+
+
+
+
+           In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance may
+              result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection fees
+                           may apply on payments received after due date. All supporting documents available at www.hollandregional.com
+                                                        866-465-5263 - Customer Service - corrections.support@myyellow.com
+
+Click Here for Documents                                       Thank you for using Holland!
+                                2EDD26014383F4E67927 15:25:04
+
+
+
+
+                                         HMES                                                                PAST DUE
+                                                                                                               )UHLJKW%LOO            $PRXQW 'XH
+                                                                                                            609-194236-2                       U.S. Dollars
+
+                                                                                                                                         $1,252.69
+                                                                                  
+                                                                                  6(59,&( STANDARD &+$5*(6COLLECT
+
+CTL C O STG LOGISTICS EXPORT                                                                                            Invoice Date:
+951 THORNDALE AVE                                                               Mail Payments To                                                08/07/2022
+                                                                                                                        Payment Due:            ON RECEIPT
+BENSENVILLE, IL 60106                                                            USF Holland LLC
+                                                                                 27052 Network Place                    Shipment Date:          07/08/2022
+                                                                                 Chicago, IL 60673-1270
+
+
+                                                                                                                                        7D[,'38-0655940
+                                                                                                                                                0141525
+
+
+  6KLSSLQJ'HWDLOV                         6KLSSHU                               &RQVLJQHH                                7KLUG3DUW\
+4XRWH,'                                  PURE FISHING                           CTL C O STG LOGISTICS EXPORT
+7DULII,WHP                                 10220 NW TRANSCON DR                   951 THORNDALE AVE
+ YELL.334..8000                              KANSAS CITY, MO 64153                  BENSENVILLE, IL 60106
+ YRC.557
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                         'HVFULSWLRQRI$UWLFOHV                           &ODVV&RGH          :HLJKW             5DWH                    &KDUJHV
+ 1                              CONTAINING
+                                FISH SUP                                             C125                    61              305.54                      186.38
+                                CL C125
+                                FISH SUP                                             C200                   294              473.32                    1391.56
+                                CL C200
+                                FISH SUP                                             C175                     5              416.86                       20.84
+                                CL C175
+                                BILLED WGHT MINUS ACTUAL WGHT 140 LBS                DEF                    140              305.54                      427.76
+                                BILLED AS WEIGHT SEE CODE DEF 500 LBS                AS                     500
+                                DISCOUNT                                             DISC                                   60.00%                  - 1215.92
+                                WEIGHT INSPECTION CHARGE                             REWT                                                               35.00
+                                PAPER INVOICE FEE                                    PRNT                                                                5.00
+                                GENERAL SURCHARGE (FUEL/FRT)                         FSC                                    49.60%                     402.07
+
+
+
+
+ 7RWDO 3LHFHV                                                                                       7RWDO :HLJKW                      7RWDO $PRXQW 'XH
+ 1                                                                                                          360                                       1,252.69
+
+
+
+
+TYPE      REFERENCE NUMBER                                            STORE #       DEPT NO.      CTN COUNT WEIGHT
+BL          00286320003321169
+PO          HO001-0122
+
+
+
+
+           In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance may
+              result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection fees
+                           may apply on payments received after due date. All supporting documents available at www.hollandregional.com
+                                                        866-465-5263 - Customer Service - corrections.support@myyellow.com
+
+Click Here for Documents                                        Thank you for using Holland!
+                               2EDD26014383F4E67927 15:25:08
+
+
+
+
+                                        HMES                                                                  PAST DUE
+                                                                                                                )UHLJKW%LOO           $PRXQW 'XH
+                                                                                                             670-438395-X                      U.S. Dollars
+
+                                                                                                                                         $1,323.80
+                                                                                  
+                                                                                  6(59,&( STANDARD &+$5*(6COLLECT
+
+CTL C O STG LOGISTICS EXPORT                                                                                            Invoice Date:
+951 THORNDALE AVE                                                               Mail Payments To                                                10/01/2022
+                                                                                                                        Payment Due:            ON RECEIPT
+BENSENVILLE, IL 60106                                                            USF Holland LLC
+                                                                                 27052 Network Place                    Shipment Date:          09/08/2022
+                                                                                 Chicago, IL 60673-1270
+
+
+                                                                                                                                        7D[,'38-0655940
+                                                                                                                                                0141525
+
+
+  6KLSSLQJ'HWDLOV                         6KLSSHU                               &RQVLJQHH                                7KLUG3DUW\
+4XRWH,'                                 PIPING ROCK HEALTH PRODUCTS             WINSOR & CO-CTL                          CTL C O STG LOGISTICS EXPORT
+7DULII,WHP                                630 MONDIAL PKWY                        STG LOGISTICS-EXPOR                      - EXPORT
+ RDWY.81300..411                            STREETSBORO, OH 44241                   951 THORNDALE AVE                        951 THORNDALE AVE
+                                                                                    BENSENVILLE, IL 60106                    BENSENVILLE, IL 60106
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                         'HVFULSWLRQRI$UWLFOHV                           &ODVV&RGH          :HLJKW             5DWH                    &KDUJHV
+ 2                             VITAMINS                                              C125                   1135             205.00                    2326.75
+                               CL C125
+                               DIM: 48.0x40.0x48.0
+                               CFT: 106.67 DEN: 10.640
+                               DISCOUNT                                              DISC                                   60.00%                  - 1396.05
+                               PAPER INVOICE FEE                                     PRNT                                                                5.00
+                               GENERAL SURCHARGE (FUEL/FRT)                          FSC                                    41.70%                     388.10
+
+
+
+
+ 7RWDO 3LHFHV                                                                                       7RWDO :HLJKW                      7RWDO $PRXQW 'XH
+ 2                                                                                                          1,135                                     1,323.80
+
+
+
+
+TYPE      REFERENCE NUMBER                                           STORE #        DEPT NO.      CTN COUNT WEIGHT
+BL          N1883348HKG
+PO          AUG 2022
+
+
+
+
+           In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance may
+              result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection fees
+                           may apply on payments received after due date. All supporting documents available at www.hollandregional.com
+                                                        866-465-5263 - Customer Service - corrections.support@myyellow.com
+
+Click Here for Documents                                       Thank you for using Holland!
+                              2EDD26014383F4E77927 15:25:03
+
+
+
+
+                                       NPME                                                                 PAST DUE
+                                                                                                              )UHLJKW%LOO            $PRXQW 'XH
+                                                                                                           655-987651-6                       U.S. Dollars
+
+                                                                                                                                        $884.14
+                                                                                 
+                                                                                 6(59,&( STANDARD &+$5*(6COLLECT
+
+ECONO                                                                                                                   Invoice Date:
+6801 WEST SIDE AVE                                                              Mail Payments To                                               07/16/2022
+                                                                                NEW PENN MOTOR EXPRESS LLC              Payment Due:           ON RECEIPT
+N BERGEN, NJ 07047
+                                                                                24801 NETWORK PLACE                     Shipment Date:         06/24/2022
+                                                                                CHICAGO IL 60673-1248
+
+
+                                                                                                                                       7D[,'23-2209533
+                                                                                                                                               0141525
+
+
+  6KLSSLQJ'HWDLOV                        6KLSSHU                                &RQVLJQHH                               7KLUG3DUW\
+4XRWH,'                                S/F INWOOD NY 11096                     ECONO
+7DULII,WHP                               ECONOCARIBE                             ECU NJ LOGISTICS
+ YELL.334..8000                            2525 CHERRY AVE                         6801 W SIDE AVE
+ YRC.557                                   SIGNAL HILL, CA 90755                   N BERGEN, NJ 07047
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                        'HVFULSWLRQRI$UWLFOHV                            &ODVV&RGH          :HLJKW            5DWH                    &KDUJHV
+ 1                             ROLL                                                 C70                    745              135.94                    1012.75
+                               CL C70 3 PCS
+                               DIM: 48.0x86.0x17.0
+                               CFT: 40.61 DEN: 18.350
+                               BILLED WGHT MINUS ACTUAL WGHT 255 LBS                DEF                    255              135.94                      346.65
+                               BILLED AS WEIGHT SEE CODE DEF 1000 LBS               AS                    1000
+                               DISCOUNT                                             DISC                                    60.00%                  - 815.64
+                               SYSTEM AUTO ADD COLLECT APPT FOR DRIV                APPT                                                               63.50
+                               ER COLLECT
+                               PAPER INVOICE FEE                                    PRNT                                                                  5.00
+                               GENERAL SURCHARGE (FUEL/FRT)                         FSC                                     50.00%                      271.88
+
+
+
+
+ 7RWDO 3LHFHV                                                                                      7RWDO :HLJKW                      7RWDO $PRXQW 'XH
+ 1                                                                                                         745                                          884.14
+
+
+
+
+TYPE      REFERENCE NUMBER                                         STORE #          DEPT NO.      CTN COUNT WEIGHT
+PO          305595
+
+
+
+
+          In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance
+          may result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection
+                      fees may apply on payments received after due date. All supporting documents available at www.newpenn.com.
+                                            800-285-5000 - Customer Service - customerservice@newpenn.com
+
+Click Here for Documents                                  Thank you for using New Penn!
+                              2EDD26014383F5037927 15:25:03
+
+
+
+
+                               5':<
+                                                                                                             PAST DUE
+                                                                                                                )UHLJKW%LOO            $PRXQW 'XH
+                                                                                                             691-553093-9                       U.S. Dollars
+
+                                                                                                                                          $2,450.70
+                                                                                  
+                                                                                  6(59,&( STANDARD &+$5*(6COLLECT
+
+CTL                                                                                                                     Invoice Date:
+2201 E CARSON ST                                                                Mail Payments To                                                10/30/2022
+                                                                                                                        Payment Due:            ON RECEIPT
+CARSON, CA 90810                                                                YRC FREIGHT
+                                                                                P.O. BOX 100129                         Shipment Date:          10/12/2022
+                                                                                PASADENA, CA 91189-0003
+
+
+                                                                                                                                         7D[,'
+                                                                                                                                                 0141525
+
+
+  6KLSSLQJ'HWDLOV                        6KLSSHU                                &RQVLJQHH                                7KLUG3DUW\
+4XRWH,'                                VALLEY DISCOUNT SERVICES                 CTL
+7DULII,WHP                               2260 VALLEY AVE                          EXPORT RECEIVING/STG LOGISTICS
+ YELL.299                                  WINCHESTER, VA 22601                     2201 E CARSON ST
+                                                                                    CARSON, CA 90810
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                        'HVFULSWLRQRI$UWLFOHV                            &ODVV&RGH           :HLJKW            5DWH                     &KDUJHV
+ 1                             PLT SCANNER                                           C92.5                   740                 MIN                    2362.50
+                               NMFC: 99999807 CL C925
+                               DIM: 43.0x43.0x68.0
+                               CFT: 72.76 DEN: 10.170
+ 2                             PLT SCANNER                                           C92.5                  1520                                               0.00
+                               NMFC: 99999807 CL C925
+                               DIM: 43.0x43.0x68.0
+                               CFT: 145.52 DEN: 10.450
+ 2                             PLT SCANNER                                           C100                   1830                                               0.00
+                               NMFC: 99999806 CL C100
+                               DIM: 43.0x43.0x68.0
+                               CFT: 145.52 DEN: 12.580
+ 1                             PLT SCANNER                                           C92.5                   780                                               0.00
+                               NMFC: 99999807 CL C925
+                               DIM: 43.0x43.0x68.0
+                               CFT: 72.76 DEN: 10.720
+
+ 7RWDO 3LHFHV                                                                                        7RWDO :HLJKW                      7RWDO $PRXQW 'XH
+ 7                                                                                                         5,670                                       2,450.70
+  ******For any concerns on invoices go to www.YRCFREIGHT.com, click "Manage" tab and click "Report an Issue"******
+
+
+
+TYPE      REFERENCE NUMBER                                         STORE #          DEPT NO.       CTN COUNT WEIGHT
+DJ          CTL2216808HKG
+
+
+
+
+          In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance
+          may result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection
+            fees may apply on payments received after due date. All supporting documents and online bill pay available at www.yrcfreight.com.
+                                           800-610-6500 - Customer Service - customer.service@yrcfreight.com
+
+Click Here for Documents                              Thank you for using YRC Freight
+                                                                                                                                           2EDD26014383F5037927 15:25:03
+
+
+
+                                                                                                                                                                    4   5       6   7
+
+
+
+
+                                                                                                                                                                                                                                                     PAST DUE
+                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                      T
+                                                                                                                                                                                                                                                 K   L       M       N       O       P       Q                                N           S   S
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                   Q                                   M
+
+
+
+
+                                                                                                                                                                                                                                                                                                              R                                                                           U               V           W    X   Y                               X
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                               Z
+
+
+
+
+                                                                                                                                                                                                                                                691-553093-9                                                                                                                                                              U.S. Dollars
+
+
+                                                                                                                                                                                                  8    C   D    E    F   G   C   B
+                                                                                                                                                                                                                                                                                                                                                                                                                  $2,450.70
+                                                                                                                                                                                                                                                         G       H       I       D       J            C               8           B
+
+
+
+
+          CTL                                                                                                                                                                                                                        STANDARD                                                                                                 COLLECT
+          2201 E CARSON ST
+          CARSON, CA 90810                                                                                                                                                                            Invoice'DWH                   10/30/2022                                               8
+                                                                                                                                                                                                                                                                                                     Payment Due Date:
+                                                                                                                                                                                                                                                                                                          9       :       ;           <           =       >   ?
+                                                                                                                                                                                                                                                                                                                                                                  @   A
+                                                                                                                                                                                                                                                                                                                                                                              ?       =           B
+                                                                                                                                                                                                                                                                                                                                                                                                                                   ON RECEIPT
+                                                                                                                                                                                                                                                                                                                                                                                                                                   10/12/2022
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      !   
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                           0141525
+
+              [    #           *   \       \       *       0   &           (       '       )       $           *   +   ,
+
+
+
+
+                                                                                                                                                            6KLSSHU                           &RQVLJQHH                                                                                              7KLUG3DUW\
+          4XRWH,'                                                                                                                                       VALLEY DISCOUNT SERVICES          CTL
+                                                                                                                                                            2260 VALLEY AVE                   EXPORT RECEIVING/STG LOGISTICS
+          7DULII,WHP                                                                                                                                     WINCHESTER, VA 22601              2201 E CARSON ST
+                  YELL.299                                                                                                                                                                    CARSON, CA 90810
+
+
+
+              "        #   $           %       &       '           (   '       )       $       *       +   ,               -   .   /   0    )   *   0   1   '   2           3
+
+
+
+
+         3FV                                                                                               'HVFULSWLRQRI$UWLFOHV                                                                         &ODVV&RGH                           :HLJKW                                                                                                    5DWH                                                                         &KDUJHV
+          1                                                                                                    PLT SCANNER                                                                                     C92.5                                 800                                                                                                                                                                                                           0.00
+                                                                                                               NMFC: 99999807 CL C925
+                                                                                                               DIM: 43.0x43.0x68.0
+                                                                                                               CFT: 72.76 DEN: 11.000
+                                                                                                               DELIVERY APPOINTMENT                                                                            APPT                                                                                                                                                                                                                                    67.25
+                                                                                                               WEIGHT INSPECTION CHARGE                                                                        REWT
+                                                                                                               CORRECTED BILL OF LADING                                                                        CBLS
+                                                                                                               CALIFORNIA COMPL. SURCHARGE                                                                     CALC                                                                                                                                                                                                                                    15.95
+                                                                                                               PAPER INVOICE FEE                                                                               PRNT                                                                                                                                                                                                                                     5.00
+                                                                                                               GENERAL SURCHARGE (FUEL/FRT)                                                                    FSC
+
+
+
+
+          TYPE                             REFERENCE NUMBER                                                                                                                             STORE #                     DEPT NO.             CTN COUNT WEIGHT
+
+
+
+
+Page 2 of 2
+                              2EDD26014383F5037927 15:25:06
+
+
+
+
+                               5':<
+                                                                                                             PAST DUE
+                                                                                                                )UHLJKW%LOO              $PRXQW 'XH
+                                                                                                             670-757823-0                         U.S. Dollars
+
+                                                                                                                                            $997.01
+                                                                                  
+                                                                                  6(59,&( STANDARD &+$5*(6PREPAID
+
+STG LOGISTICS                                                                                                           Invoice Date:
+6801 W SIDE AVE                                                                 Mail Payments To                                                  02/21/2023
+                                                                                                                        Payment Due:              ON RECEIPT
+N BERGEN, NJ 07047                                                              YRC FREIGHT
+                                                                                P.O. BOX 13573                          Shipment Date:            02/10/2023
+                                                                                NEWARK, NJ 07188-3573
+
+
+                                                                                                                                           7D[,'
+                                                                                                                                                   0141525
+
+
+  6KLSSLQJ'HWDLOV                        6KLSSHU                                &RQVLJQHH                                7KLUG3DUW\
+4XRWH,'                                S/F W CHESTER PA 19382                   MDT2                                     STG LOGISTICS
+7DULII,WHP                               STG LOGISTICS                            IUSL                                     6801 W SIDE AVE
+ RDWY.499..300100                          6801 W SIDE AVE                          600 PRINCIPIO PKWY W                     N BERGEN, NJ 07047
+                                           N BERGEN, NJ 07047                       NORTHEAST, MD 21901
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                        'HVFULSWLRQRI$UWLFOHV                            &ODVV&RGH           :HLJKW            5DWH                       &KDUJHV
+ 5                             PLT MATTRESS PROTECTOR                                P85                    3095                 17.44                      539.77
+                               NMFC: 99999808 CL C85 120 PCS
+                               LIFTGATE SERVICE DESTINATION                          LFTD                                         7.95                      246.05
+                               PAPER INVOICE FEE                                     PRNT                                                                     5.00
+                               GENERAL SURCHARGE (FUEL/FRT)                          FSC                                    38.20%                          206.19
+
+
+
+
+ 7RWDO 3LHFHV                                                                                        7RWDO :HLJKW                        7RWDO $PRXQW 'XH
+ 5                                                                                                         3,095                                            997.01
+  ******For any concerns on invoices go to www.YRCFREIGHT.com, click "Manage" tab and click "Report an Issue"******
+
+
+
+TYPE      REFERENCE NUMBER                                          STORE #         DEPT NO.       CTN COUNT WEIGHT
+SC          B
+BL          407175
+
+
+
+
+          In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance
+          may result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection
+            fees may apply on payments received after due date. All supporting documents and online bill pay available at www.yrcfreight.com.
+                                           800-610-6500 - Customer Service - customer.service@yrcfreight.com
+
+Click Here for Documents                              Thank you for using YRC Freight
+                              2EDD26014383F5037927 15:25:12
+
+
+
+
+                               5':<
+                                                                                                             PAST DUE
+                                                                                                                )UHLJKW%LOO              $PRXQW 'XH
+                                                                                                             660-263275-X                         U.S. Dollars
+
+                                                                                                                                            $3,963.08
+                                                                                  
+                                                                                  6(59,&( STANDARD &+$5*(6PREPAID
+
+STG LOGISTICS                                                                                                           Invoice Date:
+6801 W SIDE AVE                                                                 Mail Payments To                                                  05/11/2023
+                                                                                                                        Payment Due:              ON RECEIPT
+N BERGEN, NJ 07047                                                              YRC FREIGHT
+                                                                                P.O. BOX 13573                          Shipment Date:            05/08/2023
+                                                                                NEWARK, NJ 07188-3573
+
+
+                                                                                                                                           7D[,'
+                                                                                                                                                   0141525
+
+
+  6KLSSLQJ'HWDLOV                        6KLSSHU                                &RQVLJQHH                                7KLUG3DUW\
+4XRWH,'                                STG LOGISTICS                            ANTOLIN INTERIORS
+7DULII,WHP                               6801 W SIDE AVE                          TOC GANA OPS
+ RDWY.499..300100                          N BERGEN, NJ 07047                       3705 W GRAND RIVER
+                                                                                    HOWELL, MI 48855
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                        'HVFULSWLRQRI$UWLFOHV                            &ODVV&RGH           :HLJKW            5DWH                       &KDUJHV
+15                             PLT AUTO PARTS                                        P175                   4899                 59.52                    2915.88
+                               NMFC: 99999899 CL C175 15 CTN
+                               BILLED WGHT MINUS ACTUAL WGHT 101 LBS                 DEF                     101                 59.52                       60.12
+                               BILLED AS WEIGHT SEE CODE DEF 5000 LBS                AS                     5000
+                               PAPER INVOICE FEE                                     PRNT                                                                     5.00
+                               GENERAL SURCHARGE (FUEL/FRT)                          FSC                                    33.00%                          982.08
+
+
+
+
+ 7RWDO 3LHFHV                                                                                        7RWDO :HLJKW                        7RWDO $PRXQW 'XH
+15                                                                                                         4,899                                         3,963.08
+  ******For any concerns on invoices go to www.YRCFREIGHT.com, click "Manage" tab and click "Report an Issue"******
+
+
+
+TYPE      REFERENCE NUMBER                                         STORE #          DEPT NO.       CTN COUNT WEIGHT
+BL          WICC23040100
+BL          6353759390
+
+
+
+
+          In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance
+          may result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection
+            fees may apply on payments received after due date. All supporting documents and online bill pay available at www.yrcfreight.com.
+                                           800-610-6500 - Customer Service - customer.service@yrcfreight.com
+
+Click Here for Documents                              Thank you for using YRC Freight
+                              2EDD26014383F5037927 15:25:14
+
+
+
+
+                               5':<
+                                                                                                             PAST DUE
+                                                                                                                )UHLJKW%LOO              $PRXQW 'XH
+                                                                                                             653-301787-9                         U.S. Dollars
+
+                                                                                                                                            $2,512.25
+                                                                                  
+                                                                                  6(59,&( STANDARD &+$5*(6COLLECT
+
+ECU                                                                                                                     Invoice Date:
+6801 W SIDE AVE                                                                 Mail Payments To                                                  07/25/2023
+                                                                                                                        Payment Due:              ON RECEIPT
+N BERGEN, NJ 07047                                                              YRC FREIGHT
+                                                                                P.O. BOX 13573                          Shipment Date:            07/05/2023
+                                                                                NEWARK, NJ 07188-3573
+
+
+                                                                                                                                           7D[,'
+                                                                                                                                                   0141525
+
+
+  6KLSSLQJ'HWDLOV                        6KLSSHU                                &RQVLJQHH                                7KLUG3DUW\
+4XRWH,'                                CRODA INC % D & S WAREHOUSING            ECU
+7DULII,WHP                               104 ALAN DR                              6801 W SIDE AVE
+ RDWY.499..300100                          NEWARK, DE 19711                         N BERGEN, NJ 07047
+
+
+
+
+  &KDUJH'HWDLOV
+ 3FV                        'HVFULSWLRQRI$UWLFOHV                            &ODVV&RGH           :HLJKW            5DWH                       &KDUJHV
+ 8                             PLT CHEMICALS                                         P85                   11440                 14.91                    1705.70
+                               NMFC: 04394002 CL C85 24 PCS
+                               PALLET WEIGHT 910 LBS                                 PLTW                    910                 14.91                      135.68
+                               SYSTEM AUTO ADD COLLECT APPT FOR DRIV                 APPT                                                                    67.25
+                               ER COLLECT
+                               WEIGHT INSPECTION CHARGE                              REWT                                                                    37.00
+                               PAPER INVOICE FEE                                     PRNT                                                                     5.00
+                               GENERAL SURCHARGE (FUEL/FRT)                          FSC                                    30.50%                          561.62
+
+
+
+
+ 7RWDO 3LHFHV                                                                                        7RWDO :HLJKW                        7RWDO $PRXQW 'XH
+ 8                                                                                                        12,350                                         2,512.25
+  ******For any concerns on invoices go to www.YRCFREIGHT.com, click "Manage" tab and click "Report an Issue"******
+
+
+
+TYPE      REFERENCE NUMBER                                         STORE #          DEPT NO.       CTN COUNT WEIGHT
+PO          4502395142
+
+
+
+
+          In order to properly apply payment, please submit a separate detailed accounting with the payment. Failure to supply proper remittance
+          may result in delayed application of your payment, which may impact the status of your account. Late payment penalty and/or collection
+            fees may apply on payments received after due date. All supporting documents and online bill pay available at www.yrcfreight.com.
+                                           800-610-6500 - Customer Service - customer.service@yrcfreight.com
+
+Click Here for Documents                              Thank you for using YRC Freight
+

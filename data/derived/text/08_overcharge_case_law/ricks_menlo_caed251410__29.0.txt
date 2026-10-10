@@ -1,0 +1,1583 @@
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 1 of 35
+
+
+ 1   Michael A Hirst, Esq. CA Bar #131034
+     michael.hirst@hirstlawgroup.com
+ 2   HIRST LAW GROUP, P.C.                                         FILED
+     200 B Street, Suite A                                        Feb 09, 2016
+                                                               CLERK, U.S. DISTRICT COURT
+ 3   Davis, CA 95616                                         EASTERN DISTRICT OF CALIFORNIA
+
+     Tel: (530) 756-7700
+ 4   Fax: (530) 756-7707
+ 5
+ 6
+     Attorneys for Plaintiff-Relators
+     Richard Ricks and Marcelo Cuellar
+                                                    SEALED
+ 7                                  UNITED STATES DISTRICT COURT
+ 8                           FOR THE EASTERN DISTRICT OF CALIFORNIA
+ 9
+10
+      UNITED STATES OF AMERICA ex rel.                  CASE 2:13-CV-0539-KJM-AC
+11    RICHARD RICKS AND MARCELO
+      CUELLAR,                                          FIRST AMENDED
+12                                                      COMPLAINT
+                      Plaintiffs,
+13                                                      DEMAND FOR JURY TRIAL
+              v.
+14                                                      FILED UNDER SEAL
+      MENLO WORLDWIDE GOVERNMENT                        PURSUANT TO 31 U.S.C.
+15    SERVICES, LLC; MENLO LOGISTICS, INC.;             § 3730(b)(2)
+      CON-WAY INC.; XPO LOGISTICS, INC.;
+16    ESTES FORWARDING WORLDWIDE LLC;
+      ESTES EXPRESS LINES; and DOES 1 through
+17    25,
+
+18                    Defendants.
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+     First Amended Complaint Filed Under Seal
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 2 of 35
+
+
+ 1           Plaintiffs Richard Ricks (“Ricks”) and Marcelo Cuellar (“Cuellar”), through their counsel
+ 2   Hirst Law Group, P.C., and on behalf of the United States of America, allege as follows:
+ 3   I.      NATURE OF THIS ACTION
+ 4           1. Beginning in 2007, Defendants Menlo Worldwide Government Services, LLC, Menlo
+ 5   Logistics, Inc., Con-way Inc., now acquired by XPO Logistics, Inc. (collectively “Menlo”), Estes
+ 6   Forwarding Worldwide LLC, Estes Express Lines (collectively “Estes”), and Menlo’s other
+ 7   subcontractors (“Doe Subcontractors”) (Menlo, Estes and Doe Subcontractors are collectively
+ 8   referred to as “Defendants”), have knowingly submitted, caused the submission of, and
+ 9   conspired to submit, false and fraudulent claims to the United States in their work under the
+10   Defense Transportation Coordination Initiative (“DTCI”).
+11           2. Under the DTCI Contract (“Contract”), Defendants have defrauded the government by
+12   submitting false claims for inflated charges to which they are not entitled. Among other conduct,
+13   Defendants have knowingly and substantially: (1) overcharged for the actual line haul costs of
+14   shipping military freight, claiming the freight was shipped by air when the freight was actually
+15   shipped by ground; (2) overcharged for higher accessorial surcharges in connection with freight
+16   shipments, including charging for higher air fuel surcharges instead of lower ground fuel
+17   surcharges when the freight was actually shipped by ground; and (3) overcharged for other
+18   accessorial surcharges in connection with shipments, including charging a higher amount for
+19   over-dimensional surcharges for air shipments when the freight was actually shipped by ground,
+20   and even when, on numerous occasions, the freight was ineligible for an oversize surcharge at all
+21   when shipped by ground.
+22           3. In addition, Defendants have also defrauded the government by: (4) overcharging for
+23   expedited shipments, through which other accessorial surcharges were wrongfully inflated; (5)
+24   overcharging for truckload shipments by rounding up in charging for mileage, instead of
+25   rounding to the closest mile, which includes rounding down when appropriate; (6) overcharging
+26   for higher fuel surcharge rates for diverted freight by selecting the highest rate in effect on either
+27   the pickup date or diversion date, whichever was higher, rather than applying only the fuel
+28   surcharge rate in effect on the pickup date; and (7) overcharging for less than truckload
+
+     First Amended Complaint Filed Under Seal          1
+             Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 3 of 35
+
+
+ 1   shipments by using an inflated weight for such shipments.
+ 2           4. Moreover, Defendant Menlo has defrauded the government by knowingly failing to
+ 3   perform its contractual duties to audit, monitor, and coordinate freight shipments for the benefit
+ 4   of the government and to ensure that shipment charges are reasonable and appropriate. Despite
+ 5   knowing that Estes and Doe Subcontractors have been overcharging the government under the
+ 6   DTCI, and despite allowing that conduct to continue, Menlo received and retained substantial
+ 7   payments, including bonus payments, to which it knew it was not entitled.
+ 8           5. The law and public policy encourage whistleblowers to report on, and help to stop,
+ 9   fraud perpetrated against the government. Nonetheless, when Defendant Estes discovered that
+10   Relator Cuellar had provided information about Defendants’ fraud to the United States, in
+11   violation of law and public policy, Estes wrongfully retaliated against Cuellar by immediately
+12   firing him.
+13           6. Defendants’ knowing submission of false and fraudulent claims for payment, and
+14   wrongful retaliation against Cuellar for reporting the fraud, constitute violations of the federal
+15   False Claims Act, 31 U.S.C. §§ 3729 et seq. (“FCA”or “Act”). As a result of their fraudulent
+16   conduct, Defendants have caused the United States to sustain a direct loss of funds and damage
+17   to its interests.
+18           7. The FCA was originally enacted at the request of President Lincoln during the Civil
+19   War, when the president believed that the Union Army was being defrauded by contractors. The
+20   Act was substantially amended by Congress in 1986 and 2009 to enhance the government’s
+21   ability to recover losses sustained as a result of fraud. At those times, Congress determined that
+22   fraud against the government was pervasive and that the FCA, which Congress described as the
+23   primary tool for combating government fraud, was in need of reform. Congress intended that the
+24   amendments create incentives for individuals with knowledge of fraud against the United States
+25   to disclose the information without fear of reprisals or government inaction, and to encourage the
+26   private bar to commit legal resources to prosecute fraud on the government's behalf.
+27           8. Among other things, the FCA prohibits: knowingly presenting, or causing to be
+28   presented, a false or fraudulent claim for payment or approval; knowingly making, using, or
+
+     First Amended Complaint Filed Under Seal          2
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 4 of 35
+
+
+ 1   causing to be made or used, a false record or statement material to a false or fraudulent claim;
+ 2   and conspiring to defraud the government. 31 U.S.C. §§ 3729(a)(1)(A), (a)(1)(B), (a)(1)(C).
+ 3   Additionally, it prohibits knowingly making or using, or causing to be made or used, a false or
+ 4   fraudulent record or statement material to an obligation to pay or transmit money or property to
+ 5   the government, or knowingly concealing, or knowingly and improperly avoiding or decreasing
+ 6   an obligation to pay or transmit money or property to the government. 31 U.S.C. §§
+ 7   3729(a)(1)(G). Any person who violates the FCA is liable for a civil penalty of up to $11,000
+ 8   for each violation, plus three times the loss sustained by the United States. 31 U.S.C. § 3729(a);
+ 9   64 Fed. Reg. 47099, 47103 (1999). The FCA also prohibits retaliation against a person who
+10   provides information about the fraud to the government, and mandates that such a person be
+11   entitled to all relief necessary to make that person whole. 31 U.S.C. § 3730(h)(1).
+12           9. The statute allows any person having information about an FCA violation to bring an
+13   action on behalf of the government and to share in any recovery obtained. The Act requires that
+14   the complaint be filed under seal for a minimum of 60 days, without service on the Defendants
+15   during that time, to allow the government time to conduct its own investigation and to determine
+16   whether to join the suit.
+17           10. Based on the FCA, qui tam plaintiffs Ricks and Cuellar (collectively “Relators” or
+18   “Plaintiffs”) seek to recover all available damages, civil penalties, and other relief for the
+19   violations alleged herein, in every jurisdiction to which Defendants’ misconduct has extended.
+20   II.     PARTIES
+21           11. Relator Richard Ricks is a United States citizen who resides in California. He is the
+22   former President and Chief Executive Officer of EXP Logistics Solutions, Inc. (“EXP”). EXP
+23   was a subcontractor to Menlo for air shipments under the DTCI Contract during the period
+24   August 2008 to December 2009, when Menlo replaced EXP with Estes.
+25           12. Relator Marcelo Cuellar, previously identified as “John Doe,” is a United States
+26   citizen who currently resides in Washington. Cuellar worked for Estes from January 2010 until
+27   February 10, 2015, at the Defense Distribution Depot in Tracy, California, first as Operations
+28   Coordinator and later as Supervisor of Logistics. On February 10, 2015, after Estes’ counsel
+
+     First Amended Complaint Filed Under Seal          3
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 5 of 35
+
+
+ 1   learned that Cuellar had provided information about the fraud to the United States, it
+
+ 2   immediately and wrongfully terminated Cuellar.
+
+ 3           13. Defendant Menlo Worldwide Government Services, LLC, is a limited liability
+
+ 4   company established in Delaware, registered to do business in California as well as other states.
+
+ 5   Upon information and belief, Menlo Worldwide Government Services, LLC, is a subsidiary of
+
+ 6   Menlo Logistics, Inc., which is itself a subsidiary of Con-way Inc., previously a public-traded
+
+ 7   company listed on the New York Stock Exchange. Menlo Worldwide Government Services,
+
+ 8   LLC’s principal office in California is located at 2855 Campus Drive, San Mateo, California.
+
+ 9           14. Defendant Menlo Logistics, Inc., is a corporation established in Delaware and
+
+10   registered to do business in California as well as other states. It is one of three operating units of
+
+11   Con-way Inc. Menlo Logistics, Inc., operates under the assumed name of Menlo Worldwide
+
+12   Logistics. The company’s principal office in Delaware is listed as 2711 Centerville Road, Suite
+
+13   400, Wilmington, Delaware.
+
+14           15. Defendant Con-way Inc., is a Delaware corporation with headquarters located at
+
+15   2211 Old Earhart Road, Suite 100, Ann Arbor, Michigan. On October 30, 2015, Defendant XPO
+
+16   Logistics, Inc., announced that it had consummated an agreement to acquire Con-way Inc.
+
+17           16. Defendant XPO Logistics, Inc., is a Delaware corporation with headquarters located
+
+18   at Five Greenwich Office Park, Greenwich, Connecticut. Defendant Con-way Inc., is now a
+
+19   wholly-owned subsidiary of XPO Logistics, Inc., a public-traded company listed on the New
+
+20   York Stock Exchange.
+
+21           17. Defendant Estes Forwarding Worldwide LLC, is a limited liability company
+
+22   established in Virginia on April 6, 2007. Its principal office is located at 1100 Commerce Road,
+
+23   Richmond, Virginia. Upon information and belief, it is a subsidiary of Estes Express Lines.
+
+24           18. Defendant Estes Express Lines is a family owned and operated freight transportation
+
+25   provider incorporated in Richmond, Virginia. Its principal office is located at 3901 West Broad
+
+26   Street, Richmond, Virginia.
+
+27           19. The identities of the remaining Doe Defendants (Doe Subcontractors) who have
+
+28   knowingly submitted false and fraudulent claims to the government are presently unknown to
+
+     First Amended Complaint Filed Under Seal          4
+             Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 6 of 35
+
+
+ 1   Relators. All listed Defendants and such additional Doe Defendants served as contractors,
+
+ 2   agents, partners, and/or representatives of one and another in the fraud, concealment, and
+
+ 3   submission of false and fraudulent claims, as well as the wrongful retention of overpayments,
+
+ 4   and were acting within the course, scope and authority of such contract, agency, partnership
+
+ 5   and/or representation for the conduct described herein.
+
+ 6   III.    JURISDICTION AND VENUE
+
+ 7           20. This Court has jurisdiction of the subject matter of this action pursuant to 28
+
+ 8   U.S.C. § 1331 and 31 U.S.C. § 3732, the latter of which specifically confers jurisdiction
+
+ 9   on this Court for actions brought pursuant to 31 U.S.C. §§ 3729 and 3730.
+
+10           21. Under 31 U.S.C. § 3730(e), there has been no public disclosure of the
+
+11   allegations or transactions in this Complaint. To the extent there has been any such disclosure,
+
+12   Relators Ricks and Cuellar constitute “original sources” pursuant to 31 U.S.C. § 3730(e)(4).
+
+13   Prior to any public disclosure, Ricks and Cuellar voluntarily disclosed to the government the
+
+14   information on which the allegations or transactions discussed herein are based; they have
+
+15   knowledge independent of, and that materially adds to, any publicly disclosed allegations or
+
+16   transactions; and this information was provided to the government before this action was filed.
+
+17           22. Personal jurisdiction and venue are proper in this district pursuant to 28 U.S.C. §§
+
+18   1391(b) and 1395(a), and 31 U.S.C. § 3732(a), as one or more of the Defendants or their agents
+
+19   can be found, reside, transact business, or otherwise engaged in fraudulent conduct within the
+
+20   district.
+
+21   IV.     BACKGROUND
+
+22           A.   Defense Transportation Coordination Initiative
+
+23           23. The Defense Transportation Coordination Initiative was a massive initiative by the
+
+24   United States Department of Defense (“DOD”) to manage distribution of military freight in the
+
+25   continental United States. Defense Industry Daily, “DTCI: Changing Military Shipping in the
+
+26   USA - and Beyond” (August 26, 2007), at 1. The United States Transportation Command,
+
+27   Department of Defense, described the DTCI as:
+
+28           [A] CONUS [Continental United States] freight initiative aimed at increasing
+
+     First Amended Complaint Filed Under Seal         5
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 7 of 35
+
+
+ 1           operational effectiveness and at the same time obtaining efficiencies. The
+             premise is that DoD will increase operational effectiveness ... [and] also includes
+ 2           obtaining efficiencies through best business practices such as increased
+             consolidations and mode conversions.
+ 3
+     DOD Agency Report, DTCI Information Paper, May 3, 2004, at 1.
+ 4
+             B.   Contract Awarded to Menlo Worldwide Government Services, LLC
+ 5
+             24. On August 17, 2007, a full year after receiving and reviewing bids from numerous
+ 6
+     entities, including Federal Express and UPS, the United States Transportation Command
+ 7
+     announced the awarding of the competitively bid DTCI Contract, HTC711-07-D-0032, to
+ 8
+     Menlo. In winning the bid to be the government’s Contractor (also called the DTCI
+ 9
+     “Coordinator”), Menlo undertook to manage all DOD freight movements in the continental
+10
+     United States under the DTCI with the goal of maximizing efficiencies and reducing costs.
+11
+     Commercial Carrier Journal News, August 20, 2007. As described in the Defense Industry
+12
+     Daily, the premise “is for DoD to competitively award a long-term contract with a world class
+13
+     transportation coordinator ... [and] save up to 20%, as [the coordinator] manages, consolidates,
+14
+     and optimizes freight movements.” DTCI: Changing Military Shipping in the USA - and
+15
+     Beyond, August 26, 2007.
+16
+             25. The DTCI Contract is a Federal Acquisition Regulation (“FAR”) Part 15, indefinite-
+17
+     delivery, requirements-type contract, which includes fixed-price, cost-reimbursement, award fee,
+18
+     and award term-option provisions. DTCI - Billing-Payment-Audit Plan, Version 1.0, November
+19
+     30, 2007, at 4. The Contract was valued at $1.635 billion and consisted of a three-year base
+20
+     period, with four option years. Defense Industry Daily, DTCI: Changing Military Shipping in
+21
+     the USA - and Beyond, at 1.
+22
+             26. In April 2015, after experiencing problems with Menlo and its subcontractors as
+23
+     described herein, the United States dropped the DTCI and Menlo as the transportation
+24
+     Coordinator, with a two-year phase out of the Contract currently in effect.
+25
+     V.      SUMMARY OF THE FRAUD
+26
+             27. After its selection as Coordinator to manage the shipment of military freight under
+27
+     the DTCI, Menlo contracted with Estes, as well as other subcontractors, to have the freight
+28
+
+     First Amended Complaint Filed Under Seal         6
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 8 of 35
+
+
+ 1   transported by various shipment “modes,” including by “air” (in an airplane) and by “surface” or
+
+ 2   “ground” transportation (in a truck). The Government agreed to pay Menlo hefty management
+
+ 3   services fees for its coordination work, and Menlo has received $131,708,257 as of December
+
+ 4   2015 for such services. But under the Contract and the DTCI federal regulations
+
+ 5   (“Regulations”), apart from those fees, the government is to pay only for the actual costs of the
+
+ 6   shipments themselves. In its winning bid for the Contract, Menlo proposed, and the government
+
+ 7   accepted, maximum charges – called “Not To Exceed” (“NTE”) rates under the Contract – which
+
+ 8   were the maximum charges that the government could be billed for each air shipment, and a
+
+ 9   lower maximum charge that the government could be billed for each truck shipment. Menlo and
+
+10   Estes were both well aware of these maximums, of course. In their own contracts with each
+
+11   other, Menlo and Estes negotiated and established set rates for specific air shipments and lower
+
+12   set rates for specific truck shipments to fit within the Government’s contractually accepted
+
+13   maximum charges. Under the DTCI Contract and Regulations, the actual, agreed upon shipment
+
+14   charges between Menlo and Estes are the actual charges that should be billed to the United
+
+15   States by Menlo for the shipment of freight by its subcontractor Estes.
+
+16           28. Whenever military freight under the DTCI needs to be shipped, base transportation
+
+17   officers electronically contact Menlo, supply information on the freight, and advise Menlo the
+
+18   date by which the shipment needs to arrive at its destination, called the "Mandatory Delivery
+
+19   Date" ("MDD"). Menlo then selects the mode of transportation (for example air, truckload, or
+
+20   less than truckload) for the shipment and issues a tender to a subcontractor, such as Estes. The
+
+21   tender identifies the freight and the MDD, and offers the freight for shipment by a specific mode
+
+22   selected by Menlo in the tender. The tender also lists the specific, prearranged and
+
+23   pre-negotiated price between Menlo and its subcontractor for that mode.
+
+24           29. For all freight shipped throughout the United States under the DTCI, the government
+
+25   only sends the shipment information to Menlo, the DTCI Coordinator. The government does not
+
+26   receive or review any shipment information from Menlo’s subcontractors, like Estes, who
+
+27   actually move the freight. Estes submits its shipment claims to Menlo and Menlo submits claims
+
+28   for payment to the United States. By not receiving the subcontractor cost information itself, the
+
+     First Amended Complaint Filed Under Seal         7
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 9 of 35
+
+
+ 1   Government was set up to be defrauded by Menlo and Estes. Over many years, Defendants have
+
+ 2   regularly charged the government for shipments by air and related accessorial charges at the
+
+ 3   highest shipment rates, when the freight was actually delivered by truck and entitled only to
+
+ 4   lower payments.
+
+ 5           30. The DTCI Contract and Regulations are abundantly clear: unlike some commercial
+
+ 6   contracts, payments for shipment of freight under the DTCI depend on the mode (i.e., air, truck,
+
+ 7   less than truckload) by which the freight is transported. Each mode has numerous different
+
+ 8   NTEs that are mode specific. Defendants’ false charges for air shipments always exceeded the
+
+ 9   actual charges in their contracts for ground deliveries and even exceeded the maximum NTE
+
+10   charges allowed by the Government for ground shipments.
+
+11           31. Menlo and Estes have defrauded the government by knowingly submitting false
+
+12   invoices for inflated air mode shipment charges when the freight was actually shipped by
+
+13   ground, generally by the less than truckload ("LTL") mode, which was eligible only for a much
+
+14   lower charge to the Government than shipment of freight by air. Moreover, in addition to falsely
+
+15   submitting claims about the mode of shipment, Defendants have knowingly inflated the charges
+
+16   to the Government for various accessorial surcharges, including charges for shipment of
+
+17   oversized freight and for fuel surcharges -- both of which charges differ significantly under the
+
+18   DTCI based on whether the freight was shipped by air or ground.
+
+19   VI.     PRE-BID SOLICITATION INFORMATION ABOUT THE CONTRACT
+
+20           32. Menlo understood before it ever bid on the Contract that charges to the government
+
+21   under the DTCI program were based on the mode of shipment used to transport the freight. The
+
+22   DTCI Contract and Regulations make clear that the mode used to ship freight controls the
+
+23   charges that can be submitted to the Government.
+
+24           For example, Section G-7 of the DTCI contract provides:
+
+25           The authorized ordering officer [transportation officer at each base] will submit
+             requests for transportation to the contractor [eventually Menlo] electronically (see
+26           Part I, Section C, PWS, Table 6). The contractor will respond to the request for
+             shipment electronically. The response will include the estimated shipment
+27           charge, comprised of the appropriate transportation not-to-exceed (NTE) rate
+             established at contract award by mode/route (Attachment 1), and any required
+28           accessorial charges (Attachment 2 and Appendix B of the PWS).
+
+     First Amended Complaint Filed Under Seal         8
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 10 of 35
+
+
+ 1
+     Contract, § G-7 (emphasis added to "by mode."). As reflected in the provision above: the
+ 2
+     Government transportation officer identifies the freight to be shipped (by sending a form 219);
+ 3
+     Menlo reviews the shipping information and issues the estimated shipping charge for no more
+ 4
+     than the NTE maximum for the specific mode of shipment Menlo selects, plus any associated
+ 5
+     accessorial surcharges for that mode (by sending a form 220); and Menlo then issues a tender to
+ 6
+     its selected subcontractor to ship the freight for the pre-negotiated payment amount between
+ 7
+     Menlo and the subcontractor established for that mode of shipment, plus the accessorial
+ 8
+     surcharges. The G-7 Contract provision continues in the next sentence:
+ 9
+             The contractor will submit a NTE rate for anticipated carrier freight costs based
+10           on the shipment offering without assumption of risk for subsequent optimization
+             opportunities.
+11
+     Id.
+12
+             33. The above provision highlights the Government's interest in "optimization"
+13
+     opportunities -- obtaining whatever savings can be realized by finding a cheaper mode of
+14
+     shipment. The Contract does not force Menlo to find a cheaper mode if one is not available.
+15
+     Thus, Menlo does not need to submit an NTE rate that represents a lower cost mode (for
+16
+     example, LTL) if that mode cannot be used to meet the MDD. In other words, Menlo does not
+17
+     have to "assum[e] the risk for subsequent optimization opportunities." It may select the mode it
+18
+     thinks is necessary to meet the MDD. If a subsequent optimization opportunity can be found,
+19
+     then additional savings will be realized by the Government; if not, the freight will be shipped
+20
+     pursuant to the original offering, Menlo will bill the Government for the actual costs of shipment
+21
+     for that mode plus any accessorial surcharges for that mode, and Menlo will pay its
+22
+     subcontractor that amount.
+23
+             34. Before it even bid on the Contract, and long before it was selected as the
+24
+     Coordinator, Menlo understood all of this. The Questions from bidders and Answers from the
+25
+     Government following the original Solicitation, HTC711-060R-001, became formally
+26
+     incorporated into the Solicitation as Amendment 0001. The amendment included questions from
+27
+     Menlo and other bidders, and answers from the DOD, before any bids to become the DTCI
+28
+
+     First Amended Complaint Filed Under Seal         9
+            Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 11 of 35
+
+
+ 1   Coordinator were received. Question 10 of the Questions and Answer makes the meaning of
+
+ 2   Section G-7 abundantly clear:
+
+ 3           10. Reference Section G-7. What does "without assumption of risk for
+             subsequent optimization opportunities" mean?
+ 4
+             [Answer:] The NTE rate submitted is based on the initial offering and should not
+ 5           take into consideration "possible" consolidation or mode changes after pick-up.
+             This mitigates the risk to the contractor as the initial offering assumes a
+ 6           less-than-optimal mode, e.g., LTL rate vice TL rate. The actual invoice will then
+             reflect the actual rate from optimization and mode conversion.
+ 7
+     HTC711-060R-001, Amendment 001, Question 10 (emphasis added). As with the other DTCI
+ 8
+     Contract provisions and Regulations discussed below, the Government's answer to this question
+ 9
+     cannot be understood to suggest anything other than that the mode of shipment matters, and that
+10
+     the Government's contractor (Menlo) must "submit an invoice that reflects the actual rate from
+11
+     optimization [following] a mode conversion." Similarly, in Question 33, another bidder asked
+12
+     what would happen to payment for a shipment when "a contractor initiates a mode change (ex: as
+13
+     a result of optimization)." The Government explained that when the mode of shipment is
+14
+     changed:
+15
+             The Contractor will invoice for the actual costs paid based on the mode of
+16           transportation actually used.
+
+17   HTC711-060R-001, Amendment 001, Question 33 (emphasis added).
+
+18           35. Before ever bidding on the Contract, Menlo understood, and before ever beginning
+
+19   work on the Contract, Estes understood, that under the DTCI, the Government is supposed to
+
+20   benefit from lower charges whenever a shipment can be “optimized” -- can be shifted to a lower
+
+21   cost mode. Similarly, under the DTCI Contract, the Government will (and does) also pay the
+
+22   higher charges when a more expensive mode shift becomes necessary. Instead, in thousands of
+
+23   instances, Menlo and Estes shifted to a lower cost mode but nonetheless knowingly submitted a
+
+24   claim to the government for the higher charge.
+
+25   VII.    CONTRACT PROVISIONS RELATING TO TRANSPORTATION SERVICES
+
+26           36. Menlo’s transportation coordination services include determining the appropriate
+
+27   mode based on the freight characteristics, equipment type, and the mandatory delivery date.
+
+28   Contract HTC711-07-D-0032, at 29. As discussed above, under the DTCI, freight can be moved
+
+     First Amended Complaint Filed Under Seal         10
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 12 of 35
+
+
+ 1   through a variety of modes, including by air, motor, rail, and water. Motor transportation may
+
+ 2   be by a complete truck load (“TL”) or by less than a truckload (“LTL”). Material shipped by
+
+ 3   LTL is typically combined with other LTL shipments. For TL shipments, mileage is a
+
+ 4   component in determining the appropriate basic shipment charge, or “line haul” amount; under
+
+ 5   the Contract, mileage is determined by the Defense Table of Official Distances in effect on the
+
+ 6   date of shipment pick-up. For LTL shipments, mileage is not a factor; instead, the weight of the
+
+ 7   item is a component in determining the appropriate line haul charge. Contract HTC711-07-D-
+
+ 8   0032, at 95.
+
+ 9           37. In addition to the line haul charge, a separate accessorial fuel surcharge may be
+
+10   billed to the government for air and ground shipments, and these surcharge rates, calculated
+
+11   separately for air and ground transportation, regularly change based upon the price of fuel. In
+
+12   addition, the Contract provides that the government may be charged for an accessorial over-
+
+13   dimensional (“oversized”) surcharge when a shipped item exceeds certain dimensions. These
+
+14   dimensions differ for ground and air shipments. The amount of the oversize surcharge for
+
+15   ground delivery is calculated per mile based upon the freight’s length, width, and height and is
+
+16   subject to a minimum charge of $125. For air delivery, the oversize surcharge is 30% of the base
+
+17   line haul amount. Schedule of Accessorial Charges, Accessorial Rate Table, at 5.
+
+18           38. Additional accessorial charges apply to expedited shipments. Expedited shipments
+
+19   include those that require delivery the same day or next day before a normal delivery cycle.
+
+20   Contract, Performance Work Statement, Part 1, Section C, § 1.4.5.17.
+
+21           39. The costs for transportation services are provisionally paid and subject to post-
+
+22   payment Contract audit for allowable cost determination in accordance with the Contract
+
+23   provisions. DTCI Billing-Payment-Audit Plan, November 30, 2007, at 4 through 13.
+
+24           40. Contract Line Item Number (“CLIN”) 2 pertains to shipment costs. The Contract
+
+25   specifies that payment for these costs will be based upon actual costs, up to the maximum NTE
+
+26   rates that were negotiated between the government and Menlo prior to contract award. Contract
+
+27   HTC711-07-D-0032, at 3.
+
+28           41. Contract provisions also provide that Menlo is responsible for accounting for the
+
+     First Amended Complaint Filed Under Seal        11
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 13 of 35
+
+
+ 1   reasonableness and validity of its subcontractor’s claimed costs for shipments and the charges it
+
+ 2   submits to the government:
+
+ 3           Auditing
+
+ 4           (1) The contractor is responsible for accounting for costs consistently and for
+             maintaining records, including supporting documentation, adequate to
+ 5           demonstrate that costs claimed have been incurred, are reasonable, allocable to
+             the contract, and comply with the statements in the applicable special provisions
+ 6           herein.
+
+ 7   Contract, Part I, Section H-10(h).
+
+ 8           42. Thus, the Contract specifies how the contractor will submit invoices for actual costs
+
+ 9   when the mode of transportation changes:
+
+10           The contractor shall invoice for the actual cost of transportation, taking into
+             consideration any achieved optimization opportunities, up to the transportation
+11           NTE rate established in the BoL, or the revised transportation NTE rate if a mode
+             change results.
+12
+     Contract, Part I, Section G-7 (emphasis added).
+13
+     VIII. DTCI REGULATIONS
+14
+             A. Transportation Regulations
+15
+             43. The Defense Transportation Regulation 4500.9-R, Part II, Cargo Movement, Chapter
+16
+     213, prescribes responsibilities and procedures involving shipments under the DTCI Contract.
+17
+     The regulations set forth several operating provisions applicable to Menlo’s work and billing
+18
+     under the Contract, including the following:
+19
+             Mode determination based on stated shipper requirements and the Mandatory
+20           Delivery Date (MDD).
+
+21           (1) DTCI’s PWS [Performance Work Statement] directs the Coordinator to
+             select the mode based on the MDD, therefore, the shipper [government personnel]
+22           will no longer identify a transportation mode (truck, rail, and air) prior to offering
+             the shipment for movement. DTCI is considered a Mode Neutral Program since
+23           the shipper only determines when the freight must arrive at its next destination
+             using only a MDD. Based on the MDD and other requirements (e.g., accessorial)
+24           submitted by the shipper through the shipper system, the Coordinator will select
+             the most efficient transportation mode to meet the shipper’s requirement. In the
+25           event the shipment must be delivered the same day or next day, expedited service
+             will be used. Expedited service does not always mean the shipment must travel
+26           by air. In many cases, surface transportation can be used to meet the delivery
+             requirement at a much-reduced cost to the Government.
+27
+     Defense Transportation Regulation 4500.9-R, Part II, Chapter 213, § B.1.c.(1) (effective July
+28
+
+     First Amended Complaint Filed Under Seal         12
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 14 of 35
+
+
+ 1   2008) (emphasis added).
+ 2           44. Additional regulations specify that the Coordinator will notify the government
+ 3   shipper as to the actual carrier of the shipment:
+ 4           The DTCI Coordinator may employ multi-brokering of freight to achieve required
+             efficiencies of the program. The Coordinator is responsible for notifying the
+ 5           shipping activity concerning carriers load schedules (e.g., which carrier gets
+             loaded). This is accomplished using EDI [Electronic Data Interchange] 220
+ 6           DTCI Transportation Service Responses from the Coordinator. The 220 returned
+             to the shipper will show the actual carrier’s SCAC [Standard Carrier Alpha Code]
+ 7           and any equipment identifiers.
+ 8   Defense Transportation Regulation 4500.9-R, Part II, Chapter 213, § E.3.b.(1).
+ 9           45. The regulations also contain certain billing and payment requirements, namely that
+10   shipment costs are provisionally paid and subject to audit for allowability:
+11           Due to the unique nature of the DTCI shipment rating process and related FAR
+             based cost reimbursement provisions incorporated into the DTCI contract, the CO
+12           [government’s Contracting Officer] will not have the capability to validate
+             actual line-haul shipment costs. These costs will be provisionally paid (i.e.,
+13           contingent liabilities) and subject to post-payment contract audit for allowable
+             cost determination.
+14
+     Defense Transportation Regulation 4500.9-R, Part II, Chapter 213, § E.8.c (emphasis added).
+15
+             B.     Federal Acquisition Regulations
+16
+             46. The FAR sets forth rules that govern the United States’ purchases of goods and
+17
+     services. The guiding principle of the FAR is to deliver the “best value” product or service to
+18
+     the United States while maintaining the public’s trust and fulfillment in public policy objectives.
+19
+     FAR 1.102(a). Under the FAR, all participants must exercise “sound business judgment in
+20
+     providing the best value product or service to meet the customer’s needs.” FAR 1.102-1(d).
+21
+     “Best value” is defined as “the expected outcome of an acquisition that, in the government’s
+22
+     estimation, provides the greatest overall benefit in response to the requirement.” FAR 2.101.
+23
+     IX.     CERTIFICATIONS
+24
+             47. Menlo is required to submit a Standard Form 1034, Public Voucher, containing the
+25
+     monthly Summary Invoice detail for DTCI shipment transactions for each applicable shipper
+26
+     location. Contract, Part I, Contract Administration Data, Section G-7. This form’s certification
+27
+     states that:
+28
+
+     First Amended Complaint Filed Under Seal            13
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 15 of 35
+
+
+ 1           “Pursuant to authority vested in me, I certify that this voucher is correct and
+             proper for payment.”
+ 2
+     X.      ALLEGATIONS
+ 3
+             48. Relators incorporate by reference and reallege as though fully set forth herein all
+ 4
+     preceding paragraphs.
+ 5
+             A. False Billings for Air Shipments When the Freight is Shipped by Ground
+ 6
+             49. Since 2007 and continuing through their work under the DTCI, Defendants Menlo,
+ 7
+     Estes, and Doe Defendants have knowingly submitted, caused the submission of, and conspired
+ 8
+     to submit false and fraudulent claims to the United States by falsely overcharging the
+ 9
+     government for higher air shipment charges when the freight was actually delivered by ground,
+10
+     including higher air fuel surcharges and higher air oversized surcharges, even on occasions when
+11
+     the freight delivered by ground did not qualify at all for an oversize surcharge. Defendants have
+12
+     submitted or caused the submission of false claims to the government for transportation costs
+13
+     that they knew were fraudulent, not reasonable, and not permitted under the Contract or
+14
+     Regulations. Defendants obtained cost savings by using ground shipments instead of air
+15
+     shipments and applied those savings to benefit Defendants, at the expense of the government.
+16
+     The substantial profits earned by Defendants at the government’s expense conflicted with a core
+17
+     objective of the DTCI Contract -- reduced transportation costs for the United States. Instead, the
+18
+     government was falsely billed for, and paid for, fraudulently inflated charges under the Contract.
+19
+             1. False Line Haul Charges
+20
+             50. As discussed above, the Contract establishes thousands of routes for shipments by
+21
+     both air and truck transportation. The routes are called “line hauls” and the Contract contains the
+22
+     maximum NTE amounts, set forth separately by mode, that the Government may be charged for
+23
+     each line haul shipment. However, the Contract is clear that, regardless of the NTEs for each
+24
+     mode, the government may be charged only for the actual costs incurred for each line haul.
+25
+     Those actual costs are the contract rates that Menlo and Estes agreed to for each line haul, by
+26
+     mode, for shipment of military freight under the DTCI contract. Estes’ contractual rates with
+27
+     Menlo include the profits that Estes negotiated for each line haul, for each mode. Menlo is not
+28
+
+     First Amended Complaint Filed Under Seal         14
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 16 of 35
+
+
+ 1   permitted by the Contract to obtain any profit from the shipments. The government is to be
+ 2   charged the actual costs of shipment, which must be below or equal to the NTE maximum for the
+ 3   selected mode and line haul.
+ 4           51. On thousands of occasions, Menlo has tendered a shipment to Estes for air delivery,
+ 5   but Menlo and Estes both knew that Estes changed the initial mode and shipped the freight by
+ 6   truck. Defendants have knowingly submitted false claims for higher air line haul charges instead
+ 7   of the actual, lower costs for ground line haul shipments. The air line haul billings are more than
+ 8   the actual costs of the ground shipments and even more than the maximum NTE rates the
+ 9   government agreed to accept for shipments by ground.
+10           52. Menlo knows that a change in the delivery mode will, and did, affect the cost to the
+11   government. In a January 12, 2012 email (emphasis added), the government’s Anna Gensler,
+12   HQDLA Transportation Policy, states to Bradley Goertzen at Menlo and numerous others:
+13           Menlo is doing the right thing by actively mode shifting or evaluating each load
+             against LTL and TL rates independent of how the mode is passed to them and
+14           making the routing based on which mode provides the cheapest cost for the
+             service required.
+15
+             53. In another email (emphasis added), Menlo is praised for changing the mode of
+16
+     delivery to achieve a cost savings for the Government:
+17
+             On 1 Apr, DTCI's 2nd day of operations at DDPW (Puget Sound) … DLA's
+18           legacy shipper system (DSS) recommended a typical Less Than Truckload (LTL)
+             surface shipment. DTCI's contracted rate for LTL would have been $125.20 with
+19           Yellow Freight. However, Menlo's load planners identified a "deferred air" rate
+             with Panther Express for $93.60 that still met the Mandatory Delivery Date
+20           (MDD) of 9 Apr. Even though counterintuitive (air freight is almost always
+             thought to be the more expensive option), Menlo's effort here saved the
+21           government $31.60. Although this is a relatively small savings on only one effort,
+             at full implementation (over 40,000 shipments per month), these types of savings
+22           add up to huge numbers in the aggregate!
+23   Defendants knew that a change in mode could save costs for the Government, and understood
+24   that the Government would pay only the actual costs based on the shipment mode. As made
+25   clear from the outset, in the solicitation materials: “The Contractor will invoice for the actual
+26   costs paid based on the mode of transportation actually used.” HTC711-060R-001, Amendment
+27   001, Question 33 (emphasis added).
+28
+
+     First Amended Complaint Filed Under Seal        15
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 17 of 35
+
+
+ 1           2. False Air Fuel Surcharges
+ 2           54. The Accessorial Rate Table, dated March 2008, is contained in Attachment 1,
+ 3   Section J, of the DTCI Contract. The fuel surcharge (Code "405"), shown at the top of page 1,
+ 4   varies depending on the price of fuel. For ground transportation, the Military Surface
+ 5   Deployment and Distribution Command ("SDDC") publishes the fuel surcharge policy and the
+ 6   fuel-related adjustment amounts for various time periods. For air transportation, the United
+ 7   States Transportation Command ("USTRANSCOM") publishes the fuel surcharge policy and
+ 8   adjustment amounts.
+ 9           55. The fuel surcharge accessorial is an additional charge to the government that is
+10   applied to the specific mode of shipment. The fuel surcharge rates are determined each week or
+11   month, differ for air and ground shipments, and typically range between 6 and 39 percent of the
+12   line haul amount. Generally the air fuel surcharge rate is higher than the ground fuel surcharge
+13   rate. Thus, for a ground delivery, a ground fuel surcharge rate (of 20 percent, for example)
+14   would be applied under the Contract to the applicable ground line haul amount and an additional
+15   20 percent of the ground line haul amount could be charged to the government for the ground
+16   fuel surcharge. For an air shipment, the air fuel surcharge rate (of 25 percent, for example)
+17   would be applied to the air line haul amount and an additional 25 percent of the air line haul
+18   amount could be charged to the government for the air fuel surcharge.
+19           56. For thousands of shipments, Defendants have charged the government for an
+20   accessorial air fuel surcharge for shipments of freight by truck. For a majority of such
+21   shipments, the air fuel surcharge rate was higher than the ground fuel surcharge rate. Moreover,
+22   the air fuel surcharge rate has been applied to the much higher air line haul amount. Instead, the
+23   lower ground fuel surcharge rate should have been charged to the lower ground line haul
+24   amount. In engaging in such conduct, Defendants have knowingly submitted false and
+25   fraudulent claims for accessorial fuel surcharges.
+26           57. For example, on one occasion, government Contracting Officer Belfield Collymore
+27   (“Collymore”) became aware that Menlo had billed for an air fuel surcharge when the freight
+28   was shipped by ground. Collymore told Michael Nadolski (“Nadolski”), Menlo’s Director of
+
+     First Amended Complaint Filed Under Seal        16
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 18 of 35
+
+
+ 1   Contracts, that Menlo must bill for the actual mode utilized, and that Menlo should refund the
+ 2   difference. Nadolski agreed and told Collymore that he would ask Brad Goertzen at Menlo to
+ 3   start identifying shipments where this may have occurred for purposes of repaying the
+ 4   government. Nonetheless, Menlo failed to take any action to identify such shipments and never
+ 5   repaid the government.
+ 6           58. Thereafter, in a June 1, 2012, email from Nadolski to Cindy Chmiel at Menlo,
+ 7   Nadolski further confirmed his understanding that an air fuel surcharge should not apply when
+ 8   the freight has been shipped by ground:
+ 9           To the extent we know how the carrier actually moved the freight the correct FSC
+             [fuel surcharge] rate should apply. However, many times we don't know so we
+10           are at the mercy of the carrier. However, once the Gov brings it [to] our attention
+             we are required to make the adjustment.
+11
+     To date, no such adjustment or repayment has been made by Menlo.
+12
+             3. False Air Oversized Surcharges
+13
+             59. The Contract provides for an accessorial surcharge when a shipped item exceeds
+14
+     certain dimensions. Contract, G-7. The provisions addressing oversized freight, contained in
+15
+     the Contract's Appendix B, define oversized freight by mode.
+16
+             60. A comparison of the Contract’s oversized payment authorization readily shows that
+17
+     for air shipments, freight is deemed to be oversized and entitled to the oversized surcharge
+18
+     payment when the item exceeds much smaller dimensions than would be required for ground
+19
+     shipments.
+20
+21                                        Ground Oversize                 Air Oversize
+           Length                         576 inches (48 feet)            125 inches
+22
+           Width                          102 inches (8 feet 6 inches)    88 inches
+23
+           Height                         162 inches (13 feet 6 inches)   59 inches
+24
+           Length Plus Girth                                              300 inches
+25
+             61. The Contract further provides, by mode, the applicable accessorial surcharge for
+26
+     oversized freight (Code “520"). Contract's Accessorial Rate Table, Attachment 1, Section J.
+27
+     The oversize surcharge amounts for ground shipment (“Motor”) are shown on pages 3 and 4 of
+28
+     this table; the oversize surcharge amount for “Air” shipments is shown on page 5. While the
+     First Amended Complaint Filed Under Seal          17
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 19 of 35
+
+
+ 1   ground oversize surcharge payments vary by different sizes, with a $125 minimum payment, the
+ 2   air oversize surcharge payment is always 30 % of the air line haul amount. Similarly, Menlo's
+ 3   contract with Estes also sets forth the oversize information by mode. For ground shipments, the
+ 4   oversized surcharge payment is calculated per mile based upon the freight's length, width, and
+ 5   height and is subject to a minimum payment of $125. For air shipments, the oversized surcharge
+ 6   payment is 30% of the line haul cost.
+ 7           62. The Contract determines what constitutes "oversized" by separate measurements for
+ 8   air and ground modes. It then provides for a separate accessorial payment based on the specific
+ 9   mode used to ship the oversized freight. Defendants have knowingly defrauded the government
+10   with regard to oversized surcharges, as well as line haul charges and fuel surcharges, by billing
+11   for air oversized surcharges when the freight was delivered by ground and not entitled to the air
+12   oversize surcharge payment.
+13           63. Numerous examples exist of Defendants’ billing the government for air oversized
+14   surcharges when there was no basis to do so. For example, in Bill of Lading 12A2ADBC, Estes
+15   shipped freight by ground from Barstow, California to Groton, Connecticut with pickup on May
+16   17, 2012, and delivery on May 21, 2012. The item measured 48 inches in length, 52 inches in
+17   width, and 74 inches in height. Although none of those dimensions qualify for an oversized
+18   surcharge in a ground shipment, Menlo and Estes nonetheless billed the Government $1,890.99
+19   for an air oversize surcharge, apparently because the height exceeded 59 inches for an air
+20   shipment. (The surcharge was computed at 30% of the base line haul amount of $6,303.30, with
+21   30% as the oversize surcharge for an air shipment.)
+22           64. No justification exists to charge the Government under the DTCI Contract for an air
+23   oversized surcharge for regular-sized freight delivered by ground. The Contract expressly
+24   specifies, by mode, the specific measurements that qualify for an oversized surcharge, with
+25   different measurements for air and ground modes, and different payments for those modes.
+26           B. Other Fraudulent Claims Submitted to the Government
+27           1.   False Claims for Expedited Shipments
+28           65. Defendants have also knowingly submitted, caused the submission of, and conspired
+
+     First Amended Complaint Filed Under Seal        18
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 20 of 35
+
+
+ 1   to submit false and fraudulent claims by inflating accessorial surcharges charged to the
+ 2   government for “expedited” shipments.
+ 3           66. In July 2008, the government added a provision allowing accessorial surcharges for
+ 4   the expedited delivery of freight, including shipments that require delivery the same day or next
+ 5   day before a normal delivery cycle. Contract, Performance Work Statement, Part 1, Section C, §
+ 6   1.4.5.17. For expedited air shipments, the accessorial rate, called the “EXP accessorial” was
+ 7   150% of the air line haul amount. For ground shipments, the EXP accessorial surcharge was
+ 8   20% of the ground line haul amount. However, instead of applying the EXP accessorial rates
+ 9   only to the air or ground line haul amounts, Defendants applied the EXP accessorial rates to the
+10   line haul amounts and to the other accessorials involved in the shipment. For example, if the
+11   government requested an expedited shipment of oversized freight with an air line haul amount of
+12   $500, Defendants appropriately increased the air line haul amount by 150% to $1,250; however,
+13   they then inappropriately also applied the air fuel surcharge amount (assume 24%) to the larger,
+14   increased line haul amount of $1,250, for an additional $300; and they then also inappropriately
+15   applied the oversized surcharge rate of 30% to the $1,250, as well, for another $375. Thus, in
+16   this example, the total charges to the government for the expedited shipment would be $1,925
+17   ($1,250 + $300 + $375 = $1,925). However, the EXP accessorial rate of 150% should have been
+18   applied to the $500 air line haul amount only, resulting in an additional charge of $750 for the
+19   EXP accessorial, for a total of $1,250 for the line haul shipment. The 24% air fuel surcharge and
+20   the 30% air oversized surcharge should have been applied to the $500 original line haul amount
+21   only, resulting in correct charges of $120 and $150, respectively. Thus, the correct total charge
+22   for the shipment should have been $1,520 ($1,250 + $120 + $150 = $1,520) , not the falsely
+23   inflated $1,925 charge.
+24           2. False Claims for Rounding Up Mileage
+25           67. Defendants have also knowingly submitted, caused the submission of, and conspired
+26   to submit false and fraudulent claims by rounding up mileage for freight moved by TL. For TL
+27   shipments, mileage is a component in determining the appropriate ground line haul amount. The
+28   contract requires that the mileage be based upon the Defense Table of Official Distances
+
+     First Amended Complaint Filed Under Seal        19
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 21 of 35
+
+
+ 1   (“DTOD”) in effect on the date of shipment pick-up. Such distances are to be rounded to the
+ 2   nearest mile. www.defensetravel.dod.mil/site/faqdtod.cfm. Instead, Defendants have routinely
+ 3   rounded up to the next higher mile. For example, if the DTOD listed mileage as 615.1 miles,
+ 4   Defendants have rounded up the mileage to 616 miles. There was no effort to round down to the
+ 5   actual, closest mile, because rounding down would not have maximized the payments to
+ 6   Defendants. Such fraudulent maximization of payments was inappropriate and done at the
+ 7   expense of the government.
+ 8           3. False Claims for Using Higher Fuel Surcharge Rates for Diverted Shipments
+ 9           68. Defendants have also knowingly submitted, caused the submission of, and conspired
+10   to submit false and fraudulent claims by using a higher fuel surcharge rate that was applicable on
+11   the day that the government directed that the shipment be diverted, or re-consigned, to another
+12   location. Defendants should have applied the fuel surcharge rate in effect on the original pick-up
+13   date for the freight. The correct fuel surcharge rate, the rate on the day of pick-up, was used by
+14   Defendants only if it was higher than the rate on the day of the diversion request. Again,
+15   Defendants’ intent was to maximize their payments from the government, even though such
+16   fraudulent maximization of payments was inappropriate and done at the government’s expense.
+17           4. False Billings for Increasing the Weights of Shipments
+18           69. Defendants have also knowingly submitted, caused the submission of, and conspired
+19   to submit false and fraudulent claims by increasing the weights of LTL shipments. The
+20   government initially weighs the freight before shipment. However, in numerous instances, Estes
+21   has re-weighed the freight and increased the billed amount to the government based on an falsely
+22   inflated weight, resulting in a higher charge to the government.
+23           C. Failing to Provide Required Services for the Benefit of the Government
+24           70. As stated above, the government selected Menlo as the DTCI Coordinator in August
+25   2007. Under the Contract, Menlo was responsible for managing DOD freight shipments with the
+26   goal of maximizing efficiencies and reducing shipment costs for the United States. DOD
+27   regulations require Menlo “to select the most efficient transportation mode to meet the
+28   government’s requirements.” Defense Transportation Regulation 4500.9-R, Part II, Chapter
+
+     First Amended Complaint Filed Under Seal        20
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 22 of 35
+
+
+ 1   213, § B.1.c.(1). As Menlo knows, “[i]n many cases, surface transportation [rather than air
+ 2   shipments] can be used to meet the delivery requirement at a much-reduced cost to the
+ 3   Government.” Id. Under the Contract, the government may only be billed for the actual costs of
+ 4   shipment, based on the actual mode used to transport the freight. See, e.g., Contract, Part I,
+ 5   Section G-7. Menlo has knowingly failed to meet its contractual obligations to the United States
+ 6   by, among other things, billing the government for air shipment line haul amounts, air fuel
+ 7   surcharges, and other air accessorial surcharges, when the freight could have been shipped, and
+ 8   indeed was shipped, by ground transportation. The Contract provides that Menlo will receive
+ 9   between $13,241,688 and $14,899,680 each year for its transportation coordination services. In
+10   total, for work from August 2007 through December 2015, Menlo received in excess of $131
+11   million for its shipment coordination work. Contract, at 2, 5, 8, 11, 14, 17, 21. In addition,
+12   under the Contract, Menlo is entitled to a potential, discretionary Award Fee, and has received
+13   $10,973,005 for such payments through December 2015. All of these payments to Menlo would
+14   not have been made if the government had known of its fraud, and Menlo has retained such
+15   payments despite knowing that it is not entitled to them.
+16           D. Opportunity to Engage in the Fraud
+17           71. Under the Contract, the MDD is extended for shipments over the weekend and for
+18   oversized freight. Defense Transportation Regulation, Part II, Chapter 213, § B.1.d.(2). As
+19   such, if the pick up date is late in the week, typically a Thursday, Friday, or a weekend, Estes
+20   and Menlo know that the freight can be delivered by ground at a lower cost and still make the
+21   MDD. Estes therefore instructs its selected carrier to ship the freight by ground, typically by
+22   LTL. However, instead of passing along to the United States the savings from optimizing the
+23   freight for ground delivery, Estes submits its invoice to Menlo using a charge for air shipment.
+24   As a result, Menlo pays Estes and bills the government for an amount that was computed using
+25   an air line haul amount, along with other air accessorial surcharges, even though both Menlo and
+26   Estes know that the lower applicable ground rate and ground accessorial surcharges should have
+27   been billed. Menlo’s other subcontractors (Doe Subcontractors), in addition to Estes, have
+28   similarly defrauded the government.
+
+     First Amended Complaint Filed Under Seal        21
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 23 of 35
+
+
+ 1           E. Examples of False Claims
+ 2           72. Thousands of false claims have been submitted by Defendants to the United States as
+ 3   described above. Several examples are set forth herein. For example, for Bill of Lading
+ 4   (“BOL”) 12C69DJC, the government requested pick up at the San Joaquin Distribution Center
+ 5   (“SJDC”) on Thursday, October 25, 2012, for delivery to Corpus Christi, Texas, by October 30,
+ 6   2012. Menlo billed the government and paid Estes an air shipment charge of $541.22, but Estes
+ 7   paid only $163.53 to a separate carrier to ship the freight by ground.
+ 8           73. For BOL 12C69GJC, the government requested pick up at SJDC on October 25,
+ 9   2012, for delivery to Anniston, Alabama, by October 30, 2012. Menlo billed the government
+10   and paid Estes an air shipment charge of $877.63, but Estes paid only $354.81 to ship the freight
+11   by ground.
+12           74. For BOL 12C6A1JC, the government requested pick up at SJDC on October 25,
+13   2012, for delivery to Fort Stewart, Georgia, by October 30, 2012. Menlo billed the government
+14   and paid Estes an air shipment charge of $2,308.93, but Estes paid only $864.14 to ship the
+15   freight by ground.
+16           75. Three additional examples involve shipments with pick up at the SJDC on Sunday,
+17   November 11, 2012, when the transportation was done by FedEx. For BOL 12C99QJC, the
+18   government requested pick up at SJDC on November 11, 2012, for delivery to Holloman AFB,
+19   New Mexico, by November 15, 2012. Menlo billed the government and paid Estes an air
+20   shipment charge of $1,342.77, but Estes only paid FedEx $636.56 to deliver the shipment by
+21   ground.
+22           76. For BOL 12C99RJC, the government requested pick up at SJDC on November 11,
+23   2012, with delivery to Altus AFB, Oklahoma, by November 15, 2012. Menlo billed the
+24   government and paid Estes an air shipment charge of $746.17, but Estes only paid FedEx
+25   $280.29 to deliver the shipment by ground.
+26           77. For BOL 12C99XJC, the government requested pick up at SJDC on November 11,
+27   2012, with delivery to Gulfport, Mississippi, by November 16, 2012. Menlo billed the
+28   government and paid Estes an air shipment charge of $1,291.72, but Estes only paid FedEx
+
+     First Amended Complaint Filed Under Seal        22
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 24 of 35
+
+
+ 1   $572.82 to deliver the shipment by ground.
+ 2           78. Other examples show false claims for shipments from various military depots across
+ 3   the United States, all of which were billed using air rates when the shipments were actually
+ 4   transported by ground. For example, for BOL 12A2ADBC, the government requested pick up
+ 5   from the Los Angeles, California depot DDBC, on Thursday, May 17, 2012, for next day
+ 6   delivery to Groton, Connecticut. For this over-dimensional shipment, for which additional time
+ 7   for delivery was allowed, Menlo billed the government and paid Estes an air shipment charge of
+ 8   $10,148.31, but Estes paid only $1,701.13 to deliver the shipment by ground.
+ 9           79. The freight in BOL 12A2ADBC measured 48 inches in length, 52 inches in width,
+10   and 74 inches in height. A height greater than 59 inches is allowed an oversize surcharge for an
+11   air shipment. An air oversize surcharge amount was charged to the government at 30% of the
+12   base line haul amount of $6,303.30, or $1,890.99. However, the freight’s measurements did not
+13   meet the criteria for oversize in a ground shipment, which are 48 feet in length, 102 inches in
+14   width, and 162 inches in height. Thus, for this shipment, the Defendants fraudulently charged
+15   the government for both an inflated line haul amount (for a supposed air delivery) and an inflated
+16   oversize surcharge (for a supposed oversized air delivery), when the freight was delivery by
+17   ground and did not qualify for a ground oversize surcharge.
+18           80. For BOL 12A11TBC, the government requested a pick up from DDBC on
+19   Wednesday, March 14, 2012, for next day delivery to Philadelphia, Pennsylvania. For this over-
+20   dimensional shipment, for which additional time for delivery was allowed, Menlo billed the
+21   government and paid Estes an air shipment charge of $4,217.40, but Estes paid only $599.70 to
+22   deliver the shipment by ground.
+23           81. For BOL 11A1PPJF, the government requested a pick up from DDBC on Friday,
+24   April 8, 2011, for a 3-day delivery to Jacksonville, Florida. Menlo billed the government and
+25   paid Estes an air shipment charge of $903.81, but Estes paid only $468.08 to deliver the
+26   shipment by ground.
+27           82. False billings were also submitted, for example, on shipments from Hill Air Force
+28   Base (“Hill AFB”) in Utah. For BOL 216798O2, the government requested a pick up from Hill
+
+     First Amended Complaint Filed Under Seal        23
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 25 of 35
+
+
+ 1   AFB on Thursday, February 18, 2010, for a 2-day delivery to Atlanta, Georgia. Menlo billed the
+ 2   government and paid Estes an air shipment charge of $513.83, but Estes paid only $252.50 to
+ 3   deliver the shipment by ground.
+ 4           83. For BOL 11AC4QHU, the government requested a pick up from Hill AFB on Friday,
+ 5   November 4, 2011, for a 3-day delivery to McGuire AFB, New Jersey. Menlo billed the
+ 6   government and paid Estes an air shipment charge of $525.16, but Estes paid only $208.08 to
+ 7   deliver the shipment by ground.
+ 8           84. For BOL 11AC3GHU, the government requested a pick up from Hill AFB on Friday,
+ 9   November 4, 2011, for a 3-day delivery to Pittsburgh, Pennsylvania. Menlo billed the
+10   government and paid Estes an air shipment charge of $309.06, but Estes paid only $92.49 to
+11   deliver the shipment by ground.
+12           85. Additional false billings were submitted, for example, on shipments from New
+13   Cumberland, Pennsylvania. For BOL 355289SP, the government requested a pick up from the
+14   New Cumberland depo on Thursday, October 14, 2010, for next day delivery to Sacramento,
+15   California. The destination site required an appointment for delivery, for which additional time
+16   for delivery was allowed. Menlo billed the government and paid Estes an air shipment charge of
+17   $1,988.19, but Estes paid only $694.23 to deliver the shipment by ground.
+18           86. For BOL 12AYT1SP, the government requested a pick up from the New
+19   Cumberland depot on Wednesday, May 16, 2012, for a 2-day delivery to Dallas/Fort Worth,
+20   Texas. Menlo billed the government and paid Estes an air shipment charge of $913.02, but Estes
+21   paid only $169.04 to deliver the shipment by ground.
+22           87. Additional examples demonstrate the Defendants’ knowledge of false billings for air
+23   line haul charges, as well as air oversize surcharges, when the items were shipped by ground.
+24   For example, in BOL 14ACUKJC, the government requested a pick up of a item, an “angle,
+25   structural,” from SJDC on Tuesday, April 8, 2014, for delivery to the Fleet Industrial Supply
+26   Center, in Portsmouth, Virginia. It measured 288 inches in length, 3 inches in width, and 3
+27   inches in height. In an email, dated April 8, 2014, Glenn Privette (“Privette”), Operations - Estes
+28   Forwarding Worldwide, notified Anthony Marinaro (“Marinaro”), Transportation Manager -
+
+     First Amended Complaint Filed Under Seal        24
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 26 of 35
+
+
+ 1   Menlo Government Services, that the shipment was too long for delivery by air: “The above
+ 2   listed VLO is too long to fly commercially....” Marinaro replied in an email that same day that
+ 3   he had spoken to the pick up base and received permission for a later delivery date, allowing 6
+ 4   days, from Tuesday, April 8, to Monday, April 14: “I just spoke to DDJC and Monday is
+ 5   approved.”
+ 6           88. Estes shipped the item by ground. Irrespective of the fact that both Menlo and Estes
+ 7   knew that the item was too long to be moved by air, Estes billed Menlo, and Menlo paid Estes,
+ 8   for an air line haul amount ($96.41), an air fuel surcharge rate of 27% of the air line haul amount
+ 9   ($26.03), and an air oversize surcharge rate of 30% of the air line haul amount ($28.92). Thus,
+10   the total amount billed was $151.36. However, Estes’ costs for the shipment were only $2.55,
+11   which included a credit, or discount, of $92.25, believed to be related to its affiliated company,
+12   Estes Express Lines. The freight, with a length of 288 inches, did not even qualify as oversized
+13   for ground delivery, for which the item must measure greater than 576 inches in length.
+14           89. Two additional examples of false billings for both air line haul amounts and air
+15   surcharges consist of identical freight shipped from SJDC to different, but close, destinations. In
+16   an email, dated April 15, 2014, Privette informed Marinaro that: “These 2 shipments are too
+17   heavy to fly commercially and too tall to fly on cargo...”. He stated that: “I can have them there
+18   on Monday, 4/21,” six days after pick-up. Marinaro replied that he would “add tracking events.”
+19   The two identical items were described as “BAND SAW, AIRCRAFT E.” One item, Shipment
+20   HWJ2J202519461615, hereafter referred to as “Shipment 1615," was to be delivered to the
+21   Material Processing Center in Norfolk, Virginia, on April 21, 2014. The second item, Shipment
+22   HWJ2J202519461611, hereafter referred to as “Shipment 1611," was to be delivered to the
+23   Naval Weapons Station outside Williamsburg, Virginia, on April 21, 2014.
+24           90. For Shipment 1615, Estes paid its third party shippers a total of $570.45 to deliver
+25   the item by ground and charged a total of $1,793.40 for shipment by air, which Menlo paid.
+26   Estes’ charge included an air fuel surcharge of $308.42, or 27% of the air line haul amount of
+27   $1,142.29. It also included an air oversized surcharge of $342.69, or 30% of the air line haul
+28   amount. For Shipment 1611, Estes paid its third party shippers a total of $678.98 and charged a
+
+     First Amended Complaint Filed Under Seal        25
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 27 of 35
+
+
+ 1   total of $1,793.40 for shipment by air, which Menlo paid. Estes’ charge included an air fuel
+ 2   surcharge of $308.42, or 27% of the air line haul amount of $1,142.29, and an air oversize
+ 3   surcharge of $342.69, or 30% of the air line haul amount. As both Menlo and Estes knew, these
+ 4   two ground shipments were fraudulently charged to the government as air shipments, with air
+ 5   fuel surcharges, and air oversized surcharges. Yet none of the shipments even met the
+ 6   qualifications for a ground oversized surcharge.
+ 7           91. As another example, on April 19, 2010, James Ford (Estes) sent an email to Shannon
+ 8   Booth (Estes) with a cc to Lisa Flores (Menlo) regarding freight to be shipped. Ford asks Booth
+ 9   about the freight. Booth states that the freight is oversized and provides to Ford and Flores the
+10   specific freight dimensions. Ford then emails Flores with a cc to Booth and states:
+11           Lisa -
+12           194 length! I cannot fly this. Will have to move ground. Looking at … a 3 to 4
+             business day transit.
+13
+     (emphasis added). Flores (Menlo) responds:
+14
+             No just get it there as soon as you can, do you need me to add the 520 [an
+15           oversize surcharge] if it's going ground???
+16   Ford (Estes) responds: "Yes." Flores (Menlo) then states:
+17           "Resending back to you as a 3-day air with 520 added."
+18   (emphasis added). The email exchange reflects Defendants’ lack of concern for how the
+19   government will be charged under the DTCI Contract. Both Estes and Menlo know, as they
+20   state, that this freight will be delivered by ground because it is too large for delivery by air.
+21   Nonetheless, Menlo offers to re-send the tender to Estes as an air delivery, and to also include an
+22   oversized accessorial surcharge, even though the dimensions do not qualify for a ground
+23   oversized surcharge and both Menlo and Estes know the freight will be delivered by ground.
+24           92. In order to comply with the DTCI Contract and Regulations, whenever the mode of
+25   transportation is changed from air to ground, the lower ground shipment rates must be applied.
+26   Contract, Part I, Section G-7 (emphasis added) (“The contractor shall invoice for the actual cost
+27   of transportation, taking into consideration any achieved optimization opportunities, up to the
+28   transportation NTE rate established in the BoL, or the revised transportation NTE rate if a
+
+     First Amended Complaint Filed Under Seal          26
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 28 of 35
+
+
+ 1   mode change results.”). Defendants did not notify the government of such mode changes and
+ 2   the lower rates that should apply.
+ 3           93. Furthermore, Contract terms require Menlo to complete a pre-audit of all carrier
+ 4   invoices. Contract, Performance Work Statement, Part 1, Section C § 1.4.4.5. Such carrier
+ 5   invoices must be audited accurately for several factors, including but not limited to, the
+ 6   “contractor’s contracted rates.” Contract, Performance Work Statement, Part 1, Section C §
+ 7   1.4.4.5.2.1. Finally, FAR 52.203-13(b)(3)(i)(B) requires Menlo to “timely disclose in writing to
+ 8   the Inspector General, with a copy to the Contracting Office whenever, in connection with the
+ 9   award, performance, or closeout of the Contract or any subcontract thereunder, the Contractor
+10   has credible evidence that a principal, employee, agent, or subcontractor of the Contractor has
+11   committed . . . [a] violation of the civil False Claims Act.”
+12           94. Defendants are aware of the DTCI Contract requirements, the FCA, and their
+13   responsibilities under the law. Michael Nadolski, Menlo's Director of Contracts, explained his
+14   understanding of the DTCI Contract when he testified under oath, under penalty of perjury, in an
+15   arbitration deposition in July 2011. Nadolski testified that when Menlo receives a shipment
+16   order from the Government with a mandatory delivery date, it tenders an offer to one of Menlo's
+17   subcontractors, and includes "a particular mode" in the tender:
+18           MDD dates are determined -- they are mandatory delivery dates. They are
+             established by the government. What they mean is that is the date on which the
+19           government requires the particular shipment to be at the receiving installation.
+             Menlo manages to those MDDs. Those MDDs, once established by the
+20           government, we use in order to establish a particular mode and level of
+             service that is required to meet that MDD.
+21
+     Transcript of Deposition of Michael Nadolski in Menlo Worldwide Government Services, LLC v.
+22
+     Limitless International, Inc., dated July 20, 2011, in JAMS Ref: 1100063090 ("Nadolski Depo"),
+23
+     at 66-67 (emphasis added).
+24
+             95. Nadolski then explained that a subcontractor is not entitled to receive payment based
+25
+     on the tender from Menlo, but rather only based on the actual shipment provided:
+26
+             That if they accept -- accepted the shipment, we would calculate the estimated
+27           cost of that shipment based on service requested. That was the basic -- one side
+             of the basis for use of those rates. The other side was to be used for invoicing, at
+28           which point we expected to be invoiced for the services that were actually
+
+     First Amended Complaint Filed Under Seal         27
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 29 of 35
+
+
+ 1           provided, irrespective of what was requested.
+             .     .       .
+ 2
+             I would expect that the carrier would invoice based on the service that was
+ 3           actually provided.
+             .      .      .
+ 4
+             Within the contract and within the FAR, there is a concept of allowable costs and
+ 5           payment. Part of that has to do with what's reasonable, what's allowable, what's
+             allocable to a particular transaction. Under the reasonable standard is the test
+ 6           of did that rate correspond to the services actually provided.
+ 7
+     Nadolski Depo, at 173-75 (emphasis added).
+ 8
+             96. Nadolski then states that to charge otherwise, for a service that was not provided, is a
+ 9
+     violation of the FCA:
+10
+             That's important because to continue to charge a higher rate than the services
+11           provided, knowing that the Government is not being charged appropriately
+             under the FAR, creates a violation of the False Claims Act, which then
+12           subjects the company and the individuals to certain charges and criminal actions
+             or civil actions for mischarging the Government.
+13
+     Nadolski Depo, at 176 (emphasis added). The DTCI Contract and Regulations are clear, and
+14
+     Nadolski was clear about them. The Government could be charged only for the “services
+15
+     actually provided” and the actual costs of shipment, based on the actual mode of delivery. To
+16
+     “continue to charge a higher rate than the services provided, knowing that the Government is not
+17
+     being charged appropriately ... creates a violation of the False Claims Act.” That is precisely the
+18
+     fraudulent conduct in which Defendants have engaged.
+19
+             97. Defendants’ knowingly fraudulent and false billings under the Contract and
+20
+     Regulations are violations of the FCA and have resulted in substantial losses to the government.
+21
+             F. Retaliation Against Relator Cuellar
+22
+             98. Marcelo Cuellar was terminated by Estes on February 10, 2015. On that day, he was
+23
+     called into a meeting with three of Estes’ attorneys, including Cheryl Barnes (“Barnes”) and
+24
+     Thomas Coulter, who came to the Tracy depot where Cuellar worked. Estes’ counsel informed
+25
+     Cuellar that they wanted to ask him questions because Estes had received a subpoena from the
+26
+     government and they were interviewing employees about the matters included in the subpoena.
+27
+     The attorneys confronted Cuellar with several screen shots of folders on his work computer.
+28
+
+     First Amended Complaint Filed Under Seal         28
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 30 of 35
+
+
+ 1   They demanded that Cuellar explain what was in each of the folders.
+ 2           99. Cuellar explained the contents of each of the folders and the attorneys asked Cuellar
+ 3   if he had sent any of the contents of those folders to anyone other than Defendant Menlo. In
+ 4   responding to one question, Cuellar stated that at his prior job, he sent all freight by air as he was
+ 5   trained to do. That process changed when he was hired by Estes. Cuellar stated that he was
+ 6   trained at Estes to, whenever possible and particularly on Thursday and Friday, put the freight
+ 7   for shipment on a truck.
+ 8           100. Immediately after his meeting with the attorneys concluded, Cuellar was
+ 9   approached by Barnes who informed Cuellar that this was his last day of work at Estes. Barnes
+10   told Cuellar that he was being terminated supposedly because he had: (1) taken vacation time in
+11   May 2015 for which he was paid (but supposedly should not have been) and (2) declined
+12   supervisor Todd Pierchal’s (“Pierchal’s”) verbal request in late January to attend a training
+13   course in Virginia.
+14           101. The reasons given for Cuellar’s termination are entirely pretextual. The real reason
+15   Cuellar was terminated was because he assisted the government in putting a stop to the fraud.
+16           102. Prior to taking the vacation time noted by Barnes, Cuellar had given a written leave
+17   request to his supervisor, Tim Joachim, who had signed the request indicating that the leave was
+18   approved.
+19           103. Concerning the training course, Cuellar had been attending the University of
+20   Phoenix after work since October 2013 and had informed Estes of this when he started the
+21   school program. When Pierchal requested that Cuellar attend one particular training in Virginia,
+22   Cuellar explained to Pierchal that he had classes each Wednesday, and had school assignment
+23   meetings that he would need to attend. If he did not do so, he would not receive school credit.
+24   Pierchal did not require Cuellar to attend the training because it would conflict with his school
+25   work, and Cuellar received no further comments from anyone at Estes regarding the Virginia
+26   training until the day he was terminated.
+27           104. Estes knew or suspected that Cuellar had furnished the government with
+28   information about Estes’ fraud, which led to Estes’ receipt of a government subpoena. Estes
+
+     First Amended Complaint Filed Under Seal         29
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 31 of 35
+
+
+ 1   terminated Cuellar in retaliation for blowing the whistle on the fraud. Defendant Estes’ conduct,
+ 2   as set forth above, violates the FCA, federal and California public policy, and California Labor
+ 3   Code § 1102.5.
+ 4                                                  Count I
+ 5                                             False Claims Act
+                                    31 U.S.C. § 3729(a)(1)(A) and (a)(1)(B)
+ 6
+                                            (Against All Defendants)
+ 7
+             105. Relators repeat and reallege each and every allegation contained in the preceding
+ 8
+     paragraphs as though fully set forth herein.
+ 9
+             106. This is a claim for treble damages and penalties under the False Claims Act, 31
+10
+     U.S.C. §§ 3729, et seq., as amended.
+11
+             107. Through the acts described above, Defendants have knowingly presented or caused
+12
+     to be presented, false or fraudulent claims for payment or approval, within the meaning of 31
+13
+     U.S.C. § 3729(a)(1)(A).
+14
+             108. Through the acts described above, Defendants have knowingly made, used, or
+15
+     caused to be made or used, false records or statements material to false or fraudulent claims,
+16
+     within the meaning of 31 U.S.C. § 3729(a)(1)(B).
+17
+             109. The United States, unaware of the falsity of the records, statements and claims
+18
+     made or caused to be made by Defendants, paid and continues to pay claims that would not be
+19
+     paid but for Defendants’ unlawful conduct.
+20
+             110. As a result of the Defendants’ acts, the United States has been damaged, and
+21
+     continues to be damaged, in a substantial amount to be determined at trial.
+22
+             111. Additionally, the United States is entitled to the maximum penalty of $11,000 for
+23
+     each and every violation of 31 U.S.C. § 3729(a)(1)(A) and 31 U.S.C. § 3729(a)(1)(B) as
+24
+     described herein.
+25
+26
+27
+28
+
+     First Amended Complaint Filed Under Seal         30
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 32 of 35
+
+
+ 1                                                  Count II
+ 2                                              False Claims Act
+                                            31 U.S.C. § 3729(a)(1)(C)
+ 3
+                                            (Against All Defendants)
+ 4
+             112. Relators repeat and reallege each and every allegation contained in the preceding
+ 5
+     paragraphs as though fully set forth herein.
+ 6
+             113. This is a claim for penalties and treble damages under the False Claims Act, 31
+ 7
+     U.S.C. §§ 3729, et seq., as amended.
+ 8
+             114. Through the acts described above, Defendants and Doe Defendants, acting together
+ 9
+     in concert, conspired to defraud the United States within the meaning of 31 U.S.C. §
+10
+     3729(a)(1)(C).
+11
+             115. As a result, the United States, unaware of the fraudulent conduct of Defendants,
+12
+     paid and continues to pay claims that would not be paid but for Defendants’ unlawful conduct.
+13
+             116. By reason of the Defendants’ acts, the United States has been damaged, and
+14
+     continues to be damaged, in a substantial amount to be determined at trial.
+15
+             117. Additionally, the United States is entitled to the maximum penalty of $11,000 for
+16
+     each and every violation of 31 U.S.C. § 3729(a)(1)(C) as described herein.
+17
+                                                    Count III
+18
+                                                False Claims Act
+19                                          31 U.S.C. § 3729(a)(1)(G)
+20                                          (Against All Defendants)
+21           118. Relators repeat and reallege each and every allegation contained in the preceding
+22   paragraphs as though fully set forth herein.
+23           119. This is a claim for penalties and treble damages under the False Claims Act, 31
+24   U.S.C. §§ 3729, et seq., as amended.
+25           120. Through the acts described above, Defendants knowingly made or used, or caused
+26   to be made or used, a false record or statement material to an obligation to pay or transmit money
+27   or property to the United States, or knowingly concealed, or knowingly and improperly avoided
+28   or decreased an obligation to pay or transmit money or property to the United States within the
+
+     First Amended Complaint Filed Under Seal          31
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 33 of 35
+
+
+ 1   meaning of 31 U.S.C. § 3729(a)(1)(G).
+ 2           121. As a result, monies were lost to the United States through the non-payment or
+ 3   non-transmittal of money or property owed to the United States by the Defendants, and the
+ 4   United States sustained costs and damages.
+ 5           122. By reason of the Defendants’ acts, the United States has been damaged, and
+ 6   continues to be damaged, in a substantial amount to be determined at trial.
+ 7           123. Additionally, the United States is entitled to the maximum penalty of $11,000 for
+ 8   each and every violation of 31 U.S.C. § 3729(a)(1)(G) as described herein.
+ 9                                                  Count IV
+10                                       False Claims Act - Retaliation
+                                               31 U.S.C. § 3730(h)
+11
+                                                (Against Estes)
+12
+             124. Relator repeats and realleges each and every allegation contained in the preceding
+13
+     paragraphs as though fully set forth herein.
+14
+             125. Through investigating and reporting the fraudulent conduct of Defendants, Relator
+15
+     was terminated by Defendant Estes, because of lawful acts done by the Relator in furtherance of
+16
+     an action under section 31 U.S.C. § 3729.
+17
+             126. Relator is entitled to all relief necessary to make him whole, including
+18
+     reinstatement with the same seniority to the position he had before the unlawful termination, 2
+19
+     times the amount of back pay lost, interest on the back pay, and compensation for any special
+20
+     damages sustained as a result of the discrimination.
+21
+                                                    Count V
+22
+                            Wrongful Termination in Violation of Public Policy
+23                                and California Labor Code § 1102.5
+24                                              (Against Estes)
+25           127. Relator John Doe repeats and realleges each and every allegation contained in the
+26   preceding paragraphs as though fully set forth herein.
+27           128. In doing the things herein alleged, Defendant Estes threatened, harassed, and
+28   discriminated against Relator in the terms and condition of his employment and ultimately
+
+     First Amended Complaint Filed Under Seal          32
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 34 of 35
+
+
+ 1   terminated that employment.
+ 2           129. This conduct was in violation of public policies pursuant to various state and
+ 3   federal laws, and to punish Relator for his opposition to Estes’ fraudulent and illegal practices.
+ 4           130. In doing the things herein alleged, Defendant violated California Labor Code §
+ 5   1102.5 by retaliating against Relator and ultimately terminating his employment.
+ 6           131. As a direct and proximate cause of Defendants’ wrongful conduct, Relator has
+ 7   sustained and will sustain the loss of salary, as well as interest thereon. Relator has also suffered
+ 8   other damages, including, but not limited to, valuable employee benefits. Additionally, the
+ 9   actions of Defendant were carried out in a deliberate manner in conscious disregard of the rights
+10   of Relator and were malicious, despicable, and were intended to harm him. Relator is therefore
+11   entitled to punitive damages against Defendant in an amount sufficient to punish Defendant, and
+12   to deter future similar misconduct.
+13                                          PRAYER FOR RELIEF
+14           WHEREFORE, Relators pray for judgment against the Defendants as follows:
+15           1. That Defendants cease and desist from violating the False Claims Act, 31 U.S.C. §§
+16   3729 et seq.;
+17           2. That this Court enter judgment against Defendants in an amount equal to three times
+18   the amount of damages the United States has sustained because of Defendants’ actions, plus a
+19   civil penalty of $11,000 for each violation of 31 U.S.C. § 3729;
+20           3. That Relators be awarded the maximum amount allowed pursuant to 31 U.S.C. §
+21   3730(d);
+22           4. That, as a result of Defendant’s unlawful employment actions, Relator Cuellar receive
+23   all relief necessary to make him whole pursuant to federal and state causes of action for wrongful
+24   employment conduct, retaliation, and termination, including 31 U.S.C. § 3730(h);
+25           5. That, as a result of Defendant’s violation of public policy and violation of California
+26   Labor Code § 1102.5, Relator Cuellar receive all relief necessary to make him whole;
+27           6. That Defendant Estes pay exemplary damages in an amount sufficient to punish said
+28   Defendant and to deter future similar misconduct;
+
+     First Amended Complaint Filed Under Seal         33
+           Case 2:13-cv-00539-KJM-AC Document 29 Filed 02/09/16 Page 35 of 35
+
+ 1            7. That Relators be awarded all costs of this action, including attorneys' fees, costs and
+ 2   expenses; and
+ 3            8. That Relators recover such other and further relief as the Court deems just and proper.
+ 4                                      DEMAND FOR JURY TRIAL
+
+ 5            Pursuant to Rule 38 ofthe Federal Rules of Civil Procedure, Relators hereby demand a
+ 6   trial by jury.
+ 7
+ 8   Dated:   2!q 11     {o
+                                                      ichael A. Hirst, Esq.
+ 9                                                  HIRST LAW GROUP, P.C.
+                                                    200 B. Street, Suite A
+10                                                  Davis, CA 95616
+                                                    Tel: 530-756-7700
+11                                                  Fax: 530-756-7707
+                                                    michael.hirst@hirstlawgroup.com
+12
+                                                    Counsel for Plaintiffs/Relators
+13                                                  Richard Ricks and Marcelo Cuellar
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+     First Amended Complaint Filed Under Seal          34
+

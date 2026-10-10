@@ -1,0 +1,1163 @@
+      Case 1:23-cv-00041-VMC    Document 103    Filed 01/03/25   Page 1 of 27
+
+
+
+
+                 IN THE UNITED STATES DISTRICT COURT
+                FOR THE NORTHERN DISTRICT OF GEORGIA
+                          ATLANTA DIVISION
+
+ OUT OF NOWHERE, a California
+ Corporation, doing business as
+ OCEANS WEST; and STEVEN BELL,
+ an Individual,                                Civil Action No.
+                                               1:23-cv-00041-VMC
+        Plaintiffs,
+
+ v.
+
+ NOLAN TRANSPORTATION
+ GROUP, LLC, a Delaware Limited
+ Liability Company; MARK SMITH, an
+ Individual; LEE WASSERMAN, an
+ Individual; and, DOES 1-10, inclusive,
+
+        Defendants.
+
+                            OPINION AND ORDER
+
+       Before the Court is the Motion of Defendants Nolan Transportation Group,
+
+LLC (“NTG”), Mark Smith, and Lee Wasserman (collectively, “Defendants”) for
+
+Summary Judgment (“Motion,” Doc. 98).
+
+                                  Background
+
+I.     Parties and Governing Agreements
+
+       On July 27, 2018, Steven A. Bell, as principal of Plaintiff Out of Nowhere
+
+(“OON”), entered into a Broker Carrier Agreement (“Agreement”) with NTG
+
+related to furnishing contract carrier service for the transportation of goods,
+     Case 1:23-cv-00041-VMC      Document 103      Filed 01/03/25   Page 2 of 27
+
+
+
+
+property, freight, or general commodities. (Doc. 102 ¶ 1).1 Mark Smith and Lee
+
+Wasserman are employees of NTG. (Doc. 1 ¶¶ 4, 5).
+
+      Through the Agreement, NTG agreed to solicit and arrange for
+
+transportation of freight from clients, and OON agreed to transport the freight.
+
+(Doc. 25-2 at 1). Each shipment under the Agreement is evidenced by a separate
+
+bill of lading containing the job’s terms. (Id. ¶ 5). As a third-party broker, NTG has
+
+no direct control over a job’s terms. (Doc. 102 ¶ 24). Changes and delays are
+
+common in the trucking industry. (Id. ¶ 25).
+
+      With respect to billing and payment, Paragraph 2 of the Agreement states:
+
+             NTG will collect all Freight Charges from the Client on
+             all Freight transported by CARRIER. Payment by the
+             applicable Client to NTG is a condition precedent to
+             NTG’s payment to CARRIER for Freight Charges. . .
+             CARRIER will be responsible for all costs and expenses
+             associated with concessions or credits due to CARRIER’S
+             actions or negligence and NTG will have the right to
+             offset any payable owed to CARRIER.
+
+(Id. ¶ 2). With respect to communicating with Clients, the Agreement states:
+
+             PROHIBITED        COMMUNICATIONS            WITH       NTG
+             CUSTOMERS.
+
+
+
+
+1 The following facts are drawn from the parties’ respective Statements of Material
+
+Facts. Citation to the relevant responsive statement without explanation or
+clarification indicates the Court has deemed the underlying statement admitted.
+For clarity and ease of reading, the Court omits quotation marks from admitted
+statements that are reproduced in this Order. Record citations are to the internal
+pagination, rather than the ECF header stamps, unless indicated otherwise.
+                                             2
+      Case 1:23-cv-00041-VMC      Document 103     Filed 01/03/25    Page 3 of 27
+
+
+
+
+             During the term of this Agreement and for a period of
+             two (2) years after its termination for any reason,
+             CARRIER covenants that, without the express written
+             consent of and participation with NTG, CARRIER, its
+             agents, contractors, employees or affiliates, or anyone
+             directly or indirectly associated with CARRIER, or any
+             under its control shall not directly, directly or indirectly,
+             solicit, “back-solicit,” contact, communicate with or
+             induce, or attempt to solicit, contact, communicate with
+             or induce, any NTG Client for the purpose of (i)
+             transporting Freight or traffic or any property, (ii) selling
+             any product or service competitive or potentially
+             competitive with NTG, or (iii) terminating or adversely
+             changing in any way such Client’s relationship with
+             NTG. If CARRIER breaches this Agreement and solicits,
+             “back-solicits”, contacts, communicates with, induces or
+             transports Freight, property, traffic or business from any
+             NTG Client, then NTG shall be entitled, for a period of
+             three (3) years from the date of the violation, to a
+             commission from CARRIER in the amount of fifteen
+             percent (15%) of the gross charge on any such shipment
+             for said Client(s).
+
+(Id. ¶ 3).
+
+II.    The August 2021 Incident
+
+       On August 2, 2021, Vector Global Logistics (NTG’s client) contacted NTG
+
+and requested assistance in securing a carrier to transport a load to Extra Space
+
+Storage in Las Vegas. (Id. ¶ 4). On August 16, 2021, Vector Global Logistics
+
+(“Vector”) informed NTG that delivery of the load was set for Friday August 20th
+
+at noon. (Id. ¶ 6). Thereafter, Vector provided the pickup date. (Id. ¶ 7). Mr. Bell
+
+responded to a posting on NTG’s website for the subject load, purportedly
+
+weighing 20,000 pounds, and a Carrier Rate Confirmation was issued. (Id. ¶ 8; Doc.
+
+                                              3
+     Case 1:23-cv-00041-VMC      Document 103     Filed 01/03/25   Page 4 of 27
+
+
+
+
+100 ¶ 1). At the time, Mr. Bell inquired about the time of delivery, because he
+
+would not book the job unless it provided adequate time to book a load back to
+
+Los Angeles. (Doc. 100 ¶ 2). Mr. Bell, on behalf of OON, booked the job with NTG
+
+from Los Angeles to Las Vegas on the understanding that the time of delivery
+
+would not be in the afternoon because Mr. Bell and OON already had a load
+
+scheduled on August 20, 2021 from Las Vegas to Los Angeles. (Id. ¶ 3).
+
+      On August 17, 2021, NTG informed Vector that the load had been assigned
+
+to Mr. Bell/OON. (Doc. 102 ¶ 9). That same day, Vector once again confirmed the
+
+cargo pickup and delivery dates with NTG, reflecting that delivery would be on
+
+“Friday 08/20 @ Noon.” (Id. ¶ 10). However, at 10:45 a.m. Eastern Time,2 NTG
+
+received notice from its client that the delivery time changed to 3:00PM, prior to
+
+Mr. Bell’s truck being loaded at the shipper. (Doc. 98-3 at Def. Prod. 00017).
+
+      Meanwhile, Mr. Bell arrived at the shipper around 8:00 a.m. Pacific Time
+
+(11:00 Eastern Time). (Doc. 100 ¶ 5). While Mr. Bell was in the process of picking
+
+up the load on August 19th, he identified a discrepancy between the weight
+
+provided by NTG and the actual weight of the cargo. (Doc. 102 ¶ 11). Specifically,
+
+Mr. Bell noticed the gauge of his truck indicated that the load was much heavier
+
+than 20,000 pounds and emailed an NTG Carrier Sales Representative at 8:09 a.m.
+
+
+2 The Court assumes that the emails in question are in Eastern Time, as NTG’s
+
+emails are signed with a Charleston, SC address and the Vector emails are signed
+with an Atlanta, GA address.
+                                            4
+       Case 1:23-cv-00041-VMC      Document 103      Filed 01/03/25    Page 5 of 27
+
+
+
+
+Pacific Time (11:09 a.m. Eastern Time) requesting a call due to the weight issue,
+
+stating, “[i]t is not 20000 lbs[,] it’s more like 40000.” (Doc. 100 ¶ 7).
+
+        The parties dispute the extent to which Plaintiffs had any other options at
+
+this point but to proceed with the load anyway, but a new Second Carrier Rate
+
+Confirmation was issued which included a $200.00 overweight charge. (Id. ¶¶ 9–
+
+11; Doc. 102 ¶ 12). The Second Carrier Rate Confirmation still indicated a delivery
+
+time of 12:00 p.m. (Doc. 1-3).
+
+        While Mr. Bell was in route to Las Vegas, he contacted Vector using a phone
+
+number found on the bill of lading and was told the delivery time was 3:00 pm
+
+Pacific Time. (Id. ¶ 14). When Mr. Bell attempted to deliver the freight in Las Vegas
+
+at approximately 11:00 a.m. Pacific Time on August 20th, the receiving facility was
+
+not ready for him. (Id. ¶ 15). Scott Webb, a third-party who had been retained to
+
+remove the freight from Mr. Bell’s truck using a tow truck, rushed to the receiving
+
+facility and arrived at approximately 12:30 p.m. (Id. ¶ 16). Mr. Webb told Mr. Bell
+
+that he was never scheduled to unload at 12:00 p.m., but at 3:00 p.m. (Doc. 100 ¶
+
+21).
+
+        While Mr. Bell and Mr. Webb waited for the tow truck to arrive, Mr. Bell
+
+gave NTG the “ultimatum” of taking the freight back to the shipper. (Doc. 102 ¶
+
+17). Mr. Bell demanded additional compensation from NTG, writing at 3:36 p.m.
+
+Eastern/12:26 p.m. Pacific time, “2500 and I may stay”. (Id. ¶ 18).
+
+                                               5
+     Case 1:23-cv-00041-VMC      Document 103     Filed 01/03/25      Page 6 of 27
+
+
+
+
+      Multiple NTG employees asked Mr. Bell not to leave while agreeing to
+
+compensate him for his detention (waiting time) at the facility. (Id. ¶ 19).
+
+Ultimately, after much delay, NTG advanced Mr. Bell $1,100 and told to “go cash
+
+the com check and deliver the freight.” (Id. ¶ 20; Doc. 100 ¶ 243).
+
+      Following this incident, Mr. Bell repeatedly contacted NTG, Vector, and
+
+Extra Space Storage (the receiver). (Doc. 102 ¶ 21). Mr. Bell delivered the freight
+
+and sent a photo confirming the delivery to NTG Employee Mark Smith. (Doc. 100
+
+¶ 25). Mr. Smith responded, “[t]hanks Steve for working with us. Send the POD
+
+over in email and we will process the other half of the payment.” (Id. ¶ 26). Mr.
+
+Bell attempted to follow up with Mr. Smith regarding his promise to “process the
+
+other half of the payment” but was sent a cease-and-desist letter by Defendant
+
+Wasserman on or about August 23, 2021. (Id. ¶ 27).
+
+      On Saturday, August 21, 2024, Mr. Bell emailed NTG about the damage to
+
+his truck as a result of the oversized load. (Id. ¶ 28). On Monday, August 23, 2024
+
+at 8:27 a.m., Mr. Wasserman responded that NTG does not handle “liability
+
+claims” so Plaintiffs should take it up with who damaged the truck and that he
+
+would be filing a FreightGuard report “out of, you know, principal.” (Id. ¶ 29). In
+
+
+
+3 Defendants’ objection to Plaintiffs’ Statement of Additional Material Facts ¶ 24 is
+
+overruled. A response to a statement of fact should either admit or deny the fact,
+not attempt to expound on or contextualize the fact; that is the purpose of the
+party’s own statement of facts.
+                                             6
+       Case 1:23-cv-00041-VMC     Document 103     Filed 01/03/25   Page 7 of 27
+
+
+
+
+response to Plaintiffs’ attempts to reach out and “take it up with who damaged the
+
+truck,” Lee Wasserman reached out to Plaintiffs again, the same day at 3:36 p.m.,
+
+saying “[i]f you agree to never again contact NTG or any of our customers,
+
+shippers or receivers ever again I will put this report down now and we can all
+
+move on.” (Id. ¶ 30).
+
+        On August 24, 2021, at 7:16 a.m., Plaintiffs received an email from Christian
+
+Dutton, NTG senior account manager, stating that “. . . the remaining $1100 will
+
+be paid out within 30 days that is standard.” (Id. ¶ 31).
+
+        On August 24, 2021 at 9:04 a.m., Christian Dutton, NTG senior account
+
+manager” sent an invoice to Vector that reflected a 100% “Customer Discount”
+
+and an email stating “Please note that the entire amount of $2400 is being removed
+
+for the many issues our driver cause during and after this delivery…” (Id. ¶ 32).
+
+Citing the Agreement, NTG, in turn, did not submit any further payment to
+
+Plaintiffs. (Doc. 102 ¶ 23).
+
+III.    FreightGuard Posts
+
+        Defendants posted two reports on FreightGuard regarding the incident: one
+
+on August 23, 2021, and one on October 7, 2021. (Doc. 1 ¶¶ 29, 34). The August 23,
+
+2021 post stated:
+
+              Steve Bell arrived onsite at the receiver and was told the
+              equipment was not there to get him unloaded. They were
+              running behind and we paid carrier $800 in detention to
+              sit and wait about 3 hours. Steve decided he would take
+
+                                             7
+     Case 1:23-cv-00041-VMC        Document 103     Filed 01/03/25   Page 8 of 27
+
+
+
+
+               the load back to the shipper if we did not pay him for the
+               load upfront, and his reason was it was ‘out of principle’.
+               Then Steve began talking to the customer and made the
+               whole situation worse.
+
+(Doc. 1-15). This post was later taken down after Plaintiffs retained counsel who
+
+sent a cease-and-desist letter. (Doc. 1 ¶¶ 32–33). The October 7, 2021 post stated:
+
+               Steve Bell took a load that required a crane to unload.
+               When carrier arrived at the receiver, the crane was held
+               up at the first job and the carrier was informed it would
+               be 3 hours before the crane arrived. He was paid $800 for
+               3 hours and then he took the freight to a local 7/11 and
+               held it hostage until we paid him half the line haul
+               upfront, then he harassed our employers nonstop via
+               phone, email, and text. All of which we have evidence of.
+
+(Doc. 1-16).
+
+                                    Legal Standard
+
+      Federal Rule of Civil Procedure 56(a) provides “[t]he court shall grant
+
+summary judgment if the movant shows that there is no genuine dispute as to any
+
+material fact and the movant is entitled to judgment as a matter of law.” A factual
+
+dispute is genuine if the evidence would allow a reasonable jury to find for the
+
+nonmoving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). A fact is
+
+“material” if it is “a legal element of the claim under the applicable substantive
+
+law which might affect the outcome of the case.” Allen v. Tyson Foods, Inc., 121 F.3d
+
+642, 646 (11th Cir. 1997).
+
+
+
+
+                                               8
+     Case 1:23-cv-00041-VMC         Document 103    Filed 01/03/25   Page 9 of 27
+
+
+
+
+      The moving party bears the initial burden of showing the court, by reference
+
+to materials in the record, that there is no genuine dispute as to any material fact
+
+that should be decided at trial. Hickson Corp. v. N. Crossarm Co., 357 F.3d 1256, 1260
+
+(11th Cir. 2004) (citing Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986)). The moving
+
+party’s burden is discharged merely by “‘showing’—that is, pointing out to the
+
+district court—that there is an absence of evidence to support [an essential element
+
+of] the nonmoving party’s case.” Celotex, 477 U.S. at 325. In determining whether
+
+the moving party has met this burden, the district court must view the evidence
+
+and all factual inferences in the light most favorable to the party opposing the
+
+motion. Johnson v. Clifton, 74 F.3d 1087, 1090 (11th Cir. 1996). Once the moving
+
+party has adequately supported its motion, the non-movant then has the burden
+
+of showing that summary judgment is improper by coming forward with specific
+
+facts showing a genuine dispute. Matsushita Elec. Indus. Co. v. Zenith Radio Corp.,
+
+475 U.S. 574, 587 (1986). All reasonable doubts should be resolved in the favor of
+
+the non-movant. Fitzpatrick v. City of Atlanta, 2 F.3d 1112, 1115 (11th Cir. 1993). In
+
+addition, the court must “avoid weighing conflicting evidence or making
+
+credibility determinations.” Stewart v. Booker T. Washington Ins., 232 F.3d 844, 848
+
+(11th Cir. 2000). When the record as a whole could not lead a rational trier of fact
+
+to find for the nonmoving party, there is no genuine dispute for trial. Fitzpatrick, 2
+
+F.3d at 1115 (citations omitted).
+
+                                              9
+     Case 1:23-cv-00041-VMC    Document 103     Filed 01/03/25   Page 10 of 27
+
+
+
+
+                                   Discussion
+
+      Following the Court’s Order of June 5, 2023 (Doc. 80), ten claims from
+
+Plaintiffs’ Complaint remain pending: Breach of Contract (Count I), Account
+
+Stated (Count II), Open Book Account (Count III), Unjust Enrichment (Count IV),
+
+Fraudulent Misrepresentation (Count V), Negligent Misrepresentation (Count VI),
+
+Libel (Count VII), Libel Per Se (Count VIII), Violation of California Business &
+
+Professional Code § 17200 (Count XI), and Violation of 49 USC §14103(b) (Count
+
+XII). Defendants seek summary judgment on all outstanding counts.4
+
+I.    Contract Claims
+
+      Counts I to III essentially all seek identical relief: payment of all amounts
+
+allegedly due Plaintiffs from the August 2021 job. Defendants argue that, under
+
+the Agreement, payment to Plaintiffs is contingent on the condition precedent of
+
+payment by Vector, pointing to this portion of Paragraph 2 of the Agreement:
+
+            Payment by the applicable Client to NTG is a condition
+            precedent to NTG’s payment to CARRIER for Freight
+            Charges. . . CARRIER will be responsible for all costs and
+            expenses associated with concessions or credits due to
+            CARRIER’S actions or negligence and NTG will have the
+            right to offset any payable owed to CARRIER.
+
+
+
+
+4 Plaintiffs did not file a response to Defendants’ arguments regarding Unjust
+
+Enrichment (Count IV) and California Business & Professional Code § 17200
+(Count XI). The Court has reviewed Defendants’ brief and finds that judgment on
+these claims is appropriate for the reasons Defendants gave on pages 8 and 20–21
+of their brief in support of the Motion. (Doc. 98-1).
+                                           10
+    Case 1:23-cv-00041-VMC       Document 103      Filed 01/03/25    Page 11 of 27
+
+
+
+
+(Doc. 25-2 ¶ 2). Because payment by Vector did not occur, they argue, there is no
+
+obligation under the Agreement to pay Plaintiffs. (Doc. 98-1 at 7–8). In response,
+
+Plaintiffs contend there is a fact dispute about whether payment by Vector to NTG
+
+was caused by NTG’s own actions, rather than the actions of Plaintiffs. (Doc. 99-1
+
+at 10) (“The Defendants waived payment by the applicable Client without record
+
+evidence that Client refused to make payment.”). Plaintiffs are correct.
+
+      Under Georgia law, “[i]f the nonperformance of a party to a contract is
+
+caused by the conduct of the opposite party, such conduct shall excuse the other
+
+party from performance.” O.C.G.A. § 13-4-23. Georgia courts have extended this
+
+principle to conditions precedent, noting that a jury question can exist where
+
+“nonsatisfaction of the condition precedent . . . [is] the result of [a party’s] failure
+
+to exercise good faith,” because “[w]here a defendant prevents the performance of
+
+a stipulation of a contract undertaken by the plaintiff, he is estopped from setting
+
+up in his own behalf any injury which may have resulted from the non-
+
+performance of such condition.” Merritt v. State Farm Mut. Auto. Ins. Co., 544 S.E.2d
+
+180, 185 (Ga. Ct. App. 2000) (quoting Oxford Motors Co. v. Niblack, 360 S.E.2d 23
+
+(Ga. Ct. App. 1987)); see also Ga. 20 Props. LLC v. Tanner, 564 S.E.2d 459, 462 (Ga.
+
+Ct. App. 2002) (“A party cannot avoid the obligations of a contract by frustrating
+
+the performance of a condition precedent.”).
+
+
+
+
+                                              11
+     Case 1:23-cv-00041-VMC     Document 103    Filed 01/03/25   Page 12 of 27
+
+
+
+
+       For example, in Hammond v. Bank of Newnan, 456 S.E.2d 678, 678 (Ga. Ct.
+
+App. 1995), a bank president signed an employment agreement providing for
+
+stock options. The president attempted to exercise the option, and the bank’s board
+
+of directors approved the action, but the shares were not delivered. Id. at 678–79.
+
+When the bank president sued, the bank obtained summary judgment before the
+
+trial court on the grounds that “a condition precedent to . . . [the president’s]
+
+exercise of the option, the approval by the Bank’s shareholders and the State
+
+Department of Banking, had never been fulfilled.” Id. at 679. On appeal, the bank
+
+president contended that if there was a failure of a condition precedent to seek
+
+shareholder and state approval of the options, the “failure was attributable to the
+
+Bank,” and that “because the Bank failed to take the steps necessary to effectuate
+
+the statute’s requirements after promising to do so, it cannot now rely on the
+
+failure of a condition precedent that it caused.” Id. The Georgia Court of Appeals
+
+reversed the grant of summary judgment, holding that “[b]ecause there was
+
+conflicting evidence as to . . . whether it was [the president] or the Bank who
+
+prevented the performance of a condition precedent, . . . issues of fact remain for
+
+the jury.” Id. at 680.
+
+       Hammond is analogous to this case. The Agreement here provides that “NTG
+
+will collect all Freight Charges from the Client on all Freight transported by
+
+CARRIER.” (Doc. 25-2 ¶ 2). However, despite this promise to collect freight
+
+                                           12
+      Case 1:23-cv-00041-VMC     Document 103      Filed 01/03/25   Page 13 of 27
+
+
+
+
+charges, Plaintiffs argue that the record shows NTG unilaterally waived payment
+
+by Vector, causing the nonperformance of the condition precedent. (Doc. 99-1 at
+
+7). In response, Defendants contend that “record evidence establishes that NTG
+
+did not seek payment from Vector in an effort to preserve its relationship with
+
+Vector following Vector’s frustrations with Plaintiffs’ actions.” (Doc. 101 at 3). But
+
+this only creates a fact dispute as to whether the condition precedent would have
+
+occurred regardless of NTG’s actions.5 Accordingly, summary judgment on these
+
+counts is denied.
+
+II.     Misrepresentation
+
+        The Court next considers Plaintiffs’ claims for fraudulent and negligent
+
+misrepresentation together. The Eleventh Circuit has set forth the elements for
+
+each of these claims under Georgia law as follows:
+
+              In order to establish these two claims, a plaintiff must
+              show five elements: (1) that false representations were
+              made; (2) that the defendant knew they were false; (3)
+              that the representations were made either intentionally
+              or negligently; (4) that the plaintiff reasonably relied
+
+5 The  Parties also discuss the Agreement’s provision barring Plaintiffs from
+communicating with clients directly, but Defendants do not make any argument
+regarding the operation of the provision on any obligation to Plaintiffs in their
+opening brief, and the Court will not consider for the first time any argument made
+in a reply brief. Carter v. Howard, No. 1:20-CV-1674-TWT-JSA, 2020 WL 10050792,
+at *1 (N.D. Ga. Oct. 22, 2020) (citing Herring v. Sec’y, Dep’t of Corrections, 397 F.3d
+1338, 1342 (11th Cir. 2005)); (See Doc. 101 at 5) (“Likewise, regardless of whether
+Plaintiffs attempted to solicit Vector’s business from NTG, it cannot be reasonably
+disputed that Plaintiffs ‘adversely chang[ed] in any way such Client’s relationship
+with NTG’ as prohibited by the Communications Clause.”).
+                                             13
+    Case 1:23-cv-00041-VMC        Document 103      Filed 01/03/25   Page 14 of 27
+
+
+
+
+             upon the representations; and (5) that harm proximately
+             resulted from that reliance.
+
+Optimum Techs., Inc. v. Henkel Consumer Adhesives, Inc., 496 F.3d 1231, 1250 (11th
+
+Cir. 2007) (citing Williams v. Dresser Indus., Inc., 120 F.3d 1163, 1167 (11th Cir. 1997)
+
+(fraud); MacIntyre & Edwards, Inc. v. Rich, 599 S.E.2d 15, 19 n. 14 (Ga. Ct. App. 2004)
+
+(negligent misrepresentation)).
+
+      Plaintiffs point to the allegedly false representations that the Vector load
+
+weighed 20,000 lbs. and was scheduled for delivery in Las Vegas, NV, at 12:00 p.m.
+
+Pacific Time when in truth the load weighed a total of 40,000 lbs. and was not
+
+scheduled for delivery until 3:00 p.m. While both of these representations were
+
+false, there is no evidence that at any point prior to the loading that Defendants
+
+knew about the weight of the load. Instead the record appears to show that all
+
+parties learned about that discrepancy at the same time.
+
+      On the other hand, there is evidence that Defendants knew that the delivery
+
+time was false when they issued the Second Carrier Confirmation. At 10:45 a.m.
+
+Eastern Time, NTG received notice from its client that the delivery time changed
+
+to 3:00 p.m. (Doc. 98-3 at Def. Prod. 00017). Meanwhile, Mr. Bell emailed an NTG
+
+Carrier Sales Representative at 11:09 a.m. Eastern Time requesting a call due to the
+
+weight issue, more than 20 minutes later. (Doc. 100 ¶ 7). The Second Carrier Rate
+
+Confirmation, issued after NTG learned of the delivery time change, still indicated
+
+a delivery time of 12:00 p.m. (Doc. 1-3). And it is stipulated for the purpose of
+                                              14
+    Case 1:23-cv-00041-VMC       Document 103     Filed 01/03/25   Page 15 of 27
+
+
+
+
+summary judgment that Mr. Bell would not book the job unless it provided
+
+adequate time to book a load back to Los Angeles, making such misrepresentation
+
+material. (Doc. 100 ¶ 2).
+
+      Whether the misrepresentations were made negligently or intentionally is a
+
+jury issue. As to fraudulent intent, Defendants argue that Plaintiffs cannot meet
+
+the “high standard of intent” to claim fraud. (Doc. 101 at 6). To establish intent,
+
+Plaintiffs essentially point to the sequence of events constituting circumstantial
+
+evidence:
+
+             Because the Defendants knew of the 3:00PM delivery
+             time prior to the start of loading for Plaintiffs, and knew
+             that but-for this misrepresented delivery time the
+             Plaintiffs would not have accept the load, a reasonable
+             jury could find that Defendant knowingly and
+             intentionally conveyed material elements of the contract
+             in order to induce Plaintiffs to transport the subject load.
+
+(Doc. 99-1 at 12).
+
+      Circumstantial evidence is often sufficient to create a fact dispute on
+
+fraudulent intent. O.C.G.A. § 23-2-57 (“Fraud may not be presumed but, being in
+
+itself subtle, slight circumstances may be sufficient to carry conviction of its
+
+existence.”). Indeed, “[p]roof of fraud is seldom if ever susceptible of direct proof,
+
+thus recourse to circumstantial evidence usually is required. Moreover, it is
+
+peculiarly the province of the jury to pass on these circumstances showing fraud.”
+
+Brown v. Mann, 514 S.E.2d 922, 924 (Ga. Ct. App. 1999) (quoting Lloyd v. Kramer,
+
+
+                                             15
+    Case 1:23-cv-00041-VMC       Document 103     Filed 01/03/25   Page 16 of 27
+
+
+
+
+503 S.E.2d 632 (Ga. Ct. App. 1998)). Therefore, Georgia courts routinely hold that
+
+“[e]xcept in plain and indisputable cases, scienter in actions based on fraud is an
+
+issue of fact for jury determination.” Id.
+
+      Similarly, a jury question remains on whether the misrepresentation was
+
+negligent:
+
+             [O]ne who supplies information during the course of his
+             business, profession, employment, or in any transaction
+             in which he has a pecuniary interest has a duty of
+             reasonable care and competence to parties who rely
+             upon the information in circumstances in which the
+             maker was manifestly aware of the use to which the
+             information was to be put and intended that it be so used.
+
+Robert & Co. Assocs. v. Rhodes-Haverty P’ship, 300 S.E.2d 503, 504 (Ga. 1983). “[T]he
+
+negligence of the defendant and the plaintiff . . . are generally not susceptible of
+
+summary adjudication.” Robinson v. Kroger Co., 493 S.E.2d 403, 414 (Ga. 1997).
+
+      Defendants assert summary judgment is required anyway for three reasons.
+
+First, they argue that Plaintiffs cannot show reasonable reliance, because Mr. Bell
+
+learned about the delayed delivery time while en route but still completed the job
+
+(Doc. 102 ¶ 14), and in any case there is no dispute that changes and delays are
+
+common in the trucking industry. (Id. ¶ 25). But the record is unclear at what point
+
+Mr. Bell learned about the changed delivery time and whether not completing the
+
+job was even feasible anymore, and “[i]ssues of justifiable reliance and proper due
+
+diligence are generally for the jury[.]” Saks Mgmt. & Assocs., LLC v. Sung Gen.
+
+
+                                             16
+    Case 1:23-cv-00041-VMC       Document 103      Filed 01/03/25   Page 17 of 27
+
+
+
+
+Contracting, Inc., 849 S.E.2d 19, 27–28 (Ga. Ct. App. 2020) (quoting Nw. Plaza, LLC
+
+v. Ne. Enters., 699 S.E.2d 410 (Ga. Ct. App. 2010)).
+
+      Second, Defendants argue that Plaintiffs are improperly seeking to
+
+repackage a contract claim as a tort claim. (Doc. 98-1 at 9 n.10). But “[t]he fact that
+
+[Plaintiffs’] damages sought on [their] fraud, negligent misrepresentation, and
+
+breach-of-contract claims overlap with one another is not fatal to [their] tort claims
+
+at the summary judgment stage of the proceedings.” Wanna v. Navicent Health, Inc.,
+
+850 S.E.2d 191, 206 (Ga. Ct. App. 2020). While “[g]enerally, a mere breach of a valid
+
+contract amounting to no more than a failure to perform in accordance with its
+
+terms does not constitute a tort” outside of a confidential relationship, Thomas v.
+
+Phoenix Mut. Life Ins. Co., 236 S.E.2d 510, 511 (Ga. Ct. App. 1977), Plaintiffs do not
+
+allege a mere breach of contract—they allege an affirmative, written
+
+misrepresentation in the contract. Hill v. Century 21 Max Stancil Realty, Inc., 371
+
+S.E.2d 217, 218 (Ga. Ct. App. 1988) (“[O]ne may justifiably rely upon
+
+representations of even those who are not in fiduciary relationships with them. A
+
+fiduciary relationship is not an element of fraud but merely gives a special basis
+
+for reliance.”) (citing Day v. Randolph, 283 S.E.2d 687 (Ga. Ct. App. 1981)). And the
+
+fact that Plaintiffs are seeking economic damages in tort alongside in contract does
+
+not bar their claims because the misrepresentation exception to the economic loss
+
+
+
+
+                                             17
+    Case 1:23-cv-00041-VMC        Document 103      Filed 01/03/25   Page 18 of 27
+
+
+
+
+doctrine applies to claims for fraudulent and negligent misrepresentation.
+
+Holloman v. D.R. Horton, Inc., 524 S.E.2d 790, 796 (Ga. Ct. App. 1999).
+
+      Finally, Defendants argue belatedly in a footnote in reply that accord and
+
+satisfaction bars claims for load weight or delivery time, (Doc. 101 at 6 n.2) but
+
+accord and satisfaction is an affirmative defense for which Defendants bear the
+
+burden of showing “(1) a previous valid obligation, (2) the agreement of the parties
+
+to [the] new contract, (3) a mutual intention by the parties to substitute the new
+
+contract for the old one, and (4) the validity of the new contract.” Stewart v. Johnson,
+
+605 S.E.2d 111, 113 (Ga. Ct. App. 2004) (quoting Abrams v. Massell, 586 S.E.2d 435
+
+(Ga. Ct. App. 2003)). As the Court noted above, it will not consider a new argument
+
+raised in reply. Carter v. Howard, No. 1:20-CV-1674-TWT-JSA, 2020 WL 10050792,
+
+at *1 (N.D. Ga. Oct. 22, 2020). Moreover, a party with the burden of proof at trial
+
+cannot discharge its burden on summary judgment with cursory legal citations.
+
+“When the moving party has the burden of proof at trial, that party must show
+
+affirmatively the absence of a genuine issue of material fact: it ‘must support its
+
+motion with credible evidence . . . that would entitle it to a directed verdict if not
+
+controverted at trial.’” United States v. Four Parcels of Real Prop. in Greene &
+
+Tuscaloosa Cntys. in the State of Ala., 941 F.2d 1428, 1438 (11th Cir. 1991) (quoting
+
+Celotex Corp. v. Catrett, 477 U.S. 317, 331 (1986) (Brennan, J., dissenting)).
+
+
+
+
+                                              18
+       Case 1:23-cv-00041-VMC    Document 103     Filed 01/03/25   Page 19 of 27
+
+
+
+
+        Summary judgment is thus inappropriate on the fraudulent and negligent
+
+misrepresentation claims.
+
+III.    Defamation
+
+        Next, the Court considers Plaintiffs’ claims for libel arising from the two
+
+FreightGuard posts. “Under Georgia law, a ‘libel is a false defamation of another
+
+and if what is printed is true there is no libel.’” Douglas Asphalt Co. v. QORE, Inc.,
+
+657 F.3d 1146, 1155 (11th Cir. 2011) (quoting Savannah News–Press, Inc. v. Harley,
+
+111 S.E.2d 259, 261 (Ga. Ct. App. 1959) and citing O.C.G.A. § 51–5–1(a)). “A cause
+
+of action for libel will therefore fail if the statements at issue are shown to be
+
+truthful.” Id. (citing McCall v. Couture, 666 S.E.2d 637, 639–40 (Ga. Ct. App. 2008)
+
+and O.C.G.A. § 51–5–6.) “‘[T]ruthfulness is normally a question of fact for the jury,’
+
+. . . but where ‘undisputed evidence of record shows that no genuine issue of
+
+material fact remains as to [the] truth of the allegedly defamatory
+
+communications,’ the question of whether the ‘communications were true and
+
+would, therefore, afford . . . no basis for a recovery’ is one of law for the court to
+
+decide.” Id. (quoting Kersey v. U.S. Shoe Corp., 440 S.E.2d 250, 252 (Ga. Ct. App.
+
+1994); Yandle v. Mitchell Motors, Inc., 404 S.E.2d 313, 315 (Ga. Ct. App. 1991); Jim
+
+Walter Homes v. Strickland, 363 S.E.2d 834, 836 (Ga. Ct. App. 1987)).
+
+        To determine whether a material dispute of fact exists as to the truth of the
+
+FreightGuard posts, the Court compares the posts to the undisputed facts as
+
+
+                                             19
+Case 1:23-cv-00041-VMC   Document 103   Filed 01/03/25   Page 20 of 27
+Case 1:23-cv-00041-VMC   Document 103   Filed 01/03/25   Page 21 of 27
+    Case 1:23-cv-00041-VMC       Document 103     Filed 01/03/25   Page 22 of 27
+
+
+
+
+was informed it would be 3 hours before the crane arrived” are each false. These
+
+statements imply that the receiver or lumper was running late when in actuality,
+
+they were never scheduled to arrive despite the terms of the job agreed to.
+
+Plaintiff’s secondary argument is that the statement in the October 2021
+
+FreightGuard Post that Mr. Bell “held [the freight] hostage” falsely implied a
+
+criminal act and moreover ignores the fact that he was unable to deliver the freight
+
+when he arrived.
+
+      Defendants argue that any inaccuracies in these statements do not render
+
+the posts as a whole substantially false, arguing that “‘minor factual errors which
+
+do not go to the substance, the gist, the sting of [a] story’ do not render a
+
+communication false for defamation purposes.” (Doc. 101 at 8) (quoting Jaillett v.
+
+Ga. Television Co., 520 S.E.2d 721, 724 (Ga. Ct. App. 1999) (quoting Stange v. Cox
+
+Enters., 440 S.E.2d 503 (Ga. Ct. App. 1994))). As the Georgia Court of Appeals
+
+explained in Jaillett, a failure of a publication to tell the “whole truth” does not
+
+render the publication “substantially false.” 520 S.E.2d at 725. “As long as facts are
+
+not misstated, distorted or arranged so as to convey a false and defamatory
+
+meaning, there is no liability for a somewhat less than complete report of the
+
+truth.” Id. (quoting Blomberg v. Cox Enters., Inc., 491 S.E.2d 430, 432 (Ga. Ct. App.
+
+1997)).
+
+
+
+
+                                             22
+     Case 1:23-cv-00041-VMC         Document 103     Filed 01/03/25   Page 23 of 27
+
+
+
+
+          The Georgia Court of Appeals considered similar circumstances to this case
+
+in Bird v. Weis Broad. Corp., 388 S.E.2d 710, 711 (Ga. Ct. App. 1989). There, a disc
+
+jockey played a song he wrote about tow trucks which included the following
+
+lyrics:
+
+                 “[I]t’s like havin’ a license to rob.” “[I]f these guys
+                weren’t towing cars, they’d be politicans [sic].” “[T]hey
+                so bad they even make my preacher want to cuss.” “[I]t
+                really wouldn’t anger me, I wouldn’t have much to say,
+                if only my car hadn’t been parked in my driveway.” At
+                the end of the song the singer shouted over the closing
+                music: “Hey, you can’t do that . . . that’s against the law,
+                that’s breaking the law.”
+
+Id. at 711. The tow company mentioned in the song admitted that “his business
+
+had towed cars from the locations mentioned in the song and that he charged the
+
+stated amount of money,” and therefore the court upheld judgment against the
+
+tow company “[b]ecause the facts contained in the song were substantially true.”
+
+Id. “The remaining content of the song,” the court held, “was merely an expression
+
+of opinion about the practices and motivation of individuals involved in the
+
+automobile towing business, ‘matters with respect to which reasonable men might
+
+entertain differing opinions’ and is therefore not libelous.” Id. (quoting Bergen v.
+
+Martindale-Hubbell, Inc., 337 S.E.2d 770 (Ga. Ct. App. 1985)).
+
+          Here, the substance of the publication is that Mr. Bell communicated directly
+
+with a broker’s customer and threatened to take the load back if not paid up front;
+
+misstatements about whether the receiver was running behind or was in fact never
+                                                23
+      Case 1:23-cv-00041-VMC    Document 103      Filed 01/03/25   Page 24 of 27
+
+
+
+
+scheduled to be there only go to Mr. Bell’s motivations for taking those actions.
+
+Any statement about holding the load “hostage” was likewise an expression of
+
+opinion about motivation. These do not render the postings substantially false
+
+where Mr. Bell admits to having taken the actions.
+
+       To be clear, the Court agrees with Mr. Bell that Defendants’ postings give
+
+the false impression that the receiver just happened to be running late, when
+
+Defendants knew it would be late long before Mr. Bell arrived and neglected to
+
+inform Mr. Bell of that fact. The fact that Defendants minimized their role in
+
+inflaming tensions seems at odds with their attempts in this case to seize the moral
+
+high ground and Mr. Wasserman’s statement that he was acting “out of, you
+
+know, principal[sic].” (Doc. 99-1 at ECF p. 44). But this obfuscation does not render
+
+the postings actionable libel. Summary judgment is therefore appropriate.
+
+IV.    ICC Termination Act of 1995
+
+       Lastly, Plaintiffs bring claims against Defendants under Section 103 of the
+
+ICC Termination Act of 1995 (the “Act”), codified as Subtitle IV, Part B of Title 49.
+
+The provision in question states, in relevant part:
+
+             (b) Coercion prohibited.--It shall be unlawful to coerce
+             or attempt to coerce any person providing transportation
+             of property by motor vehicle for compensation in
+             interstate commerce (whether or not such transportation
+             is subject to jurisdiction under subchapter I of chapter
+             135) to load or unload any part of such property onto or
+             from such vehicle or to employ or pay one or more
+
+
+                                            24
+    Case 1:23-cv-00041-VMC       Document 103      Filed 01/03/25   Page 25 of 27
+
+
+
+
+             persons to load or unload any part of such property onto
+             or from such vehicle . . . .
+
+49 U.S.C. § 14103(b).
+
+      Section 103 of the Act provides for both civil and criminal enforcement of its
+
+provisions, including § 14103(b). Specifically, 49 U.S.C. § 14905(a) provides for a
+
+civil penalty 7 of no more than $10,000 for anyone who “knowingly authorizes,
+
+consents to, or permits a violation of subsection . . . (b) of section 14103,” and 49
+
+U.S.C. § 14905(b) provides for a criminal fine or maximum sentence of 2 years for
+
+any person who “knowingly violates” section 14103(b). The Act also provides for
+
+civil enforcement, specifically providing that a “carrier or broker providing
+
+transportation or service subject to jurisdiction under chapter 135 8 is liable for
+
+damages sustained by a person as a result of an act or omission of that carrier or
+
+broker in violation of this part.” 49 U.S.C. § 14704(a)(2).
+
+
+
+
+7 Under 49 U.S.C.A. § 14914(a), the Surface Transportation Board is responsible for
+
+assessing civil penalties, which are paid to the United States.
+
+8 “The phrase ‘jurisdiction under chapter 135’ generally refers to the jurisdiction of
+
+the Secretary of the Department of Transportation and the Surface Transportation
+Board . . . over the interstate transportation by motor carrier and the procurement
+of that transportation.” Stehle v. Venture Logistics, LLC, No. 3:19-CV-169, 2020 WL
+127707, at *3 (S.D. Ohio Jan. 10, 2020) (quoting Hegemann v. M & M Am., Inc., No.
+2:18-cv-00064, 2018 WL 4502181, at *5 (D. Vt. Sept. 20, 2018), and 49 U.S.C. §§
+13102(1), (2)).
+
+                                             25
+    Case 1:23-cv-00041-VMC        Document 103      Filed 01/03/25    Page 26 of 27
+
+
+
+
+      The Eighth Circuit, on several occasions, has extensively reviewed the
+
+legislative history of § 14103. See Jessep v. Jacobson Transp. Co., 350 F.3d 739, 742 (8th
+
+Cir. 2003); Owner-Operator Indep. Drivers Ass’n, Inc. v. Supervalu, Inc., 651 F.3d 857,
+
+865 (8th Cir. 2011). In Jessep, the Eighth Circuit explained that the statute concerns
+
+the division of labor between the carrier and broker as to loading and unloading,
+
+noting that “[t]he plain language of the statute does not prohibit all unloading of
+
+motor vehicles by drivers, only coerced unloading,” and that “[r]elated statutes
+
+clarify that carriers and drivers are expected to enter into contractual agreements
+
+as to who will be responsible for unloading freight.” 350 F.3d at 742 (citing 49
+
+U.S.C. § 14102(b)). “Additionally,” the court explained “the legislative history
+
+indicates section 14103 was meant to prohibit coercive and extortionate practices.”
+
+Id. (citing H.R.Rep. No. 96–1069, at 30–31 (1980)).
+
+      Having reviewed those cases, and finding them persuasive, the Court
+
+interprets § 14103(b) to literally apply to the act of loading and unloading. There
+
+is no allegation in this case that Plaintiffs were compelled to personally load or
+
+unload the freight or to employ or pay any person to load or unload the freight.
+
+Instead, Plaintiffs allege that they were “coerced” to transport freight (which was
+
+loaded and unloaded according to the terms of the Agreement) on the false
+
+premises that the load was 20,000 lbs. and that delivery could occur at Friday
+
+
+
+
+                                               26
+    Case 1:23-cv-00041-VMC       Document 103      Filed 01/03/25    Page 27 of 27
+
+
+
+
+August, 2021 at noon. So, § 14103(b) is not on point and summary judgment is
+
+appropriate here, too.
+
+                                     Conclusion
+
+      For the above reasons, summary judgment is denied for Plaintiffs’ breach of
+
+contract claims and their fraudulent and negligent misrepresentation claims and
+
+granted as to all other claims. If the parties are interested in mediating this dispute,
+
+including with one of the district’s magistrate judges, they should reach out to the
+
+Court’s courtroom deputy promptly to obtain a stay of this matter. But if the
+
+parties wish to proceed with trial, they must submit a consolidated pretrial order
+
+by January 31, 2025.
+
+      It is ORDERED that the Motion for Summary Judgment (Doc. 98) is
+
+GRANTED IN PART as to all counts besides Counts I–III, V and VI.
+
+      SO ORDERED this 3rd day of January, 2025.
+
+
+                                               _______________________________
+                                               Victoria Marie Calvert
+                                               United States District Judge
+
+
+
+
+                                              27
+

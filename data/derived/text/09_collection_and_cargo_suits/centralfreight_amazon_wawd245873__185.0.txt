@@ -1,0 +1,926 @@
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 1 of 16
+
+
+
+ 1                                                           HONORABLE JAMES L. ROBART
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+                              UNITED STATES DISTRICT COURT
+ 7
+                             WESTERN DISTRICT OF WASHINGTON
+ 8                                     AT SEATTLE
+
+ 9
+     CENTRAL FREIGHT LINES, INC., a Texas )
+10   Corporation                                  )
+11                                                )   NO. 2:17-CV-00814-JLR
+                                       Plaintiff, )
+12                                                )   CENTRAL FREIGHT’S RULE 702
+             v.                                   )   MOTION TO PRECLUDE
+13                                                )   TESTIMONY OF AMAZON’S
+     AMAZON FULFILLMENT SERVICES,                 )   EXPERT NICOLE BOLTON
+14   a Delaware corporation, and DOES 1 through )
+15   25, inclusive,                               )
+                                    Defendants. )     NOTE ON MOTION CALENDAR:
+16                                                )   JULY 12, 2019
+17
+
+18
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+     CENTRAL FREIGHT’S RULE 702 MOTION TO                             ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S                               30 N. LASALLE STREET SUITE 2800
+     EXPERT NICOLE BOLTON                                                 CHICAGO, IL 60602
+                                                                             312.580.1200
+     NO. 2:18-cv-00814-JLR
+                 Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 2 of 16
+
+
+
+ 1
+                                                  TABLE OF CONTENTS
+ 2
+                                                                                                                                     Page No.
+ 3
+
+ 4
+     INTRODUCTION AND RELIEF REQUESTED .......................................................................... 1
+ 5
+     LEGAL STANDARD ..................................................................................................................... 1
+ 6
+     ARGUMENT .................................................................................................................................. 1
+ 7
+     I.        Bolton’s Legal Conclusions Are Inadmissible And Should Be Barred. ............................. 1
+ 8
+
+ 9   II.       Bolton’s First Opinion Should Be Barred. .......................................................................... 1
+               A.         Bolton’s Opinion Regarding the “Reasonableness” of CFL’s Volume Rate
+10
+                          is Irrelevant and Thus Will Not Assist the Trier Of Fact. ....................................... 2
+11             B.         Bolton’s Opinion Regarding the “Reasonableness” of CFL’s Volume Rate
+                          Should Also Be Barred Because She Employs No Accepted Methodology
+12                        and Lacks Qualification to Devise a Statistical Sample Set and Perform a
+                          Comparative Rate Analysis..................................................................................... 3
+13
+               C.         Bolton’s First Opinion Should Also be Barred Because She Fails to
+14                        Provide the Underling Data and Calculations She Relies on, and Instead
+                          Impermissibly Just Presents a “Bottom Line”. ....................................................... 6
+15
+               D.         Bolton’s Methodology and Analysis as to the “Reasonableness” of CFL’s
+16                        Spot Quote Rates Lacks Reliability. ....................................................................... 7
+
+17   III.      Bolton’s Second Opinion – That CFL’s Spot Quote Program Purportedly Resulted
+               In “Inconsistencies” In Billing – Should Be Barred Because Bolton Ignores The
+18             Fact That The Program’s Pricing Varies Depending On The Number Of Pallets In
+               The Shipment.. .................................................................................................................. 10
+19
+     IV.       Bolton’s Third Opinion Should Be Barred. ...................................................................... 11
+20
+
+21   CONCLUSION. ............................................................................................................................ 12
+
+22
+
+23
+
+24
+
+25
+
+26
+
+     CENTRAL FREIGHT’S RULE 702 MOTION TO                                                                ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S                                                                  30 N. LASALLE STREET SUITE 2800
+     EXPERT NICOLE BOLTON                                                                                    CHICAGO, IL 60602
+                                                                                                                312.580.1200
+     NO. 2:18-cv-00814-JLR-i
+                  Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 3 of 16
+
+
+
+ 1                                                     TABLE OF AUTHORITIES
+
+ 2
+     Aguilar v. Int’l Longshoremen’s Union Local No. 10, 966 F.2d 443 (9th Cir. 1992).. .................. 2
+ 3
+     Apple Inc. v. Amazon.com, Inc., No. 11-1327, 2013 WL 1320760 (N.D. Cal. Apr. 1, 2013) ........ 6
+ 4
+
+ 5   Cloud v. Pfizer Inc., 198 F. Supp. 2d 1118 (D. Ariz. 2001) ......................................................... 11
+
+ 6   Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579 (1993) ............................................... passim
+
+ 7   Elsayed Mukhtar v. Cal. State Univ., Hayward, 299 F.3d 1053 (9th Cir. 2002) ............................ 1
+
+ 8   Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999) .................................................................... 1
+ 9   Microsoft Corp. v. Motorola, Inc., No. C10-1823JLR, 2013 WL 4008822 (W.D. Wash. Aug. 5,
+        2013) ......................................................................................................................................... 6
+10
+     Minix v. Canarecci, 597 F.3d 824 (7th Cir. 2010) ........................................................................ 14
+11
+
+12   Nationwide Transport Finance v. Cass Info. Sys., Inc., 523 F.3d 1051 (9th Cir. 2008) ................ 1
+
+13   United States v. Hankey, 203 F.3d 1160 (9th Cir. 2000) ................................................................ 4
+
+14   Wagner v. Cnty. of Maricopa, 673 F.3d 977 (9th Cir. 2012)........................................................ 14
+
+15   Yeti by Molly, Ltd. v. Deckers Outdoor Corp., 259 F.3d 1101 (9th Cir. 2001) .............................. 7
+16
+
+17
+
+18
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                                                    ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                                                      30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                                                      CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-ii                                                                              312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 4 of 16
+
+
+
+ 1                         INTRODUCTION AND RELIEF REQUESTED
+ 2          Pursuant to Federal Rule of Evidence 702, Central Freight Liens (“CFL”) hereby moves
+
+ 3   to exclude the testimony of Amazon Fulfillment Services’ (”Amazon”) expert Nicole Bolton
+
+ 4   (“Bolton”). Bolton’s proposed expert testimony offers three opinions, which are set forth in her
+
+ 5   Expert Report (“Report”)1 and Supplemental Report (“Supp. Report,” attached as Exhibit A). All
+
+ 6   three opinions suffer from fatal flaws under controlling principles, as set forth below. Bolton
+
+ 7   should be precluded from offering any of these three opinions.
+
+ 8                                        LEGAL STANDARD
+ 9          Expert testimony is admissible pursuant to Rule 702 if it is both relevant and reliable.
+10   Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579, 589 (1993) (emphasis added). When
+
+11   considering expert testimony offered pursuant to Federal Rule of Evidence 702, the trial court
+
+12   acts as a “gatekeeper” by “making a preliminary determination that the expert’s testimony is
+
+13   reliable.” Elsayed Mukhtar v. Cal. State Univ., Hayward, 299 F.3d 1053, 1063 (9th Cir. 2002);
+
+14   see Kumho Tire Co. v. Carmichael, 526 U.S. 137, 147–48 (1999); Daubert, 509 U.S. at 589–90.
+
+15   “To fulfill its gate-keeping role, the court must strike the appropriate balance between admitting
+
+16   reliable, helpful expert testimony and excluding misleading or confusing testimony.” United
+
+17   States v. Rincon, 28 F.3d 921, 926 (9th Cir. 1994).
+
+18                                            ARGUMENT
+19   I.     Bolton’s Legal Conclusions are Inadmissible and Should be Barred.
+20          Under Rule 702, “an expert witness cannot give an opinion as to her legal conclusion,
+
+21   i.e., an opinion on an ultimate issue of law.” Nationwide Transport Finance v. Cass Info. Sys.,
+
+22   Inc., 523 F.3d 1051, 1058 (9th Cir. 2008). In particular, expert testimony consisting of legal
+
+23
+
+24
+     1
+       Bolton’s Report was originally filed by Amazon as Dkt. # 158-2 at pp. 22-54, with portions
+     redacted. The unredacted Report was then provided to the Court under seal on or about May 6,
+25   2019. CFL refers to and relies on that unredacted version of the Report herein.
+
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                     ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                       30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                       CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-1                                                312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 5 of 16
+
+
+
+ 1   conclusions regarding the existence and meaning of a contract is not admissible. Aguilar v. Int’l
+
+ 2   Longshoremen’s Union Local No. 10, 966 F.2d 443, 447 (9th Cir. 1992) (affirming district court
+
+ 3   determination that expert testimony concerning the existence and interpretation of a contract
+
+ 4   would be “utterly unhelpful” and inadmissible).
+
+ 5          During her deposition, Bolton impermissibly proffered her “opinion” as to legal
+
+ 6   conclusions that go to ultimate issues. Bolton testified as to her “opinion” that the addendum
+
+ 7   regarding the 8+ Pallet Issue is invalid because it was not signed, and that no oral modification
+
+ 8   took place (Exhibit B, Bolton Deposition (“Dep.”), 56:3-21; 58:2-10; 61:10-16; 98:11-16). Based
+
+ 9   on this, Bolton proffered in her Report the further legal conclusion that “in [her] expert opinion,
+
+10   the LTL contract rating should be applicable.” (Report, p. 17.) In her deposition, Bolton
+
+11   confirmed her expert opinion that CFL “should not have spot quoted these shipments” because
+
+12   the contract rates applied. (Dep., 54:2-14, 56:3-9.) Bolton should be precluded from offering
+
+13   these legal conclusions, as well as any opinions based on these legal conclusions.
+
+14          Furthermore, Bolton does not claim to be a lawyer or a legal professor, and otherwise to
+
+15   have expertise in interpreting the law. Instead, Bolton bases her legal opinion that there was not a
+
+16   valid contract modification on her “work in the [transportation] industry.” (Dep., 60:12-19.)
+
+17   However, Bolton admitted that she does not know the laws regarding oral modification of a
+
+18   contract, nor does she even know what is meant by the term “course of conduct.” Id., 61:10-62:6.
+19   Instead, Bolton bases her opinion that a contract cannot be modified by repeated performance on
+
+20   her belief that “two wrongs do not make a right.” Id., 62:7-16.
+
+21          Bolton’s legal conclusions regarding whether there was a valid contract modification are
+
+22   inadmissible and should be barred. Aguilar, 966 F.2d at 447.
+
+23   II.    Bolton’s First Opinion Should be Barred.
+
+24          A.    Bolton’s Opinion Regarding the “Reasonableness” of CFL’s Volume Rate is
+                  Irrelevant and Thus Will Not Assist the Trier Of Fact.
+25          Under Federal Rule of Evidence 702, evidence or testimony from an expert must be
+26   relevant. Daubert, 509 U.S. at 591 (“Expert testimony which does not relate to any issue in the
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                      ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                        30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                        CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-2                                                 312.580.1200
+              Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 6 of 16
+
+
+
+ 1   case is not relevant and, ergo, not helpful.”). To be relevant, the evidence must assist the trier of
+
+ 2   fact to understand or determine a fact in issue. Id. at 592.
+
+ 3          Bolton’s first opinion fails this test because the “reasonableness” of CFL’s Volume Rate
+
+ 4   is not relevant to any fact in issue. CFL alleges in this lawsuit that it reached a valid oral or
+
+ 5   written agreement with Amazon pursuant to which CFL was to use a Volume Rate, which would
+
+ 6   be determined using CFL’s “spot quote” rate, for shipments that were eight or more pallet
+
+ 7   positions in size. If CFL is correct and there was a valid agreement, then CFL had a right to
+
+ 8   charge its spot quote rate regardless of how that rate compared to a purported industry average
+
+ 9   rate. In fact, Bolton admitted as much. She testified that if CFL “had the right to spot quote,”
+
+10   then “that’s what should be paid.” (Dep., 131:22-132:8.)
+
+11          Amazon’s defenses and counterclaims in this matter also do not raise an issue as to the
+
+12   “reasonableness” of CFL’s Volume Rate. Amazon merely alleges that the contract rate applies
+
+13   and CFL breached the contract by failing to include the “contractual discount.” (Dckt. 48, ¶¶ 9-
+
+14   20; 42.) There is no allegation in Amazon’s counterclaim regarding CFL’s calculation or
+
+15   miscalculation of its spot quote rates. Moreover, none of the audits Amazon produced purport to
+
+16   assess or attack the underlying calculations made by CFL’s spot quote program. Because
+
+17   Amazon never challenged CFL’s spot quote calculations or alleged that the spot quote program
+
+18   was inaccurate or otherwise defective, it cannot do so now. (See Transportation Agreement at ¶
+19   2.2, attached to Dckt. No. 139, CFL’s Amended Complaint, at Ex. A, providing that Amazon
+
+20   was required to bring a claim for overcharge within 18 months of the original invoice.)
+
+21          Because Bolton’s opinion regarding the “reasonableness” of CFL’s spot quote rate does
+
+22   not relate to any issue in the case, it is not relevant and should be barred.
+
+23          B.      Bolton’s Opinion Regarding the “Reasonableness” of CFL’s Volume Rate
+                    Should Also Be Barred Because She Employs No Accepted Methodology and
+24                  Lacks Qualification to Devise a Statistical Sample Set and Perform a
+                    Comparative Rate Analysis.
+25
+
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                        ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                          30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                          CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-3                                                   312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 7 of 16
+
+
+
+ 1          Under Daubert, “a court should consider (1) whether a theory or technique ‘can be (and
+
+ 2   has been) tested;’ (2) ‘whether the theory or technique has been subjected to peer review and
+
+ 3   publication;’ (3) ‘the known or potential rate of error;’ and (4) whether it is generally accepted in
+
+ 4   the scientific community. Wagner v. Cnty. of Maricopa, 673 F.3d 977, 989 (9th Cir. 2012)
+
+ 5   (quoting Daubert, 509 U.S. at 593–94).
+
+ 6          Bolton’s experience is in conducting pre-payment and post-payment audits of a carrier’s
+
+ 7   invoices to determine whether they were billed in accord with the relevant contractual terms.
+
+ 8   (Dep., 32:9-33:7; 34:6-16.) Importantly, this is not a subject she opines on in her Report. (Id.,
+
+ 9   37:12-38:3.) Instead, Bolton creates out of whole cloth her own methodology. In fact, Bolton
+
+10   admits that because she has never performed this type of analysis before, she simply “made [the
+
+11   methodology] up.” (Id., 39:9-40:14; 42:3-9.) Bolton further admits that she did not consult a
+
+12   statistician to determine whether her sampling had a valid scientific bases, nor did she consult
+
+13   any statistics, books or guidelines to ensure that there was a scientific basis for her self-created
+
+14   methodology. (Dep., 119:25-120:25.)
+
+15          Bolton’s methodology thus fails under Daubert because it has no foundation other than
+
+16   Bolton’s “say so,” and thus is without any scientific basis, has never been subjected to peer
+
+17   review, nor does it rely on generally accepted methods. Given this, it is unsurprising that the
+
+18   methodology Bolton “made up” is convoluted and involved manipulating the data in numerous
+19   ways – i.e., creating a sample set, using other carriers’ rating software, and then manipulating the
+
+20   results to purportedly come up with an average industry hundredweight rate (“cwt”) and a
+
+21   CzarLite 2011 cwt rate, which Bolton then multiplied into a number value as an increase of the
+
+22   CzarLite 2011 amount. (Report, pp. 11-13; Dep., 81:11- 85:2.)
+
+23          In addition, a threshold requirement for a witness to testify as an expert is that the
+
+24   proffered expert must have “appropriate qualifications,” United States v. Hankey, 203 F.3d 1160,
+
+25   1168 (9th Cir. 2000), such that the opinion has “a reliable basis in the knowledge and experience
+
+26   of his discipline.” Daubert, 509 U.S. at 592. As part of her methodology, Bolton performs a
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                       ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                         30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                         CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-4                                                  312.580.1200
+              Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 8 of 16
+
+
+
+ 1   statistical analysis of CFL’s spot quote rates, comparing them to the rates of other carriers, to
+
+ 2   determine whether they are reasonable. Bolton admits she has never has done this type of
+
+ 3   analysis before. (Id, 39:9-40:14.)
+
+ 4          The methodology Bolton devised and applied thus is not drawn from her experience with
+
+ 5   applying contractual billing rates, but instead from the science of statistics and comparative
+
+ 6   analysis. However, Bolton does not claim to have any background, training, knowledge, or
+
+ 7   experience in statistics or comparative analyses. She lacks even a rudimentary understanding of
+
+ 8   basic concepts applicable to the purported analyses she undertakes. For example, when asked
+
+ 9   why she used an average of the other carriers’ rates instead of taking the median, Bolton
+
+10   admitted that she did not the definition of the term “median.” (Id., 74:7-75:4.) Because she does
+
+11   not know the concept of a “median,” Bolton admitted she did not consider using the median
+
+12   instead of an average in her analysis. Id.
+
+13          Moreover, Bolton’s lack of any expertise in the relevant fields results a methodology that
+
+14   is not based on any scientific or statistical foundation. For example, Bolton takes the 6,298
+
+15   movements for which CFL purportedly applied its Volume Rate, and made a first cut limiting her
+
+16   sample only to the 3327 movements that had at least eight different shipments that moved
+
+17   between the same origin and destination zip codes. (Report, p. 7.) Bolton did not make this
+
+18   limitation because it was a statistically valid way of determining a representative sample. In fact,
+19   Bolton admitted she used no standard to determine whether this is a proper way to take a sample,
+
+20   and did not rely any statistics, books or guidelines to ensure that there was a statistical basis for
+
+21   this sample. (Dep., p. 119:10- 120:-25.) Instead, she made up this method because it would be
+
+22   “easier” for her thus to compare any discrepancies. Id., 115:5-117:9. Bolton’s arbitrary
+
+23   limitation, the purpose of which was only to make the analysis “easier” for her, ensures that her
+
+24   sample is not statistically representative.
+
+25          Bolton then compounds her arbitrary “skewing” of the results by further reducing the
+
+26   3327 movements to 1739 movements by eliminating any shipments where the total amount
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                       ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                         30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                         CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-5                                                  312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 9 of 16
+
+
+
+ 1   billed was less than $150.00. (Report, p. 7.)   Bolton’s explanation for this further limitation is
+
+ 2   that it was necessary because of the “time constraints” she was working under in performing her
+
+ 3   analyses. (Dep., 121:7-18.) Bolton lack appropriate qualifications regarding statistical sampling
+
+ 4   and comparative analysis to opine as an expert on the reasonableness of CFL’s rates, as shown
+
+ 5   by the flaws and lack of any scientific foundation for her (admittedly “made up”) methodology.
+
+ 6   Bolton should be barred from asserting her first opinion because she lacks the appropriate
+
+ 7   expertise.
+
+ 8          C.      Bolton’s First Opinion Should Also be Barred Because She Fails to Provide
+                    the Underling Data and Calculations She Relies on, and Instead
+ 9                  Impermissibly Just Presents a “Bottom Line.”
+10          Federal Rule of Civil Procedure 26(a)(2)(B)(ii) requires the production of “the facts or
+
+11   data considered by the [expert] witness in forming” her opinions. Courts have read the term
+
+12   “considered” to include information that an expert “reviews or generates.” Apple Inc. v.
+
+13   Amazon.com, Inc., No. 11-1327, 2013 WL 1320760, at *1 (N.D. Cal. Apr. 1, 2013) (emphasis
+
+14   added). In keeping with this requirement, Court recognize that “an expert must explain the
+
+15   methodology and principles supporting the opinion and the opinion must amount to “more than a
+
+16   ‘bottom line.’ ” Microsoft Corp. v. Motorola, Inc., No. C10-1823JLR, 2013 WL 4008822, at *6
+
+17   (W.D. Wash. Aug. 5, 2013), quoting Minix v. Canarecci, 597 F.3d 824, 835 (7th Cir. 2010).
+
+18          Here, Bolton describes in her report the general methodology she employed in forming
+
+19   her first opinion. (Bolton Report, pp. 11-13.) This methodology first entailed reducing the 6298
+
+20   shipments to a sample set of 1739 shipments, For each of these 1739 line items, Ms. Bolton went
+
+21   through a series of calculations, including comparing the CzarLite 2011 hundredweight rate
+
+22   (“cwt”) to the industry average cwt rate and applying a percent increase to the CzarLite 2011 cwt
+
+23   rate. (Id., 142:17-145:24; see also Bolton Report, pp. 11-13.) At her deposition, Bolton testified
+
+24   that ever line item was individually averaged using her calculations of four to six individual
+
+25   carriers’ cwt rates. (Dep., 76:12-24.) Bolton further testified that she has the spreadsheets
+
+26   showing her calculations of industry averages, but did not produce them. (Dep., 189:17-191:17.)
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                     ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                       30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                       CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-6                                                312.580.1200
+              Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 10 of 16
+
+
+
+ 1   Instead, Bolton just presented her “bottom line,” leaving CFL to guess as to which carriers’ rates
+
+ 2   were used for any movement, what the cwt averages were, or what percentage increases she
+
+ 3   applied to the rates. Moreover, this data would also shed light on Bolton’s decision to use an
+
+ 4   industry average rate, instead of use a median (or simply comparing CFL’s volume rate to the
+
+ 5   non-averaged rates of the other carriers) that potentially could undercut her argument that CFL’s
+
+ 6   rates overall were higher than other carriers’ rates.
+
+ 7           CFL has made repeated efforts to obtain this information, but Amazon has failed to
+
+ 8   provide it.2 Fed. R. Civ. P. 37(c)(1) states that if a party fails to provide information required
+
+ 9   by Rule 26(a), “the party is not allowed to use that information or witness to supply evidence on
+
+10   a motion, at a hearing, or at a trial, unless the failure was substantially justified or is harmless.”
+
+11   See also Yeti by Molly, Ltd. v. Deckers Outdoor Corp., 259 F.3d 1101, 1106 (9th Cir. 2001)
+
+12   (“Rule 37(c)(1) gives teeth to these requirements by forbidding the use at trial of any information
+
+13   required to be disclosed by Rule 26(a) that is not properly disclosed.”). Here, there is no
+
+14   justification for Bolton’s failure to produce these materials. Bolton’s report thus contains only
+
+15   her conclusions, but not the underlying data or calculations that she admittedly has in his
+
+16   possession. Without this information, neither CFL nor this Court will be able to assess the basis
+
+17   and reasons for her opinions. Bolton’s first opinion, which is based on these calculations, should
+
+18   therefore be barred.
+19           D.     Bolton’s Methodology and Analysis as to the “Reasonableness” of CFL’s
+                    Spot Quote Rates Lacks Reliability.
+20
+             If Bolton’s opinion is not barred for the reasons set forth above, it should nevertheless be
+21
+     barred as unreliable. Reliable testimony must be grounded in the methods and procedures of
+22
+
+23   2
+         See correspondence between CFL’s attorneys and Amazon’s attorneys, attached hereto as
+24
+     Group Exhibit E.
+25
+
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                        ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                          30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                          CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-7                                                   312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 11 of 16
+
+
+
+ 1   science and signify something beyond “subjective belief or unsupported speculation.” Daubert,
+
+ 2   509 U.S. at 590. Here, Bolton’s proposed opinions fall far short of this standard in four ways.
+
+ 3          First, four of the six LTL carriers that Bolton used to calculate an industry average price
+
+ 4   actually had contracts with Amazon to provide LTL freight services. (See Exhibit C, Amazon’s
+ 5
+     Supplemental Answer to Interrogatory No. 13.) Bolton thus could have compared – but did not –
+ 6
+     the actual contract price that these carriers would have charged Amazon to make these
+ 7
+     shipments, including discounts for volume shipments as applicable. Bolton ignored this, and
+ 8
+     instead used these carriers’ rating software from 2014-2015, and then manipulated the results to
+ 9
+
+10   purportedly come up with an average industry cwt rate and a CzarLite 2011 cwt rate, which she
+
+11   then multiplied into a number value as an increase of the CzarLite 2011 amount. (Dep., 81:11-
+12   85:2.) By ignoring these carriers’ actual contracts with Amazon and instead devising a
+13
+     hypothetical and convoluted method, Bolton engages in unsupported speculation.
+14
+            Second, Bolton admits that she did not take into consideration whether any of the carriers
+15
+     she used in her a calculations actually had available capacity in the relevant localities to pick up
+16
+
+17   the shipments. (Dep., 108:2-10; 109:7-110:1.) If these carriers did not have the capacity to take
+
+18   the loads, then the hypothetical rate they would have charged is irrelevant. This renders Bolton’s
+
+19   industry average rate nothing more than speculation.
+20          Third, Bolton admitted that she did not take into consideration in making her calculations
+21
+     the size of the shipments and whether any of the other carriers had a linear foot rule that would
+22
+     increase the rate for larger shipments. (Dep., 70:4-72:4.) Bolton tried to justify ignoring this
+23
+     factor because she assumed that “most likely” these carriers would have entered into a contract
+24
+
+25   with Amazon that did not include capacity load charges. (Id., 70:4-25.) This ignores the fact that
+
+26   four of these carriers did have contracts with Amazon and Bolton never bothered to see if there
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                      ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                        30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                        CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-8                                                 312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 12 of 16
+
+
+
+ 1   was any such surcharge for the carrier to handle a large volume shipment. For the other two
+
+ 2   carriers, Bolton just speculates that they would have ignored their own tariffs and not included a
+ 3
+     surcharge for a volume shipment. By excluding this possibility, Bolton impermissibly cherry
+ 4
+     picks the factors she considers to come up with a lower industry average in comparison to CFL’s
+ 5
+     spot quote rate.
+ 6
+            Fourth, Bolton again resorted to speculation and unfunded assumptions in asserting that
+ 7
+
+ 8   the relevant movements were LTL shipments, not volume shipments. (Report, pp. 17-18, 32.) In
+
+ 9   reaching this conclusion, Bolton took the 6298 total shipments and calculated that the average
+10   weight for each shipment was 3381.9 pounds. (Id., p. 17.) Bolton then reasoned that this average
+11
+     weight could be held by fewer than eight pallets, which she asserts means they were LTL
+12
+     shipments, not volume shipments. Bolton’s opinion is flawed and unreliable for two reasons.
+13
+     First, as Bolton admits, 1588 of these movements were billed at less than $150.00. (Id., p. 7.)
+14
+
+15   This means they were small minimum charge shipments, not volume shipments that were eight
+
+16   or more pallet spaces in size. By including these small minimum charge shipments in her
+
+17   calculation of the average shipment weight, Bolton used an improperly reduced number in
+18   reaching her opinion. Second, Bolton’s analysis assumes that every pallet was filled to its total
+19
+     capacity. Bolton admitted at her deposition that she did not look at documents produced in this
+20
+     case, such as weight and inspection reports that would have confirmed the actual size of the
+21
+     shipment and the number of pallets. (Dep., 173:2-21.)
+22
+
+23          Finally, this court granted Amazon’s motion for a protective order and precluded CFL
+
+24   from obtaining information regarding other LTL carriers’ contractual rates and rate surcharges.
+
+25   (See Dckt. Nos. 62, 102) It is not clear why Amazon and its expert now believe they should be
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                     ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                       30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                       CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-9                                                312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 13 of 16
+
+
+
+ 1   allowed to use rate data to challenge CFL’s pricing when CFL was precluded by motion by
+
+ 2   Amazon from obtaining in discovery information to defend itself against such arguments.
+ 3
+            Accordingly, Bolton renders opinions that are based on sheer speculation and lack
+ 4
+     foundation, Bolton has failed to satisfy the Daubert requirements for reliable methodologies.
+ 5
+     III.   Bolton’s Second Opinion – That CFL’s Spot Quote Program Purportedly Resulted
+ 6          in “Inconsistencies” in Billing – Should be Barred Because Bolton Ignores the Fact
+            that the Program’s Pricing Varies Depending on the Number of Pallets in the
+ 7
+            Shipment.
+ 8
+            In her second opinion, Bolton undertook to “[r]eview CFL’s spot quote rating system to
+ 9
+     determine (a) whether it was used for these shipments, (b) whether or not the rates were
+10
+     inflated.” (Report, pp. 2, 19.) As Bolton acknowledges in her Report, it is likely “impossible” at
+11
+     this point to use CFL’s spot quote program to recreate the pricing during the relevant time frame.
+12
+     (Report, pp. 19, 32.) This is because certain of the program inputs change over time based on the
+13
+     shipping date and economic factors when the shipment was made. (See Exhibit ___, CFL’s
+14
+     Answer to Interrogatory No. 20.) For example, some of the inputs have changed during the
+15
+     period at issue in this case, such as the Length of Haul and Cost of Pickup, because CFL’s
+16
+     terminal locations have changed.
+17
+            Despite this, Bolton proffered as her second expert opinion that “shipment data indicates
+18
+     that there were inconsistencies in volume/spot quote billing.” (Report, pp. 19, 32.) Bolton
+19
+     reached this erroneous opinion by comparing shipments of similar same class and weight that
+20
+     moved from the same origin zip code to the same destination zip code on approximately the
+21
+     same date. (Report, pp. 19-28.) Bolton claims that when these factors are the same, the billed
+22
+     charges should have been identical. Because the pricing was not identical, Bolton opines that the
+23
+     program itself resulted in “inconsistencies” in billing.
+24
+            Bolton’s opinion is fundamentally flawed because she entirely ignores that among the
+25
+     factors considered by CFL’s spot quote program is the number of pallets in the shipment. Doug
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                     ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                       30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                       CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-10                                               312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 14 of 16
+
+
+
+ 1   Culbertson, Vice President of Information Technology and Chief Information Officer at Central
+
+ 2   Freight Lines, Inc., performed an analysis of shipments going from the same origin zip codes to
+
+ 3   the same destination zip codes that Bolton identified, except that Culbertson included pallet
+
+ 4   count in his analysis. (See Exhibit D, Culbertson Declaration, at ¶¶ 4-5.) When the number of
+
+ 5   pallets is included in the analysis, it is indisputable that CFL’s spot quote program was not
+
+ 6   inconsistent, but instead resulted in essentially identical billing for similar shipments. (Id. ¶¶ 7-
+
+ 7   10 and Ex. 1.) Bolton’s second opinion should therefore be barred as unreliable because she fails
+
+ 8   to take into consideration an obvious alternative explanation for the purported billing
+
+ 9   “inconsistencies.” Cloud v. Pfizer Inc., 198 F. Supp. 2d 1118, 1136 (D. Ariz. 2001) (expert
+
+10   opinion that did not consider alternative explanations barred because it lacked sufficient
+
+11   reliability to be admissible).
+
+12           Furthermore, Bolton issued a Supplemental Report in which she opined on certain
+
+13   functions and factors in the spot quote program. Bolton again acknowledged that she only
+
+14   examined the current version of the program, and that this current version does not have the
+
+15   historical schedules and tables that were used to create the spot quotes at issue. (Supp. Report., p.
+
+16   27.) Those data tables and schedules were changed or overwritten before this litigation was
+
+17   contemplated and Bolton makes no attempt to recreate them. Her criticisms of the current spot
+
+18   quote system set forth in her Supplemental Report thus are irrelevant and should be barred.
+19   IV.     Bolton’s Third Opinion Should be Barred.
+20           In her third and final opinion, Bolton asserts that it is industry practice for a carrier to
+
+21   combine bills of lading for shipments picked up on the same day and going to the same
+
+22   destination. It is anticipated that Amazon will use this opinion to support its claim that CFL
+
+23   should have combined numerous small shipments onto one master bill of lading and charged a
+
+24   lesser amount than if CFL invoiced for each bill of lading.
+
+25           In arguing that this in accord with industry practice, Bolton cites to an entirely different
+
+26   industry practice, which renders her opinion of no assistance to the trier of fact. Specifically,
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                       ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                         30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                         CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-11                                                 312.580.1200
+             Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 15 of 16
+
+
+
+ 1   Bolton cites to a historical practice by shippers of breaking down large shipments that would be
+
+ 2   subject to a surcharge because of their size into two or more small shipments in order to avoid
+
+ 3   linear foot charges, or other volume or truckload rates. (Report, p. 29; Dep., 103:7-104:12.) In
+
+ 4   order to prevent this end run around volume charges, Carriers inserted provision in some of their
+
+ 5   contracts or tariffs allowing them to combine same day / same origin / same destination
+
+ 6   shipments if the combined shipments would qualify for a volume surcharge. (Id., p. 29.) The
+
+ 7   industry practice that Bolton relies on is thus designed to protect carriers from shippers who
+
+ 8   seek to avoid surcharges for volume shipments. (Id.; see also Dep., 103:7-104:12.)
+
+ 9          The industry practice of protecting carriers in this manner is not at issue in this litigation.
+
+10   Instead, Amazon claims that is had a right to compel carriers to combine bills of lading so that
+
+11   the carriers’ freight charges decrease. Bolton thus cites an industry practice that protects carriers
+
+12   from shippers who seek improperly to decrease the freight charge to support the directly contrary
+
+13   situation – i.e., to support shippers who seek to decrease freight charges. Bolton opinion is
+
+14   irrelevant, unsupported and unreliable, and thus should be excluded.
+
+15                                            CONCLUSION
+16          For the foregoing reasons, CFL requests that this Court bar all three of Bolton’s expert
+
+17   opinions, as set forth in her Report and Supplemental Report, and grant such further relief as is
+
+18   just and equitable.
+19   Dated: June 25, 2019                          CENTRAL FREIGHT LINES, INC.
+20
+                                             By:   s/ Marc H. Kallish
+21                                                 Marc H. Kallish
+22                                                 ROETZEL & ANDRESS, LPA
+                                                   Attorneys for Plaintiff Central Freight Lines, Inc.
+23
+
+24
+
+25
+
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                       ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                         30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                         CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-12                                                 312.580.1200
+            Case 2:17-cv-00814-JLR Document 185 Filed 06/25/19 Page 16 of 16
+
+
+
+ 1                                  CERTIFICATE OF SERVICE
+ 2          I certify that on June 25, 2019, I caused the foregoing document to be filed electronically
+
+ 3   with the Clerk of the Court via CM/ECF, which will notify all parties in this matter who are
+
+ 4   registered with the Court’s CM/ECF filing system of such filing.
+
+ 5          Executed in Chicago, Illinois this 25th day of June, 2019
+
+ 6
+
+ 7                                               s/ Marc H. Kallish
+                                                 Marc H. Kallish
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+     CENTRAL FREIGHT’S RULE 702 MOTION TO
+                                                                     ROETZEL & ANDRESS LPA
+     PRECLUDE TESTIMONY OF AMAZON’S EXPERT                       30 N. LASALLE STREET SUITE 2800
+     NICOLE BOLTON                                                       CHICAGO, IL 60602
+     NO. 2:18-cv-00814-JLR-1                                                312.580.1200
+

@@ -1,0 +1,382 @@
+United States Bankruptcy Court for the Southern District of Texas
+
+                                                                                                     For Court Use Only
+ Name of Debtor: Instant Brands Acquisition Holdings Inc.                                            Claim Number:        0000010028
+
+ Case Number:          23-90716                                                                      File Date:           06/20/2023 07:45:30
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 Autumn Transport Inc
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+                                                Autumn Logistics Inc
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          Autumn Transport Inc
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        6550 Courtly Rd
+              _______________________________________________________              Address     _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+              Woodbury
+City          _______________________________________________________              City        _______________________________________________________
+               MN                                   55125
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+                            United States
+Country (if International): __________________________________________             Country (if International): __________________________________________
+              6512940130
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              crhendrix@autumntransport.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           13,143.25
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       Goods Sold/Services (Trade Claim)
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □
+                                                                                                                    ✔ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Christopher R Hendrix                                                          06/20/2023 07:45:30
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      Chris Hendrix
+                            Name      ______________________________________________________________________________________________
+                                    6550 Courtly Rd
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Woodbury
+                            City      _____________________________________________________________________________________________
+                                      MN                                                    55125
+                            State     ________________________________________________ Zip _________________________________________
+                                                        United States
+                            Country (in international) _______________________________________________________________________________
+                                      6512940130
+                            Phone     _____________________________________________________________________________________________
+                                       crhendrix@autumntransport.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+Autumn Transport, Inc.
+6550 Courtly Road
+Woodbury MN 55125-2921                                                                                      Invoice Number
+1-800-328-1405                                                                                              557693A
+
+
+Delivery Date 4/27/2023                                               Rev Type 1 PNEU                    Reference Number(s)
+                                                                                                  Type        Number
+                                                                      Driver     CHAMBMA
+Shipper:         THE QUARTZ COMPANY                                                               PO #        10628150
+                 8342 NC-226                                          Tractor    1786             ORD#        K233674
+                 SPRUCE PINE, NC 28777
+                                                                      Trailer    51101
+
+                                                                      Carrier    UNKNOWN
+Consignee:       WORLD KITCHEN
+                 1 STEUBEN ST
+                 CORNING, NY
+
+                                                                        ACTUAL               Billing
+Description                                                             WEIGHT              Quantity                 Rate              Charge
+FELDSPAR
+
+3-Freight (flat)                                                                                1 Flat      3,050.00 Flat            $3,050.00
+
+Washout                                                                                         1 Flat        350.00 Flat              $350.00
+
+Fuel Surcharge - % of revenue                                                      3,050 US Dollars         0.325 $/Dollar             $991.25
+
+Total Due                                                                                                                          $4,391.25
+
+
+
+
+                                         * Questions email billing@autumntransport.com *
+                                         Please reference invoice number on all payments
+                                         1.5% per month finance charge after 21 days
+                                         Customer responsible for all costs of collection                                    5/4/2023 09:31:53 AM
+
+
+                                                              AUTUMN
+
+
+              Bill To:          INSDOW                     EC                       Remit To:
+
+                         INSTANT BRANDS                                                     Autumn Transport. Inc.
+                         3025 HIGHLAND PARKWAY                                              PO Box 877
+                         SUITE 700                                                          Lake Elmo MN 55042
+                          DOWNERS GROVE, IL 60041
+
+119
+Autumn Transport, Inc.
+6550 Courtly Road
+Woodbury MN 55125-2921                                                                                       Invoice Number
+1-800-328-1405                                                                                               558057A
+
+
+Delivery Date 5/4/2023                                                Rev Type 1 PNEU                     Reference Number(s)
+                                                                                                   Type        Number
+                                                                      Driver      THOMACH
+Shipper:         THE QUARTZ COMPANY                                                                PO #        10628539
+                 8342 NC-226                                          Tractor     1164             BL#         X122511
+                 SPRUCE PINE, NC 28777                                                             ORD#        K233739
+                                                                      Trailer     52105
+
+                                                                      Carrier     UNKNOWN
+Consignee:       WORLD KITCHEN
+                 1 STEUBEN ST
+                 CORNING, NY
+
+                                                                        ACTUAL               Billing
+Description                                                             WEIGHT              Quantity                  Rate          Charge
+FELDSPAR                                                         39,920. Pounds
+
+3-Freight (flat)                                                                                 1 Flat      3,050.00 Flat        $3,050.00
+
+Washout                                                                                          1 Flat        350.00 Flat           $350.00
+
+Fuel Surcharge - % of revenue                                                       3,050 US Dollars          0.32 $/Dollar          $976.00
+
+Total Due                                                                                                                        $4,376.00
+
+
+
+
+                                         * Questions email billing@autumntransport.com *
+                                         Please reference invoice number on all payments
+                                         1.5% per month finance charge after 21 days
+                                         Customer responsible for all costs of collection                                 5/11/2023 11:42:25 AM
+
+
+                                                              AUTUMN
+
+
+              Bill To:          INSDOW                     EC                        Remit To:
+
+                         INSTANT BRANDS                                                     Autumn Transport. Inc.
+                         3025 HIGHLAND PARKWAY                                              PO Box 877
+                         SUITE 700                                                          Lake Elmo MN 55042
+                          DOWNERS GROVE, IL 60041
+
+119
+Chris Hendrix
+
+From:                                Ponchione, Michele A. <Michele.Ponchione@instantbrands.com>
+Sent:                                Thursday, June 15, 2023 9:31 PM
+To:                                  Chris Hendrix; Gideon M. Bolson
+Subject:                             RE: Instant Brands
+
+
+h ps://www.instantbrandsrestructuring.com/
+
+The link above will provide you all the informa on for the ﬁling.
+
+According to my informa on I see Autumn pre-pe        on values at $13,143.
+
+Yes we value all our key freight haulers both for transpor ng our raw materials, our ﬁnished products to our customers
+and our plant to plant freight needs.
+
+The pre-pe     on is with the court system so I would advise Autumn to proceed with ﬁling as soon as possible.
+
+We certainly appreciate your support to date and hope you con nue to support our needs going forward. Our glass
+plant in NY is running and we need the Quartz material.
+
+Please review and feel free to reach out if you have any ques ons or concerns going forward.
+
+Thank You
+Michele Ponchione
+
+From: Chris Hendrix <crhendrix@autumntransport.com>
+Sent: Thursday, June 15, 2023 7:59 AM
+To: Gideon M. Bolson <gmbolson@autumntransport.com>; Ponchione, Michele A.
+<Michele.Ponchione@instantbrands.com>
+Cc: Chris Hendrix <crhendrix@autumntransport.com>
+Subject: [EXTERNAL] RE: Instant Brands
+
+    CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you
+    recognize the sender and know the content is safe.
+
+
+Good morning Michele,
+
+Autumn has worked through Chapter 11 ﬁlings with other customers in the past. More o en than not, the outcome is
+not good for the vendor. I have seen Chapter 11 ﬁlings where the ﬁler makes pre-pe on obliga ons a priority in their
+a empts to maintain rela onships with preferred vendors. Do you foresee Instant Brands taking a similar approach?
+
+Chris Hendrix
+Business Strategist
+Direct: 651-294-0130
+Office Hours: Monday - Friday 7:00AM – 4:00PM (CST)
+
+
+
+
+                                                             1
+From: Gideon M. Bolson <gmbolson@autumntransport.com>
+Sent: Wednesday, June 14, 2023 9:25 AM
+To: Ponchione, Michele A. <Michele.Ponchione@instantbrands.com>
+Cc: Chris Hendrix <crhendrix@autumntransport.com>
+Subject: Instant Brands
+
+Good morning Michele,
+
+I hope your day is oﬀ to a good start.
+
+I was no ﬁed that Instant Brands will be going through Chapter 11 bankruptcy. I wanted to check with you to see if you
+had any indica on that this would aﬀect the outstanding invoices we have with your company, or if there was any other
+type of communica on you might be able to share with us.
+
+Thanks,
+
+
+
+
+Gideon Bolson
+Pneumatic Divison Manager
+Pneumatics | Liquid Tanks | |Hoppers | |End Dumps
+
+Phone: 800-328-1405 x 860
+Fax: 651-294-3484
+
+Address: 6550 Courtly Road, Woodbury, MN 55125
+Office Hours: Monday - Friday 7:30AM – 4:30PM (CST)
+Web: www.autumntransport.com
+
+
+
+
+                                                          2
+

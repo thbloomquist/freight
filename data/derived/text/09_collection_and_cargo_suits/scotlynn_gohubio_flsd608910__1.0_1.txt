@@ -1,0 +1,2316 @@
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 1 of 48
+
+
+
+
+                     UNITED STATES DISTRICT COURT
+                     SOUTHERN DISTRICT OF FLORIDA
+                         MIAMI-DADE DIVISION
+
+                                   CASE NO.:
+
+  SCOTLYNN USA DIVISION,
+  INC.,
+
+        Plaintiff,
+
+  vs.
+
+  GO HUB.IO HOLDINGS, CORP.
+  fka GO HUB GROUP HOLDING,
+  CORP.; LOGISTICS HUB
+  GROUP, INC.; INTERMODAL
+  REFRIGERATED SERVICES,
+  INC. dba GO INTERMODAL;
+  FREIGHT HUB, CORP. dba
+  DRAY HUB; LTL HUB, CORP.;
+  FTL HUB, INC.; ASSETCO
+  FREIGHT BROKERS, INC. dba
+  DRAY HUB; LUIS D. LOPEZ III;
+  JEFF ARAGUREN aka JEFF
+  ARANGUREN aka JEFF
+  BANKERSON aka JEFF
+  BRIDGEWATER; NATALI
+  REINER; MARTHA VARGAS;
+  ADRIAN DUNNING aka ADRIAN
+  CUEST aka ADRIAN CUESTA;
+  EDUARDO ALEMAN aka EDDIE
+  ALEMAN aka ED HANKERSON,
+
+         Defendants.
+
+
+
+                                  COMPLAINT
+
+        For its Complaint, Plaintiff Scotlynn USA Division, Inc. states:
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 2 of 48
+
+
+
+
+                           Jurisdiction and Venue
+
+
+       1.    This Court has original jurisdiction over this action under 28
+
+ U.S.C. §1331 and §1337(a), as this action arises from the carriage of goods in
+
+ interstate commerce, and 18 U.S.C. §1964. 28 U.S.C. §1367(a) vests this Court
+
+ with supplemental jurisdiction over Plaintiff’s other claims.
+
+       2.    Venue in this District is based on 28 U.S.C. §1391(b) and (d), as
+
+ the causes of action set forth in this Complaint arose in Miami-Dade County,
+
+ Florida, and 18 U.S.C. §1965.
+
+                                  The Parties
+
+       3.    Plaintiff is Scotlynn USA Division, Inc. (“Scotlynn”), a Florida
+
+ corporation with its principal place of business located at 9597 Gulf Research
+
+ Lane, Fort Myers, Florida. Scotlynn holds a property broker license MC-
+
+ 710411 issued by the Federal Motor Carrier Safety Administration (“FMCSA”).
+
+       4.    Defendants are:
+
+             a.    Go Hub.io Holdings, Corp. fka Go Hub Group Holding, Corp.
+                   (“Go Hub Group”) is a Florida corporation with its principal
+                   place of business at 8005 NW 80th Street, Unit 1, Miami,
+                   Florida 33166. Go Hub Group Holding, Corp. wholly owns
+                   each of the Go Hub Group Entities (as defined below), and
+                   upon information and belief is owned and controlled by
+                   Defendant Luis D. Lopez, III.
+
+             b.    Freight Hub, Corp. dba Dray Hub (“Freight Hub”), is a
+                   Florida corporation whose principal place of business is
+                   located at 8005 NW 80th Street, Unit 1, Miami, Florida
+                   33166. Freight Hub holds DOT license number 3091519 and
+                   MC-71833 from the Federal Motor Carrier Safety
+
+                                  Page 2 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 3 of 48
+
+
+
+
+                   Administration (“FMCSA”).
+
+             c.    Logistics Hub Group, Inc., (“Logistics Hub”) a Texas
+                   corporation whose principal place of business is located at
+                   15115 Park Row, Suite 350 PMB1046, Houston, TX 77084.
+                   Upon information and belief, Logistics Hub holds DOT
+                   license number 3524246 and MC-1170893 issued by
+                   FMCSA.
+
+             d.    LTL Hub, Corp. (“LTL Hub”), is a Florida corporation with
+                   its principal place of business located at 8005 NW 80th
+                   Street, Unit 1, Miami, Florida 33166. Upon information and
+                   belief, LTL Hub holds DOT license number 3245059 and
+                   MC-1021187 issued by FMCSA.
+
+             e.    FTL Hub, Inc. (“FTL Hub”), is a Florida corporation whose
+                   principal place of business is located at 8005 NW 80th
+                   Street, Unit 1, Miami, Florida 33166. Upon information and
+                   belief, FTL Hub holds DOT license number 3389014 and
+                   MC-1088894 issued by FMCSA
+
+             f.    Assetco Freight Brokers, Inc. dba Dray Hub (“Assetco
+                   Freight”) is a Florida corporation whose principal place of
+                   business is located at 8005 NW 80th Street, Unit 1, Miami,
+                   Florida 33166.
+
+             g.    Intermodal Refrigerated Services, Inc. dba Go Intermodal
+                   (“Go Intermodal”) is a Florida corporation with its principal
+                   place of business located at 8005 NW 80th Street, Unit 1,
+                   Miami, Florida 33166. Upon information and belief, Go
+                   Intermodal has been issued DOT license number 3682288
+                   and MC-1281321 issued by FMCSA.
+
+             h.    Luis D. Lopez, III (“Luis Lopez”) is an individual who resides
+                   in Miami-Dade County, Florida. Luis Lopez is the owner of
+                   Go Hub Group, which in turn wholly owns each of the
+                   following subsidiaries: Freight Hub, Go Hub Group,
+                   Logistics Hub, Team DGD, Truck Hub, WHSE Hub, LTL
+                   Hub, FTL Hub, Assetco Freight, Assetco Global, Hazmat
+                   Hub, and Go Intermodal, collectively hereinafter referred to
+                   as the “Go Hub Group Entities.” Upon information and
+                   belief, Luis Lopez is the sole officer and shareholder and
+
+
+                                  Page 3 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 4 of 48
+
+
+
+
+                   serves as the sole officer of each of the subsidiaries.
+
+             i.    Jeff Araguren is an individual who resides in Miami-Dade
+                   County, Florida. Upon information and belief, Jeff Araguren
+                   uses the alias names of Jeff Aranguren, Jeff Bankerson and
+                   Jeff Bridgewater, is the Operations Manager of FTL Hub
+                   and LTL Hub, and has held himself out as the owner of Go
+                   Intermodal.
+
+             j.    Natali Reiner is an individual who upon information and
+                   belief resides in Miami-Dade County, Florida. Natali Reiner
+                   is the Accounts Receivable Collections Specialist for all the
+                   Go Hub Group Entities.
+
+             k.    Martha Vargas is an individual who upon information and
+                   belief resides in Miami-Dade County, Florida. Upon
+                   information and belief, Martha Vargas is the Controller for
+                   Go Hub Group and has held herself out as the owner of LTL
+                   Hub, Inc.
+
+             l.    Adrian Dunning is an individual who resides in Miami-Dade
+                   County, Florida. Upon information and belief, Adrian
+                   Dunning uses the alias names of Adrian Cuest and Adrian
+                   Cuesta. Upon information and belief, Adrian is an employee
+                   of one or more of the Go Hub Group Entities, and has held
+                   herself out as the Logistics Coordinator for LTL Hub, Inc.
+
+             m.    Eduardo Aleman is an individual who resides in Miami-
+                   Dade County, Florida. Upon information and belief, Ed
+                   Aleman uses the alias names of Eddie Aleman, Ed Ashcroft,
+                   and Ed Hankerson, and is a Full Truckload Specialist for the
+                   Go Hub Group Entities.
+
+       5.    Freight Hub is a fully owned subsidiary of Go Hub Group, and
+
+ utilizes the registered fictitious name “Dray Hub”
+
+       6.    LTL Hub, FTL Hub and Assetco Freight each use the registered
+
+ fictitious name “Freight Hub Group.”
+
+       7.    LTL Hub, FTL Hub and Assetco Freight are each wholly owned
+
+
+                                   Page 4 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 5 of 48
+
+
+
+
+ subsidiaries of Go Hub Group.
+
+       8.    Freight Hub conducts business using the names DRAY Hub, and
+
+ Freight Hub Group.
+
+       9.    LTL Hub conducts business using the names LTL Hub, Go LTL
+
+ Hub, and Freight Hub Group.
+
+       10.   Assetco Freight conducts business using the names LTL Hub, FTL
+
+ Hub, DRAY Hub, WHSE Hub, HAZMAT Hub, Freight Hub, DGD Transport,
+
+ and Freight Hub Group.
+
+       11.   Assetco Freight is the holder of the account at OceanBank, where
+
+ payments to any of the Go Hub Group Entities are deposited.
+
+                             Background Facts
+
+        Freight Hub/Luis Lopez’s Initial Agreement with Scotlynn
+
+       12.   On December 23, 2019, Scotlynn and Freight Hub entered into the
+
+ Property Broker/Carrier Agreement (the “Freight Hub Master Agreement”).
+
+ Freight Hub contemporaneously submitted a Carrier Form, identifying its
+
+ DOT number as 3091519 and its MC-071833. The “Freight Hub Contract” is
+
+ comprised of the Freight Hub Master Agreement and a Carrier Form. A copy
+
+ of the Freight Hub Contract is attached as Exhibit 1.
+
+       13.   In the Freight Hub Contract, Freight Hub represented to Scotlynn
+
+ that its place of business is located at 8005 NW 80th Street, Unit 1, Miami,
+
+ Florida 33166.
+
+
+                                 Page 5 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 6 of 48
+
+
+
+
+       14.   On December 27, 2019, Freight Hub submitted an additional but
+
+ separate Carrier Form to Scotlynn, representing that it uses the fictitious
+
+ name Dray Hub, which operates from the same address as Freight Hub, and
+
+ uses Freight Hub’s DOT and MC numbers. The initial Freight Hub Master
+
+ Agreement referenced in ¶12 above, in conjunction with this Carrier Form
+
+ make up the “Dray Hub Contract.” A copy of the Dray Hub Contract is attached
+
+ as Exhibit 2.
+
+       15.   On December 14, 2020, Scotlynn contracted with Freight Hub to
+
+ carry nineteen pallets of White Claw hard seltzer from Cold Spring, Minnesota
+
+ to Doral, Florida for $4,700.00. A copy of Rate Confirmation 0266050 is
+
+ attached as Exhibit 3.
+
+       16.   The Freight Hub Contract prohibits Freight Hub from allowing
+
+ any other carrier to transport the loads brokered to it by Scotlynn.
+
+       17.    Despite such prohibitions, and without Scotlynn’s knowledge or
+
+ consent, on December 15, 2020, FTL Hub picked up the load brokered to
+
+ Freight Hub and signed the Bill of Lading 1 (“BOL”), acknowledging acceptance
+
+ of the cargo in good condition.
+
+       18.   The Bill of Lading signed by FTL Hub contained conspicuous
+
+ language that explicitly stated, “Protect from Freezing.” A copy of the White
+
+
+
+
+       1 Sometimes referred to as a “BOL.”
+
+
+
+                                   Page 6 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 7 of 48
+
+
+
+
+ Claw Bill of Lading is attached as Exhibit 4.
+
+       19.   On Friday, December 18, 2020, FTL Hub delivered the White Claw
+
+ to Doral, Florida.
+
+       20.   Soon after, the consignee notified Scotlynn that the White Claw
+
+ arrived frozen, resulting in a complete loss.
+
+       21.   As a result of the freezing damage, Scotlynn’s customer pursued a
+
+ claim in the amount of $39,563.70 against it, representing the full value of the
+
+ load of White Claw.
+
+       22.   On December 28, 2020, Natali Reiner, an “Accounts Receivable
+
+ Collections Specialist” for Go Freight Hub, contacted Scotlynn stating that the
+
+ invoice for the White Claw transportation was past due. In the ensuing
+
+ exchange, Scotlynn notified Natali Reiner that the amounts payable to Freight
+
+ Hub were being held because of the freezing claim:
+
+             Your client froze $40k worth of White Claws on load 266050
+             that they ran at -10 for some reason. That amount of their
+             payables will be held. I don’t have any additional
+             information for you at this time. Given the short week and
+             amount of people out, it may be best to follow up next week
+             for any more details regarding the claim.
+
+       23.   On December 29, 2020, at 8:36 a.m., Natali Reiner added Jeff
+
+ Araguren and others “for assistance” with the claim.
+
+       24.   Jeff Araguren immediately emailed Scotlynn stating:
+
+             If the load was frozen, why are our BOLs marked clean? We
+             did not freeze any load,[sic] this was a dry load.
+
+
+                                   Page 7 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 8 of 48
+
+
+
+
+             Furthermore, had the load been bad the BOL would have
+             been marked received under protest at least. Also, where is
+             the formal claim notice? Team, please file against Scotlynn
+             bond, what they are doing is illegal. They cannot hold
+             unrelated invoices for a bogus claim without any proof.
+
+       25.   Scotlynn replied:
+
+             Your driver admitted to running this load at -10. The product
+             arrived frozen. I’m not going to venture into a pointless
+             argument with you about this. You will be provided all of the
+             documents once everything is received. What we’re doing is
+             not illegal, it’s part of the contract you signed with us.
+
+ The reference to “the contract” refers to the Freight Hub Contract attached as
+
+ Exhibit 1. Under ¶9 of the Freight Hub Master Agreement, Freight Hub agreed
+
+ that it will be paid by Scotlynn only after the carrier furnishes proof of delivery
+
+ and an invoice to Scotlynn, and after Scotlynn is paid by its customer. Freight
+
+ Hub also agreed that payment owed by Scotlynn to it will be set-off for any
+
+ actions taken by it that result in non-payment to Scotlynn, such as a carrier
+
+ damage claim.
+
+       26.   Martha Vargas responded to Scotlynn:
+
+             We have CLEAN BOLs [sic] In [sic] addition, we have cargo
+             insurance you should not be holding payment for an invalid
+             claim that has not even been formally filed nor provided
+             proof of any kind.
+
+       27.   On December 29, 2020, at 9:27 a.m., Scotlynn replied to Ms.
+
+ Vargas:
+
+             Clean BOLs do not exonerate you from being claimed. All
+             product goes through an inspection. If your cargo insurance
+             pays the claim, any money they held will be released back to
+
+                                    Page 8 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 9 of 48
+
+
+
+
+             you. I don’t have any more information for you right now.
+             Given everything, paperwork is taking a little longer to
+             process. I will get everything over to you asap.
+
+       28.   After receiving the claim documents from its customer, Scotlynn
+
+ notified Freight Hub of the formal claim.
+
+       29.   On January 8, 2021, following unsuccessful attempts to recover
+
+ payment from Freight Hub for the loss, Scotlynn provided Freight Hub with
+
+ the written claim notice attached as Exhibit 5.
+
+  Luis Lopez, via LTL Hub, Contracts with Scotlynn for the Purpose of
+      Holding Cargo Hostage to Secure Payment for Freight Hub
+
+       30.   On January 7,      2021, Scotlynn entered into a Property
+
+ Broker/Carrier Agreement with LTL Hub (the “LTL Hub Master Agreement”).
+
+ Contemporaneously, LTL Hub submitted a Carrier Form to Scotlynn
+
+ representing that it held DOT No. 3245059 and MC-1021187. The LTL Hub
+
+ Master Agreement in conjunction with the Carrier Form make up the “LTL
+
+ Hub Contract.” A copy of the LTL Hub Contract is attached as Exhibit 6.
+
+       31.   Scotlynn did not know that LTL Hub was affiliated with Luis
+
+ Lopez or any of the Go Hub Group Entities. The paperwork submitted to
+
+ Scotlynn states Martha Vargas is the owner of LTL Hub.
+
+       32.   On January 7, 2021, the same day that the LTL Hub Contract was
+
+ signed, Scotlynn hired LTL Hub to transport two loads.
+
+       33.   The first load was 42,000 pounds of fresh pork (“Pork Load”), from
+
+
+
+                                  Page 9 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 10 of 48
+
+
+
+
+  Eagle Grove, Iowa to Medley, Florida, in exchange for $5,200.00. A copy of the
+
+  Carrier Confirmation 0275514 for the Pork Load is attached as Exhibit 7.
+
+        34.   The second load was 840 cases of eggs (“Egg Load”) from North
+
+  Manchester, Indiana to Houston, Texas, in exchange for $3,000.00. A copy of
+
+  the Carrier Confirmation 0275663 reflecting the same is attached as Exhibit
+
+  8.
+
+        35.   Unbeknownst to Scotlynn, LTL Hub did not have federal
+
+  authorization to transport the Pork Load or the Egg Loads, and unbeknownst
+
+  to Scotlynn, LTL Hub never intended to transport these loads.
+
+        36.   Without Scotlynn’s knowledge or consent, an entirely different
+
+  entity named FTL Hub signed the Bills of Lading for the Pork and Egg Load,
+
+  copies of which are attached as Exhibits 9 and 10.
+
+        37.   Luis Lopez is the sole shareholder, owner, director, officer, and
+
+  president of each of the Go Hub Group Entities. Luis Lopez also controls,
+
+  manages, and oversees the entities’ day-to-day operations of each of the Go
+
+  Hub Group Entities.
+
+        38.   On January 8, 2021 at 8:39 a.m., just hours after FTL Hub took
+
+  possession of the Pork and Egg Loads, Luis Lopez responded to the email
+
+  exchange that ended on December 29, 2020 relating to the Freight Hub
+
+  Contract.
+
+        39.   Mr. Lopez’s email states that he disagrees with Scotlynn’s position
+
+
+                                  Page 10 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 11 of 48
+
+
+
+
+  that the set-off for the frozen White Claw claim is permitted by the terms of
+
+  the Freight Hub Contract, and states that if payment is not received by noon
+
+  (in 3 hours and 21 minutes), both the Pork (0275514 ) and Egg (0275663) Loads
+
+  will be unloaded at his warehouse, and cargo liens will be imposed.
+
+
+
+
+       40.   The “issue” Luis Lopez is referring to is the following list of
+
+  demands to Scotlynn:
+
+             a.    Scotlynn wire $5,800 for the freight services rendered by
+                   Freight Hub, notwithstanding the pending claim related to
+                   the White Claw; and
+
+             b.    Scotlynn wire an additional $8,200 as pre-payment for
+                   transportation of the Pork and Egg Loads despite the fact
+                   that Scotlynn’s payment was not yet due under the terms of
+                   the LTL Hub Contract.
+
+       41.   Luis Lopez instructed Scotlynn to wire funds to the Ocean Bank
+
+  account held by Assetco Freight and shared by the Go Hub Group Entities.
+
+       42.   Scotlynn objected to the demands made by Luis Lopez, stating that
+
+  Freight Hub and LTL Hub are separate entities, and that its dealings with one
+
+
+                                  Page 11 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 12 of 48
+
+
+
+
+  have nothing to do with the other. Scotlynn also reminded Luis Lopez that it
+
+  had a contractual right to set off payment to Freight Hub due to the frozen
+
+  White Claw claim.
+
+        43.   Scotlynn was left with little choice other than to agree to Luis
+
+  Lopez’s demands. As far as Scotlynn knew, LTL Hub was in possession of cargo
+
+  belonging to Scotlynn’s customers. Refusing to pay the amounts demanded by
+
+  Mr. Lopez would result in loss to the cargo and damage to Scotlynn’s customer
+
+  relationships.
+
+        44.   To mitigate such loss, at approximately 11:37 a.m. on January 8,
+
+  2021, Scotlynn conceded to these demands and told Luis Lopez that it would
+
+  pay the outstanding invoices and file a claim. Scotlynn further stated that “For
+
+  the loads that you are holding hostage we will need confirmation your drivers
+
+  are at the deliveries before we can release Comchecks for those loads.”
+
+        45.   At 11:39 a.m. Luis Lopez responded, “Ok agreed. We need payment
+
+  to post so please do wire.”
+
+        46.   The Carrier Confirmation for the Egg Load (Exhibit 8) required
+
+  delivery between 5:30 a.m. and 11:00 a.m. on January 8, 2021.
+
+        47.   Luis Lopez did not notify Scotlynn that these loads would not be
+
+  delivered until approximately 8:40 a.m. on January 8, 2021, leaving roughly
+
+  two hours for Scotlynn to meet the ransom demand and for Luis Lopez to
+
+  instruct the driver to deliver the cargo.
+
+
+                                    Page 12 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 13 of 48
+
+
+
+
+            48.   At 11:54 a.m. on January 8, 2021, Eduardo Aleman, a purported
+
+  representative of FTL Hub, emailed Scotlynn photos from outside of the
+
+  receiver's facility. The email stated, “Load # 0275663 – Team drivers pulling
+
+  into site…”
+
+            49.   Scotlynn’s executive vice-president responded stating: “Guys, we
+
+  will need for [sic] confirmation from receiver that these hostage loads are being
+
+  delivered in perfect order before submitting payment. Likely need clean bols
+
+  [sic].”
+
+            50.   Jeff Araguren, who Luis Lopez copied on this email string, refused:
+
+
+
+
+            51.   At 12:30 p.m., on January 8, 2021, Scotlynn’s Director of
+
+  Operations responds and states:
+
+                  Luis, we agreed you would make delivery, you at least have
+                  to bump a dock so we can confirm the freight is in good order.
+                  The wire has already been initiated so we are holding up our
+                  end of the agreement.
+
+            52.   At 12:32 p.m., Luis Lopez replies, stating: “I told you on the phone
+
+  that the driver will be there [sic] we will not back up to a door, we are not going
+
+
+
+                                       Page 13 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 14 of 48
+
+
+
+
+  to allow the driver to be threatened by anyone.”
+
+        53.     At 1:17 p.m. Scotlynn sends another email: “Kroger just called and
+
+  said the drivers need to check back in, once that is done I will Comcheck you
+
+  out on this load. Please advise ASAP.”
+
+        54.     At 1:23 p.m. Adrian Dunning responded “[d] river is checking back
+
+  in, They [sic] are advised not to unload until payment is received, Thank You!!”
+
+        55.     At 1:26 p.m. Scotlynn sought confirmation of impending delivery,
+
+  stating “Ok, please let me know when they are back through the gate and we
+
+  will issue a Comcheck.”
+
+        56.     At 1:38 p.m. Adrian Dunning responded that the driver was
+
+  checked in but would not deliver without payment: “Thay [sic] are checked in,
+
+  Awaiting [sic] payment to continue with delivery”.
+
+        57.     Scotlynn, left without a choice, wired $3,000.00 to satisfy the
+
+  demands made by Luis Lopez and to ensure the delivery of the Egg Load. This
+
+  transaction was relayed at 1:48 p.m. by Scotlynn, “Load# 0275663 - $3000 –
+
+  Comcheck code: 236907092893423310”
+
+        58.     At 2:18 p.m., Scotlynn requested a copy of the Bill of Lading,
+
+  stating “Adrian, can you send a copy of the BOLs when they are done
+
+  unloading?”
+
+        59.     At 2:32 p.m., Jeff Araguren responded, after payment was made,
+
+  indicating that the receiver would not allow delivery: “… They [the receiver]
+
+
+                                    Page 14 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 15 of 48
+
+
+
+
+  are telling our driver that they need to check back in at 5am tomorrow
+
+  morning”.
+
+        60.    At 2:48 p.m., Scotlynn responded asking for delivery confirmation
+
+  the following day: “Ok, please let us know when they are unloaded tomorrow.”
+
+        61.    As a result of the directions given by Luis Lopez not to deliver the
+
+  Egg Load until payment was received, the driver arrived at the facility after
+
+  the delivery window closed and missed the scheduled delivery appointment.
+
+  Scotlynn incurred a $200.00 penalty for late delivery of this load.
+
+        62.    The Carrier Confirmation for the Pork Load (Exhibit 7) required
+
+  delivery time between 8:00 and 9:00 a.m. on January 11, 2021. Luis Lopez also
+
+  demanded payment from Scotlynn in the amount of $5,200.00 for delivery of
+
+  this load.
+
+        63.    In total, Scotlynn paid $14,000.00 to the Ocean Bank account held
+
+  in the name of Assetco Freight, representing payment of $5,800 to Freight
+
+  Hub, along with $8,200 to LTL Hub for the Egg Load ($3,000.00) and the Pork
+
+  Load ($5,200.00).
+
+               Logistics Hub/Luis Lopez Contracts with Scotlynn
+
+        64.    On September 1, 2021, Logistics Hub signed a Property
+
+  Broker/Carrier Agreement (the “Logistics Hub Master Agreement”) with
+
+  Scotlynn. Contemporaneously, Logistics Hub submitted a Carrier Form to
+
+  Scotlynn representing that it held DOT No. 3524246 and MC-1170893. The
+
+
+                                   Page 15 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 16 of 48
+
+
+
+
+  Carrier Form in conjunction with the Logistics Hub Master Agreement make
+
+  up the Logistics Hub Contract. See Exhibit 11.
+
+        65.   The Logistics Hub Contract represents to Scotlynn that Melissa
+
+  Medri owns Logistics Hub, and that Ed Hankerson aka Eduardo Aleman is
+
+  both a dispatcher and the contact person for claims.
+
+        66.   Logistics Hub did not disclose to Scotlynn that it was affiliated
+
+  with Luis Lopez, or any of the Go Hub Group Entities.
+
+        67.   Between September 1 and September 14, 2021, Scotlynn hired
+
+  Logistics Hub to transport 4 loads.
+
+        68.   When Logistics Hub sent invoices to Scotlynn for payment for
+
+  these transportation services, each invoice revealed that FTL Hub, not
+
+  Logistics Hub, transported these loads.
+
+        69.   FTL Hub transported these loads without Scotlynn’s consent, and
+
+  Scotlynn was unaware that Logistics Hub was affiliated with the Go Hub
+
+  Group Entities.
+
+        70.   On Thursday, September 30, 2021, Natali Reiner contacted
+
+  Scotlynn seeking payment of $21,921.00, the total for the four invoices.
+
+        71.   Realizing Logistic Hub’s affiliation with Luis Lopez and the Go
+
+  Hub Group Entities, Scotlynn informed Logistics Hub that its account was on
+
+  hold because of the unpaid claim for the frozen White Claw.
+
+        72.   At 11:05 a.m. that morning, Natali Reiner added the email address
+
+
+                                  Page 16 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 17 of 48
+
+
+
+
+  Ops3@GoLogisticsHub.io to this email thread, stating: “please[sic] advise
+
+  urgently.” She then states, “@Scott Wampler what load has a claim? Why have
+
+  we not received any notice of this claim until now??”
+
+        73.   At 12:07 p.m. Ops3@GoLogisticsHub.io stated: “Scott, We did not
+
+  haul any load with that commodity. This is not a valid claim.”
+
+        74.   The author of emails sent from Ops3@GoLogisticsHub.io remains
+
+  unknown.
+
+        75.   At 12:24 p.m. Scotlynn replied: “Freight Hub Corp who is affiliated
+
+  with your company hauled the load 266050.”
+
+        76.   Scotlynn exercised its contractual right to withhold payment for
+
+  setoff of the balance from the White Claw claim. The White Claw claim totaled
+
+  $39,653.70, and the balance withheld from Logistics Hub totaled $21,921.00.
+
+        77.   Logistics Hub denied the claim and continued to demand payment
+
+  on the four invoices.
+
+        78.   Days later, on October 4, 2021, at 10:19 a.m., Scotlynn received an
+
+  email from accounting@gofreighthub.io requesting payment for the four
+
+  invoices that Scotlynn was withholding as setoff.
+
+        79.   At 2:18 p.m., Scotlynn replied seeking revised invoices with the
+
+  carrier name changed to Logistics Hub Group on invoices 0393044 and
+
+  0394548:
+
+              We still require the following: 0393044 – invoice with
+
+
+                                  Page 17 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 18 of 48
+
+
+
+
+              “Logistics Hub Group” listed as the carrier name [sic]
+              0394548 – invoice with “Logistics Hub Group” listed as the
+              carrier name.
+
+        80.   At 2:21 p.m., Natali Reiner stated that revised invoices have been
+
+  sent on multiple occasions and again requests payment.
+
+        81.   At 2:56 p.m., Scotlynn responded, stating:
+
+              We have the NOA and 2 of the 4 revised invoices…but I can’t
+              do anything with payment until the carrier name on the
+              invoice matches the rate confirmation. The 2 loads below, are
+              ones we’re still waiting on.
+
+        82.   At 3:04 p.m., Natali Reiner replied that “[t]hey have already been
+
+  sent [sic] Please see attached and provide payment status.”
+
+        83.   Email communications ceased for nearly a month, until November
+
+  2, 2021. At 10:24 a.m. that morning, Natali Reiner sent an email stating:
+
+  “Please provide proof of payment for past due balance [sic] Account is
+
+  $21,921.00 overdue.”
+
+        84.   At 2:24 p.m., Scotlynn instructed Natali Reiner to direct future
+
+  inquiries to its counsel.
+
+        85.   At 2:39 p.m., Natali Reiner contacted Scotlynn’s counsel stating:
+
+  “Please urgently advise what is going [sic] we have not received any notice or
+
+  payment for past due balance.”
+
+        86.   At 2:54 p.m., Martha Vargas sent an email to Scotlynn’s counsel
+
+  also requesting payment.
+
+
+
+
+                                   Page 18 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 19 of 48
+
+
+
+
+        87.   That same day, Logistics Hub filed a claim against Scotlynn’s
+
+  surety bond for $21,921.00, representing the total amount of the four unpaid
+
+  invoices.
+
+        88.   At 5:58 p.m., counsel for Scotlynn responded:
+
+              In accordance with the contracts between Scotlynn USA
+              Division, Inc., Freight Hub, and LTL Hub, my client is
+              setting off the amounts owed on these invoices from the
+              attached claim that was submitted to Mr. Lopez back in
+              January. As you can see, the truck froze a load of White
+              Claw, and efforts to obtain a reefer download were ignored.
+              Please be advised that Scotlynn is also disputing the claim
+              that your company has filed against its brokers bond. Please
+              direct future communications related to this matter to my
+              office, along with the contact information for the attorneys
+              who may be involved in representing the Freight Hub Group
+              in this matter.”
+
+        89.   The next morning, at 10:10 a.m. on November 3, 2021, a response
+
+  was sent from the email address Escalation@gofreighthub.io stating:
+
+
+
+
+        90.   At 10:54 a.m., counsel for Scotlynn replied stating that Freight
+
+  Hub breached the contractual agreement between the parties by double
+
+  brokering, and that Freight Hub froze the White Claw and refused to cooperate
+
+
+                                  Page 19 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 20 of 48
+
+
+
+
+  in investigating that claim. The fact that when Scotlynn notified Freight Hub
+
+  that it was withholding payment in accordance with the Freight Hub Contract,
+
+  Luis Lopez instructed LTL Hub to enter into the LTL Hub Contract and then
+
+  held the Egg and Pork Loads ransom in order to extort payment from Scotlynn
+
+  was also noted.
+
+       91.   At 11:08 a.m., Escalation@gofreighthub.io responded:
+
+
+
+
+       92.   At 12:56 p.m., counsel for Scotlynn responded stating that if the
+
+  author of the escalation@gofreighthub.io emails were to identify themselves
+
+  and their role with the company, she would discuss the matter further.
+
+       93.   At 1:01 p.m., Escalation@gofreighthub.io replied:
+
+
+
+
+       94.   The author of the emails sent from escalation@gofreighthub.io
+
+
+
+                                 Page 20 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 21 of 48
+
+
+
+
+  would not identify himself.
+
+     Luis Lopez, via Go Intermodal, Contracts with Scotlynn For the
+          Purpose of Holding Cargo Hostage to Secure Payment
+
+           95.   The very next day, on November 3, 2021, Go Intermodal signed a
+
+  Property Broker/Carrier Agreement (“Go Intermodal Master Agreement”) with
+
+  Scotlynn. This Master Agreement is identical to the one that is in the Freight
+
+  Hub Contract, LTL Hub Contract, and the Logistics Hub Contract.
+
+           96.   Contemporaneously, Go Intermodal submitted a Carrier Form to
+
+  Scotlynn representing that it held DOT no. 3682288 and MC-1281321. The Go
+
+  Intermodal Master Agreement in conjunction with the Carrier Form make up
+
+  the “Go Intermodal Contract.” A copy of the Go Intermodal Contract is
+
+  attached as Exhibit 12.
+
+           97.   At the time, Scotlynn was unaware of Go Intermodal’s affiliation
+
+  with Logistics Hub, Luis Lopez, or any of the Go Hub Group Entities.
+
+           98.   The paperwork that Go Intermodal submitted to Scotlynn
+
+  identified Jeff Bankerson aka Jeff Araguren as the owner of Go Intermodal,
+
+  and Adrian Dunning as the dispatcher and contact person for claims.
+
+           99.   Scotlynn then hired Go Intermodal to transport the following 3
+
+  loads:
+
+                 a.   On November 3, 2021, Scotlynn hired Go Intermodal to
+                      transport a load of dry grocery items (the “Grocery Load”)
+                      with two delivery stops. The first delivery was scheduled for
+                      November 3 between 8:00 a.m. and 3:00 p.m. The second
+
+
+                                    Page 21 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 22 of 48
+
+
+
+
+                    delivery stop was on November 5, with an arrival time of
+                    2:00 a.m. Rate Confirmation 0415533 for the Grocery Load
+                    is attached as Exhibit 13.
+
+               b.   On November 4, 2021, Scotlynn hired Go Intermodal to
+                    transport a load of cranberries (the “Cranberry Load”) with
+                    two delivery stops. The first delivery stop was scheduled for
+                    November 4th at 2:00 p.m. The second stop was scheduled for
+                    November 10th between 8:00 a.m. and 5:00 p.m. Rate
+                    Confirmation 0420921 for the Cranberry Load is attached as
+                    Exhibit 14.
+
+               c.   On November 4, 2021, Scotlynn hired Go Intermodal to
+                    transport a load of delicatessen meats (the “Deli Meat
+                    Load”) with three delivery stops. The first delivery stop was
+                    scheduled for November 4th at 2:00 p.m. The second delivery
+                    was scheduled for November 7th at 11:00 a.m. The third
+                    delivery stop was for November 8th at 6:00 a.m. Rate
+                    Confirmation 0421593 for the Deli Meat Load is attached as
+                    Exhibit 15.
+
+        100.   Within a day of Go Intermodal taking possession of the Grocery,
+
+  Cranberry and Deli Meat Loads, on November 5, 2021, Scotlynn received
+
+  emails from Jeff Araguren and Natali Reiner stating that Scotlynn’s account
+
+  was past due. As a result, they stated that all freight, including the Grocery,
+
+  Cranberry and Deli Meat Loads would be held until the past due balance (the
+
+  money for the setoff) was paid, and the freight charges for the Grocery,
+
+  Cranberry and Deli Meat Loads in its possession were paid in full. The total
+
+  amount demanded was $41,584.98.
+
+        101.   Scotlynn’s   counsel    called   Jeff   Araguren,   Go   Intermodal’s
+
+  purported Operations Manager, to discuss the terms of the payment and to
+
+  obtain confirmation that if Scotlynn paid the ransom, then the Grocery,
+
+                                      Page 22 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 23 of 48
+
+
+
+
+  Cranberry and Deli Meat Loads would be delivered on time to their respective
+
+  destinations.
+
+        102.   Scotlynn’s counsel followed up with the following email to confirm
+
+  the details of the conversation:
+
+               Please allow this to confirm what you refused to put in
+               writing, which is that your company is now holding the 3
+               loads that are on the road hostage unless Scotlynn USA
+               Division, Inc. pays all amounts that are claimed due by the
+               various HUB entities. From the excel spreadsheet that was
+               sent by Natali Reiner, that amount is $41,584.98. Please
+               confirm. It is critical for on line[sic] delivery to Scotlynn USA
+               Division, Inc.’s customers.
+
+        103.   Scotlynn’s counsel spoke with Jeff Araguren after sending the
+
+  above e-mail. During that call, Jeff Araguren stated that, although Scotlynn
+
+  was told by Go Intermodal that one of the trucks broke down and would result
+
+  in a late delivery, that was not true. And confirmed the details of this
+
+  conversation with another email stating:
+
+               Thank you for confirming that the representation to
+               Scotlynn USA Division, Inc. that a truck is broken
+               down is false...Please look into who within Freight Hub
+               may have told Scotlynn that one of the three trucks that are
+               en route was broken down, please allow this to further
+               confirm that you will no longer communicate with me or with
+               Scotlynn USA Division, Inc. unless in writing. (emphasis
+               added)
+
+        104.   Natali Reiner again emailed demanding Scotlynn pay $41,584.98.
+
+        105.   Scotlynn’s counsel responded stating that confirmation was
+
+  needed from Jeff Araguren that “upon payment, all 3 loads will be delivered on
+
+
+                                     Page 23 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 24 of 48
+
+
+
+
+  time and that none of the trucks are broken down.”
+
+        106.   Jeff Araguren confirmed via email that all trucks were enroute to
+
+  their destinations and that cargo would be delivered as soon as Ocean Bank
+
+  confirmed receipt of payment.
+
+        107.   Scotlynn asked Jeff Araguren to confirm that Scotlynn’s payment
+
+  of the requested amount would satisfy Go Intermodal, who is identified as the
+
+  carrier on the rate confirmations, and that Go Intermodal would not then
+
+  pursue payment from Scotlynn for the balance. Jeff Araguren confirmed this
+
+  information via email at approximately 3:40 p.m.
+
+        108.   The wire transfer instructions and Notice of Assignment provided
+
+  to Scotlynn by Go Intermodal did not identify it as one of the Go Hub Group
+
+  Entities holding an account at Ocean Bank.
+
+        109.   Thus, at 3:59 p.m., Scotlynn asked Go Intermodal to confirm that
+
+  that Go Intermodal factors its invoices with Ocean Bank and that payment
+
+  would be properly applied to amounts claimed by Go Intermodal.
+
+        110.   Natali Reiner and Jeff Araguren confirmed that Ocean Bank
+
+  factors invoices for Go Intermodal.
+
+        111.   At approximately 4:20 p.m. on Friday, November 5, 2021, Scotlynn
+
+  emailed proof that it wired a total of $41,271.00 to Assetco Freight’s account
+
+  with Ocean Bank in exchange for the on-time delivery of the loads. The
+
+  $41,271.00 wire consisted of the following:
+
+
+                                   Page 24 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 25 of 48
+
+
+
+
+               a.    $21,921.00 to Logistics Hub Group for the four loads
+
+        transported between September 1 and 14 described in ¶67 ;
+
+               b.    Go Intermodal – $2,600.00 for the Grocery Load;
+
+               c.    Go Intermodal – $10,000.00 for the Cranberry Load; and
+
+               d.    Go Intermodal - $7,000.00 for the Deli Meat Load.
+
+        112.   On Friday, November 5, 2021, at 5:25 p.m., Jeff Araguren sent an
+
+  e-mail stating that Scotlynn’s payments were short $313.98.
+
+        113.   Scotlynn responded by stating that it would wire the remaining
+
+  balance on Monday.
+
+        114.   On Monday, November 8, 2021, at 9:00 a.m., Natali Reiner emailed
+
+  Scotlynn requesting confirmation of payment of the $313.98.
+
+        115.   Scotlynn’s attorney replied to Natali Reiner’s email stating that
+
+  the Go Hub Group Entities needed to withdraw their bond claim and provide
+
+  proof of doing so that day.
+
+        116.   Scotlynn also replied to Natali Reiner’s email with a breakdown of
+
+  the invoices and amounts that were requested for payment. These numbers
+
+  add up to $41,271.00. Scotlynn then asked Natali Reiner if she could say what
+
+  the additional $313.98 was for.
+
+        117.   Natali Reiner stated that $250.00 was a layover fee on load
+
+  number 0394479, and $63.98 was a lumper receipt on Cranberry Load.
+
+        118.   According to the notes on load no. 0394479, the driver took a 36-
+
+
+                                    Page 25 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 26 of 48
+
+
+
+
+  hour reset causing him to miss the scheduled delivery appointment which
+
+  resulted in the $250.00 layover fee. Scotlynn requested additional information
+
+  about this layover including whether there was anything from the account
+
+  manager confirming there should be a layover.
+
+        119.   Scotlynn then pointed out that the Cranberry Load had not yet
+
+  been delivered.
+
+        120.   On Tuesday, November 9, 2021, Scotlynn learned that Go
+
+  Intermodal missed the delivery appointment for the Grocery Load, and that
+
+  the new appointment was for the following Monday, November 15. Although
+
+  its own actions caused the missed delivery appointment, Go Intermodal
+
+  informed Scotlynn that it would unload the Grocery Load at a storage facility.
+
+        121.   Scotlynn alerted its counsel to the fact that the Grocery Load was
+
+  the load that the Go Hub Group Entities misrepresented to Scotlynn that the
+
+  truck had broken down and that was the reason for the rescheduling.
+
+        122.   Scotlynn further clarified this information by stating, via email,
+
+  that the original delivery appointment was November 5 at 2:00 a.m. At 12:47
+
+  a.m., an email was received stating that the truck carrying the Grocery Load
+
+  had broken down. A new delivery appointment was set for November 15 at 2:00
+
+  a.m. However, the receiver had an appointment available on November 13 at
+
+  11:30 p.m. so Scotlynn reset the delivery for that date and time.
+
+        123.   This same morning, Eduardo Aleman aka Ed Ashcroft, the
+
+
+                                   Page 26 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 27 of 48
+
+
+
+
+  dispatcher for the Deli Meat Load, called Scotlynn requesting a Comcheck for
+
+  all 3 lumpers.
+
+        124.   A Scotlynn employee relayed this request via email to both upper
+
+  management at Scotlynn, and the Go Hub Group Entities, as the carrier packet
+
+  completed by the Go Hub Group Entities had selected that no Comchecks were
+
+  to be issued.
+
+        125.   Scotlynn requested approval for the Comcheck to be issued
+
+               ...for the final delivery appt & the other 2 stops as well.
+               [Scotlynn] will need copies of all lumper receipts before the
+               payment for the lumpers can be released.
+
+        126.   Jeff Araguren replied with two receipts, stating that the lumper
+
+  fee amounts were $101.00, $171.00, and $230.00. The receipts attached to this
+
+  email were for $171.00 and $101.00. Jeff Araguren stated that upon Scotlynn’s
+
+  payment to the Go Hub Group Entities, that they would then provide the final
+
+  receipt as well.
+
+        127.   At 9:39 a.m. on November 9, 2021, Scotlynn confirmed
+
+  authorization to issue a Comcheck in the amount of $502 for the lumpers
+
+  associated with the Deli Meat Load.
+
+        128.   At approximately 9:45 a.m. on November 9, 2021, counsel for
+
+  Scotlynn received a phone call from Jeff Araguren regarding the Dry Grocery
+
+  Load. Jeff Araguren stated that this load was going to be dropped at a
+
+  warehouse facility but would not identify what warehouse facility. He further
+
+
+                                   Page 27 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 28 of 48
+
+
+
+
+  stated that the Dry Grocery Load was intentionally withheld from delivery on
+
+  its original due date in order to gain leverage to secure payment from Scotlynn
+
+  for amounts that it disputed owing to other Go Hub Group Entities.
+
+        129.   At approximately 11:20 a.m., Scotlynn was notified that the driver
+
+  of the Dry Grocery Load broke the seal and offloaded the cargo into a
+
+  warehouse. Go Intermodal demanded payment of additional $230.00 for
+
+  storage and refused to disclose the location or condition of the Dry Grocery
+
+  Load until receipt of payment from Scotlynn.
+
+        130.   At approximately 11:45 a.m., Jeff Araguren sent out an email
+
+  stating:
+
+               Regarding load 0415533 [Dry Grocery Load] As per my
+               conversation with Ms. Esquivel, this load is being dropped
+               at the warehouse right now. They are requesting $230 to
+               store and you have 1 week to pick up the load before they
+               add on more charges, so you can send another truck next
+               week to pick it up and make on time delivery of the new
+               appointment. Please send a Comcheck for $$230[sic] to pay
+               for this and we will send you the address to where the freight
+               is right after we finish unloading.
+
+        131.   At 12:22 p.m. Scotlynn still did not know the location or condition
+
+  of the Dry Grocery Load.
+
+        132.   At 1:44 p.m., Jeff Araguren emailed the receipt for storage
+
+  attached as Exhibit 16 to Scotlynn, stating “As soon as you send the Comcheck
+
+  for this, we will send you location”.
+
+        133.   While the situation related to Go Intermodal unloading and
+
+
+                                    Page 28 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 29 of 48
+
+
+
+
+  concealment of the location of the Dry Grocery Load was unfolding, at 10:45
+
+  a.m. that same morning, dispatcher Eduardo Aleman (acting as Ed Ashcroft)
+
+  demanded payment of an additional $85.00 lumper fee associated with 2
+
+  pallets left on the truck when the Deli Meat Load was unloaded.
+
+           134.   At 11:03 a.m., Eduardo Aleman (acting as Ed Hankerson) emailed
+
+  photos of documents for the Deli Meat Load to support [Ed Ashcroft’s]
+
+  statement that there was an additional fee related to the 2 pallets left in the
+
+  truck.
+
+           135.   At 11:24 a.m., Scotlynn emailed Ed Hankerson about the Deli
+
+  Meat Load asking him to “…have the driver sit tight. The customer is working
+
+  on to get the receiver to take it in.” Scotlynn sent another update at 1:50 p.m.
+
+  stating that it was still waiting on customer instructions.
+
+           136.   At approximately 3:20 p.m., Jeff Araguren called Scotlynn and
+
+  stated that if he was not told within the hour what to do with the two
+
+  remaining pallets, he was going to dump them. He further stated that if
+
+  Scotlynn did not wire the $230 for storage fees for the Dry Grocery Load, then
+
+  he would dump that load as well.
+
+           137.   Jeff Araguren also contacted Scotlynn and stated that the address
+
+  of the warehouse containing the loads would not be sent until Scotlynn wired
+
+  the $230 for the storage fees for offloading the Dry Grocery Load.
+
+           138.   At 3:31 p.m., Jeff Araguren sent an email clarifying that the Dry
+
+
+                                      Page 29 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 30 of 48
+
+
+
+
+  Grocery Load was already delivered to a warehouse, and that Go Hub Group
+
+  was waiting on the $230 payment.
+
+        139.   At 3:52 p.m., Scotlynn instructed Go Intermodal to return to the
+
+  warehouse and to offload the 2 pallets left of the Deli Meat Load.
+
+        140.   At 3:59 p.m., Jeff Araguren emailed Scotlynn stating that there
+
+  was an $85 lumper fee for unloading the two pallets from the Deli Meat Load.
+
+  Scotlynn asked Jeff Araguren for to confirm that they were charging an
+
+  additional $85 to unload the two pallets and Jeff Araguren confirmed.
+
+        141.   At 4:15 p.m., Scotlynn sent the Comcheck sequence number via
+
+  email for the $85 lumper fee for Deli Meat Load.
+
+        142.   Scotlynn then authorized payment of the $230 storage fee for the
+
+  Grocery Load, and Jeff Araguren promptly replied via email with the
+
+  Comcheck code.
+
+        143.   At 4:32 p.m. Eduardo Aleman (acting as Ed Hankerson) sent an
+
+  email containing the following information: “Biagi Bros. 5001 SW 36th St.
+
+  Oklahoma City, OK 73179.”
+
+        144.   On Tuesday, November 16, 2021, the Dry Grocery Load, the last of
+
+  the hostage loads, was delivered after being left at a warehouse Oklahoma.
+
+        145.   As a result of Go Intermodal’s failure to deliver on time and as
+
+  instructed, Scotlynn was damaged by incurring an additional $750.00 expense
+
+  to hire a new carrier to pick up and deliver this load.
+
+
+                                   Page 30 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 31 of 48
+
+
+
+
+        146.     Scotlynn has not received at least two signed BOLs as of this date.
+
+        147.     On the morning of November 19, 2021, Scotlynn received an
+
+  update that Logistics Hub Group reported to Scotlynn’s bond company that it
+
+  had been paid in full and the company closed the file.
+
+              Count I - Federal Civil Violation of RICO
+     (against Luis Lopez, FTL Hub, Logistics Hub, Natali Reiner, Jeff
+                     Araguren, and Assetco Freight)
+
+        148.     Scotlynn re-alleges paragraphs 1 through 147 as though fully set
+
+  forth herein.
+
+        149.     18 U.S.C. §1962(c) makes it “unlawful for any person employed by
+
+  or associated with any enterprise engaged in, or the activities of which affect,
+
+  interstate or foreign commerce, to conduct or participate, directly or indirectly,
+
+  in the conduct of such enterprise’s affairs through a pattern of racketeering
+
+  activity ….”
+
+        150.     Persons. Luis Lopez, FTL Hub, Logistics Hub, Natali Reiner, Jeff
+
+  Araguren, and Assetco Freight (collectively the “RICO Defendants”) are each
+
+  a “person” capable of holding legal or beneficial interest in property within the
+
+  meaning of 18 U.S.C. §1961(3).
+
+        151.     The Enterprise. The RICO Defendants, other Defendants, and
+
+  upon information and belief, other individuals and entities, constitute an
+
+  “association-in-fact” enterprise (the “Go Hub Group Enterprise”) within the
+
+  meaning of 18 U.S.C. §§1961(3) and 1962(c), and operated the enterprise
+
+
+                                     Page 31 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 32 of 48
+
+
+
+
+  continuously for more than one year, with the common purpose of perpetrating
+
+  racketeering activity, including but not limited to: (a) violation of the Hobbs
+
+  Act (18 U.S.C. §1951(a)); (b) violation of the Florida Communications Fraud
+
+  Act (Fla. Stat., §817.034); (c) wire fraud; (d) the transportation of stolen money
+
+  or property in violation of 18 U.S.C. §2314; (e) violation of the Travel Act (18
+
+  U.S.C. §1952); and (f) theft from interstate shipment in violation of 18 U.S.C.
+
+  §659.
+
+          152.   Interstate Commerce.      The Go Hub Group Enterprise has
+
+  engaged in, and their activities affected, interstate commerce.
+
+          153.   Pattern of Racketeering Activity. The RICO Defendants, each
+
+  of whom are persons associated with, or employ by, the Go Hub Group
+
+  Enterprise, did knowingly, willfully, and unlawfully conduct or participate,
+
+  directly or indirectly, in the affairs of the Go Hub Group Enterprise through a
+
+  pattern of racketeering activity within the meaning of 18 U.S.C. §§1961(1),
+
+  1961(5), and 1962(c). The racketeering activity was made possible by the RICO
+
+  Defendants’ regular and repeated use of the facilities and services of the Go
+
+  Hub Group Enterprise. The RICO Defendants had the specific intent to engage
+
+  in the substantive RICO violation alleged herein.
+
+          154.   The RICO Defendants each committed at least two predicate acts
+
+  of racketeering activity that are indictable under provisions of the U.S. Code
+
+  enumerated in 18 U.S.C. §1961(1), as more specifically alleged herein.
+
+
+                                    Page 32 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 33 of 48
+
+
+
+
+        155.   The acts of racketeering were not isolated, but rather the acts of
+
+  the RICO Defendants were related in that they had the same or similar
+
+  purpose and result, participants, victims and methods of commission. Further,
+
+  the acts of racketeering by the RICO Defendants have been continuous and
+
+  have continued over a substantial period of time.
+
+        156.   Predicate Act: Hobbs Act (18 U.S.C. §1951). RICO predicates
+
+  include 18 U.S.C. §1951, which defines extortion as “the obtaining of property
+
+  from another, with his consent, induced by wrongful use of actual or threatened
+
+  force, violence, or fear, or under color of official right.” The RICO Defendants
+
+  violated this offense when they misrepresented their affiliation with the Go
+
+  Hub Group Entities, obtained Scotlynn’s Egg, Pork, Grocery, Cranberry and
+
+  Deli Meat Loads through fraudulent means and/or then held the same for
+
+  ransom.
+
+        157.   Predicate Act: Theft from an Interstate Shipment (18 U.S.C.
+
+  §659). RICO predicates include 18 U.S.C. §659, which deems guilty of a felony
+
+  “[w]however embezzles, steals, or unlawfully takes, carries away, or conceals,
+
+  or by fraud or deception obtains from any … motortruck, trailer, or other
+
+  vehicle … or from any intermodal container, trailer … with intent to convert
+
+  to his own use any goods or chattels moving as or which are part of or which
+
+  constitute an interstate or foreign shipment of freight, express, or other
+
+  property….” The RICO Defendants violated this offense when they
+
+
+                                   Page 33 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 34 of 48
+
+
+
+
+  misrepresented their affiliation with the Go Hub Group Entities, obtained
+
+  Scotlynn’s Egg, Pork, Grocery, Cranberry and Deli Meat Loads through
+
+  fraudulent means and/or then held the same for ransom.
+
+        158.   Predicate Act: Florida Communications Fraud Act (Fla.
+
+  Stat., §817.034). RICO predicates include Fla. Stat., §817.034, which deems
+
+  guilty of a felony anyone “who engages in a scheme to defraud and obtains
+
+  property thereby…” The RICO Defendants violated this offense when they
+
+  misrepresented their affiliation with the Go Hub Group Entities, obtained
+
+  Scotlynn’s Egg, Pork, Grocery, Cranberry and Deli Meat Loads through
+
+  fraudulent means and/or then held the same for ransom.
+
+        159.   Predicate Act: Transportation of Stolen Money or Property
+
+  (18 U.S.C. §2314). RICO predicates include 18 U.S.C. §2314, which deems
+
+  guilty of a felony anyone who “transports, transmits, or transfers in interstate
+
+  or foreign commerce any goods …, of the value of $5,000 or more, knowing the
+
+  same to have been stolen, converted or taken by fraud,” or “having devised or
+
+  intending to devise any scheme or artifice to defraud, or for obtaining money
+
+  or property by means of false or fraudulent pretenses, representations, or
+
+  promises, transports or causes to be transported, … or to be transported in
+
+  interstate … commerce in the execution or concealment of a scheme or artifice
+
+  to defraud that person or those persons of money or property having a value of
+
+  $5,000 or more….” The RICO Defendants violated this offense when they
+
+
+                                   Page 34 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 35 of 48
+
+
+
+
+  misrepresented their affiliation with the Go Hub Group Entities, obtained
+
+  Scotlynn’s Egg, Pork, Grocery, Cranberry and Deli Meat Loads through
+
+  fraudulent means and/or then held the same for ransom.
+
+        160.   Predicate Act: Travel Act (18 U.S.C. §1952). RICO predicates
+
+  include 18 U.S.C. §1952, which deems guilty of a felony anyone who travels in
+
+  interstate commerce or uses the mail system, with intent to “promote, manage,
+
+  establish, carry on, or facilitate the promotion, management, establishment, or
+
+  carrying on, of any unlawful activity.” The RICO Defendants violated this
+
+  offense when they misrepresented their affiliation with the Go Hub Group
+
+  Entities, obtained Scotlynn’s Egg, Pork, Grocery, Cranberry and Deli Meat
+
+  Loads through fraudulent means and/or then held the same for ransom.
+
+        161.   Predicate Act: Wire Fraud (18 U.S.C. §1343). RICO predicates
+
+  include wire fraud, which deems guilty of a felony anyone who intentionally
+
+  participates in a scheme to defraud another of money or property and uses the
+
+  wires in furtherance of that scheme.     The RICO Defendants violated this
+
+  offense when they misrepresented their affiliation with the Go Hub Group
+
+  Entities, obtained Scotlynn’s Egg, Pork, Grocery, Cranberry and Deli Meat
+
+  Loads through fraudulent means and/or then held the same for ransom.
+
+        162.   Continuity of Conduct (Close-Ended). The RICO Defendants’
+
+  violations of state and federal law as set forth herein, each of which directly
+
+  and proximately injured Scotlynn, constitute a continuous course of conduct
+
+
+                                  Page 35 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 36 of 48
+
+
+
+
+  spanning a period from at least December 2019 to November 2021, which was
+
+  intended to obtain money through the above-mentioned predicate acts, and
+
+  other improper and unlawful means. Therefore, said violations were part of a
+
+  pattern of racketeering activity under 18 U.S.C. §1961(1) and (5).
+
+        163.   Continuity of Conduct (Open-Ended). The RICO Defendants’
+
+  violations of state and federal law as set forth herein, each of which directly
+
+  and proximately injured Scotlynn, constitute a continuous course of conduct
+
+  spanning a period from at least December 2019 to November 2021, which was
+
+  intended to obtain money through the above-mentioned predicate acts, and
+
+  other improper and unlawful means. Moreover, as seen from the continuous
+
+  course of conduct involving the Go Hub Group Enterprise, the racketeering
+
+  acts themselves include a specific threat of repetition extending indefinitely
+
+  into the future.    Therefore, said violations were part of a pattern of
+
+  racketeering activity under 18 U.S.C. §1961(1) and (5).
+
+        164.   Conduct of Affairs.      The RICO Defendants have conducted
+
+  and/or participated, directly and/or indirectly, in the conduct of the affairs of
+
+  the Go Hub Group Enterprise through a pattern of racketeering activity as
+
+  alleged above in violation of 18 U.S.C. §1962(c).
+
+        165.   Proximate Cause and Damages to Business and Property.
+
+  The unlawful actions of the RICO Defendants, and each of them, have directly,
+
+  illegally and proximately caused and continue to cause injuries to the Scotlynn
+
+
+                                   Page 36 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 37 of 48
+
+
+
+
+  in its business or property.
+
+        WHEREFORE, Scotlynn respectfully requests this Court enter
+
+  judgment against the RICO Defendants for all damages authorized by law,
+
+  including all damages actually sustained (trebled as authorized by law),
+
+  attorneys’ fees, costs, and such other and further relief as this Court deems
+
+  just and proper.
+
+Count II - Conspiracy to Commit RICO Pursuant to 18 U.S.C. §1962(d)
+      (against the RICO Defendants, Freight Hub, LTL Hub, and Go
+                             Intermodal)
+
+        166.   Scotlynn re-alleges paragraphs 1 through 165 as though fully set
+
+  forth herein.
+
+        167.   As detailed in Count I above, which Scotlynn adopts and re-alleges
+
+  herein, the RICO Defendants committed certain predicate acts giving rise to a
+
+  claim for RICO.
+
+        168.   The RICO Defendants, Freight Hub, LTL Hub, and Go Intermodal,
+
+  amongst others, were associated with the Go Hub Group Enterprise, and
+
+  agreed and conspired to violate 18 U.S.C. §1962(c) by agreeing to the overall
+
+  objective of the conspiracy; to wit, misrepresenting or concealing the Go Hub
+
+  Group Entities affiliations with one another in an attempt to misrepresent
+
+  their affiliation with the Go Hub Group Entities, obtain Scotlynn’s Egg, Pork,
+
+  Grocery, Cranberry and Deli Meat Loads through fraudulent means and/or
+
+  then hold the same for ransom.
+
+
+                                   Page 37 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 38 of 48
+
+
+
+
+        169.   The RICO Defendants, Freight Hub, LTL Hub, and Go
+
+  Intermodal’s agreement to the overall objective of the conspiracy can be
+
+  inferred from the conduct summarized in paragraphs 1 through 167 above to
+
+  further the conspiracy, including but not limited to, each of their active roles
+
+  in the conspiracy.
+
+        170.   Alternatively, and/or additionally, each RICO Defendant was
+
+  associated with the enterprise described above and agreed and conspired to
+
+  violate 18 U.S.C. §1962(c) by agreeing to commit at least two of the above
+
+  alleged predicate acts.
+
+        171.   As a direct and proximate result of the conspiracy to commit RICO,
+
+  the overt acts taken in furtherance of that conspiracy, and violations of 18
+
+  U.S.C. §1962(d), Scotlynn has been damaged in its business or property.
+
+        WHEREFORE, Scotlynn respectfully requests this Court enter
+
+  judgment against the RICO Defendants for all damages authorized by law,
+
+  including all damages actually sustained (trebled as authorized by law),
+
+  attorneys’ fees, costs, and such other and further relief as this Court deems
+
+  just and proper.
+
+   Count III - Aiding and Abetting a Violation of RICO Section 1962(c)
+                        (against all Defendants)
+
+        172.   Scotlynn re-alleges paragraphs 1 through 171 above as though
+
+  fully set forth herein.
+
+
+
+                                   Page 38 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 39 of 48
+
+
+
+
+        173.   Defendants aided and abetted and shared the intent to aid and
+
+  abet a scheme to violate 18 U.S.C. §1962(c), specifically, a scheme that: (a) used
+
+  fraudulent concealment to mislead Scotlynn to believe that Scotlynn was
+
+  entering into agreements with parties unrelated to the Go Hub Entities and/or
+
+  Luis Lopez; (b) obtain Scotlynn’s loads through fraudulent means; and (c) hold
+
+  Scotlynn’s loads for ransom.
+
+        174.   Defendants each had knowledge of the scheme and provided
+
+  substantial assistance toward its commission.
+
+        175.   As a direct and proximate result of Defendants’ aiding and
+
+  abetting of predicate acts of a Section 1962(c) RICO violation, Scotlynn has
+
+  suffered damages.
+
+        WHEREFORE, Scotlynn respectfully requests this Court enter
+
+  judgment against the RICO Defendants for all damages authorized by law,
+
+  including all damages actually sustained (trebled as authorized by law),
+
+  attorneys’ fees, costs, and such other and further relief as this Court deems
+
+  just and proper.
+
+      Count IV - Violation of Florida’s Deceptive and Unfair Trade
+                   Practices Act Fla. Stat. §501.202(1)
+    (against LTL Hub, Logistics Hub, Go Intermodal, and Luis Lopez)
+
+        176.   Scotlynn re-alleges paragraphs 1 through 147 as though fully set
+
+  forth herein.
+
+        177.   FDUTPA makes unlawful “unfair methods of competition,
+
+
+                                    Page 39 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 40 of 48
+
+
+
+
+  unconscionable acts or practices, and unfair or deceptive acts or practices in
+
+  the conduct of any trade or commerce.”
+
+        178.   Among other purposes, FDUTPA is intended “[t]o protect the
+
+  consuming public and legitimate business enterprises from those who engage
+
+  in unfair methods of competition, or unconscionable, deceptive, or unfair acts
+
+  or practices in the conduct of any trade or commerce.”
+
+        179.   Scotlynn is a “consumer” under FDUTPA, which protects, among
+
+  other entities, “an individual … business; firm; association; joint venture;
+
+  partnership … corporation; any commercial entity, however denominated; or
+
+  any other group or combination.”
+
+        180.   The FDUTPA Defendants (defined below) are involved in trade
+
+  and commerce in the State of Florida.
+
+        181.   A violation of FDUTPA may be based upon a violation of “any law,
+
+  statute, rule, regulation, or ordinance which proscribes unfair methods of
+
+  competition, or unfair, deceptive, or unconscionable acts or practices.” Fla.
+
+  Stat., 501.203(3)(c).
+
+        182.   Defendants, LTL Hub, Logistics Hub, Go Intermodal, and Luis
+
+  Lopez (the “FDUTPA Defendants”) violated FDUTPA, by knowingly making
+
+  statements of fact regarding details of their carrier operations in order to gain
+
+  contractual agreements with Scotlynn.
+
+        183.   The FDUTPA Defendants all represented to Scotlynn that they
+
+
+                                   Page 40 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 41 of 48
+
+
+
+
+  were motor carriers authorized to carry the loads brokered to them, that they
+
+  would transport these loads, and that they would abide by the terms of the
+
+  contracts they signed.
+
+        184.   Plaintiff Scotlynn would not have entered into the LTL Hub
+
+  Contract, Logistics Hub Contract, or the Go Intermodal Contract if it had
+
+  known that the FDUTPA Defendants were affiliated with and/or one in the
+
+  same as the Go Hub Group Entities and Luis Lopez.
+
+        185.   Further, Scotlynn would not have brokered loads to LTL Hub if it
+
+  had known that LTL Hub did not have the legal authorization to transport the
+
+  loads brokered to it.
+
+        186.   The FDUTPA Defendants knew Scotlynn was relying on the
+
+  information reflected in the contracts signed with each respective entity/party.
+
+        187.   The FDUTPA Defendants were aware that Scotlynn believed that
+
+  the FDUTPA Defendants were all carriers that would be transporting the loads
+
+  brokered by Scotlynn and were not affiliated with and/or one in the same as
+
+  the Go Hub Group Entities.
+
+        188.   Scotlynn, relied to its detriment, on the information provided in
+
+  the signed contracts between itself and the FDUTPA Defendants.
+
+        189.   As a direct and proximate result of the deceptive and unfair trade
+
+  practices of the FDUTPA Defendants, Scotlynn suffered actual damages.
+
+        WHEREFORE, Scotlynn respectfully requests that this Court enter a
+
+
+                                   Page 41 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 42 of 48
+
+
+
+
+  judgment against LTL Hub, Logistics Hub, Go Intermodal, and Luis Lopez for
+
+  all damages, interest, costs, and attorneys’ fees incurred in connection with the
+
+  violations of FDUTPA, and for all other and further relief as this Court deems
+
+  just and proper.
+
+                          Count V - Indemnification
+                     (against Freight Hub d/b/a Dray Hub)
+
+        190.   Scotlynn re-alleges paragraphs 1 through 147 as though fully set
+
+  forth herein.
+
+        191.   Pursuant to Paragraph 12(d) of the Freight Hub Contract, Freight
+
+  Hub dba Dray Hub agreed to indemnify Scotlynn “from and against any and
+
+  all liabilities, judgments, fines, claims, lawsuits, penalties, orders, decrees,
+
+  awards, costs, expenses, including but not limited to attorneys' fees,
+
+  settlements and claims on account of …           Carrier's breach of any of its
+
+  representations, warranties and/or covenants in this Agreement.”
+
+        192.   Freight Hub dba Dray Hub has breached its obligation by refusing
+
+  to indemnify Scotlynn in connection with the loss for the damaged White Claw.
+
+        WHEREFORE, Scotlynn respectfully requests that this Court enter a
+
+  judgment against Freight Hub and Dray Hub indemnifying Scotlynn for all
+
+  damages, interest, costs, and attorneys’ fees incurred in connection with the
+
+  damages Scotlynn incurred as a result of the damaged White Claw, and for all
+
+  other and further relief as this Court deems just and proper.
+
+
+
+                                   Page 42 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 43 of 48
+
+
+
+
+                       Count VI - Fraudulent Concealment
+                               (against LTL Hub)
+
+         193.   Scotlynn re-alleges paragraphs 1 through 147 as though fully set
+
+  forth herein.
+
+         194.   LTL Hub and Scotlynn entered into the LTL Hub Contract.
+
+         195.   The LTL Hub Contract was entered into after Scotlynn had
+
+  informed Freight Hub that it was exercising its right to setoff the balance due
+
+  for the White Claw.
+
+         196.   LTL Hub concealed or failed to disclose a material fact; namely, its
+
+  affiliation with the other Go Hub Group Entities and Luis Lopez.
+
+         197.   LTL Hub knew or should have known that this material fact
+
+  should have been disclosed and had a duty to disclose the material fact.
+
+         198.   LTL Hub knew its concealment or failure to disclose this material
+
+  fact would induce Scotlynn to enter into the agreement with LTL Hub, which
+
+  in turn would allow LTL Hub to gain access to loads brokered by Scotlynn to
+
+  use as leverage to recover the balance Scotlynn was withholding from Freight
+
+  Hub.
+
+         199.   Scotlynn brokered three loads to LTL Hub, unaware of its
+
+  affiliation with Freight Hub. Scotlynn expected that LTL Hub would pick up
+
+  and transport the three loads brokered to it.
+
+         200.   However, LTL Hub allowed FTL Hub to take possession of the
+
+
+
+                                    Page 43 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 44 of 48
+
+
+
+
+  three loads brokered to it. LTL Hub and/or FTL Hub then held these loads
+
+  hostage until Scotlynn wired the money being withheld for the setoff as well as
+
+  prepayment for the three loads in its possession.
+
+        201.      LTL Hub knew, or should have known, that it was inducing
+
+  Scotlynn into a contract that it otherwise would not have entered into had it
+
+  known of LTL Hub’s affiliation with the Go Hub Group Entities or Luis Lopez.
+
+        202.   LTL Hub had a duty to disclose these material facts to Scotlynn.
+
+        203.   LTL Hub knew that its concealment or failure to disclose these
+
+  material facts would induce Scotlynn into this contractual relationship,
+
+  causing Scotlynn damages, including but not limited to, layover fees, late fees,
+
+  storage, and the cost of replacement motor carriers.
+
+        204.   Scotlynn detrimentally relied on the misinformation.
+
+        WHEREFORE, Scotlynn respectfully requests that the Court enter
+
+  judgment in its favor and against LTL Hub for compensatory damages, taxable
+
+  costs, pre- and post-judgment interest, and such other and further relief as this
+
+  Court deems just and proper.
+
+                      Count VII - Fraudulent Concealment
+                            (against Logistics Hub )
+
+        205.   Scotlynn re-alleges paragraphs 1 through 147 as though fully set
+
+  forth herein.
+
+        206.   Logistics Hub and Scotlynn entered into the Logistics Hub
+
+
+
+                                   Page 44 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 45 of 48
+
+
+
+
+  Contract.
+
+        207.   The Logistics Hub Contract was entered into after: (a) the issues
+
+  with the White Claw load; and (b) the issues with the Pork and Egg Loads.
+
+        208.   Logistics Hub concealed or failed to disclose a material fact;
+
+  namely, its affiliation with the other Go Hub Group Entities and Luis Lopez.
+
+        209.   Logistics Hub knew, or should have known, that had Scotlynn been
+
+  aware of Logistic Hub’s affiliation with Luis Lopez or the Go Hub Group
+
+  Entities it would not have entered into any contract with Logistics Hub.
+
+        210.   Logistics Hub knew its concealment of or failure to disclose this
+
+  material fact (i.e., its affiliation with the Go Hub Group Entities) would induce
+
+  Scotlynn to enter into the contract.
+
+        211.   Logistics Hub had a duty to disclose this material fact to Scotlynn.
+
+        212.   Scotlynn detrimentally relied on the misinformation.
+
+        213.   As a direct result of Logistic Hub’s fraudulent concealment,
+
+  Scotlynn suffered damages.
+
+        WHEREFORE, Scotlynn respectfully requests that the Court enter
+
+  judgment in its favor and against Logistics Hub for compensatory damages,
+
+  taxable costs, pre- and post-judgment interest, and such other and further
+
+  relief as this Court deems just and proper.
+
+                     Count VIII - Fraudulent Concealment
+                           (against Go Intermodal)
+
+
+
+                                   Page 45 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 46 of 48
+
+
+
+
+          214.   Scotlynn re-alleges paragraphs 1 through 147 as though fully set
+
+  forth herein.
+
+          215.   Go Intermodal and Scotlynn entered into the Go Intermodal
+
+  Contract.
+
+          216.   The Go Intermodal Contract was entered into after Scotlynn had
+
+  informed Logistics Hub that it was exercising its right to set off the balance
+
+  due for the White Claw.
+
+          217.   Go Intermodal knew, or should have known, that Scotlynn would
+
+  be unaware of Go Intermodal’s affiliation with Logistics Hub, Luis Lopez, and
+
+  the Go Hub Group Entities, and concealed or failed to disclose this material
+
+  fact.
+
+          218.   Go Intermodal knew or should have known that this material fact
+
+  should have been disclosed and had a duty to disclose the material fact.
+
+          219.   Go Intermodal knew its concealment or failure to disclose this
+
+  material fact would induce Scotlynn to enter into the agreement with Go
+
+  Intermodal, which in turn would allow Go Intermodal to gain access to loads
+
+  brokered by Scotlynn to use as leverage to recover the balance Scotlynn was
+
+  withholding from Logistics Hub.
+
+          220.   Scotlynn brokered three loads to Go Intermodal, unaware of its
+
+  affiliation with Logistics Hub. Scotlynn expected that Go Intermodal would
+
+  pick up and transport the three loads brokered to it.
+
+
+                                    Page 46 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 47 of 48
+
+
+
+
+        221.   However, Go Intermodal allowed FTL Hub to take possession of
+
+  the three loads brokered to it. FTL Hub then held these loads hostage until
+
+  Scotlynn wired the money being withheld for the setoff as well as prepayment
+
+  for the three loads in its possession.
+
+        222.      Go Intermodal knew, or should have known, that it was inducing
+
+  Scotlynn into a contract that it otherwise would not have entered into had it
+
+  known of Go Intermodal’s affiliation with the Go Hub Group Entities or Luis
+
+  Lopez.
+
+        223.   By inducing Scotlynn into this contractual relationship, Go
+
+  Intermodal caused Scotlynn damages in the form of the $21,921.00 being
+
+  withheld as setoff, as well as layover fees, late fees, storage, and the cost of
+
+  replacement motor carriers.
+
+        224.   Scotlynn detrimentally relied on the misinformation.
+
+        WHEREFORE, Scotlynn respectfully requests that the Court enter
+
+  judgment in its favor and against Go Intermodal for compensatory damages,
+
+  taxable costs, pre- and post-judgment interest, and such other and further
+
+  relief as this Court deems just and proper.
+
+               Count IX - Damages Pursuant to 49 U.S.C. §14706
+                             (against FTL Hub)
+
+        225.   Scotlynn re-alleges paragraphs 1 through 147 as though fully set
+
+  forth herein.
+
+
+
+                                    Page 47 of 48
+Case 1:22-cv-20643-BB Document 1 Entered on FLSD Docket 03/02/2022 Page 48 of 48
+
+
+
+
+        226.   As a motor carrier under 49 U.S.C. §14706, FTL Hub is liable to
+
+  Scotlynn for its full, actual, damages, as asserted herein.
+
+        227.   The White Claw was delivered to FTL Hub in good condition.
+
+        228.   The White Claw arrived at its destination frozen; thus, in bad
+
+  condition.
+
+        229.   Scotlynn sustained damages as a result.
+
+        WHEREFORE, Scotlynn respectfully requests that the Court enter
+
+  judgment in its favor and against FTL Hub for all damages Scotlynn sustained
+
+  as a result of the damaged White Claw, taxable costs, pre- and post-judgment
+
+  interest, and such other and further relief as this Court deems just and proper.
+
+        Respectfully submitted on Tuesday, March 01, 2022.
+
+  PADULA BENNARDO LEVINE,               ESQUIVEL LAW, CHARTERED
+  LLP
+
+      /s/ Joshua S. Widlansky                /s/ Katy Koestner Esquivel
+  Joshua S. Widlansky                  Katy Koestner Esquivel
+  Florida Bar No. 45197                Florida Bar No. 0159484
+  3837 NW Boca Raton Boulevard         Moorings Professional Building
+  Suite 200                            2335 Tamiami Trail North
+  Boca Raton, Florida 33431            Suite 301
+  Main: 561.544.8900                   Naples, Florida 34103-4457
+  Facsimile: 561.544.8999              Telephone : (239)206-3731
+  JSW@PBL-Law.com                      Facsimile : (239)431-3942
+  Attorneys for Plaintiff Scotlynn USA kke@esquivel-law.com
+  Division                             service@esquivel-law.com
+                                       Attorneys for Plaintiff Scotlynn USA
+                                       Division
+
+
+
+
+                                   Page 48 of 48
+

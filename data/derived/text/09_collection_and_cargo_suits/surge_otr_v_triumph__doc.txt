@@ -1,0 +1,354 @@
+               Case 3:23-ap-00080-JAB        Doc 1    Filed 09/13/23     Page 1 of 7
+
+
+
+
+                     IN THE UNITED STATES BANKRUPTCY COURT
+                       FOR THE MIDDLE DISTRICT OF FLORIDA
+                              JACKSONVILLE DIVISION
+
+
+ In re:
+                                                         Case No. 3:23-bk-1712-JAB
+ SURGE TRANSPORTATION, INC.,                             Chapter 11
+
+                        Debtor.
+
+
+ OTR CAPITAL, LLC,
+
+                        Plaintiff,                       A.P. No. _____________
+
+ v.
+
+ TRIUMPH FINANCIAL SERVICES LLC
+
+                        Defendant.
+
+
+                                     ADVERSARY COMPLAINT
+
+          OTR Capital, LLC (“OTR”) files this Adversary Complaint against Triumph Financial
+
+Services LLC (“Triumph”) and states as follows:
+
+                                            PARTIES
+
+          1.    OTR is a Virginia limited liability company with its principal place of business in
+
+Roswell, Georgia.
+
+          2.    Triumph is a Delaware limited liability company with its principal place of business
+
+in Dallas, Texas.
+
+                                         JURISDICTION
+
+          3.    On July 24, 2023, Surge Transportation, Inc. (“Surge”) filed a voluntary petition
+
+under Chapter 11, Title 11 of the United States Code § 101, et seq. (the “Bankruptcy Code”), in
+               Case 3:23-ap-00080-JAB          Doc 1    Filed 09/13/23    Page 2 of 7
+
+
+
+
+the United States Bankruptcy Court for the Middle District of Florida, Jacksonville Division (the
+
+“Bankruptcy Court”).
+
+         4.     This adversary proceeding seeks an adjudication of competing ownership claims
+
+between non-debtors to property that OTR contends is not the property of the bankruptcy estate.
+
+         5.     As such, this is a non-core matter pursuant to 28 U.S.C. § 157.
+
+         6.     The bankruptcy court has jurisdiction over this matter pursuant to 28 U.S.C. §
+
+1334(b) as a matter related to a case under title 11.
+
+         7.     Venue is proper pursuant to 28 U.S.C. § 1409.
+
+         8.     OTR does not consent to the entry of final orders or judgment by the bankruptcy
+
+court.
+
+                                  FACTUAL BACKGROUND
+
+         9.     This matter arises from the failure of a freight broker and the shippers and/or
+
+consignees to pay interstate motor carrier freight charges.
+
+         10.    OTR is a factor that receives assignments of unpaid freight charges in exchange for
+
+paying motor carriers their freight charges.
+
+         11.    Within the course of OTR’s business, OTR has been assigned the rights to collect
+
+over $625,000 in unpaid freight charges for the transportation services rendered by over 320 motor
+
+carriers (the “Motor Carriers”) for prepetition shipments of freight brokered by Surge.
+
+                       Origin of the Freight Charges at Issue in the Case
+
+         12.    Surge is or was a federally license freight broker engaged in the business of
+
+arranging for the transportation of its customers’ freight via motor carriers.
+
+         13.    Surge was hired by its customers (who were generally shippers and/or consignees)
+
+(the “Shippers”) to arrange the logistics of the shipments of freight on behalf of the Shippers.
+
+
+
+                                                  2
+             Case 3:23-ap-00080-JAB           Doc 1   Filed 09/13/23      Page 3 of 7
+
+
+
+
+       14.     Upon information and belief, the Shippers and Surge entered into written and/or
+
+oral agreements governing their relationships (the “Broker-Shipper Agreements”).
+
+       15.     The Shippers conferred to Surge the authority to select the Motor Carriers and bind
+
+the Shippers to the terms of the shipments.
+
+       16.     Surge selected the Motor Carriers to actually transport the shipments.
+
+       17.     Upon information and belief, the Motor Carriers entered into written agreements
+
+with Surge governing their relationships (the “Broker-Carrier Agreements”).
+
+       18.     Surge negotiated with the Motor Carriers to establish the rates for the shipments on
+
+behalf of the Shippers.
+
+       19.     Bills of lading were executed for each of the shipments identifying the respective
+
+shippers, consignees, and Motor Carriers for each of the shipments brokered by Surge.
+
+       20.     The Motor Carriers transported the shipments of freight.
+
+       21.     Pursuant to the Broker-Carrier Agreements, the Motor Carriers submitted their
+
+invoices for the freight and related charges for the shipments directly to Surge.
+
+       22.     For its brokerage services, Surge was entitled to a commission or markup for each
+
+shipment (the “Commissions”).
+
+       23.     The Commissions were independent and separate from the freight charges owed to
+
+the Motor Carriers.
+
+       24.     As a contractual condition, in exchange for Surge paying the Motor Carriers, the
+
+Motor Carriers agreed to submit invoices for the freight charges due from the Shippers to Surge
+
+and that Surge would invoice the freight charges together with Surge’s Commissions in one bill.
+
+       25.     The Motor Carriers did not waive any rights to collect freight charges from the
+
+Shippers in the event that Surge failed to pay the freight charges owed to the Motor Carriers.
+
+
+
+                                                 3
+             Case 3:23-ap-00080-JAB         Doc 1     Filed 09/13/23    Page 4 of 7
+
+
+
+
+       26.     The terms of the Broker-Carrier Agreements vary among the Motor Carriers, but
+
+the Broker-Carrier Agreements incorporate the terms of the standard truckload bill of lading and/or
+
+uniform bill of lading.
+
+       27.     The Motor Carriers reasonably believed that Surge intended to pay the Motor
+
+Carriers their freight charges when the Motor Carriers agreed to the terms of the Broker-Carrier
+
+Agreements and when the Motor Carriers accepted shipments for the benefit of Surge and the
+
+Shippers.
+
+       28.     The Motor Carriers would not have entered the Broker-Carrier Agreements or
+
+performed the transportation services for the Shippers’ benefit if the Motor Carriers believed that
+
+Surge did not intend to pay the Motor Carriers their freight charges.
+
+       29.     The Motor Carriers performed the transportation services required for each of the
+
+shipments but were not paid by Surge or the Shippers.
+
+                                    Triumph’s Involvement
+
+       30.     Triumph is a factoring company that factors both motor carrier and freight broker
+
+receivables including factoring some of Surge’s brokerage receivables and factoring some of the
+
+motor carrier freight charge receivables for shipments brokered by Surge.
+
+       31.     As security for factoring Surge’s freight broker receivables, Triumph received
+
+assignments of Surge’s claims for the factored shipments and was granted a first-priority security
+
+interest in all of Surge’s other assets—including receivables not factored by Triumph.
+
+       32.     In exchange for factoring Surge’s freight broker receivables, Triumph’s contract
+
+with Surge allowed Triumph to retain factoring and associated fees.
+
+       33.     While Triumph was aware that the freight charge portion of invoices issued by
+
+Surge to its customers belonged to motor carriers, like those that Triumph also factored, Triumph
+
+
+
+                                                 4
+              Case 3:23-ap-00080-JAB          Doc 1     Filed 09/13/23      Page 5 of 7
+
+
+
+
+factored the entirety of Surge’s invoices and failed to ensure that all carriers were paid their freight
+
+charges before Surge applied the factored funds elsewhere.
+
+        34.     After Surge filed bankruptcy, Triumph reported that it was owed $7,974,276,01 in
+
+unpaid debt associated with its factoring of Surge’s freight broker receivables.
+
+        35.     Triumph claims ownership of all portions of Surge’s prepetition receivables,
+
+including the freight charges owned by the Motor Carriers for shipments that were never factored
+
+by Triumph, and has instructed Shippers to not pay OTR or the Motor Carriers the freight charges
+
+rightfully owed for the motor carrier services performed on the brokered shipments.
+
+        36.     Triumph’s actions of dominion over OTRs property have impaired and continue to
+
+impair OTR’s rights to the freight charges it is owed as the assignee of the Motor Carriers.
+
+        37.     Upon information and belief, Triumph has and continues to collect prepetition
+
+freight charges from Shippers, for shipments transported by the Motor Carriers, and without paying
+
+the freight charges owed to OTR for the Motor Carriers’ services.
+
+              Procedure for Contesting Ownership of Prepetition Freight Charges
+
+        38.     On August 29, 2023, the Bankruptcy Court entered a Final Order Approving
+
+Debtor-in-Possession Financing and Pre-Petition Factoring and Security Agreement with
+
+Triumph Financial Services LLC (Dkt. 112) (the “DIP Order”).
+
+        39.     While the DIP Order did not adjudicate any ownership of prepetition freight
+
+charges, the DIP Order required any party-in-interest, like OTR, to commence a proceeding
+
+“contesting, or otherwise seeking a declaration of Triumph’s ownership interest in any prepetition
+
+Purchased Accounts, the validity, enforceability, priority of the liens and security interest granted
+
+to Triumph in the prepetition Collateral, including non-Purchased Accounts,” within 60 days of
+
+entry of the DIP Order. (Dkt 112 at ¶ 24).
+
+
+
+                                                   5
+                 Case 3:23-ap-00080-JAB          Doc 1     Filed 09/13/23       Page 6 of 7
+
+
+
+
+          40.      This Adversary Proceeding was filed within 60 days of the DIP Order.
+
+                                 COUNT I:
+           DECLARATION OF RIGHTS TO PREPETITION FREIGHT CHARGES
+
+          41.      OTR hereby incorporates the preceding paragraphs as if set forth fully at length
+
+herein.
+
+          42.      Pursuant to 28 U.S.C. § 2201, OTR requests a declaration of OTR’s and Triumph’s
+
+respective rights, interests, and ownership of prepetition freight charges on shipments brokered by
+
+Surge and transported by the Motor Carriers.
+
+          WHEREFORE, OTR Capital, LLC respectfully requests that judgment be entered in its
+
+favor by the district court pursuant to 28 U.S.C. §§ 2201 and 2202 declaring the rights and other
+
+legal relations of the parties, awarding costs, attorneys’ fees, and interest to OTR Capital, LLC,
+
+and specifically declaring:
+
+          (1) OTR Capital, LLC is the sole owner of the rights and interests to the freight charges
+
+                owed for the transportation services rendered by its assignor motor carriers;
+
+          (2) OTR Capital, LLC may lawfully pursue collection of the unpaid freight charges from
+
+                the shippers and/or consignees stated on the bills of lading;
+
+          (3) Triumph Financial Services LLC does not own the rights and interests to the freight
+
+                charges owed for the transportation services rendered by OTR Capital, LLC’s assignor
+
+                motor carriers which remain unpaid to OTR Capital, LLC;
+
+          (4) The portion of any receivables collected by Triumph Financial Services LLC, for itself
+
+                and/or Surge Transportation, Inc., which are for the freight charges owed for the
+
+                transportation services rendered by OTR Capital, LLC’s assignor motor carriers which
+
+                remain unpaid to OTR Capital, LLC are property of OTR Capital, LLC held in trust for
+
+                the benefit of OTR Capital, LLC; and
+
+                                                      6
+           Case 3:23-ap-00080-JAB         Doc 1       Filed 09/13/23   Page 7 of 7
+
+
+
+
+      (5) Triumph Financial Services LLC must make an accounting of all freight charges in its
+
+          possession and/or which have been collected or otherwise held by Triumph Financial
+
+          Services LLC and/or its affiliates, which are owed to OTR Capital, LLC and pay those
+
+          amounts to OTR Capital, LLC within 30 days; and
+
+      (6) Such other award as the court deems just.
+
+Dated: September 13, 2023
+                                           COHEN & PALOMBO P.C.
+
+                                           /s/ Jeffrey D. Cohen
+                                           Jeffrey D. Cohen (pro hac vice)
+                                           Timothy L. Frey (pro hac vice)
+                                           The Times Building
+                                           32 Parking Plaza, Suite 402
+                                           Ardmore, PA 19003
+                                           Telephone: 215-609-1110
+                                           Facsimile: 215-609-1117
+                                           jcohen@freightlaw.net
+                                           tfrey@freightlaw.net
+
+                                           Attorneys for OTR Capital, LLC
+
+
+
+
+                                              7
+

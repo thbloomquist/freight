@@ -1,0 +1,395 @@
+United States Bankruptcy Court for the District of Delaware
+
+                                                                                                     For Court Use Only
+ Name of Debtor: YRC Inc.                                                                            Claim Number:        0000017019
+
+ Case Number:          23-11087                                                                      File Date:           11/10/2023 14:49:02
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 MODE Transportation, LLC
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+              MODE Transportation, LLC                                                         MODE Transportation, LLC
+Name         ________________________________________________________              Name        ________________________________________________________
+               Attn: Legal Department                                                          Lockbox 654371
+Address       _______________________________________________________              Address     _______________________________________________________
+               14785 Preston Road, Suite 850                                                    2701 East Grauwyler Road
+              _______________________________________________________                           _______________________________________________________
+                                                                                                Building 1
+              _______________________________________________________                           _______________________________________________________
+              Dallas                                                                            Irving
+City          _______________________________________________________              City         _______________________________________________________
+               TX                                   75254                                       TX                                75061
+State         ______________________      ZIP Code _______________________         State        ______________________ ZIP Code _______________________
+                            United States                                                                      United States
+Country (if International): __________________________________________             Country (if International): __________________________________________
+
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              legal@modeglobal.com                                                             legal@modeglobal.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           549,730.86
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □ No
+                                                □✔ Yes. Attach statement itemizing interest, fees,      Other Basis
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by         Transportation services
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □
+                                                                                                                    ✔ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Y. Gio Rodriguez                                                               11/10/2023 14:49:02
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      Yosvany Rodriguez
+                            Name      ______________________________________________________________________________________________
+                                    14785 Preston Road, Suite 850
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Dallas
+                            City      _____________________________________________________________________________________________
+                                      TX                                                    75254
+                            State     ________________________________________________ Zip _________________________________________
+                                                        United States
+                            Country (in international) _______________________________________________________________________________
+
+                            Phone     _____________________________________________________________________________________________
+                                       gio.rodriguez@modeglobal.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+                                              Statement Of Account
+                                                       as of November 10, 2023
+Terms:                      Net 30
+Annual Interest Rate:                        18%
+Signed Agreement on File:                     No
+
+Prepared for:
+                                        YRC REVERSE LOGISTICS
+                                      10990 ROE AVE, PO BOX 7270
+                                       OVERLAND PARK, KS 66211
+
+
+
+                                                       Original      Open
+        Invoice #           Invoice Date     Age       Amount       Balance    Interest   Total Due
+       4360226559            7/18/2023       105      $3,698.75     $745.09     $27.55     $772.64
+       4360226558            7/18/2023       105      $3,698.75    $3,698.75   $136.76    $3,835.51
+       4360226552            7/18/2023       105      $2,199.08    $2,199.08    $81.31    $2,280.39
+       4360226908            7/18/2023       105      $2,199.08    $2,199.08    $81.31    $2,280.39
+       4360226550            7/18/2023       105      $2,199.08    $2,199.08    $81.31    $2,280.39
+       4360226897            7/18/2023       105      $1,950.25    $1,950.25    $72.11    $2,022.36
+       4360226898            7/18/2023       105      $1,950.25    $1,950.25    $72.11    $2,022.36
+       4360226899            7/18/2023       105      $1,950.25    $1,950.25    $72.11    $2,022.36
+       4360226896            7/18/2023       105      $1,950.25    $1,950.25    $72.11    $2,022.36
+       4360226907            7/20/2023       103      $3,698.75    $3,698.75   $133.11    $3,831.86
+       4360227169            7/20/2023       103      $2,190.90    $2,190.90    $78.85    $2,269.75
+       4360226905            7/20/2023       103      $3,698.75    $3,698.75   $133.11    $3,831.86
+       4360227175            7/20/2023       103      $3,685.00    $3,685.00   $132.62    $3,817.62
+       4360226909            7/20/2023       103      $2,199.08    $2,199.08    $79.14    $2,278.22
+       4360226900            7/20/2023       103      $3,698.75    $3,698.75   $133.11    $3,831.86
+       4360226904            7/20/2023       103      $3,698.75    $3,698.75   $133.11    $3,831.86
+       4360227170            7/20/2023       103      $2,190.90    $2,190.90    $78.85    $2,269.75
+       4360226901            7/20/2023       103      $3,698.75    $3,698.75   $133.11    $3,831.86
+       4360226549            7/20/2023       103      $2,199.08    $2,199.08    $79.14    $2,278.22
+       4360227166            7/20/2023       103      $1,943.00    $1,943.00    $69.93    $2,012.93
+       4360227173            7/20/2023       103      $2,190.90    $2,190.90    $78.85    $2,269.75
+       4360227168            7/20/2023       103      $1,943.00    $1,943.00    $69.93    $2,012.93
+       4360226902            7/20/2023       103      $3,698.75    $3,698.75   $133.11    $3,831.86
+       4360226906            7/20/2023       103      $3,698.75    $3,698.75   $133.11    $3,831.86
+       4360227182            7/28/2023        95      $3,685.00    $3,685.00   $118.09    $3,803.09
+                                   Original     Open
+ Invoice #   Invoice Date   Age    Amount      Balance    Interest   Total Due
+4360226184    7/28/2023      95   $2,199.08   $2,199.08    $70.47    $2,269.55
+4360227180    7/28/2023      95   $3,685.00   $3,685.00   $118.09    $3,803.09
+4360227451    7/28/2023      95   $3,685.00   $3,685.00   $118.09    $3,803.09
+4360227179    7/28/2023      95   $3,685.00   $3,685.00   $118.09    $3,803.09
+4360225690    7/28/2023      95   $2,199.08   $2,199.08    $70.47    $2,269.55
+4360227177    7/28/2023      95   $3,685.00   $3,685.00   $118.09    $3,803.09
+4360227174    7/28/2023      95   $3,685.00   $3,685.00   $118.09    $3,803.09
+4360227176    7/28/2023      95   $3,685.00   $3,685.00   $118.09    $3,803.09
+4360227171    7/28/2023      95   $2,190.90   $2,190.90    $70.21    $2,261.11
+4360227172    7/28/2023      95   $2,190.90   $2,190.90    $70.21    $2,261.11
+4360227178    7/28/2023      95   $3,685.00   $3,685.00   $118.09    $3,803.09
+4360227476    7/28/2023      95   $1,950.25   $1,950.25    $62.50    $2,012.75
+4360227477    7/28/2023      95   $1,950.25   $1,950.25    $62.50    $2,012.75
+4360227478    7/28/2023      95   $1,950.25   $1,950.25    $62.50    $2,012.75
+4360227490     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360227487     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360227747     8/3/2023      89   $1,950.25   $1,950.25    $56.73    $2,006.98
+4360227185     8/3/2023      89   $3,685.00   $3,685.00   $107.19    $3,792.19
+4360227391     8/3/2023      89   $2,199.08   $2,199.08    $63.96    $2,263.04
+4360227183     8/3/2023      89   $3,685.00   $3,685.00   $107.19    $3,792.19
+4360227751     8/3/2023      89   $2,199.08   $2,199.08    $63.96    $2,263.04
+4360227746     8/3/2023      89   $1,950.25   $1,950.25    $56.73    $2,006.98
+4360227181     8/3/2023      89   $3,685.00   $3,685.00   $107.19    $3,792.19
+4360227488     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360227481     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360227184     8/3/2023      89   $3,685.00   $3,685.00   $107.19    $3,792.19
+4360227485     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360227392     8/3/2023      89   $2,199.08   $2,199.08    $63.96    $2,263.04
+4360227796     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360227749     8/3/2023      89   $1,950.25   $1,950.25    $56.73    $2,006.98
+4360227393     8/3/2023      89   $2,199.08   $2,199.08    $63.96    $2,263.04
+4360227493     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360227483     8/3/2023      89   $3,698.75   $3,698.75   $107.59    $3,806.34
+4360228028     8/7/2023      85    $450.00     $450.00     $12.20     $462.20
+4360228015     8/7/2023      85    $450.00     $450.00     $12.20     $462.20
+4360227759    8/11/2023      81   $2,199.08   $2,199.08    $55.29    $2,254.37
+4360227799    8/11/2023      81   $3,698.75   $3,698.75    $93.00    $3,791.75
+4360227756    8/11/2023      81   $2,199.08   $2,199.08    $55.29    $2,254.37
+4360227697    8/11/2023      81   $3,900.00   $3,900.00    $98.06    $3,998.06
+4360227798    8/11/2023      81   $3,698.75   $3,698.75    $93.00    $3,791.75
+4360227486    8/11/2023      81   $3,698.75   $3,698.75    $93.00    $3,791.75
+4360227489    8/11/2023      81   $3,698.75   $3,698.75    $93.00    $3,791.75
+4360227761    8/11/2023      81   $2,199.08   $2,199.08    $55.29    $2,254.37
+4360227492    8/11/2023      81   $3,698.75   $3,698.75    $93.00    $3,791.75
+4360227753    8/11/2023      81   $2,199.08   $2,199.08    $55.29    $2,254.37
+                                   Original      Open
+ Invoice #   Invoice Date   Age    Amount       Balance     Interest   Total Due
+4360227696    8/11/2023      81   $3,900.00    $3,900.00     $98.06    $3,998.06
+4360227800    8/11/2023      81   $3,698.75    $3,698.75     $93.00    $3,791.75
+4360227491    8/11/2023      81   $3,698.75    $3,698.75     $93.00    $3,791.75
+4360227802    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360227803    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360227801    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360227805    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360227480    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360228014    8/17/2023      75   $3,740.00    $3,740.00     $82.97    $3,822.97
+4360227804    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360228012    8/17/2023      75   $3,740.00    $3,740.00     $82.97    $3,822.97
+4360228011    8/17/2023      75   $3,740.00    $3,740.00     $82.97    $3,822.97
+4360227806    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360227698    8/17/2023      75   $3,900.00    $3,900.00     $86.52    $3,986.52
+4360227389    8/17/2023      75   $2,199.08    $2,199.08     $48.79    $2,247.87
+4360227797    8/17/2023      75   $3,698.75    $3,698.75     $82.06    $3,780.81
+4360228013    8/25/2023      67   $3,740.00    $3,740.00     $68.22    $3,808.22
+4360227748    8/25/2023      67   $1,950.25    $1,950.25     $35.57    $1,985.82
+4360228009    8/25/2023      67   $3,740.00    $3,740.00     $68.22    $3,808.22
+4360228002    8/31/2023      61   $2,223.60    $2,223.60     $33.98    $2,257.58
+4360228010    8/31/2023      61   $3,740.00    $3,740.00     $57.16    $3,797.16
+                                              $272,053.47   $7,821.29 $279,874.76
+                                                                         MODE
+                        MODE Claim             Date Claim
+Business Division                  Load Number              Date of Loss Claim Filing Filed Amount
+                        Number                 Received
+                                                                         Date
+MODE Transportation LLC 7900579797 7900579797     4/15/2022 3/7/2022     4/15/2022         4,848.48
+MODE Transportation LLC 9410047812 9410047812      6/6/2022 6/2/2022     6/6/2022          2,393.62
+Sunteck Transport Co. LLC 11106302    11106302    6/15/2022 3/31/2022 6/15/2022              226.80
+MODE Transportation LLC 7900625892 7900625892     7/20/2022 6/21/2022 7/20/2022            2,099.38
+MODE Transportation LLC 9180133767 9180133767      8/2/2022 7/20/2022 8/2/2022             3,348.00
+MODE Transportation LLC 1760231237 1760231237     9/12/2022 7/7/2022     9/12/2022           691.00
+MODE Transportation LLC 2930158273 2930158273     9/21/2022 7/13/2022 9/21/2022            5,021.81
+TTS LLC                   11552553    11552553    9/29/2022 9/20/2022 9/29/2022            6,729.20
+MODE Transportation LLC 2650034216 2650034216     9/29/2022 9/22/2022 9/29/2022              253.62
+MODE Transportation LLC 2930161341 2930161341    10/20/2022 9/22/2022 10/20/2022           6,975.50
+Sunteck Transport Co. LLC 11577754    11577754   10/21/2022 10/12/2022 10/21/2022         14,349.60
+TTS LLC                   11673609    11673609   11/11/2022 10/24/2022 11/11/2022          3,807.40
+Avenger Logistics         11713211    11713211   11/29/2022 11/9/2022 11/29/2022           4,250.00
+Sunteck Transport Co. LLC 11736076    11736076   12/13/2022 11/15/2022                     2,259.00
+MODE Transportation LLC 7900665665 7900665665    12/14/2022 12/8/2022 12/21/2022           2,570.00
+MODE Transportation LLC 7291354366 7291354366    12/15/2022 11/1/2022 1/10/2023           23,420.40
+MODE Transportation LLC CA‐23‐00047 4260146952    1/20/2023 1/9/2023     2/1/2023          1,160.24
+Sunteck Transport Co. LLC CA‐23‐00068 11884451    1/24/2023 1/19/2023 4/1/2023             1,314.75
+Sunteck Transport Co. LLC CA‐23‐00103 11829902    1/26/2023 1/25/2023 2/24/2023            2,883.36
+Sunteck Transport Co. LLC CA‐23‐00124 11860865    1/31/2023 1/10/2023 2/1/2023             1,413.60
+Sunteck Transport Co. LLC CA‐23‐00125 11899605    1/31/2023 1/23/2023                        127.50
+MODE Transportation LLC CA‐23‐00286 7900680810    2/17/2023 1/12/2023 2/28/2023           18,638.48
+Sunteck Transport Co. LLC CA‐22‐00357 11822967    2/27/2023 12/30/2022 4/18/2023             609.02
+Sunteck Transport Co. LLC CA‐23‐00419 11956801     3/7/2023 2/13/2023 4/19/2023            1,042.27
+MODE Transportation LLC CA‐23‐00441 1440010181‐1   3/9/2023 3/8/2023     3/10/2023           148.00
+MODE Transportation LLC CA‐23‐00573 7900691686    3/23/2023 3/23/2023 3/31/2023              660.00
+Sunteck Transport Co. LLC CA‐23‐00689 12032677     4/6/2023 3/27/2023 4/21/2023            1,024.66
+MODE Transportation LLC CA‐23‐00723 7900697718    4/10/2023 4/10/2023 4/14/2023            1,229.00
+MODE Transportation LLC CA‐23‐00740 1440010388    4/13/2023 4/12/2023 4/20/2023              140.00
+MODE Transportation LLC CA‐23‐00834 9180142885    4/25/2023 4/24/2023 4/26/2023            1,320.00
+MODE Transportation LLC CA‐23‐00836 8211231764    4/25/2023 4/5/2023     4/25/2023        19,016.25
+MODE Transportation LLC CA‐23‐00910 7291393034     5/2/2023 4/12/2023 5/4/2023               400.08
+MODE Transportation LLC CA‐23‐00925 9180141878     5/3/2023 5/3/2023     3/30/2023         1,537.15
+Sunteck Transport Co. LLC CA‐23‐00983 12169561     5/9/2023 5/8/2023                         735.00
+MODE Transportation LLC CA‐23‐00994 7900707001    5/10/2023 5/10/2023 6/7/2023             2,848.50
+Sunteck Transport Co. LLC CA‐23‐01005 12119403    5/11/2023 4/18/2023 5/12/2023            2,340.77
+Sunteck Transport Co. LLC CA‐23‐01027 12140882    5/12/2023 4/19/2023                      2,664.00
+MODE Transportation LLC CA‐23‐01041 7900701463    5/15/2023 4/19/2023 5/25/2023            2,021.76
+MODE Transportation LLC CA‐23‐01082 7900711324    5/18/2023 5/16/2023 5/18/2023            1,177.80
+MODE Transportation LLC CA‐23‐01093 9130159730    5/19/2023 2/17/2023 5/25/2023              563.67
+Avenger Logistics         CA‐23‐01104 12202433    5/22/2023 5/10/2023 5/23/2023              460.20
+MODE Transportation LLC CA‐23‐01130 7291387144    5/23/2023 4/5/2023     5/26/2023         2,941.00
+Sunteck Transport Co. LLC CA‐23‐01136 12222637    5/24/2023 5/23/2023                        200.00
+Sunteck Transport Co. LLC CA‐23‐01139 12149197    5/24/2023 5/9/2023     5/26/2023        12,480.00
+MODE Transportation LLC     CA‐23‐01157 7900707935    5/25/2023 4/26/2023   6/2/2023         786.50
+MODE Transportation LLC     CA‐23‐01201 9180143829     6/1/2023 5/26/2023   6/6/2023         190.15
+MODE Transportation LLC     CA‐23‐01211 7900712615     6/1/2023 5/15/2023   6/2/2023         646.74
+Sunteck Transport Co. LLC   CA‐23‐01221 12201428       6/2/2023 5/10/2023                    191.00
+MODE Transportation LLC     CA‐23‐01242 3280134491     6/6/2023 6/5/2023    6/8/2023         433.12
+MODE Transportation LLC     CA‐23‐01245 9410065341     6/6/2023 6/2/2023    6/23/2023      1,406.53
+MODE Transportation LLC     CA‐23‐01262 1760248811     6/7/2023 5/2/2023    6/8/2023       3,825.00
+MODE Transportation LLC     CA‐23‐01307 7900703687    6/13/2023 4/10/2023   6/19/2023        737.00
+MODE Transportation LLC     CA‐23‐01301 7900717093    6/13/2023 6/13/2023   6/14/2023        912.00
+Sunteck Transport Co. LLC   CA‐23‐01337 12289676      6/16/2023 6/15/2023   6/19/2023        155.00
+Sunteck Transport Co. LLC   CA‐23‐01336 12287092      6/16/2023 6/8/2023    6/27/2023      3,115.30
+MODE Transportation LLC     CA‐23‐01357 5200116441    6/19/2023 6/16/2023                    500.00
+MODE Transportation LLC     CA‐23‐01352 7900718642    6/19/2023 6/14/2023   6/20/2023        661.00
+MODE Transportation LLC     CA‐23‐01373 7291387129    6/21/2023 6/14/2023   6/21/2023      1,871.58
+MODE Transportation LLC     CA‐23‐01393 7900718926    6/22/2023 6/6/2023    9/14/2023        206.00
+MODE Transportation LLC     CA‐23‐01402 7730040209    6/23/2023 5/18/2023   6/26/2023        685.63
+Sunteck Transport Co. LLC   CA‐23‐01401 12098984      6/23/2023 4/12/2023                    720.00
+MODE Transportation LLC     CA‐23‐01423 5310579159    6/26/2023 5/30/2023   7/24/2023     21,898.40
+Sunteck Transport Co. LLC   CA‐23‐01428 12279026      6/27/2023 6/16/2023   6/28/2023      2,700.00
+MODE Transportation LLC     CA‐23‐01457 4260150906    6/29/2023 6/28/2023   7/26/2023      2,028.00
+MODE Transportation LLC     CA‐23‐01483 7900720289    6/30/2023 6/30/2023   6/30/2023        785.00
+Sunteck Transport Co. LLC   CA‐23‐01520 12321085       7/6/2023 6/29/2023   7/10/2023        147.54
+Sunteck Transport Co. LLC   CA‐23‐01540 12310242      7/10/2023 7/10/2023                    210.00
+MODE Transportation LLC     CA‐23‐01561 7291411606    7/11/2023 6/27/2023   7/12/2023      4,065.60
+Sunteck Transport Co. LLC   CA‐23‐01566 12359130      7/12/2023 7/11/2023   7/20/2023         47.30
+MODE Transportation LLC     CA‐23‐01564 7291411688    7/12/2023 7/12/2023   7/21/2023      1,089.00
+Sunteck Transport Co. LLC   CA‐23‐01573 12353253      7/13/2023 7/13/2023   7/14/2023        114.40
+MODE Transportation LLC     CA‐23‐01614 7900707061    7/18/2023 7/16/2023   9/26/2023        103.11
+MODE Transportation LLC     CA‐23‐01608 7900712401    7/18/2023 7/18/2023   7/24/2023        333.40
+MODE Transportation LLC     CA‐23‐01609 7900696602    7/18/2023 7/18/2023   7/19/2023        475.44
+Sunteck Transport Co. LLC   CA‐23‐01623 12253082      7/19/2023 7/18/2023   7/19/2023      2,461.50
+TTS LLC                     CA‐23‐01635 12341260      7/20/2023 7/19/2023                    551.25
+MODE Transportation LLC     CA‐23‐01693 7900727480    7/26/2023 7/26/2023   7/27/2023      1,569.00
+MODE Transportation LLC     CA‐23‐01712 7900688237    7/27/2023 2/10/2023   7/28/2023        356.51
+Sunteck Transport Co. LLC   CA‐23‐01736 12375990      7/31/2023 7/27/2023   8/11/2023      1,297.29
+MODE Transportation LLC     CA‐23‐01786 2430022453     8/3/2023 7/26/2023   8/4/2023      17,742.86
+Sunteck Transport Co. LLC   CA‐23‐01777 12301461       8/3/2023 6/26/2023   8/3/2023       2,681.60
+MODE Transportation LLC     CA‐23‐01823 5310586665     8/8/2023 6/26/2023   8/10/2023     26,335.50
+MODE Transportation LLC     CA‐23‐01915 9180144784    8/17/2023 8/16/2023   8/17/2023        410.40
+MODE Transportation LLC     CA‐23‐02045 7900725015    8/31/2023 7/5/2023    8/31/2023      3,569.00
+Sunteck Transport Co. LLC   CA‐23‐02117 12339526       9/8/2023 6/30/2023   9/8/2023         400.00
+MODE Transportation LLC     CA‐23‐02548 9130168479   10/17/2023 7/14/2023   10/16/2023       933.75
+                                                                                       $ 269,856.10
+

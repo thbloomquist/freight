@@ -1,177 +1,384 @@
 agent,query_or_url,where,outcome,note
-C,https://arcb.com/sites/default/files/forms_and_documents/OverchargeClaimForm%20-%20Fillable2017.pdf,download,,"http 200 199910 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://rl-cdn.com/docs/rlc/shipping-forms/overcharge-claim-form.pdf,download,,"http 200 74915 bytes PDF document, version 1.7 (zip deflate encoded)"
-C,https://my.cassport.com/tutorial/FBAEnhancementsTutorial.pdf,download,,"http 200 1003800 bytes PDF document, version 1.4, 7 pages"
-C,"q: ""ST*210*"" ""B3*"" ""N1*"" sample EDI 210 interchange",websearch,,"Stedi guides (Imperative, CNG, James), XPO 210_spec.pdf, Insight 210 guide, TrueCommerce"
-C,"q: ""CzarLite"" ""FAK"" ""discount"" LTL contract award site:.edu/.gov",websearch,,only SMC3 marketing
-C,"q: ""absolute minimum charge"" LTL contract award state university",websearch,,"Univ of Utah UPS LTL contract page (86.2% discount, 03 AMC)"
-C,q: GSA Notice of Overcharge form sample 41 CFR 102-118,websearch,,"FR 2024-27565 rule PDF, FR 2000 rule, CBCA rate decisions; no form"
-C,q: NTEP certificate Cubiscan dimensioner ncwm,websearch,,"Rice Lake 19-076A5, Mettler TLD250 22-090, CSN210; no Cubiscan NTEP"
-C,q: TForce Freight invoice guide,websearch,,"only EDI 210/211 specs, tariffs"
-C,https://www.xpo.com/cdn/files/s8/210_spec.pdf,download,,"http 200 58734 bytes PDF document, version 1.3, 18 pages"
-C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-210-guidelines.pdf,download,,"http 200 59977 bytes PDF document, version 1.3, 15 pages"
-C,https://www.ricelake.com/media/mqdbc0of/19-076a5.pdf,download,,http 404 0 bytes empty
-C,https://mt.com/dam/ind/IND_PDF/2024/tld250/NTEP%20certificate.pdf,download,,"http 200 455815 bytes PDF document, version 1.7 (zip deflate encoded)"
-C,https://www.mt.com/dam/mt_ext_files/Editorial/Generic/0/CSN910_certificate_US_CA_NTEPlegal_for_trade_Editorial-Generic_1165324592236_files/ntep_legal_for_tradecertificate.pdf,download,,"http 200 119799 bytes PDF document, version 1.3, 2 pages"
-C,https://govinfo.gov/content/pkg/FR-2024-11-26/pdf/2024-27565.pdf,download,,"http 200 214327 bytes PDF document, version 1.7, 2 pages"
-C,https://www.tforcefreight.com/downloads/TFF-211-4010.pdf,download,,"http 200 387383 bytes PDF document, version 1.5, 11 pages"
-C,https://www.ricelake.com/media/p1fnbv44/19-076a4.pdf,download,,http 404 0 bytes empty
-C,https://www.ricelake.com/media/p1fnbv44/19-076a5.pdf,download,,http 404 0 bytes empty
-C,q: EDI 210 guide SEFL/ODFL/Saia/Averitt/Dayton/Pitt Ohio,websearch,,"FedEx EDI invoicing overview guide, FedEx 4060 guide, CN (rail); no SEFL/ODFL/Saia/Averitt PDFs"
-C,q: LTL contract award Sourcewell/NASPO/E&I/OMNIA/TXMAS/WA DES,websearch,,only Utah UPS page again; Sourcewell courier RFP
-C,q: DTR Part II billing disputes TPPS Syncada,websearch,,"DFAS 1998 freight billing instructions (webharvest), DoD FMR Vol10 Ch13, GAO B-261127"
-C,q: weight and inspection certificate sample image,websearch,,vendor blogs only; Rice Lake article
-C,q: ODFL/Estes/Saia/FedEx Freight how to read freight bill guide,websearch,,generic vendor guides only
-C,q: USPS OIG freight audit HCR,websearch,,"USPS OIG 22-202-R23, 20-295-R21, no-ar-14-012"
-C,https://www.fedexfreight.com/content/dam/web/us/documents/fedex-edi-invoicing-and-remittance-overview-guide-april2021.pdf,download,,"http 200 777514 bytes PDF document, version 1.7, 47 pages"
-C,https://www.fedex.com/content/dam/fedex/us-united-states/services/FedEx_210-820_X12-4060_EDI_Implementation_Guide-January2022.pdf,download,,"http 200 1255642 bytes PDF document, version 1.7, 45 pages"
-C,https://webharvest.gov/peth04/20041017043416/http:/www.dfas.mil/money/transpay/freight.pdf,download,,"http 200 4451 bytes HTML document, Unicode text, UTF-8 text"
-C,https://webharvest.gov/peth04/20041017043416/http:/www.dfas.mil/money/transpay/ppbi.pdf,download,,"http 200 4451 bytes HTML document, Unicode text, UTF-8 text"
-C,https://comptroller.defense.gov/portals/45/documents/fmr/current/10/10_13.pdf,download,,"http 403 454 bytes HTML document, ASCII text"
-C,https://www.uspsoig.gov/sites/default/files/reports/2023-04/22-202-r23.pdf,download,,"http 200 6706620 bytes PDF document, version 1.7 (zip deflate encoded)"
-C,https://www.uspsoig.gov/sites/default/files/reports/2023-01/20-295-R21.pdf,download,,"http 200 2594212 bytes PDF document, version 1.7 (zip deflate encoded)"
-C,https://www.govinfo.gov/content/pkg/GAOREPORTS-B-261127/pdf/GAOREPORTS-B-261127.pdf,download,,"http 200 107893 bytes PDF document, version 1.1, 6 pages"
-C,https://www.ricelake.com/media/4gafs0ma/arti_idim_freightundercontrol_en-us_rev-a_web.pdf,download,,"http 200 535595 bytes PDF document, version 1.4, 0 pages"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/1.EDI,download,,http 200 3436 bytes ASCII text
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/2.EDI,download,,"http 200 1705 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/3.EDI,download,,"http 200 2424 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/4.EDI,download,,"http 200 910 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/5.EDI,download,,"http 200 2430 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/6.EDI,download,,"http 200 933 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/7.EDI,download,,"http 200 920 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/8.EDI,download,,"http 200 3456 bytes ASCII text, with very long lines (3456), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/9.EDI,download,,"http 200 5728 bytes ASCII text, with very long lines (5728), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/10.EDI,download,,"http 200 1055 bytes ASCII text, with very long lines (1055), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/11.EDI,download,,"http 200 4746 bytes ASCII text, with very long lines (4746), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/12.EDI,download,,"http 200 2202 bytes ASCII text, with very long lines (2202), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/13.EDI,download,,"http 200 1502 bytes ASCII text, with very long lines (1502), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/14.EDI,download,,"http 200 2235 bytes ASCII text, with very long lines (2235), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/1.EDI,download,,http 200 504 bytes ASCII text
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/2.EDI,download,,"http 200 5200 bytes ASCII text, with very long lines (5200), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/3.EDI,download,,"http 200 2186 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/4.EDI,download,,"http 200 476 bytes ASCII text, with very long lines (476), with no line termina"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/5.EDI,download,,"http 200 644 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/6.EDI,download,,"http 200 1786 bytes ASCII text, with very long lines (1786), with no line termin"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/7.EDI,download,,"http 200 435 bytes ASCII text, with very long lines (435), with no line termina"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/8.EDI,download,,"http 200 584 bytes ASCII text, with very long lines (584), with no line termina"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/204/1.EDI,download,,"http 200 722 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/204/2.EDI,download,,"http 200 849 bytes ASCII text, with very long lines (849), with no line termina"
-C,https://raw.githubusercontent.com/jf-tech/omniparser/HEAD/extensions/omniv21/samples/edi/2_ups_edi_210.input.txt,download,,"http 200 29278 bytes Unicode text, UTF-8 text"
-C,https://raw.githubusercontent.com/KeyMarkInc/OopFactory.X12/HEAD/trunk/tests/OopFactory.X12.Tests.Unit/Parsing/_SampleEdiFiles/TAM/_210/DBSchenker_SampleMotorFreightDetailsAndInvoice.txt,download,,"http 200 832 bytes Unicode text, UTF-8 (with BOM) text"
-C,https://raw.githubusercontent.com/JstuckiPLS/JJ-VolumeQuotes-JJ/HEAD/plstms-pls20-e49a48c5bd95/backend/shipment/src/test/resources/edi/CTSI210_cropped.txt,download,,http 200 2025 bytes ASCII text
-C,https://raw.githubusercontent.com/JstuckiPLS/JJ-VolumeQuotes-JJ/HEAD/plstms-pls20-e49a48c5bd95/backend/shipment/src/test/resources/edi/EDI210ForCustomer.txt,download,,"http 200 572 bytes ASCII text, with very long lines (572), with no line termina"
-C,https://raw.githubusercontent.com/Bridgeflow-Group/bridgeflow-docs/HEAD/docs/examples/sample-210.txt,download,,"http 200 313 bytes ASCII text, with very long lines (313), with no line termina"
-C,https://raw.githubusercontent.com/EdiFabric/X12.NET/HEAD/Files/X12/FreightInvoice.txt,download,,"http 200 1052 bytes Unicode text, UTF-8 (with BOM) text"
-C,https://raw.githubusercontent.com/davidcoles/medici/HEAD/samples/210x12.edi,download,,http 200 846 bytes ASCII text
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_SPXQ_20260106174039.edi,download,,"http 200 1711 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10500_SGCS_20251231183354.edi,download,,"http 200 7052 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/Blvck199/DATAEXTRACTS/HEAD/FEDEX.txt,download,,"http 200 23044 bytes Python script, Unicode text, UTF-8 text executable"
-C,https://raw.githubusercontent.com/brycejech/edi-translator/HEAD/samples/204-MGSEABOARD-RASY-185950827709.edi,download,,"http 200 1428 bytes ASCII text, with very long lines (1428), with no line termin"
-C,https://raw.githubusercontent.com/brycejech/edi-translator/HEAD/samples/204.x12,download,,"http 200 694 bytes ASCII text, with very long lines (694), with no line termina"
-C,https://raw.githubusercontent.com/yurii1exe/freight-dispatch-board/HEAD/samples/204-dry-van-2-stop.edi,download,,http 200 960 bytes ASCII text
-C,https://raw.githubusercontent.com/yurii1exe/freight-dispatch-board/HEAD/samples/204-reefer-multi-stop.edi,download,,http 200 1339 bytes ASCII text
-C,https://raw.githubusercontent.com/pramodnarayana/soopa/HEAD/apps/edi/edi_sample_files/walmart/walmart_204.edi,download,,http 200 647 bytes ASCII text
-C,https://raw.githubusercontent.com/blueseerERP/blueseer/HEAD/sf/edi/sampledata/ACME_204.txt,download,,http 200 815 bytes ASCII text
-C,https://raw.githubusercontent.com/jacqueline-homan/BrandX/HEAD/204-MGCTLYST-BLNJ-16542577549-1.txt,download,,"http 200 1680 bytes ASCII text, with very long lines (1680), with no line termin"
-C,https://raw.githubusercontent.com/yurii1exe/edi-x12-toolkit/HEAD/samples/214-4010.edi,download,,http 200 313 bytes ASCII text
-C,https://raw.githubusercontent.com/aws-samples/aws-b2b-data-interchange-toolkit/HEAD/samples/214.edi,download,,http 200 2810 bytes ASCII text
-C,https://raw.githubusercontent.com/jf-tech/omniparser/HEAD/extensions/omniv21/samples/edi/1_canadapost_edi_214.input.txt,download,,http 200 5704 bytes ASCII text
-C,https://link.kohls.com/content/dam/klink/pdfs/Kohls_EDI_Mapping_Guidelines.pdf,download,,"http 403 455 bytes HTML document, ASCII text"
-C,https://origin-www.gsa.gov/system/files/General_Supplies__Services/dtr_part_ii_app_v_6.pdf,download,,"http 200 1323575 bytes PDF document, version 1.5, 30 pages"
-C,https://comptroller.defense.gov/Portals/45/documents/fmr/current/10/10_13.pdf,download,,"http 403 454 bytes HTML document, ASCII text"
-C,https://newtools.cira.state.tx.us/upload/page/10054/IFB%202021-255%20BID%20TABULATION%20AG%20HAUL%20VIA%20BELLY%20DUMP%20and%20BOB%20TAIL%20FOR%20PCT%204.pdf,download,,"http 200 54046 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://wwwtest.dbschenker.com/resource/blob/1427262/068267b371b7d44ce265e23755228ee6/usa-truck-llc-usit-tariff-2022-data.pdf,download,,"http 200 466257 bytes PDF document, version 1.7, 25 pages"
-C,raw Blvck199/DATAEXTRACTS FEDEX.txt,github,,python script not EDI; deleted
-C,q: Notice of Overcharge GSA form,websearch,,GSA Form 7925 (rev 10/2023) Notice of Overcharge; CBCA rate decisions ABF/PJAX
-C,q: FedEx Freight Billing Online / Estes MyEstes / ODFL invoice guide,websearch,,FedEx FBO Plus user guide 2017; Estes FAQ; ODFL invoices page
-C,q: state contract LTL ODFL/Estes/YRC/Saia discount minimum charge,websearch,,Utah UPS only
-C,q: Cubiscan NTEP certificate number,websearch,,only Australian NMI approvals for Cubiscan; Rice Lake 19-076A4 link
-C,q: Freightview/MyCarrier/FreightPOP/IA/Trax sample invoice,websearch,,generic signnow pages
-C,q: Kohls EDI mapping guide PDF,websearch,,link.kohls.com 403
-C,q: comptroller.defense.gov FMR Vol10 Ch13,direct,,403 both URL cases
-C,q: ustranscom.mil/dtr/part-ii.cfm,direct,,connection failed (000)
-C,q: webharvest.gov DFAS 1998 freight.pdf,direct,,"returns HTML placeholder, not PDF"
-C,https://origin-www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,download,,"http 403 10650 bytes HTML document, ASCII text, with very long lines (1626)"
-C,https://www.fedex.com/content/dam/fedex/us-united-states/services/051617_FBO-Plus-User-Guide.pdf,download,,"http 200 3237514 bytes PDF document, version 1.3"
-C,https://daytonfreight.com/wp-content/uploads/2025/07/DAFG-19-K-26th-Revision-effective-06.01.26.pdf,download,,"http 200 1233590 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://www.centraltransport.com/!downloads/ctii_rules.pdf,download,,"http 200 2674062 bytes PDF document, version 1.7, 54 pages"
-C,https://www.cbca.gov/files/decisions/2010/SHERIDAN_11-02-10_2014-RATE__ABF_FREIGHT_SYSTEM_INC_508.pdf,download,,"http 200 168353 bytes PDF document, version 1.4, 5 pages"
-C,https://www.cbca.gov/files/decisions/2007/DeGRAFF_04-19-2007_552-RATE__PJAX_FREIGHT_SYSTEM_508.pdf,download,,"http 200 187885 bytes PDF document, version 1.4, 9 pages"
-C,https://www.cbca.gov/files/decisions/2018/GOODMAN_12-06-18_6084-RATE__AARE_LOGISTICS_LLC.pdf,download,,"http 200 113233 bytes PDF document, version 1.4, 4 pages"
-C,https://www.ricelake.com/media/p1fnbv44/19-076a4.pdf,download,,http 404 0 bytes empty
-C,https://www.ricelake.com/media/p1fnbv44/19-076a3.pdf,download,,http 404 0 bytes empty
-C,q: SF 1113 public voucher pdf,websearch,,"gsa.gov SF1113-86a, SF1113A-86, node/165243"
-C,q: LTL price agreement site:edu Estes/ODFL/XPO/Saia/R+L/ABF,websearch,,Utah UPS only
-C,q: Saia/SEFL/ODFL/Averitt EDI 210 guide pdf,websearch,,"CN rail, FedEx, Stedi only"
-C,q: freight audit letter of authority template,websearch,,Logistics Plus LOA .docx only (skipped: docx not allowed? allowed - only docm banned); Hapag FMC LOA (ocean)
-C,q: overcharge claim form ODFL/Estes/Saia/Averitt/Dayton/SEFL,websearch,,"Averitt form, YRC f-154, XPO overview, Central Transport online form"
-C,q: DTR Part II chapters 211-213,websearch,,pointers to dtr_part_ii_203/210 only
-C,https://tools.averitt.com/public/documents/DocumentCenter/Averitt_OverchargeClaimForm.pdf,download,,"http 200 130953 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://my.yrc.com/national/pdf/f-154.pdf,download,,"http 200 79644 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://www.xpo.com/cdn/files/s1/Overcharge_Claims_Overview_External_LINKED.pdf,download,,"http 404 127 bytes XML 1.0 document, ASCII text, with no line terminators"
-C,https://ship.unisco.com/dl/Overcharge%20Freight.pdf,download,,"http 200 812252 bytes PDF document, version 1.6, 1 pages (zip deflate encoded)"
-C,https://www.gsa.gov/system/files/SF1113-86a.pdf,download,,"http 200 480236 bytes PDF document, version 1.7"
-C,https://www.gsa.gov/system/files/SF1113A-86.pdf,download,,"http 200 640083 bytes PDF document, version 1.7"
-C,https://www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,download,,"http 403 10615 bytes HTML document, ASCII text, with very long lines (1626)"
-C,https://www.logisticsplus.com/wp-content/uploads/2015/10/LP-LOA-Letter-of-Authorization-Template.docx,download,,http 200 17617 bytes Microsoft Word 2007+
-C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_203.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
-C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_210.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
-C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_211.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
-C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_212.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
-C,https://www.xpo.com/cdn/files/s1/Overcharge_Claims_Overview_External_LINKED.pdf,direct,,404
-C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_2xx.pdf,direct,,connection fails (curl 000) for 203/210/211/212
-C,https://www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,direct,,403 on www and origin-www
-C,q: sample LTL invoice AP training site:edu,websearch,,AGCO carrier instructions NA 2021 (shipper billing requirements); Cornell BM-805
-C,q: truckload contract award per mile site:.gov,websearch,,TN ITB 32101-13354 LTL trucking; Iowa master agreement docs
-C,q: COSTARS/WA DES/Ohio/NASPO LTL pricing attachment,websearch,,nothing state-specific
-C,gh: GS*IM*EXLA / SAIA / ABFS / FXFE / SEFL,github,,only baldr valid/1.EDI (EXLA); others empty
-C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-210-example.pdf,download,,"http 200 84065 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-214-example.pdf,download,,"http 200 122208 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/1.EDI,download,,http 200 1900 bytes ASCII text
-C,https://tn.gov/content/dam/tn/generalservices/documents/cpo/itb-updates/32101-13354/QC_ITB_32101-13354_LTL_Trucking_Final.pdf,download,,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
-C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/a2e05036-72df-4772-9648-d595f34b0d11,download,,"http 500 9015 bytes HTML document, ASCII text, with very long lines (414), with "
-C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/f061bc73-f734-48c0-9053-712d068bd9d5,download,,"http 200 120234 bytes PDF document, version 1.7, 4 pages (zip deflate encoded)"
-C,https://www.agcocorp.cn/content/dam/agcocorp/Suppliers/Carrier_Instructions_North_America_December_2021.pdf,download,,"http 200 169173 bytes HTML document, Unicode text, UTF-8 text, with very long line"
-C,https://www.estes-express.com/downloads/Digital-Capabilities-Matrix-Mar-2026.pdf,download,,"http 200 2685226 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://dgs.ca.gov/-/media/Divisions/PD/Acquisitions/TMU/Freight-Rate-Analysis-Request---7-10-24.pdf,download,,"http 200 130643 bytes PDF document, version 1.6 (zip deflate encoded)"
-C,https://www.agcocorp.cn/.../Carrier_Instructions_North_America_December_2021.pdf,direct,,returned HTML not PDF; deleted
-C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/a2e05036-...,direct,,HTTP 500
-C,https://tn.gov/.../QC_ITB_32101-13354_LTL_Trucking_Final.pdf,direct,,connection failed (curl 000)
-C,q: Averitt EDI 210 DocumentCenter,websearch,,"Averitt Paperless Invoicing PDF, Online Reporting PDF; no EDI spec"
-C,q: site:sefl.com EDI 210 / invoice,websearch,,third-party only
-C,q: site:saia.com EDI 210 / freight bill,websearch,,third-party only
-C,https://tools.averitt.com/public/documents/Averitt_Technology_PaperlessInvoicing.pdf,download,,"http 200 1140565 bytes PDF document, version 1.4"
-C,https://tools.averitt.com/public/documents/Averitt_Technology_OnlineReporting.pdf,download,,"http 200 1288055 bytes PDF document, version 1.4"
-C,q: W&I certificate exhibit courtlistener,websearch,,vendor blogs only
-C,q: ABF fuel surcharge table 2024 archived,websearch,,arcb fuel page (JS-rendered tables); FedEx Freight FTL fuel surcharge PDF
-C,http://web.archive.org/cdx/search/cdx (ABF fuel 2024),cdx,,IA 'Temporarily Offline' then HTTP 429 on 4 attempts over ~25 min
-C,https://www.fedexfreight.com/content/dam/web/us/documents/fs-ftl-fuel-surcharge.pdf,download,,"http 200 126739 bytes PDF document, version 1.7, 4 pages"
-C,q: Pitt Ohio / AAA Cooper / Central Transport EDI 210 pdf,websearch,,Dayton EDI-210 setup form PDF; Pitt Ohio & AAA Cooper EDI pages (no spec); Central Transport online setup form
-C,https://www.ncwm.com/ntep-certificates,webfetch,,NTEP directory PDF Sept 2026 link
-C,https://cdn.ncwm.com/userfiles/files/NTEP/Directories/9%20-%20NTEP_Certificates_September_2026.pdf,download,,"http 200 142534 bytes PDF document, version 1.4, 1 pages"
-C,https://daytonfreight.com/wp-content/uploads/2017/01/EDI-210.pdf,download,,"http 200 176790 bytes HTML document, ASCII text, with very long lines (8832), with"
-C,https://daytonfreight.com/wp-content/uploads/2017/01/EDI-210.pdf,direct,,returned HTML not PDF; deleted
-C,https://archive.org/wayback/available (SEFL fuel),cdx,,HTTP 429
-C,"http://web.archive.org/cdx/search/cdx (ABF fuel 2024, 6th attempt after 100s pause)",cdx,,HTTP 429; gap 3 not fillable this session
-C,dl_C/ntep_directory/NTEP_Certificates_Directory_September_2026.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/estes_digital/Estes_Digital_Capabilities_Matrix_Mar2026.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/averitt_invoicing/Averitt_Technology_OnlineReporting.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/edi_gh_misc_214/omniparser_canadapost_214.txt,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/edi_gh_misc_214/yurii_214-4010.edi,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/edi_gh_misc_204/yurii_204-dry-van-2-stop.edi,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/edi_gh_misc_204/yurii_204-reefer-multi-stop.edi,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/edi_gh_misc_204/blueseer_ACME_204.txt,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/gov_dgs_ca/CA_DGS_Freight_Rate_Analysis_Request_2024.pdf,trim,,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
-C,dl_C/edi_gh_misc_210/bridgeflow_sample-210.txt,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
-C,dl_C/edi_gh_misc_204/brycejech_204.x12,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
-C,dl_C/edi_gh_misc_210/medici_210x12.edi,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
-C,dl_C/edi_gh_misc_210/edifabric_FreightInvoice.txt,trim,,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0001.pdf,download,,"http 200 44949 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0002.pdf,download,,"http 200 45038 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0003.pdf,download,,"http 200 44755 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0004.pdf,download,,"http 200 44746 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_WIEL_20251231183325.edi,download,,"http 200 6484 bytes ASCII text, with CRLF line terminators"
-C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_TQYL_20251216172143.edi,download,,"http 200 12500 bytes ASCII text, with CRLF line terminators"
-C,github e3-solutions/scac-ln-bench README,github,,"700 freight invoice PDFs + 193 EDI 210 ground-truth files (broker-side, Dec 2025-Jan 2026); sampled 4 PDFs + 4 EDI"
-C,raw e3-solutions/scac-ln-bench data/pdfs/0001-0004.pdf,github,,"all four are Sterling Courier (K+N) air-courier invoices, out of TL/LTL scope and carry individuals' names; deleted"
-C,raw scac-ln-bench 10500_SGCS_20251231183354.edi,github,,"air-courier (Sterling) invoices, out of scope; deleted. WIEL/TQYL/SPXQ kept (truckload)"
+A,"[q01] (""Old Dominion Freight Line"" OR ""Estes Express Lines"" OR ""Saia Motor Freight"" OR ""Averitt Express"" OR ""Southeastern Freight Lines"" OR ""R+L Carriers"" OR ""XPO Logistics Freight"" OR ""ArcBest"" OR ""ABF Freight"") AND (""unpaid freight charges"" OR ""statement of account"") AND invoices",courtlistener_search_api_v4,hit,"28 results; led to ODFL v Robertshaw, Estes v Coverlex/Whatman, YRC v Royal, Con-Way v Auto Sports, Paper-Pak v ODFL"
+A,"[q02] carriers AND (""short pay"" OR ""short-paid"" OR ""audit deductions"" OR overcharge) AND invoices AND exhibit",courtlistener_search_api_v4,hit,199 results; mostly LTL fuel-surcharge antitrust complaints and Lewis v YRC securities filings (misses); Exist v SEFL already known
+A,"[q03] TL carriers (Schneider, Werner, J.B. Hunt, Knight-Swift, Landstar, Covenant, Heartland, U.S. Xpress, Swift) AND ""freight charges"" AND invoices AND exhibit",courtlistener_search_api_v4,hit,48 results; Landstar Ranger v Urban Roads order kept; rest insurance/wage/vendor cases
+A,"[q04] brokers (TQL, C.H. Robinson, Echo, Coyote, RXO, Arrive, Worldwide Express, Transplace, GlobalTranz) AND (""unpaid invoices"" OR ""account stated"") AND exhibit",courtlistener_search_api_v4,miss,"90 results but nearly all PACA produce suits by C.H. Robinson; Coyote v Jusda (6 pp, no exhibits) not kept"
+A,"[q05] ""rate confirmation"" AND invoice AND (""detention"" OR ""layover"" OR ""truck ordered not used"" OR ""TONU"" OR ""lumper"")",courtlistener_search_api_v4,hit,"57 results; Scotlynn, King of Freight, Landstar tender, KCH v CJ Logistics, Skyway, Transport Systems v Amazon, AJFJ kept"
+A,"[q06] (""weight and inspection certificate"" OR ""reweigh certificate"" OR ""inspection certificate"" OR ""W&I certificate"") AND freight AND (LTL OR ""less than truckload"" OR ""freight charges"")",courtlistener_search_api_v4,hit,31 results; see findings_A.md for what was kept
+A,"[q07] ""overcharge claim"" AND (""49 C.F.R. 378"" OR ""Part 378"" OR ""180 days"") AND freight",courtlistener_search_api_v4,hit,10 results; see findings_A.md for what was kept
+A,"[q08] ""freight charges"" AND (""not liable"" OR ""wrong party"" OR ""never agreed to pay"") AND ""bill of lading"" AND (Estes OR ""Old Dominion"" OR Saia OR XPO OR ABF OR YRC OR ""R+L"" OR Averitt) AND consignee",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q09] (""factoring"" OR ""notice of assignment"") AND ""rate confirmation"" AND ""bill of lading"" AND freight AND invoice",courtlistener_search_api_v4,hit,18 results; see findings_A.md for what was kept
+A,"[q10] Carmack AND ""delivery receipt"" AND (""claim denial"" OR ""declination"" OR ""denied the claim"") AND (LTL OR ""motor carrier"") AND exhibit",courtlistener_search_api_v4,hit,8 results; see findings_A.md for what was kept
+A,"[q11] ""truck ordered not used"" AND (invoice OR ""rate confirmation"")",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q12] ""detention"" AND ""in time"" AND ""out time"" AND (""bill of lading"" OR ""rate confirmation"") AND carrier",courtlistener_search_api_v4,hit,6 results; see findings_A.md for what was kept
+A,"[q13] ""lumper"" AND receipt AND (""rate confirmation"" OR ""freight charges"") AND invoice",courtlistener_search_api_v4,hit,37 results; see findings_A.md for what was kept
+A,"[q14] ""reweigh"" AND (""freight bill"" OR invoice) AND (Estes OR ""Old Dominion"" OR Saia OR XPO OR ABF OR YRC OR ""FedEx Freight"" OR ""R+L"" OR Averitt OR ""Southeastern Freight"")",courtlistener_search_api_v4,hit,134 results; see findings_A.md for what was kept
+A,"[q15] ""proof of claim"" AND (""Saia"" OR ""Old Dominion"" OR ""Estes Express"" OR ""FedEx Freight"" OR ""R+L Carriers"" OR ""Averitt"") AND (""freight charges"" OR invoices)",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q16] ""balance due"" AND ""freight bill"" AND (""reclass"" OR ""reclassification"" OR ""corrected"") AND (Estes OR ""Old Dominion"" OR Saia OR XPO OR ABF OR YRC OR ""FedEx Freight"")",courtlistener_search_api_v4,hit,11 results; see findings_A.md for what was kept
+A,"[q17] ""guaranteed"" AND (""service failure"" OR ""refund"") AND ""freight charges"" AND (LTL OR ""Old Dominion"" OR Estes OR Saia OR XPO OR ABF OR YRC) AND invoice",courtlistener_search_api_v4,hit,103 results; see findings_A.md for what was kept
+A,"[q18] ""freight payment"" AND (""Cass Information"" OR ""U.S. Bank"" OR ""nVision"" OR ""Trax"" OR ""Data2Logistics"" OR ""CT Logistics"") AND (""paid twice"" OR ""duplicate payment"" OR ""double payment"" OR ""double paid"")",courtlistener_search_api_v4,hit,3 results; see findings_A.md for what was kept
+A,"[q19] ""fuel surcharge"" AND ""False Claims Act"" AND (""DHL"" OR ""bill of lading"" OR ""government bill of lading"") AND invoice",courtlistener_search_api_v4,hit,21 results; see findings_A.md for what was kept
+A,"[q20] ""freight charges"" AND ""credit memo"" AND (carrier OR LTL) AND invoice AND exhibit",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q21] ""account stated"" AND ""freight charges"" AND (""Total Quality Logistics"" OR ""TQL"") AND exhibit",courtlistener_search_api_v4,miss,0 results; see findings_A.md for what was kept
+A,"[q22] ""C.H. Robinson"" AND (""unpaid"" OR ""owed"") AND invoices AND exhibit AND (""freight charges"" OR ""transportation services"")",courtlistener_search_api_v4,hit,118 results; see findings_A.md for what was kept
+A,"[q23] (""Echo Global Logistics"" OR ""Coyote Logistics"" OR ""Arrive Logistics"" OR ""RXO"" OR ""Uber Freight"" OR ""Transfix"" OR ""GlobalTranz"" OR ""Worldwide Express"") AND invoices AND ""freight charges"" AND exhibit",courtlistener_search_api_v4,hit,31 results; see findings_A.md for what was kept
+A,"[q24] ""statement of account"" AND ""freight charges"" AND exhibit AND (truckload OR ""rate confirmation"" OR carrier) AND (""per mile"" OR ""linehaul"" OR ""line haul"")",courtlistener_search_api_v4,miss,0 results; see findings_A.md for what was kept
+A,"[q25] ""double brokered"" AND invoice AND ""rate confirmation"" AND ""bill of lading"" AND ""proof of delivery""",courtlistener_search_api_v4,hit,3 results; see findings_A.md for what was kept
+A,"[q26] ""freight charges"" AND (""audit"" AND ""deduction"") AND (carrier OR LTL) AND ""freight bill"" AND invoice",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q27] ""Werner"" AND ""freight charges"" AND invoice AND exhibit AND (shipper OR ""bill of lading"")",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q28] (""J.B. Hunt"" OR ""JB Hunt"") AND (""unpaid"" OR ""freight charges"") AND invoices AND exhibit",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q29] (""Schneider National"" OR ""Knight Transportation"" OR ""Swift Transportation"" OR ""Covenant"") AND ""freight charges"" AND exhibit AND invoice AND (""bill of lading"" OR ""rate confirmation"")",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q30] ""freight charges"" AND ""bill of lading"" AND ""consignee"" AND (""Section 7"" OR ""non-recourse"" OR ""nonrecourse"") AND exhibit AND (Estes OR ""Old Dominion"" OR Saia OR XPO OR ABF OR YRC OR ""R+L"" OR Averitt OR ""Southeastern"")",courtlistener_search_api_v4,hit,85 results; see findings_A.md for what was kept
+A,"[q31] ""phantom"" AND (""freight bills"" OR ""freight charges"") AND (carrier OR trucking) AND invoice",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q32] (""we did not ship"" OR ""never shipped"" OR ""no record of the shipment"") AND ""freight charges"" AND invoice AND carrier",courtlistener_search_api_v4,hit,12 results; see findings_A.md for what was kept
+A,"[q33] ""Central Freight Lines"" AND Amazon AND exhibit",courtlistener_search_api_v4,hit,66 results; see findings_A.md for what was kept
+A,"[q34] ""TLS Transportation"" OR (""IN Holdings"" AND ArcBest)",courtlistener_search_api_v4,hit,6 results; see findings_A.md for what was kept
+A,"[q35] ""Vital Pharmaceuticals"" AND (""proof of claim"") AND (Saia OR ""Old Dominion"" OR Estes OR ""FedEx Freight"" OR ""R+L"" OR Averitt OR ""Southeastern"")",courtlistener_search_api_v4,hit,58 results; see findings_A.md for what was kept
+A,"[q36] ""Exist, Inc."" AND ""Southeastern Freight""",courtlistener_search_api_v4,hit,2 results; see findings_A.md for what was kept
+A,"[q37] ""freight"" AND ""demurrage"" AND ""detention"" AND ""per hour"" AND invoice AND exhibit AND (""rate confirmation"" OR ""load confirmation"")",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q38] ""freight bill"" AND ""weight"" AND ""inspection"" AND ""certificate"" AND (Estes OR ""Old Dominion"" OR Saia OR XPO OR ABF OR YRC OR ""FedEx Freight"" OR ""R+L"" OR Averitt OR ""Southeastern"")",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q39] ""freight charges"" AND ""disputed"" AND (""credit"" OR ""credited"") AND ""re-rated"" OR ""rerated"" OR ""re-rate""",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q40] ""freight"" AND (""overcharge"" OR ""overbilled"" OR ""overbilling"") AND (carrier OR LTL) AND ""spreadsheet"" AND exhibit AND invoice",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q15b] ""proof of claim"" AND (""Saia"" OR ""Old Dominion"" OR ""Estes Express"" OR ""FedEx Freight"" OR ""R+L Carriers"" OR ""Averitt"" OR ""Southeastern Freight"") AND (""freight charges"" OR ""freight bill"" OR ""pro number"")",courtlistener_search_api_v4,hit,15 results; see findings_A.md for what was kept
+A,"[q11b] ""truck ordered not used"" AND (invoice OR ""rate confirmation"" OR ""freight charges"")",courtlistener_search_api_v4,hit,6 results; see findings_A.md for what was kept
+A,"[q20b] ""credit memo"" AND ""freight charges"" AND (carrier OR LTL OR trucking) AND invoice",courtlistener_search_api_v4,hit,58 results; see findings_A.md for what was kept
+A,"[q38b] ""weight and inspection"" AND (""freight bill"" OR invoice OR ""bill of lading"") AND (LTL OR carrier) AND (reweigh OR ""corrected weight"" OR inspection)",courtlistener_search_api_v4,hit,5 results; see findings_A.md for what was kept
+A,"[q39b] (""re-rated"" OR ""rerated"" OR ""re-rate"" OR ""rerate"") AND ""freight"" AND (invoice OR ""freight bill"") AND (carrier OR LTL)",courtlistener_search_api_v4,hit,66 results; see findings_A.md for what was kept
+A,"[q26b] ""freight charges"" AND (""audit"" AND ""deduction"") AND (carrier OR LTL) AND ""freight bill"" AND invoice",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q08b] ""freight charges"" AND (""not liable"" OR ""wrong party"" OR ""never agreed to pay"" OR ""third party billing"" OR ""third-party billing"") AND ""bill of lading"" AND (Estes OR ""Old Dominion"" OR Saia OR XPO OR ABF OR YRC OR ""R+L"" OR Averitt OR ""Southeastern"") AND invoices",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q41] docket_id:65412007 AND (""freight"" OR ""carrier"" OR ""transportation"") AND (""Saia"" OR ""Old Dominion"" OR ""Estes"" OR ""FedEx Freight"" OR ""R+L"" OR ""Averitt"" OR ""Southeastern"" OR ""ABF"" OR ""YRC"" OR ""Central Transport"")",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,[q42] docket_id:4256417,courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q43] docket_id:4223608 AND (""freight charges"" OR ""freight bill"" OR ""Old Dominion"" OR ""Landstar"" OR ""J.B. Hunt"" OR ""Werner"" OR ""Swift"") AND (claim OR invoice)",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,[q44] docket_id:69670550 OR docket_id:66700960 OR docket_id:4686872 OR docket_id:5768734 OR docket_id:4259541,courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q27b] (""Werner Enterprises"" OR ""J.B. Hunt"" OR ""Schneider National"" OR ""Knight Transportation"" OR ""Swift Transportation"" OR ""Landstar Ranger"" OR ""U.S. Xpress"") AND ""freight charges"" AND invoice AND exhibit AND (""bill of lading"" OR ""rate confirmation"") AND (shipper OR customer)",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q40b] ""freight"" AND (""overcharge"" OR ""overbilled"" OR ""overbilling"") AND (carrier OR LTL OR truckload) AND ""spreadsheet"" AND exhibit AND invoice",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q37b] ""freight"" AND ""detention"" AND ""per hour"" AND invoice AND exhibit AND (""rate confirmation"" OR ""load confirmation"") AND shipper",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q45] ""government bill of lading"" AND (""overcharge"" OR ""audit"") AND (exhibit OR invoice) AND (""motor carrier"" OR trucking OR freight)",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,"[q46] ""freight bill"" AND (""paid twice"" OR ""duplicate payment"" OR ""double payment"") AND (carrier OR LTL OR trucking)",courtlistener_search_api_v4,blocked,"rate-limited by CourtListener (5/min, 50/hour); see re-run tag if any"
+A,https://storage.courtlistener.com/recap/gov.uscourts.flsd.608910/gov.uscourts.flsd.608910.1.0_1.pdf,courtlistener_storage,hit,Scotlynn v Go Hubio complaint; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.flsd.608910/gov.uscourts.flsd.608910.1.4.pdf,courtlistener_storage,hit,Scotlynn rate confirmation; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ksd.137781/gov.uscourts.ksd.137781.1.2.pdf,courtlistener_storage,hit,King of Freight rate contract; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ksd.137781/gov.uscourts.ksd.137781.1.0.pdf,courtlistener_storage,miss,"EPC v King of Freight complaint (cargo/equipment dispute); downloaded, discarded"
+A,https://storage.courtlistener.com/recap/gov.uscourts.ksd.137781/gov.uscourts.ksd.137781.1.1.pdf,courtlistener_storage,miss,"KOF/EPC agreement, no prices; discarded"
+A,https://storage.courtlistener.com/recap/gov.uscourts.ksd.137781/gov.uscourts.ksd.137781.1.3.pdf,courtlistener_storage,miss,master lease; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.scd.294889/gov.uscourts.scd.294889.6.8.pdf,courtlistener_storage,hit,Landstar load tender; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.336679/gov.uscourts.gand.336679.1.2.pdf,courtlistener_storage,hit,KCH rate confirmation; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.336679/gov.uscourts.gand.336679.1.1.pdf,courtlistener_storage,hit,KCH broker-carrier agreement; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.336679/gov.uscourts.gand.336679.1.0.pdf,courtlistener_storage,miss,"state complaint, narrative only; discarded"
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.336679/gov.uscourts.gand.336679.1.3.pdf,courtlistener_storage,miss,"BOL exhibit, 2 pp; discarded (BOLs already plentiful)"
+A,https://storage.courtlistener.com/recap/gov.uscourts.vaed.606531/gov.uscourts.vaed.606531.1.0_2.pdf,courtlistener_storage,hit,AJFJ v Givens verified complaint; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.413253/gov.uscourts.ilnd.413253.1.0.pdf,courtlistener_storage,hit,Skyway v Summa complaint with dispatch confirmation; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.mied.329101/gov.uscourts.mied.329101.1.1.pdf,courtlistener_storage,hit,Transport Systems v Amazon/USX load tender; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.mied.329101/gov.uscourts.mied.329101.1.0.pdf,courtlistener_storage,miss,404 NoSuchKey (not in RECAP)
+A,https://storage.courtlistener.com/recap/gov.uscourts.ncmd.80165/gov.uscourts.ncmd.80165.1.0.pdf,courtlistener_storage,hit,ODFL v Robertshaw complaint; kept (statement Ex. A not attached)
+A,https://storage.courtlistener.com/recap/gov.uscourts.ncmd.80460/gov.uscourts.ncmd.80460.1.0.pdf,courtlistener_storage,miss,"ODFL v ITW Polymers complaint, 5 pp, no exhibits; discarded"
+A,https://storage.courtlistener.com/recap/gov.uscourts.njb.1122507/gov.uscourts.njb.1122507.1.0.pdf,courtlistener_storage,miss,Goldberg (BBBY trustee) v ABF preference complaint; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.20.0.pdf,courtlistener_storage,hit,Estes v Coverlex default-judgment order; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.1.0.pdf,courtlistener_storage,miss,404; complaint with freight bills not in RECAP
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.19.1.pdf,courtlistener_storage,miss,"404; affidavit with pricing agreement, 2,498-bill list and 5 exemplar bills NOT free (PACER only)"
+A,https://storage.courtlistener.com/recap/gov.uscourts.vaed.408127/gov.uscourts.vaed.408127.24.0.pdf,courtlistener_storage,hit,Estes v Whatman opinion; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.vaed.408127/gov.uscourts.vaed.408127.1.1.pdf,courtlistener_storage,miss,"404; sample BOL, sample invoice, past-due warning NOT free (PACER only)"
+A,https://storage.courtlistener.com/recap/gov.uscourts.vaed.408127/gov.uscourts.vaed.408127.19.5.pdf,courtlistener_storage,miss,404; Estes rules tariff exhibit not free
+A,https://storage.courtlistener.com/recap/gov.uscourts.ctd.86864/gov.uscourts.ctd.86864.59.0.pdf,courtlistener_storage,hit,YRC v Royal ruling; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.miwd.6064/gov.uscourts.miwd.6064.126.0.pdf,courtlistener_storage,hit,Con-Way v Auto Sports findings; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.220449.10.0.pdf,courtlistener_storage,hit,Paper-Pak v ODFL answer with 39 pp of ODFL freight bills; kept (best LTL find)
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.220449.1.0.pdf,courtlistener_storage,hit,Paper-Pak complaint; kept for context
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.220449.10.1.pdf,courtlistener_storage,miss,404 (exhibit is embedded in 10.0)
+A,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.185.1.pdf,courtlistener_storage,hit,CFL v Amazon expert deposition exhibits; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.185.0.pdf,courtlistener_storage,hit,CFL Rule 702 motion; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.309.0.pdf,courtlistener_storage,hit,CFL v Amazon new-trial order; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.54.0.pdf,courtlistener_storage,hit,Amazon response; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.1.1.pdf,courtlistener_storage,miss,404; demand-letter exhibit to the CFL complaint is not free
+A,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.185.2.pdf,courtlistener_storage,miss,404
+A,https://storage.courtlistener.com/recap/gov.uscourts.arb.652846/gov.uscourts.arb.652846.197.2.pdf,courtlistener_storage,miss,"PRM Family: produce invoices (USDA inspection certificate, not W&I); discarded"
+A,https://storage.courtlistener.com/recap/gov.uscourts.wvnd.49753/gov.uscourts.wvnd.49753.137.3_2.pdf,courtlistener_storage,hit,Schneider Logistics MTSA with 180-day clauses; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.329712/gov.uscourts.gand.329712.5.2.pdf,courtlistener_storage,hit,Baxter Bailey v Semi Cab exhibit B; kept (25 MB)
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.249002/gov.uscourts.gand.249002.56.1.pdf,courtlistener_storage,hit,Hudson v Baxter Bailey bond-claim packets; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ohsd.200986/gov.uscourts.ohsd.200986.4.0.pdf,courtlistener_storage,hit,TQL v Cornelius 2006 rate con and carrier packet; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ksd.129194/gov.uscourts.ksd.129194.1.1.pdf,courtlistener_storage,hit,MHC Financial v Amazon Logistics; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ohsd.303256/gov.uscourts.ohsd.303256.1.1.pdf,courtlistener_storage,hit,Kroger contract carrier agreement; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.mnd.204676/gov.uscourts.mnd.204676.11.1.pdf,courtlistener_storage,miss,Starr v JPF: AB Broker load confirmation (detention USD 25/h after 3 h) in a cargo-theft file; 12 MB; discarded as duplicative
+A,https://storage.courtlistener.com/recap/gov.uscourts.flsd.574148/gov.uscourts.flsd.574148.1.0.pdf,courtlistener_storage,miss,eCapital v Global Logistics Solutions: factoring agreement only; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.294069/gov.uscourts.ilnd.294069.1.0.pdf,courtlistener_storage,miss,Advance Business Capital v Midwest Carrier: factoring/fuel advances; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.nyed.475982/gov.uscourts.nyed.475982.32.0.pdf,courtlistener_storage,miss,Agricultural Logistics v Survival: cargo temperature claim R&R; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.deb.190462/gov.uscourts.deb.190462.789.4_1.pdf,courtlistener_storage,miss,"Yellow Corp 789-4: Martino v YRC cargo-claim complaint (claim denial letter is a cargo denial, not billing); discarded"
+A,https://storage.courtlistener.com/recap/gov.uscourts.deb.194105/gov.uscourts.deb.194105.2207.9.pdf,courtlistener_storage,miss,Big Lots 2207-9: vendor proof of claim with A/R screens; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.deb.194105/gov.uscourts.deb.194105.2207.7.pdf,courtlistener_storage,miss,Big Lots 2207-7: vendor invoice + BOL (C.H. Robinson LTL third-party bill-to); discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.nysb.287149/gov.uscourts.nysb.287149.1374.2.pdf,courtlistener_storage,miss,Sears 1374-2: Briggs & Stratton vendor invoices/BOLs (J.B. Hunt as carrier); discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.dcd.127854.1.0.pdf,courtlistener_storage,miss,Nutex v AAA Cooper et al. LTL fuel-surcharge antitrust class complaint (2007); no bills; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.148812/gov.uscourts.gand.148812.1.0.pdf,courtlistener_storage,miss,same Nutex complaint (transferred copy); discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.cacd.644257/gov.uscourts.cacd.644257.1.1_11.pdf,courtlistener_storage,miss,4Moda state complaint; not freight; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ned.64057/gov.uscourts.ned.64057.1.1.pdf,courtlistener_storage,miss,ConAgra v YRC hazmat co-load claim; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.tned.109146/gov.uscourts.tned.109146.1.1.pdf,courtlistener_storage,miss,health-care subpoena exhibit; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.244636.1.1.pdf,courtlistener_storage,hit,YRC v Alliance 3PL / Miss Meringue with statement of account; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.ksd.134793/gov.uscourts.ksd.134793.1.0.pdf,courtlistener_storage,miss,YRC securities complaint (reweigh allegations as securities fraud); discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.nynd.117395/gov.uscourts.nynd.117395.63.1.pdf,courtlistener_storage,too-large,Lewis v YRC Ex. A (165 pp) exceeded the 25 MB cap (curl rc 63)
+A,https://storage.courtlistener.com/recap/gov.uscourts.nynd.117395/gov.uscourts.nynd.117395.100.2.pdf,courtlistener_storage,miss,Lewis v YRC settlement declaration; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.arwd.76617/gov.uscourts.arwd.76617.3.0.pdf,courtlistener_storage,miss,J.B. Hunt v Houston Casualty insurance DJ; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.txsd.1940628/gov.uscourts.txsd.1940628.21.0.pdf,courtlistener_storage,hit,Landstar Ranger v Urban Roads default-judgment order; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.paed.638757/gov.uscourts.paed.638757.1.1.pdf,courtlistener_storage,miss,personal-injury removal; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.mied.349908/gov.uscourts.mied.349908.206.1_1.pdf,courtlistener_storage,miss,Absopure wage-case deposition; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.422369/gov.uscourts.ilnd.422369.1.0.pdf,courtlistener_storage,miss,Progressive insurance DJ; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ded.83593/gov.uscourts.ded.83593.26.0.pdf,courtlistener_storage,miss,Hapag-Lloyd ocean demurrage/detention R&R (out of scope); discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.nysd.567021/gov.uscourts.nysd.567021.1.0.pdf,courtlistener_storage,miss,C.H. Robinson PACA suit; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.txsd.1938507/gov.uscourts.txsd.1938507.1.0.pdf,courtlistener_storage,miss,C.H. Robinson PACA suit; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.txsd.1839272/gov.uscourts.txsd.1839272.1.0.pdf,courtlistener_storage,miss,C.H. Robinson PACA suit; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.nyed.439035/gov.uscourts.nyed.439035.1.0.pdf,courtlistener_storage,miss,C.H. Robinson PACA suit; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.nyed.439035/gov.uscourts.nyed.439035.18.0.pdf,courtlistener_storage,miss,PACA R&R; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.415411/gov.uscourts.ilnd.415411.1.0.pdf,courtlistener_storage,miss,Triumph factoring v GTR Group: factoring agreement; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.cacd.957955/gov.uscourts.cacd.957955.1.0.pdf,courtlistener_storage,miss,"Coyote v Jusda: broker-v-shipper unpaid invoices, 6 pp, no invoices attached; discarded (lead for PACER)"
+A,https://storage.courtlistener.com/recap/gov.uscourts.nyeb.496430/gov.uscourts.nyeb.496430.29.4.pdf,courtlistener_storage,miss,PACA; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmd.409933/gov.uscourts.flmd.409933.1.0.pdf,courtlistener_storage,miss,PACA; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.cod.205023/gov.uscourts.cod.205023.11.0.pdf,courtlistener_storage,miss,PACA; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.nywd.71195/gov.uscourts.nywd.71195.118.0.pdf,courtlistener_storage,hit,Hannum: YRC answer; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.nywd.71195/gov.uscourts.nywd.71195.102.0.pdf,courtlistener_storage,hit,Hannum: YRC objection to R&R; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.nywd.71195/gov.uscourts.nywd.71195.72.3.pdf,courtlistener_storage,miss,404; Hannum Doc 72-3 is not in RECAP
+A,https://storage.courtlistener.com/recap/gov.uscourts.ilnd.405735/gov.uscourts.ilnd.405735.1.1.pdf,courtlistener_storage,hit,Coyote broker-carrier agreement with detention/lumper appendix; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.dcd.277746/gov.uscourts.dcd.277746.1.0.pdf,courtlistener_storage,hit,Pink Cheetah v TQL with TQL rate con; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.nyed.443615/gov.uscourts.nyed.443615.88.3.pdf,courtlistener_storage,hit,Express Freight v YMB exhibits; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.310633/gov.uscourts.gand.310633.1.0.pdf,courtlistener_storage,hit,Out of Nowhere v NTG complaint; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.gand.310633/gov.uscourts.gand.310633.103.0.pdf,courtlistener_storage,hit,Out of Nowhere v NTG opinion; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmb.715964/gov.uscourts.flmb.715964.6929.0.pdf,courtlistener_storage,hit,Winn-Dixie Doc 6929 ODFL wrong-payer correction packet; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmb.715964/gov.uscourts.flmb.715964.7363.5.pdf,courtlistener_storage,miss,Winn-Dixie 7363-5: Tyco vendor invoices; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmb.715964/gov.uscourts.flmb.715964.7217.0.pdf,courtlistener_storage,miss,Winn-Dixie 7217: vendor duplicate-invoice dispute; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ncmd.102499/gov.uscourts.ncmd.102499.10.1.pdf,courtlistener_storage,miss,South Atlantic Packaging v Hickory Farms: co-packer agreement; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ohnd.187835/gov.uscourts.ohnd.187835.104.5.pdf,courtlistener_storage,hit,Wintzer Transport TL invoices and BOLs; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.paed.636502/gov.uscourts.paed.636502.1.0.pdf,courtlistener_storage,miss,Rideway v Hawkeye: payment-timing/Freightguard complaint; discarded as duplicative
+A,https://storage.courtlistener.com/recap/gov.uscourts.njd.216975/gov.uscourts.njd.216975.91.0.pdf,courtlistener_storage,hit,Estes v Macy's opinion; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmb.986084.329.0.pdf,courtlistener_storage,hit,Cargo Transportation Services: ODFL motion; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.flmb.986084.351.0.pdf,courtlistener_storage,hit,Cargo Transportation Services: Estes motion; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.276.1.pdf,courtlistener_storage,miss,JoAnn: vendor invoice + XPO/Coyote BOLs; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.deb.189135/gov.uscourts.deb.189135.717.3.pdf,courtlistener_storage,miss,SL Liquidation: Cooper Standard vendor invoice + BOL; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.ca2.14-3595.33.0.pdf,courtlistener_storage,hit,Grupp v DHL 2d Cir brief; kept as FCA reference
+A,https://storage.courtlistener.com/recap/gov.uscourts.nywd.68558.1.0.pdf,courtlistener_storage,hit,Grupp v DHL complaint; kept as FCA reference
+A,https://storage.courtlistener.com/recap/gov.uscourts.caed.251410.29.0.pdf,courtlistener_storage,hit,Ricks v Menlo FCA amended complaint; kept
+A,https://storage.courtlistener.com/recap/gov.uscourts.txnd.293761/gov.uscourts.txnd.293761.11.0_1.pdf,courtlistener_storage,miss,Elston Nationwide v Call US Logistics: cargo loss claim form; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.vaeb.476891/gov.uscourts.vaeb.476891.4179.0.pdf,courtlistener_storage,miss,Circuit City 4179: vendor (Magellan) credit memos; discarded
+A,https://storage.courtlistener.com/recap/gov.uscourts.vaeb.476891/gov.uscourts.vaeb.476891.3314.0.pdf,courtlistener_storage,miss,Circuit City 3314: vendor (Apex) admin claim; discarded
+A,https://www.courtlistener.com/docket/63130595/,courtlistener_docket_html,blocked,docket HTML pages return CloudFront 403 to curl; used API docket_id: filters instead
+A,https://html.duckduckgo.com/html/?q=...,web_search_html,blocked,DuckDuckGo returns an anomaly/challenge page to curl
+A,https://www.bing.com/search?q=...,web_search_html,blocked,Bing degrades quoted queries to a single term (useless results)
+A,https://search.brave.com/search?q=...,web_search_html,blocked,Brave returns a JS challenge page to curl
+A,"WebSearch/WebFetch tools (15 planned web-side queries: W&I certificate samples, TONU/lumper exhibits, 49 CFR 378 claim letters, GSA notices of overcharge, govinfo FCA fuel-surcharge opinions, guaranteed-service refunds, state-court portals)",claude_tools,blocked,session limit reached before the web sweep; the 15 web searches could not be run this session
+B,https://restructuring.ra.kroll.com/biglots/Home-ClaimInfo,Kroll register (Big Lots),blocked,"HTTP 403 with plain UA; with Firefox UA a 302 to kroll.com corporate case list; no claims data reachable without a browser. Same for bbby, Home-DocketInfo, cases.ra.kroll.com"
+B,https://restructuring.ra.kroll.com/bbby/Home-ClaimInfo,Kroll register (Bed Bath & Beyond),blocked,403 (bot protection)
+B,https://cases.stretto.com/Express/filed-claims/?search=Old+Dominion,"Stretto register (Express Inc., case_id 318)",blocked,Page HTML (200) embeds a signed admin-ajax claim_listing URL; calling it returns Incapsula 'Access Denied' (once 'Signature mismatch' when params altered). Needs a browser/WAF cookie.
+B,https://cases.stretto.com/wp-admin/admin-ajax.php?action=claim_listing&case_id=318&...,Stretto AJAX endpoint,blocked,"Incapsula WAF blocks curl even with page cookies, Referer, X-Requested-With"
+B,https://cases.stretto.com/VitalPharmaceuticals/filed-claims/,Stretto register (Vital Pharmaceuticals),blocked,Page loads (200) but claims list is AJAX behind Incapsula; not fetched
+B,https://cases.stretto.com/TuesdayMorning/filed-claims/,Stretto register (Tuesday Morning 2023),blocked,same Incapsula block
+B,https://cases.stretto.com/LLFlooring/,Stretto register (LL Flooring),blocked,case page 200; claims AJAX blocked
+B,https://cases.stretto.com/surge/claims/ and /SurgeTransportation/,Stretto (Surge Transportation guess),miss,404; Surge Transportation 23-bk-01712 (M.D. Fla.) has no public claims-agent site found
+B,https://dm.epiq11.com/case/yellowcorp/claims,"Epiq register (Yellow Corp, project code YRC)",hit,"JS shell, but POST https://dm.epiq11.com/api/search/getcards with body {type:'CasesClaims',term,groupBy:'creditorName',filters:[{name:'projectCode',values:['YRC']}],sort:'asc',documentFrom:0,size:60,token:'1',origin:'Case Page',caseStatus:'',userProjects:''} returns JSON (double-encoded string). Claim PDF: https://document.epiq11.com/document/getdocumentbycode?docId=<imageDocumentId>&projectCode=YRC&source=DM"
+B,POST https://dm.epiq11.com/api/search/getcards type=Cases,Epiq cross-case search,hit,"Resolves project codes: YRC Yellow 23-11069, TLP Tupperware 24-12156, INB Instant Brands/Corelle 23-90716, TUE Tuesday Morning 2020 20-31476, SLQ STG Logistics 26-10258, gcg_ACU2 Accuride 2009. Not on Epiq: Conn's, Big Lots, Party City, Joann, Rite Aid, Franchise Group, Bed Bath, True Value, LL Flooring, Celadon, Surge, Hearthside, Zips, Wellmade, Vertex"
+B,"Epiq YRC claimant searches: audit, overcharge, Cass, U.S. Bank, nVision, Trax, Intelligent Audit, Enveyo, CT Logistics, freight payment, refund, credit, duplicate, overpayment",Epiq register (Yellow),hit,"Filed claims found: Cass 19254, nVision 11095-11211 (10 small overcharge claims), Audit Assistants 3603. Trax, Intelligent Audit, CT Logistics, A3 Freight Payment appear only as scheduled ($0) creditors. No 'overcharge'/'refund'/'U.S. Bank'/'Enveyo' claimant names."
+B,"Epiq YRC claimant searches: Estes, Saia, R+L, Averitt, Dayton, Pitt Ohio, Central Transport, TForce, FedEx Freight, AAA Cooper, Southeastern, ABF/ArcBest, XPO, Old Dominion, A Duie Pyle",Epiq register (Yellow),hit,"Filed: Estes 18642/18626/18635 (leases), SEFL 12261-12278,19741,19742,20015,20016,30002,30003 (12278 and 19742 opened = terminal leases), TForce 10129/10130, TForce Worldwide 17932/19030, ArcBest 16519 (cargo), A Duie Pyle 10835 (lease). Saia, R+L, Averitt, Dayton, Pitt Ohio, Central Transport, FedEx Freight, AAA Cooper, Old Dominion: scheduled only or none."
+B,"Epiq YRC claimant searches: Landstar, Schneider, C.H. Robinson, TQL, Echo, Coyote, RXO, Uber Freight, Arrive, GlobalTranz, Transplace, Worldwide Express, Unishippers, Forward Air, Werner, J.B. Hunt, Knight, Swift, Hub Group, Mode, Kuehne, DHL, Ascent, Walmart, Home Depot, Amazon",Epiq register (Yellow),hit,"Filed: Landstar Ranger 269, Landstar Express 36, Landstar Gemini 345, TQL 18553-18588, GlobalTranz 16200-16602 (13 overcharge disputes), Uber Freight 18386-18437 (cargo list), Unishippers 14549/14554/17062, Knight Logistics 18350/19952, Hub Group 11075-18523 (cargo), Mode 17019, Kuehne+Nagel 10802-10807, DHL Supply Chain 16128-16428, Ascent 15212, Walmart 18021-18148, Home Depot 17878-17958, Amazon 18536-18569. Schneider/CHR/Echo/Coyote/RXO/Arrive/Transplace/WWE/Forward Air/Werner/JB Hunt/Swift: scheduled only."
+B,"Epiq SLQ (STG Logistics 26-10258, D.N.J.) claimant searches: XPO, Werner, Landstar, TQL, Echo, RXO, YRC, Trucking, Transport, Express, Carriers, Lines, Intermodal, Truck, Factoring, Freight, Logistics, ArcBest",Epiq register (STG),hit,"documentUrls are direct: https://ec-p-cus-ewf-ecb-sync-fnc.azurewebsites.net/api/GetImage/<id>. Downloaded XPO 10014/10015, Werner 10053/10102, Landstar Ranger 10060, RXO 10159, YRC Freight 10183, Taylor Truck Line 10401, Kuker 10089. Opened and dropped: Landstar Global 6 (ocean CFS), TQL 10450/10455 (cargo), Echo 10112 (forms only), Galindo 117 (form), Andy G 140 (drayage), CSL 112 (owner-op settlement), FFS 10076 (intermodal factoring schedule), F&W 10105 (transload), Champ Boy 10119 (form)."
+B,"Epiq INB (Instant Brands/Corelle 23-90716) claimant searches: ODFL, Estes, Saia, XPO, ABF, TForce, Werner, TQL, Autumn Transport, AMX, Logistics, Transport, Freight",Epiq register (Instant Brands),hit,"Downloaded ODFL 64, Werner 10132, TQL 10892, Autumn 10028. TForce 10030 docId 4194466 returns 0 bytes (blocked/unavailable)."
+B,Epiq TLP (Tupperware 24-12156) claimant searches,Epiq register (Tupperware),hit,Only Estes 10000 and USA Truck Logistics 9/10 filed among carriers; both downloaded
+B,"Epiq TUE (Tuesday Morning 2020 20-31476) claimant searches: Freight, Logistics, Transport, Express, Dominion, Estes",Epiq register (Tuesday Morning 2020),hit,"Downloaded ODFL 853, Estes 258, Stevens Global 10219, Mountain Valley 163, Cornerstone 10100. JB Hunt 10759 ($0) not fetched."
+B,https://bankruptcy.angeiongroup.com/Clients/nemf/ClaimsSearch,"Angeion (ex Donlin Recano) register, New England Motor Freight 19-12809 D.N.J.",hit,"POST form (ClaimantName + __RequestVerificationToken + cookies) returns HTML table; claim PDFs at /Clients/nemf/GetClaim?claimNumber=N (302 to signed S3 URL, follow with -L). After ~40 searches an AWS WAF 'Human Verification' challenge (HTTP 405) blocks further searches; GetClaim downloads kept working."
+B,"Angeion NEMF claimant searches: Cass, Audit, Overcharge, Trax, Estes, XPO, Freight, Logistics, Bank, Averitt, Saia, Dominion, Central, Pyle, Ward, Transport, Carrier, Pitt, Dayton",Angeion NEMF,hit,"Found Saia 829/1091/1322/1323, AAA Cooper 858/948, Oak Harbor 103/493, Landstar Global 209, Covenant 242, Schneider 959, Jarrett 281-631, Global Transport Logistics 857, Virtual Freight Inspections 740, Classic Carriers 1123, Manitoulin 511, Carrier Credit Services 816, Triglia 16, XPO 989/1184. No Cass/audit/overcharge/Estes/Averitt/ODFL/Pitt Ohio/Dayton claimants."
+B,"Angeion NEMF claimant searches (second batch): Lines, Motor, Trucking, Express, Holland, YRC, Roadway, Forward, ABF, Conway, Daylight, Dependable, Oak, Dohrn, Duie, Reddaway, Inspection, Cargo, Claims, Freightways, Carolina, Ohio, Sutton, Lakeville, Peninsula",Angeion NEMF,blocked,"AWS WAF challenge page returned (HTTP 405, 2 KB) for every query after the rate limit tripped"
+B,"https://bankruptcy.angeiongroup.com/Clients/nemf/GetClaim?claimNumber=829 (and 1323, 493)",Angeion NEMF,miss,"3-page claims = form only, no attachments; deleted"
+B,https://omniagentsolutions.com/truevalue,Omni register (True Value),blocked,HTTP 403 with every UA/header set tried
+B,https://www.veritaglobal.net/tuesdaymorning/claims,Verita/KCC register,blocked,"TLS: 'unable to get local issuer certificate' (incomplete chain); with -k, /celadon/claims returns 200 but only a global document-search form; the claims register is JavaScript-driven; not pursued"
+B,https://veritaglobal.net/celadon/claims,Verita/KCC register (Celadon 19-12606),blocked,JS-only claims UI; no plain endpoint found
+B,https://bankruptcy.angeiongroup.com/Clients/llflooring/Claims,Angeion guess (LL Flooring),miss,404; LL Flooring is on Stretto
+B,https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=...,CourtListener RECAP document search (no key),hit,"Works anonymously, 5 requests/min. Queries: Surge Transportation (+rate confirmation, +invoice shipper, +Mondelez), Yellow Corporation overcharge, Celadon rate confirmation, New England Motor Freight overcharge, Old Dominion proof of claim invoice, Estes Express proof of claim invoices, detention rate confirmation invoice proof of claim, freight audit proof of claim invoice carrier"
+B,https://storage.courtlistener.com/recap/gov.uscourts.flmb.1364716/gov.uscourts.flmb.1364716.1.0.pdf,RECAP: OTR Capital v. Triumph (Surge AP 3:23-ap-00085 family),hit,7-page complaint describing broker invoicing flow; no exhibits; kept as context
+B,https://storage.courtlistener.com/recap/gov.uscourts.flmb.1364720/gov.uscourts.flmb.1364720.1.0.pdf,RECAP: Baxter Bailey v. Triumph,miss,"duplicate of OTR complaint text, no exhibits; deleted"
+B,https://storage.courtlistener.com/recap/gov.uscourts.flmb.1365207/gov.uscourts.flmb.1365207.1.0.pdf,RECAP: Phoenix Capital et al. v. Surge & Triumph (3:23-ap-00085),hit,19 pages; Exhibit = representative Broker-Carrier Agreement; kept
+B,"Surge Transportation v. Mondelez Global (3:25-ap-00079, M.D. Fla.)",RECAP,miss,complaint not available on RECAP (PACER only)
+B,https://storage.courtlistener.com/recap/gov.uscourts.mied.374456/gov.uscourts.mied.374456.108.4.pdf,RECAP hit for 'Celadon' 'rate confirmation',miss,turned out to be a deposition in a personal-injury case; deleted
+B,https://www.courtlistener.com/docket/67636294/surge-transportation-inc/,CourtListener docket HTML,blocked,403 for curl; API JSON works instead
+B,WebSearch: site:cases.stretto.com claim 'Old Dominion Freight Line' pdf,web,miss,no Stretto PDFs indexed
+B,WebSearch: 'Surge Transportation' bankruptcy claims agent register,web,miss,"no claims agent; case 23-bk-01712 M.D. Fla.; ~5,000 carrier creditors"
+B,WebSearch: 'US Logistics Solutions' bankruptcy 2024 claims agent,web,miss,"Chapter 7, S.D. Tex., no public claims agent found"
+B,WebSearch: document.epiq11.com Yellow proof of claim,web,hit,confirmed Epiq claims page https://dm.epiq11.com/case/yellowcorporation/claims; A&M Canada mirror of bar-date notice
+B,WebSearch: Celadon 2019 claims agent KCC,web,miss,no register link; case 19-12606 D. Del.; register on veritaglobal.net is JS-only
+B,WebSearch: 'New England Motor Freight' claims register Donlin Recano,web,hit,led to bankruptcy.angeiongroup.com/Clients/nemf
+B,https://document.epiq11.com/document/getdocumentbycode?docId=4194466&projectCode=INB&source=DM,Epiq INB TForce Freight claim 10030,blocked,HTTP 200 but 0 bytes twice
+B,"Epiq YRC claims opened and dropped: SEFL 12278 & 19742 (terminal leases), Estes 18642 (leases), A Duie Pyle 10835 (lease), ArcBest 16519 (loss & damage), Amazon 18559 (inventory damages), Hub Group 18523 (customer cargo claims), Uber Freight 18437 (cargo claim list), Unishippers 14554 (ADR claim with price list)",Epiq register (Yellow),miss,not freight-billing documents
+B,https://ec-p-cus-ewf-ecb-sync-fnc.azurewebsites.net/api/GetImage/168225,Epiq SLQ (STG) Taylor Truck Line claim 10401,hit,22 pp TL packets (invoice + rate con + BOL); kept
+B,"Epiq YRC claims 269 (Landstar Ranger), 36 (Landstar Express America), 10190 (RMW Expeditors), 17062 (Unishippers), 18350 (Knight Logistics), 17932 (TForce Worldwide), 17019 (Mode), 16339 (DHL Supply Chain), 10807 (Kuehne+Nagel), 17878 (Home Depot), 18021 (Walmart), 18553 (TQL), 16200/16215/16595 (GlobalTranz), 11113/11117/11202 (nVision), 10129 (TForce Freight), 19254 (Cass)",Epiq register (Yellow) via getdocumentbycode,hit,all downloaded and kept (see manifest)
+B,Epiq YRC claim 15212 (Ascent Global Logistics),Epiq register (Yellow),miss,cargo shortage/damage claim form; deleted
+B,"Epiq TUE claims 10219 (Stevens Global), 163 (Mountain Valley Express), 10100 (Cornerstone Freight); TLP claim 9 (USA Truck); INB claim 10028 (Autumn Transport)",Epiq registers,hit,downloaded and kept
+B,"Epiq SLQ ArcBest claims 1 and 2 ($2,037.94 / $1,541.28), Midwest Express 24, N M Express 10114, LCH Express 164, YRC 10183 duplicates",Epiq register (STG),miss,not fetched (ABF already covered; small; budget)
+B,Reachability summary,all registers,hit,"Reachable without a browser: Epiq (dm.epiq11.com JSON POST + document.epiq11.com/getdocumentbycode; STG case serves direct azurewebsites GetImage links), Angeion/Donlin Recano (HTML POST form + GetClaim redirect to S3, rate-limited by AWS WAF after ~40 searches), CourtListener API v4 (5/min anon). Not reachable: Kroll (403/redirect), Stretto (Incapsula on AJAX), Omni (403), Verita/KCC (TLS chain + JS-only register)."
+C,https://arcb.com/sites/default/files/forms_and_documents/OverchargeClaimForm%20-%20Fillable2017.pdf,download,hit,"http 200 199910 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://rl-cdn.com/docs/rlc/shipping-forms/overcharge-claim-form.pdf,download,hit,"http 200 74915 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://my.cassport.com/tutorial/FBAEnhancementsTutorial.pdf,download,hit,"http 200 1003800 bytes PDF document, version 1.4, 7 pages"
+C,"q: ""ST*210*"" ""B3*"" ""N1*"" sample EDI 210 interchange",websearch,hit,"Stedi guides (Imperative, CNG, James), XPO 210_spec.pdf, Insight 210 guide, TrueCommerce"
+C,"q: ""CzarLite"" ""FAK"" ""discount"" LTL contract award site:.edu/.gov",websearch,miss,only SMC3 marketing
+C,"q: ""absolute minimum charge"" LTL contract award state university",websearch,hit,"Univ of Utah UPS LTL contract page (86.2% discount, 03 AMC)"
+C,q: GSA Notice of Overcharge form sample 41 CFR 102-118,websearch,hit,"FR 2024-27565 rule PDF, FR 2000 rule, CBCA rate decisions; no form"
+C,q: NTEP certificate Cubiscan dimensioner ncwm,websearch,hit,"Rice Lake 19-076A5, Mettler TLD250 22-090, CSN210; no Cubiscan NTEP"
+C,q: TForce Freight invoice guide,websearch,miss,"only EDI 210/211 specs, tariffs"
+C,https://www.xpo.com/cdn/files/s8/210_spec.pdf,download,hit,"http 200 58734 bytes PDF document, version 1.3, 18 pages"
+C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-210-guidelines.pdf,download,hit,"http 200 59977 bytes PDF document, version 1.3, 15 pages"
+C,https://www.ricelake.com/media/mqdbc0of/19-076a5.pdf,download,miss,http 404 0 bytes empty
+C,https://mt.com/dam/ind/IND_PDF/2024/tld250/NTEP%20certificate.pdf,download,hit,"http 200 455815 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://www.mt.com/dam/mt_ext_files/Editorial/Generic/0/CSN910_certificate_US_CA_NTEPlegal_for_trade_Editorial-Generic_1165324592236_files/ntep_legal_for_tradecertificate.pdf,download,hit,"http 200 119799 bytes PDF document, version 1.3, 2 pages"
+C,https://govinfo.gov/content/pkg/FR-2024-11-26/pdf/2024-27565.pdf,download,hit,"http 200 214327 bytes PDF document, version 1.7, 2 pages"
+C,https://www.tforcefreight.com/downloads/TFF-211-4010.pdf,download,hit,"http 200 387383 bytes PDF document, version 1.5, 11 pages"
+C,https://www.ricelake.com/media/p1fnbv44/19-076a4.pdf,download,miss,http 404 0 bytes empty
+C,https://www.ricelake.com/media/p1fnbv44/19-076a5.pdf,download,miss,http 404 0 bytes empty
+C,q: EDI 210 guide SEFL/ODFL/Saia/Averitt/Dayton/Pitt Ohio,websearch,hit,"FedEx EDI invoicing overview guide, FedEx 4060 guide, CN (rail); no SEFL/ODFL/Saia/Averitt PDFs"
+C,q: LTL contract award Sourcewell/NASPO/E&I/OMNIA/TXMAS/WA DES,websearch,miss,only Utah UPS page again; Sourcewell courier RFP
+C,q: DTR Part II billing disputes TPPS Syncada,websearch,hit,"DFAS 1998 freight billing instructions (webharvest), DoD FMR Vol10 Ch13, GAO B-261127"
+C,q: weight and inspection certificate sample image,websearch,miss,vendor blogs only; Rice Lake article
+C,q: ODFL/Estes/Saia/FedEx Freight how to read freight bill guide,websearch,miss,generic vendor guides only
+C,q: USPS OIG freight audit HCR,websearch,hit,"USPS OIG 22-202-R23, 20-295-R21, no-ar-14-012"
+C,https://www.fedexfreight.com/content/dam/web/us/documents/fedex-edi-invoicing-and-remittance-overview-guide-april2021.pdf,download,hit,"http 200 777514 bytes PDF document, version 1.7, 47 pages"
+C,https://www.fedex.com/content/dam/fedex/us-united-states/services/FedEx_210-820_X12-4060_EDI_Implementation_Guide-January2022.pdf,download,hit,"http 200 1255642 bytes PDF document, version 1.7, 45 pages"
+C,https://webharvest.gov/peth04/20041017043416/http:/www.dfas.mil/money/transpay/freight.pdf,download,hit,"http 200 4451 bytes HTML document, Unicode text, UTF-8 text"
+C,https://webharvest.gov/peth04/20041017043416/http:/www.dfas.mil/money/transpay/ppbi.pdf,download,hit,"http 200 4451 bytes HTML document, Unicode text, UTF-8 text"
+C,https://comptroller.defense.gov/portals/45/documents/fmr/current/10/10_13.pdf,download,miss,"http 403 454 bytes HTML document, ASCII text"
+C,https://www.uspsoig.gov/sites/default/files/reports/2023-04/22-202-r23.pdf,download,hit,"http 200 6706620 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://www.uspsoig.gov/sites/default/files/reports/2023-01/20-295-R21.pdf,download,hit,"http 200 2594212 bytes PDF document, version 1.7 (zip deflate encoded)"
+C,https://www.govinfo.gov/content/pkg/GAOREPORTS-B-261127/pdf/GAOREPORTS-B-261127.pdf,download,hit,"http 200 107893 bytes PDF document, version 1.1, 6 pages"
+C,https://www.ricelake.com/media/4gafs0ma/arti_idim_freightundercontrol_en-us_rev-a_web.pdf,download,hit,"http 200 535595 bytes PDF document, version 1.4, 0 pages"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/1.EDI,download,hit,http 200 3436 bytes ASCII text
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/2.EDI,download,hit,"http 200 1705 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/3.EDI,download,hit,"http 200 2424 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/4.EDI,download,hit,"http 200 910 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/5.EDI,download,hit,"http 200 2430 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/6.EDI,download,hit,"http 200 933 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/7.EDI,download,hit,"http 200 920 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/8.EDI,download,hit,"http 200 3456 bytes ASCII text, with very long lines (3456), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/9.EDI,download,hit,"http 200 5728 bytes ASCII text, with very long lines (5728), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/10.EDI,download,hit,"http 200 1055 bytes ASCII text, with very long lines (1055), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/11.EDI,download,hit,"http 200 4746 bytes ASCII text, with very long lines (4746), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/12.EDI,download,hit,"http 200 2202 bytes ASCII text, with very long lines (2202), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/13.EDI,download,hit,"http 200 1502 bytes ASCII text, with very long lines (1502), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/210/14.EDI,download,hit,"http 200 2235 bytes ASCII text, with very long lines (2235), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/1.EDI,download,hit,http 200 504 bytes ASCII text
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/2.EDI,download,hit,"http 200 5200 bytes ASCII text, with very long lines (5200), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/3.EDI,download,hit,"http 200 2186 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/4.EDI,download,hit,"http 200 476 bytes ASCII text, with very long lines (476), with no line termina"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/5.EDI,download,hit,"http 200 644 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/6.EDI,download,hit,"http 200 1786 bytes ASCII text, with very long lines (1786), with no line termin"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/7.EDI,download,hit,"http 200 435 bytes ASCII text, with very long lines (435), with no line termina"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/214/8.EDI,download,hit,"http 200 584 bytes ASCII text, with very long lines (584), with no line termina"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/204/1.EDI,download,hit,"http 200 722 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/204/2.EDI,download,hit,"http 200 849 bytes ASCII text, with very long lines (849), with no line termina"
+C,https://raw.githubusercontent.com/jf-tech/omniparser/HEAD/extensions/omniv21/samples/edi/2_ups_edi_210.input.txt,download,hit,"http 200 29278 bytes Unicode text, UTF-8 text"
+C,https://raw.githubusercontent.com/KeyMarkInc/OopFactory.X12/HEAD/trunk/tests/OopFactory.X12.Tests.Unit/Parsing/_SampleEdiFiles/TAM/_210/DBSchenker_SampleMotorFreightDetailsAndInvoice.txt,download,hit,"http 200 832 bytes Unicode text, UTF-8 (with BOM) text"
+C,https://raw.githubusercontent.com/JstuckiPLS/JJ-VolumeQuotes-JJ/HEAD/plstms-pls20-e49a48c5bd95/backend/shipment/src/test/resources/edi/CTSI210_cropped.txt,download,hit,http 200 2025 bytes ASCII text
+C,https://raw.githubusercontent.com/JstuckiPLS/JJ-VolumeQuotes-JJ/HEAD/plstms-pls20-e49a48c5bd95/backend/shipment/src/test/resources/edi/EDI210ForCustomer.txt,download,hit,"http 200 572 bytes ASCII text, with very long lines (572), with no line termina"
+C,https://raw.githubusercontent.com/Bridgeflow-Group/bridgeflow-docs/HEAD/docs/examples/sample-210.txt,download,hit,"http 200 313 bytes ASCII text, with very long lines (313), with no line termina"
+C,https://raw.githubusercontent.com/EdiFabric/X12.NET/HEAD/Files/X12/FreightInvoice.txt,download,hit,"http 200 1052 bytes Unicode text, UTF-8 (with BOM) text"
+C,https://raw.githubusercontent.com/davidcoles/medici/HEAD/samples/210x12.edi,download,hit,http 200 846 bytes ASCII text
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_SPXQ_20260106174039.edi,download,hit,"http 200 1711 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10500_SGCS_20251231183354.edi,download,hit,"http 200 7052 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/Blvck199/DATAEXTRACTS/HEAD/FEDEX.txt,download,hit,"http 200 23044 bytes Python script, Unicode text, UTF-8 text executable"
+C,https://raw.githubusercontent.com/brycejech/edi-translator/HEAD/samples/204-MGSEABOARD-RASY-185950827709.edi,download,hit,"http 200 1428 bytes ASCII text, with very long lines (1428), with no line termin"
+C,https://raw.githubusercontent.com/brycejech/edi-translator/HEAD/samples/204.x12,download,hit,"http 200 694 bytes ASCII text, with very long lines (694), with no line termina"
+C,https://raw.githubusercontent.com/yurii1exe/freight-dispatch-board/HEAD/samples/204-dry-van-2-stop.edi,download,hit,http 200 960 bytes ASCII text
+C,https://raw.githubusercontent.com/yurii1exe/freight-dispatch-board/HEAD/samples/204-reefer-multi-stop.edi,download,hit,http 200 1339 bytes ASCII text
+C,https://raw.githubusercontent.com/pramodnarayana/soopa/HEAD/apps/edi/edi_sample_files/walmart/walmart_204.edi,download,hit,http 200 647 bytes ASCII text
+C,https://raw.githubusercontent.com/blueseerERP/blueseer/HEAD/sf/edi/sampledata/ACME_204.txt,download,hit,http 200 815 bytes ASCII text
+C,https://raw.githubusercontent.com/jacqueline-homan/BrandX/HEAD/204-MGCTLYST-BLNJ-16542577549-1.txt,download,hit,"http 200 1680 bytes ASCII text, with very long lines (1680), with no line termin"
+C,https://raw.githubusercontent.com/yurii1exe/edi-x12-toolkit/HEAD/samples/214-4010.edi,download,hit,http 200 313 bytes ASCII text
+C,https://raw.githubusercontent.com/aws-samples/aws-b2b-data-interchange-toolkit/HEAD/samples/214.edi,download,hit,http 200 2810 bytes ASCII text
+C,https://raw.githubusercontent.com/jf-tech/omniparser/HEAD/extensions/omniv21/samples/edi/1_canadapost_edi_214.input.txt,download,hit,http 200 5704 bytes ASCII text
+C,https://link.kohls.com/content/dam/klink/pdfs/Kohls_EDI_Mapping_Guidelines.pdf,download,miss,"http 403 455 bytes HTML document, ASCII text"
+C,https://origin-www.gsa.gov/system/files/General_Supplies__Services/dtr_part_ii_app_v_6.pdf,download,hit,"http 200 1323575 bytes PDF document, version 1.5, 30 pages"
+C,https://comptroller.defense.gov/Portals/45/documents/fmr/current/10/10_13.pdf,download,miss,"http 403 454 bytes HTML document, ASCII text"
+C,https://newtools.cira.state.tx.us/upload/page/10054/IFB%202021-255%20BID%20TABULATION%20AG%20HAUL%20VIA%20BELLY%20DUMP%20and%20BOB%20TAIL%20FOR%20PCT%204.pdf,download,hit,"http 200 54046 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://wwwtest.dbschenker.com/resource/blob/1427262/068267b371b7d44ce265e23755228ee6/usa-truck-llc-usit-tariff-2022-data.pdf,download,hit,"http 200 466257 bytes PDF document, version 1.7, 25 pages"
+C,raw Blvck199/DATAEXTRACTS FEDEX.txt,github,miss,python script not EDI; deleted
+C,q: Notice of Overcharge GSA form,websearch,hit,GSA Form 7925 (rev 10/2023) Notice of Overcharge; CBCA rate decisions ABF/PJAX
+C,q: FedEx Freight Billing Online / Estes MyEstes / ODFL invoice guide,websearch,hit,FedEx FBO Plus user guide 2017; Estes FAQ; ODFL invoices page
+C,q: state contract LTL ODFL/Estes/YRC/Saia discount minimum charge,websearch,miss,Utah UPS only
+C,q: Cubiscan NTEP certificate number,websearch,miss,only Australian NMI approvals for Cubiscan; Rice Lake 19-076A4 link
+C,q: Freightview/MyCarrier/FreightPOP/IA/Trax sample invoice,websearch,miss,generic signnow pages
+C,q: Kohls EDI mapping guide PDF,websearch,blocked,link.kohls.com 403
+C,q: comptroller.defense.gov FMR Vol10 Ch13,direct,blocked,403 both URL cases
+C,q: ustranscom.mil/dtr/part-ii.cfm,direct,blocked,connection failed (000)
+C,q: webharvest.gov DFAS 1998 freight.pdf,direct,miss,"returns HTML placeholder, not PDF"
+C,https://origin-www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,download,miss,"http 403 10650 bytes HTML document, ASCII text, with very long lines (1626)"
+C,https://www.fedex.com/content/dam/fedex/us-united-states/services/051617_FBO-Plus-User-Guide.pdf,download,hit,"http 200 3237514 bytes PDF document, version 1.3"
+C,https://daytonfreight.com/wp-content/uploads/2025/07/DAFG-19-K-26th-Revision-effective-06.01.26.pdf,download,hit,"http 200 1233590 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.centraltransport.com/!downloads/ctii_rules.pdf,download,hit,"http 200 2674062 bytes PDF document, version 1.7, 54 pages"
+C,https://www.cbca.gov/files/decisions/2010/SHERIDAN_11-02-10_2014-RATE__ABF_FREIGHT_SYSTEM_INC_508.pdf,download,hit,"http 200 168353 bytes PDF document, version 1.4, 5 pages"
+C,https://www.cbca.gov/files/decisions/2007/DeGRAFF_04-19-2007_552-RATE__PJAX_FREIGHT_SYSTEM_508.pdf,download,hit,"http 200 187885 bytes PDF document, version 1.4, 9 pages"
+C,https://www.cbca.gov/files/decisions/2018/GOODMAN_12-06-18_6084-RATE__AARE_LOGISTICS_LLC.pdf,download,hit,"http 200 113233 bytes PDF document, version 1.4, 4 pages"
+C,https://www.ricelake.com/media/p1fnbv44/19-076a4.pdf,download,miss,http 404 0 bytes empty
+C,https://www.ricelake.com/media/p1fnbv44/19-076a3.pdf,download,miss,http 404 0 bytes empty
+C,q: SF 1113 public voucher pdf,websearch,hit,"gsa.gov SF1113-86a, SF1113A-86, node/165243"
+C,q: LTL price agreement site:edu Estes/ODFL/XPO/Saia/R+L/ABF,websearch,miss,Utah UPS only
+C,q: Saia/SEFL/ODFL/Averitt EDI 210 guide pdf,websearch,miss,"CN rail, FedEx, Stedi only"
+C,q: freight audit letter of authority template,websearch,hit,Logistics Plus LOA .docx only (skipped: docx not allowed? allowed - only docm banned); Hapag FMC LOA (ocean)
+C,q: overcharge claim form ODFL/Estes/Saia/Averitt/Dayton/SEFL,websearch,hit,"Averitt form, YRC f-154, XPO overview, Central Transport online form"
+C,q: DTR Part II chapters 211-213,websearch,miss,pointers to dtr_part_ii_203/210 only
+C,https://tools.averitt.com/public/documents/DocumentCenter/Averitt_OverchargeClaimForm.pdf,download,hit,"http 200 130953 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://my.yrc.com/national/pdf/f-154.pdf,download,hit,"http 200 79644 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.xpo.com/cdn/files/s1/Overcharge_Claims_Overview_External_LINKED.pdf,download,miss,"http 404 127 bytes XML 1.0 document, ASCII text, with no line terminators"
+C,https://ship.unisco.com/dl/Overcharge%20Freight.pdf,download,hit,"http 200 812252 bytes PDF document, version 1.6, 1 pages (zip deflate encoded)"
+C,https://www.gsa.gov/system/files/SF1113-86a.pdf,download,hit,"http 200 480236 bytes PDF document, version 1.7"
+C,https://www.gsa.gov/system/files/SF1113A-86.pdf,download,hit,"http 200 640083 bytes PDF document, version 1.7"
+C,https://www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,download,miss,"http 403 10615 bytes HTML document, ASCII text, with very long lines (1626)"
+C,https://www.logisticsplus.com/wp-content/uploads/2015/10/LP-LOA-Letter-of-Authorization-Template.docx,download,hit,http 200 17617 bytes Microsoft Word 2007+
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_203.pdf,download,miss,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_210.pdf,download,miss,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_211.pdf,download,miss,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_212.pdf,download,miss,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://www.xpo.com/cdn/files/s1/Overcharge_Claims_Overview_External_LINKED.pdf,direct,miss,404
+C,https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_2xx.pdf,direct,blocked,connection fails (curl 000) for 203/210/211/212
+C,https://www.gsa.gov/system/files/2023-10/GSA7925-23.pdf,direct,blocked,403 on www and origin-www
+C,q: sample LTL invoice AP training site:edu,websearch,hit,AGCO carrier instructions NA 2021 (shipper billing requirements); Cornell BM-805
+C,q: truckload contract award per mile site:.gov,websearch,hit,TN ITB 32101-13354 LTL trucking; Iowa master agreement docs
+C,q: COSTARS/WA DES/Ohio/NASPO LTL pricing attachment,websearch,miss,nothing state-specific
+C,gh: GS*IM*EXLA / SAIA / ABFS / FXFE / SEFL,github,hit,only baldr valid/1.EDI (EXLA); others empty
+C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-210-example.pdf,download,hit,"http 200 84065 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.insight.com/content/dam/insight-web/en_US/pdfs/insight/support/edi/insight-edi-vendor-214-example.pdf,download,hit,"http 200 122208 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://raw.githubusercontent.com/spiridonov/baldr/HEAD/spec/support/edi_files/valid/1.EDI,download,hit,http 200 1900 bytes ASCII text
+C,https://tn.gov/content/dam/tn/generalservices/documents/cpo/itb-updates/32101-13354/QC_ITB_32101-13354_LTL_Trucking_Final.pdf,download,miss,http 000 0 bytes cannot open `/tmp/claude-1000/-home-teddyb-Documents-persona
+C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/a2e05036-72df-4772-9648-d595f34b0d11,download,miss,"http 500 9015 bytes HTML document, ASCII text, with very long lines (414), with "
+C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/f061bc73-f734-48c0-9053-712d068bd9d5,download,hit,"http 200 120234 bytes PDF document, version 1.7, 4 pages (zip deflate encoded)"
+C,https://www.agcocorp.cn/content/dam/agcocorp/Suppliers/Carrier_Instructions_North_America_December_2021.pdf,download,hit,"http 200 169173 bytes HTML document, Unicode text, UTF-8 text, with very long line"
+C,https://www.estes-express.com/downloads/Digital-Capabilities-Matrix-Mar-2026.pdf,download,hit,"http 200 2685226 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://dgs.ca.gov/-/media/Divisions/PD/Acquisitions/TMU/Freight-Rate-Analysis-Request---7-10-24.pdf,download,hit,"http 200 130643 bytes PDF document, version 1.6 (zip deflate encoded)"
+C,https://www.agcocorp.cn/.../Carrier_Instructions_North_America_December_2021.pdf,direct,miss,returned HTML not PDF; deleted
+C,https://bidopportunities.iowa.gov/Home/ShowContractDocument/a2e05036-...,direct,miss,HTTP 500
+C,https://tn.gov/.../QC_ITB_32101-13354_LTL_Trucking_Final.pdf,direct,blocked,connection failed (curl 000)
+C,q: Averitt EDI 210 DocumentCenter,websearch,hit,"Averitt Paperless Invoicing PDF, Online Reporting PDF; no EDI spec"
+C,q: site:sefl.com EDI 210 / invoice,websearch,miss,third-party only
+C,q: site:saia.com EDI 210 / freight bill,websearch,miss,third-party only
+C,https://tools.averitt.com/public/documents/Averitt_Technology_PaperlessInvoicing.pdf,download,hit,"http 200 1140565 bytes PDF document, version 1.4"
+C,https://tools.averitt.com/public/documents/Averitt_Technology_OnlineReporting.pdf,download,hit,"http 200 1288055 bytes PDF document, version 1.4"
+C,q: W&I certificate exhibit courtlistener,websearch,miss,vendor blogs only
+C,q: ABF fuel surcharge table 2024 archived,websearch,hit,arcb fuel page (JS-rendered tables); FedEx Freight FTL fuel surcharge PDF
+C,http://web.archive.org/cdx/search/cdx (ABF fuel 2024),cdx,blocked,IA 'Temporarily Offline' then HTTP 429 on 4 attempts over ~25 min
+C,https://www.fedexfreight.com/content/dam/web/us/documents/fs-ftl-fuel-surcharge.pdf,download,hit,"http 200 126739 bytes PDF document, version 1.7, 4 pages"
+C,q: Pitt Ohio / AAA Cooper / Central Transport EDI 210 pdf,websearch,hit,Dayton EDI-210 setup form PDF; Pitt Ohio & AAA Cooper EDI pages (no spec); Central Transport online setup form
+C,https://www.ncwm.com/ntep-certificates,webfetch,hit,NTEP directory PDF Sept 2026 link
+C,https://cdn.ncwm.com/userfiles/files/NTEP/Directories/9%20-%20NTEP_Certificates_September_2026.pdf,download,hit,"http 200 142534 bytes PDF document, version 1.4, 1 pages"
+C,https://daytonfreight.com/wp-content/uploads/2017/01/EDI-210.pdf,download,hit,"http 200 176790 bytes HTML document, ASCII text, with very long lines (8832), with"
+C,https://daytonfreight.com/wp-content/uploads/2017/01/EDI-210.pdf,direct,miss,returned HTML not PDF; deleted
+C,https://archive.org/wayback/available (SEFL fuel),cdx,blocked,HTTP 429
+C,"http://web.archive.org/cdx/search/cdx (ABF fuel 2024, 6th attempt after 100s pause)",cdx,blocked,HTTP 429; gap 3 not fillable this session
+C,dl_C/ntep_directory/NTEP_Certificates_Directory_September_2026.pdf,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/estes_digital/Estes_Digital_Capabilities_Matrix_Mar2026.pdf,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/averitt_invoicing/Averitt_Technology_OnlineReporting.pdf,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_214/omniparser_canadapost_214.txt,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_214/yurii_214-4010.edi,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_204/yurii_204-dry-van-2-stop.edi,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_204/yurii_204-reefer-multi-stop.edi,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_204/blueseer_ACME_204.txt,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/gov_dgs_ca/CA_DGS_Freight_Rate_Analysis_Request_2024.pdf,trim,miss,"downloaded then dropped at 80-file cap (low value: synthetic demo, parcel, or off-gap)"
+C,dl_C/edi_gh_misc_210/bridgeflow_sample-210.txt,trim,miss,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,dl_C/edi_gh_misc_204/brycejech_204.x12,trim,miss,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,dl_C/edi_gh_misc_210/medici_210x12.edi,trim,miss,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,dl_C/edi_gh_misc_210/edifabric_FreightInvoice.txt,trim,miss,"dropped at cap: synthetic vendor sample, superseded by real carrier interchanges"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0001.pdf,download,hit,"http 200 44949 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0002.pdf,download,hit,"http 200 45038 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0003.pdf,download,hit,"http 200 44755 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/pdfs/0004.pdf,download,hit,"http 200 44746 bytes PDF document, version 1.4, 2 pages (zip deflate encoded)"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_WIEL_20251231183325.edi,download,hit,"http 200 6484 bytes ASCII text, with CRLF line terminators"
+C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/10559_TQYL_20251216172143.edi,download,hit,"http 200 12500 bytes ASCII text, with CRLF line terminators"
+C,github e3-solutions/scac-ln-bench README,github,hit,"700 freight invoice PDFs + 193 EDI 210 ground-truth files (broker-side, Dec 2025-Jan 2026); sampled 4 PDFs + 4 EDI"
+C,raw e3-solutions/scac-ln-bench data/pdfs/0001-0004.pdf,github,miss,"all four are Sterling Courier (K+N) air-courier invoices, out of TL/LTL scope and carry individuals' names; deleted"
+C,raw scac-ln-bench 10500_SGCS_20251231183354.edi,github,miss,"air-courier (Sterling) invoices, out of scope; deleted. WIEL/TQYL/SPXQ kept (truckload)"

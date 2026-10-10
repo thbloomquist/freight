@@ -1,0 +1,831 @@
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 1 of 17 PageID: 2120
+
+
+
+NOT FOR PUBLICATION
+
+                                UNITED STATES DISTRICT COURT
+                               FOR THE DISTRICT OF NEW JERSEY
+
+
+
+
+                                                          Civil Action No.: 08-cv-3582 (PGS)
+ ESTES EXPRESS LINES, INC. t/a ESTES
+ AIR,
+
+                  Plaintiff,                                           OPINION
+
+ vs.
+
+ MACY’S CORPORATE SERVICES f/k/a
+ FEDERATED CORPORATE SERVICES, et
+ al.,
+
+                  Defendants.
+
+
+
+
+SHERIDAN, U.S.D.J.
+
+       This is a breach of contract action filed by Estes Express Lines (“Plaintiff” or “Estes”) against
+
+various Macy’s-related defendants (collectively, “Macy’s” or “Defendants”) for failure to pay freight
+
+charges. Macy’s refuses to pay Estes because it claims that one of its wholesalers, Sanidown, Inc.,
+
+contracted with Estes. However, Estes asserts that it may seek recovery from either Sanidown or
+
+Macy’s. Currently before the Court are Plaintiff’s and Defendants’ motions for summary judgment
+
+and four motions to strike Defendants’ affidavits. For the following reasons, the Court will deny
+
+Plaintiff’s motion for summary judgment, grant Defendants’ motion for summary judgment, and
+
+deny Plaintiff’s motions to strike.
+
+
+
+                                                  1
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 2 of 17 PageID: 2121
+
+
+
+       I.      BACKGROUND
+
+       Macy’s is a retail company that sells a range of merchandise, including apparel and
+
+accessories, cosmetics, home furnishings and other consumer goods, in 45 states. As part of this
+
+nationwide retail operation, Macy’s contracts with wholesalers to purchase products for resale.
+
+Sanidown is a wholesaler that sells Macy’s feather, down and synthetic products such as pillows,
+
+featherbeds and comforters.
+
+       On August 11, 2006, Macy’s filed suit against Sanidown in the Southern District of New
+
+York after allegedly discovering that certain of Sanidown’s products were defective. (Franklin Aff.
+
+¶ 3.) As a result of this lawsuit, Sanidown agreed to remove the nonconforming products at its own
+
+expense from four Macy’s Central Return Centers located in New Jersey, Connecticut, New York
+
+and California and return them to Sanidown in Union, New Jersey. (1st May Aff. Ex. F.)1 On
+
+December 27, 2006, Macy’s and Sanidown memorialized their agreement in a joint stipulation,
+
+which was subsequently so-ordered by the court on January 4, 2007 (the “Macy’s-Sanidown
+
+Stipulation”). (Id. Ex. F.)
+
+       Upon reaching an agreement with Macy’s, Sanidown contacted Estes to negotiate shipping
+
+costs. (Franklin Aff. ¶ 6.) On December 11, 2006, Senior Vice President of Operations Perry Sella
+
+e-mailed Estes Sales Representative Keith Young requesting a “quote [for] the best rates you can
+
+give me to make this the most affordable move possible.” (1st May Aff. Ex. G.) The e-mail also
+
+provided an estimate of the total number of trailers that would be required to ship Sanidown’s
+
+
+       1
+          Defendants filed three affidavits bearing the same name, which the Court defines as
+follows to alleviate confusion: the May 1, 2009 May Affidavit (the “1st May Affidavit”); the
+June 1, 2009 May Affidavit (the “2nd May Affidavit”); and the June 15, 2009 May Affidavit (the
+“3rd May Affidavit”). For its part, Plaintiff filed four certifications in support of its motions to
+strike all bearing the same name.
+
+                                                 2
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 3 of 17 PageID: 2122
+
+
+
+products. Sanidown and Estes eventually agreed that Estes would pick-up and ship Sanidown’s
+
+products for $65,000. (1st May Aff. Ex. H.) However, this figure increased to $107,516.55 based
+
+upon, among other things, increased loads and altered locations. (Id. Ex. K.) Macy’s did not have
+
+“any involvement” in the hiring of or negotiations with Estes. (Franklin Aff. ¶ 6.)
+
+        After Sanidown selected Estes, on December 22, 2006, Macy’s in-house counsel Michael
+
+Franklin alerted personnel at the Central Return Centers that they would be contacted by Estes to
+
+arrange dates and times for pick-up. (See id. ¶ 8.) In addition, Franklin planned to “instruct the
+
+point people at the [Central Return Centers] to ‘ensure they create a bill of lading or freight bill for
+
+each trailer.” (Id.) According to Franklin, the bills of lading or freight bills were intended to create
+
+receipts for each shipment, not “to function as contracts of carriage or otherwise allocate liability for
+
+the freight charges” because “payment to Estes was purely a matter of contract between Sanidown
+
+and Estes made pursuant to the Order entered by the Court in the Macy’s v. Sanidown litigation.”
+
+(Id. ¶ 9.) The bills of lading did not, however, designate the consignor or consignee; nor was the
+
+nonrecourse clause marked. (Compl. Ex. A.)2
+
+        In late December 2006, Estes began transporting Sanidown’s goods from Macy’s Central
+
+Return Centers to Sanidown’s Union, New Jersey facilities in 49 separate shipments. (1st May Aff.
+
+Ex. J ¶ 6.) After each of these shipments, Estes sent bills of lading and invoices to Sanidown. (Oct.
+
+15, 2008 Mulloy Aff. Ex. 1; 1st May Aff. Ex. J.) On these bills of lading, Estes listed Sanidown as
+
+the consignee and Macy’s as the “shipper,” but also indicated the following: “BILL CHARGES TO:
+
+
+        2
+         Marking the nonrecourse clause in a bill of lading relieves the consignor of liability.
+Spedag Ams., Inc. v. Petters Hospitality & Entm’t Group LLC, No. 07-80576-CIV, 2008 WL
+3889551, *2 (S.D. Fl. Aug. 18, 2008). Plaintiff admits that it would not have filed suit against
+Defendants had this provision been marked. It is not even clear, however, that Macy’s bills of
+lading contain a nonrecourse clause.
+
+                                                   3
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 4 of 17 PageID: 2123
+
+
+
+SANIDOWN” at its Union, New Jersey address. (Id.) Notably, Estes did not send any bills of lading
+
+or invoices to Macy’s or inform Macy’s of the status of Sanidown’s account. (1st May Aff. Ex. D
+
+(Mulloy Dep. 40:11-17).) Nor did Macy’s ever promise to pay for the shipments. (Id. (94:16-19).)
+
+       By February 7, 2007, Sanidown had yet to make a single payment to Estes. (Id. (95:20-25).)
+
+As a result, on May 17, 2007, Estes filed a four count complaint in this District against Sanidow.
+
+Estes Air Transp. Servs. v. Sanidown, Inc., 07-cv-02351-SDW. Estes also named in their suit
+
+Federated Logistics and Operations, a Macy’s-related entity. (Id.) However, on February 13, 2008,
+
+Estes voluntarily dismissed Macy’s. (See Franklin Aff. ¶ 10.) According to Defendants, Estes
+
+dismissed Macy’s after it was made clear that Macy’s had “no agreement with Estes, had no
+
+involvement in the negotiations with Estes, [and] did not hire Estes . . . .” (Id.)
+
+       On December 8, 2008, Estes obtained a judgment against Sanidown for $107,516.55, which
+
+represented the total of its freight bills, plus $37,630.79 in so-called collection fees. (1st May Aff.
+
+Ex. L.)3 Estes’s collection fees originated from terms and conditions, which were incorporated into
+
+Sanidown’s agreement with Estes by virtue of an air waybill. Since Macy’s was not involved in
+
+either the selection of or negotiations with Estes, it is undisputed that Macy’s was never provided
+
+with a copy of either of these documents. (Id. Ex. D (Mulloy Dep. 34:4-9).)
+
+       Estes has not collected on its judgment because Sanidown allegedly has no assets and is no
+
+longer in operation. (Id. (90:14-17).) As a result, Estes now seeks to recover against Macy’s. On
+
+April 15, 2008, Estes filed a complaint in the United States District Court for the Central District of
+
+
+
+       3
+         Initially, Estes obtained an arbitration award against Sanidown for $107,516.55 plus
+costs and interest. However, Sanidown thereafter filed a demand for a trial de novo and Estes
+filed a motion for summary judgment, which went unopposed and was eventually granted. (1st
+May Aff. Ex. L.)
+
+                                                  4
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 5 of 17 PageID: 2124
+
+
+
+California against Macy’s alleging three causes of action: (1) breach of transportation contracts; (2)
+
+quasi-contract; and (3) open account. According to the complaint, Sanidown and Macy’s are jointly
+
+liable because Macy’s issued bills of lading for each shipment. (See Compl. Ex. A.) On July 15,
+
+2008, the California district court granted Defendants’ motion to transfer this matter to New Jersey.
+
+Thereafter, both Plaintiff and Defendants moved for summary judgment.4 Plaintiff also filed a
+
+separate motion to strike in part each of the four affidavits filed by Defendants in connection with
+
+the summary judgment motions: the Franklin Affidavit; the 1st May Affidavit; the 2nd May
+
+Affidavit; and the 3rd May Affidavit.
+
+        II.     SUMMARY JUDGMENT STANDARD
+
+        Summary judgment is appropriate under Rule 56(c) of the Federal Rules of Civil Procedure
+
+“if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the
+
+affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party
+
+is entitled to a judgment as a matter of law.” Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986)
+
+(internal quotations omitted). A factual dispute is genuine if a reasonable jury could return a verdict
+
+for the non-movant, and it is material if, under the substantive law, it would affect the outcome of
+
+the suit. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986). “In considering a motion for
+
+summary judgment, a district court may not make credibility determinations or engage in any
+
+weighing of the evidence; instead, the non-moving party’s evidence ‘is to be believed and all
+
+justifiable inferences are to be drawn in his favor.’” Marino v. Indus. Crating Co., 358 F.3d 241,
+
+
+
+        4
+          The parties briefing on the pending motions was substantially enlarged by two factors:
+first, simultaneous motions for summary judgment were filed, not cross-motions pursuant to
+Local Civil Rules 7.1(h) and 7.1(d)(3); and second, Plaintiff filed a motion to strike for each of
+the four challenged affidavits rather than an omnibus motion.
+
+                                                   5
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 6 of 17 PageID: 2125
+
+
+
+247 (3d Cir. 2004) (quoting Anderson, 477 U.S. at 255).
+
+       Once the moving party has satisfied its initial burden, the party opposing the motion must
+
+establish that a genuine issue as to a material fact exists. Jersey Cent. Power & Light Co. v. Lacey
+
+Twp., 772 F.2d 1103, 1109 (3d Cir. 1985). The party opposing the motion for summary judgment
+
+cannot rest on mere allegations. Anderson, 477 U.S. at 248. “[U]nsupported allegations” are
+
+insufficient to defeat summary judgment. Schoch v. First Fidelity Bancorp., 912 F.2d 654, 657 (3d
+
+Cir. 1990). Moreover, only disputes over facts that might affect the outcome of the lawsuit under
+
+governing law will preclude the entry of summary judgement. Anderson, 477 U.S. at 247-48. If a
+
+court determines, “after drawing all inferences in favor of [the non-moving party], and making all
+
+credibility determinations in his favor -- that no reasonable jury could find for him, summary
+
+judgment is appropriate.” Alevras v. Tacopina, 226 Fed. Appx. 222, 227 (3d Cir. 2007).
+
+       III.    DISCUSSION
+
+               A.      Plaintiff’s Motions to Strike
+
+       Before discussing the parties’ motions for summary judgment, the Court will first address
+
+Plaintiff’s motions to strike. As Defendants are quick to point out, Plaintiff’s motions are generally
+
+an attempt to avoid the merits of summary judgment through an overly restrictive reading of both
+
+the Federal Rules of Civil Procedure and the Rules of Evidence.
+
+                       1.      Franklin Affidavit
+
+       Plaintiff seeks to strike the Franklin Affidavit as argumentative and because it contains legal
+
+conclusions regarding the Macy’s-Sanidown Stipulation and the Macy’s bills of lading. Franklin
+
+explains that pursuant to the stipulation “Sanidown agreed to make all the arrangements for removal
+
+of the recalled Sanidown goods and pay all costs associated with shipping those goods . . . .”
+
+
+                                                  6
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 7 of 17 PageID: 2126
+
+
+
+(Franklin Aff. ¶ 5.) With respect to Macy’s bills of lading, Franklin notes that they “were not
+
+intended to function as contracts of carriage or otherwise allocate liability for freight charges.” (Id.
+
+¶ 9.) Plaintiff claims that these statements inappropriately cross the line between fact and
+
+conclusion.
+
+       Pursuant to Rule 56(e), a party may file an affidavit in support of or in opposition to a motion
+
+for summary judgment if “made on personal knowledge, set[ting] out facts that would be admissible
+
+in evidence, and show[ing] that the affiant is competent to testify on the matters stated.” See also
+
+L. Civ. R. 7.2(a) (“Affidavits shall be restricted to statements of fact within the personal knowledge
+
+of the affiant. Argument of the facts and the law shall not be contained in affidavits. Legal
+
+arguments and summations in affidavits will be disregarded by the Court and may subject the affiant
+
+to appropriate censure, sanctions or both.”).5 In applying this rule, courts have struck affidavits in
+
+whole or in part that contain legal arguments or information not based upon personal knowledge.
+
+See, e.g., United States v. $487,825.000 in U.S. Currency, 484 F.3d 662, 665 n.3 (3d Cir. 2007).
+
+       The Franklin Affidavit satisfies the standard set forth in Rule 56(e). The Franklin Affidavit
+
+is not argumentative; nor does it contain legal conclusions. Franklin was an in-house and litigation
+
+attorney responsible for ensuring compliance with the Sanidown-Macy’s stipulation. Given these
+
+responsibilities, Franklin can and does offer a factual, first-hand account of the purpose of both the
+
+stipulation and bills of lading. Compare $487,825.000 in U.S. Currency, 484 F.3d at 665 n.3.
+
+
+        5
+          Neither Federal Rules of Civil Procedure nor the Local Rules explicitly authorize a
+motion to strike an exhibit to an affidavit. Rule 12(f) of the Federal Rules states that only a
+“pleading” may be struck. Local Rule 7.2 states that a court may “disregard” (not strike) an
+affidavit, or censure or sanction the affiant. Accordingly, courts in this District sometimes deny
+motions to strike exhibits as “procedurally incorrect.” In re Schering-Plough Corp., Civil Action
+No. 08-CV-397 (DMC), 2009 WL 1410961, at *2 (D.N.J. May 19, 2009). In this case, however,
+the Court will consider Plaintiff’s motions to strike on the merits.
+
+                                                   7
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 8 of 17 PageID: 2127
+
+
+
+       Plaintiff also argues that the Franklin Affidavit fails to comply with Rule 56(e)’s personal
+
+knowledge requirement. The Franklin Affidavit states that “[t]he facts set forth in this Affidavit are
+
+based on my personal knowledge and my review of relevant business records and files relating to
+
+this case. If called as a witness, I could and would testify competently to such facts under oath.”
+
+(Franklin Aff. ¶ 1.) According to Plaintiff, the Franklin Affidavit violates Rule 56(e) because
+
+“Franklin fails to affirm that he is currently competent to testify,” only that he could testify
+
+competently in the future. Plaintiff thus attempts to draw a fine distinction between the language of
+
+the rule and the representations of Franklin in his affidavit.
+
+       The Court, however, finds no significance in Plaintiff’s distinction between the language of
+
+Rule 56(e) and Franklin’s representations. Franklin’s representation closely tracks the language of
+
+Rule 56(e). Thus, the Court will not strike the Franklin Affidavit.
+
+                       2.      1st and 2nd May Affidavits
+
+       Plaintiff also seeks to strike Exhibits G, H, I, N of both the 1st and 2nd May Affidavits.6
+
+Exhibit G is a December 11, 2006 e-mail from Sella to Young; Exhibit H is a February 16, 2007 e-
+
+mail from Young to Vince Radford, another Estes employee; Exhibit I is a May 7, 2007 e-mail from
+
+Young to Sella; and Exhibit N is a sample bill of lading obtained from Estes’s website. Plaintiff
+
+claims that May, as an attorney in the litigation (and in-house counsel for Macy’s), has no personal
+
+knowledge of these exhibits because he did not generate or receive the documents prior to litigation.
+
+       Plaintiff’s argument, however, fails on two accounts. First, Plaintiff misreads the May
+
+Affidavit. May is not attesting to the facts contained within the attached documents, but merely
+
+
+       6
+         The 1st and 2nd May Affidavits are largely identical except that the 2nd May Affidavit
+includes two additional exhibits, Exhibit O and Exhibit P. Exhibit O is not at issue in Plaintiff’s
+motions to strike, and Exhibit P is a copy of the Franklin Affidavit, which is discussed above.
+
+                                                  8
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 9 of 17 PageID: 2128
+
+
+
+offering true and accurate copies of documents produced in discovery. Surely, May has personal
+
+knowledge as to whether he has submitted true and accurate copies of documents produced in
+
+discovery. Second, Plaintiff ignores the reality that filing documents pursuant to attorney declaration
+
+is a well established practice. See, e.g., Shell Trademark Mgmt. BV v. Ray Thomas Petroleum Co.,
+
+Inc., 642 F. Supp. 2d 493, 511 (W.D.N.C. 2009). “Documents produced in response to discovery
+
+requests are admissible on a motion for summary judgment since they are self-authenticating and
+
+constitute the admissions of a party opponent.” Anand v. BP W. Coast Prods. LLC, 484 F. Supp. 2d
+
+1086, 1092 n. 11 (C.D. Cal.2007). Accordingly, courts have warned litigants such as Plaintiff that
+
+“[i]t is disingenuous and wasteful” to object to one’s own documents based upon personal
+
+knowledge or authentication. Id. (quoting Comm. Data Servers, Inc. v. IBM, 262 F. Supp. 2d 50,
+
+60 (S.D.N.Y. 2003)). Thus, the Court will not strike Exhibits G, H, I, N of the 1st and 2nd May
+
+Affidavits for lack of personal knowledge or authenticity.
+
+       Plaintiff also asserts (without argument or citation) that Exhibits G, H, I, N of the 1st May
+
+Affidavit constitute hearsay. Hearsay is defined as “a statement, other than one made by the
+
+declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter
+
+asserted.” FED . R. EVID . 801(c). Party admissions, however, do not constitute hearsay. Pursuant to
+
+Rule 801(d)(2), “[a] statement is not hearsay if . . . [t]he statement is offered against a party and is
+
+(A) the party’s own statement, in either an individual or a representative capacity . . . .” Moreover,
+
+even where a statement constitutes hearsay, a court may consider it on summary judgment “if the
+
+party offering the evidence could satisfy the applicable admissibility requirements at trial.” Robinson
+
+v. Hartzell Propeller Inc., 326 F. Supp. 2d 631, 645 (E.D. Pa. 2004) (citing Philbin v. Trans Union
+
+Corp., 101 F.3d 957, 961 (3d Cir.1996)), appeal dismissed, 454 F.3d 163 (3d Cir. 2006). “For
+
+
+                                                   9
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 10 of 17 PageID: 2129
+
+
+
+ example, hearsay evidence produced in an affidavit opposing summary judgment may be considered
+
+ if the out-of-court declarant could later present that evidence through direct testimony, i.e. in a form
+
+ that would be admissible at trial. ” Id. (internal quotations omitted).
+
+        Exhibits H and I do not constitute hearsay because they are party admissions. Exhibits H and
+
+ I are statements made by Estate’s representatives offered against Estes. Exhibit G is not a party
+
+ admission, but is nonetheless capable of being admissible at trial through direct testimony.
+
+ Robinson, 326 F. Supp. 2d at 645. Thus, the Court will not strike Exhibits G, H or I of the 1st and
+
+ 2nd May Affidavits based upon hearsay.7
+
+                B.      Motions for Summary Judgment
+
+        Having determined that Plaintiff’s motions to strike should be denied, the Court will now
+
+ address the parties’ motions for summary judgment. In support of its summary judgment motion,
+
+ Plaintiff asserts that Macy’s is responsible for freight charges because Macy’s issued the bills of
+
+ lading for each shipment. Defendants, however, claim that Sanidown is solely responsible to Estes
+
+ for freight charges because of Sanidown’s verbal agreement with Estes. The primary issue,
+
+ therefore, is what alleged contract should govern liability for freight charges, the bills of lading
+
+ issued by Macy’s or Sanidown’s agreement with Estes.
+
+                        1.      Breach of Transportation Contracts
+
+        A bill of lading operates as both a basic transportation contract between a consignor and a
+
+ carrier and as a receipt. S. Pac. Transp. Co. v. Commercial Metals Co., 456 U.S. 336, 342 (1982);
+
+ EF Operating Corp. v. Am. Bldgs., 993 F.2d 1046, 1050 (3d Cir. 1993). As such, a bill of lading is
+
+
+        7
+         The Court has not considered Exhibit N of the 1st and 2nd May Affidavits or the 3rd
+ May Affidavit in its summary judgment analysis. Accordingly, it is unnecessary to rule on
+ whether these documents should be struck from the record.
+
+                                                   10
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 11 of 17 PageID: 2130
+
+
+
+ subject to general rules of construction under contract law. EF Operating, 993 F.2d at 1050 (citing
+
+ Tex. & Pac. R. Co. v. Reiss, 183 U.S. 621, 629-31 (1902)). The terms and conditions of a bill of
+
+ lading bind the shipper and all connecting carriers. S. Pac. Transp., 456 U.S. at 342.
+
+         A typical bill of lading includes the following information: “it names the contracting parties,
+
+ specifies the rate or charge for transportation, and sets forth the agreement and stipulations with
+
+ respect to the limitations of the carrier's common-law liability in the case of loss or injury to the
+
+ goods and other obligations assumed by the parties or to matters agreed upon between them.”
+
+ Schneider Nat’l Carriers, Inc. v. Rudolph Express Co., Inc., 855 F. Supp. 270, 274 (E.D. Wisc.
+
+ 1994); see also 49 C.F.R. § 373.101 (“Every motor common carrier shall issue a receipt or bill of
+
+ lading for property tendered for transportation in interstate or foreign commerce containing the
+
+ following information: (a) Names of consignor and consignee[;] (b) Origin and destination points[;]
+
+ (c) Number of packages[;] (d) Description of freight[;] (e) Weight, volume, or measurement of
+
+ freight (if applicable to the rating of the freight).”).
+
+         Under the default terms of a bill of lading, “the consignor remains primarily liable for the
+
+ freight charges.” Id. However, a consignor can avoid liability for freight charges in a number of
+
+ ways. For example, a consignor can mark what is called a “nonrecourse” clause in the bill of lading.
+
+ “If the nonrecourse clause is signed by the consignor and no provision is made for the payment of
+
+ freight, delivery of the shipment to the consignee relives the consignor of liability.” Spedag Ams.,
+
+ Inc. v. Petters Hospitality & Entm’t Group LLC, No. 07-80576-CIV, 2008 WL 3889551, *2 (S.D.
+
+ Fl. Aug. 18, 2008) (quoting C.A.R. Transp. Brokerage Co. v. Darden Restaurants, Inc., 213 F.3d
+
+ 474, 478-79 (9th Cir. 2000)). A consignor can also arrange for execution of a separate transportation
+
+ contract. “[P]arties are generally free to assign liability for the payment of freight charges through
+
+
+                                                     11
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 12 of 17 PageID: 2131
+
+
+
+ contract separate from the bill of lading, effectively modifying the default rules on either shipper or
+
+ consignee liability by contract.” Id. at *3 (citing Louisville & Nashville R.R. Co. v. Central Iron &
+
+ Coal Co., 265 U.S. 59, 66-67 (1924)). When a separate contract is executed, the bill of lading
+
+ “serves only as a receipt for the transfer of the goods, and will not serve to alter the terms of the
+
+ previous agreement.” Vanlab Corp. v. Blossom Valley Foods Corp., No. 04-CV-6183, 2005 WL
+
+ 43772, at *3 (W.D.N.Y. Jan. 10, 2005) (citing Greenstone Shipping Co., S.A. v. Transworld Oil,
+
+ Ltd., 588 F. Supp. 574, 579-80 (D. Del. 1984)).
+
+        The parties’ relationship in this case is defined by the contract entered into (and admitted by)
+
+ Estes and Sanidown and not a bill of lading.8 Spedag, 2008 WL 3889551, *2. According to a
+
+ February 16, 2007 e-mail from Estes Sales Representative Keith Young to an Estes account
+
+ collections manager, “[t]here was an original verbal agreement” between Estes and Sanidown that
+
+ the “project would be done for $65,000” and that additional charges may apply, if appropriate. (1st
+
+ May Aff. Ex. H.) This contract is further evidenced by Estes’s own bills of lading and invoices
+
+ indicating Macy’s as the “shipper,” but stating the following: “BILL CHARGES TO: SANIDOWN.”
+
+ (Oct. 15, 2008 Mulloy Aff. Ex. 1.)
+
+        In light of this contract of carriage between Estes and Sanidown, Macy’s bills of lading
+
+ served only as receipts for the transfer of goods. Indeed, Macy’s bills of lading lack basic
+
+ information necessary to create an enforceable contractual relationship. For example, Macy’s bills
+
+
+        8
+          As a matter of general contract law, oral agreements are enforceable through a party’s
+ admission. See Integrity Material Handling Sys., Inc. v. Deluxe Corp., 317 N.J. Super. 406, 415
+ (App. Div. 1999) (“[W]hen a party admits to making an oral contract, he should be held to this
+ bargain.”). Even more pertinent, oral agreements for the transportation of goods are also
+ enforceable. Mo., K. & T. Ry. Co. of Tex. v. Patrick, 144 F. 632, 633 (8th Cir. 1906) (A
+ transportation contract “may be orally made, and when so made, in the absence of fraud or
+ imposition, it is as obligatory upon both the shipper and carrier as a written one.”).
+
+                                                   12
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 13 of 17 PageID: 2132
+
+
+
+ of lading do not set forth limitations on the carrier’s liability in the case of loss or other obligations
+
+ assumed by the parties; nor do they designate consignor and consignee. See Schneider Nat’l
+
+ Carriers, 855 F. Supp. at 274; 49 C.F.R. § 373.101. These omissions are not surprising given the
+
+ undisputed fact that Macy’s did not have “any involvement”in the hiring of or negotiations with
+
+ Estes. (Franklin Aff. ¶ 6.) Nor did Macy’s ever promise to pay for shipment. (1st May Aff. Ex. D
+
+ (Mulloy Dep. (94:16-19).)9
+
+         Furthermore, Macy’s bills of lading did not modify the agreement between Estes and
+
+ Sanidown, making Macy’s jointly responsible. If parties enter into a contract before a bill of lading
+
+ is issued, “and there is ‘an irreconcilable repugnancy” between the prior contract and the bills of
+
+ lading, the conflict is ‘resolved in favor of the former.’” Oak Harbor Freight Lines, Inc. v. Sears
+
+ Roebuck & Co., 513 F.3d 949, 955 (9th Cir. 2008) (quoting Toyo Kisen Kaisha v. W.R. Grace & Co.,
+
+ 53 F.2d 740, 742 (9th Cir. 1931)); accord Vanlab, 2005 WL 43772, at *3. “It is only where the
+
+ parties fail to agree or where discriminatory practices are present that the [bill of lading’s] default
+
+ terms bind the parties.” Oak Harbor, 513 F.3d at 955 (quoting C.A.R. Transp. Brokerage Co. v.
+
+ Darden Restaurants, Inc., 213 F.3d 474, 479 (9th Cir. 2000)). The prior contract between Estes and
+
+ Sanidown is irreconcilable with the bills of lading because the contract assigns liability solely to
+
+ Sanidown while the bills of lading purportedly assign liability to Sanidown and Macy’s jointly.
+
+         Thunderbird Motor Freight Lines, Inc. v. Seaman Timber Co., Inc., 734 F.2d 630 (11th Cir.
+
+ 1984) presents closely analogous facts. In Thunderbird, a transportation company brought suit
+
+ against a lumber company for unpaid freight charges. Id. at 631. Like Macy’s, the lumber company
+
+
+
+         9
+          Because the bills of lading are only receipts and not contracts of carriage, Macy’s failure
+ to mark the nonrecourse provision of the bills of lading is of no consequence.
+
+                                                    13
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 14 of 17 PageID: 2133
+
+
+
+ had not selected or negotiated with the plaintiff transportation company. Id. Nonetheless, the
+
+ lumber company was sued because the purchaser of the lumber became insolvent, like Sanidown.
+
+ Id. The lumber company’s only role was logistical, assisting with the loading of lumber onto the
+
+ plaintiff’s trucks. Id. In the district court, the plaintiff in Thunderbird obtained judgment in its favor
+
+ based upon the same argument raised in this case, a failure to mark the nonrecourse clause of the
+
+ bills of lading. Id. at 631-32. The appeals court, however, reversed because any presumption that
+
+ the lumber yard was responsible for freight charges was rebutted. Id. at 632. According to the
+
+ appeals court, the lumber company had no interest in the arrangement because the contract was really
+
+ between the purchaser of the lumber and the plaintiff transportation company. See id. Thunderbird
+
+ dictates a similar result in this case.10
+
+         Rather than directly addressing Thunderbird and other applicable case law, Plaintiff
+
+ emphasizes the importance of its motions to strike.11 In doing so, Plaintiff hopes that the Court will
+
+ be left to weigh the credibility of conflicting statements and possibly deny summary judgment. For
+
+ example, Plaintiff filed an affidavit stating that “[o]ther than the bills of lading issued for each
+
+ individual shipment, the parties did not enter into any other contract.” (Mulloy Aff. ¶ 7.) This
+
+ statement clearly contradicts the affidavits filed by Defendants. Nonetheless, since the Court is
+
+ denying Plaintiff’s motions to strike, the Court can consider Estes’s e-mail admissions of its verbal
+
+
+         10
+           To be sure, Macy’s issued bills of lading (whereas the lumber yard did not). But this
+ distinction is immaterial to Plaintiff’s argument, which does not focus on the fact that Macy’s
+ issued bills of lading, but rather on execution of the nonrecourse clause of those bills of lading.
+         11
+           Plaintiff does cite to Bestway Sys., Inc. v. Gulf Forge Co., 100 F.3d 31, 34 (5th Cir.
+ 1996), but that case is distinguishable. In Bestway, the court was confronted with bills of lading
+ enforceable as contracts of carriage. 100 F.3d at 33-34. In the present case, Macy’s bills of
+ lading lack terms essential to making them contracts of carriage, and they were only intended as
+ receipts.
+
+                                                    14
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 15 of 17 PageID: 2134
+
+
+
+ agreement with Sanidown, and is free to ignore Plaintiff’s self-serving conclusions. O’Sekon v.
+
+ Exxon Corp., No. CIV. 00-675(WGB), 2001 WL 1715783, *4 (D.N.J. Dec. 21, 2001) (“[A] party
+
+ cannot rely upon self-serving conclusions, unsupported by specific facts in the record.”) (citing
+
+ Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986)).
+
+        Nor is the discrepancy between the price quoted by Estes to Sanidown -- what Plaintiff calls
+
+ a mere “estimate” -- and the eventual freight charges assessed to Sanidown a material fact, which
+
+ forecloses summary judgment. According to the arbitration award in favor of Estes and against
+
+ Sanidown, the original quote increased because “[i]t was undisputed that [Sanidown] increased the
+
+ number of loads and altered the locations from which the product was to be picked up and
+
+ delivered.” (1st May Aff. Ex. K.) Consequently, the increase in freight charges merely reflects
+
+ modifications to Sanidown and Estes’s contract as a result of Estes’s additional services; it is not
+
+ evidence of the parties’ failure to assent to the terms of the original contract. Moreover, regardless
+
+ of whether Estes’s price quote via e-mail deviated from its established procedures, Sanidown
+
+ accepted Estes’s verbal offer in this case, creating an enforceable contract. Accordingly, count one
+
+ of Plaintiff’s complaint is dismissed.
+
+                        2.      Quasi-Contract
+
+         Count two of Plaintiff’s complaint seeks recovery for quasi-contract based upon unjust
+
+  enrichment.12 The doctrine of unjust enrichment rests on the equitable principle that a person shall
+
+  not be allowed to enrich himself unjustly at the expense of another. Assocs. Comm. Corp. v. Wallia,
+
+  211 N.J. Super. 231, 244 (App. Div. 1986). “To recover under this doctrine, the plaintiff must
+
+
+
+        12
+          “Quasi-contractual obligations are generally based on unjust enrichment . . . .” Richard
+ A. Lord, 1 Williston on Contracts § 1:6 (4th ed. 2009).
+
+                                                   15
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 16 of 17 PageID: 2135
+
+
+
+  prove that the defendant ‘received a benefit, and that retention of the benefit without payment
+
+  therefor would be unjust.’” Id. (quoting Callano v. Oakwood Park Homes Corp., 91 N.J. Super.
+
+  105, 109 (App. Div.1966)).
+
+         Plaintiff cannot prove that Macy’s received a benefit the retention of which would be unjust.
+
+  It was Sanidown -- seeking compliance with the “Macy’s-Sanidown Stipulation -- and not Macy’s,
+
+  which received the benefit. Macy’s had no part in the selection of or negotiations with Estes. Thus,
+
+  count two of Plaintiff’s complaint is dismissed.
+
+                         3.      Open Account
+
+         Count three of Plaintiff’s complaint seeks recovery for what is styled as an “open account”
+
+  or book account. See James H. Walzer, 52 N.J. Prac. Elements of Action § 4:1 (2009-10 ed.).13
+
+  “An ‘account’ is an unsettled claim or demand, by one person against another, based on a
+
+  transaction creating a debtor-creditor relationship between the parties.” Id.; see, e.g., Harris v.
+
+  Merlino, 137 N.J.L. 717, 718-20 (E. & A. 1948).
+
+         Plaintiff’s account claim fails because Sanidown is solely responsible for Estes unsettled
+
+  demand. As stated, Macy’s had no part in the selection of or negotiations with Estes. Nor does
+
+  Macy’s admit to the correctness of the account, as evidenced by its opposition to this litigation.
+
+  Thus, count three of Plaintiff’s complaint is dismissed.
+
+
+
+
+        13
+           “A book account is based on transactions creating a debtor and creditor relation,
+ evidenced by entries made and kept in a “book” regularly kept and used for that purpose. . . . An
+ ‘open’ account has an undetermined balance and remains open in contemplation of future
+ transactions.” Id.
+
+                                                  16
+Case 2:08-cv-03582-PGS-ES Document 91 Filed 01/28/10 Page 17 of 17 PageID: 2136
+
+
+
+         IV.    CONCLUSION
+
+         For the foregoing reasons, Plaintiff’s motion for summary judgment is denied, Defendants’
+
+  motion for summary judgment is granted, and Plaintiff’s motions to strike are denied.
+
+
+
+                                              s/Peter G. Sheridan
+                                              PETER G. SHERIDAN, U.S.D.J.
+
+  January 28, 2010
+
+
+
+
+                                                17
+

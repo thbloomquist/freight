@@ -1,0 +1,902 @@
+United States Bankruptcy Court for the District of Delaware
+
+                                                                                                     For Court Use Only
+ Name of Debtor: Yellow Corporation                                                                  Claim Number:        0000019254
+
+ Case Number:          23-11069                                                                      File Date:           01/09/2024 17:05:52
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 Cass Information Systems Inc.
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          Cass Information Systems Inc.
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        12444 Powerscourt Drive
+              _______________________________________________________              Address     _______________________________________________________
+               Suite 550
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+              St. Louis
+City          _______________________________________________________              City        _______________________________________________________
+               MO                                   63131
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+
+Country (if International): __________________________________________             Country (if International): __________________________________________
+              3142584425
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              tschamber@cassinfo.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           283,387.35
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       Contract/Executory Contract
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □
+                                                                                                                    ✔ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Tammy Schamber                                                                 01/09/2024 17:05:52
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      Cass Information Systems Inc.
+                            Name      ______________________________________________________________________________________________
+                                    12444 Powerscourt Drive
+                            Address _____________________________________________________________________________________________
+                                      Suite 550
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      St. Louis
+                            City      _____________________________________________________________________________________________
+                                      MO                                                    63131
+                            State     ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+                                      3142584425
+                            Phone     _____________________________________________________________________________________________
+                                       tschamber@cassinfo.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+      Cass Trade Finance Agreement - JELD-WEN
+
+      Carrier/Provider:      YELLOW (YRC FREIGHT, HOLLAND,                          Date Quoted: Jun 28, 2021
+      Carrier Code:          REDDAWAY, NEW PENN, HNRY LOGISTICS)
+                             YRC 44309 A, YRC R3C2S B,
+                             ROADW44393 D, ROADW60673 C
+                             USFHO60673 B, USFHO60673 C,
+                             USFHO63150 A, USFRE60673 A,
+                             NEWPE60673 A, HNRYL60677 A,
+                             REIMER3C2S B
+
+
+      This Trade Finance Service Agreement ("Agreement") is entered into by and between YELLOW (YRC FREIGHT,
+      HOLLAND, REDDAWAY, NEW PENN, HNRY LOGISTICS) ("Carrier") and Cass Information Systems, Inc. ("Cass"). By
+      participating in this program, YELLOW (YRC FREIGHT, HOLLAND, REDDAWAY, NEW PENN, HNRY LOGISTICS)
+      will receive accelerated payments from Cass of freight bills on behalf of JELD-WEN Inc. ("JELD-WEN") and its
+      Af liates. Additional JELD-WEN Af liates will be added as they become active.
+
+      Rate
+      The discount rate applied to each invoice will be .0100 per total dollar amount per freight bill paid to carrier. The
+      program is applicable only to all JELD-WEN and Af liates invoices, all other clients excluded. Each Carrier shall
+      pay to Cass on or prior to the tenth day of each month .0100 of the total dollar amount of the freight
+      bills paid by Cass to such Carrier during the immediately preceding month.
+
+      Payment Date
+      The date of payment of freight bills for JELD-WEN and its Af liates is two business days following processing by
+      Cass.
+
+      Terms & Conditions
+      This agreement is subject to the Cass Trade Finance Terms and Conditions.
+
+
+
+
+      CARRIER AGREES THAT BY PARTICIPATING IN THE CASS TRADE FINANCE PROGRAM (THE “PROGRAM”), IT IS
+      ENTERING INTO A LEGALLY BINDING AGREEMENT WITH CASS IN ACCORDANCE WITH THE TERMS AND
+      CONDITIONS OF THIS TRADE FINANCE AGREEMENT (THIS “AGREEMENT”), INCLUDING THE TRADE FINANCE
+      TERMS AND CONDITIONS. IF YOU ARE ACCEPTING THIS AGREEMENT ON BEHALF OF A LEGAL ENTITY, YOU
+      REPRESENT THAT YOU ARE THE DULY AUTHORIZED REPRESENTATIVE OF THAT ENTITY AND THAT THE
+      ENTITY WILL BE BOUND BY THE TERMS OF THIS AGREEMENT AND DEEMED THE “CARRIER” HEREUNDER. IF
+      YOU DO NOT AGREE TO THIS AGREEMENT (INCLUDING THE TRADE FINANCE TERMS AND CONDITIONS),
+      CARRIER MAY NOT ACCESS OR PARTICIPATE IN THE PROGRAM. CASS MAY AMEND THE TRADE SERVICE
+      TERMS AND CONDITIONS AT ANY TIME BY POSTING NOTICE OF THE CHANGES ON THE CASS WEBSITE.
+      PLEASE REVIEW THE CASS WEBSITE REGULARLY FOR NOTICES AND CHANGES. EACH TIME CARRIER
+      ACCESSES OR PARTICIPATES IN THE PROGRAM, IT IS AGREEING TO THE TERMS OF THIS AGREEMENT.
+
+
+              I acknowledge that I am authorized to enter into this agreement. I have read and agree to the Cass
+              Trade Finance Terms & Conditions. I understand that to facilitate this program, Cass will initiate ACH direct
+              deposits of funds to the bank account on le with Cass.
+
+
+
+
+Document Ref: YTQCK-J8FYX-2LFJE-UEYCT                                                                                         Page 1 of 2
+      Name        Todd Wilson                                          Title   Director - Revenue Management
+
+                  Todd.Wilson@myYellow.com                                     (913) 344-3718
+      Email                                                            Phone
+
+
+
+      Company Address           10990 Roe Ave Overland Park KS 66211
+
+
+
+
+                                                                                       07 / 23 / 2021
+      Signed by                                                  Date of acceptance
+
+
+
+
+Document Ref: YTQCK-J8FYX-2LFJE-UEYCT                                                                          Page 2 of 2
+                  Signature Certificate
+              Document Ref.: YTQCK-J8FYX-2LFJE-UEYCT
+
+Document signed by:
+
+                 Todd Wilson
+                 E-mail:
+                 todd.wilson@myyellow.com
+                 Signed via link
+
+                IP: 174.234.11.167      Date: 23 Jul 2021 14:37:21 UTC
+
+
+
+                    Document completed by all parties on:
+                        23 Jul 2021 14:37:21 UTC
+                                     Page 1 of 1
+
+
+
+
+           Signed with PandaDoc.com
+           PandaDoc is a document workflow and certified eSignature
+           solution trusted by 25,000+ companies worldwide.
+                                                                                                              Invoice
+                                                                                         Page 1/1
+                                                                                      Invoice F-0005808
+                                                                                         Date May 1, 2023
+
+
+
+
+Bill To:     YRC                                              Remit To:   P.O. Box 87465
+             ATTN: TODD WILSON/APB62DIR                                   Carol Stream, IL 60188-7465
+             P.O. BOX 7914
+             OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.    Customer ID         Salesperson ID                     Payment Terms         Due Date
+                   2162                                                      Upon Receipt
+Quantity        Item                            Description                                    Rate           Ext. Amount
+        1 F-YRC            Expedite April                                                     $93,290.13            $93,290.13
+
+                                                                                                Subtotal            $93,290.13
+                                                                                                    Misc                 $0.00
+                                                                                                     Tax                 $0.00
+                                                                                                 Freight                 $0.00
+                                                                                          Trade Discount                 $0.00
+                                                                                                   Total            $93,290.13
+                                                                                                             Invoice
+                                                                                        Page 1/1
+                                                                                     Invoice F-0005869
+                                                                                        Date July 1, 2023
+
+
+
+
+Bill To:     YRC                                             Remit To:   P.O. Box 87465
+             ATTN: TODD WILSON/APB62DIR                                  Carol Stream, IL 60188-7465
+             P.O. BOX 7914
+             OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.    Customer ID        Salesperson ID                     Payment Terms         Due Date
+                   2162                                                     Upon Receipt
+Quantity        Item                           Description                                    Rate           Ext. Amount
+        1 F-YRC            Expedite June                                                     $87,766.16            $87,766.16
+
+                                                                                               Subtotal            $87,766.16
+                                                                                                   Misc                 $0.00
+                                                                                                    Tax                 $0.00
+                                                                                                Freight                 $0.00
+                                                                                         Trade Discount                 $0.00
+                                                                                                  Total            $87,766.16
+                                                                                                             Invoice
+                                                                                        Page 1/1
+                                                                                     Invoice F-0005870
+                                                                                        Date July 1, 2023
+
+
+
+
+Bill To:     YRC                                             Remit To:   P.O. Box 87465
+             ATTN: TODD WILSON /APB62DIR                                 Carol Stream, IL 60188-7465
+             P.O. BOX 7914
+             OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.    Customer ID        Salesperson ID                     Payment Terms         Due Date
+                   2162                                                     Upon Receipt
+Quantity        Item                           Description                                    Rate           Ext. Amount
+        1 F-YRC            Zero-Day June                                                     $12,939.61            $12,939.61
+
+                                                                                               Subtotal            $12,939.61
+                                                                                                   Misc                 $0.00
+                                                                                                    Tax                 $0.00
+                                                                                                Freight                 $0.00
+                                                                                         Trade Discount                 $0.00
+                                                                                                  Total            $12,939.61
+                                                                                                              Invoice
+                                                                                        Page 1/1
+                                                                                     Invoice F-0005871
+                                                                                        Date August 1, 2023
+
+
+
+
+Bill To:     YRC                                             Remit To:   P.O. Box 87465
+             ATTN: TODD WILSON/APB62DIR                                  Carol Stream, IL 60188-7465
+             P.O. BOX 7914
+             OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.    Customer ID        Salesperson ID                     Payment Terms         Due Date
+                   2162                                                     Upon Receipt
+Quantity        Item                           Description                                    Rate            Ext. Amount
+        1 F-YRC            Expedite July                                                     $74,095.81             $74,095.81
+
+                                                                                               Subtotal             $74,095.81
+                                                                                                   Misc                  $0.00
+                                                                                                    Tax                  $0.00
+                                                                                                Freight                  $0.00
+                                                                                         Trade Discount                  $0.00
+                                                                                                  Total             $74,095.81
+                                                                                                              Invoice
+                                                                                        Page 1/1
+                                                                                     Invoice F-0005872
+                                                                                        Date August 1, 2023
+
+
+
+
+Bill To:     YRC                                             Remit To:   P.O. Box 87465
+             ATTN: TODD WILSON/APB62DIR                                  Carol Stream, IL 60188-7465
+             P.O. BOX 7914
+             OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.    Customer ID        Salesperson ID                     Payment Terms         Due Date
+                   2162                                                     Upon Receipt
+Quantity        Item                           Description                                    Rate            Ext. Amount
+        1 F-YRC            Zero-Day July                                                     $12,924.56             $12,924.56
+
+                                                                                               Subtotal             $12,924.56
+                                                                                                   Misc                  $0.00
+                                                                                                    Tax                  $0.00
+                                                                                                Freight                  $0.00
+                                                                                         Trade Discount                  $0.00
+                                                                                                  Total             $12,924.56
+                                                                                                                     Invoice
+                                                                                                        Page 1/1
+                                                                                                     Invoice F-0005501
+                                                                                                        Date 7/15/2022
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                          Remit To:         P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                        St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method       Payment Terms Req Ship Date       Master No.
+                    2100                                                          Upon Receipt     7/15/2022               162,687
+ Ordered Shipped       B/O       Item Number                  Description                 Discount      Unit Price    Ext. Price
+    13,993   13,993         0 CAR820             820 Records Remitted JUNE                      $0.00          $0.06       $839.58
+  (12,994) (12,994)         0 CAR820             210 Invoicing Received JUNE                    $0.00          $0.06    ($779.64)
+
+                                                                                                     Subtotal               $59.94
+                                                                                                          Misc               $0.00
+                                                                                                          Tax                $0.00
+                                                                                                      Freight                $0.00
+                                                                                               Trade Discount                $0.00
+                                                                                                         Total              $59.94
+                                                                                                                     Invoice
+                                                                                                        Page 1/1
+                                                                                                     Invoice F-0005549
+                                                                                                        Date 8/15/2022
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      YRC                                            Remit To:         P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                        St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method       Payment Terms Req Ship Date       Master No.
+                    2162                                                          Upon Receipt     8/15/2022               162,779
+ Ordered Shipped       B/O       Item Number                  Description                 Discount      Unit Price    Ext. Price
+    22,804   22,804         0 CAR820             820 Records Remitted JULY                      $0.00          $0.06    $1,368.24
+  (16,421) (16,421)         0 CAR820             210 Invoicing Received JULY                    $0.00          $0.06    ($985.26)
+
+                                                                                                     Subtotal              $382.98
+                                                                                                          Misc               $0.00
+                                                                                                          Tax                $0.00
+                                                                                                      Freight                $0.00
+                                                                                               Trade Discount                $0.00
+                                                                                                         Total             $382.98
+                                                                                                                  Invoice
+                                                                                                     Page 1/1
+                                                                                                  Invoice F-0005558
+                                                                                                     Date 9/15/2022
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                           Remit To:     P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                     St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method    Payment Terms Req Ship Date       Master No.
+                    2100                                                       Upon Receipt     9/15/2022               166,044
+ Ordered Shipped       B/O       Item Number                  Description              Discount      Unit Price    Ext. Price
+    11,036   11,036         0 CAR820             820 Records Remitted AUGUST                 $0.00          $0.06       $662.16
+  (10,112) (10,112)         0 CAR820             210 Invoicing Received AUGUST               $0.00          $0.06    ($606.72)
+
+                                                                                                  Subtotal               $55.44
+                                                                                                       Misc               $0.00
+                                                                                                       Tax                $0.00
+                                                                                                   Freight                $0.00
+                                                                                            Trade Discount                $0.00
+                                                                                                      Total              $55.44
+                                                                                                                 Invoice
+                                                                                                    Page 1/1
+                                                                                                 Invoice F-0005585
+                                                                                                    Date 10/15/2022
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                          Remit To:     P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                    St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.     Customer ID      Salesperson ID      Shipping Method    Payment Terms Req Ship Date       Master No.
+                   2100                                                       Upon Receipt     10/15/2022              166,371
+ Ordered Shipped      B/O       Item Number                  Description              Discount      Unit Price    Ext. Price
+     8,928   8,928         0 CAR820             820 Records Remitted SEPTEMBER              $0.00          $0.06       $535.68
+   (7,741) (7,741)         0 CAR820             210 Invoicing Received SEPTEMBER            $0.00          $0.06    ($464.46)
+
+                                                                                                 Subtotal               $71.22
+                                                                                                      Misc               $0.00
+                                                                                                      Tax                $0.00
+                                                                                                  Freight                $0.00
+                                                                                           Trade Discount                $0.00
+                                                                                                     Total              $71.22
+                                                                                                                    Invoice
+                                                                                                       Page 1/1
+                                                                                                    Invoice F-0005841
+                                                                                                       Date 7/15/2023
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                          Remit To:        P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                       St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.     Customer ID      Salesperson ID      Shipping Method       Payment Terms Req Ship Date       Master No.
+                   2100                                                          Upon Receipt     7/15/2023               181,747
+ Ordered Shipped      B/O       Item Number                  Description                 Discount      Unit Price    Ext. Price
+    11,013  11,013         0 CAR820             820 Records Remitted JUNE                      $0.00          $0.06       $660.78
+   (9,869) (9,869)         0 CAR820             210 Invoicing Received JUNE                    $0.00          $0.06    ($592.14)
+
+                                                                                                    Subtotal               $68.64
+                                                                                                         Misc               $0.00
+                                                                                                         Tax                $0.00
+                                                                                                     Freight                $0.00
+                                                                                              Trade Discount                $0.00
+                                                                                                        Total              $68.64
+                                                                                                                     Invoice
+                                                                                                        Page 1/1
+                                                                                                     Invoice F-0005859
+                                                                                                        Date 7/15/2023
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      YRC                                            Remit To:         P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                        St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method       Payment Terms Req Ship Date       Master No.
+                    2162                                                          Upon Receipt     7/15/2023               181,765
+ Ordered Shipped       B/O       Item Number                  Description                 Discount      Unit Price    Ext. Price
+    26,970   26,970         0 CAR820             820 Records Remitted JUNE                      $0.00          $0.06     $1,618.20
+  (18,196) (18,196)         0 CAR820             210 Invoicing Received JUNE                    $0.00          $0.06   ($1,091.76)
+
+                                                                                                     Subtotal              $526.44
+                                                                                                          Misc               $0.00
+                                                                                                          Tax                $0.00
+                                                                                                      Freight                $0.00
+                                                                                               Trade Discount                $0.00
+                                                                                                         Total             $526.44
+                                                                                                                    Invoice
+                                                                                                       Page 1/1
+                                                                                                    Invoice F-0005873
+                                                                                                       Date 8/15/2023
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                          Remit To:        P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                       St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.     Customer ID      Salesperson ID      Shipping Method       Payment Terms Req Ship Date       Master No.
+                   2100                                                          Upon Receipt     8/15/2023               182,879
+ Ordered Shipped      B/O       Item Number                  Description                 Discount      Unit Price    Ext. Price
+    10,131  10,131         0 CAR820             820 Records Remitted JULY                      $0.00          $0.06       $607.86
+   (8,594) (8,594)         0 CAR820             210 Invoicing Received JULY                    $0.00          $0.06    ($515.64)
+
+                                                                                                    Subtotal               $92.22
+                                                                                                         Misc               $0.00
+                                                                                                         Tax                $0.00
+                                                                                                     Freight                $0.00
+                                                                                              Trade Discount                $0.00
+                                                                                                        Total              $92.22
+                                                                                                                     Invoice
+                                                                                                        Page 1/1
+                                                                                                     Invoice F-0005891
+                                                                                                        Date 8/15/2023
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      YRC                                            Remit To:         P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                        St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method       Payment Terms Req Ship Date       Master No.
+                    2162                                                          Upon Receipt     8/15/2023               182,897
+ Ordered Shipped       B/O       Item Number                  Description                 Discount      Unit Price    Ext. Price
+    21,956   21,956         0 CAR820             820 Records Remitted JULY                      $0.00          $0.06    $1,317.36
+  (14,279) (14,279)         0 CAR820             210 Invoicing Received JULY                    $0.00          $0.06    ($856.74)
+
+                                                                                                     Subtotal              $460.62
+                                                                                                          Misc               $0.00
+                                                                                                          Tax                $0.00
+                                                                                                      Freight                $0.00
+                                                                                               Trade Discount                $0.00
+                                                                                                         Total             $460.62
+                                                                                                                 Invoice
+                                                                                                    Page 1/1
+                                                                                                 Invoice F-0005055
+                                                                                                    Date 4/15/2021
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                          Remit To:     P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                    St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method   Payment Terms Req Ship Date       Master No.
+                    2100                                                      Upon Receipt     4/15/2021               137,527
+ Ordered Shipped       B/O       Item Number                  Description             Discount      Unit Price    Ext. Price
+    13,916   13,916         0 CAR820             820 Records Remitted MARCH                 $0.00          $0.06       $834.96
+  (11,212) (11,212)         0 CAR820             210 Invoicing Received MARCH               $0.00          $0.06    ($672.72)
+
+                                                                                                 Subtotal              $162.24
+                                                                                                      Misc               $0.00
+                                                                                                      Tax                $0.00
+                                                                                                  Freight                $0.00
+                                                                                           Trade Discount                $0.00
+                                                                                                     Total             $162.24
+                                                                                                                    Invoice
+                                                                                                       Page 1/1
+                                                                                                    Invoice F-0005117
+                                                                                                       Date 6/15/2021
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                          Remit To:        P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                       St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.     Customer ID      Salesperson ID      Shipping Method       Payment Terms Req Ship Date       Master No.
+                   2100                                                          Upon Receipt     6/15/2021               139,813
+ Ordered Shipped      B/O       Item Number                  Description                 Discount      Unit Price    Ext. Price
+     9,741   9,741         0 CAR820             820 Records Remitted MAY                       $0.00          $0.06       $584.46
+   (8,001) (8,001)         0 CAR820             210 Invoicing Received MAY                     $0.00          $0.06    ($480.06)
+
+                                                                                                    Subtotal              $104.40
+                                                                                                         Misc               $0.00
+                                                                                                         Tax                $0.00
+                                                                                                     Freight                $0.00
+                                                                                              Trade Discount                $0.00
+                                                                                                        Total             $104.40
+                                                                                                                  Invoice
+                                                                                                     Page 1/1
+                                                                                                  Invoice F-0005212
+                                                                                                     Date 9/15/2021
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                           Remit To:     P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                     St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method    Payment Terms Req Ship Date       Master No.
+                    2100                                                       Upon Receipt     9/15/2021               146,227
+ Ordered Shipped       B/O       Item Number                  Description              Discount      Unit Price    Ext. Price
+    13,981   13,981         0 CAR820             820 Records Remitted AUGUST                 $0.00          $0.06       $838.86
+  (12,210) (12,210)         0 CAR820             210 Invoicing Received AUGUST               $0.00          $0.06    ($732.60)
+
+                                                                                                  Subtotal              $106.26
+                                                                                                       Misc               $0.00
+                                                                                                       Tax                $0.00
+                                                                                                   Freight                $0.00
+                                                                                            Trade Discount                $0.00
+                                                                                                      Total             $106.26
+                                                                                                                  Invoice
+                                                                                                     Page 1/1
+                                                                                                  Invoice F-0005268
+                                                                                                     Date 11/15/2021
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                           Remit To:     P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                     St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method    Payment Terms Req Ship Date       Master No.
+                    2100                                                       Upon Receipt     11/15/2021              149,734
+ Ordered Shipped       B/O       Item Number                  Description              Discount      Unit Price    Ext. Price
+    12,065   12,065         0 CAR820             820 Records Remitted OCTOBER                $0.00          $0.06       $723.90
+  (10,849) (10,849)         0 CAR820             210 Invoicing Received OCTOBER              $0.00          $0.06    ($650.94)
+
+                                                                                                  Subtotal               $72.96
+                                                                                                       Misc               $0.00
+                                                                                                       Tax                $0.00
+                                                                                                   Freight                $0.00
+                                                                                            Trade Discount                $0.00
+                                                                                                      Total              $72.96
+                                                                                                                  Invoice
+                                                                                                     Page 1/1
+                                                                                                  Invoice F-0005360
+                                                                                                     Date 2/15/2022
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                           Remit To:     P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                     St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.      Customer ID      Salesperson ID      Shipping Method    Payment Terms Req Ship Date       Master No.
+                    2100                                                       Upon Receipt     2/15/2022               153,568
+ Ordered Shipped       B/O       Item Number                  Description              Discount      Unit Price    Ext. Price
+    14,129   14,129         0 CAR820             820 Records Remitted JANUARY                $0.00          $0.06       $847.74
+  (12,287) (12,287)         0 CAR820             210 Invoicing Received JANUARY              $0.00          $0.06    ($737.22)
+
+                                                                                                  Subtotal              $110.52
+                                                                                                       Misc               $0.00
+                                                                                                       Tax                $0.00
+                                                                                                   Freight                $0.00
+                                                                                            Trade Discount                $0.00
+                                                                                                      Total             $110.52
+                                                                                                                 Invoice
+                                                                                                    Page 1/1
+                                                                                                 Invoice F-0005445
+                                                                                                    Date 5/15/2022
+
+
+
+
+Cass Information Systems, Inc.
+13001 Hollenberg Drive
+Bridgeton MO 63044
+
+
+
+Bill To:      ROADWAY EXPRESS, INC.                          Remit To:     P.O. Box 17617
+              ATTN: VERA DAVIS/APB62SVP                                    St. Louis, MO 63178
+              P.O. BOX 7914
+              OVERLAND PARK KS 66207-0914
+
+
+
+
+Purchase Order No.     Customer ID      Salesperson ID      Shipping Method     Payment Terms Req Ship Date       Master No.
+                   2100                                                        Upon Receipt     5/15/2022               158,665
+ Ordered Shipped      B/O       Item Number                  Description               Discount      Unit Price    Ext. Price
+    11,397  11,397         0 CAR820             820 Records Remitted APRIL                   $0.00          $0.06       $683.82
+   (9,777) (9,777)         0 CAR820             210 Invoicing Received APRIL                 $0.00          $0.06    ($586.62)
+
+                                                                                                 Subtotal                $97.20
+                                                                                                      Misc                $0.00
+                                                                                                      Tax                 $0.00
+                                                                                                  Freight                 $0.00
+                                                                                           Trade Discount                 $0.00
+                                                                                                     Total               $97.20
+

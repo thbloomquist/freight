@@ -1,0 +1,486 @@
+United States Bankruptcy Court for the District of Delaware
+
+                                                                                                     For Court Use Only
+ Name of Debtor: YRC Inc.                                                                            Claim Number:        0000017932
+
+ Case Number:          23-11087                                                                      File Date:           11/13/2023 14:31:59
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 TForce Worldwide
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+                                                DLS Worldwide or TFWW
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          TForce Worldwide
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        1000 Windham Parkway
+              _______________________________________________________              Address     _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+              Bolingbrook
+City          _______________________________________________________              City        _______________________________________________________
+               IL                                   60490
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+
+Country (if International): __________________________________________             Country (if International): __________________________________________
+              224-713-4130
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              marianne.j.walker@tfwwi.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           20,875.00
+                                                $_______________________________________
+□ No                                                                                                   Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□
+✔ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+     0115
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       Other Basis
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by         Overpaid freight bills
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □
+                                                                                                                    ✔ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:                                                                                                   Yellow A/R and TFWW A/P
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Marianne Walker                                                                11/13/2023 14:31:59
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      TForce Worldwide
+                            Name      ______________________________________________________________________________________________
+                                    Attn: Marianne Walker, Director
+                            Address _____________________________________________________________________________________________
+                                      1000 Windham Parkway
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Bolingbrook
+                            City      _____________________________________________________________________________________________
+                                      IL                                                    60490
+                            State     ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+                                      224-713-4130
+                            Phone     _____________________________________________________________________________________________
+                                       marianne.j.walker@tfwwi.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+Pro List       Balance   Status   Remitter               Amt Paid Amt Disb Type
+294-866508-6    -$105.00 RES      T FORCE WORLDWIDE       $105.00
+549-179190-0     -$29.24 RES      T FORCE WORLDWIDE        $29.24
+613-102224-X     -$28.14 RES      TFORCE WORLDWIDE INC     $28.14
+625-534790-8     -$11.32 RES      TFORCE WORLDWIDE INC     $11.32
+625-565448-7     -$11.79 RES      TFORCE WORLDWIDE INC     $11.79
+649-666336-0    -$278.15 RES      T FORCE WORLDWIDE       $278.15
+654-039676-1    -$434.38 RES      T FORCE WORLDWIDE       $434.38
+654-039678-X    -$336.99 RES      T FORCE WORLDWIDE       $336.99
+654-039679-9    -$401.17 RES      T FORCE WORLDWIDE       $401.17
+654-039681-7    -$820.72 RES      T FORCE WORLDWIDE       $820.72
+654-039684-4    -$155.20 RES      T FORCE WORLDWIDE       $155.20
+654-039687-1    -$401.44 RES      T FORCE WORLDWIDE       $401.44
+654-039688-0     -$40.25 RES      T FORCE WORLDWIDE        $40.25
+654-039690-9    -$155.46 RES      T FORCE WORLDWIDE       $155.46
+654-039697-2    -$198.74 RES      T FORCE WORLDWIDE       $198.74
+656-469548-9    -$490.53 RES      T FORCE WORLDWIDE       $490.53
+656-469549-8    -$431.99 RES      T FORCE WORLDWIDE       $431.99
+656-469551-6    -$321.85 RES      T FORCE WORLDWIDE       $321.85
+656-469556-1    -$342.60 RES      T FORCE WORLDWIDE       $342.60
+656-469650-6    -$166.87 RES      T FORCE WORLDWIDE       $166.87
+656-469651-5     -$94.22 RES      T FORCE WORLDWIDE        $94.22
+656-469652-4    -$231.48 RES      T FORCE WORLDWIDE       $231.48
+656-469653-3    -$345.61 RES      T FORCE WORLDWIDE       $345.61
+656-469654-2    -$331.74 RES      T FORCE WORLDWIDE       $331.74
+656-469666-1    -$250.34 RES      T FORCE WORLDWIDE       $250.34
+656-469680-9    -$597.53 RES      T FORCE WORLDWIDE       $597.53
+656-469683-6    -$292.13 RES      T FORCE WORLDWIDE       $292.13
+656-469687-2     -$73.76 RES      T FORCE WORLDWIDE        $73.76
+656-469688-1    -$640.69 RES      T FORCE WORLDWIDE       $640.69
+656-469794-5    -$533.24 RES      T FORCE WORLDWIDE       $533.24
+656-469796-3    -$247.08 RES      T FORCE WORLDWIDE       $247.08
+656-469797-2    -$361.99 RES      T FORCE WORLDWIDE       $361.99
+656-469802-8    -$340.97 RES      T FORCE WORLDWIDE       $340.97
+656-469841-2     -$69.37 RES      T FORCE WORLDWIDE        $69.37
+656-469932-X     -$44.23 RES      T FORCE WORLDWIDE        $44.23
+656-469933-9    -$236.79 RES      T FORCE WORLDWIDE       $236.79
+656-469940-2    -$154.60 RES      T FORCE WORLDWIDE       $154.60
+656-469941-1     -$40.55 RES      T FORCE WORLDWIDE        $40.55
+656-469943-X    -$275.18 RES      T FORCE WORLDWIDE       $275.18
+656-469949-4    -$213.45 RES      T FORCE WORLDWIDE       $213.45
+656-469955-9     -$40.21 RES      T FORCE WORLDWIDE        $40.21
+656-470065-9    -$128.04 RES      T FORCE WORLDWIDE       $128.04
+656-470136-4    -$435.86 RES      T FORCE WORLDWIDE       $435.86
+656-470141-X     -$50.41 RES      T FORCE WORLDWIDE        $50.41
+656-470146-5     -$50.41 RES      T FORCE WORLDWIDE        $50.41
+656-470151-0      -$8.30 RES      T FORCE WORLDWIDE         $8.30
+656-470261-0    -$997.52 RES      T FORCE WORLDWIDE       $997.52
+656-470460-X   -$767.27 RES   T FORCE WORLDWIDE      $767.27
+656-470678-1    -$34.52 RES   T FORCE WORLDWIDE       $34.52
+656-470709-3    -$54.20 RES   T FORCE WORLDWIDE       $54.20
+656-470711-1    -$54.20 RES   T FORCE WORLDWIDE       $54.20
+656-470712-0    -$54.20 RES   T FORCE WORLDWIDE       $54.20
+656-470714-9    -$93.09 RES   T FORCE WORLDWIDE       $93.09
+656-470718-5    -$72.91 RES   T FORCE WORLDWIDE       $72.91
+656-470720-3    -$54.20 RES   T FORCE WORLDWIDE       $54.20
+656-470723-0   -$108.54 RES   T FORCE WORLDWIDE      $108.54
+656-470726-8    -$95.00 RES   T FORCE WORLDWIDE       $95.00
+656-470929-3    -$37.52 RES   T FORCE WORLDWIDE       $37.52
+656-470942-1   -$296.27 RES   T FORCE WORLDWIDE      $296.27
+659-195883-5   -$171.54 RES   T FORCE WORLDWIDE      $171.54
+659-195884-4   -$517.38 RES   T FORCE WORLDWIDE      $517.38
+659-195886-2   -$462.38 RES   T FORCE WORLDWIDE      $462.38
+659-195887-1   -$198.50 RES   T FORCE WORLDWIDE      $198.50
+659-195889-X   -$257.77 RES   T FORCE WORLDWIDE      $257.77
+659-195890-9   -$248.53 RES   T FORCE WORLDWIDE      $248.53
+659-195891-8   -$130.88 RES   T FORCE WORLDWIDE      $130.88
+659-195893-6   -$148.59 RES   T FORCE WORLDWIDE      $148.59
+659-195895-4   -$261.15 RES   T FORCE WORLDWIDE      $261.15
+661-418036-8    -$58.76 RES   T FORCE WORLDWIDE       $58.76
+664-144475-X   -$265.00 RES   TFORCE WORLDWIDE INC   $265.00
+664-464677-7    -$17.59 RES   T FORCE WORLDWIDE       $17.59
+670-211913-2   -$265.00 RES   TFORCE WORLDWIDE INC   $265.00
+670-452418-1    -$19.40 RES   TFORCE WORLDWIDE INC    $19.40
+674-450910-2   -$350.43 RES   TFORCE WORLDWIDE INC   $350.43
+677-231924-0   -$105.00 RES   T FORCE WORLDWIDE      $105.00
+686-282665-2     -$9.94 RES   T FORCE WORLDWIDE        $9.94
+687-030154-8    -$47.07 RES   T FORCE WORLDWIDE       $47.07
+687-495346-6    -$15.00 RES   T FORCE WORLDWIDE       $15.00
+689-409017-7    -$99.00 RES   T FORCE WORLDWIDE       $99.00
+689-641682-3    -$95.00 RES   TFORCE WORLDWIDE INC    $95.00
+696-951860-3   -$105.00 RES   T FORCE WORLDWIDE      $105.00
+701-489640-3    -$60.00 CLS   TFORCE WORLDWIDE INC   $235.19
+704-198775-6   -$175.00 RES   T FORCE WORLDWIDE      $175.00
+704-492093-3    -$65.69 RES   T FORCE WORLDWIDE       $65.69
+704-492464-6   -$106.00 RES   T FORCE WORLDWIDE      $106.00
+704-493212-6   -$453.20 RES   T FORCE WORLDWIDE      $453.20
+704-493732-3    -$70.00 RES   T FORCE WORLDWIDE       $70.00
+704-493736-X   -$169.09 RES   T FORCE WORLDWIDE      $169.09
+704-493757-0    -$53.00 RES   T FORCE WORLDWIDE       $53.00
+704-493838-7   -$504.26 RES   T FORCE WORLDWIDE      $504.26
+704-493937-7    $311.67 RES   T FORCE WORLDWIDE      $117.00
+709-053315-2   -$326.40 RES   T FORCE WORLDWIDE      $326.40
+709-054066-X    -$15.00 RES   T FORCE WORLDWIDE       $15.00
+709-056961-8   -$192.24 RES   T FORCE WORLDWIDE      $141.00
+709-057675-9   -$226.10 RES   T FORCE WORLDWIDE      $226.10
+709-970098-3   -$135.00 RES   TFORCE WORLDWIDE INC   $135.00
+711-417474-9   -$264.71 RES   T FORCE WORLDWIDE   $264.71
+Check Number    Deposit Date Claim Number   Issue Date   8/8/2023
+     20655897                                6/30/2023         39
+     25900073                                1/28/2023        192
+   2000043502                                6/17/2023         52
+   2000045462                                 8/5/2023          3
+   2000039134                                 3/4/2023        157
+     25900073                                1/28/2023        192
+     24107489                                1/21/2023        199
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     24107489                                1/21/2023        199
+     24107489                                1/21/2023        199
+     25900073                                1/28/2023        192
+     26405234                                1/31/2023        189
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     26405234                                1/31/2023        189
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     21559598                                2/18/2023        171
+     21559598                                2/18/2023        171
+     21559598                                2/18/2023        171
+     21559598                                2/18/2023        171
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     26405234                                1/31/2023        189
+     26405234                                1/31/2023        189
+     26405234                                1/31/2023        189
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     27402183                                2/11/2023        178
+     26405234                                1/31/2023        189
+     20339879                                2/25/2023        164
+     25900073                                1/28/2023        192
+     26405234                                1/31/2023        189
+     26405234                                1/31/2023        189
+     25900073                                1/28/2023        192
+     25900073                                1/28/2023        192
+     21559598                                2/18/2023        171
+  26405234                1/31/2023   189
+  20339879                2/25/2023   164
+  27402183                2/11/2023   178
+  27402183                2/11/2023   178
+  26405234                1/31/2023   189
+  27402183                2/11/2023   178
+  26405234                1/31/2023   189
+  26405234                1/31/2023   189
+  26405234                1/31/2023   189
+  27402183                2/11/2023   178
+  21559598                2/18/2023   171
+  20339879                2/25/2023   164
+  24107489                1/21/2023   199
+  24107489                1/21/2023   199
+  24107489                1/21/2023   199
+  25900073                1/28/2023   192
+  25900073                1/28/2023   192
+  25900073                1/28/2023   192
+  24107489                1/21/2023   199
+  25900073                1/28/2023   192
+  25900073                1/28/2023   192
+   1.11E+12               7/15/2023    24
+2000043502                6/17/2023    52
+   1.11E+12               4/22/2023   108
+2000039134                3/11/2023   150
+2000041247                4/30/2023   100
+2000043502                6/17/2023    52
+   1.11E+12               6/10/2023    59
+   1.11E+12               4/22/2023   108
+   1.11E+12               6/10/2023    59
+  27402183                2/11/2023   178
+   1.11E+12               3/11/2023   150
+2000041714                4/30/2023   100
+   1.11E+12               6/10/2023    59
+2000045462    7/28/2002   6/10/2023    59
+  20655897                6/30/2023    39
+  20900446                3/18/2023   143
+  29981569                 7/8/2023    31
+  24036329                 4/1/2023   129
+  28479839                3/18/2023   143
+  28479839                3/18/2023   143
+  28479839                3/18/2023   143
+  29695946                3/25/2023   136
+  29695946                 4/1/2023   129
+  20317485                4/29/2023   101
+  29981569                 7/8/2023    31
+  21591199                 6/3/2023    66
+  29981569                7/15/2023    24
+2000044999                7/22/2023    17
+27559331   7/29/2023   10
+Status
+Valid Credit
+Over 90 days need to file overcharege claim
+Valid Credit
+Valid Credit
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Valid Credit
+Valid Credit
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Valid Credit
+Valid Credit
+Over 90 days need to file overcharege claim
+Valid Credit
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Valid Credit
+Valid Credit
+Valid Credit
+Over 90 days need to file overcharege claim
+Valid Credit
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Over 90 days need to file overcharege claim
+Valid Credit
+Valid Credit
+Valid Credit
+Valid Credit
+Valid Credit
+

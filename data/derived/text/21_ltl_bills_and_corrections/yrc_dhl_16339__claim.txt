@@ -1,0 +1,588 @@
+United States Bankruptcy Court for the District of Delaware
+
+                                                                                                     For Court Use Only
+ Name of Debtor: New Penn Motor Express LLC                                                          Claim Number:        0000016339
+
+ Case Number:          23-11072                                                                      File Date:           11/09/2023 06:28:08
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 DHL Supply Chain c/o Samsung Electronics
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+                                                Exel
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          DHL Supply Chain c/o Samsung Electronics
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        DHL Insurance & Risk Managment
+              _______________________________________________________              Address     _______________________________________________________
+               1210 S. Pine Island Rd
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+              Plantation
+City          _______________________________________________________              City        _______________________________________________________
+               FL                                   33324
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+
+Country (if International): __________________________________________             Country (if International): __________________________________________
+              954-626-1917
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              nadia.rankine@dhl.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           11,809.68
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       Customer Claims
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □
+                                                                                                                    ✔ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □
+                            ✔ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Debra Faiella                                                                  11/09/2023 06:28:08
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      Debra Faiella
+                            Name      ______________________________________________________________________________________________
+                                    DHL Insurance & Risk Managment
+                            Address _____________________________________________________________________________________________
+                                      1210 S, Pine Island Rd
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Plantation
+                            City      _____________________________________________________________________________________________
+                                      FL                                                    33324
+                            State     ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+                                      954-626-1917
+                            Phone     _____________________________________________________________________________________________
+                                       Debra.Faiella@dhl.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+Samsung Electronics America, Inc.                                              Loss/Damage Claim
+C/O Claims and Insurance – 7th Floor
+85 Challenger Rd.                                                       Claim No              0010076148
+Ridgefield Park, NJ 07660                                               Claim Occ Date        2022.06.02
+
+
+
+Claim to : SAMSUNG SDS AMERICA, INC. ( DUT8 )
+Attention :
+Carrier   : S360/DHL
+Claimant : SAMSUNG ELECTRONICS AMERICA
+
+Shipper      : SAMSUNG SDS AMERICA, INC.
+               250 MOONACHIE RD. 4TH FLOOR
+               MOONACHIE US 07074
+
+
+Consignee : APPLIANCE DEALERS COOPERATIVE INC
+            DBA ADC, 2 MATRIX DRIVE
+            MONROE TOWNSHIP US 08831
+
+
+Ship Date :       2022.03.17                     PRO no :
+BL number : 7094109580
+
+
+
+Papers Attached :                                Other Information
+                                                 Reference : 8606033632
+                                                 Invoice No : 3024061703
+Description : Product Damage - Breakage, Dent,   RA no      : 703246309
+Scratch, Etc
+Model No .              Description               # of Unit          Price/unit          Amount
+HGPR36S/NG             GVN,1,120V 60HZ,-          1.000     EA         3,820.44USD       3,820.44 USD
+HDPR48S/LP             GVN,1,120V 60HZ,-          1.000     EA         7,989.24USD       7,989.24 USD
+
+
+
+
+                                                   Freight Charge :                    0.00
+  2 UNITS DAMAGED IN TRANSIT. S/N:                 Total          :               11,809.68
+0RHX7CCT200122P; 0RGY7CDT200005F                                  (USD)
+
+
+
+
+Payment due within 90 days from the date of filled          Samsung Electronics America, Inc.
+please make check payable to :                              C/O Claims and Insurance – 7th Floor
+SAMSUNG ELECTRONICS AMERICA Inc.                            85 Challenger Rd.
+                                                            Ridgefield Park, NJ 07660
+
+
+
+
+Signature of Claimant
+06/02/2022            10:42:53                                    Page: 1 of 3
+
+                                                                         PACKING SLIP
+                                                   SHIP FROM                                                            Bill of Lading: 14407043
+SAMSUNG ELECTRONICS AMERICA
+c/o Bethel PA
+41 MARTHA DRIVE
+BETHEL PA 19507 US
+                                                                                                                           LT
+Tel.
+                                                                                                                                               Less Than Truck
+                                                    SHIP TO                                                             CARRIER : NEW PENN MOTOR EXPRESS
+APPLIANCE DEALERS COOPERATIVE INC                                                                                       Trailer number: NPME4445
+                                                                                                                        Seal number(s): 14407043
+DBA ADC, 2 MATRIX DRIVE                                                                                                 BK/Appt.:
+MONROE TOWNSHIP NJ 08831 US
+Tel. 609-235-1000               karen.k@adc.coop
+                                    FREIGHT CHARGES BILL TO
+DHL Freight Payables/Samsung                                                                                             Pro number: 6545891629                  SCAC: NPME
+PO Box 2430                                                                                                              Freight Charge Terms: (Freight Prepaid & Allowed)
+Westerville OH 43086                                                                                                     Prepaid __X__            Collect ____           3rd Party ____
+                                                                                                                                                      Master Bill of Lading: with attached underlying
+                                                                                                                              (Check box)             Bills of Lading
+FOR GENERAL ISSUES, EMAIL: ERIC.HICKS@DHL.COM, MICHAEL.ROBBINS@DK@DHL.COM / FOR OS&D, CONTACT: (717)933-4209 / EMAIL: CARALIN MENDEZ # C.MENDEZ@SAMSUNG.COM & BETHEL
+RETURNS # BETHEL.RET@SAMSUNG.COM                                                                                                                                                             Liability:
+SPECIAL INSTRUCTIONS: Total pallet Qty( 6 ); P3632(6)
+
+
+                                                                                                                                                                                             Volume:
+                                                                                                                                                                                             347,240
+                                                                                                                                                                                             FT3
+
+                                                                              CUSTOMER ORDER INFORMATION
+           CUSTOMER                          HANDLING #PKGS                     WEIGHT                                               ADDITIONAL SHIPPER INFO
+       ORDER NUMBER                          QTY       TYPE (PCS)                  (LB)                 DO#            ITM#    LINEAR                   CUST.MODEL(MODEL)                               DEPT.
+
+
+
+   See Attached Bill of Lading Supplement
+
+
+
+
+         GRAND TOTAL                          14                    14             4.168,000                                       10,946
+                                                                                      CARRIER INFORMATION
+                                                                                                        COMMODITY DESCRIPTION
+ HANDLING                 PACKAGE                   WEIGHT                                       Commodities requiring special or additional care or                                LTL ONLY
+                                                                                                 attention in handling or stowing must be so marked
+ QTY        TYPE         QTY        TYPE               (LB)                                        and packaged as to ensure safe transportation                            NMFC#           CLASS FAK
+                                                                                               with ordinary care. See Section 2(e) of NMFC Item 360
+
+
+
+   See Attached Bill of Lading Supplement
+
+
+
+
+  14                      14                            4.168,000                                           GRAND TOTAL
+ Where the rate is dependent on value, shippers are required to state specifically in writing the agreed or declared
+value of the property as follows:                                                                                                    COD Amount: $ ______________________
+"The agreed or declared value of the property is specifically stated by the shipper to be not exceeding                                Fee Terms: Collect: O Prepaid: O
+__________________ per ___________________."                                                                                              Customer check acceptable: O
+
+               NOTE Liability Limitation for loss or damage in this shipment may be applicable. See 49 U.S.C. * 14706(c)(1)(A) and (B).
+RECEIVED, subject to individually determined rates or contracts that have been agreed upon in writing between            The carrier shall not make delivery of this shipment without payment of freight and all
+                                                                                                                         other lawful charges.
+the carrier and shipper, if applicable, otherwise to the rates, classifications and rules that have been established     NOTE : This package serves as product display or sales purposes. Any Damage to this
+by the carrier and are available to the shipper, on request, and to all applicable state and federal regulations.        package, including cosmetic damage, will result in a claim from Samsung Electronics
+                                                                                                                         Inc..
+SHIPPER SIGNATURE / DATE                                               Trailer Loaded: Freight Counted:                    CTN.Count: CARRIER SIGNATURE / PICKUP DATE
+This is to certify that the above named materials are properly                                                                                Carrier acknowledges receipt of packages and required placards.
+                                                                       O By Shipper          O By Shipper                                     Carrier certifies emergency response information was made
+classified, described, packaged, marked and labeled, and are in                                                                               available and/or carrier has the U.S. DOT emergency response
+proper condition for transportation according to the applicable        O By Driver           O By Driver/Pieces                               guidebook or equivalent documentation in the vehicle.
+regulations of the U.S. DOT.                                                                                                                  Property described above is received in good order, except as
+                        Shipper                                                                Receiver                                                               Carrier
+_______________________ Signature                                      _______________________ Signature                                      _______________________ Signature
+_______________________ Date                                           _______________________ Date                                           _______________________ Date
+                                                                                         - REPRINTED COPY -
+06/02/2022    10:42:53                                                                                Page: 2 of 3
+
+                         PACKING SLIP SUPPLEMENT
+                      Bill of Lading Number :14407043
+                                      CUSTOMER ORDER INFORMATION
+         CUSTOMER         HANDLING #PKGS     WEIGHT                         ADDITIONAL SHIPPER INFO
+    ORDER NUMBER          QTY   TYPE (PCS)    (LB)        DO#     ITM#   LINEAR       CUST.MODEL(MODEL)      DEPT.
+
+445920                     3    CTN    3       252,000 7094109576 10       1,325 DMR24M977WS
+447203                     3    CTN    3       252,000 7094109577 10       1,325 DMR24M977WS
+450927                     3    CTN    3      1.404,000 7094109578 10      2,650 HGPR36S/NG
+457878                     2    CTN    2       936,000 7094109579 10       1,766 HGPR36S/NG
+459561                     2    CTN    2      1.234,000 7094109580 10      3,533 HDPR48S/LP
+462241                     1    CTN    1        90,000 7094109581 10       0,347 DMR30M977WS
+
+
+
+
+         PAGE TOTAL       14          14      4.168,000                   10,946
+
+                                                  - REPRINTED COPY -
+06/02/2022   10:42:53                                                                                                 Page: 3 of 3
+
+                        PACKING SLIP SUPPLEMENT
+                    Bill of Lading Number :14407043
+                                           CARRIER INFORMATION
+                                                             COMMODITY DESCRIPTION
+HANDLING       PACKAGE        WEIGHT                  Commodities requiring special or additional care or             LTL ONLY
+                                                      attention in handling or stowing must be so marked
+QTY   TYPE    QTY   TYPE       (LB)                     and packaged as to ensure safe transportation         NMFC#       CLASS FAK
+                                                    with ordinary care. See Section 2(e) of NMFC Item 360
+
+ 2     CTN     2        PCS    1.234,000 HDPR48S/LP COOKING EQUIPMENT                                       26720-1       175    110
+ 6     CTN     6        PCS      504,000 DMR24M977WS COOKING EQUIPMENT                                      26720-2       92.5   85
+ 1     CTN     1        PCS       90,000 DMR30M977WS COOKING EQUIPMENT                                      26720-2       92.5   85
+ 5     CTN     5        PCS    2.340,000 HGPR36S/NG COOKING EQUIPMENT                                       26720-2       92.5   85
+
+
+
+
+ 14            14              4.168,000                         PAGE TOTAL
+
+                                                - REPRINTED COPY -
+                                                   INVOICE                                                           Page 1 of 1
+
+                                                                                 INVOICE DATE      INVOICE NUMBER         DUE DATE
+                      D-U-N-S 07-701-0254                                        03/17/2022         3024061702          04/16/2022
+   SOLD TO         CUSTOMER P.O. NO.           ORDER DATE        ORDER NO.                    TERMS F.O.B. WAREHOUSE
+  2477738                  457878             12/01/2021        1014474560                  30 Days from Doc. Date
+  SHIP FROM                FREIGHT              SHIP DATE           BL NO                               SHIP VIA
+    S360            Frt Prepaid &                               7094109579
+                                              03/11/2022
+                   Allowed-FOB Dest
+  SALES MAN           SALES OFFICE             SALES ORG          VENDOR                          FFP APPROVAL NO.
+   US0028                   3106                  3101
+Bill-to : INT                                                                Ship-to :
+APPLIANCE DEALERS COOPERATIVE INC                                            APPLIANCE DEALERS COOPERATIVE INC
+
+                                                                             DBA ADC, 2 MATRIX DRIVE
+DBA ADC, 2 MATRIX DRIVE                                                      MONROE TOWNSHIP, NJ 08831
+MONROE TOWNSHIP, NJ 08831
+                   SHIPPED                                                                                       NET     NET AMOUNT
+   MODEL NO.                                  DESCRIPTION                         CUSTOMER_SKU#
+                   QUANTITY                                                                                   UNIT PRICE     USD
+   HGPR36S/NG          2                    GVN,1,120V 60HZ,-                                                      3820.44        7640.88
+
+
+
+
+CUSTOMER P.O. NO. : 457878                                                                     SUB TOTAL                      7,640.88
+                                                                                               SALES TAX                          0.00
+                                                                                           SHIP CHARGE INC.                       0.00
+                                                                                           CA RECYLING FEE                        0.00
+                                                                                            NET AMOUNT DUE                    7,640.88
+                                                  Terms and conditions of sale:
+                                           No returns will be accepted without authorization
+                     A service charge of 1 1/2% per month (18% per annum) will be charged on all past due accounts
+                                                     No post audit claims accepted
+        All expenses (including but not limited to) attorney fees incurred in connection with collection of any past due amount
+                                                       will be paid by customer
+
+           APPLIANCE DEALERS COOPERATIVE INC                                           INVOICE DATE INVOICE NUMBER           DUE DATE
+                                                                                      03/17/2022      3024061702 04/16/2022
+   INT DBA ADC, 2 MATRIX DRIVE
+       MONROE TOWNSHIP, NJ 08831                                                           NET AMOUNT DUE          7,640.88
+  PAYER           CUSTOMER P.O. NO.              ORDER DATE          ORDER NO.                   TERMS F.O.B. WAREHOUSE
+ 2477738                457878                   12/01/2021         1014474560                 30 Days from Doc. Date
+PLEASE REMIT TO                                                     DIRECT ALL INQUIRIES TO CREDIT DEPT.
+                                                                    85 CHALLENGER ROAD, RIDGEFIELD PARK, NJ 07660
+Samsung Electronics America, Inc                                    InvoiceCollection@partner.sea.samsung.com
+13034 Collections Center Drive
+Chicago, IL 60693
+
+
+PLEASE RETURN THIS PORTION WITH YOUR PAYMENT. DISREGARD THIS NOTICE IF PAYMENT HAS BEEN MADE.
+                                                   INVOICE                                                           Page 1 of 1
+
+                                                                                 INVOICE DATE      INVOICE NUMBER         DUE DATE
+                      D-U-N-S 07-701-0254                                        03/17/2022         3024061703          04/16/2022
+   SOLD TO         CUSTOMER P.O. NO.           ORDER DATE        ORDER NO.                    TERMS F.O.B. WAREHOUSE
+  2477738                  459561             12/28/2021        1016753145                  30 Days from Doc. Date
+  SHIP FROM                FREIGHT              SHIP DATE           BL NO                               SHIP VIA
+    S360            Frt Prepaid &                               7094109580
+                                              03/11/2022
+                   Allowed-FOB Dest
+  SALES MAN           SALES OFFICE             SALES ORG          VENDOR                          FFP APPROVAL NO.
+   US0028                   3106                  3101
+Bill-to : INT                                                                Ship-to :
+APPLIANCE DEALERS COOPERATIVE INC                                            APPLIANCE DEALERS COOPERATIVE INC
+
+                                                                             DBA ADC, 2 MATRIX DRIVE
+DBA ADC, 2 MATRIX DRIVE                                                      MONROE TOWNSHIP, NJ 08831
+MONROE TOWNSHIP, NJ 08831
+                   SHIPPED                                                                                       NET     NET AMOUNT
+   MODEL NO.                                  DESCRIPTION                         CUSTOMER_SKU#
+                   QUANTITY                                                                                   UNIT PRICE     USD
+   HDPR48S/LP          2                    GVN,1,120V 60HZ,-                                                      7989.24        15978.48
+
+
+
+
+CUSTOMER P.O. NO. : 459561                                                                     SUB TOTAL                     15,978.48
+                                                                                               SALES TAX                          0.00
+                                                                                           SHIP CHARGE INC.                       0.00
+                                                                                           CA RECYLING FEE                        0.00
+                                                                                            NET AMOUNT DUE                   15,978.48
+                                                  Terms and conditions of sale:
+                                           No returns will be accepted without authorization
+                     A service charge of 1 1/2% per month (18% per annum) will be charged on all past due accounts
+                                                     No post audit claims accepted
+        All expenses (including but not limited to) attorney fees incurred in connection with collection of any past due amount
+                                                       will be paid by customer
+
+           APPLIANCE DEALERS COOPERATIVE INC                                           INVOICE DATE INVOICE NUMBER           DUE DATE
+                                                                                      03/17/2022      3024061703 04/16/2022
+   INT DBA ADC, 2 MATRIX DRIVE
+       MONROE TOWNSHIP, NJ 08831                                                           NET AMOUNT DUE         15,978.48
+  PAYER           CUSTOMER P.O. NO.              ORDER DATE          ORDER NO.                   TERMS F.O.B. WAREHOUSE
+ 2477738                459561                   12/28/2021         1016753145                 30 Days from Doc. Date
+PLEASE REMIT TO                                                     DIRECT ALL INQUIRIES TO CREDIT DEPT.
+                                                                    85 CHALLENGER ROAD, RIDGEFIELD PARK, NJ 07660
+Samsung Electronics America, Inc                                    InvoiceCollection@partner.sea.samsung.com
+13034 Collections Center Drive
+Chicago, IL 60693
+
+
+PLEASE RETURN THIS PORTION WITH YOUR PAYMENT. DISREGARD THIS NOTICE IF PAYMENT HAS BEEN MADE.
+                                             CREDIT MEMO                                                             Page 1 of 1
+
+                                                                                 INVOICE DATE      INVOICE NUMBER         DUE DATE
+                      D-U-N-S 07-701-0254                                        03/29/2022         5002896813          04/28/2022
+   SOLD TO         CUSTOMER P.O. NO.           ORDER DATE        ORDER NO.                    TERMS F.O.B. WAREHOUSE
+  2477738               0001290577            03/22/2022        0703246309                  30 Days from Doc. Date
+  SHIP FROM                FREIGHT              SHIP DATE           BL NO                               SHIP VIA
+    S360            Frt Prepaid &                               8606033632
+                                              03/29/2022
+                   Allowed-FOB Dest
+  SALES MAN           SALES OFFICE             SALES ORG          VENDOR                          FFP APPROVAL NO.
+   US0028                   3106                  3101
+Bill-to : INT                                                                Ship-to :
+APPLIANCE DEALERS COOPERATIVE INC                                            APPLIANCE DEALERS COOPERATIVE INC
+
+                                                                             DBA ADC, 2 MATRIX DRIVE
+DBA ADC, 2 MATRIX DRIVE                                                      MONROE TOWNSHIP, NJ 08831
+MONROE TOWNSHIP, NJ 08831
+                   SHIPPED                                                                                       NET     NET AMOUNT
+   MODEL NO.                                  DESCRIPTION                         CUSTOMER_SKU#
+                   QUANTITY                                                                                   UNIT PRICE     USD
+   HDPR48S/LP          1                    GVN,1,120V 60HZ,-                                                      7989.24        7989.24
+
+
+
+
+CUSTOMER P.O. NO. : 0001290577                                                                 SUB TOTAL                      7,989.24
+                                                                                               SALES TAX                          0.00
+                                                                                           SHIP CHARGE INC.                       0.00
+                                                                                           CA RECYLING FEE                        0.00
+                                                                                            NET AMOUNT DUE                    7,989.24
+                                                  Terms and conditions of sale:
+                                           No returns will be accepted without authorization
+                     A service charge of 1 1/2% per month (18% per annum) will be charged on all past due accounts
+                                                     No post audit claims accepted
+        All expenses (including but not limited to) attorney fees incurred in connection with collection of any past due amount
+                                                       will be paid by customer
+
+           APPLIANCE DEALERS COOPERATIVE INC                                           INVOICE DATE INVOICE NUMBER           DUE DATE
+                                                                                      03/29/2022      5002896813 04/28/2022
+   INT DBA ADC, 2 MATRIX DRIVE
+       MONROE TOWNSHIP, NJ 08831                                                           NET AMOUNT DUE          7,989.24
+  PAYER           CUSTOMER P.O. NO.              ORDER DATE          ORDER NO.                   TERMS F.O.B. WAREHOUSE
+ 2477738             0001290577                  03/22/2022         0703246309                 30 Days from Doc. Date
+PLEASE REMIT TO                                                     DIRECT ALL INQUIRIES TO CREDIT DEPT.
+                                                                    85 CHALLENGER ROAD, RIDGEFIELD PARK, NJ 07660
+Samsung Electronics America, Inc                                    InvoiceCollection@partner.sea.samsung.com
+13034 Collections Center Drive
+Chicago, IL 60693
+
+
+PLEASE RETURN THIS PORTION WITH YOUR PAYMENT. DISREGARD THIS NOTICE IF PAYMENT HAS BEEN MADE.
+                                             CREDIT MEMO                                                             Page 1 of 1
+
+                                                                                 INVOICE DATE      INVOICE NUMBER         DUE DATE
+                      D-U-N-S 07-701-0254                                        03/29/2022         5002896814          04/28/2022
+   SOLD TO         CUSTOMER P.O. NO.           ORDER DATE        ORDER NO.                    TERMS F.O.B. WAREHOUSE
+  2477738               0001290550            03/22/2022        0703244697                  30 Days from Doc. Date
+  SHIP FROM                FREIGHT              SHIP DATE           BL NO                               SHIP VIA
+    S360            Frt Prepaid &                               8606034848
+                                              03/29/2022
+                   Allowed-FOB Dest
+  SALES MAN           SALES OFFICE             SALES ORG          VENDOR                          FFP APPROVAL NO.
+   US0028                   3106                  3101
+Bill-to : INT                                                                Ship-to :
+APPLIANCE DEALERS COOPERATIVE INC                                            APPLIANCE DEALERS COOPERATIVE INC
+
+                                                                             DBA ADC, 2 MATRIX DRIVE
+DBA ADC, 2 MATRIX DRIVE                                                      MONROE TOWNSHIP, NJ 08831
+MONROE TOWNSHIP, NJ 08831
+                   SHIPPED                                                                                       NET     NET AMOUNT
+   MODEL NO.                                  DESCRIPTION                         CUSTOMER_SKU#
+                   QUANTITY                                                                                   UNIT PRICE     USD
+   HGPR36S/NG          2                    GVN,1,120V 60HZ,-                                                      3820.44        7640.88
+
+
+
+
+CUSTOMER P.O. NO. : 0001290550                                                                 SUB TOTAL                      7,640.88
+                                                                                               SALES TAX                          0.00
+                                                                                           SHIP CHARGE INC.                       0.00
+                                                                                           CA RECYLING FEE                        0.00
+                                                                                            NET AMOUNT DUE                    7,640.88
+                                                  Terms and conditions of sale:
+                                           No returns will be accepted without authorization
+                     A service charge of 1 1/2% per month (18% per annum) will be charged on all past due accounts
+                                                     No post audit claims accepted
+        All expenses (including but not limited to) attorney fees incurred in connection with collection of any past due amount
+                                                       will be paid by customer
+
+           APPLIANCE DEALERS COOPERATIVE INC                                           INVOICE DATE INVOICE NUMBER           DUE DATE
+                                                                                      03/29/2022      5002896814 04/28/2022
+   INT DBA ADC, 2 MATRIX DRIVE
+       MONROE TOWNSHIP, NJ 08831                                                           NET AMOUNT DUE          7,640.88
+  PAYER           CUSTOMER P.O. NO.              ORDER DATE          ORDER NO.                   TERMS F.O.B. WAREHOUSE
+ 2477738             0001290550                  03/22/2022         0703244697                 30 Days from Doc. Date
+PLEASE REMIT TO                                                     DIRECT ALL INQUIRIES TO CREDIT DEPT.
+                                                                    85 CHALLENGER ROAD, RIDGEFIELD PARK, NJ 07660
+Samsung Electronics America, Inc                                    InvoiceCollection@partner.sea.samsung.com
+13034 Collections Center Drive
+Chicago, IL 60693
+
+
+PLEASE RETURN THIS PORTION WITH YOUR PAYMENT. DISREGARD THIS NOTICE IF PAYMENT HAS BEEN MADE.
+Type                                             Product Grading Scale
+ST = Stock Rotation                              A = No Damage (EOL)
+RA = Return Goods                                B = Box/Cushion Damage
+ID = Inbound Damage                              C1 = Acc/PE
+WD = W/H Damage                                  C2 = Minor Damage
+CL = Claim                                       D = Major Damage
+Ref. Doc.         Material     Serial Number     QC Inspt Dt QC coml. Dt   QC Type QC GradeQT   Remark               WhN   QI St.   Stor.Loc.   Sold‐to Code
+8606034848        HGPR36S/NG   0RHX7CCT200122P   4/27/2022     4/27/2022   RA      D1      1    D1 ‐ Dent to Back    A60   CLAIM    WL90        2477738
+8606033632        HDPR48S/LP   0RGY7CDT200005F   4/27/2022     4/27/2022   RA      D1      1    D1 ‐ Dent to Front   A60   CLAIM    WL90        2477738
+

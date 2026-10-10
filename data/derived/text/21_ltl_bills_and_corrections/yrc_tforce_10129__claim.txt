@@ -1,0 +1,988 @@
+United States Bankruptcy Court for the District of Delaware
+
+                                                                                                     For Court Use Only
+ Name of Debtor: YRC Inc.                                                                            Claim Number:        0000010129
+
+ Case Number:          23-11087                                                                      File Date:           08/21/2023 10:59:29
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 TForce Freight
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          TForce Freight
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        234040 Wrangler Road
+              _______________________________________________________              Address     _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+               Calgary
+City          _______________________________________________________              City        _______________________________________________________
+               AB                                   T1X 0K2
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+                            Canada
+Country (if International): __________________________________________             Country (if International): __________________________________________
+
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              bankruptcy@ar.tforcefreight.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           7,575.03
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       Goods Sold/Services (Trade Claim)
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □
+                                                                                                                    ✔ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Serhii Stetsenko                                                               08/21/2023 10:59:29
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      Serhii Stetsenko
+                            Name      ______________________________________________________________________________________________
+                                    234040 Wrangler Road
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Calgary
+                            City      _____________________________________________________________________________________________
+                                      AB                                                    T1X 0K2
+                            State     ________________________________________________ Zip _________________________________________
+                                                        Canada
+                            Country (in international) _______________________________________________________________________________
+
+                            Phone     _____________________________________________________________________________________________
+                                       bankruptcy@ar.tforcefreight.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+                                                                                                                                        Page 1 of 15
+
+
+TForce Freight                                                                     Customer Name
+                                                                                   YRC REVERSE LOGISTICS
+                                                                                                                         Invoice/Statement No:
+                                                                                                                         R1754408
+                                                                                   Customer No:                          Invoice Date:
+Invoice Summary                                                                    23702488                              8-08-23
+Customer Copy                                                                      Payment Terms:                        Payment Due Date:
+                                                                                   DUE UPON RECEIPT                      ON RECEIPT
+Please Retain For Your Records
+The balance of account 23702488 is $ 2,260.31 reflecting payments received as of 08-08-2023.
+
+        0 - 30 days                   31 - 60 days                     61 - 90 days                  91 - 365 days                    Over 365 days
+        $      0.00                    $      0.00                    $        791.66              $      818.19                  $       650.46
+Total credits and other $     0.00
+Balances in bold are past due. Other accounts for which you are responsible are not included and your total balance may be different.
+
+  PRO Number               Ship Date            Customer                  P/C      Amount              Remarks
+                                                Reference
+     610384246             03-03-2023                       152820         C              818.19
+     798166961             06-01-2023                       154853         C              791.66
+     960141980             02-21-2022                         NONE         C              650.46
+
+
+
+
+TOTAL PROS (3)                                 TOTAL DUE                  USD          $2,260.31
+
+
+
+
+                        INVOICE
+             For customer service, please call 1-800-333-7400
+             Mail other correspondence to: P.O. BOX 1216, RICHMOND, VA 23218-1216
+             Web site: www.tforcefreight.com * DUNNS#: 00-599-5071
+             Fed ID#: 54-0481236 * A VIRGINIA CORPORATION
+
+
+
+
+                                                                                                                      Please detach & return with payment
+Payment Detail - Remittance Copy
+                                                                                           Amount          Amount
+Customer Name                  Invoice/Statement No:                           PRO #                                       Reason
+                                                                                            Due             Paid
+YRC REVERSE LOGISTIC           R1754408                           1       610384246          818.19
+Customer No:                   Invoice Date                       2       798166961          791.66
+23702488                       08-08-2023                         3       960141980          650.46
+Payment Terms:                 Payment Due Date                   4
+DUE UPON RECEIPT               ON RECEIPT                         5
+                                                                  6
+     Remit To:                                                    7
+
+     TFORCE FREIGHT, INC. 10804                                   8
+                                                                  9
+     P.O. BOX 7410804
+                                                                  10
+     CHICAGO, IL 60674--080-4
+                                                                  11
+                                                                  12
+                                                                  13
+     Please write the payment amount and reason beside the        14
+     applicable PRO# if payment differs from Amount Due.          15
+                                                Thank You!                TOTAL USD        $2,260.31
+                                                                                                        Page 2 of 15
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE             ORIGIN            DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     03/03/2023             FRM                  CMS                      610384246          $          818.19         USD
+                                                              P.O. NO.                                Payment Due
+ CONSIGNEE:         23374997                                     152820
+ YRC REVERSE LOGISTICS                                        B/L NO.
+ STE F                                                           NONE                                    ON RECEIPT
+ 2200 SOUTHWEST BLVD                                          ADV SCAC         PRO#           DATE            BEY SCAC
+ GROVE CITY, OH 43123
+
+ SHIPPER:          30429155                                   BILL TO:           23702488
+ EMPIRE MAZDA OF HUNTINGTON                                   YRC REVERSE LOGISTICS
+                                                              STE F
+ 660 E JERICHO TPKE                                           2200 SOUTHWEST BLVD
+ HUNTINGTON STATIO, NY 11746                                  GROVE CITY, OH 43123
+ PCS HM PKG                      DESCRIPTION                   WEIGHT      NMFC      CLASS          RATE         CHARGES
+     1      BX USED CORE PARTS                                        65 640000-07        125          MIN        602.94
+               003570 LTL FUEL ADJUSTMENT                                                             35.70       215.25
+               WAIVED INSPECTION
+               11.11 CUBIC FEET
+               152229        P.O. NUMBER
+               UPGF 560 11/14/22 C N 04090
+               ACTUAL DENSITY: 5.9 LBS/CUFT
+               #HU TYPE LENGTH WIDTH HEIGHT
+               1 SCN 64.00 15.00 20.00 IN
+               TOTAL CUBIC FEET: 11.111
+
+               ===============================
+               PREVIOUSLY INVOICED ON:
+               06/07/23 R1679027   818.19
+               03/15/23 33492586   818.19
+               ===============================
+
+    1
+
+
+
+
+                   INVOICE
+               TOTAL
+               AMOUNT DUE
+                                                                      65
+
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+                                                                                                                 818.19 COL
+Page 3 of 15
+Page 4 of 15
+Page 5 of 15
+Page 6 of 15
+                                                                                                        Page 7 of 15
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE             ORIGIN            DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     06/01/2023             FRM                  CMS                      798166961          $          791.66         USD
+                                                              P.O. NO.                                Payment Due
+ CONSIGNEE:         23374997                                     154853
+ YRC REVERSE LOGISTICS                                        B/L NO.
+ STE F                                                           NONE                                    ON RECEIPT
+ 2200 SOUTHWEST BLVD                                          ADV SCAC         PRO#           DATE            BEY SCAC
+ GROVE CITY, OH 43123
+
+ SHIPPER:          30429155                                   BILL TO:           23702488
+ EMPIRE MAZDA OF HUNTINGTON                                   YRC REVERSE LOGISTICS
+                                                              STE F
+ 660 E JERICHO TPKE                                           2200 SOUTHWEST BLVD
+ HUNTINGTON STATIO, NY 11746                                  GROVE CITY, OH 43123
+ PCS HM PKG                     DESCRIPTION                    WEIGHT      NMFC      CLASS          RATE         CHARGES
+     1      BX ALTERNATOR                                            100 640000-07        125          MIN        602.94
+               003130 LTL FUEL ADJUSTMENT                                                             31.30       188.72
+               WAIVED INSPECTION
+               16.90 CUBIC FEET
+               * * * * * ATTENTION * * * * *
+               ROMAN 631 427 5500
+               UPGF 560 11/14/22 C N 04090
+               ACTUAL DENSITY: 5.9 LBS/CUFT
+               #HU TYPE LENGTH WIDTH HEIGHT
+               1 SCN 64.00 36.50 12.50 IN
+               TOTAL CUBIC FEET: 16.898
+
+               ===============================
+               PREVIOUSLY INVOICED ON:
+               06/14/23 33718121   791.66
+               ===============================
+
+    1
+
+
+
+
+                   INVOICE
+               TOTAL
+               AMOUNT DUE
+                                                                     100
+
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+                                                                                                                 791.66 COL
+Page 8 of 15
+Page 9 of 15
+Page 10 of 15
+Page 11 of 15
+                                                                                                      Page 12 of 15
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE             ORIGIN            DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     02/21/2022             GBO                  CMS                      960141980          $          650.46        USD
+                                                              P.O. NO.                                Payment Due
+ CONSIGNEE:         23374997                                     NONE
+ YRC REVERSE LOGISTICS                                        B/L NO.
+ STE F                                                           148262                                  ON RECEIPT
+ 2200 SOUTHWEST BLVD                                          ADV SCAC         PRO#           DATE            BEY SCAC
+ GROVE CITY, OH 43123
+
+ SHIPPER:         18826578                                    BILL TO:           23702488
+ FLOW MAZDA OF GREENSBORO                                     YRC REVERSE LOGISTICS
+                                                              STE F
+ 1205 BRIDFORD PKWY                                           2200 SOUTHWEST BLVD
+ GREENSBORO, NC 27407                                         GROVE CITY, OH 43123
+ PCS HM PKG                    DESCRIPTION                     WEIGHT      NMFC      CLASS          RATE         CHARGES
+    1      BX EQUIPMENT                                               38 640000-02        300          MIN        496.91
+              003090 LTL FUEL ADJUSTMENT                                                              30.90       153.55
+              WAIVED INSPECTION
+              22.78 CUBIC FEET
+              UPGF 560 11/15/21 C N 02053
+              ACTUAL DENSITY: 1.7 LBS/CUFT
+              #HU TYPE LENGTH WIDTH HEIGHT
+              1 SCN 48.00 41.00 20.00 IN
+              TOTAL CUBIC FEET: 22.778
+
+               ===============================
+               PREVIOUSLY INVOICED ON:
+               04/21/23 R1612813   650.46
+               11/21/22 P7589349  650.46
+               10/17/22 P7542734  650.46
+               09/19/22 P7497778  650.46
+
+
+
+
+                   INVOICE
+               ===============================
+
+    1          TOTAL                                                  38
+               AMOUNT DUE                                                                                        650.46 COL
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+Page 13 of 15
+Page 14 of 15
+Page 15 of 15
+                                                                                                                                        Page 1 of 10
+
+
+TForce Freight                                                                     Customer Name
+                                                                                   YRC FREIGHT
+                                                                                                                         Invoice/Statement No:
+                                                                                                                         R1754295
+                                                                                   Customer No:                          Invoice Date:
+Invoice Summary                                                                    31567379                              8-08-23
+Customer Copy                                                                      Payment Terms:                        Payment Due Date:
+                                                                                   DUE UPON RECEIPT                      ON RECEIPT
+Please Retain For Your Records
+The balance of account 31567379 is $ 3,692.87 reflecting payments received as of 08-08-2023.
+
+        0 - 30 days                   31 - 60 days                     61 - 90 days                  91 - 365 days                  Over 365 days
+        $      0.00                    $      0.00                     $        0.00             $       2,358.05               $        1,334.82
+Total credits and other $     0.00
+Balances in bold are past due. Other accounts for which you are responsible are not included and your total balance may be different.
+
+  PRO Number               Ship Date            Customer               P/C         Amount            Remarks
+                                                Reference
+     728141293             04-06-2023                    26574543          P            2,358.05
+     765567574             10-28-2021                         NONE         P            1,334.82
+
+
+
+
+TOTAL PROS (2)                                 TOTAL DUE                USD            $3,692.87
+
+
+
+
+                        INVOICE
+             For customer service, please call 1-800-333-7400
+             Mail other correspondence to: P.O. BOX 1216, RICHMOND, VA 23218-1216
+             Web site: www.tforcefreight.com * DUNNS#: 00-599-5071
+             Fed ID#: 54-0481236 * A VIRGINIA CORPORATION
+
+
+
+
+                                                                                                                      Please detach & return with payment
+Payment Detail - Remittance Copy
+                                                                                           Amount          Amount
+Customer Name                  Invoice/Statement No:                           PRO #                                       Reason
+                                                                                            Due             Paid
+YRC FREIGHT                    R1754295                           1        728141293        2,358.05
+Customer No:                   Invoice Date                       2        765567574        1,334.82
+31567379                       08-08-2023                         3
+Payment Terms:                 Payment Due Date                   4
+DUE UPON RECEIPT               ON RECEIPT                         5
+                                                                  6
+     Remit To:                                                    7
+
+     TFORCE FREIGHT, INC. 10804                                   8
+                                                                  9
+     P.O. BOX 7410804
+                                                                  10
+     CHICAGO, IL 60674--080-4
+                                                                  11
+                                                                  12
+                                                                  13
+     Please write the payment amount and reason beside the        14
+     applicable PRO# if payment differs from Amount Due.          15
+                                                Thank You!                 TOTAL USD       $3,692.87
+                                                                                                        Page 2 of 10
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE             ORIGIN            DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     04/06/2023              CRT                 CRT                    728141293            $          2358.05        USD
+                                                              P.O. NO.                                Payment Due
+ CONSIGNEE:         01690356                                     NONE
+ US FOODS                                                     B/L NO.
+                                                                 26574543                                ON RECEIPT
+ 1051 AMBOY AVE                                               ADV SCAC        PRO#            DATE            BEY SCAC
+ PERTH AMBOY, NJ 08861
+
+ SHIPPER:           31567379                                  BILL TO:            31567379
+ YRC FREIGHT                                                  YRC FREIGHT
+
+ 445 HOLLYWOOD AVE                                            445 HOLLYWOOD AVE
+ SOUTH PLAINFIELD, NJ 07080                                   SOUTH PLAINFIELD, NJ 07080
+ PCS HM PKG                    DESCRIPTION                     WEIGHT      NMFC       CLASS         RATE      CHARGES
+     2     SK FOODSTUFF                                            3,530 640000-14         70          FLAT   1,725.00
+              003380 LTL FUEL ADJUSTMENT                                                              33.80     583.05
+              005000 NOTIFICATION CHARGES                                                                        50.00
+              WAIVED INSPECTION
+              298.90 CUBIC FEET
+              APPOINTMENT DELIVERY
+              REQUIRED ACCESSSORIALS MUST BE
+              DOCUMENTED AND ADDED TO THE RO
+              PRO PER 102 RULES TARIFF 582
+              CONF.14718839
+              0031 MILES
+              UPGF 102 0000470
+              ACTUAL DENSITY: 17.3 LBS/CUFT
+              #HU TYPE LENGTH WIDTH HEIGHT
+              1 SCN 53.00 46.50 65.00 IN
+              1 SCN 54.50 53.50 66.00 IN
+
+
+
+
+                   INVOICE
+              TOTAL CUBIC FEET: 204.069
+
+               ===============================
+               PREVIOUSLY INVOICED ON:
+               04/28/23 33605868 2358.05
+               ===============================
+
+    2          TOTAL                                               3,530
+               AMOUNT DUE                                                                                     2,358.05 PPD
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+Page 3 of 10
+Page 4 of 10
+Page 5 of 10
+                                                                                                        Page 6 of 10
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE             ORIGIN            DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     10/28/2021              CRT                 CRT                    765567574            $          1334.82        USD
+                                                              P.O. NO.                                Payment Due
+ CONSIGNEE:         01690356                                     34971621
+ US FOODS                                                     B/L NO.
+                                                                 NONE                                    ON RECEIPT
+ 1051 AMBOY AVE                                               ADV SCAC        PRO#            DATE            BEY SCAC
+ PERTH AMBOY, NJ 08861
+
+ SHIPPER:           31567379                                  BILL TO:            31567379
+ YRC FREIGHT                                                  YRC FREIGHT
+
+ 445 HOLLYWOOD AVE                                            445 HOLLYWOOD AVE
+ SOUTH PLAINFIELD, NJ 07080                                   SOUTH PLAINFIELD, NJ 07080
+ PCS HM PKG                    DESCRIPTION                     WEIGHT     NMFC        CLASS         RATE       CHARGES
+  110      CN CLOTHS TOWEL OR TOWELING                              525 049290-01         100        183.95     965.74
+              002750 LTL FUEL ADJUSTMENT                                                              27.50     265.58
+              005000 NOTIFICATION CHARGES                                                                        50.00
+              002550 INSPECTION                                                                                  25.50
+              002800 LUMPER CHARGE / DST                                                                         28.00
+              96.67 CUBIC FEET
+              APPOINTMENT DELIVERY
+              REQUIRED ACCESSSORIALS MUST BE
+              DOCUMENTED AND ADDED TO THE RO
+              PRO PER 102 RULES TARIFF 582
+              DO NOT LOAD WITH POISONS
+              UPGF 560 02/22/21 C N 01093
+              ACTUAL DENSITY: 5.4 LBS/CUFT
+              #HU TYPE LENGTH WIDTH HEIGHT
+              1 SCN 48.50 40.50 86.00 IN
+              TOTAL CUBIC FEET: 97.758
+
+
+
+
+    1
+                   INVOICE
+               ===============================
+               PREVIOUSLY INVOICED ON:
+               04/24/23 R1617539 1334.82
+               04/06/23 R1589090 1334.82
+               11/28/22 33274948 1334.82
+               ===============================
+
+               TOTAL
+               AMOUNT DUE
+                                                                     525
+                                                                                                              1,334.82 PPD
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+Page 7 of 10
+Page 8 of 10
+Page 9 of 10
+Page 10 of 10
+                                                                                                                                        Page 1 of 3
+
+
+TForce Freight                                                                     Customer Name
+                                                                                   YRC FREIGHT
+                                                                                                                         Invoice/Statement No:
+                                                                                                                         R1754296
+                                                                                   Customer No:                          Invoice Date:
+Invoice Summary                                                                    31825386                              8-08-23
+Customer Copy                                                                      Payment Terms:                        Payment Due Date:
+                                                                                   DUE UPON RECEIPT                      ON RECEIPT
+Please Retain For Your Records
+The balance of account 31825386 is $ 165.75 reflecting payments received as of 08-08-2023.
+
+        0 - 30 days                   31 - 60 days                     61 - 90 days                  91 - 365 days                  Over 365 days
+        $      0.00                    $      0.00                     $        0.00               $      165.75                   $       0.00
+Total credits and other $     0.00
+Balances in bold are past due. Other accounts for which you are responsible are not included and your total balance may be different.
+
+  PRO Number               Ship Date            Customer               P/C         Amount              Remarks
+                                                Reference
+     657948701             11-04-2022                   YRCF43229          C              165.75
+
+
+
+
+TOTAL PROS (1)                                 TOTAL DUE                USD            $165.75
+
+
+
+
+                        INVOICE
+             For customer service, please call 1-800-333-7400
+             Mail other correspondence to: P.O. BOX 1216, RICHMOND, VA 23218-1216
+             Web site: www.tforcefreight.com * DUNNS#: 00-599-5071
+             Fed ID#: 54-0481236 * A VIRGINIA CORPORATION
+
+
+
+
+                                                                                                                      Please detach & return with payment
+Payment Detail - Remittance Copy
+                                                                                           Amount          Amount
+Customer Name                  Invoice/Statement No:                           PRO #                                       Reason
+                                                                                            Due             Paid
+YRC FREIGHT                    R1754296                           1        657948701         165.75
+Customer No:                   Invoice Date                       2
+31825386                       08-08-2023                         3
+Payment Terms:                 Payment Due Date                   4
+DUE UPON RECEIPT               ON RECEIPT                         5
+                                                                  6
+     Remit To:                                                    7
+
+     TFORCE FREIGHT, INC. 10804                                   8
+                                                                  9
+     P.O. BOX 7410804
+                                                                  10
+     CHICAGO, IL 60674--080-4
+                                                                  11
+                                                                  12
+                                                                  13
+     Please write the payment amount and reason beside the        14
+     applicable PRO# if payment differs from Amount Due.          15
+                                                Thank You!                 TOTAL USD         $165.75
+                                                                                                           Page 2 of 3
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE             ORIGIN            DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     11/04/2022             HST                  DAL                    657948701            $             165.75        USD
+                                                              P.O. NO.                                Payment Due
+ CONSIGNEE:          31825386                                    YRCF43229
+ YRC FREIGHT                                                  B/L NO.
+ 200 N BELTLINE RD                                               6100354362                                ON RECEIPT
+ 200 N BELTLINE RD                                            ADV SCAC        PRO#            DATE              BEY SCAC
+ IRVING, TX 75061
+
+ SHIPPER:          05757135                                   BILL TO:           31825386
+ OLD WORLD AUTOMOTIVE PRODUCTS                                YRC FREIGHT
+ %SOUTH ATLANTIC SERVICES                                     200 N BELTLINE RD
+ 15636 MARKET ST                                              200 N BELTLINE RD
+ CHANNELVIEW, TX 77530                                        IRVING, TX 75061
+ PCS HM PKG                   DESCRIPTION                      WEIGHT       NMFC     CLASS          RATE            CHARGES
+              016575 REDELIVERY CHARGE                                                                               165.75
+              414280344 R0 XREF PRO #
+
+               ===============================
+               PREVIOUSLY INVOICED ON:
+               04/24/23 R1617632   165.75
+               11/11/22 33246292   165.75
+               ===============================
+
+               TOTAL
+               AMOUNT DUE                                                                                           165.75 COL
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+
+
+
+
+                     INVOICE
+Page 3 of 3
+                                                                                                                                        Page 1 of 6
+
+
+TForce Freight                                                                     Customer Name
+                                                                                   YRC HOLLAND
+                                                                                                                         Invoice/Statement No:
+                                                                                                                         R1754412
+                                                                                   Customer No:                          Invoice Date:
+Invoice Summary                                                                    34622420                              8-08-23
+Customer Copy                                                                      Payment Terms:                        Payment Due Date:
+                                                                                   DUE UPON RECEIPT                      ON RECEIPT
+Please Retain For Your Records
+The balance of account 34622420 is $ 1,118.82 reflecting payments received as of 08-08-2023.
+
+        0 - 30 days                   31 - 60 days                     61 - 90 days                  91 - 365 days                  Over 365 days
+        $      0.00                    $      0.00                     $        0.00             $       1,118.82                  $       0.00
+Total credits and other $     0.00
+Balances in bold are past due. Other accounts for which you are responsible are not included and your total balance may be different.
+
+  PRO Number               Ship Date            Customer               P/C         Amount            Remarks
+                                                Reference
+     546903626             12-20-2022                    MIA95055          P            1,118.82 REWEIGHED CHECK INVC
+
+
+
+
+TOTAL PROS (1)                                 TOTAL DUE                USD            $1,118.82
+
+
+
+
+                        INVOICE
+             For customer service, please call 1-800-333-7400
+             Mail other correspondence to: P.O. BOX 1216, RICHMOND, VA 23218-1216
+             Web site: www.tforcefreight.com * DUNNS#: 00-599-5071
+             Fed ID#: 54-0481236 * A VIRGINIA CORPORATION
+
+
+
+
+                                                                                                                      Please detach & return with payment
+Payment Detail - Remittance Copy
+                                                                                           Amount          Amount
+Customer Name                  Invoice/Statement No:                           PRO #                                       Reason
+                                                                                            Due             Paid
+YRC HOLLAND                    R1754412                           1        546903626        1,118.82
+Customer No:                   Invoice Date                       2
+34622420                       08-08-2023                         3
+Payment Terms:                 Payment Due Date                   4
+DUE UPON RECEIPT               ON RECEIPT                         5
+                                                                  6
+     Remit To:                                                    7
+
+     TFORCE FREIGHT, INC. 10804                                   8
+                                                                  9
+     P.O. BOX 7410804
+                                                                  10
+     CHICAGO, IL 60674--080-4
+                                                                  11
+                                                                  12
+                                                                  13
+     Please write the payment amount and reason beside the        14
+     applicable PRO# if payment differs from Amount Due.          15
+                                                Thank You!                 TOTAL USD       $1,118.82
+                                                                                                           Page 2 of 6
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE              ORIGIN           DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     12/20/2022             DTR                  CAD                    546903626              $         1118.82         USD
+                                                              P.O. NO.                                 Payment Due
+ CONSIGNEE:         08007541                                     448190
+ IRON FISH DISTILLERY LLC                                     B/L NO.
+                                                                 MIA95055                                  ON RECEIPT
+ 1434 DZUIBANEK RD                                            ADV SCAC        PRO#             DATE             BEY SCAC
+ THOMPSONVILLE, MI 49683
+
+ SHIPPER:           34622420                                  BILL TO:            34622420
+ YRC HOLLAND                                                  YRC HOLLAND
+
+ 27411 WICK RD                                                27411 WICK RD
+ ROMULUS, MI 48174                                            ROMULUS, MI 48174
+ PCS HM PKG                    DESCRIPTION                     WEIGHT     NMFC         CLASS        RATE         CHARGES
+              *** SHIPMENT REWEIGHED ***
+    6     SK GARMENTS AND ACCESSORIES                              4,665 640000-09           100      106.84    4,984.09
+              84.00% DISCOUNT                                                                          84.00   -4,186.64
+              004030 LTL FUEL ADJUSTMENT                                                               40.30      321.37
+              WAIVED INSPECTION
+              04424-DTR ORIGINAL WGT/REWEIGH
+              SHIPMENT WEIGHED AT DTR.
+              WEIGHT DECLARED AS 04424 LBS.
+              ACTUAL WEIGHT IS 04665 LBS.
+              537.33 CUBIC FEET
+              12 LINEAR FEET
+              SEC7 DEFAULT
+              ACTUAL DENSITY: 8.7 LBS/CUFT
+              #HU TYPE LENGTH WIDTH HEIGHT
+              1 SCN 54.50 41.50 69.50 IN
+              1 SCN 50.00 44.50 68.00 IN
+
+
+
+
+                   INVOICE
+              1 SCN 49.50 42.50 69.00 IN
+              1 SCN 51.50 46.50 66.00 IN
+              1 SCN 52.50 45.50 68.50 IN
+              1 SCN 52.00 43.00 68.50 IN
+              TOTAL CUBIC FEET: 537.326
+
+               ===============================
+               PREVIOUSLY INVOICED ON:
+               05/09/23 33631700 1118.82
+               05/02/23 33614073 2369.67
+               ===============================
+
+    6          TOTAL                                               4,665
+               AMOUNT DUE                                                                                       1,118.82 PPD
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+Page 3 of 6
+Page 4 of 6
+Page 5 of 6
+Page 6 of 6
+                                                                                                                                        Page 1 of 5
+
+
+TForce Freight                                                                     Customer Name
+                                                                                   YELLOW ROADWAY
+                                                                                                                         Invoice/Statement No:
+                                                                                                                         R1755721
+                                                                                   Customer No:                          Invoice Date:
+Invoice Summary                                                                    35561927                              8-09-23
+Customer Copy                                                                      Payment Terms:                        Payment Due Date:
+                                                                                   DUE UPON RECEIPT                      ON RECEIPT
+Please Retain For Your Records
+The balance of account 35561927 is $ 337.28 reflecting payments received as of 08-09-2023.
+
+        0 - 30 days                   31 - 60 days                     61 - 90 days                  91 - 365 days                    Over 365 days
+        $      0.00                    $      0.00                     $        0.00                 $      0.00                  $      337.28
+Total credits and other $     0.00
+Balances in bold are past due. Other accounts for which you are responsible are not included and your total balance may be different.
+
+  PRO Number               Ship Date            Customer               P/C         Amount            Remarks
+                                                Reference
+     338727174             03-10-2022                         NONE         P              337.28
+
+
+
+
+TOTAL PROS (1)                                 TOTAL DUE                USD            $337.28
+
+
+
+
+                        INVOICE
+             For customer service, please call 1-800-333-7400
+             Mail other correspondence to: P.O. BOX 1216, RICHMOND, VA 23218-1216
+             Web site: www.tforcefreight.com * DUNNS#: 00-599-5071
+             Fed ID#: 54-0481236 * A VIRGINIA CORPORATION
+
+
+
+
+                                                                                                                      Please detach & return with payment
+Payment Detail - Remittance Copy
+                                                                                           Amount          Amount
+Customer Name                  Invoice/Statement No:                           PRO #                                       Reason
+                                                                                            Due             Paid
+YELLOW ROADWAY                 R1755721                           1        338727174         337.28
+Customer No:                   Invoice Date                       2
+35561927                       08-09-2023                         3
+Payment Terms:                 Payment Due Date                   4
+DUE UPON RECEIPT               ON RECEIPT                         5
+                                                                  6
+     Remit To:                                                    7
+
+     TFORCE FREIGHT, INC. 10804                                   8
+                                                                  9
+     P.O. BOX 7410804
+                                                                  10
+     CHICAGO, IL 60674--080-4
+                                                                  11
+                                                                  12
+                                                                  13
+     Please write the payment amount and reason beside the        14
+     applicable PRO# if payment differs from Amount Due.          15
+                                                Thank You!                 TOTAL USD         $337.28
+                                                                                                           Page 2 of 5
+
+
+TForce Freight                                                                                     TFORCE FREIGHT LTL
+
+
+
+REMIT TO:
+P.O. BOX 7410804
+CHICAGO, IL 60674--080-4                                                                 COPY OF FREIGHT BILL
+    SHIP DATE             ORIGIN            DESTINATION             FREIGHT BILL NO.                NET AMOUNT DUE
+     03/10/2022             DAL                  DAL                     338727174           $             337.28        USD
+                                                              P.O. NO.                                Payment Due
+ CONSIGNEE:         30320492                                     NONE
+ KEHE                                                         B/L NO.
+                                                                 NONE                                      ON RECEIPT
+ 4024 ROCK QUARRY RD                                          ADV SCAC        PRO#            DATE              BEY SCAC
+ DALLAS, TX 75211
+
+ SHIPPER:           35561927                                  BILL TO:            35561927
+ YELLOW ROADWAY                                               YELLOW ROADWAY
+
+ 200 N BELT LINE RD                                           200 N BELT LINE RD
+ IRVING, TX 75060                                             IRVING, TX 75060
+  PCS HM PKG                     DESCRIPTION                   WEIGHT       NMFC       CLASS        RATE            CHARGES
+     3      SK FOODSTUFFS                                          1,908 073260-07         92.5
+                0002000 AS WEIGHT                                                                     66.50     1,330.00
+                84.00% DISCOUNT                                                                       84.00    -1,117.20
+                003500 LTL FUEL ADJUSTMENT                                                            35.00        74.48
+                005000 NOTIFICATION CHARGES                                                                        50.00
+                WAIVED INSPECTION
+                195.90 CUBIC FEET
+                APPOINTMENT DELIVERY
+                SEC7 DEFAULT
+                ACTUAL DENSITY: 10.5 LBS/CUFT
+                #HU TYPE LENGTH WIDTH HEIGHT
+                2 SCN 53.00 45.00 86.00 IN
+                1 SCN 47.00 42.00 55.50 IN
+                TOTAL CUBIC FEET: 182.099
+
+               ===============================
+
+
+
+
+                   INVOICE
+               PREVIOUSLY INVOICED ON:
+               08/04/23 33841423   337.28
+               ===============================
+
+    3          TOTAL                                               1,908
+               AMOUNT DUE                                                                                           337.28 PPD
+
+
+If you have questions regarding this invoice, please contact Customer Service at 1-800-333-7400.
+Page 3 of 5
+Page 4 of 5
+Page 5 of 5
+

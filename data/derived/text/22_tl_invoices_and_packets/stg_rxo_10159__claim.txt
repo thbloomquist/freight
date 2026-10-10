@@ -1,0 +1,1034 @@
+United States Bankruptcy Court for the District of New Jersey
+
+                                                                                                        For Court Use Only
+ Name of Debtor: STG Logistics, Inc.                                                                    Claim Number:        0000010159
+
+ Case Number:          26-10258                                                                         File Date:           03/06/2026 10:29:45
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                                  04/25
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 RXO Capacity Solutions LLC
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?         □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                         Where should payments to the creditor be sent? (if different)
+
+Name          RXO Capacity Solutions LLC
+             ________________________________________________________                 Name        ________________________________________________________
+
+Address        ATTN: Jon Paul Anthony
+              _______________________________________________________                 Address     _______________________________________________________
+               11215 N. Community House Rd, 9th Fl
+              _______________________________________________________                             _______________________________________________________
+
+             _______________________________________________________                              _______________________________________________________
+
+             _______________________________________________________                             _______________________________________________________
+
+City           Charlotte
+             _______________________________________________________                             _______________________________________________________
+                                                                                      City
+
+State          NC
+             ______________________                  28277
+                                           ZIP Code _______________________                      ______________________        ZIP Code _______________________
+                                                                                      State
+
+Country (if International): __________________________________________                Country (if International): __________________________________________
+              980-867-2031
+Phone:       _______________________________________________________                  Phone:     _______________________________________________________
+              jon.anthony@rxo.com
+Email:       _______________________________________________________                  Email:     _______________________________________________________
+Uniform claim identifier (if you use one): _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+4. Does this claim amend one already filed?                                           5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                                 □✔ No
+□ Yes.                                                                                □ Yes.
+     Claim number on court claims register (if known) _____________________              Who made the earlier filing?
+
+     Filed on ______________________________________________________                     _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                                   Page 1 of 3
+Part 2:      Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                         8. What is the basis of the claim?
+                                                      7. How much is the claim?
+    identify the debtor?                                 14,700.00
+                                                      $_______________________________________
+□ No                                                                                                         Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                             personal injury or wrongful death, or credit card. Attach redacted
+□
+✔ Yes.                                                Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                                 Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                      charges?
+number you use to identify the debtor:                                                                       such as health care information.
+                                                      □✔ No
+          OGIL
+    ___________________________________________
+                                                      □ Yes. Attach statement itemizing interest, fees,       Goods Sold/Services Performed (Trade)
+                                                                                                             _________________________________________________________
+                                                               expenses, or other charges required by
+                                                               Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                       10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                          □
+                                                                              ✔ No                                        □
+                                                                                                                          ✔ No
+□ Yes. The claim is secured by a lien on property.                            □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                              any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal              $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                               12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                                  under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                          ____________________________________                □
+                                                                              ✔ No
+                                                                                                                                               some categories, the law limits the
+                                                                                                                                               amount entitled to priority.
+Basis
+i     for perfection:                                                         □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                              □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,               child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that             □  Up to $3,800* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                                   rental of property or services for personal, family, or
+Value of property:                                $_____________________      household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:              $_____________________
+                                                                              □ Wages, salaries, or commissions (up to $17,150*)               $_____________________
+                                                                              earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________                 filed or the debtor’s business ends, whichever is earlier.
+(The sum of the secured and unsecured amounts should match the                11 U.S.C. § 507(a)(4).                                           $_____________________
+amount in line 7.)                                                            □ Taxes or penalties owed to governmental units.
+                                                                              11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                                   $_____________________
+default as of the date of the petition: $_____________________                □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                              507(a)(5).
+Annual Interest Rate (when case was filed)            ______________%                                                                          $_____________________
+                                                                              □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                                    □ Fixed □ Variable        (___________) that applies.
+                                                                              * Amounts are subject to adjustment on 4/01/28 and every 3 years after that for cases
+                                                                              begun on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                           Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □
+                            ✔ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         Jon Paul Anthony                                                               03/06/2026 10:29:45
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                            Name      ______________________________________________________________________________________________
+
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                            City      _____________________________________________________________________________________________
+
+                            State      ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+
+                            Phone     _____________________________________________________________________________________________
+
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+RXO Capacity Solutions LLC                                                                    STG Logistics Invoices
+
+
+Bill To Customer
+             Bill To
+                   Number
+                     Customer Name Invoice Date Invoice Number
+                                                           Transaction Type
+                                                                       Pay Terms   Due Date      Invoice_Amount
+                                                                                                            Currency   Adjusted_Amount Applied_Amount Credited_Amount Balance         Days_Past_Due
+                                                                                                                                                                                                 Load Number
+GEOLOGIL STG Logistics, Inc.         8/15/2025 3333401301 INV         Net 21          9/5/2025          150 USD                                                                150           181    33334013
+GEOLOGIL STG Logistics, Inc.          9/5/2025 3336035101 INV         Net 21         9/26/2025      2,000.00 USD                                                           2,000.00          160    33360351
+GEOLOGIL STG Logistics, Inc.         7/22/2025 3340338401 INV         Net 21         8/12/2025      2,000.00 USD                                                           2,000.00          205    33403384
+GEOLOGIL STG Logistics, Inc.         8/27/2025 3340830801 INV         Net 21         9/17/2025      2,000.00 USD                                                           2,000.00          169    33408308
+GEOLOGIL STG Logistics, Inc.         8/20/2025 3341783401 INV         Net 21         9/10/2025      1,325.00 USD                     0            875                0 450.00                176    33417834
+GEOLOGIL STG Logistics, Inc.         7/18/2025 3354284201 INV         Net 21          8/8/2025      2,000.00 USD                                                           2,000.00          209    33542842
+GEOLOGIL STG Logistics, Inc.         7/25/2025 3358018001 INV         Net 21         8/15/2025      2,000.00 USD                                                           2,000.00          202    33580180
+GEOLOGIL STG Logistics, Inc.          8/4/2025 3362210401 INV         Net 21         8/25/2025      1,325.00 USD                     0        1,375.00               0 (50.00)               192    33622104
+GEOLOGIL STG Logistics, Inc.       11/25/2025    19789318 INV         Net 21        12/16/2025          250 USD                                                                250            79    15635265
+GEOLOGIL STG Logistics, Inc.         8/28/2025   19857454 INV         Net 21         9/18/2025      1,325.00 USD                     0            875                0 450.00                168    14954212
+GEOLOGIL STG Logistics, Inc.          9/9/2025   20004289 INV         Net 21         9/30/2025          825 USD                      0            875                0 (50.00)               156    15025902
+GEOLOGIL STG Logistics, Inc.       10/10/2025    20217728 INV         Net 21        10/31/2025          825 USD                                   875                     (50.00)            125    15279720
+GEOLOGIL STG Logistics, Inc.       10/21/2025    20228484 INV         Net 21        11/11/2025      2,000.00 USD                                                           2,000.00          114    15359594
+GEOLOGIL STG Logistics, Inc.       10/17/2025    20334675 INV         Net 21         11/7/2025      1,325.00 USD                                                           1,325.00          118    15330246
+GEOLOGIL STG Logistics, Inc.       11/11/2025    20470339 INV         Net 21         12/2/2025      2,000.00 USD                     0        2,025.00               0 (25.00)                93    15522271
+GEOLOGIL STG Logistics, Inc.       11/25/2025    20532655 INV         Net 21        12/16/2025      2,000.00 USD                     0            725         -1,025.00        250            79    15635514
+                                                                                                                                                                          14,700.00
+
+
+
+
+Confidential                                                                                        3/6/2026                                                                                           Page 1
+                                                                                                                                
+                                                              ,,-                                    ,%,-
+     !"#$%&
+  ' ()*+(                                                                                                                                           
+    ( )*+(                                                    $$                                      .-+--
+
+                                                                                                                                                
+  /012(3 (+                                                                                                    !                              " 
+                                                                                                                       !" 6(/  11                        5;2  : 9++
+  12(4                                                                                                       789(                              :  2=
+    5--                                                                                                       (231%-%                           (( =
+
+                                                                                                                         !                               
+                                                                                                                       !" 6(/  11                       5;2  : 9++
+                                                                                                                       +"+:*$%/                          : (
+                                                                                                                        " ;<                          ((=
+
+
+
+                        #                                                                                                                               $
+  1>/"                   ? @                                                                                                                                         $$
+                                                       %                                               &%                                                  %
+  -,7,-                -,7,-                                 6                                                 7---+---                                          +-
+
+                                                         &%                                                                                             #                
+"'A                                                         7---           +--*+--*+--                      $                               A             -+--             +--                        .-+--
+
+
+
+                                                                                                                   %                         #               $
+  /012(--44/ 1  $7                                                              +-                  B
+  C/'!'// ,"/0$$D/// 1                                                         +-                  B
+  $7
+  /01"03/3 /1!%-/  D  6  $--                                                                                 /"
+
+
+
+
+                                                              #                                                                          $ %                                             .-+--
+  "B 1                                       A              +--              -+--                     .-+--                                  
+                                                                                                                                                                 $                                             .-+--
+                                                                                                                                                            
+                                                                                                                                  B/4                          '
+                                                                                                                                                                    
+                                                                                                                                                                                                             .-+--
+                                                                                                                                                                                                         .-+--
+                                                                                                                                                                                                 0/,/.-+--
+
+                                                                                                           .-+--                                                                                      .-+--
+                                                                                       !()*(+()+,)-.
+ /,0/ E-%$%+F/ E-%--F---+B  82 8 2  2 E!" 6(/  11  @@@#2 G!"H& 
+  6 E92 ,  6   D(6DE!" EI(   @E  6D @  /      # 
+ G   H&8 (  (6  E@ (+    8 ( @ !"J  (  J6(D2  6 E( E@ 888+*+( ,E   
+ E  2()*+( +@2 ( 2 E6 @ E@  2( ( E  + @6   -@  D(   8 
+  D(+3 (( K6   @ D (( +3  D @  6   (@((  , J@6  8E  D(+3 D(6 
+    E@ 8 28 !"8  %-@(6@  D( ( 8D+
+                                                                                                                                
+                                                              ,--,                                    $--,
+     !"#$%&
+  ' ()*+(                                                                                                                                           
+    ( )*+(                                                    $..                                      /+,,
+
+                                                                                                                                                
+  0123(4 (+                                                                                                    !                              " 
+                                                                                                                       !" 7(0  22                        6;3  : 9++
+  23(5                                                                                                       .89(                              :  3=
+    6,,                                                                                                       (342%,%                           (( =
+
+                                                                                                                         !                               
+                                                                                                                       !" 7(0  22                       6;3  : 9++
+                                                                                                                       +"+:*$%0                          : (
+                                                                                                                        " ;<                          ((=
+
+
+
+                        #                                                                                                                               $
+  2>0"                   ?                                                                   2,,%                                                                    2=,,%
+                                                       %                                               &%                                            %
+  ,-$-,                ,-$-,                                 7                                                 .,,,+,,,                                          .%%+,
+
+                                                         &%                                                                                             #                
+"'@                                                         .,,,           +,,*+,,*+,,                      ,                              @             +,,          +,,                   /+,,
+
+
+
+                                                                                                                   %                         #               $
+  0123(2!%,0 '2?'  7  $,,                                                            +                A
+  ? 7 0'B@  $                                                             +,                  0"
+  ? 7 0'B@  $                                                             +,                A
+  0123(2!%,0 '2?'  7  $,,                                                                                 0"
+
+
+
+
+                                                              #                                                                          $ %                                       /+,,
+                                                                                                                                                           
+                                                                                                                                                                 $                                             /,+,,
+                                                                                                                                                            
+                                                                                                                                  A05                          '
+                                                                                                                                                                    
+                                                                                                                                                                                                         /,+,,
+                                                                                                                                                                                                                 /,+,,
+
+                                                                                                                                                                                                 10-0/,+,,
+
+                                                                                                                                                                                                      /+,,
+                                                                                       !()*(+()+,)-.
+ 0-10 C,%$%+D0 C,%,,D,,,+A  83 8 3  3 C!" 7(0  22  EEE#3 F!"G& 
+  7 C93 -  7   B(7BC!" CH(   EC  7B E  0      # 
+ F   G&8 (  (7  CE (+    8 ( E !"I  (  I7(B3  7 C( CE 888+*+( -C   
+ C  3()*+( +E3 ( 3 C7 E CE  3( ( C  + E7   ,E  B(   8 
+  B(+4 (( J7   E B (( +4  B E  7   (E((  - IE7  8C  B(+4 B(7 
+    CE 8 38 !"8  %,E(7E  B( ( 8B+
+                                                                                                                                
+                                                              ,--,                                    --,
+     !"#$%&
+  ' ()*+(                                                                                                                                           
+    ( )*+(                                                    ,..                                      /,,,+,,
+
+                                                                                                                                                
+  0123(4 (+                                                                                                    !                              " 
+                                                                                                                       !" 7(0  22                        6;3  : 9++
+  23(5                                                                                                       .89(                              :  3=
+    6,,                                                                                                       (342%,%                           (( =
+
+                                                                                                                         !                               
+                                                                                                                       !" 7(0  22                       6;3  : 9++
+                                                                                                                       +"+:*$%0                          : (
+                                                                                                                        " ;<                          ((=
+
+
+
+                        #                                                                                                                               $
+  2>0"                   ?                                                                                                                                                    2=,
+                                                       %                                               &%                                            %
+  ,-,-,                ,-,-,                                 7                                                 .,,,+,,,                                          +
+
+                                                         &%                                                                                             #                
+"'@                                                         .,,,           +,,*+,,*+,,                                                    @             ,,,+,,          +,,                   /,,,+,,
+
+
+
+                                                                                                                   %                         #             $
+  012"1404 02!%,0+  A                                  7  $,,                          %+                B            B            2=,
+  C0'!'00 -"01$$A000 2                                                         +,                  0"
+  $.
+  C0'!'00 -"01$$A000 2                                                         %+%                B
+  $.
+  012"1404 02!%,0  A  7  $,,                                                                                 0"
+
+
+
+
+                                                              #                                                                          $ %                                       /,,,+,,
+                                                                                                                                                           
+                                                                                                                                                                 $                                             /,+,,
+                                                                                                                                                            
+                                                                                                                                  B05                          '
+                                                                                                                                                                    
+                                                                                                                                                                                                         /,+,,
+                                                                                                                                                                                                                 /,+,,
+
+                                                                                                                                                                                                 10-0/,+,,
+
+                                                                                                                                                                                                      /,,,+,,
+                                                                                       !()*(+()+,)-.
+ 0-10 D,%$%+E0 D,%,,E,,,+B  83 8 3  3 D!" 7(0  22  FFF#3 G!"H& 
+  7 D93 -  7   A(7AD!" DI(   FD  7A F  0      # 
+ G   H&8 (  (7  DF (+    8 ( F !"J  (  J7(A3  7 D( DF 888+*+( -D   
+ D  3()*+( +F3 ( 3 D7 F DF  3( ( D  + F7   ,F  A(   8 
+  A(+4 (( K7   F A (( +4  A F  7   (F((  - JF7  8D  A(+4 A(7 
+    DF 8 38 !"8  %,F(7F  A( ( 8A+
+                                                                                                                                
+                                                              ,--,                                    --,
+     !"#$%&
+  ' ()*+(                                                                                                                                           
+    ( )*+(                                                    ,.%                                      /+,,
+
+                                                                                                                                                
+  0123(4 (+                                                                                                    !                              " 
+                                                                                                                       !" 7(0  22                        6;3  : 9++
+  23(5                                                                                                       .89(                              :  3=
+    6,,                                                                                                       (342%,%                           (( =
+
+                                                                                                                         !                               
+                                                                                                                       !" 7(0  22                       6;3  : 9++
+                                                                                                                       +"+:*$%0                          : (
+                                                                                                                        " ;<                          ((=
+
+
+
+                        #                                                                                                                               $
+  2>0"                   ?                                                                                                                                                    ,.%
+                                                       %                                               &%                                            %
+  ,--,                ,--,                                 7                                                 .,,,+,,,                                          .%%+,
+
+                                                         &%                                                                                             #                
+"'@                                                         .,,,           +,,*+,,*+,,                      ,                              @             +,,          +,,                   /+,,
+
+
+
+                                                                                                                   %                         #               $
+  0123(2!%,0 '2?'  7  $,,                                                            +                A
+  ? 7 0'B@  $                                                             +,                  0"
+  ? 7 0'B@  $                                                             +,                A
+  0123(2!%,0 '2?'  7  $,,                                                                                 0"
+
+
+
+
+                                                              #                                                                          $ %                                       /+,,
+                                                                                                                                                           
+                                                                                                                                                                 $                                             /,+,,
+                                                                                                                                                            
+                                                                                                                                  A05                          '
+                                                                                                                                                                    
+                                                                                                                                                                                                         /,+,,
+                                                                                                                                                                                                                 /,+,,
+
+                                                                                                                                                                                                 10-0/,+,,
+
+                                                                                                                                                                                                      /+,,
+                                                                                       !()*(+()+,)-.
+ 0-10 C,%$%+D0 C,%,,D,,,+A  83 8 3  3 C!" 7(0  22  EEE#3 F!"G& 
+  7 C93 -  7   B(7BC!" CH(   EC  7B E  0      # 
+ F   G&8 (  (7  CE (+    8 ( E !"I  (  I7(B3  7 C( CE 888+*+( -C   
+ C  3()*+( +E3 ( 3 C7 E CE  3( ( C  + E7   ,E  B(   8 
+  B(+4 (( J7   E B (( +4  B E  7   (E((  - IE7  8C  B(+4 B(7 
+    CE 8 38 !"8  %,E(7E  B( ( 8B+
+                                                                                                                                
+                                                              ,,-                                    ,%,-
+     !"#$%&
+  ' ()*+(                                                                                                                                           
+    ( )*+(                                                    -%                                      .---+--
+
+                                                                                                                                                
+  /012(3 (+                                                                                                    !                              " 
+                                                                                                                       !" 6(/  11                        5;2  : 9++
+  12(4                                                                                                       789(                              :  2=
+    5--                                                                                                       (231%-%                           (( =
+
+                                                                                                                         !                               
+                                                                                                                       !" 6(/  11                       5;2  : 9++
+                                                                                                                       +"+:*$%/                          : (
+                                                                                                                        " ;<                          ((=
+
+
+
+                        #                                                                                                                               $
+  1>/"                   ?                                                                   -%                                                                         -%
+                                                       %                                               &%                                            %
+  ,-,-                ,-,-                                                                               7---+---                                          +
+
+                                                         &%                                                                                             #                
+"'@                                                         7---           +--*+--*+--                                                    @             ---+--          +--                   .---+--
+
+
+
+                                                                                                                   %                         #               $
+  /01"03/3 /1!%-/+  A                                  6  $--                          %+                B
+  C/'!'// ,"/0$$A/// 1                                                         +-                  /"
+  $7
+  C/'!'// ,"/0$$A/// 1                                                         %+%                B
+  $7
+  /01"03/3 /1!%-/  A  6  $--                                                                                 /"
+
+
+
+
+                                                              #                                                                          $ %                                       .---+--
+                                                                                                                                                           
+                                                                                                                                                                 $                                             .-+--
+                                                                                                                                                            
+                                                                                                                                  B/4                          '
+                                                                                                                                                                    
+                                                                                                                                                                                                         .-+--
+                                                                                                                                                                                                                 .-+--
+
+                                                                                                                                                                                                 0/,/.-+--
+
+                                                                                                                                                                                                      .---+--
+                                                                                       !()*(+()+,)-.
+ /,0/ D-%$%+E/ D-%--E---+B  82 8 2  2 D!" 6(/  11  FFF#2 G!"H& 
+  6 D92 ,  6   A(6AD!" DI(   FD  6A F  /      # 
+ G   H&8 (  (6  DF (+    8 ( F !"J  (  J6(A2  6 D( DF 888+*+( ,D   
+ D  2()*+( +F2 ( 2 D6 F DF  2( ( D  + F6   -F  A(   8 
+  A(+3 (( K6   F A (( +3  A F  6   (F((  , JF6  8D  A(+3 A(6 
+    DF 8 28 !"8  %-F(6F  A( ( 8A+
+                                                                                                           INVOICE
+                                                                         Invoice #                      Date                  Customer Code
+                                                                         3333401301                     8/15/2025             GEOLOGIL
+
+                                                                                  STG Logistics, Inc.
+                                                                                  Attention: Invoices
+                                                                                  5 Logistics Dr
+
+
+
+
+                                                                        BILL TO
+Load #             33334013
+                                                                                  Kearny, NJ                                  07032-6550
+Trailer
+Reference          STG load 5/22/2025
+
+
+
+
+        Type                Code   Description                               Assoc Stop                        Units          Per          Amount
+
+        Transportation
+RATES
+
+
+
+
+                            VOR    Equipment Ordered Not Used                                                   1.00        150.00           150.00
+                                                                                                                       SUBTOTAL:             150.00
+
+Notes: STG load 5/22/2025.                                                                          TOTAL DUE BY 9/5/2025:             150.00 USD
+
+                                                                                                               AFTER 9/5/2025:         152.25 USD
+
+
+
+
+        Type    Dates                     Facility                                                         Reference
+
+        PU1     5/22/2025                                                                                  PU #s: STG load 5/22/2025
+                                          STG Logistics
+                                          1500 DOOLITTLE DR
+                                          San Leandro, CA, US, 94577
+ROUTE
+
+
+
+
+                 Item    FAK
+
+        DEL1    5/22/2025                                                                                  Del #s:
+                                          STG LOGISTICS LAX
+                                          1650 S CENTRAL AVE
+                                          Compton, CA, US, 90220
+                 Item    FAK
+
+
+
+
+                                                     Payment due 21 days from invoice date
+                                   Remit To: Coyote Logistics LLC * PO Box 742636 * Atlanta, GA * 30374-2636
+                            Email: billing@coyote.com * Phone: (877)626-9683 ext. 6 then press 2 * Fax: (847)235-7629
+                                                                                                                 INVOICE
+                                                                               Invoice #                      Date                   Customer Code
+                                                                               3336035101                     9/5/2025               GEOLOGIL
+
+                                                                                        STG Logistics, Inc.
+                                                                                        Attention: Invoices
+                                                                                        5 Logistics Dr
+
+
+
+
+                                                                              BILL TO
+Load #             33360351
+                                                                                        Kearny, NJ                                  07032-6550
+Trailer            NA
+Reference
+
+
+
+
+        Type                 Code   Description                                    Assoc Stop                        Units          Per          Amount
+
+        Transportation
+RATES
+
+
+
+
+                             FR     Flat Rate                                                                         1.00       2000.00         2,000.00
+                                                                                                                             SUBTOTAL:           2,000.00
+
+Notes:                                                                                                   TOTAL DUE BY 9/26/2025:           2,000.00 USD
+
+                                                                                                                  AFTER 9/26/2025:         2,030.00 USD
+
+
+
+
+        Type    Dates                      Facility                                                              Reference
+
+        PU1     6/2/2025                                                                                         PU #s:
+                                            STG LOGISTICS LAX
+                                            1650 S. CENTRAL AVENUE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+        DEL1    6/2/2025                                                                                         Del #s:
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+ROUTE
+
+
+
+
+                 Item      FAK
+
+        PU2     6/2/2025                                                                                         PU #s:
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+                 Item      FAK
+
+        DEL2    6/2/2025                                                                                         Del #s:
+                                            STG LOGISTICS LAX
+                                            1650 S CENTRAL AVE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+
+
+
+                                                      Payment due 21 days from invoice date
+                                    Remit To: Coyote Logistics LLC * PO Box 742636 * Atlanta, GA * 30374-2636
+                             Email: billing@coyote.com * Phone: (877)626-9683 ext. 6 then press 2 * Fax: (847)235-7629
+                                                                                                                 INVOICE
+                                                                               Invoice #                      Date                   Customer Code
+                                                                               3340338401                     07/22/25               GEOLOGIL
+
+                                                                                        STG Logistics, Inc.
+                                                                                        Attention: Invoices
+                                                                                        5 Logistics Dr
+
+
+
+
+                                                                              BILL TO
+Load #             33403384
+                                                                                        Kearny, NJ                                  07032-6550
+Trailer            NA
+Reference          33403384
+
+
+
+
+        Type                 Code   Description                                    Assoc Stop                        Units          Per          Amount
+
+        Transportation
+RATES
+
+
+
+
+                             FR     Flat Rate                                                                         1.00       2000.00         2,000.00
+                                                                                                                             SUBTOTAL:           2,000.00
+
+Notes:                                                                                                    TOTAL DUE BY 08/12/25:           2,000.00 USD
+
+                                                                                                                     AFTER 08/12/25:       2,030.00 USD
+
+
+
+
+        Type    Dates                      Facility                                                              Reference
+
+        PU1     06/06/25                                                                                         PU #s:
+                                            STG LOGISTICS LAX
+                                            1650 S. CENTRAL AVENUE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+        DEL1    06/09/25                                                                                         Del #s:
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+ROUTE
+
+
+
+
+                 Item      FAK
+
+        PU2     06/09/25                                                                                         PU #s:
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+                 Item      FAK
+
+        DEL2    06/09/25                                                                                         Del #s:
+                                            STG LOGISTICS LAX
+                                            1650 S CENTRAL AVE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+
+
+
+                                                      Payment due 21 days from invoice date
+                                    Remit To: Coyote Logistics LLC * PO Box 742636 * Atlanta, GA * 30374-2636
+                             Email: billing@coyote.com * Phone: (877)626-9683 ext. 6 then press 2 * Fax: (847)235-7629
+                                                                                                                INVOICE
+                                                                              Invoice #                      Date                   Customer Code
+                                                                              3340830801                     8/27/2025              GEOLOGIL
+
+                                                                                       STG Logistics, Inc.
+                                                                                       Attention: Invoices
+                                                                                       5 Logistics Dr
+
+
+
+
+                                                                             BILL TO
+Load #             33408308
+                                                                                       Kearny, NJ                                  07032-6550
+Trailer
+Reference          9
+
+
+
+
+        Type                Code   Description                                    Assoc Stop                        Units          Per          Amount
+
+        Transportation
+RATES
+
+
+
+
+                            FR     Flat Rate                                                                         1.00       2000.00         2,000.00
+                                                                                                                            SUBTOTAL:           2,000.00
+
+Notes:                                                                                                  TOTAL DUE BY 9/17/2025:           2,000.00 USD
+
+                                                                                                                 AFTER 9/17/2025:         2,030.00 USD
+
+
+
+
+        Type    Dates                     Facility                                                              Reference
+
+        PU1     6/11/2025                                                                                       PU #s:
+                                           STG LOGISTICS LAX
+                                           1650 S. CENTRAL AVENUE
+                                           Compton, CA, US, 90220
+                 Item    FAK
+
+        DEL1    6/11/2025                                                                                       Del #s:
+                                           RYANS EXPRESS C/O STG
+                                           2992 ALVARADO ST
+                                           San Leandro, CA, US, 94577-5734
+ROUTE
+
+
+
+
+                 Item    FAK
+
+        PU2     6/11/2025                                                                                       PU #s:
+                                           RYANS EXPRESS C/O STG
+                                           2992 ALVARADO ST
+                                           San Leandro, CA, US, 94577-5734
+                 Item    FAK
+
+        DEL2    6/11/2025                                                                                       Del #s:
+                                           STG LOGISTICS LAX
+                                           1650 S CENTRAL AVE
+                                           Compton, CA, US, 90220
+                 Item    FAK
+
+
+
+
+                                                     Payment due 21 days from invoice date
+                                   Remit To: Coyote Logistics LLC * PO Box 742636 * Atlanta, GA * 30374-2636
+                            Email: billing@coyote.com * Phone: (877)626-9683 ext. 6 then press 2 * Fax: (847)235-7629
+                                                                                                     ** REVISED INVOICE **
+                                                                           Invoice #                      Date                   Customer Code
+                                                                           3341783401                     8/20/2025              GEOLOGIL
+
+                                                                                    STG Logistics, Inc.
+                                                                                    Attention: Invoices
+                                                                                    5 Logistics Dr
+
+
+
+
+                                                                          BILL TO
+Load #              33417834
+                                                                                    Kearny, NJ                                  07032-6550
+Trailer             NA
+Reference           Fresno Drop Trailer 6/17
+
+
+
+
+        Type                  Code   Description                               Assoc Stop                        Units          Per            Amount
+
+        Transportation
+        Invoice               FR     Flat Rate                                                                    1.00       1325.00           1,325.00
+RATES
+
+
+
+
+        Payment                                                                                                                                 -875.00
+        Payment                                                                                                                                 -875.00
+        Payment                                                                                                                                 875.00
+                                                                                                                         SUBTOTAL:              450.00
+
+Notes: Fresno Drop Trailer 6/17.                                                                     TOTAL DUE BY 9/10/2025:             450.00 USD
+
+                                                                                                              AFTER 9/10/2025:           456.75 USD
+
+
+
+
+        Type      Dates                     Facility                                                         Reference
+
+        PU1       6/16/2025                                                                                  PU #s: Fresno Drop Trailer 6/17
+                                             STG Logistics -LAX
+                                             1650 S CENTRAL AVE
+                                             Compton, CA, US, 90220
+                   Item   FAK
+
+        DEL1      6/17/2025                                                                                  Del #s:
+                                             Valley Transportation
+                                             2837 S EAST AVE
+                                             Fresno, CA, US, 93725
+ROUTE
+
+
+
+
+                   Item   FAK
+
+        PU2       6/17/2025                                                                                  PU #s: LIVE RELOAD IN FRESNO
+                                             Valley Transportation
+                                             2837 S EAST AVE
+                                             Fresno, CA, US, 93725
+                   Item   FAK
+
+        DEL2      6/17/2025                                                                                  Del #s:
+                                             STG Logistics -LAX
+                                             1650 S CENTRAL AVE
+                                             Compton, CA, US, 90220
+                   Item   FAK
+
+
+
+
+                                                        Payment due 21 days from invoice date
+                                     Remit To: Coyote Logistics LLC * PO Box 742636 * Atlanta, GA * 30374-2636
+                              Email: billing@coyote.com * Phone: (877)626-9683 ext. 6 then press 2 * Fax: (847)235-7629
+                                                                                                                 INVOICE
+                                                                               Invoice #                      Date                   Customer Code
+                                                                               3354284201                     07/18/25               GEOLOGIL
+
+                                                                                        STG Logistics, Inc.
+                                                                                        Attention: Invoices
+                                                                                        5 Logistics Dr
+
+
+
+
+                                                                              BILL TO
+Load #             33542842
+                                                                                        Kearny, NJ                                  07032-6550
+Trailer            NA
+Reference          San Leando Ryans Drop 7/14
+
+
+
+
+        Type                 Code   Description                                    Assoc Stop                        Units          Per          Amount
+
+        Transportation
+RATES
+
+
+
+
+                             FR     Flat Rate                                                                         1.00       2000.00         2,000.00
+                                                                                                                             SUBTOTAL:           2,000.00
+
+Notes: San Leando Ryans Drop 7/14.                                                                        TOTAL DUE BY 08/08/25:           2,000.00 USD
+
+                                                                                                                     AFTER 08/08/25:       2,030.00 USD
+
+
+
+
+        Type    Dates                      Facility                                                              Reference
+
+        PU1     07/14/25                                                                                         PU #s: San Leando Ryans Drop 7/14
+                                            STG LOGISTICS LAX
+                                            1650 S. CENTRAL AVENUE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+        DEL1    07/16/25                                                                                         Del #s:
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+ROUTE
+
+
+
+
+                 Item      FAK
+
+        PU2     07/16/25                                                                                         PU #s:
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+                 Item      FAK
+
+        DEL2    07/16/25                                                                                         Del #s:
+                                            STG LOGISTICS LAX
+                                            1650 S CENTRAL AVE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+
+
+
+                                                      Payment due 21 days from invoice date
+                                    Remit To: Coyote Logistics LLC * PO Box 742636 * Atlanta, GA * 30374-2636
+                             Email: billing@coyote.com * Phone: (877)626-9683 ext. 6 then press 2 * Fax: (847)235-7629
+                                                                                                                 INVOICE
+                                                                               Invoice #                      Date                   Customer Code
+                                                                               3358018001                     07/25/25               GEOLOGIL
+
+                                                                                        STG Logistics, Inc.
+                                                                                        Attention: Invoices
+                                                                                        5 Logistics Dr
+
+
+
+
+                                                                              BILL TO
+Load #             33580180
+                                                                                        Kearny, NJ                                  07032-6550
+Trailer
+Reference          Load# 20346465
+
+
+
+
+        Type                 Code   Description                                    Assoc Stop                        Units          Per          Amount
+
+        Transportation
+RATES
+
+
+
+
+                             FR     Flat Rate                                                                         1.00       2000.00         2,000.00
+                                                                                                                             SUBTOTAL:           2,000.00
+
+Notes: Load# 20346465.                                                                                    TOTAL DUE BY 08/15/25:           2,000.00 USD
+
+                                                                                                                     AFTER 08/15/25:       2,030.00 USD
+
+
+
+
+        Type    Dates                      Facility                                                              Reference
+
+        PU1     07/21/25                                                                                         PU #s: Load# 20346465
+                                            STG LOGISTICS LAX
+                                            1650 S. CENTRAL AVENUE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+        DEL1    07/21/25                                                                                         Del #s: Load# 20346465
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+ROUTE
+
+
+
+
+                 Item      FAK
+
+        PU2     07/21/25                                                                                         PU #s:
+                                            RYANS EXPRESS C/O STG
+                                            2992 ALVARADO ST
+                                            San Leandro, CA, US, 94577-5734
+                 Item      FAK
+
+        DEL2    07/21/25                                                                                         Del #s:
+                                            STG LOGISTICS LAX
+                                            1650 S CENTRAL AVE
+                                            Compton, CA, US, 90220
+                 Item      FAK
+
+
+
+
+                                                      Payment due 21 days from invoice date
+                                    Remit To: Coyote Logistics LLC * PO Box 742636 * Atlanta, GA * 30374-2636
+                             Email: billing@coyote.com * Phone: (877)626-9683 ext. 6 then press 2 * Fax: (847)235-7629
+

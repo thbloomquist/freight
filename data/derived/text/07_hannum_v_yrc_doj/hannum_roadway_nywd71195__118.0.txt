@@ -1,0 +1,2110 @@
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 1 of 40
+
+
+
+                        IN THE UNITED STATES DISTRICT COURT
+                      FOR THE WESTERN DISTRICT OF NEW YORK
+                                BUFFALO DIVISION
+
+ UNITED STATES OF AMERICA ex rel.                 )
+ JAMES HANNUM,                                    )
+                                                  )
+        Plaintiffs,                               )
+                                                  )
+ vs.                                              )   Case No.: 1:08-cv-00811-RJA
+                                                  )
+ ROADWAY EXPRESS, INC., YELLOW                    )
+ TRANSPORTATION, INC., and YRC                    )
+ FREIGHT, INC.,                                   )
+                                                  )
+        Defendants.                               )
+
+
+                 DEFENDANTS’ ANSWER AND AFFIRMATIVE DEFENSES
+
+       Defendants Roadway Express, Inc. (“Roadway”), Yellow Transportation, Inc. (“Yellow”), and
+
+YRC Freight, Inc. (“YRC Freight”) (collectively, “Defendants”), by and through undersigned counsel,
+
+respectfully submit the following. Defendants hereby expressly incorporate by reference all of their
+
+prior pleadings and filings in this action.
+
+                                              ANSWER
+
+       1.      Starting in September 2005 and continuing until at least October 2013, Defendants
+
+YRC Freight, Inc. (“YRC”); Roadway Express, Inc. (“Roadway”); and Yellow Transportation, Inc.
+
+(“Yellow”) engaged in a fraudulent scheme to use inflated cargo weights to deliberately overcharge
+
+the United States Department of Defense (“DOD”) for freight services. Accordingly, this action seeks
+
+treble damages and civil penalties under the False Claims Act, 31 U.S.C. §§ 3729-3733, as well as
+
+available common law remedies, from the Defendant freight companies.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       2.      In 2003, Roadway and Yellow began to merge into the company that would become
+
+YRC. In 2005, as part of this process, Roadway and Yellow tried to increase their revenue by checking
+
+
+                                               -1-
+        Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 2 of 40
+
+
+
+the weight of each load of cargo that passed through their freight terminals. The Defendants’ revenue
+
+depended in large part upon the weight of their shipments, with heavier shipments typically leading to
+
+more revenue. The Defendants thus typically received more revenue from a “positive reweigh
+
+correction” where their weight verification, or “reweigh,” indicated that the shipment was heavier than
+
+the stated weight. Conversely, when the Defendants’ reweigh indicated that the shipment was actually
+
+lighter than the stated weight, the resulting “negative reweigh correction” would generally reduce the
+
+price of the shipment and diminish the Defendants’ revenue. In the aggregate, the Defendants had
+
+more positive reweigh corrections than negative reweigh corrections, so reweighing and correcting
+
+more shipment weights helped increase their earnings.
+
+ANSWER: Admitted that “In 2003, Roadway and Yellow began to merge into the company that
+
+would become YRC.” All remaining allegations in this Paragraph are denied.
+
+        3.     Not content with its revenue boost from additional reweighs, Roadway stopped making
+
+negative reweigh corrections in September 2005. This meant that although Roadway continued to
+
+correct weights when its reweigh results meant it could charge its customers more, the company
+
+stopped correcting weights when its reweigh revealed that the customer was entitled to a credit or
+
+discount because the shipment was actually lighter than the stated weight. In early 2006, Yellow
+
+likewise established a similarly skewed reweigh practice where it would not correct inaccurate weights
+
+if the error was in its favor. The companies merged into what is now YRC in 2009, and continued to
+
+systematically suppress negative reweigh corrections for their DOD shipments until at least October
+
+2013.
+
+ANSWER: Admitted that “The companies merged into what is now YRC in 2009.” All
+
+remaining allegations in this Paragraph are denied.
+
+        4.     The Defendants understood that their one-sided reweigh practices were wrong. In
+
+October 2004, an internal Yellow email noted that overcharging through reweighs “creates an integrity
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 3 of 40
+
+
+
+problem for Yellow with every affected customer.” Yet approximately one year later, the Defendants
+
+essentially made it their policy to overcharge customers by voiding negative reweigh results.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       5.      Moreover, in 2005, Yellow conducted an informal survey of freight carriers in which
+
+it found that nearly all of its competitors believed that failing to make negative reweigh corrections
+
+“was a breach of faith with their customers and undermined the integrity of the [reweigh] program.”
+
+The Defendants also confirmed in 2007 that they were the only freight carriers to systematically quash
+
+negative reweigh corrections.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       6.      In addition, the Defendants deliberately concealed the evidence that they were cheating
+
+their customers, including DOD. As described in an internal email from 2009, when YRC employees
+
+attempted to make a negative reweigh correction, the company’s computer system would
+
+automatically reject the entry and hide the negative reweigh by falsely recording the problem as “Can
+
+Not [sic] Find Employee Number.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       7.      The Defendants did not inform DOD that they were only correcting weights when the
+
+Defendants stood to benefit. To the contrary, the Defendants repeatedly represented to DOD that they
+
+would either notify DOD if their reweighs revealed a weight discrepancy or would correct the
+
+erroneous weight themselves and recalculate the charges.
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 4 of 40
+
+
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       8.       As a result of their deceitful scheme, the Defendants knowingly submitted thousands
+
+of false claims to DOD that used inflated weights to overcharge the government. The Defendants also
+
+knowingly made false statements to induce DOD to give them business and further knowingly made
+
+or used false statements to avoid their contractual obligations to correct inflated invoices and return
+
+overpayments.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       9.       These false claims and false statements were material, as they had a natural tendency
+
+to influence DOD’s decisions to pay the Defendants or indeed do business with them at all. The
+
+Defendants’ false claims and false statements ultimately resulted in DOD paying millions of dollars
+
+more for freight shipping than it would have if the Defendants were honest.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+                                   JURISDICTION AND VENUE
+
+       10.      This Court has subject matter jurisdiction over this action pursuant to 31 U.S.C. §
+
+3732(a) and 28 U.S.C. §§ 1331 and 1345. This Court has personal jurisdiction over the Defendants
+
+pursuant to 31 U.S.C. § 3732(a) because the Defendants conduct business in this district and some of
+
+the events which gave rise to this action occurred in this district.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       11.      One or more of the Defendants transacted business and committed acts proscribed by
+
+31 U.S.C. § 3729 in the Western District of New York. Therefore, venue is proper in this District
+
+under 31 U.S.C. § 3732 and 28 U.S.C. §§ 1391(b) and (c).
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 5 of 40
+
+
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+                                              PARTIES
+
+       12.     The United States brings this action on behalf of the Department of Defense (“DOD”).
+
+DOD is an Executive Department of the United States government charged with coordinating and
+
+supervising the United States military, among other functions.
+
+ANSWER: Admitted.
+
+       13.     James Hannum is the Relator in this case. He filed his qui tam complaint on behalf of
+
+the United States on November 3, 2008. Mr. Hannum is a resident of Dunkirk, New York, within the
+
+Western District of New York. Mr. Hannum has worked for Roadway, and then YRC, for over 30
+
+years at its facility in Buffalo, New York.
+
+ANSWER: Admitted that “James Hannum is the Relator in this case” and “Mr. Hannum has
+
+worked for Roadway, and then YRC, for over 30 years.” Defendants are without sufficient
+
+information to enable them to admit or deny the remaining allegations in this Paragraph. To
+
+the extent a further response is required, Defendants deny the allegations in this Paragraph.
+
+       14.     YRC is an incorporated freight company that transports industrial, commercial, and
+
+retail goods in North America. Its headquarters and principal place of business are at 10990 Roe
+
+Avenue, Overland Park, Kansas 66211. YRC is a subsidiary of YRC Worldwide, Inc., which is an
+
+American holding company for various shipping entities. In 2009, Roadway and Yellow merged to
+
+become YRC, Inc. The name of the company was changed to its current iteration, YRC Freight, Inc.,
+
+in 2012.
+
+ANSWER: Admitted.
+
+       15.     The YRC merger began in 2003, when Yellow purchased Roadway. The two
+
+companies still operated separately and had separate corporate structures, but Roadway and Yellow
+
+started to share some corporate functions and what they considered to be “best practices.” However,
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 6 of 40
+
+
+
+the companies remained independent in the marketplace until they officially merged in 2009 to become
+
+YRC, Inc.
+
+ANSWER: Admitted that “The YRC merger began in 2003, when Yellow purchased Roadway.”
+
+All other allegations constitute legal conclusions for which no response is required, and/or are
+
+denied.
+
+       16.       Prior to the YRC merger, Roadway was an incorporated company with headquarters
+
+and a principal place of business in Akron, Ohio.
+
+ANSWER: Admitted.
+
+       17.       Prior to the YRC merger, Yellow was an incorporated company with headquarters and
+
+a principal place of business in Overland Park, Kansas.
+
+ANSWER: Admitted.
+
+                                     THE FALSE CLAIMS ACT
+
+       18.       The False Claims Act (“FCA”), establishes liability for knowingly making, submitting,
+
+or causing false or fraudulent claims for federal funds. 31 U.S.C. § 3729(a)(1) (through May 19, 2009)
+
+and 31 U.S.C. § 3729(a)(1)(A).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       19.       The FCA also establishes liability for knowingly making, using, or causing false
+
+records or statements material to false or fraudulent claims for federal funds. 31 U.S.C. §
+
+3729(a)(1)(B).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       20.       For conduct occurring through May 19, 2009, any person who knowingly makes, uses,
+
+or causes a false record or statement to conceal, avoid, or decrease an obligation to pay or transmit
+
+money to the federal government is also subject to liability under the FCA. 31 U.S.C. § 3729(a)(7)
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 7 of 40
+
+
+
+(through May 19, 2009). For conduct occurring after May 19, 2009, a person who knowingly makes,
+
+uses, or causes a false record or statement material to an obligation to pay or transmit money to the
+
+government or any person who knowingly conceals or knowingly and improperly avoids or decreases
+
+an obligation to pay or transmit money to the government, is also liable under the FCA. 31 U.S.C. §
+
+3729(a)(1)(G).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+        21.      Under the FCA, the term “knowingly” means that a person (i) has actual knowledge of
+
+the information, (ii) acts in deliberate ignorance of the truth or falsity of the information, or (iii) acts
+
+in reckless disregard of the truth or falsity of the information. 31 U.S.C. § 3729(b)(1)(A).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+        22.      No proof of specific intent to defraud is required to show that a person acted knowingly
+
+under the FCA. 31 U.S.C. § 3729(b)(1)(B).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+        23.      The FCA defines the term “material” as “having a natural tendency to influence, or be
+
+capable of influencing, the payment or receipt of money or property.” 31 U.S.C. § 3729(b)(4).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+        24.      The FCA provides for a recovery of three times the damages sustained by the United
+
+States (treble damages), plus a civil penalty for each violation of the Act. 31 U.S.C. § 3729(a)(1).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 8 of 40
+
+
+
+       25.     The civil penalty for an FCA violation is to be not less than $5,500 and not more than
+
+$11,000. See 31 U.S.C. § 3729(a) (through May 19, 2009); 31 U.S.C. § 3729(a)(1); and 28 C.F.R. §
+
+85.3(a)(9).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       26.     The United States may bring an action under the FCA within six years of the violation.
+
+31 U.S.C. § 3731(b)(1). If the United States intervenes in a relator’s qui tam complaint and files its
+
+own complaint that “arises out of the conduct, transactions, or occurrences” set forth by the relator,
+
+for statute of limitation purposes the United States’ pleading “shall relate back to the filing date of the
+
+complaint of the person who originally brought the action.” 31 U.S.C. § 3731(c). The Relator filed his
+
+complaint on November 3, 2008, and the United States Complaint’ in Intervention is timely for
+
+violations occurring on or after November 3, 2002.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       27.     The Federal Acquisition Regulation (“FAR”) is the principal regulation that governs
+
+United States government contracts. See FAR 1.101. Federal procurement contracts also may
+
+incorporate standard contract provisions found in Part 52 of the FAR.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       28.     The Military Surface Deployment and Distribution Command (“SDDC”) is part of the
+
+United States Transportation Command (“USTRANSCOM”); a unified command consisting of
+
+various transportation commands from different branches of DOD. SDDC is the United States Army
+
+component of USTRANSCOM. On January 1, 2004, the name of this command changed from the
+
+Military Traffic Management Command to its current name. For simplicity’s sake, this Complaint will
+
+only refer to this command as “SDDC.”
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 9 of 40
+
+
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       29.     During the relevant period, SDDC awarded the Defendants different contracts to
+
+provide various freight transportation services throughout the continental United States. These
+
+contracts included the following:
+
+
+
+
+ANSWER: Admitted.
+
+       30.     All of these contracts included FAR 52.212-4(g), which required Roadway and Yellow
+
+to submit invoices containing the “quantity,” “unit of measure,” and “unit price” for the items
+
+delivered.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       31.     Contracts DAMT01-03-D-0044 and DAMT01-03-D-0046 additionally included a
+
+provision specifically governing shipment reweighs. Specifically, the contracts authorized Roadway
+
+and Yellow “to reweigh a shipment at any time prior to delivery,” but stated that if the “revised
+
+shipping weight” varied by more than 10 percent from the original weight, the contractor “must notify
+
+[DOD] by the next business day of the new weight.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       32.     Contracts W81GYE-06-D-0072 and W81GYE-06-D-0073 also incorporated FAR
+
+52.212-4(i)(5), which required Yellow and Roadway, upon becoming aware of DOD overpaying on
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 10 of 40
+
+
+
+an invoice, “to immediately notify the Contracting Officer and request instructions for disposition of
+
+the overpayment.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+                    THE DEFENDANTS’ TENDER AGREEMENTS WITH DOD
+
+       33.     In addition to formal contracting procedures, DOD also uses a streamlined process to
+
+award freight business to carriers who have already been approved by SDDC. When transportation
+
+offices for DOD components wish to select a carrier to move freight, they can obtain a list of approved
+
+carriers and these carriers’ applicable tenders of service from SDDC’s database. The DOD component
+
+transportation office then makes its selection and enters into a tender agreement with the carrier.
+
+ANSWER: Defendants are without sufficient information to enable them to admit or deny the
+
+allegations in this Paragraph. To the extent a further response is required, Defendants deny the
+
+allegations in this Paragraph.
+
+       34.     The SDDC’s Freight Traffic Unified Rules Publication, which is commonly referred to
+
+as the “MFTRP” and is updated periodically, provides rules governing these tenders. The MFTRP is
+
+intended to explain DOD’s service needs, ensure that carriers are willing and able to meet these needs,
+
+and establish common standards throughout DOD so that the agency’s transportation offices do not
+
+have to undertake formal solicitation and contracting processes every time they want to purchase
+
+freight services.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       35.     For example, the MFTRP has consistently required a carrier to have proof of delivery,
+
+such as a copy of the bill of lading, before it can be paid by DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 11 of 40
+
+
+
+       36.     Once approved by SDDC, carriers must have a paper or electronic tender of freight
+
+services on file with SDDC to move DOD freight. When submitting tenders for freight services to
+
+SDDC, a carrier must cite the MFTRP as the only rules governing the ultimate transaction. If the
+
+carrier does not, SDDC can designate the tender as improper and remove it from its database.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       37.     The MFTRP issued by SDDC on January 4, 2004, stated that if “a carrier independently
+
+performs a shipment weight verification and discovers a discrepancy between the verified weight and
+
+the weight shown on the [bill of lading], it is the carrier’s responsibility to obtain a [bill of lading]
+
+correction notice from the origin [transportation office].” This rule governing reweigh corrections
+
+stayed in effect until March 1, 2009.
+
+ANSWER: Admitted that the referenced document, which speaks for itself, contains the quoted
+
+language. The remaining allegations in this Paragraph contain a legal conclusion or argument,
+
+for which no response is required.         To the extent one is required, Defendants deny the
+
+allegations.
+
+       38.     The MFTRP issued by SDDC on March 1, 2009, had modified reweigh provisions, but
+
+the core requirements remained intact. Carriers could still reweigh shipments at their discretion and
+
+were required to provide DOD with notice and certified weight tickets if “the revised shipping weight
+
+varie[d] by more than 10 percent of the estimate of the shipping activity.” DOD would only pay
+
+carriers for positive reweigh corrections if they provided such notice and proof of the changed weight.
+
+ANSWER: Admitted that the referenced document, which speaks for itself, contains the quoted
+
+language. The remaining allegations in this Paragraph contain a legal conclusion or argument,
+
+for which no response is required.         To the extent one is required, Defendants deny the
+
+allegations.
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 12 of 40
+
+
+
+       39.     The MFTRP issued on March 1, 2009, also set forth basic requirements that a carrier
+
+had to meet “in order to become SDDC approved to transport DOD freight.” These requirements
+
+included adhering to the “common law implied covenant of acting in good faith and fair dealing.”
+
+ANSWER: Admitted that the referenced document, which speaks for itself, contains the quoted
+
+language. The remaining allegations in this Paragraph contain a legal conclusion or argument,
+
+for which no response is required.         To the extent one is required, Defendants deny the
+
+allegations.
+
+       40.     Finally, the DOD revised the MFTRP’s weight verification requirements, among other
+
+provisions, on July 31, 2013. Under the revised rules, if there was a weight discrepancy that caused
+
+“an increase or decrease to the total shipment cost from the original [bill of lading],” the MFTRP
+
+required carriers to request a correction notice from DOD so that the weight listed on the bill of lading
+
+could be corrected. This MFTRP also required carriers to follow common law standards of “good faith
+
+and fair dealing” in order “to become SDDC approved to transport DOD freight.”
+
+ANSWER: Admitted that the referenced document, which speaks for itself, contains the quoted
+
+language. The remaining allegations in this Paragraph contain a legal conclusion or argument,
+
+for which no response is required.         To the extent one is required, Defendants deny the
+
+allegations.
+
+                                     STATEMENT OF FACTS
+
+       41.     By virtue of the conduct alleged below, the Defendants knowingly submitted false
+
+claims to DOD for shipments that actually weighed less than the weights the Defendants used when
+
+charging the government. The Defendants also knowingly made false statements to SDDC that they
+
+would comply with the MFTRP and would correct any discrepancies uncovered during the reweigh
+
+process. Finally, the Defendants made or used false statements or records to conceal or avoid their
+
+contractual obligations to return overpayments to DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 13 of 40
+
+
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       42.     Typically, the Defendants and other freight carriers picked up a shipment at its
+
+origination, transported it to the carrier’s terminal, and then loaded it onto a different vehicle for
+
+delivery to the final destination. Throughout this process each shipment was accompanied by a bill of
+
+lading, which was an agreement between the customer and the carrier that documented key
+
+information about the shipment, including its weight, destination, and the distance it needed to travel.
+
+The bill of lading also listed and acknowledged the carrier’s receipt of goods for transport, specified
+
+the terms of delivery, and served as either the basis for the carrier’s ultimate invoice or the actual
+
+invoice submitted to the customer.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       43.     A shipment’s weight and the distance traveled generally determined the applicable rate
+
+and final fee for the freight service. As one YRC executive stated in an internal email, “the weight
+
+drives the price we charge and invoice the customer.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       44.     While shipments were at a freight carrier’s terminal or warehouse, the carrier could
+
+check to make sure that the information on the bill of lading was correct. This verification often
+
+included reweighing the shipment.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       45.     Before September 2005, the Defendants’ reweighs caused them to correct bills of
+
+lading for both “positive” reweighs where the revised shipment weight was heavier than the original
+
+weight, and “negative” reweighs where the revised weight was lighter than the original weight.
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 14 of 40
+
+
+
+Positive reweigh corrections typically increased the cost of the shipment, and thus the Defendants’
+
+revenue, while negative reweigh corrections typically benefitted the Defendants’ customers by
+
+reducing the cost of the shipment.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       46.     The Defendants believed that it was important for reweighs to be accurate. For
+
+example, in October 2004, reflecting Yellow’s concern that one of its terminals was falsely increasing
+
+weights during the reweigh process, an internal Yellow email noted that such overcharging “creates
+
+an integrity problem for Yellow with every affected customer.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       47.     Yellow further recognized that making negative reweigh corrections was vital to its
+
+credibility. As set forth in an internal email from May 2005, Yellow deliberately excluded negative
+
+reweigh corrections when it issued internal tracking reports of all reweigh correction revenue, lest the
+
+reduced revenue “discourage anyone from doing the ‘right thing’ by [making] a negative revenue
+
+correction.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       48.     Similarly, according to an internal email from June 2005, Roadway was “opposed to
+
+using net numbers” when assessing the impact of reweigh corrections “as it sends the wrong message
+
+to those responsible for [making] corrections – IE don’t [make] corrections in favor of the customer.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 15 of 40
+
+
+
+state that all documents referenced speak for themselves.
+
+       49.     On August 22, 2005, Roadway streamlined its reweigh procedures so that the company
+
+could automatically update its records with any new weights and correct the company’s charges
+
+accordingly. As set forth in an internal email to company managers, new scales and wireless tracking
+
+devices enabled Roadway to “capture all positive and negative weight corrections regardless of the
+
+weight difference.” The managers were further instructed to emphasize that the “integrity of correction
+
+information is critical in providing the customer with an accurate invoice and supporting
+
+documentation.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       50.     Roadway immediately enjoyed the benefits of the streamlined reweigh procedures.
+
+According to an internal email from September 1, 2005, Roadway’s new procedures had already
+
+caused a surge in reweigh corrections “that turned into a 50% increase in revenue.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       51.     But Keith Rawson, then the Senior Director for Revenue Management for Yellow
+
+Roadway Enterprise Services (the entity overseeing the merger between Yellow and Roadway),
+
+observed in the same internal email that the increase in reweighs also caused “a problem with negative
+
+corrections (i.e. weight went down and now giving back money.)” As a result of this “problem,”
+
+Rawson reported that Roadway had begun “analyzing limits on negative reweighs.” Rawson further
+
+noted that eliminating negative reweigh corrections was an “opportunity” that could allow Roadway
+
+and Yellow to keep a combined $2 million per month.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 16 of 40
+
+
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       52.     On September 13, 2005, Roadway essentially eliminated negative reweigh corrections.
+
+ANSWER: The allegations in this Paragraph are vague and ambiguous, for which no response
+
+is required. To the extent one is required, Defendants deny the allegations.
+
+       53.     Dean Frye, then a senior manager at Roadway, sent a widely distributed internal email
+
+on October 3, 2005, that informed his colleagues that the company had implemented a programmatic
+
+change that “eliminate[d] the automated issuance of negative weight corrections.” According to Frye,
+
+this meant that, with a few exceptions, “[n]egative weight corrections will no longer be [made].”
+
+(Emphasis in original).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       54.     After implementing its new reweigh practices, Roadway instructed all its freight
+
+handlers, weight coordinators, and inspectors that generally “[n]o negative weight corrections will be
+
+[made].” A negative reweigh correction could still be made manually in certain circumstances, but the
+
+elimination of automated negative reweigh corrections was estimated to save Roadway $1 to $1.5
+
+million in revenue per month by avoiding reduced charges to customers.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       55.     Rawson noted in an internal email on September 19, 2005, that “Roadway had basically
+
+done this on [its] own,” but that he and other executives in charge of having Yellow and Roadway
+
+adopt each other’s “best practices” could take credit if “we consider it a best practice and implement
+
+[it] at Yellow.” Such cross-company adoption was commonly referred to as “synergy.”
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 17 of 40
+
+
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       56.     On September 26, 2005, Joe Whitsel, a Vice President for Revenue Management at
+
+Yellow Roadway Enterprise Services, responded to Rawson that “[w]e need to make this [elimination
+
+of negative reweigh corrections] happen – I need the numbers to make [our] synergy goal for the year.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       57.     Rawson sent another email to Whitsel on September 29, 2005. Rawson stated that
+
+eliminating negative reweigh corrections would allow Yellow to “retain approximately $6 million per
+
+year ($500k per month).” Rawson also expected these earnings to grow as Yellow joined Roadway in
+
+streamlining its reweigh process so that revised weights were automatically recorded. These findings
+
+were forwarded to Todd Hacker, Yellow’s Senior Vice President for Finance & Administration, who
+
+replied that it would be discussed with Yellow’s President, James Welch.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       58.     On October 3, 2005, Whitsel told Mike Smid, Roadway’s President and CEO, that “we
+
+are recommending that Yellow follow Roadway’s lead and implement the elimination of the negative
+
+revenue adjustments.” Smid responded that he was not sure he agreed with a complete elimination and
+
+that there was “a right number in order to give our [reweigh] program some credibility.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 18 of 40
+
+
+
+       59.     In response, Rawson analyzed various negative weight tolerance scenarios under which
+
+weight or revenue variances above a certain level would still be disclosed and credited to customers.
+
+On October 13, 2005, Rawson reported his findings in an email to Whitsel. According to Rawson, to
+
+reduce negative reweigh corrections by half, the Defendants could “only process a weight correction
+
+if the weight changes by more than 70%.” Alternatively, Rawson noted that the Defendants could set
+
+a dollar tolerance, rather than a weight tolerance. But to cut negative reweigh corrections in half, the
+
+tolerance would have to be set at negative $800, meaning that a weight drop that reduced revenue by
+
+$799 or less for a shipment would not be disclosed and credited to a customer. As Rawson stated, this
+
+“would also be hard to explain” because the Defendants were not contemplating imposing a similar
+
+tolerance for positive reweigh corrections.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       60.     Ultimately, Rawson recommended that “if we are going to do it, let’s go all the way.”
+
+He reasoned that it “would be just as difficult to explain the difference in the positive and negative
+
+tolerance vs. saying we don’t have one.” Rawson further noted that if the Defendants had to have “the
+
+‘tolerance conversation’ with the customer, then we’re probably going to end up waiving it anyway.”
+
+In other words, Rawson believed that once a customer learned of the Defendants’ reweigh practices,
+
+the Defendants would likely have to start making negative reweigh corrections for that customer in
+
+order to keep the business.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       61.     On October 27, 2005, Rawson provided Whitsel with a summary of his findings and
+
+recommendations regarding the Roadway and Yellow reweigh programs. Rawson stated that the
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 19 of 40
+
+
+
+Defendants “could see $10-20 million in annualized revenue from a best practice weight correction
+
+program.” He also found that Yellow was considering eliminating negative reweigh corrections and
+
+that this would represent about $500,000 in “revenue retained per month,” while Roadway had already
+
+eliminated negative reweigh corrections and was retaining about $1.5 million per month in revenue.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       62.    On or about October 24, 2005, Hugh Gaynor, a Revenue Management executive at
+
+Yellow, attended an industry meeting in which reweigh practices were discussed. At Gaynor’s request,
+
+the other freight companies stated their policy on negative reweigh corrections. According to Gaynor,
+
+almost all of these companies “believed that not [making negative reweigh corrections] was a breach
+
+of faith with their consumers and undermined the integrity of the program.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       63.    On November 2, 2005, Whitsel reported to another Yellow Roadway Enterprise
+
+Services executive that, aside from Roadway, only two other freight companies were not “entering
+
+negative weight corrections.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       64.    Yellow’s executive leadership, including President James Welch, ultimately decided to
+
+copy Roadway and stop making negative reweigh corrections.
+
+ANSWER: The allegations in this Paragraph are vague and ambiguous, for which no response
+
+is required. To the extent one is required, Defendants deny the allegations.
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 20 of 40
+
+
+
+       65.     On January 5, 2006, Rawson and Whitsel placed a formal request for Yellow to
+
+eliminate all negative reweigh corrections. In the work request, Rawson and Whitsel ordered that
+
+Yellow “eliminate the negative adjustments” so it could “add [about] $500,000 per month to top and
+
+bottom line (revenue and profit).”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       66.     Yellow stopped making negative reweigh corrections on or around February 27, 2006.
+
+ANSWER: The allegations in this Paragraph are vague and ambiguous, for which no response
+
+is required. To the extent one is required, Defendants deny the allegations.
+
+       67.     In a March 1, 2006, email that was in response to questions from Yellow employees,
+
+Gaynor stated that Roadway had not been making negative reweigh corrections for six months and
+
+that “Yellow Senior Management has decided to follow suit and not process negative adjustments.”
+
+Gaynor further emphasized that “[t]his information is for your use only and should not be
+
+communicated outside of our team.” (Emphasis in original.)
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       68.     As with Roadway, Yellow’s new reweigh policy generated rapid results. An internal
+
+presentation from June 15, 2006, demonstrated that, in just a few months, Yellow had largely
+
+succeeded in reducing or eliminating “the number of [reweigh corrections] that result in a negative
+
+revenue change.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 21 of 40
+
+
+
+       69.     Meanwhile, the Defendants continued to focus on positive reweigh revenue. In an
+
+internal email from January 4, 2007, Gaynor reiterated what he “had said on our conference calls,”
+
+which was that “we need to actively promote the reweigh program.” (Emphasis in original.) Two
+
+weeks later, on January 16, 2007, Gaynor sent another internal email that described Yellow’s recent
+
+revenue figures as “horrible” and exhorted his colleagues “to push the weight revenue and number of
+
+reweighs as well … do not forget to push the reweighs.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       70.     Yellow spent approximately $2 million on new scales in 2007. As a result, according
+
+to an internal email from November 20, 2007, some Yellow terminals showed “a significant
+
+improvement in reweigh revenue [when] compared to November 2006.” However, other terminals
+
+were “flat or even show decreases in reweigh revenue.” Yellow found this to be “completely
+
+unacceptable” because it “must realize the expected revenue increase” from its investment in new
+
+scales. Accordingly, Yellow instructed its managers “to actively monitor the reweigh activity at their
+
+terminals” and “hold their teams responsible for weighing freight and using the equipment provided
+
+to ensure we are properly compensated for every shipment we haul.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       71.     The next day, Gaynor and other Yellow executives forwarded this email to Yellow
+
+employees throughout the company. Gaynor stated that the email “speaks for itself” and instructed
+
+Yellow personnel to “not discuss it with anyone outside our team.” Gaynor also suggested that
+
+managers “[d]o whatever you can to shine a spotlight on the reweigh results in your terminal.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 22 of 40
+
+
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       72.     But notwithstanding the Defendants’ desire to be paid according to the correct weight
+
+when it benefited them, they continued to monitor their reweigh activity to make sure that they were
+
+not correcting weights if it would benefit their customers.
+
+ANSWER: The allegations in this Paragraph are vague and ambiguous, for which no response
+
+is required. To the extent one is required, Defendants deny the allegations.
+
+       73.     In January 2007, Whitsel asked a colleague whether Yellow was still making negative
+
+reweigh corrections. On January 23, 2007, the colleague confirmed by email that Yellow was making
+
+“very few negative [weight] adjustments.” Specifically, out of more than 1.5 million invoices between
+
+November 13, 2006, and January 20, 2007, Yellow made 42 negative reweigh corrections. In contrast,
+
+Yellow made 75,324 positive reweigh corrections during the same period.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       74.     Hugh Gaynor conducted another informal industry survey on negative reweigh
+
+practices in September 2007. Unlike the Defendants, all twelve companies that responded confirmed
+
+that they made negative reweigh corrections.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       75.     Yet the Defendants maintained their secret prohibition on correcting weights when it
+
+benefited their customers. On March 17, 2009, Don Geisler, a business development executive at
+
+YRC, emailed Whitsel because he had “noticed that we are passing along changes in favor of the
+
+customer … when the weight is corrected to a lesser [number] and the corrected revenue results in a
+
+lower charge, the savings is passed along to the customer.” Geisler “thought we had blocked that as
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 23 of 40
+
+
+
+part of the ‘best practice’ synergy work” and listed six offending shipments where he believed YRC
+
+had made negative reweigh corrections.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       76.       In turn, Whitsel forwarded the email to his colleagues, noting that he “thought we had
+
+stopped negative corrections as part of synergies.” Whitsel was assured that “negative reweighs were
+
+stopped” and that the shipments with negative revenue adjustments were the result of situations where
+
+YRC had not been able to “determine the revenue impact” of non-weight corrections. James Faas,
+
+YRC’s Director of Weights and Inspections, also noted that for two of the six shipments at issue, the
+
+company “had an agreement on [sic] to cut back if the weight was found to be lower” because former
+
+YRC employees told these customers that “YRC was cheating them, so the deal was made to retain to
+
+the business.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       77.       But as one YRC employee explained in an internal email from May 21, 2009, the
+
+company would not ordinarily make a “negative weight change.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       78.       In February 2010, one YRC senior analyst had a daily calendar reminder to check for
+
+negative reweigh corrections to ensure they were not “the fault of anyone at YRC.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 24 of 40
+
+
+
+state that all documents referenced speak for themselves.
+
+        79.     An internal YRC email from February 18, 2011, also confirmed that the company was
+
+still not correcting weights when its reweigh indicated there was a “negative weight change.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+        80.     On April 7, 2011, following a “talk about integrity this morning,” one YRC manager
+
+commented in an internal email that “perhaps we need to revisit the negative weight correction logic”
+
+because it was putting YRC’s relationships with its customers at risk. In response, a colleague noted
+
+that making negative reweigh corrections “has been previously discussed and the decision was made
+
+to leave it [the] way that it is currently.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+        81.     Another YRC employee asked a colleague on October 4, 2011, whether negative
+
+reweigh corrections were counted against a terminal’s revenue. His YRC colleague replied that he had
+
+been told “that the customer does not receive a lowered invoice” and that the “negative scans never
+
+change the mainframe data,” but asked a manager for confirmation. The manager responded that “for
+
+now we do not systemically [make] negative [reweigh] corrections,” but added that “at some point we
+
+may to add further credibility to our process.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+        82.     Notwithstanding their concerns about integrity and credibility, the Defendants
+
+continued to suppress negative reweigh corrections for their DOD shipments until at least October
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 25 of 40
+
+
+
+2013. It is unclear if the Defendants maintained this practice after October 2013 for DOD and other
+
+customers.
+
+ANSWER: The allegations in this Paragraph are vague and ambiguous, for which no response
+
+is required. To the extent one is required, Defendants deny the allegations.
+
+        83.    The Defendants knowingly submitted false claims for payment to DOD for shipments
+
+that actually weighed less than the weights the Defendants used when charging the government. The
+
+invoices, or bills of lading that served as invoices, that the Defendants submitted to DOD falsely
+
+represented shipment weights to be higher than the actual weights measured by the Defendants’ own
+
+scales, resulting in inflated charges to DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+        84.    Between September 2005 and June 2010, the Defendants did not keep records of the
+
+negative reweigh corrections that they systematically cancelled during this period.
+
+ANSWER: The allegations in this Paragraph of are vague and ambiguous, for which no response
+
+is required. To the extent one is required, Defendants deny the allegations.
+
+        85.    From at least June 2009 to June 2010, the Defendants also hid evidence of their
+
+misconduct by programming their computer system so that negative reweigh results would not
+
+register.
+
+ANSWER: The allegations in this Paragraph are vague and ambiguous, for which no response
+
+is required. To the extent one is required, Defendants deny the allegations.
+
+        86.    For example, as stated in an internal email sent on June 26, 2009, YRC programmed
+
+its computer system so that negative reweigh results would “never show up in the mainframe . . . to
+
+be recorded.” Negative reweigh results were instead automatically rejected and then “hidden” by
+
+recording the reason for the rejection as “CAN NOT [sic] FIND EMPLOYEE NUMBER,” even
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 26 of 40
+
+
+
+though YRC also had an error code for “NEGATIVE WEIGHT CORRECTION PROHIBITED.”
+
+(Emphasis in original.)
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       87.     As stated in an internal email from March 3, 2010, YRC continued to program its
+
+computer system to “check to see if the reweigh information is negative” and “if so the system will
+
+delete all negative reweigh information.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       88.     The Defendants retained records of their negative reweigh shipments billed to DOD
+
+between June 2010 and October 2012. Exhibit A to this Complaint provides 200 examples of the more
+
+than 13,000 false claims the Defendants billed to DOD during this period.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       89.     According to the records the Defendants kept for their billings to DOD between June
+
+2010 and October 2012, the Defendants submitted to DOD approximately 725 false claims per month.
+
+Based on an extrapolation of those false claims per month to the September 2005 to October 2013
+
+period at issue, the Defendants submitted to DOD approximately 70,000 false claims predicated on
+
+weights that they knew were too heavy. The Defendants submitted these false claims pursuant to
+
+numerous tender agreements with DOD, as well as contracts DAMT01-03-D-0044 (Roadway),
+
+DAMT01-03-D-0046          (Yellow),   W81GYE-06-D-0072      (Yellow)    and   W81GYE-06-D-0073
+
+(Roadway).
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 27 of 40
+
+
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       90.     When trying to obtain business from DOD, the Defendants falsely promised SDDC
+
+that they would comply with the MFTRP and, in some cases, that they would correct the billed weight
+
+if their reweigh revealed a discrepancy.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       91.     The Defendants made these false statements in the tenders for freight services that they
+
+submitted to SDDC.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       92.     For instance, on October 27, 2008, Yellow sent an exemplar tender to SDDC. In this
+
+tender, Yellow promised that when it reweighed a shipment, it would “correct the billed weight
+
+accordingly.” Yellow further assured SDDC that “[i]f the bill of lading is found to be incorrect, Yellow
+
+will adjust the billed weight and recalculate charges on the adjusted billed weight.” Yellow’s exemplar
+
+tender was, therefore, patently false, because Yellow was not generally correcting the billed weight
+
+and recalculating charges when the reweigh results were negative and DOD stood to benefit.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       93.     In addition, all of the Defendants’ tenders also stated that they would abide by the
+
+MFTRP. And as YRC acknowledged in an internal email sent on January 21, 2010, the MFTRP
+
+required “that carriers are to be compensated based on the actual weight of the shipment.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 28 of 40
+
+
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       94.     Specifically, from January 4, 2004 through February 28, 2009, the MFTRP required
+
+carriers that independently reweighed a shipment to “obtain a [bill of lading] correction notice” from
+
+the government if the carrier discovered a discrepancy between the weight listed on the bill of lading
+
+and “the verified weight.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       95.     Likewise, from March 1, 2009, through July 30, 2013, the MFTRP required carriers to
+
+provide DOD with notice and certified weight tickets if “the revised shipping weight varie[d] by more
+
+than 10 percent of the estimate of the shipping activity.” During this period, the MFTRP also set forth
+
+basic requirements that a carrier had to meet “in order to become SDDC approved to transport DOD
+
+freight.” Included in these requirements were adhering to the “common law implied covenant of acting
+
+in good faith and fair dealing.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       96.     Finally, the MFTRP that was effective on July 31, 2013, required carriers to request a
+
+correction notice from DOD so the government could correct the bill of lading if the carrier
+
+independently discovered a weight discrepancy that caused “an increase or decrease to the total
+
+shipment cost from the original [bill of lading].” This MFTRP also required carriers to adhere to the
+
+“common law implied covenant of acting in good faith and fair dealing” in order to be approved by
+
+SDDC for DOD freight business.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 29 of 40
+
+
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       97.     In all of their tenders the Defendants promised SDDC that they would adhere to the
+
+MFTRP’s rules. But as demonstrated by the conduct alleged above, these statements were false
+
+because the Defendants did not make negative reweigh corrections or notify DOD that such corrections
+
+were warranted. Moreover, given that the Defendants themselves recognized that their reweigh
+
+practices lacked integrity, they did not act in good faith or engage in fair dealing when doing business
+
+with DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       98.     SDDC relied upon Defendants’ false statements when it approved the Defendants as
+
+freight carriers. SDDC further relied on the Defendants’ false statements when it accepted the
+
+Defendants’ tenders and placed the tenders in SDDC’s database. Had SDDC known the truth, it would
+
+have rejected the Defendants’ tenders or removed them from its database and the Defendants would
+
+not have been able to use the tenders to obtain business from DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       99.     Lists of the Defendants’ tenders for the relevant period that SDDC accepted and placed
+
+in its database are attached to this Complaint as Exhibit B (Roadway), Exhibit C (Yellow), and Exhibit
+
+D (YRC).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       100.    As noted above, DOD’s 2006 contracts with Yellow (W81GYE-06-D-0072) and
+
+Roadway (W81GYE-06-D-0073) incorporated FAR 52.212-4(i)(5), which required Yellow and
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 30 of 40
+
+
+
+Roadway, upon becoming aware of DOD overpaying on an invoice, “to immediately notify the
+
+Contracting Officer and request instructions for disposition of the overpayment.”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       101.    The Defendants did not meet this obligation to disclose and return overpayments to
+
+DOD. Instead, as alleged above, they knowingly made or used false statements regarding shipment
+
+weights on bills of lading and invoices to conceal or avoid their obligation.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       102.    In addition, the Defendants knowingly concealed, or knowingly and improperly
+
+avoided, their obligation to return overpayments to DOD. By not making negative reweigh corrections
+
+even when they knew they were warranted, the Defendants ensured that DOD would unwittingly
+
+overpay for such shipments. The Defendants knew that the corresponding weights provided on their
+
+bills of lading or invoices were false, yet still used these false figures when charging DOD. The
+
+Defendants also did not disclose that they had reweighed the shipments and found the true weight to
+
+be lighter than the stated weight. Consequently, the Defendants knew they were being overpaid by
+
+DOD. But because the Defendants did not correct the stated weight, DOD did not know that it was
+
+overpaying for these shipments. The Defendants thus made or used false statements to conceal their
+
+inflated invoices and avoid their contractual obligation to return overpayments to DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       103.    The False Claims Act defines “material” as “having a natural tendency to influence, or
+
+be capable of influencing, the payment or receipt of money or property.” 31 U.S.C. § 3729(a)(4).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 31 of 40
+
+
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       104.    Under this definition, the Defendants’ false claims and false statements were material,
+
+as they had a natural tendency to influence DOD’s decisions to pay claims, award contracts, accept
+
+tenders, and not try to recover overpayments.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+       105.    First, the Defendants deliberately overcharged DOD on thousands of invoices by
+
+suppressing negative reweigh corrections. Because the amount DOD paid depended upon the weight
+
+of the shipments, the Defendants’ failure to correct weights when it would result in a lower price was
+
+capable of influencing DOD’s payment decisions. In addition, had DOD known the truth, it would
+
+have paid the Defendants based on the actual weight of the shipments – as revealed by the Defendants’
+
+own negative reweigh results – rather than the inflated weight the Defendants billed. As one YRC
+
+employee asked rhetorically in an internal email from January 29, 2008, “what customer would not
+
+want to reduce their charges?”
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       106.    Indeed, the Defendants repeatedly emphasized in internal communications that it was
+
+important for them to reweigh shipments in order to receive the payments they were owed. For
+
+example, in January 2011, YRC wanted to make posters to encourage its dock workers to reweigh
+
+shipments. One employee suggested using old materials from “a few years ago.” These materials
+
+analogized YRC’s reweigh program to when “you walk into a Post Office with a package to mail” and
+
+the clerk weighed “the shipment to apply the proper postage.” “Accurate weights,” according to these
+
+materials, “lead to fair rates for consumers, and most importantly, a fair profit for us. We only want to
+
+get credit for what we are hauling.”
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 32 of 40
+
+
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       107.    Second, the Defendants’ false statements about making appropriate weight corrections
+
+and complying with the MFTRP were also material. Those false statements were capable of
+
+influencing SDDC’s decision to approve the Defendants as freight carriers, as well as SDDC’s
+
+decision to accept the Defendants’ tenders and place them in SDDC’s database. Without SDDC’s
+
+approvals and acceptances, DOD transportation offices would not have selected the Defendants’
+
+tenders for moving freight. In fact, starting in 2009, the MFTRP specifically included “acting in good
+
+faith” and engaging in “fair dealing” as basic requirements that a carrier had to meet in order to do
+
+business with DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+
+       108.    The Defendants also recognized that their customers would consider their one-sided
+
+reweigh practices to be a significant breach of trust that was capable of putting their business at risk.
+
+For instance, the Defendants assumed that once a customer discovered that the Defendants were not
+
+generally making negative reweigh corrections, they would have to make an exception for that
+
+customer in order to keep their business. As alleged above, these assumptions were proved correct, as
+
+the Defendants ultimately granted exceptions for various customers who discovered the Defendants’
+
+scheme. In addition, the above allegations are replete with examples of the Defendants acknowledging
+
+that fraudulent reweigh practices created an actual or potential integrity problem with customers.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations, and
+
+state that all documents referenced speak for themselves.
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 33 of 40
+
+
+
+          109.   Finally, the Defendants’ false representations relating to specific shipments were
+
+material to the Defendants’ obligation to return overpayments to DOD.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          110.   DOD officials were unaware that the Defendants had overcharged the government for
+
+shipments that warranted, as shown by the Defendants’ own scales, a negative reweigh correction. To
+
+the contrary, these shipments would have appeared to be normal, with no characteristics distinguishing
+
+them from those shipments where the Defendants used an accurate weight to charge DOD. Had the
+
+government known, it would have sought to recover overpayments to ensure that it was only paying
+
+for the actual shipment weights.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          111.   The United States re-alleges and incorporates by reference paragraphs 1-110.
+
+ANSWER: Defendants incorporate their preceding and subsequent responses as if fully set forth
+
+herein.
+
+          112.   The United States seeks relief against the Defendants, jointly and severally, under the
+
+False Claims Act, 31 U.S.C. § 3729(a)(1) (for claims submitted through May 19, 2009), and, as
+
+amended, 31 U.S.C. § 3729(a)(1)(A) (for claims submitted on or after May 20, 2009).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          113.   In connection with the foregoing scheme, between September 2005 and October 2013,
+
+the Defendants knowingly made, submitted, or caused false or fraudulent claims to the United States
+
+for payment or approval based on heavier weights than what the Defendants knew to be accurate.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 34 of 40
+
+
+
+          114.   As a result of these false claims, the United States has sustained damages in an amount
+
+to be determined at trial, and is entitled to a civil penalty as required by law for each False Claims Act
+
+violation.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          115.   The United States re-alleges and incorporates by reference paragraphs 1-110.
+
+ANSWER: Defendants incorporate their preceding and subsequent responses as if fully set forth
+
+herein.
+
+          116.   The United States seeks relief against the Defendants, jointly and severally, under the
+
+False Claims Act, 31 U.S.C. § 3729(a)(1)(B).
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          117.   In connection with the foregoing scheme, the Defendants knowingly made, used, or
+
+caused to be made or used, false statements and records material to false or fraudulent claims that were
+
+paid or approved by the United States. These statements included false promises on tenders the
+
+Defendants submitted to the United States and incorrect weights on invoices.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          118.   As a result of the false claims related to these false statements or records, the United
+
+States has sustained damages in an amount to be determined at trial, and is entitled to a civil penalty
+
+as required by law for each False Claims Act violation.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          119.   The United States re-alleges and incorporates by reference paragraphs 1-110.
+
+ANSWER: Defendants incorporates their preceding and subsequent responses to as if fully set
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 35 of 40
+
+
+
+forth herein.
+
+          120.   The Defendants were unjustly enriched from the payments the United States made for
+
+shipments that actually weighed less, and thus cost less, than the Defendants represented on their
+
+invoices. The circumstances of these overcharges were such that, in equity and good conscience, the
+
+Defendants are liable to account for and pay the total amount they overcharged, which is to be
+
+determined at trial, as well as pre- and post-judgment interest.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          121.   In addition, the Defendants made false statements about their weight correction
+
+practices while tendering offers for freight services to the United States. The Defendants were thus
+
+unjustly enriched when the United States selected them and paid them for these services. The
+
+circumstances of these payments were such that, in equity and good conscience, the Defendants are
+
+liable to account for and pay the amount they were enriched by their contracts and tender agreements
+
+with the United States, which is to be determined at trial, as well as pre- and post-judgment interest.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          122.   The United States re-alleges and incorporates by reference paragraphs 1-110.
+
+ANSWER: Defendants incorporate their preceding and subsequent responses as if fully set forth
+
+herein.
+
+          123.   The United States paid the Defendants for shipments that actually weighed less, and
+
+thus cost less, than the Defendants represented on their invoices. The United States paid for these
+
+shipments on the mistaken and material belief that it was paying for the correct weight. Accordingly,
+
+the Defendants are liable to account for and pay the total amount they overcharged the United States,
+
+which is to be determined at trial, as well as pre- and post-judgment interest.
+
+ANSWER: The allegations in this Paragraph contain a legal conclusion or argument, for which
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 36 of 40
+
+
+
+no response is required. To the extent one is required, Defendants deny the allegations.
+
+          124.   The United States re-alleges and incorporates by reference paragraphs 1-110.
+
+ANSWER: Defendants incorporate their preceding and subsequent responses as if fully set forth
+
+herein.
+
+          125.   The Defendants’ contracts (DAMT01-03-D-0044, DAMT01-03-D-0046, W81GYE-
+
+06-D-0072, and W81GYE-06-D-0073) required the Defendants to correct any weight discrepancies
+
+the Defendants discovered when reweighing shipments and bill the United States accordingly.
+
+Contracts W81GYE-06-D-0072, and W81GYE-06-D-0073 also had a further requirement to inform
+
+DOD of any overpayments and “request instructions for disposition of the overpayment.” Likewise,
+
+the Defendants failed to comply with the terms of their tender agreements with DOD, which required
+
+them to follow the MFTRP. The Defendants failure to adhere to these terms constituted a breach of
+
+these contracts. By reason of the Defendants’ breaches, the United States is entitled to recover the
+
+damages it suffered, in an amount to be determined at trial, as well as well as pre- and post-judgment
+
+interest.
+
+ANSWER: The allegations in this Paragraph and subsequent “WHEREFORE” paragraph
+
+contain a legal conclusion or argument, for which no response is required. To the extent one is
+
+required, Defendants deny the allegations, and state that all documents referenced speak for
+
+themselves.
+
+                                     AFFIRMATIVE DEFENSES
+
+          By way of further response and as affirmative defenses, and as stated above and in Defendants’
+
+prior filings and pleadings that are fully incorporated herein, Defendants state as follows:
+
+                                   FIRST AFFIRMATIVE DEFENSE
+
+          Plaintiff fails to state any claim against any Defendant upon which relief can be granted. Each
+
+of Plaintiff’s claims are improperly pleaded under applicable pleading standards—including that
+
+Plaintiff has failed to plead fraud with the requisite specificity. They are also expressly barred by the
+      Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 37 of 40
+
+
+
+parties’ fully integrated tenders, contracts, agreements, and bills of lading, as well as the regulations
+
+and guidance governing them, including that Plaintiff failed to comply with its contractual and legal
+
+responsibilities to initially weigh accurately, generate accurate bills of lading and related documents,
+
+audit, and/or engage in out-of-court resolution and remedies. In addition, Plaintiff has improperly
+
+pleaded equitable claims that impermissibly seek double recovery duplicating Plaintiff’s statutory and
+
+contract claims.
+
+                                SECOND AFFIRMATIVE DEFENSE
+
+       Plaintiff’s claims are barred by the economic loss rule or similar doctrine, and because Plaintiff
+
+first breached the parties’ tenders, contracts, agreements, and bills of lading by, inter alia, failing to
+
+comply with its contractual and legal responsibilities to initially weigh accurately, generate accurate
+
+bills of lading and related documents, audit, and/or to engage in out-of-court resolution and remedies.
+
+                                 THIRD AFFIRMATIVE DEFENSE
+
+       Plaintiff’s claims are barred, in whole or in part, owing to its failure to comply with the
+
+contractual terms and regulatory requirements governing it relationship with Defendants, including
+
+the obligation to initially weigh accurately, generate accurate bills of lading and related documents,
+
+audit, and/or raise objections to the alleged conduct at issue when fully aware of such conduct and
+
+continuing to make payments to Defendants. Such conduct constitutes, among other things, waiver,
+
+consent, ratification, unclean hands, estoppel, and/or failure to take reasonable steps to mitigate
+
+Plaintiff’s alleged damages. Plaintiff’s claims are barred, in whole or in part, because the Plaintiff’s
+
+injuries were not proximately caused by the acts or omissions of Defendants, but if they exist at all,
+
+were the result in whole or in part of intervening or supervening causes—including Plaintiff’s
+
+acceptance of Defendants’ performance, and failures to comply with its contractual and legal
+
+responsibilities to initially weigh accurately, generate accurate bills of lading and related documents,
+
+audit, and/or engage in out-of-court resolution and remedies.
+
+                                FOURTH AFFIRMATIVE DEFENSE
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 38 of 40
+
+
+
+       Plaintiff’s claims are barred, in whole or in part, by the applicable statutes of limitations and
+
+repose. See, e.g., 31 U.S.C. § 3527; 41 C.F.R. §102-118.525; 41 C.F.R. §102-118.10; 41 C.F.R. §102-
+
+118.35; Military Surface Deployment and Distribution Command Regulation 15-1, Procedure for
+
+Disqualifying & Placing Transportation Service Providers in Non-Use (January 10, 2012); 41 C.F.R.
+
+§ 102-117.255; 41 C.F.R. § 102-118.165; U.S. Freight Transportation Handbook (July 25, 2000); 41
+
+C.F.R. § 102-118.430; 31 U.S.C. § 3726(d); 49 U.S.C. § 13710.
+
+                                  FIFTH AFFIRMATIVE DEFENSE
+
+       This action is not maintained in the proper venue and/or the Court lacks jurisdiction over this
+
+action and Defendants.
+
+                                  SIXTH AFFIRMATIVE DEFENSE
+
+       Defendants have not breached any tenders, contracts, agreements, and bills of lading, have not
+
+violated any law, regulations, or guidance governing them, have complied with established industry
+
+practice and the parties’ course of dealing, and have not engaged in any fraudulent or inequitable
+
+conduct. In contrast, Plaintiff’s claims are barred, in whole or in part, by the parties’ course of dealing
+
+and/or course of performance because Plaintiff accepted Defendants’ performance for years, with
+
+knowledge that Defendants were not processing most negative reweigh corrections, without objection.
+
+Further, Plaintiff failed to comply with its contractual and legal responsibilities to initially weigh
+
+accurately, generate accurate bills of lading and related documents, audit, and/or engage in out-of-
+
+court resolution and remedies.
+
+                                 SEVENTH AFFIRMATIVE DEFENSE
+
+       Plaintiff would be unjustly enriched should any of its claims prevail. To the extent any
+
+damages are awarded against any Defendant, they must be reduced pursuant to 31 U.S.C. § 3729(a)(2).
+
+                                 EIGHTH AFFIRMATIVE DEFENSE
+
+       Defendants have substantially complied with all material terms of the parties’ tenders,
+
+contracts, agreements, and bills of lading, as well as regulations or guidance governing them, and/or
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 39 of 40
+
+
+
+conditions precedent to Defendants’ performance did not occur (and were not waived by Defendants).
+
+                                  NINTH AFFIRMATIVE DEFENSE
+
+       Plaintiff’s claims are barred, or recovery reduced, because the account, debt, or contract has
+
+already been satisfied as Plaintiff received full satisfaction under the agreement or Plaintiff received
+
+accord and satisfaction as Plaintiff agreed to settle for less than the amount owed—in that Plaintiff
+
+accepted Defendants’ performance for years, with knowledge that Defendants were not processing
+
+most negative reweigh corrections, without objection. Further, Plaintiff failed to comply with its
+
+contractual and legal responsibilities to initially weigh accurately, generate accurate bills of lading and
+
+related documents, audit, and/or engage in out-of-court resolution and remedies.
+
+                                 TENTH AFFIRMATIVE DEFENSE
+
+       With Plaintiff’s knowledge and consent, the contract was modified such that no further
+
+obligation is owed by Defendants, or Plaintiff accepted substitute performance by Defendants— in
+
+that Plaintiff accepted Defendants’ performance for years, with knowledge that Defendants were not
+
+processing most negative reweigh corrections, without objection. Further, Plaintiff failed to comply
+
+with its contractual and legal responsibilities to initially weigh accurately, generate accurate bills of
+
+lading and related documents, audit, and/or engage in out-of-court resolution and remedies.
+
+                               ELEVENTH AFFIRMATIVE DEFENSE
+
+       Plaintiff’s claims are barred, in whole or in part, because the contractual terms allegedly
+
+breached concerning whether it was necessary for Defendants to process negative reweigh corrections
+
+are ambiguous.     For instance, as of March 1, 2009, the reweigh obligations and notification
+
+requirements set forth in Military Freight Traffic Unified Rules Publication-1 (“MFTURP-1”) only
+
+applied where there was “extra weight and or size” and were silent with respect to negative reweighs—
+
+further rendering ambiguous the pre-2009 MFTURP that also does not specify notification of negative
+
+reweighs.   It was not until half a decade after learning of Defendants’ interpretation that the
+
+government recognized the ambiguity and amended MFTURP-1 to add “. . . whether the variation is
+       Case 1:08-cv-00811-RJA-MJR Document 118 Filed 10/11/21 Page 40 of 40
+
+
+
+higher or lower.” MFTURP-1, Weight Verification, Section M (July 31, 2013). Further, Plaintiff’s
+
+claims are barred, in whole or in part, by the doctrine of contra preferentem, because Plaintiff drafted
+
+all of the contracts and guidance allegedly breached.
+
+                               TWELFTH AFFIRMATIVE DEFENSE
+
+        Defendants reserve their rights to assert further and additional affirmative defenses and policy
+
+defenses based upon information that may be provided in discovery or other investigation in the course
+
+of this dispute.
+
+Respectfully submitted this 11th day of October, 2021.
+
+
+/s/ Sean Cenawood
+Sean Cenawood, NY2463750
+1221 Avenue of the Americas
+New York, NY 10020-1089
+Telephone: (212) 768-6700
+Facsimile: (212) 768-6800
+sean.cenawood@dentons.com
+
+Stephen L. Hill, Jr., #MO36033
+Sara M. Holzschuh, #KS24864
+4520 Main Street, Suite 1100
+Kansas City, Missouri 64111
+Telephone: (816) 460-2400
+Facsimile: (816) 531-7545
+stephen.hill@dentons.com
+sara.holzschuh@dentons.com
+Pro Hac Vice Appearance
+
+Attorneys for Defendants
+
+                                   CERTIFICATE OF SERVICE
+
+        I hereby certify that on the 11th day of October 2021, electronic notice of the foregoing
+
+document was served upon all parties and their counsel of record by the Court’s CM/ECF filing
+
+system.
+
+
+
+                                                                     /s/ Sean Cenawood
+                                                                     Attorney for Defendants
+119546527
+

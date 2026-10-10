@@ -1,0 +1,281 @@
+United States Bankruptcy Court for the District of Delaware
+
+                                                                                                     For Court Use Only
+ Name of Debtor: Yellow Corporation                                                                  Claim Number:        0000016215
+
+ Case Number:          23-11069                                                                      File Date:           11/08/2023 15:38:47
+
+
+
+Proof of Claim (Official Form 410)
+ Read the instructions before filling out this form. This form is for making a claim for payment in a bankruptcy case. With the exception of 503(b)(9),
+ do not use this form to make a request for payment of an administrative expense. Make such a request according to 11 U.S.C. § 503.
+ Filers must leave out or redact information that is entitled to privacy on this form or on any attached documents. Attach redacted copies of any
+ documents that support the claim, such as promissory notes, purchase orders, invoices, itemized statements of running accounts, contracts, judgments,
+ mortgages, and security agreements. Do not send original documents; they may be destroyed after scanning. If the documents are not available,
+ explain in an attachment.
+ A person who files a fraudulent claim could be fined up to $500,000, imprisoned for up to 5 years, or both. 18 U.S.C. §§ 152, 157, and 3571.
+ Fill in all the information about the claim as of the date the case was filed. That date is on the notice of bankruptcy (Form 309) that you received.
+
+
+
+                                                                                                                                                              04/22
+
+
+
+
+Part 1:      Identify the Claim
+
+1. Who is the current creditor?                                                 Globaltranz
+Name of the current creditor (the person or entity to be paid for this claim): _______________________________________________________________________
+
+Other names the creditor used with the debtor: _______________________________________________________________________________________________
+
+
+2.      Has this claim been acquired from someone else?    □✔ No □ Yes. From whom? ___________________________________________________________
+
+3.      Where should notices and payments to the creditor be sent? Federal Rule of Bankruptcy Procedure (FRBP) 2002(g)
+Where should notices to the creditor be sent?                                     Where should payments to the creditor be sent? (if different)
+
+Name          Globaltranz
+             ________________________________________________________              Name        ________________________________________________________
+
+Address        PO Box 6348
+              _______________________________________________________              Address     _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+
+              _______________________________________________________                          _______________________________________________________
+              Scottsdale
+City          _______________________________________________________              City        _______________________________________________________
+               AZ                                   85261
+State         ______________________      ZIP Code _______________________         State       ______________________        ZIP Code _______________________
+
+Country (if International): __________________________________________             Country (if International): __________________________________________
+              8662751407
+Phone:       _______________________________________________________               Phone:     _______________________________________________________
+              tds@globaltranz.com
+Email:       _______________________________________________________               Email:     _______________________________________________________
+
+
+4. Does this claim amend one already filed?                                        5. Do you know if anyone else has filed a proof of claim for this claim?
+□✔ No                                                                              □✔ No
+□ Yes.                                                                             □ Yes.
+     Claim number on court claims register (if known) _____________________           Who made the earlier filing?
+
+     Filed on ______________________________________________________                  _____________________________________________________________
+                               MM / DD / YYYY
+
+                                                                               Page 1 of 3
+Part 2:     Give Information About the Claim as of the Date the Case Was Filed
+ 6. Do you have any number you use to                                                                   8. What is the basis of the claim?
+                                                7. How much is the claim?
+    identify the debtor?                           75.00
+                                                $_______________________________________
+□
+✔ No
+                                                                                                       Examples: Goods sold, money loaned, lease, services performed,
+                                                                                                       personal injury or wrongful death, or credit card. Attach redacted
+□ Yes.                                          Does this amount include interest or other             copies of any documents supporting the claim required by Bankruptcy
+Last 4 digits of the debtor’s account or any                                                           Rule 3001(c). Limit disclosing information that is entitled to privacy,
+                                                charges?
+number you use to identify the debtor:                                                                 such as health care information.
+
+     ____ ____ ____ ___
+                                                □✔ No
+                                                □ Yes. Attach statement itemizing interest, fees,       ADR Claim-Alternative Dispute Resolution
+                                                                                                       _________________________________________________________
+                                                         expenses, or other charges required by
+                                                         Bankruptcy Rule 3001(c)(2)(A).
+
+9. Is all or part of the claim secured?                                 10. Is this claim based on a lease?         11. Is this claim subject to a right of setoff?
+□
+✔ No                                                                    □
+                                                                        ✔ No                                        □
+                                                                                                                    ✔ No
+□ Yes. The claim is secured by a lien on property.                      □ Yes. Amount necessary to cure             □ Yes. Identify the property:
+                                                                        any default as of the date of petition.
+Nature of property:
+□ Real estate. If the claim is secured by the debtor’s principal        $_____________________________               ___________________________________________
+
+residence, file a Mortgage Proof of Claim Attachment (official Form
+410-A) with this Proof of Claim.
+□ Motor vehicle                                                         12. Is all or part of the claim entitled to priority             A claim may be partly priority and
+                                                                            under 11 U.S.C. § 507(a)?                                    partly nonpriority. For example, in
+□ Other. Describe:
+                        ____________________________________            □
+                                                                        ✔ No
+                                                                                                                                         some categories, the law limits the
+                                                                                                                                         amount entitled to priority.
+Basis
+i     for perfection:                                                   □ Yes. Check one:                                                Amount entitled to priority
+                          _____________________________________
+Attach redacted copies of documents, if any, that show evidence of
+                                                                        □ Domestic support obligations (including alimony and            $_____________________
+perfection of security interest (for example, a mortgage, lien,         child support) under 11 U.S.C. § 507(a)(1)(A) or (a)(1)(B).
+certificate of title, financing statement, or other document that       □  Up to $3,350* of deposits toward purchase, lease, or          $_____________________
+shows the lien has been filed or recorded.)                             rental of property or services for personal, family, or
+Value of property:                        $_____________________        household use. 11 U.S.C. § 507(a)(7).
+
+Amount of the claim that is secured:      $_____________________
+                                                                        □ Wages, salaries, or commissions (up to $15,150*)               $_____________________
+                                                                        earned within 180 days before the bankruptcy petition is
+Amount of the claim that is unsecured: $_____________________           filed or the debtor’s business ends, whichever is earlier. 11
+(The sum of the secured and unsecured amounts should match the          U.S.C. § 507(a)(4).                                              $_____________________
+amount in line 7.)                                                      □ Taxes or penalties owed to governmental units.
+                                                                        11 U.S.C. § 507(a)(8).
+Amount necessary to cure any                                                                                                             $_____________________
+default as of the date of the petition: $_____________________          □ Contributions to an employee benefit plan. 11 U.S.C. §
+                                                                        507(a)(5).
+Annual Interest Rate (when case was filed)       ______________%                                                                         $_____________________
+                                                                        □ Other. Specify subsection of 11 U.S.C. § 507 (a)
+                                               □ Fixed □ Variable       (___________) that applies.
+                                                                        * Amounts are subject to adjustment on 4/01/25 and every 3 years after that for cases begun
+                                                                        on or after the date of adjustment.
+
+
+13. Does this claim qualify as an Administrative Expense under 11 U.S.C. § 503(b)(9)?
+□
+✔ No
+□ Yes. Amount that qualifies as an Administrative Expense under 11 U.S.C. § 503(b)(9): $_____________________________
+
+
+
+
+                                                                                     Page 2 of 3
+Part 3:    Sign Below
+The person completing       Check the appropriate box:
+this proof of claim must    □ I am the creditor.
+sign and date it. FRBP
+9011(b).
+                            □
+                            ✔ I am the creditor’s attorney or authorized agent.
+                            □ I am the trustee, or the debtor, or their authorized agent. Bankruptcy Rule 3004.
+If you file this claim      □ I am a guarantor, surety, endorser, or other co-debtor. Bankruptcy Rule 3005.
+electronically, FRBP
+5005(a)(2) authorizes       I understand that an authorized signature on this Proof of Claim serves as an acknowledgment that when calculating the amount of the claim,
+courts to establish local   the creditor gave the debtor credit for any payments received toward the debt.
+rules specifying what a     I have examined the information in this Proof of Claim and have a reasonable belief that the information is true and correct.
+signature is.
+                            I declare under penalty of perjury that the foregoing is true and correct.
+A person who files a
+fraudulent claim could         David Coon                                                                     11/08/2023 15:38:47
+                             _____________________________________
+                            ____________________________________________________________                     __________________________________
+be fined up to $500,000,
+                            Signature                                                                       Date
+imprisoned for up to 5
+years, or both. 18 U.S.C.   Provide the name and contact information of the person completing and signing this claim:
+§§ 152, 157, and 3571.
+                                      David Coon
+                            Name      ______________________________________________________________________________________________
+                                    6128 Cameo Drive
+                            Address _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+
+                                      _____________________________________________________________________________________________
+                                      Rocklin
+                            City      _____________________________________________________________________________________________
+                                      CA                                                    95677
+                            State     ________________________________________________ Zip _________________________________________
+
+                            Country (in international) _______________________________________________________________________________
+                                      9166247400
+                            Phone     _____________________________________________________________________________________________
+                                       tds@globaltranz.com
+                            Email     _____________________________________________________________________________________________
+
+
+
+
+                                                                                 Page 3 of 3
+                                                                   Straight Bill of Lading - Short Form - Original - Not Negotiable
+                                                                                                                                                      Phone : (916) 624-7400
+                                                                                  GTZ BOL NO : 26665544
+                                                                                                                                                        Fax : (623) 209-0093
+
+Shipper               Twin Oaks Moving
+Address:              499 Wrightstown-Sykesville Rd, PU#           Carrier: YRC                                                       Shipment Date: 04/03/2023
+                      AGFM0580872                                  PO # : ENGLAND / 249829                                            Est. Transit Days: 5 day(s)
+                      Wrightstown, NJ 08562                        Shipper Ref #: PU#
+                                                                                                                                      Carrier PRO #:
+Country:              USA                                          AGFM0580872
+Contact Name:         Chris Ennis                                  Customer BOL NO:
+Phone No:             (609) 556-6160                               Origin Terminal:                      Destination Terminal:
+Contact Email:                                                     P:(609) 570-4530                      P:(915) 872-8121
+Fax No:
+
+Consignee               Pikes Peak Moving
+Address:                9201 Empire Avenue
+                                                                   Third Party Billing Information :
+                        El Paso, TX 79925
+                                                                   All charges prepaid to :
+Country:                USA
+                                                                   GlobalTranz
+Contact Name:           Dispatch
+                                                                   PO Box 6348
+Phone No:               (719) 475-2806
+                                                                   Scottsdale AZ 85261
+Contact Email:
+                                                                   Direct billing inquiries to : (866) 275-1407
+Fax No:
+                                                                   GTZ BOL NO : 26665544
+Opening Hours: 9:00 Closing Hours: 4:00 PM
+AM
+
+
+ Comments/Special Instructions:
+
+
+ Pickup Remarks:PU# AGFM0580872. Must check in at window.                           Delivery Remarks:Closed 12:00 - 1:00 for lunch.
+
+
+
+
+    Package Name           Units Pieces HM               Description                           Weight         Class      Length         Width     Height        NMFC#
+                                             aHousehold Goods/Personal Effects,
+Crates                      0       1                                                          492 lbs         150         37 In         90 In        56 In     100240-1
+                                             RVNX .10 cents pound
+                  Total:    0       1                                                          492 lbs
+
+
+Any problems with delivery, please contact Gary or Cathy Muma at gmuma@globaltranz.com or (916) 624-7400.
+The authorized signatories signing this document on behalf of its company consents and bind its company to the terms and conditions found on
+www.carrierrate.com.
+Shipper Certification : I hereby certify that the contents of this consignment are fully and accurately described above by proper shipping name and are classified,
+packaged, marked and labeled and in proper condition for carriage by land/air according to applicable national governmental regulations.
+Shipper's Signature:             ___________________________________                                   Date:      __________              Trailer#:       __________
+
+
+Driver's Signature:              ___________________________________                                   Date:      __________              Trailer#:       __________
+Drivers Certification : Carrier acknowledges receipt of packages in good order, condition and quantity unless otherwise stated hereon. Carrier certifies emergency
+response information and required placards were made available and/or carrier has the D.O.T. emergency response guidebook or equivalent in the vehicle.
+
+Consignee Signature:                     ______________________________________                           Print Name:              ______________________
+
+
+Company Name:                            ______________________________________                           Date:                    ______________________
+Permanent post-office address of the Shipper:
+* Mark with "X" to designate material as defined in Title 49 CFR
+   Overcharge Claim for PRO# 6647373549 – BOL# 26665544
+I was told by Celeste Ellis with YRC that any outstanding Overcharge Claims needed to be filed
+against the bankruptcy. This document explains our current outstanding Overcharge Claim for
+the details below.
+
+This is pertaining to the OVC Claim filed online under assigned YRC Claim # 23023786 for
+PRO# 6647373549.
+
+I am appealing the declined Limited Access dispute on PRO# 6647373549. Per the message
+forwarded below, it was declined per YRC Tariff 100-754 because this location is listed as a Self-
+Storage Warehouse. I have taken a picture from Google Earth (below) of the location, and
+there are no self-storage units on site. This location is a commercial warehouse that YRC’s
+driver was unloaded at via forklift. The address on the picture matches the shipper address on
+the BOL (also attached).
+
+
+
+
+Please evaluate our case and dispute information and keep me informed on the progress of our
+claim.
+

@@ -1,0 +1,750 @@
+                          UNITED STATES DISTRICT COURT
+                            DISTRICT OF CONNECTICUT
+
+
+ YRC, Inc.,
+        Plaintiff,                                          Civil No. 3:09cv1451 (JBA)
+
+         v.
+
+ Royal Consumer Products, LLC and Mafcote, Inc.,            August 26, 2011
+        Defendants.
+
+                RULING ON MOTIONS FOR SUMMARY JUDGMENT
+
+       On September 15, 2009, Plaintiff YRC Inc. (formerly Yellow Roadway Corp.) filed
+
+a Complaint against Defendants Mafcote, Inc. and Royal Consumer Products, LLC
+
+(“Royal”), seeking to recover $159,225.99 plus interest, costs, and other damages, in past due
+
+charges for transportation services under open account and breach of contract theories of
+
+liability. Defendants move [Doc. # 42] for summary judgment in their favor on both counts
+
+in YRC’s Complaint. YRC moves [Doc. # 43] for summary judgment in its favor on its
+
+claims against Defendants and on Defendants’ counterclaims. For the reasons stated below,
+
+Defendants’ motion for summary judgment will be denied, YRC’s motion for summary
+
+judgment on its affirmative claims will be granted, and YRC’s motion for summary
+
+judgment on Defendants’ counterclaims will be granted in part and denied in part.
+
+I.     Relevant Facts
+
+       A.      Agreement for Transportation
+
+       On March 22, 2000, Mafcote and Yellow Freight System, Inc. (“Yellow”) entered into
+
+an Agreement for Transportation (“Agreement”) with an effective date of February 1, 2000,
+
+under which Yellow, as the “carrier,” agreed to transport goods for Mafcote, the “shipper,”
+
+and its affiliated companies. (Agreement, Ex. A to Defs.’ Loc. R. 56(a)1 Stmt.) Royal is an
+affiliate and wholly owned subsidiary of Mafcote. (Schulman Aff., Ex. B to Pl.’s Loc. R.
+
+56(a)1 Stmt. ¶ 3.) As part of the Agreement, Yellow agreed to “promptly and efficiently
+
+receive, transport, and deliver safely” Mafcote’s goods and Mafcote agreed to pay Yellow
+
+“within thirty (30) days of the date of the bill for prepaid moves and thirty (30) days from
+
+the date of delivery for collect moves.” (Agreement ¶¶ 4, 6.) The Agreement provides with
+
+respect to loss or damage to shipments that Yellow “assumes the liability of an interstate
+
+motor common carrier in accordance with Section 14706 of Title 49 of the United States
+
+Code” and that claims against Yellow “for loss of or damage to commodities shall be
+
+governed by 49 C.F.R., Part 370.” (Id. ¶ 7.)
+
+        Under the Agreement, “any bill of lading used for the transportation of commodities
+
+contemplated in this Agreement shall be deemed to read as the Uniform Straight Bill of
+
+Lading as provided in the [National Motor Freight Classification] as of the date the
+
+commodities are tendered to [Yellow].” (Id. ¶ 18.) The Uniform Straight Bill of Lading
+
+Terms and Conditions provide: “Claims for loss or damage must be filed within nine months
+
+after the delivery of the property . . . , except that claims for failure to make delivery must be
+
+filed within nine months after a reasonable time for delivery has elapsed.” (Uniform Straight
+
+Bill of Lading, Ex. C to Pl.’s 56(a)1 Stmt. § 3(b).) The Terms and Conditions further state
+
+that “[w]here claims are not filed or suits are not instituted thereon in accordance, no carrier
+
+shall be liable and such claims will not be paid.” (Id. § 3(c).)
+
+        B.      Merger and Assignments
+
+        The Agreement provides that “[t]he rights and obligations hereunder are personal
+
+to each party to this Agreement, and this Agreement shall not be assignable or otherwise
+
+transferable by either party, in whole or in part, without the written consent of the other
+
+
+                                                2
+party.” (Agreement ¶ 19.) On January 25, 2002, Yellow Freight System, Inc. changed its
+
+name to Yellow Transportation, Inc. (Yellow Freight System Certificate of Amendment, Ex.
+
+B to Defs.’ 56(a)1 Stmt.) Then, on October 1, 2008, Yellow Transportation, Inc. merged with
+
+Roadway Express, Inc., leaving Roadway Express, Inc. as the surviving company, and
+
+changing its name to Yellow Roadway Corp. (Agreement and Plan of Merger, Ex. D to
+
+Defs.’ 56(a)1 Stmt.) Yellow Roadway Corp. changed its name to YRC, Inc.—in whose name
+
+this suit is brought—on October 10, 2008. (Yellow Roadway Certificate of Amendment, Ex.
+
+E to Defs.’ 56(a)1 Stmt.)        The Agreement and Plan of Merger between Yellow
+
+Transportation, Inc. and Roadway Express, Inc. provided that “the assets and liabilities of
+
+Yellow shall be transferred to Roadway at the amount at which they shall at the time be
+
+carried on the books of Yellow, subject to such adjustments, if any, as may be necessary to
+
+conform to Roadway’s accounting procedures.” (Id. ¶ 6.)
+
+        C.      YRC’s Claims
+
+        YRC’s Statement of Account for Royal Consumer Products (“Statement”) as of
+
+November 20, 2008, lists a total of 671 outstanding (in whole or in part) freight bills totaling
+
+$159,225.99 owed by Royal for transportation services provided. (Woody Aff., Ex. D to Pl.’s
+
+56(a)1 Stmt. ¶¶ 4–9; Statement of Account, Ex. A to Woody Aff.) The bill date for the
+
+charges listed on the Statement range from April 9, 2007 to October 1, 2008; these charges
+
+therefore predate the merger between Yellow Transportation, Inc. and Roadway Express,
+
+Inc. and the formation of YRC. (See Agreement and Plan of Merger; Yellow Roadway
+
+Certificate of Amendment.) According to Steven Schulman, President of Mafcote and Royal,
+
+each of the invoices reflected in the Statement was sent to Royal by Yellow Transportation,
+
+
+
+
+                                               3
+Inc. and bore Yellow Transportation, Inc.’s name. (Schulman Aff. ¶ 11.) Schulman also
+
+avers:
+
+         At no time did Yellow Freight Systems, Inc., Yellow Transportation, Inc.,
+         Roadway Express, Inc., YRC, Inc., or any other entity for that matter, ask for
+         the consent of Mafcote or Royal concerning a transfer of rights under the
+         contract with Yellow Freight System, Inc. that was formed in February 2000,
+         and I can categorically state that no such consent was given by Mafcote or
+         Royal.
+
+(Id. ¶ 10.)
+
+         D.     Defendants’ Counterclaims
+
+         In their affirmative defenses and counterclaims, Defendants allege that “[o]n many
+
+occasions, Yellow delivered Royal’s shipments with loss and/or damage to goods and/or late
+
+delivery,” for which “Royal provided written claims for loss and damage to Yellow.”
+
+(Answer [Doc. # 35] at 10.) Defendants claim that they have suffered no less than
+
+$657,000.00 in loss and damages as a result of Yellow’s breaches of the Agreement. (Id.)
+
+According to YRC’s summary of the documentation relevant to Defendants’ loss and
+
+damage claims provided by Defendants during discovery, Defendants have submitted 1,506
+
+claims totaling $631,806.86. (Blaylock Aff., Ex. G to Pl.’s 56(a)1 Stmt; Ex. 1 to Blaylock Aff.;
+
+Defs.’ Loc. R. 56(a)2 Stmt. ¶¶ 25–26.) Only 210 claims of loss or damage, totaling
+
+$62,918.13, were submitted by Defendants within nine months of receiving those shipments.
+
+(Id.)
+
+         Trevor Blaylock, YRC’s Legal Claims Examiner, states in his affidavit that the
+
+shipments at issue in Defendants’ counterclaims were shipped under “said to contain”
+
+(“STC”) and/or “shipper load and count” (“SLC”) terms, which means that they were loaded
+
+onto trailers without assistance from the carrier, who therefore could not have verified the
+
+
+                                               4
+contents and conditions of this already–packaged cargo at the shipment’s origin. (Blaylock
+
+Aff. ¶ 8.) Jerry Blake, a member of Mafcote’s warehouse personnel in Louisville, Kentucky,
+
+corroborated these shipment conditions and testified during his deposition that STC means
+
+that the shipper confirms to the best of its knowledge that it has accurately represented what
+
+is in the pallet being shipped and that unless a carrier like YRC breaks down a pallet and that
+
+he didn’t “really see how they” could confirm what was inside the shrink–wrapped pallets.
+
+(Blake Dep., Ex. H to Pl.’s 56(a)1 Stmt. at 78:17–80:3.) Blaylock’s affidavit states that the
+
+documents produced by Defendants during discovery reveal that “the majority of the
+
+shipments at issue in Mafcote’s and Royal’s counterclaims . . . arrived at destination with the
+
+original shrink wrap intact,” and that Defendants’ discovery documents “failed to provide
+
+any support for [their] allegations that cartons containing particular products were missing.”
+
+(Blaylock Aff. ¶¶ 9–10.)
+
+        William Bernstein, Chief Financial Officer for Mafcote and its affiliates, testified
+
+during his deposition, however, that the shrink wrap used on pallets shipped by Defendants
+
+is “nothing but clearish Saran Wrap” which allows the truck driver to “easily see the number
+
+of cartons.” (Bernstein Dep., Ex. D to Defs.’ Loc. R. 56(a)2 Stmt. at 52:17–56:4.) Bernstein
+
+also testified that it is up to the driver to validate what is passed to him and that it is a “pretty
+
+easy function” for the driver to verify the number of cartons contained in each pallet. (Id.)
+
+He continued that it is industry standard “to count the number of cartons on the pallet” and
+
+that it would be “highly improbable” for there to have been “voids” within the pallet. (Id.)
+
+
+
+
+                                                 5
+II.    Discussion1
+
+       YRC argues that it is entitled to summary judgment in its favor on its claims against
+
+Defendants because under the Agreement, it is entitled to recover the freight unpaid freight
+
+charges owed by Defendants regardless of any alleged loss or damage claims by Defendants.
+
+YRC also argues that it is entitled to summary judgment on Defendants’ loss and damage
+
+counterclaims because most of these loss and damage claims were untimely filed and
+
+because, in any event, Defendants cannot establish a prima facie loss or damage case on any
+
+of its claims. Defendants argue that they are entitled to summary judgment in their favor
+
+on YRC’s complaint because Section 19 of the Agreement, prohibiting transfers and
+
+assignments of rights, bars YRC’s claims.
+
+       A.      Section 19 and Defendants’ Motion for Summary Judgment
+
+       Defendants argue that Section 19 of the Agreement provides that the rights and
+
+obligations thereunder “shall not be assignable or otherwise transferable by either party, in
+
+whole or in part, without the written consent of the other party,” and that the merger of
+
+Yellow Transportation and Roadway Express was a transfer of rights to the surviving
+
+corporation, Yellow Roadway Corp., which changed its name to YRC, and because
+
+Defendants did not consent in writing to that transfer of rights, YRC cannot maintain this
+
+
+
+       1
+         “Summary judgment is appropriate where, construing all evidence in the light most
+favorable to the non-moving party,” Pabon v. Wright, 459 F.3d 241, 247 (2d Cir. 2006), “the
+pleadings, the discovery and disclosure materials on file, and any affidavits show that there
+is no genuine issue as to any material fact and that the movant is entitled to judgment as a
+matter of law,” Fed. R. Civ. P. 56(c)(2). An issue of fact is “material” if it “might affect the
+outcome of the suit under the governing law,” and is “genuine” if “a reasonable jury could
+return a verdict for the nonmoving party” based on it. Anderson v. Liberty Lobby, Inc., 477
+U.S. 242, 248 (1986). “Unsupported allegations do not create a material issue of fact.”
+Weinstock v. Columbia Univ., 224 F.3d 33, 41 (2d Cir. 2000).
+
+                                               6
+action for freight charges incurred prior to the merger. (Defs.’ Mem. Supp. [Doc. # 42–7]
+
+at 3–4.) YRC argues in response that the merger vested contractual rights in the surviving
+
+entity without an assignment or transfer actually occurring, thus Section 19 does not
+
+interfere with its ability to recover its claims. (Pl.’s Opp’n at 1–2.) YRC also argues that even
+
+if the Court were to find that Section 19 barred its action against Defendants for breach of
+
+the Agreement, its claim for Open Account is unaffected by Section 19 because that claim
+
+does not seek performance under the Agreement. (Id. at 9.)
+
+        Section 19 of the Agreement reads: “[t]he rights and obligations hereunder are
+
+personal to each party to this Agreement, and this Agreement shall not be assignable or
+
+otherwise transferable by either party, in whole or in part, without the written consent of the
+
+other party.” (Agreement ¶ 19.) The Merger Agreement, governed by Delaware law,
+
+provides:
+
+        As of the Effective Time, the assets and liabilities of Yellow shall be
+        transferred to Roadway at the amount at which they shall at that time be
+        carried on the books of Yellow, subject to such adjustments, if any, as may
+        be necessary to conform to Roadway’s accounting procedures. In addition,
+        all of the rights, privileges, immunities, and franchises of Yellow and all
+        property (real, personal, and mixed) and debts due to Yellow shall be vested,
+        for all purposes and in all respects, in Roadway.
+
+(Agreement and Plan of Merger ¶ 6.)
+
+        In arguing that the transfers pursuant to the Merger Agreement are barred by Section
+
+19 without written consent, Defendants rely in large part on PPG Industries, Inc. v. Guardian
+
+Industries Corp., 597 F.2d 1090, 1094–96 (6th Cir. 1979), which held that patent licenses did
+
+not pass from licensee Permaglass, Inc. to the surviving corporation in a merger between
+
+Permaglass and Guardian Industries, Corp., executed pursuant to Ohio and Delaware
+
+
+
+                                               7
+merger statutes, because the patent–licensing agreement between Permaglass and PPG
+
+Industries, Inc. contained a non–assignment clause, which “show[ed] an intent that the
+
+licenses held by Permaglass in the eleven patents in suit not be transferable” and prohibited
+
+the transfer of rights that was to have occurred pursuant to the merger agreement. Id. at
+
+1095–97.
+
+          In Nicolas M. Salgo Assoc. v. Continental Ill. Prop., 532 F. Supp. 279, 282–83 (D.D.C.
+
+1981), also relied on by Defendants, the district court followed the approach espoused in
+
+PPG and found that although a merger by operation of law constitutes a transfer of interests,
+
+a non–assignment clause operates to bar any such transfer. In Salgo, the plaintiff and
+
+defendant had formed a partnership pursuant to an agreement with a clause barring
+
+transfers of partnership interest and the defendant subsequently merged into another
+
+corporation. Id. at 280–81. Judge Flannery rejected the alternate approach—in which a
+
+merger by operation of law is considered merely a change in legal form of ownership and
+
+thus not barred by a non–assignment clause—because the contract at issue contained
+
+exceptions to the non–assignment clause which did not include merger, because the parties
+
+involved were “extremely experienced business entities and should be savvy to the
+
+importance of accurately drafting contracts,” and because the merger would have otherwise
+
+forced the plaintiff to accept a new partner without its consent. Id. at 283. Parks v. CAI
+
+Wireless Systems, Inc., 85 F. Supp. 2d 549, 554–55 (D. Md. 2000) also followed this approach,
+
+finding that a merger by operation of law resulted in a transfer of partnership interest
+
+between corporations and thus constituted an assignment in violation of a non–assignment
+
+clause.
+
+
+
+
+                                                8
+       YRC relies on several cases concerning the transfer by merger of real estate leases and
+
+insurance policies in support of its position that a merger simply vests contractual rights in
+
+the surviving entity without an assignment or transfer, and that Section 19 therefore does
+
+not bar its claims. It attempts to distinguish PPG, Salgo, and Parks primarily on the ground
+
+that they concern patent licenses and partnership interests, which are contractual rights that
+
+are more personal than the transportation and payment rights under the Agreement here.
+
+(Pl.’s Opp’n at 5–7.) In contrast to the PPG line of cases, the cases relied upon by YRC adopt
+
+the approach that in the event of a merger by operation of law, a transfer of rights and
+
+obligations does not occur, but instead “the surviving corporation simply stands in the same
+
+position as that occupied by the merged corporation prior to the merger.” St. Paul Fire &
+
+Marine Ins. Co. v. Emp’rs Mut. Liab. Ins. Co. of Wisc., 509 F. Supp. 750, 752–53 (E.D. Penn.
+
+1981). They focus in large part on the fact that the relevant mergers did not involve any
+
+increased risk or prejudice to the other parties who sought to invoke non–assignment
+
+clauses to bar those mergers. In Imperial Enterprises, Inc. v. Fireman’s Fund Insurance Co.,
+
+535 F.2d 287, 292–93 (5th Cir. 1976), the Fifth Circuit refused to apply a non–assignment
+
+clause “ritualistically and mechanically” to forfeit insurance coverage where a merger by
+
+operation of law transferred a Fireman’s Fund insurance policy to the surviving entity but
+
+“caused no increase in the risks or hazards incurred by Fireman’s Fund.” Similarly, the
+
+Supreme Court of Missouri held in Standard Operations, Inc. v. Montague, 758 S.W.2d 442,
+
+443 (Mo. 1988), that a merger by operation of law was not an assignment of a lease in
+
+violation of a non–assignment clause where prohibiting the assignment would confer on the
+
+lessor an advantage over the lessee, the surviving entity in the merger, because the lessor
+
+would have been able to hold the merged lessee to the lease “so as to have the benefit of her
+
+
+                                              9
+initial bargain, or could use the threat of termination to negotiate with the successor or
+
+outsiders for additional remuneration.”
+
+       The nature of Defendants’ and YRC’s interests in the Agreement here more closely
+
+resemble the insurance and leasehold interests in Imperial Enterprises and Montague than
+
+the personal patent and partnership rights and obligations in PPG, Salgo, and Parks. The
+
+particular right under the Agreement at issue here—YRC’s right to payment for
+
+transportation services already provided to Defendants—is not as “personal” a right as a
+
+patent license or partnership agreement, where allowing a transfer of that right to a new
+
+entity would force Defendants to accept a close business relationship with a party with
+
+whom they did not negotiate. See PPG, 597 F.2d at 1097; Salgo, 532 F. Supp. at 283. Instead,
+
+allowing Defendants to avoid paying YRC for services already rendered to which Defendants
+
+did not object at the time they were performed, would allow Defendants to take advantage
+
+of the benefit of their initial bargain while avoiding the incurred obligations to Yellow’s
+
+successor. See Montague, 758 S.W.2d at 443. The nature of the Agreement between Yellow
+
+and Defendants and the obligations created therein resemble the insurance and lease
+
+agreements in Fireman’s Fund and Montague, more than the ongoing personalized
+
+relationships in PPG and Salgo. Defendants do not dispute that they incurred the
+
+$159,225.99 total in charges under the Agreement,2 nor do they argue that YRC’s assumption
+
+of the right to payment of those charges would alter an ongoing relationship between the
+
+parties. Further, none of the language in the Agreement suggests an intention or reason to
+
+give Defendants control over the other party’s corporate form and Section 19 should not
+
+
+
+       2
+        Defendants’ counsel agreed at oral argument that in the event that the merger did
+not breach Section 19 of the Agreement, Defendants would owe YRC the full $159,225.99.
+
+                                            10
+serve to provide Defendants with a windfall by barring YRC’s ability to recover for services
+
+already provided to and accepted by Defendants under the Agreement. Defendants’ motion
+
+for summary judgment is therefore denied.
+
+       B.      YRC’s Claims
+
+       YRC argues that summary judgment in its favor is appropriate on its claims for past
+
+due freight shipment charges for the 671 shipments transported and invoiced to Defendants
+
+between April 2007 and October 2008 because it is entitled to payment for those shipments
+
+under the Agreement regardless of Defendants’ set–off claims. (Pl.’s Mem. Supp. [Doc. # 45]
+
+at 5–7.)
+
+       Under the Agreement, Mafcote agreed to pay invoices “within thirty (30) days of the
+
+date of the bill for prepaid moves and thirty (30) days from the date of delivery for collect
+
+moves.” (Agreement ¶ 6.) Yellow Transportation provided transportation services in the
+
+form of 671 shipments for Defendants between April 2007 and October 2008 and invoiced
+
+Royal for $159,225.99 for these shipments. (Woody Aff. ¶¶ 4–9; Ex. A to Woody Aff.)
+
+Defendants admit that they have refused to pay these invoices, but claim that their refusal
+
+stems from YRC’s failure to honor their loss and damage claims. (Defs.’ 56(a)2 Stmt. ¶ 18.)
+
+       In the Second Circuit, where one party to a contract presents claims for unpaid
+
+freight charges and another party claims loss or damage to the shipped goods, although the
+
+loss or damage claims may be viable counterclaims, they are “legally irrelevant” to the claims
+
+for unpaid freight charges. Metallgesellschaft A.G. v. M/V Capitan Constante, 790 F.2d 280,
+
+282 (2d Cir. 1986). Indeed Mafcote’s liability to Yellow for freight charges and Yellow’s
+
+liability to Mafcote for loss or damage claims are governed by separate provisions of the
+
+Agreement. (Agreement ¶¶ 4, 7.) Section 4 of the Agreement, concerning Mafcote’s
+
+
+                                             11
+payments to Yellow for transportation services, does not confer on Mafcote the right to take
+
+a set–off for lost or damaged goods. (Id. ¶ 4.) Defendants do not dispute the $159,225.99
+
+in total invoices or that they have not paid that total. They argue in their Opposition only
+
+that Yellow, rather than YRC, invoiced them for these shipments and that because Section
+
+19 bars the transfer of this right to payment, YRC is not entitled to payment. However, as
+
+discussed above, Section 19 does not bar YRC’s right to payment. Because it is undisputed
+
+that Defendants have not made payment on the $159,225.99 in outstanding invoices, YRC’s
+
+motion for summary judgment on its claims to recover past due freight shipment charges
+
+is therefore granted.
+
+       C.      Defendants’ Counterclaims
+
+               1.       Timeliness
+
+       YRC argues that it is entitled to summary judgment on Defendants’ loss and damage
+
+counterclaims with respect to 1,296 of 1,506 shipments because Defendants filed loss and
+
+damage claims for only 210 of those shipments within the ninth–month claim–filing period
+
+set forth in the Agreement. (Pl.’s Mem. Supp. at 11.) Defendants respond that because their
+
+counterclaims arise from the same contract as do YRC’s claims, the counterclaims sound in
+
+recoupment and are not time–barred. (Defs.’ Opp’n at 6.)
+
+       The Agreement provides that “any bill of lading used for the transportation of
+
+commodities contemplated under this Agreement shall be deemed to read as the Uniform
+
+Straight Bill of Lading as provided in the [National Motor Freight Classification] as of the
+
+date the commodities are tendered to [Yellow].” (Agreement ¶ 18.) The Uniform Straight
+
+Bill of Lading Terms and Conditions specify that “[c]laims for loss or damage must be filed
+
+within nine months after the delivery of the property.” (Uniform Straight Bill of Lading §
+
+
+                                            12
+3(b).) The Terms and Conditions further state that “[w]here claims are not filed or suits are
+
+not instituted thereon in accordance, no carrier shall be liable and such claims will not be
+
+paid.” (Id. § 3(c).) Of Defendants’ 1,506 total claims for loss and damage, it is undisputed
+
+that 210 claims totaling $62,918.13 were filed within nine months of delivery. (Ex. 1 to
+
+Blaylock Aff.; Defs.’ 56(a)2 Stmt. ¶¶ 25–26.)3
+
+        A recoupment defense or counterclaim is brought to reduce a plaintiff’s recovery by
+
+“all just allowances or demands accruing to the defendant with respect to the same contract
+
+or transaction. ” Distrib. Servs., Ltd. v. Eddie Parker Interests, Inc., 897 F.2d 811, 812–13 (5th
+
+Cir. 1990). It is a “purely defensive procedure” aimed at a plaintiff’s claim rather than an
+
+affirmative cause of action. Id. “Recoupment claims are generally not barred by a statute
+
+of limitations so long as the main action is timely.” Reiter v. Cooper, 507 U.S. 258, 264
+
+(1993). Nonetheless, while recoupment claims are not barred by a statute of limitations, they
+
+can nonetheless be barred by temporal limitations in a contract that establish a time period
+
+in which a shipper must provide notice to the carrier as a “condition precedent” to
+
+maintaining a claim for loss or damage. Consol. Rail Corp. v. Primary Indus. Corp., 868 F.
+
+Supp. 566, 577 (S.D.N.Y. 1994) (provision in uniform bill of lading that read “[a]s a
+
+condition precedent to recovery, claims must be filed . . . within nine months after delivery
+
+of the property. . . . Where the claims are not filed . . . in accordance with [the nine month
+
+requirement], no carrier hereunder shall be liable, and such claims will not be paid” meant
+
+that the shipper “ha[d] no cause of action to bring” if it failed to give proper notice within
+
+the nine–month period).
+
+
+
+        3
+        Defendants’ counsel conceded at oral argument that only 210 of the loss and
+damage claims were filed within the nine–month period.
+
+                                               13
+       Although the Uniform Straight Bill of Lading Terms and Conditions applicable to
+
+the Agreement do not use the phrase “condition precedent” in describing the nine–month
+
+filing period, they expressly specify that “[w]here [loss or damage] claims are not filed or
+
+suits are not instituted thereon in accordance with the [nine–month period], no carrier shall
+
+be liable, and such claims will not be paid.” (Uniform Straight Bill of Lading Terms and
+
+Conditions ¶ 3(c).) This language is sufficiently similar to that used in the bill of lading in
+
+Consolidated Rail Corporation to establish a condition precedent to any loss or damage
+
+claim, and not a statute of limitations. Under this provision of the Terms and Conditions,
+
+YRC is not liable for any claims filed outside of the nine–month filing period. Because this
+
+is a condition precedent rather than a statute of limitations, Reiter does not apply, and the
+
+nine–month period in the Uniform Straight Bill of Lading bars Defendants’ counterclaims
+
+based on all shipments other than the 210 filed within that period.
+
+               2.      Prima Facie Case
+
+       YRC argues that it is entitled to summary judgment on “most, if not all, of the claims
+
+that form the basis of the counterclaims” because Defendants cannot establish a prima facie
+
+cargo loss or damage case with respect to these claims. (Pl.’s Mem. Supp. at 14.) Defendants
+
+respond that although it will be their burden to establish a prima facie loss or damage case,
+
+YRC cannot meet its burden at the summary judgment stage to demonstrate that
+
+Defendants will be unable to establish their prima facie case. (Defs.’ Opp’n at 9–10.)
+
+       “To make a prima facie case under the Carmack Amendment, a [shipper] must show
+
+1) delivery to the carrier in good condition; 2) arrival in damaged condition; and 3) the
+
+amount of damages caused by the loss.” Project Hope v. M/V IBN SNA, 250 F.3d 67, 74 n.6
+
+(2d Cir. 2001). “[A] shipper’s burden of proving that the goods were delivered to the carrier
+
+
+                                              14
+in good condition may be satisfied by the proffer of a clean bill of lading for the shipment,
+
+provided that the cargo was packaged in a way that permitted its inspection by the carrier.”
+
+Sec. Ins. Co. of Hartford v. Old Dominion Freight Line, Inc., 391 F.3d 77, 83 (2d Cir. 2004).
+
+“However, where the contents of a shipment are not visible or open for inspection, as may
+
+be the case when cargo is transferred to the carrier in a sealed container, a clean bill of lading
+
+is not sufficient to establish delivery of the goods in good condition.” Id. In such an
+
+instance, the shipper must instead “present additional evidence, either direct or
+
+circumstantial, in order to establish the initial contents and condition of the cargo.” Id. at
+
+84.
+
+        YRC argues that the documents provided by Defendants during discovery show that
+
+“the majority, if not all of the shipments at issue” were packaged and loaded by Defendants,
+
+and thus YRC was unable to inspect the cargo. (Pl.’s Mem. Supp. at 16–17.) YRC further
+
+argues that because Defendants therefore cannot demonstrate the condition of the cargo
+
+prior to transportation, they cannot establish that the cargo arrived at its destination in
+
+worse condition than it was shipped. (Id. at 18–19.) According to William Bernstein,
+
+however, Royal and Mafcote ship their cargo on pallets wrapped in clear shrink–wrap,
+
+permitting the carrier to verify the number of cartons being shipped. (Bernstein Dep. at
+
+52:17–56:4.) In addition, despite claiming that most, if not all the shipments were shipped
+
+STC and/or SLC, meaning that they were loaded by Defendants without YRC’s inspection,
+
+YRC cites to nothing in the record other than Blaylock’s affidavit that establishes which
+
+shipments were shipped STC and/or SLC.
+
+        YRC does not meet its burden on summary judgment of showing that Defendants
+
+will be unable to show, using a clean bill of lading, that the goods were delivered to YRC in
+
+
+                                               15
+good condition. YRC has not established beyond dispute that the cargo was packaged in
+
+such a way that inspection was not permitted; such a determination will depend on the color
+
+and opacity of the shrink–wrap surrounding the pallets, facts which are disputed in the
+
+record. YRC similarly has not established which shipments were shipped without YRC’s
+
+inspection and is therefore not entitled to summary judgment on Defendants’ timely
+
+counterclaims.
+
+III.   Conclusion
+
+       For the reasons stated above, Defendants’ motion [Doc. # 42] for summary judgment
+
+is DENIED. Plaintiff’s motion [Doc. # 43] for summary judgment is GRANTED in part and
+
+DENIED in part.
+
+
+
+
+                                             IT IS SO ORDERED.
+
+
+
+                                                /s/
+                                             Janet Bond Arterton, U.S.D.J.
+
+                         Dated at New Haven, Connecticut this 26th day of August, 2011.
+
+
+
+
+                                            16
+
