@@ -360,6 +360,9 @@ Keep it short: one line per step, newest at the bottom, with a link to the doc t
 ## Parked ideas (not in scope)
 - A marketing-research and ideation platform ("a CRM for market research", with projections of likely outcomes). The idea came up in `overarching_market.md`. Nobody has checked whether it already exists.
 
+## Git
+- **No branches yet** (founders, 2026-10-10): everything is committed on `main` and pushed. Branches start only once we begin writing code.
+
 ## Maintaining this file (required)
 - **Update this file whenever the project moves forward.** That means question status, the Answers block, the Work Log, and the Documents index.
 - **Keep it brief.** Reasoning, sources, and data go in the supporting docs. This file only summarizes and links to them.
