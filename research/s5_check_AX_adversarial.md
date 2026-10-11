@@ -22,7 +22,7 @@
   - **Two §1.4 sentences that rest on checks AO and AT, not AX.** These are "brokers give 5-30 days" and "Central Transport use[s] its own web form". No Central Transport claim form is in `data/`.
   - **AX §7's field table.** Only ABF's, YRC's and XPO's cells were checked cell by cell.
   - **TForce Item 830-A's residence wording.**
-  - **The NMFC claim items (e.g. 300205).** NMF 100 is not held.
+  - **The NMFC claim items (e.g. 300205).** Corrected 2026-10-10: they are held. Items 300300-300530 of the 2015 edition are in `data/sources/15_bol_forms_and_standards/nmfc_100-AO_supplement1_2015.pdf` (300300-series mirrors Part 378 for household-goods and non-contiguous carriers and forwarders; 300500-530 is the billing-dispute procedure for other carriers, with a 5-business-day request rule at 300520(g)).
 - **Labels used here:**
   - **KEEP-verified:** the sentence is true as written, about its own population.
   - **KEEP-assumed:** the sentence rests on an inference the files cannot prove.
@@ -198,7 +198,7 @@
 ## §4 Concerns left unproven (stated as such)
 
 1. **The handwritten "30" marks on the exceptions page.** Someone hand-wrote "30" (or similar) and initials beside each of the three liftgate rows on 02-002 p. 22. If Exist marked $30 as its expected liftgate price on partner lanes, the reconciled $55 on 807148067 and 806625953 would itself be in dispute. Nothing in the files says who wrote them or why, and the shipper's worksheet charges $55 on partner lanes. **Not proven either way.**
-2. **NMFC claim rules under SEFL.** SEFL 1090 Item 100 makes NMF 100 a governing publication. NMFC's claim items (YRC's form quotes Item 300205; TForce 813 cites "NMFC series items 300500") may add procedure under SEFL. They are not held. As far as the files show, the 180-day window still comes from the statute, so the doc's "SEFL's tariff has none, so the statute governs" stands, unchallenged rather than proven.
+2. **NMFC claim rules under SEFL.** SEFL 1090 Item 100 makes NMF 100 a governing publication. NMFC's claim items (YRC's form quotes Item 300205; TForce 813 cites "NMFC series items 300500") may add procedure under SEFL. They are held after all (corrected 2026-10-10: `nmfc_100-AO_supplement1_2015`, Items 300300-300530). As far as the files show, the 180-day window still comes from the statute, so the doc's "SEFL's tariff has none, so the statute governs" stands, unchallenged rather than proven.
 3. **What FedEx 438 governs.** FedEx 438 bars "Any action or proceeding by Customer to recover overcharges" after 180 days from receipt plus 7 days. Whether a carrier would read this as a claim-filing deadline or only a suit deadline is a reading. Its ¶2-3 channel invoice disputes separately.
 4. **Whether a tariff can shorten 13710(a)(3)(B).** Several tariffs start the clock earlier than "receipt of the bill" (ABF, AAA Cooper, Werner, ODFL, Central). Whether these bind a shipper against the statute is a legal question that no file answers. The doc's "compute every clock and show the earliest" is the safe design either way.
 5. **The p. 21 pallet sheet's date and status.** It is undated. It may postdate 04/12/2023 (interstate +6%) or belong to a different program. No bill in the rows checked uses a per-pallet rate, so its effect on the examples is nil.

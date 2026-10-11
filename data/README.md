@@ -18,6 +18,7 @@ derived/ocr/04_…/      tesseract output for the Delphi set (copied from the 20
 _tools/tessdata/       eng.traineddata, so `tesseract <png> - --tessdata-dir data/_tools/tessdata --psm 6` works
 verify_rows.csv        the verifier's per-row verdicts and corrections (applied to catalogue.csv; report in research/s5_check_AT_adversarial.md)
 doc-explanation.md     the document chain behind a price dispute, form by form: purpose, shared or per-firm format, role in the worked SEFL mismatch, what is held, what is missing and its cost; §4 is the dispute pipeline (what to pull from each document, in what order, and the math that decides a dispute)
+doc-exploration.md     the same chain cut per fact (2026-10-10): the 76 facts a dispute needs, where each lives with its fallbacks, what NOT REPORTED means and does to the 180-day clocks, and six real chains from sources/ walked fact by fact
 ```
 
 ## The sets, in one line each
