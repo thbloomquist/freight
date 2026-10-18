@@ -11,9 +11,13 @@ Privacy: the raw files are public court and bankruptcy records and carry individ
 The founders' words (2026-10-10):
 
 > There are a series of phases, documents at each phase. We will define them as:
+> 
 > Before Shipment - Set Price Agreement
+> 
 > At Pickup & Deliver - Set Facts for Shipment
+> 
 > After Deliver - Ask for Money for shipment
+> 
 > Dispute Time - What we are looking into, based off of previous documents. Audit / Question / Answer, documents specifying these types of information for any dispute that occurs.
 >
 > From these four stages we are going to establish a pipeline of parsing the relevant information across each document in each stage to check for inequality between the Set Price Agreement, with its facts for shipment, with the Money asked for Shipment.
@@ -44,7 +48,25 @@ A DISPUTE in this file means: a bill line whose billed amount differs from the a
 
 ## 1. What we need to know: the fact inventory
 
-Derived from the "Data needed" column of all 33 checks (AK §3.2), the expected-charge formula (AX §4) and the trigger table (AX §5). One row per fact, with a stable ID by phase. **Role:** *price* = an input to the expected amount; *trigger* = decides whether a charge applies at all; *key* = links documents to each other; *clock* = sets a deadline; *state* = what has been billed or paid so far. **Need:** *must* = no DISPUTE verdict on the lines it feeds without it; *useful* = sharpens a verdict or a claim but its absence does not block one.
+Derived from the "Data needed" column of all 33 checks (AK §3.2), the expected-charge formula (AX §4) and the trigger table (AX §5). One row per fact, with a stable ID by phase. 
+
+**Role:** 
+
+* *price* = an input to the expected amount 
+
+* *trigger* = decides whether a charge applies at all
+
+* *key* = links documents to each other
+
+* *clock* = sets a deadline
+
+* *state* = what has been billed or paid so far.
+
+**Need:** 
+
+* *must* = no DISPUTE verdict on the lines it feeds without it
+
+* *useful* = sharpens a verdict or a claim but its absence does not block one
 
 ### 1.1 Phase 1, price terms (P)
 
