@@ -1,0 +1,566 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+                                    
+ 
+                         _____________________
+ 
+                            October 13, 1999
+                         _____________________
+                                    
+    
+                            GSBCA 14606-RATE
+    
+    
+                   In the Matter of FLEET LINES, INC.
+    
+    
+        Leo S. Fisher of Bean, Kinney & Korman, P.C., Arlington, VA,
+   appearing for Claimant.
+    
+        James  F.  Fitzgerald,  Director,  Audit  Division,  General
+   Services Administration,   Washington,  DC, appearing for General
+   Services Administration.
+    
+           Col. James F. Quinn, Staff Judge Advocate,  Headquarters,
+   Military Traffic   Management  Command, Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+    
+   GOODMAN, Board Judge.
+    
+                               Background
+ 
+   The Invitation for Rate Tender and Service Offers
+ 
+        On  June  20,  1994, the  Defense  Personnel  Support Center
+   (DPSC), Philadelphia, Pennsylvania, issued an invitation for rate
+   tender and service  offers (RTSO) for the  movement of perishable
+   subsistence   during  the   period  January   1,  1995,   through
+   December 31,  1997, from its cold storage warehouse supply points
+   to military installations, Veterans Administration Hospitals, Job
+   Corps  Centers, Indian  Schools, and other  authorized customers.
+   Fleet Lines, Inc. (FLNI or claimant) submitted tender number 008-
+   94 for  routes  from the  Defense Subsistence  Office (DSO),  Los
+   Angeles, California,  tender number  009-94 for  routes from  San
+   Diego,  California,  and  tender number  010-94  for  routes from
+   Alameda,  California.    After  preliminary  evaluation  by DPSC,
+   Military    Traffic    Management     Command,    Western    Area
+   (MTMCWA)[foot #] 1   awarded    various   routes    to   claimant
+   as primary carrier under each tender. 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1    MTMCWA  was redesignated  as MTMC,  Deployment
+   Support  Command,   Oakland  Army   Base,  Oakland,   California,
+   effective June 17, 1998.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        Item 3 of the tenders is titled "Detention Time."  Here, the
+   carrier agreed to  arrive at the loading docks  ready for loading
+   at  the  time  set  out  in the  loading  and  delivery  schedule
+   contained in Item 29.  Item 3 explained  that the carrier's rates
+   included  a  certain amount  of    time,  called free  time,  for
+   "placement  of material"  and for  waiting.   If the  carrier was
+   delayed at either the pick-up point or the delivery point, and if
+   the  delay was  not  caused  by the  carrier,  the Department  of
+   Defense (DoD) would  pay the carrier  a charge,  set out in  Item
+   12c, for detention in excess of the free time set out in Item 3. 
+ 
+        Item 12 concerns accessorial charges.  Item 12d states:
+    
+        When  the  Government requires  and requests  pickup or
+        delivery  on  Saturdays,    Sundays  or  Holidays,  the
+        following charges will  apply in addition to  all other
+        charges  assessed against  the shipper. .  . .  The GBL
+        will  be annotated  by the  [DSO]  Saturday (Sunday  or
+        Holiday) delivery (pick-up) authorized on _____________
+        (date(s)).
+    
+   Item 12d lists the days that constitute holidays.  The charge set
+   out in Item 12d is stated as a charge per truck. 
+ 
+        Item 28 of each RTSO includes rates for various destinations
+   and shows  that the carrier would pick  up perishable commodities
+   at the stated pick-up point and deliver them  to  listed delivery
+   points.   For each delivery point, Item 28  set out more than one
+   truckload minimum weight.   For each delivery point  and for each
+   truckload minimum weight, the  carrier was supposed to insert its
+   freight rate per hundred pounds. 
+ 
+        Item 29 contains  pick up and delivery schedules.   For each
+   delivery point,  the  schedules set  out pick up  days and times,
+   and  delivery  days and  times.    In  addition to  the  delivery
+   schedules,  Item 29  of each  RTSO includes charges  for weekend,
+   holiday, and weekday "holdover" as follows:
+ 
+        Item 29.1 Holdover Charges (Weekend)
+ 
+             Friday pick-ups  will be  held for  Monday morning
+        deliveries.   Holdover charges (2 days) will be $______
+        (per  truck) with total  maximum charge of  $______ per
+        weekend.    GBL  [Government Bill  of  Lading]  will be
+        annotated,  by  the  DSO office,  "Holdover  authorized
+        Saturday _____________ (date)  and Sunday _____________
+        (date)."
+ 
+        Item 29.2 Holdover Charges (Overnight Holiday)
+ 
+             Trucks held over on holidays (as specified in item
+        12d) in accordance with instructions from the DSO, will
+        be  charged  at  $_______  per  truck.    GBL  will  be
+        annotated,  by the DSO  office "Holdover  authorized on
+        Holiday ___________ (date)."
+ 
+        Item 29.3 Holdover Charges (Weekdays)
+ 
+             Trucks  heldover  night   (Monday  Night,  Tuesday
+        Night,  Wednesday  Night,   Thursday  Night,  excluding
+        holidays, (see Item 29.2)) during the week for delivery
+        the next day will be charged at $_______ per truck. GBL
+        will  be   annotated  by  the   DSO  Office,  "Holdover
+        authorized  for  ___________   night       ____________
+        (date)."
+ 
+        In each of its tenders, claimant inserted a charge per truck
+   for  weekend  holdover   charges,  and  a  charge per  truck  for
+   overnight  holiday holdover charges.  Payment of these charges is
+   not in  dispute.  In  each of  its tenders,  claimant inserted  a
+   charge of $100 per night for weekday holdover.  The issue in this
+   case is this charge for weekday holdover. 
+ 
+   Performance
+ 
+        Pursuant to the terms  of the tenders, FLNI  began providing
+   services  from  each  origin  point  on January  2,  1995.    The
+   Government  routinely  paid  the  weekend  and  holiday  holdover
+   charges as required by Items 29.1 (Weekends) and 29.2 (Holiday).
+ 
+        Claimant states:
+ 
+             The  Government  was  also   fully  aware  of  the
+        applicability of Item 29.3, and the requirement that it
+        pay weekday  holdover charges  whenever the  Government
+        required delivery the  next day following pick-up.   In
+        this regard, we  have attached Exhibits . .  . relating
+        to  a shipment that FLNI picked up on January 3, 1995 .
+        . .  at DSO Los  Angeles, 375 South Cypress  Street, La
+        Habra . . . to be delivered on January 4, 1995 . . . at
+        Commissary Store, Building 521, Los Angeles AFS. . .  .
+        This shipment  involved a movement of  approximately 35
+ 
+        miles, that  FLNI was able  to deliver the same  day as
+        the pick up.  Nonetheless, as required by  the Delivery
+        Schedule, FLNI delivered the shipment the next day.
+ 
+             The Government  initially failed  to annotate  GBL
+        No. G-2,629,933 . . .  for the holdover.  On January 5,
+        1995, the Government issued a  Corrective Notice . .  .
+        that states  in Item  14  that "DSO  failed to  include
+        service  charge (weekday  Holdover)" on  the  GBL.   On
+        January 7, 1995,  FLNI issued its freight  bill for the
+        shipment and included a $100.00 weekday holdover charge
+        . . . . The Government paid the holdover charge.
+ 
+             We have also included GBL  No. G-2,629,991 . . . .
+        This  GBL involved a  shipment picked-up on  January 9,
+        1995  and  delivered  the  next  day  pursuant  to  the
+        Delivery  Schedule.    The GBL  reflected  the  weekday
+        holdover charge.  FLNI's invoice  included the  weekday
+        holdover charge . . . which the Government paid.
+ 
+             For  reasons  unknown  to  FLNI,  the   Government
+        thereafter only paid FLNI weekday holdover charges on a
+        sporadic basis.  Consequently, the Government failed to
+        pay  weekday  holdover  charges   on  more  than  3,000
+        shipments  transported by  FLNI.   These  shipments are
+        identified by Government Bill of Lading ("GBL") numbers
+        on Exhibit  20.  The shipments identified in Exhibit 20
+        are those shipments  which FLNI delivered the  next day
+        following pick-up at the  Government's request, but  on
+        which  the  Government  failed  to  pay the  applicable
+        holdover charge pursuant to Item 29.3.
+ 
+   Claims
+ 
+        The Claim Relating to Shipments in 1995 and 1996
+ 
+        On  or about  February  24,  1997, FLNI  filed  a claim  for
+   weekday holdover charges for the period  January 1, 1995, through
+   December 31, 1996, with the Defense Logistics Agency (DLA), DPSC,
+   in  Philadelphia,  Pennsylvania  (the  1995/96  Claim).    Dwight
+   Magness,  the  President  of FLNI,  certified  the  1995/96 Claim
+   pursuant   to   41   U.S.C.      605.[foot #] 2      The  1995/96
+   Claim  involved 1,026 shipments  in 1995  and 1,064  shipments in
+   1996.  DPSC referred the 1995/96 Claim to the Headquarters of the
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2   This Board does not have jurisdiction over this
+   matter pursuant to the Contract Disputes Act, but rather pursuant
+   to our review function set forth in 41 CFR 101-41.701  (1997) and
+   48 CFR pt. 6103.   Although this former regulation  refers to the
+   Comptroller General, the  review function was transferred  to the
+   Board pursuant to the General Accounting Office Act of 1996, Pub.
+   L.  No.  104-316,    202(o),  110  Stat.  3826, 3844  (1996)  and
+   Delegation by Acting GSA Administrator (July 17, 1996). 
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   Military Traffic Management  Command - Western Area  (MTMC) on or
+   about February 26, 1997.  FLNI  provided MTMC copies of every GBL
+   involved in the 1995/96 Claim.
+ 
+ 
+        On  May 14,  1997, MTMC  informed FLNI  that it  intended to
+   interpret Item 29.3  in accordance with a 1996  opinion letter of
+   the  General Services  Administration s Office  of Transportation
+   Audits   (OTA)[foot #] 3   regarding  holdover   charges.     The
+   OTA's  opinion letter stated  that weekday holdover  charges were
+   due when shipments  were heldover for delivery  outside the scope
+   of "Delivery Schedules."
+ 
+        By letters  dated June 25,  and July 14, 1997,  MTMC advised
+   FLNI that it was entitled  to weekday holdover charges of $25,900
+   for 1995 and $29,100 for 1996.  MTMC identified the 259 (of 1026)
+   shipments  in 1995  and the 291  (of 1064)  shipments in  1996 on
+   which it determined holdover charges should have been paid.
+ 
+        By letter dated August 12,  1997, FLNI asked MTMC to forward
+   the  1995/96 Claim to  the General Services  Administration (GSA)
+   for determination.  MTMC informed FLNI that it was forwarding the
+   1995/96  Claim to the  GSA on August  26, 1997.   By letter dated
+   August 26, 1997,  MTMC informed FLNI that it  was withdrawing its
+   offer to  pay $25,900 for  1995 holdover charges and  $29,100 for
+   1996 holdover charges. 
+ 
+        On March  16, 1998,  OTA issued a  decision with  which this
+   case  is concerned  (the  OTA's Decision).    The OTA's  Decision
+   states, in  part "[W]e  agree with the  position of  the Military
+   Traffic Management  Command, Western  Area, outlined  to Mr.  and
+   Mrs. Magness, Fleet Lines, Inc., last year.  On the vast majority
+   of the shipments  involved, the shipping activity did not request
+   or authorize  holdover charges  and the  carrier did  not deliver
+   outside its regular delivery schedule. We have started to process
+   all of the involved claims and in those instances where holdovers
+   was [sic] requested,  those charges will be allowed.    The OTA's
+   Decision  also noted that  FLNI could appeal to  the GSA Board of
+   Contract Appeals or take appropriate legal action.
+ 
+        The Claim Relating to Shipments  in 1997 and Issuance of Six
+   Settlement Certificates
+ 
+        On April 23,  1998, FLNI filed an additional  claim with the
+   OTA for weekday holdover charges  for the period January 1, 1997,
+   to December 31, 1997, in the amount of $109,000 (the 1997 Claim).
+   Mr.  Magness, the  President of  FLNI, certified  the 1997  Claim
+   pursuant  to 41  U.S.C.    605.   The  1997  Claim involves  1090
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 3    Although  we refer  to OTA  in  this decision,
+   following  an internal  reorganization    GSA  now  performs  its
+   transportation audit functions  through its Transportation Audits
+   Division, which  is a  part of the  Office of  Transportation and
+   Property Management.  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   shipments, and FLNI provided the  OTA a copy of the  GBL relevant
+   to each shipment.   Like the 1995/96 Claim,  the 1997 Claim  also
+   turns on the interpretation of Item 29.3.
+ 
+ 
+        By  letter dated May 28,  1998, the OTA acknowledged receipt
+   of the 1997 Claim, and, in reliance on the OTA's Decision, denied
+   the 1997  Claim.  The OTA also stated  that its auditors had been
+   instructed "to  issue denials on  two claims from each  of" 1995,
+   1996 and  1997 "and can be used as  the basis of your claims with
+   the  GSA  Board  of  Contract  Appeals."  The  OTA  attached  six
+   settlement certificates to its May 28, 1998, letter.
+ 
+        The settlement  certificates  for  1995  concern  OTA  claim
+   number  G5750987,  GBL  number  5750987,  and  FLNI  bill  number
+   7120OTA; and claim number G5759217, GBL  number 5759217, and FLNI
+   bill number 7883.
+ 
+        The  settlement  certificates  for  1996  concern  OTA claim
+   number G5809424, GBL  number 5809424, and FLNI bill number 11743;
+   and OTA claim number G5801136, GBL  number 5801136, and FLNI bill
+   number 10871.
+ 
+        The  settlement  certificates  for  1997  concern OTA  claim
+   number G5834218, GBL  number  5834218, and FLNI bill number 1339,
+   and OTA claim number G5820287,  GBL number 5820287, and FLNI bill
+   number 12416.
+ 
+        OTA  states two reasons for denying weekday holdover charges
+   in each settlement certificate.   First, OTA states that there is
+   "no  indication that  holdover  was  requested  by  the  shipping
+   installation."  This reflects part  of the rationale set forth in
+   the OTA's Decision.  The settlement certificates are not based on
+   the  other rationale  expressed  in  that  decision  --  delivery
+   outside the  delivery  schedules.   Second, the  OTA states  that
+   "Holdover is  not allowed when the carrier  delivers one shipment
+   prior to the requested date  for his convenience and delivers the
+   remaining shipment the next day."
+ 
+   OTA has  refused to authorize  payment of the $55,000  in weekday
+   holdover charges previously  approved by MTMC for  shipments made
+   in 1995 and 1996.
+ 
+                               Discussion
+ 
+        FLNI  asks  us  to  review  OTA's decision.    We  have  the
+   authority  to review  only  OTA's  decision  concerning  the  six
+   specific claims that  OTA denied.   According to the  regulations
+   governing  claims for transportation  services, claimants may ask
+   us to review  final administrative actions taken by OTA.   41 CFR
+   101-41.701 (1997).   Because  OTA has  not taken any final action
+   upon the remainder of claimant's  claims, we must dismiss them as
+   having  been prematurely  filed.   Tri-State  Motor Transit  Co.,
+   GSBCA 13896-RATE, 97-1 BCA    28,873.
+ 
+ 
+        At issue is the interpretation of Item 29.3 of the tender:
+ 
+        Item 29.3 Holdover Charges (Weekdays)
+ 
+        Trucks  heldover  night (Monday  Night,  Tuesday Night,
+        Wednesday  Night, Thursday  Night, excluding  holidays,
+        (see Item 29.2)) during the  week for delivery the next
+        day will be charged at $_______ per truck.  GBL will be
+        annotated by  the DSO Office, "Holdover  authorized for
+        _____________ night  _____________ (date)."
+    
+        FLNI asserts that  when it calculated its  freight rates, it
+   thought   that  DoD  would  pay  holdover  charges in addition to
+   freight  rates, and so did  not include in  its rates any amounts
+   for  holdover charges.  FLNI  contends that the plain meaning  of
+   Item  29.3 is  that  the  carrier is  entitled  to  charge for  a
+   holdover whenever its  truck is held  overnight for delivery  the
+   next day  following pick up.   OTA contends  that a  carrier must
+   satisfy three conditions to charge weekday holdover charges, even
+   though those  conditions are  not contained in  Item 29.3  or any
+   other part of the  tenders.  For example,  OTA contends that  the
+   carrier may  only charge  for a holdover  when delivery  was made
+   outside the delivery schedules.  However, FLNI asserts that  Item
+   29.3  does not  define a  holdover as  requiring a  delivery made
+   outside the  delivery schedules, and  in fact makes  no reference
+   whatsoever to the delivery schedules.
+    
+   Plain Language
+ 
+        According  to claimant,  either the  plain  language of  the
+   tender clearly provides  that it is entitled to  be paid holdover
+   charges whenever one of  its trucks was in use overnight, or else
+   the tender language is latently ambiguous and should be construed
+   against DoD as the drafter  of the tender.  These same  arguments
+   were made with  regard to identical language in  other tenders by
+   another claimant in the case of Inter-Coastal Xpress, Inc., GSBCA
+   14576-RATE, 99-1 BCA   30,370.   In that decision, after detailed
+   analysis, this Board found the language to be ambiguous.  
+ 
+        In Inter-Coastal Xpress and the instant case,  the record is
+   clear  that  there   was  no  industry  accepted   definition  of
+   "holdover."  Claimant's attorney's submission in the instant case
+   states that claimant: 
+ 
+        is not aware  of the term  holdover  being  used in the
+        context  of  commercial  transportation.   Moreover,  a
+        review  of the  case law  has not  turned up  any cases
+        specifically  dealing with holdovers.  It does not seem
+        to  be  a  term  of  art.  Instead,   its  meaning  and
+        application  would  seem  to  depend  on  the  specific
+        context of its use in the contract in which it appears.
+ 
+        Claimant in  the instant case  asserts that it has  seen the
+   term  "holdover"  used  before   in  the  context  of  perishable
+   subsistence  tenders drafted  by  the Government.   FLNI  has not
+   located  any previous tenders  that covered weekday,  as distinct
+   from weekend and holiday, holdovers.   Claimant states further:
+ 
+        [T]he plain meaning of Item 29.3 is that the carrier is
+        entitled to charge for a holdover whenever its truck is
+        heldover   [sic]  night  for   delivery  the  next  day
+        following  pick-up.  OTA  contends that a  carrier must
+        satisfy  three  conditions to  charge  weekday holdover
+        charges, even though those conditions are not contained
+        in Item 29.3  or any  other part of  the Tenders.   For
+        example, the  OTA contends  that the  carrier may  only
+        charge  for a holdover  when delivery was  made outside
+        the  Delivery Schedules.   However, Item 29.3  does not
+        define  a holdover as requiring a delivery made outside
+        the Delivery  Schedules.  In  fact, Item 29.3  makes no
+        reference whatsoever to the Delivery Schedules.
+ 
+        The Board considered  this same  argument in  Inter-Coastal,
+   and found that  it could not conclude that  the plain language of
+   the tender provides that the claimant was entitled  to   be  paid
+   holdover charges whenever one of its trucks was in use overnight.
+   99-1 BCA at 150,144. 
+ 
+   Ambiguous Language
+    
+           If  the use  of  the  word "holdover"  in  the tender  is
+   susceptible of two  different interpretations, both of  which are
+   reasonable  and consistent with the remainder of the tender, then
+   the language is ambiguous.  DoD reads the tender  as meaning that
+   a holdover occurred  only if one of claimant's  trucks was in use
+   for  a night  in addition  to  a night  that was  built  into the
+   delivery schedule.   Claimant reads the tender as  meaning that a
+   holdover occurred any  time that  its truck was in use overnight,
+   including  a night  that was  built into  the delivery  schedule.
+   Again, in  Inter-Coastal, we found  both of these readings  to be
+   reasonable.  Id.
+    
+        FLNI  also makes an identical  argument made by the claimant
+   in Inter-Coastal with regard to a subsequent clarification by DoD
+   in a  rate publication in 1995.  We  also found  in Inter-Coastal
+   that this argument lacked merit.  99-1 BCA at 150,144-45.
+    
+        In finding that the language of the tender was ambiguous and
+   subject  to two reasonable  interpretations, we stated  in Inter-
+   Coastal:
+ 
+        We also   agree  with  [claimant]  that the  tender can
+        reasonably be  read to say  that "holdover"   means any
+        overnight use, including a night  that was built   into
+        the  delivery schedule.   First, Item  3 of  the tender
+        makes it clear that  a carrier was supposed to  include
+ 
+        an amount  to compensate for  free time in  its freight
+        rates.  Although DoD could have  stated just as clearly
+        that the  carrier was also  supposed to include  in its
+        rates an  amount to compensate  for the use of  a truck
+        overnight,  the tender does not  say this.  Because the
+        tender  states that rates  were supposed to  include an
+        amount  for free  time, and  does   not state  that the
+        rates were supposed to include an amount for the use of
+        a truck overnight, a carrier could  reasonably conclude
+        that DoD would pay for the use of a truck  overnight in
+        addition to paying the freight rates.  Second, holdover
+        charges are stated  as a charge per truck.   This makes
+        holdover  charges appear  to be similar  to accessorial
+        charges,  which are also stated  as a charge per truck,
+        and detention charges, which are stated as a charge per
+        hour  per truck,  with  a  maximum  charge  per  truck.
+        Accessorial charges and detention  charges were paid in
+        addition to the freight  rates, and so a carrier  could
+        reasonably conclude   that holdover charges  would also
+        be paid in addition to  the freight rates.  Third, Item
+        29.3 of  the tender says  that DoD will pay  a holdover
+        charge  for trucks "heldover  [sic] night .  . . during
+        the week  for  delivery  the next  day."    This  could
+        reasonably  be  read to  mean  that  DoD would pay  the
+        charge, even if the tender's schedule contemplated  the
+        use of  a truck overnight.
+ 
+   99-1 BCA at 150,145.
+ 
+        In Inter-Coastal,  as in  the instant  case, the  claimant's
+   interpretation of the tender was shared by one of the DSOs, which
+   paid holdover charges  for any overnight  use, including a  night
+   that was built into the  delivery schedule, until it was directed
+   not to  do so.   We found  that this  was additional  evidence to
+   support the argument that the language was ambiguous.  
+   Claimant's Reliance on its Interpretation
+ 
+        There is no  ambiguity that is  apparent on the face  of the
+   tender, and  so we will  construe the ambiguous  language against
+   DoD as  the drafter  of the tender,  provided that   claimant can
+   establish that it  actually relied upon its interpretation of the
+   tender's language when  it constructed and submitted  its freight
+   rates.  Fruin-Colnon   Corp.  v.  United   States, 912 F.2d 1426,
+   1430 (Fed. Cir. 1990).   
+ 
+        The  Board   requested  claimant  to   provide  evidence  to
+   establish that at  the time it constructed its  freight rates and
+   submitted its tenders, it interpreted the tender language to mean
+   that DoD would pay holdover  charges in addition to freight rates
+   for shipments that were listed on the delivery schedules as being
+   picked up one day and delivered the next day.  In response to our
+   question, FLNI has supplied a  narrative from its attorney with a
+   verification  from   its  president.     Claimant  has  submitted
+   sufficient  information to  us to  establish that it  relied upon
+   what  it now  advances as  a  reasonable   interpretation of  the
+   tender.  We   asked   claimant  to   provide  whatever   evidence
+   establishes that,  at the time  it constructed its  freight rates
+   and  submitted its tenders, it interpreted the tender language to
+   say that  DoD would pay  holdover charges in addition  to freight
+   rates for shipments  that were listed on the   delivery schedules
+   as being picked up one day and delivered the next day. 
+ 
+ 
+        Claimant  described its  construction  of  its  rates  as  a
+   process in  which its president  reviewed the contract  terms and
+   requirements  when  he  first  received  the tender  forms.    By
+   analyzing the schedules provided by the Government, he determined
+   that the Government was requiring substantial waiting time before
+   the carrier  could make  delivery.  He  also recognized  that the
+   Government had added Item 29.3 for weekday holdover charges -- an
+   item that had not existed in the previous contract period.  Based
+   on  the requirement  of Item  29.3, he  provided a  linehaul rate
+   based on mileage  in Item 28 and  the weekday holdover  charge in
+   Item 29.3 to cover the time  factor involved in next day delivery
+   on weekdays.
+ 
+   GBL Annotation
+ 
+        Claimant has the burden of  establishing that it is entitled
+   to  be  paid holdover  charges.    Rule  301(b).   While  it  has
+   submitted sufficient information to show that it relied upon  its
+   interpretation at the time it  constructed its rates, there is an
+   additional issue concerning the requirement in Item 29.3 that the
+   GBL  be annotated with  language authorizing payment  of holdover
+   charges.
+    
+        DoD and   GSA contend that we should  deny claimant's claims
+   because Item 29.3  of the tender provided that  the GBLs would be
+   annotated by the DSO when a holdover was authorized, and the GBLs
+   at  issue here do not contain any  such annotation.  We addressed
+   this same  issue in Inter-Coastal.    We  held in that  case that
+   even  if  the   claimant  had  proved  that  it   relied  on  its
+   understanding  of the ambiguous tender language when it submitted
+   its rates, the claim  would fail for a separate  reason: the GBLs
+   were not annotated to state that a holdover charge would be paid,
+   and notwithstanding  the  carrier s  knowledge  of  the  agency s
+   interpretation of the  language, the carrier agreed  to transport
+   goods under those  GBLs.  99-1 BCA  at 150,146.    In the instant
+   case, at first some  holdover charges were  paid and in June  and
+   July  1997 the  carrier  was  advised  that  additional  holdover
+   charges which  it claimed  were due would  be paid.   It  was not
+   until the carrier received  MTMC s letter dated August  26, 1997,
+   retracting  the prior advice that holdover  charges would be paid
+   that  the carrier  could  have  been aware  that  the agency  had
+   reached a definitive position interpreting the tender language to
+   mean the holdover  charges would not be paid even though the GBLs
+   required the  use of the  trucks overnight.   Until that  date in
+   August 1997, when FLNI became  aware of DoD s position, under the
+   carrier s  reasonable interpretation  of the  tender language,  a
+   GBL s  requirement  that shipment  involve  the  use of  a  truck
+   overnight constituted  a demand  for holdover  and subjected  the
+   agency to a charge for that service.  The fact that a GBL did not
+   include  a specific annotation for holdover was immaterial, since
+   holdover was  not an  optional service  for which the  Government
+   would pay  only if it  was both requested  and performed.   After
+   FLNI became aware of DoD s position, by  accepting shipments even
+   though the GBLs  were not annotated to state that  a holdover was
+   requested and  would be paid, the rule expressed in Inter-Coastal
+   would bar recovery.
+ 
+ 
+                                Decision
+ 
+        FLNI s  claims are granted  as to any  shipments transported
+   prior to  August  26, 1997  which  were the  subject of  the  six
+   specific claims denied by OTA.
+ 
+                                      _________________________
+                                      ALLAN H. GOODMAN
+                                      Board Judge

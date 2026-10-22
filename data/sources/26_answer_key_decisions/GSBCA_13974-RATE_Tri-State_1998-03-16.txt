@@ -1,0 +1,168 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+                           __________________
+                             March 16, 1998
+                           __________________
+ 
+                            GSBCA 13974-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+        Robert  D.  Norcom, Auditor,  Tri-State  Motor  Transit Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey  J.  Thurston,  Director, Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James  F. Quinn,  Staff Judge  Advocate, Headquarters,
+   Military  Traffic Management  Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense. 
+ 
+   NEILL, Board Judge.
+ 
+        By  letter dated September 14, 1995, Tri-State Motor Transit
+   Company  (Tri-State)  appealed to  the General  Accounting Office
+   (GAO) a  series  of decisions  of  the Office  of  Transportation
+   Audits  (OTA) of the General Services  Administration (GSA).  The
+   decisions  concerned   supplemental  invoices   regarding  twelve
+   different transactions covered  by an equal number  of Government
+   bills of lading (GBLs).  
+ 
+        In  presenting its appeal  to GAO, Tri-State  noted that the
+   issue involved in each of  the supplemental invoices was the same
+   as  that addressed  in an  earlier decision  of the  GAO, namely,
+   Tri-State  Motor Transit Co.,  B-255630, et al.  (Aug. 18, 1994).
+   The carrier  indicated that it  continued to  disagree with  this
+   decision  and  planned either  to request  GAO to  reconsider the
+   decision or else to challenge it in a judicial forum.   By letter
+   dated November 24, 1995, GAO acknowledged Tri-State's request for
+   review  and advised  that, for  future  correspondence, the  case
+   number assigned to these claims would be B-270377.  Nevertheless,
+   GAO  explained that  it would  defer further  review of  the case
+   until an actual  request for reconsideration  of its decision  of
+   August 18, 1994 was filed. 
+        The  following  year,   the  responsibility  for   reviewing
+   decisions  of  the  OTA  was  transferred  by  statute  from  the
+   Comptroller  General to  the Administrator  of General  Services.
+   Pub. L.  No. 104-316,   202(o)(2),  110 Stat. 3826,  3844 (1996).
+   By delegation, this Board now  exercises this review function  on
+   behalf of the Administrator in transportation rate cases.  
+ 
+        In  October 1996, Tri-State  advised the Clerk  of the Board
+   that no decision had ever been issued in GAO case number B-270377
+   and  that no  notice had  been  provided that  the case  had been
+   transferred with others to the Board.  Tri-State pointed out that
+   the issue presented  in that case was the same as that in another
+   case  already before the  Board, GSBCA 13763-RATE,  and requested
+   that the Board consider the claims presented in B-270377 as well.
+ 
+        In response to  this request, the Board  sought and received
+   from GAO  the case file  on B-270377.   The case was  docketed as
+   GSBCA 13974-RATE and  copies of the GAO file were provided to OTA
+   and the Military Traffic Management Command (MTMC) for comment.
+ 
+        From  the  comments   submitted  by  the  parties   to  this
+   proceeding, it  is clear that  the basic issue presented  in this
+   case is, in fact, the same as that presented in GSBCA 13763-RATE.
+   That issue is   whether  a change  made on October  19, 1992,  in
+   MTMC's Freight  Traffic Rules  Publication 1A  (MFTRP 1A)  can be
+   applied  retroactively.  This  particular change provided  that a
+   FAK  (Freight All  Kinds)  rate  was not  to  be applied  to  any
+   commodities to  which a  Department of  Defense unique  commodity
+   (DODUC) code had been assigned by MTMC headquarters.  Tri-State's
+   position on this  issue, as argued in GSBCA  13763-RATE, was that
+   the change in MFTRP 1A  could be applied retroactively because it
+   represented nothing more than the recognition of a policy already
+   well supported  by  provisions contained  in tender  instructions
+   published several years  before by MTMC.  MTMC  and OTA disagreed
+   with this  position and, in doing  so, relied heavily upon  a GAO
+   decision  stating  that  the change  could  not  be retroactively
+   applied.  Tri-State Motor Transit Co., B-255630, et al. (Aug. 18,
+   1994).  
+ 
+        Tri-State has  presented the following  supplemental payment
+   claims:
+                 GBL                  CLAIM        
+ 
+              C-9,459,826             $2440.70
+              E-2,037,369              2181.15
+              C-8,760,347               586.88
+              E-0,869,920              2120.93
+              E-2,334,486               335.75
+              E-3,057,932               580.48
+              E-3,910,621               149.20
+              E-3,911,449               669.84
+              E-2,349,975               164.10
+              E-2,801,298               143.30
+              E-1,035,820                90.00
+              E-2,276,050              1045.16
+                                     _________
+                                    $10,507.49
+ 
+        After its review of the documentation provided in support of
+   the  above listed requests  for supplemental payment,  OTA issued
+   settlement certificates denying  each of  the individual  claims.
+   Although  OTA's  auditors  presumably   reviewed  the  supporting
+   documentation in  its entirety,  each certificate  lists but  one
+   reason for disallowing  the claim in question.   The certificates
+   read:  
+        Your claim for [amount of claim] . . .  as an allowance
+        for   transportation   furnished  the   United   States
+        Government   under  document   reference  number   [GBL
+        number],  has  been  examined and  disallowed  for  the
+        following reason(s):
+        Shipment  is  to be  rated  as  FAK per  GAO  Decisions
+        B-255630,  B-256081, and B-256873.  Change in MFTRP 1-A
+        cannot apply retroactively to shipments moving prior to
+        October 19, 1992.  
+        In this case, OTA has been afforded the opportunity to state
+   any  and all reasons it might have to deny Tri-State's claims for
+   supplemental payment.   This is essentially the  same opportunity
+   which OTA  had some  time ago  when it first  audited these  same
+   claims.   Its  initial position  regarding  the claims,  however,
+   remains unchanged.  In comments submitted, OTA continues to offer
+   no reason in support of its decision to disallow the claims other
+   than that given in each of the original settlement certificates. 
+ 
+ 
+ 
+                               Discussion
+        Since  this  case was  docketed and  briefed, the  Board has
+   decided GSBCA 13763-RATE, which, as claimant contended,  involved
+   the same issue presented here.  We concluded that the change made
+   on October 19,  1992, in MFTRP 1A could  be applied retroactively
+   and that, even for shipments prior to that date, a FAK rate   was
+   not to be  applied to any commodities  to which a DODUC  code had
+   already been assigned by MTMC  headquarters.  We agreed with Tri-
+   State that the  change could be applied retroactively  because it
+   represented nothing more than the recognition of a policy already
+   well supported by provisions contained in the tender instructions
+   published several years before by  MTMC.  Tri-State Motor Transit
+   Co., GSBCA 13763-RATE, 97-2 BCA   29,098.
+ 
+        In our decision of GSBCA 13763-RATE we discussed briefly the
+   GAO decision which OTA continues to  rely on in this case as  the
+   sole reason  for disallowing the  claims listed above.   We noted
+   that  the GAO decision  was a brief  one and did  not address the
+   specific provisions of MTMC s tender instructions which, in fact,
+   led  the  Board to  a conclusion  different from  that previously
+   reached by GAO.   We  noted that  we were  not bound  by the  GAO
+   decision  and in  this  case chose  not  to follow  it.   Id.  at
+   144,826.     
+ 
+        It should  come as  no surprise,  therefore, that  we reject
+   OTA's  continued  reliance  on the  precedent  established  in B-
+   255630, et al. as the  sole reason for disallowing the  claims in
+   this case.  In the absence  of any other stated objection to  the
+   claims  in  question,   therefore,  we  direct  OTA   to  reissue
+   settlement certificates allowing each of them. 
+ 
+ 
+                                           _____________________
+                                           EDWIN B. NEILL
+                                           Board Judge 

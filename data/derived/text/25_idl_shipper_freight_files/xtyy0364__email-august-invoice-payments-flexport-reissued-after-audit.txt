@@ -1,0 +1,459 @@
+  From:                  Michal Gryglewski
+  To:                    Tim Danaher
+  CC:                    Diana Jajeh
+  Sent:                  9/14/2019 3:34:19 AM
+  Subject:               Re: August invoice payments
+
+
+
+
+ Thanks, not for Flexport.
+ He's still approving bank transfers for Spain, but very timely.
+
+ On Fri, 13 Sep 2019 at 23:27, Tim Danaher <tim@juul.com wrote:
+
+ Thanks, anything pending Alberto H that we need to address?
+
+
+
+
+ From: Michal Gryglewski michal.gryglewski@juul.com>
+ Sent: Friday, September 13, 2019 5:25 AM
+ To: Tim Danaher <tim@juul.com>
+ Cc: Diana Jajeh <diana.jajeh@juul.com>
+ Subject: Fwd: August invoice payments
+
+
+
+ Hi Tim,
+
+
+
+ hope you're well.
+
+ Quick update on UK HoldCo open invoices. Grant had similar questions the other day.
+
+
+
+ We've received in August a significant amount (571) of Flexport invoices that have been re-issued to EMEA.
+
+ Unfortunately some of them dating back as far as April or May, when Global Supply Chain ordered an audit of
+ Flexport charges.
+
+ These are getting prioritized and processed now. Status, as of 31.08 below.
+
+
+
+ Please let me know if you have any questions.
+
+
+
+ Michal.
+
+
+
+                                                                   Count of      Sum of
+ Row Labels
+
+CONFIDENTIAL                                                                                           JL145001212
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+                                                                  Amount            Amount
+ Less than 30 days                                                           255,00 6 722 078,64
+ Over 30 days                                                                  1,00      1 350,27
+ Over 60 days                                                                 15,00    621 269,30
+ Over 90 days                                                                 32,00    857 924,97
+ Not due                                                                     268,00 5 257 057,88
+ Grand Total                                                                 571,00 13 459 681,06
+
+ Row Labels                                                   Sum of Amount
+ Authorized for payment                                              41 334,19
+ Not visible on the Flexport's site                                  24 984,39
+ Pending approval Carlo N.                                      10 227 347,88
+ Pending approval Susanne L.                                     1 683 071,22
+ Rejected - air freight cost too high                                37 453,98
+ Rejected - origin surcharge, pick up and delivery incorrect.        41 465,94
+ Rejected - storage costs removed by Flexport                           522,49
+ Stampli Error                                                       58 076,98
+ Voided                                                            558 774,45
+ Pending approval Alberto A.                                       488 118,75
+ Pending authorization                                             237 716,78
+ Pending approval Handam S.                                          60 814,01
+ Grand Total                                                    13 459 681,06
+
+
+
+
+          Forwarded message
+ From: Paul Coccovillo <pcoccovilloAuul.com>
+ Date: Wed, Sep 11, 2019 at 9:29 PM
+ Subject: Re: August invoice payments
+ To: Michal Gryglewski <michal.gryglewskiAuul.corn>
+ Cc: Diana Jajeh <diana.jajeh@juul.corn>, Susanne Lehrfeld <susanne.lehrfeld@juul.corn , Grant Winterton
+ <grantAuul.com , Caroline Gardner <caroline@juul.com>
+
+
+
+ Thanks Michael,
+
+
+
+ For everyone's benefit let me just summarize a few points of background and ongoing efforts underway on the freight
+ process.
+
+
+
+ In the beginning part of the year we were having significant vendor compliance issues with Flexport. They were
+ declaring incorrect entities on import documentation and rates were questionable. This led to Logistics putting a full
+ stop to all invoices (both being processed and paid) until a full 100% audit was completed. The COO of Flexport and
+ his senior staff was also brought in for a relationship discussion that resulted in us being issued an entirely new
+ program management team.
+
+
+
+
+CONFIDENTIAL                                                                                                JL145001213
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+ The 100% audit took roughly 2 months to complete, and resulted in a very large backlog that was started to be passed
+ over to us last month. This is why there has been a very large number of invoices landing on approvers for the past
+ 6-8 weeks as that backlog is still unwinding its way through the Stampli approval process.
+
+
+
+ From a process transformation perspective Nelson's team is in process of rolling out a freight bill audit and payment
+ company (CTSI) to outsource the rate validation. We're testing this flow with 1 US carrier now and we're seeing
+ about a 70% automated approval rate / 30% requires manual review sign off. There's a decision meeting next week to
+ decide if we're at a stable enough status to incorporate Flexport onto it.
+
+
+
+ In terms of spend review, we have a weekly checkpoint with Flexport over their aging to ensure they're current and
+ we're not at risk of any service interruptions. As of this week we were approximately 85% current / 15% past due
+ with them, and they have visibility to the path to get them fully current.
+
+
+
+ Just FYI, the dollars for UK spending seem veryarge in the history because Flexport is also our customs broker and
+ those numbers include import VAT, which is 21% of product cost.
+
+
+
+
+ On Wed, Sep 11, 2019, 11:52 AM Michal Gryglewski michal.gryglewski@juul.com wrote:
+
+ +Paul Coccovillo
+
+
+
+ Hi Grant,
+
+
+
+ Paul and his team are on top of this. It has been discussed and agreed with Flexport to correct and re-issue a
+ significant batch of invoices in July.
+
+ Hope this helps.
+
+
+
+ Michal.
+
+
+
+
+ On Wed, Sep 11, 2019 at 7:31 PM Diana Jajeh <diana.jajeh@juul.com wrote:
+
+ Susanne,
+
+
+
+CONFIDENTIAL                                                                                                 JL145001214
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+ I know there is a lot of work being done by the team and this must be so onerous on the logistics team. Much
+ appreciated.
+
+ I want to offer members of my Process Transformation team to help look at the process and try to get to the root
+ cause issues to avoid future audits and rework on your team and other teams.
+
+
+
+ Happy to help, let me know.
+
+ Thanks
+
+
+
+
+ Diana Jajeh
+
+ VP - Global Finance Operations & Business Transformation
+
+
+ photo juui labs sr2.2 zpsb4r2zPvflipg,
+
+
+                         I Hi             Hi- Wi lk   '"'"" 'n11t9i i i i   1 rNr ,              , et t11_ Hi (   , i recipient,
+
+
+
+
+ On Wed, Sep 11, 2019 at 9:26 AM Susanne Lehrfeld <susanne.lehrfeld@juul.com wrote:
+
+ The invoices include freight in, custom charges and VAT
+
+
+
+ Susanne Lehrfeld, Director Logistics EMEA
+ TuulLabs Gertigstrasse 14a, 22303 Hamburg,
+
+
+
+
+ Von: Grant Winterton grant@juul.com>
+ Datum: Mittwoch, 11. September 2019 um 18:08
+ An: Susanne Lehrfeld <susanne.lehrfeld@juul.corn>
+ Cc: Caroline Gardner <caroline@juul.com>, Diana Jajeh <diana.jajeh@juul.com> Michal Gryglewski
+ <michal.gryglewski@juul.corn>
+ Betreff: Re: August invoice payments
+
+
+
+ $10 m must be our entire payments this year ?
+
+
+
+
+CONFIDENTIAL                                                                                                      JL145001215
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+ On Wed, 11 Sep 2019 at 17:03, Susanne Lehrfeld <susanne.lehrfeld@juul.com wrote:
+
+ Yes, it is of Flexport invoices for freight in that have been re-issued and submitted to EMEA
+
+ They invoice by shipment and we have received over 200 invoices in bulk. . . so takes a while to work through every
+ single one of them.
+
+ Gert is running a project to manage the freight audit and payment process across all regions with CTSI to improve
+ that process.
+
+
+
+ Susanne Lehrfeld, Director Logistics EMEA
+
+
+
+
+ Susanne Lehrfeld, Director Logistics EMEA
+ Mut Labs Gertigstrasse 14a, 22303 Hamburg
+
+
+
+
+ Von: Grant Winterton grant@juul.com>
+ Datum: Mittwoch, 11. September 2019 um 17:42
+ An: Michal Gryglewski <michal.gryglewski@juul.corn>, Susanne Lehrfeld <susanne.lehrfeld@juul.corn>
+ Cc: Caroline Gardner <caroline@juul.com>, Diana Jajeh <diana.jajeh@juul.com>
+ Betreff: Re: August invoice payments
+
+
+
+ thanks for the progress and clear tracking
+
+
+
+ over $10M of invoices sit with the logistics team? do I understand right?
+
+
+
+ Regard s
+
+
+
+
+ Grant Winterton, President EMEA
+ Mut Labs 560 20th Street, San Francisco, CA 94107
+
+
+ Feller! Es wurde Lein Dateiname angegeben.
+
+
+                                                                                             ffi I   not -ill_    1 recipient,
+
+
+
+
+CONFIDENTIAL                                                                                                     JL145001216
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+ On Wed, Sep 11, 2019 at 2:51 PM Michal Gryglewski michal.gryglewski@juul.com wrote:
+
+ Dear Grant,
+
+
+
+ hope you are well.
+
+
+
+ I'd like to share with you August statistics on invoice payments, as well as progress we've achieved stabilising the
+ PTP process.
+
+
+
+ Current status
+
+ While volumes of invoices remained stable in August vs July, we have achieved a significant improvement in
+ making payments on time.
+
+ Over 57% of all payments were made to terms, an increase of 45% (20 percentage points) over July.
+
+
+
+                                           u.
+                                                             •                lool
+                                   ug'19                                                               ay'19
+                                                                             IIIoi
+ Paid on time           770           7    0     532        38,49%     270           34,01%     116    18,24%
+ Paid late              566          42,37%      850        61,51%     524           65,99%     520    81,76%
+            0-15 days     246          43,46%      308       36,24%     220           41,98%     183      35,19%
+           16-30 days     126          2126°0      169       19_88°0    122           23_28°0     72      2731°0
+           31-60 days       84         14,84%      193       22,71%     109           20,80%      17      21,92%
+           61-90 days       60         10_60°0       97      11_41°0     43            8_21°0     54      1038°0
+            >90 days          50        8,83%          83     9,76%      30            5,73%      27       5,19%
+ Total                  1336                     1382                  794                      636
+
+
+
+ As we continued to clean up old, aged items throughout August a significant amount (571) of Flexport invoices has
+ been re-issued and submitted to EMEA.
+
+ Unfortunately some of them dating back as far as April or May, when Global Supply Chain ordered an audit of
+ Flexport charges.
+
+ This has influenced the overall ageing for August. Otherwise, we'd have come out much cleaner in the 30+ days
+ bracket.
+
+ As of today we have 83 items >60days (45 Flexport to be reversed and 15 MK Group).
+
+ Please see below the Flexport status, as of 31.05:
+
+
+
+
+CONFIDENTIAL                                                                                                       JL145001217
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+                                                                 Count of          Sum of
+ Row Labels                                                      Amount            Amount
+ Less than 30 days                                                          255,00   6 722 078,64
+ Over 30 days                                                                 1,00        1 350,27
+ Over 60 days                                                                15,00     621 269,30
+ Over 90 days                                                                32,00     857 924,97
+ Not due                                                                    268,00   5 257 057,88
+ Grand Total                                                                571,00 13 459 681,06
+
+ Row Labels                                                   Sum of Amount
+ Authorized for payment                                              41 334,19
+ Not visible on the Flexport's site                                  24 984,39
+ Pending approval Carlo N.                                      10 227 347,88
+ Pending approval Susanne L.                                     1 683 071,22
+ Rejected - air freight cost too high                                37 453,98
+ Rejected - origin surcharge, pick up and delivery incorrect.        41 465,94
+ Rejected - storage costs removed by Flexport                           522,49
+ Stampli Error                                                       58 076,98
+ Voided                                                            558 774,45
+ Pending approval Alberto A.                                       488 118,75
+ Pending authorization                                             237 716,78
+ Pending approval Handam S.                                          60 814,01
+ Grand Total                                                    13 459 681,06
+
+
+
+
+ New Measure
+
+ As we look to measure the end-to-end PTP performance, we have now introduced a new KPI as below.
+
+ Avg time for invoice to be fully processed and paid to vendor was 23.5 days in EMEA in August.
+
+ This KPI shows the avg time to process an invoices, including setting up vendor account, raising PR/PO, approvals.
+
+
+
+
+ PL                         14,69
+
+ FR                         24_66
+
+ DE                         13,61
+
+ IT                         34A2
+
+ UKHo1dCo                   33,99
+
+ ES                         2524
+
+ UK                         24,38
+
+ CH                         24_82
+
+
+
+
+CONFIDENTIAL                                                                                              JL145001218
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+ IE                         22,78
+
+ PT                          622
+
+ BE                         35,33
+
+ NL                         28_71
+
+ CZ                         22,22
+
+ PLGBS                      1830
+
+ Average EMEA               23,46
+
+
+
+
+ Action plan & next steps
+
+ As most of the previous improvements are now in play, we are still working on several Concur set-up changes, as
+ well as new ACM functionality to send out automatic remainders to PO creators and approvers pending their
+ actions. This should hopefully improve timeliness of PO approvals as this part of the overall process suffers most
+ today.
+
+ New DoA matrix was finally implemented for EMEA as of end of August.
+
+      • ACM system limitations and improvements in play:
+
+           o AP ageing report refinement;
+           o block ability to create PRs in old HoldCo GBP;
+           o auto-approval of PRs when DoA is empty for a given category;
+           o "time to approve" in ACM - requested new report;
+           o Flexport catch-up and stabilisation;
+           o ACM to send out remittance advice to vendors;
+
+
+ Please do not hesitate to let me know should you need more details.
+
+
+ M ichal Gi-vr
+ I Ica,           dsiness Services
+
+
+                                                                 If l 117 re not the   tended   1ILe   please adl LSc fIt sonde. III Lediatek
+
+
+
+
+CONFIDENTIAL                                                                                                                            JL145001219
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/xtyy0364
+

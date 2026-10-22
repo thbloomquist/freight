@@ -1,0 +1,234 @@
+                  
+
+                  
+
+
+
+                                                  
+
+                            September 30, 1997
+                                                  
+
+
+           GSBCA 14169-RATE, 14170-RATE, 14171-RATE, 14172-RATE
+
+
+               In the Matters of TRI-STATE MOTOR TRANSIT CO.
+
+
+     John D. Bagileo of Bagileo, Silverberg and Goldman, L.L.P.,
+Washington, DC, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Colonel James F. Quinn, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army,
+Falls Church, VA, appearing for Department of Defense.
+
+DANIELS, Board Judge (Chairman).
+
+     In each of these four cases, Tri-State Motor Transit Co.
+claims that it is entitled to payments additional to those
+already made for transporting explosives for agencies of the
+United States Government.  Tri-State maintains that the amounts
+due for its services should be governed by its tariff rates,
+rather than rates it tendered to the Department of Defense (DoD)
+alone, where a civilian agency of the Government is responsible
+for the payments.
+
+     Each of the cases was initially filed with the General
+Accounting Office (GAO).  In mid-1996, the authority to review
+the General  Services Administrator's actions stemming from
+audits of bills presented by carriers or freight forwarders to
+Government agencies for transporting individuals or property for
+the Government was transferred from GAO to this Board.  C. I.
+Whitten Transfer Co., GSBCA 13911-RATE, 97-1 BCA  28,860, at
+143,986.  At that time, GAO had suspended proceedings in the
+cases, pending the outcome of litigation in the Court of Federal
+Claims regarding the issue presented here.
+
+     On April 22, 1997, Tri-State asked us to reopen the cases
+and render decisions in them.  Tri-State reported that it had
+determined that the issue had not been properly raised in the
+litigation pending in the Court of Federal Claims, since DoD had
+paid for all the shipments involved in that lawsuit.  Tri-State
+and the Military Traffic Management Command (MTMC), the Defense
+Department agency which sets rules governing the movement of that
+department's freight traffic by motor carrier, agree that the
+issue has been dismissed from the suit.  Because GAO never closed
+its files in these matters, and there is no reason to suspend
+proceedings further, we will address the claims on their merits.
+
+     The issue presented in these cases is identical to the one
+we considered in Whitten.  Our decision there may be summarized
+as follows.  Under statute existing at the time, a common carrier
+could offer to the United States Government transportation at
+rates lower than those contained in the carrier's tariffs which
+had been approved by the Interstate Commerce Commission.  The
+carrier had to file the "quoted or tendered rate" with "the
+department, agency, or instrumentality of the United States
+Government for which the quotation or tender was made or for
+which the proposed transportation is to be provided."  10 U.S.C.
+ 10721 (1988).  In Baggett Transportation Co. v. United States.
+670 F.2d 1011 (Ct. Cl. 1982), the Court of Claims held that rates
+tendered to the Government could not be applied to shipments of
+goods which the Government had sold to other countries and was
+moving for those countries.  The court's rationale was that the
+special rates were "applicable only when a direct and
+substantial, pecuniary benefit flows to" the Government, and that
+in deciding who receives the benefit from the transportation,
+"[t]he determining factor is who pays the cost."  We decided that
+this holding was dispositive of the issue before us: a tender
+which was offered only to one "department, agency, or
+instrumentality" of the Government may be applied to a particular
+shipment only if that entity actually receives a direct and
+substantial pecuniary benefit from the shipment.  Thus, the rates
+contained in a tender which was offered only to DoD may not
+govern a shipment for which another agency derives the benefit
+and pays for the carriage.
+
+     This holding is readily applicable to the GBLs which are
+involved in the instant cases.  All but two of the GBLs involved
+in these cases state that shipping charges are to be billed to
+agencies which are not part of DoD.  Charges for the shipments
+made under these GBLs were not properly made under the terms of
+the tender that Tri-State offered to DoD alone; the charges
+should be recalculated under the terms of the carrier's filed
+tariff.  Two of the GBLs state that the charges were to be paid
+by entities within DOD -- the Department of the Navy and the
+Department of the Army.  As to one of them, the only assertion
+that Tri-State makes as to a non-DoD agency's deriving a direct
+and substantial pecuniary benefit is counsel's statement that the
+Navy, rather than paying the charges, gave the carrier
+instructions to bill the Coast Guard instead.  Our rules of
+procedure state that "[t]he burden is on the claimant to
+establish . . . the liability of the agency, and the claimant's
+right to payment."  Rule 301(b) (62 Fed. Reg. 25,867 (1997) (to
+be codified at 48 CFR 6103.1)); Tri-State Motor Transit Co.,
+GSBCA 13743-RATE, 97-2 BCA  29,068.  The lawyer's assertion is
+insufficient to meet this burden; we require concrete proof (in
+this instance, a copy of the Navy's letter would do).  As to the
+GBL which provides that charges were to be paid by the Army, Tri-
+State offers no proof that any other agency derived benefit from
+the shipment; the GBL's statement that the ammunition was to be
+delivered to a federal prison camp does not suffice.  The rates
+contained in Tri-State's tender to DoD must therefore govern
+these shipments.  Consequently, GSBCA 14169-RATE, which involves
+only the GBL with Navy payment specified, is denied; GSBCA
+14172-RATE, one of whose three GBLs says that payment is to be
+made by the Army, is granted in part; and GSBCA 14170-RATE and
+14171-RATE, all of whose GBLs require payment by non-DoD
+agencies, are granted.
+
+     MTMC filed very lengthy comments on these claims, in an
+effort to convince us to abandon our holding in Whitten.  We
+discourage the making of this sort of argument; we issue
+decisions with the expectation that they will have precedential
+value -- that the principles expressed in them will be applied in
+future actions to which they might pertain.  Nevertheless, MTMC's
+comments are thoughtful, and in an effort to explain our
+reasoning in Whitten further, we will discuss them briefly here. 
+In each of the paragraphs below, the first sentence encapsulates
+MTMC's comment and the remainder is our view on it.
+
+     (1)  [MTMC comment: The Court of Claims' holding in Baggett
+is inapplicable to these cases, since statute prohibited foreign
+governments from receiving low rates offered to the United States
+Government, whereas it permitted  the carrier to grant such rates
+to all U.S. agencies.]  The distinction MTMC draws is correct,
+but it is of no importance here.  Although Tri-State could have
+offered low rates to all United States Government agencies, it
+chose not to do so; it offered those rates to DoD alone.
+
+     (2)  [MTMC comment: "[E]ach shipment involved is a 'DOD
+shipment' in that it was arranged by DOD, contracted for by DOD
+and controlled by DOD."]  Nevertheless, the shipment was also a
+"non-DoD shipment" in that it was paid for by a non-DoD agency
+and was for the benefit of that agency, and under the reasoning
+of Baggett, that is what matters.
+
+     (3)  [MTMC comment: DoD had a direct and substantial
+pecuniary benefit in the shipments, in that DoD derives
+considerable economies from having the Army operate as DoD's
+single manager for conventional ammunition.]  As Tri-State says
+in response, this contention really is that non-DoD agencies may
+be able to save money by purchasing ammunition through an
+efficient DoD procurement and distribution system; it has nothing
+to do with benefits to DoD itself.
+
+     (4)  [MTMC comment: The agencies understood at the time of
+these shipments, consistent with GAO decisions which the Board
+rejected in Whitten, that if a DoD entity sent materials to a
+non-DoD agency, the carrier's tender of rates to DoD would govern
+the shipment.]  While this statement is probably true, it does
+not prevent the Board from determining, as it did in Whitten,
+that the GAO decisions were incorrect.
+
+     (5)  [MTMC comment: When Tri-State accepted the shipments,
+with the DoD tender shown as the governing rate authority, it
+demonstrated an intent to accept the shipments at those rates, so
+the rates must apply.]  As we explained in Whitten, this is not
+the law; if it were, the Government would be precluded from ever
+demanding that carriers refund moneys improperly paid for
+transportation services.  Tri-State has provided an affidavit in
+which its Director of DoD Sales and Marketing explains that the
+carrier did not have the intent attributed to it by MTMC when it
+accepted the shipments that are involved in these cases.
+
+     (6)  [MTMC comment: Alternatively, the Government
+detrimentally relied on Tri-State's acceptance of the shipments
+at the tender rates, so the carrier must be estopped from
+claiming additional payments now.]  In C. I. Whitten Transfer
+Co., GSBCA 13893-RATE, 97-2 BCA  29,060, we noted that when a
+carrier executed a bill of lading which contained conflicting
+terms or which could not lawfully be executed, the Interstate
+Commerce Commission (ICC) and the GAO had awarded damages in
+order to put the shipper in the position it would have occupied
+if the carrier had fulfilled its duty to inquire before it
+executed the bill of lading.  MTMC has not shown any detrimental
+reliance.  It has not demonstrated that any agency actually
+suffered damages by virtue of having shipped goods under the GBLs
+which are involved in these cases and which improperly implicated
+Tri-State's tender to DoD.  Thus, we need not decide whether to
+apply the ICC/GAO practice in these cases.
+
+     (7)  [MTMC comment: The Board's decision in Whitten, 97-1
+BCA at 143,990, improperly looked to the Uniform Commercial
+Code's section 2-401, rather than the Code's section 2-509, in
+considering ownership of the goods at the time of shipment.] 
+Section 2-401 states that in the context of sales between private
+entities, title passes to the buyer at the place of shipment,
+unless the contrary is explicitly stated in the contract. 
+Section 2-509 provides that in the same context, where the seller
+permissibly ships goods by carrier, and the contract requires him
+to deliver them at a particular destination, the risk of loss
+passes to the buyer when the goods are tendered there.  In
+response, Tri-State notes that none of the GBLs involved in the
+cases now before us cites the destination location as the "FOB
+[free on board] point," and maintains that if the GBLs are to be
+viewed similarly to contracts, they must therefore be presumed to
+be "normal" "shipment" contracts and not "variant" "destination"
+contracts.  See U.C.C.  2-503 cmt. 5 (1989).  We think that our
+initial rationale, as confirmed by Tri-State's comment, is more
+apt than MTMC's.  More important are these two caveats, however. 
+First, as we said in Whitten, the concepts contained in the
+Uniform Commercial Code may only loosely apply to transactions
+between Government agencies, since agencies are not commercial
+establishments and there is no "title" to pass between them. 
+Second, transportation rate law has its own logic, and trying to
+analogize commercial law to it may not always be appropriate.  As
+another tribunal said in another rate case, "Whether this makes
+sense is beside the point.  It all depends on what kind of sense
+is being made -- abstract, contractual interpretation sense, or
+transportation-railroading sense."  Strickland Transportation Co.
+v. United States, 334 F.2d 172, 178 (5th Cir. 1964).
+
+
+
+
+
+                                   _________________________
+                                   STEPHEN M. DANIELS
+                                   Board Judge

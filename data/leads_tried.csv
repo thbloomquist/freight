@@ -382,3 +382,919 @@ C,https://raw.githubusercontent.com/e3-solutions/scac-ln-bench/HEAD/data/edi/105
 C,github e3-solutions/scac-ln-bench README,github,hit,"700 freight invoice PDFs + 193 EDI 210 ground-truth files (broker-side, Dec 2025-Jan 2026); sampled 4 PDFs + 4 EDI"
 C,raw e3-solutions/scac-ln-bench data/pdfs/0001-0004.pdf,github,miss,"all four are Sterling Courier (K+N) air-courier invoices, out of TL/LTL scope and carry individuals' names; deleted"
 C,raw scac-ln-bench 10500_SGCS_20251231183354.edi,github,miss,"air-courier (Sterling) invoices, out of scope; deleted. WIEL/TQYL/SPXQ kept (truckload)"
+coordinator,Wayback CDX: arcb.com/sites/www/files/*111-A*.pdf; sefl.com/vsmisc/RT1090*; odfl.com .../rates-and-tariffs/*100*.pdf; xpo.com .../p2831/*199*.pdf,archive_org_cdx,hit,"Index answered on 2026-10-20 (429 on 2026-10-09). Kept 13-074 to 13-078. Truncated at 1 MiB in the archive (x-archive-orig-content-length 1048576): ABF 111-AR captures 2023-11-30 and 2024-04-14, SEFL 1090 2023-11-29, ODFL 100-O 2023-01-28 (the only ODFL 100-O capture). XPO 199: only 199-AI.2 (2025) and AK.2 listed; the index went offline during the search for older paths, so no 2021 XPO edition was found"
+K1,"POST getcards {type:CasesDockets, filters:{projectCode,dbSource,isAdversaryProceeding,docketNumber} as object}",Epiq API,blocked,"HTTP 400: filters must be a list of {name,values}"
+K1,GET https://dm.epiq11.com/case/yellowcorporation/dockets + /dist/main-CGTEPJD6.js,Epiq public JS bundle,hit,"filter names read from bundle: docketNumberSorting, docketText, isAdversaryProceeding, claimNumberSorting"
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['3291-3304'],Epiq YRC dockets,hit,14 entries: 13 GlobalTranz withdrawals + 1 unrelated (3297)
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['4914'],Epiq YRC dockets,hit,21st omnibus objection (4 attachments)
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['5185'],Epiq YRC dockets,hit,order + Schedule 1
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['6995'],Epiq YRC dockets,hit,nVision preference complaint
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['7138'],Epiq YRC dockets,hit,Cass preference complaint
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['7171'],Epiq YRC dockets,hit,ACCO+Cass preference complaint
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['7142'],Epiq YRC dockets,hit,GlobalTranz preference complaint
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['1362'],Epiq YRC dockets,hit,TForce Worldwide withdrawal 17932
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['2199'],Epiq YRC dockets,hit,TQL amended withdrawal 18553
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['8029'],Epiq YRC dockets,hit,Home Depot withdrawal 17878 et al.
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['2754'],Epiq YRC dockets,hit,Mode withdrawal 17019
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['6463'],Epiq YRC dockets,hit,32nd omnibus objection (not kept)
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketNumberSorting=['6640'],Epiq YRC dockets,hit,order + Schedule 1 (TForce Freight 10129)
+K1,"POST https://dm.epiq11.com/api/search/getcards CasesClaims claimNumberSorting=[11113,17062,16200,16215,16595,11117,11202,17932,18553,17878,18021,19254,16339,10807,17019,10129]",Epiq YRC claims register,hit,"remarks + linked docket numbers for every held Yellow claim; 11113/11117/11202 (nVision), 17062 (Unishippers), 18021 (Walmart), 10807, 16339: no remark, no linked docket"
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['nVision'] isAdversaryProceeding=false,Epiq YRC dockets,hit,1 entry: Doc 6995
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['Unishippers'] isAdversaryProceeding=false,Epiq YRC dockets,miss,0 entries
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['Globaltranz'] isAdversaryProceeding=false,Epiq YRC dockets,hit,14: withdrawals 3291-3304 + 7142
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['Cass'] isAdversaryProceeding=false,Epiq YRC dockets,hit,"12, only 7138/7171 relevant (rest match a claims-agent staff first name)"
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['Total Quality'] isAdversaryProceeding=false,Epiq YRC dockets,hit,Doc 1890 (withdrawal of 18533/18566/18579/18588) + Adv. 7149
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['CTSI'] isAdversaryProceeding=false,Epiq YRC dockets,miss,0
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['Trax'] isAdversaryProceeding=false,Epiq YRC dockets,miss,0
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['overcharge'] isAdversaryProceeding=false,Epiq YRC dockets,miss,0
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['freight audit'] isAdversaryProceeding=false,Epiq YRC dockets,miss,0
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['nVision'] isAdversaryProceeding=true,Epiq YRC adversary dockets,hit,Adv 25-51448: complaint + summons only; no dismissal or settlement order yet
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['Cass'] isAdversaryProceeding=true,Epiq YRC adversary dockets,hit,"Adv 25-51601: answer withdrawn and refiled (Docs 7-9), mediation due 2026-03-18; Adv 25-51634: summons; no dismissal or settlement order yet"
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['GlobalTranz'] isAdversaryProceeding=true,Epiq YRC adversary dockets,hit,Adv 25-51605: complaint + summons; no dismissal or settlement order yet
+K1,POST https://dm.epiq11.com/api/search/getcards CasesDockets docketText=['Total Quality'] isAdversaryProceeding=true,Epiq YRC adversary dockets,hit,"Adv 25-51612: stipulation extending deadlines, appearance withdrawn; no dismissal or settlement order yet"
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4329036&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4329066&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4329077&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4405989&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4405991&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4405992&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4416412&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4416413&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4496828&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4497390&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4497479&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4497403&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4270532&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4292850&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4527079&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4311773&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4487632&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://document.epiq11.com/document/getdocumentbycode?docId=4487633&projectCode=YRC&source=DM,Epiq document download,hit,PDF 200
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.33.0.pdf,CourtListener storage,hit,Coverlex Doc 33
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.63.0_1.pdf,CourtListener storage,hit,Coverlex Doc 63
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.63.0.pdf,CourtListener storage,hit,"same order, different bytes; discarded in favour of 63.0_1 (the path named in the brief)"
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.12.0.pdf,CourtListener storage,hit,Coverlex Doc 12
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flmd.360588/gov.uscourts.flmd.360588.19.1.pdf,CourtListener storage,miss,"404; not free (CL search lists only Docs 12, 20, 33, 63)"
+K1,https://storage.courtlistener.com/recap/gov.uscourts.mied.329101/gov.uscourts.mied.329101.43.0.pdf,CourtListener storage,hit,Transport Systems Doc 43
+K1,https://storage.courtlistener.com/recap/gov.uscourts.mied.329101/gov.uscourts.mied.329101.19.0.pdf,CourtListener storage,hit,Transport Systems Doc 19 (free)
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flmb.715964/gov.uscourts.flmb.715964.7355.0.pdf,CourtListener storage,hit,"Winn-Dixie order, 7th omnibus"
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flmb.715964/gov.uscourts.flmb.715964.7354.0.pdf,CourtListener storage,hit,Winn-Dixie hearing memo
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.263.0.pdf,CourtListener storage,hit,
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.254.0.pdf,CourtListener storage,hit,
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.197.0.pdf,CourtListener storage,hit,
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.184.0.pdf,CourtListener storage,hit,
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.57.0.pdf,CourtListener storage,hit,
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.51.0.pdf,CourtListener storage,hit,
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.331.0.pdf,CourtListener storage,hit,added: stipulated dismissal with prejudice
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.310.0.pdf,CourtListener storage,hit,"added: order on interest/fees, states verdict"
+K1,https://storage.courtlistener.com/recap/gov.uscourts.vaed.408127/gov.uscourts.vaed.408127.1.1.pdf,CourtListener storage,miss,404; Whatman has only Doc 24 free
+K1,https://storage.courtlistener.com/recap/gov.uscourts.vaed.408127/gov.uscourts.vaed.408127.9.5.pdf,CourtListener storage,miss,404
+K1,https://storage.courtlistener.com/recap/gov.uscourts.vaed.408127/gov.uscourts.vaed.408127.19.5.pdf,CourtListener storage,miss,404
+K1,https://storage.courtlistener.com/recap/gov.uscourts.wawd.245873/gov.uscourts.wawd.245873.1.1.pdf,CourtListener storage,miss,404; not in CL free list
+K1,https://storage.courtlistener.com/recap/gov.uscourts.nywd.71195/gov.uscourts.nywd.71195.72.3.pdf,CourtListener storage,miss,404; Hannum 72-3 not in CL free list
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flsd.704429/gov.uscourts.flsd.704429.4.0.pdf,CourtListener storage,miss,404; Exist v. SEFL has only 1-2 free
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flsd.704429/gov.uscourts.flsd.704429.5.0.pdf,CourtListener storage,miss,404
+K1,https://storage.courtlistener.com/recap/gov.uscourts.flsd.704429/gov.uscourts.flsd.704429.6.0.pdf,CourtListener storage,miss,404
+K1,https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=docket_id:360588,CourtListener search API v4 (anonymous),miss,"0: docket_id is CL's internal id (14644424), not the PACER case id"
+K1,https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=docket_id:408127,CourtListener search API v4 (anonymous),miss,"0, same reason"
+K1,https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:Coverlex,CourtListener search API v4 (anonymous),hit,"4 free: Docs 12, 20, 33, 63"
+K1,https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:Whatman AND court_id:vaed,CourtListener search API v4 (anonymous),hit,1 free: Doc 24 (held)
+K1,"https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:""Central Freight"" AND caseName:Amazon",CourtListener search API v4 (anonymous),hit,38 free; first page 20; cursor page returned 0 rows
+K1,"https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:""Central Freight"" AND caseName:Amazon AND document_number:[1 TO 133]",CourtListener search API v4 (anonymous),hit,18 more; Doc 1-1 not free
+K1,https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:Hannum AND court_id:nywd,CourtListener search API v4 (anonymous),miss,0 (caption is Roadway)
+K1,"https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:Roadway AND court_id:nywd AND docketNumber:""08-cv-00811""",CourtListener search API v4 (anonymous),hit,14 free; 72-3 not among them
+K1,"https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:""Southeastern Freight"" AND caseName:Exist",CourtListener search API v4 (anonymous),hit,1 free: Doc 1-2 (held); Docs 4-6 not free
+K1,"https://www.courtlistener.com/api/rest/v4/search/?type=rd&available_only=on&q=caseName:""Transport Systems"" AND caseName:Amazon",CourtListener search API v4 (anonymous),hit,"5 free: 1-1 (held), 19, 34, 41, 43"
+K1,https://www.courtlistener.com/docket/360588/estes-express-lines-v-coverlex-inc/,CourtListener docket HTML,miss,200 but no entry list or PDF links in static HTML
+K1,https://www.courtlistener.com/api/rest/v4/search/?type=r&q=docket_id:360588,CourtListener search API v4,miss,0
+K1,https://web.archive.org/cdx/search/cdx?matchType=prefix&url=odfl.com/content/dam/odfl/,Wayback CDX,hit,"2,726 rows (one 503 then OK); 128-AA, 128-BB (x2), 128-CC (x3), 128-Z, ODFL 100-O complete file (2023, 2024) also present"
+K1,https://web.archive.org/web/20221002073012id_/https://www.odfl.com/content/dam/odfl/us/en/documents/rates-and-tariffs/ODFL%20128%20AA.PDF,Wayback raw,hit,"620,492 bytes = orig length; after one 429"
+K1,https://web.archive.org/web/20250424134845id_/https://www.odfl.com/content/dam/odfl/us/en/documents/rates-and-tariffs/ODFL%20128-CC.pdf,Wayback raw,hit,"225,943 = orig length"
+K1,https://web.archive.org/cdx/search/cdx?matchType=prefix&url=yrc.com/wp-content/uploads/,Wayback CDX,hit,"4,342 rows in one page (not ~20k), 655 distinct URLs, 81 PDFs; only Tariff 100 Items 700 (2021-11 and 2022-03), 703, 705; NO rules items (754, TONU, reweigh), no full Tariff 100"
+K1,https://web.archive.org/cdx/search/cdx?matchType=prefix&url=my.yrc.com/national/,Wayback CDX,hit,"6,062 rows; Items 700/703/705 again (2023-12 to 2026-05 captures), InspRpt.pdf, usTerms.pdf, fuel-surcharge-us.shtml; no Tariff 100 rules items"
+K1,https://web.archive.org/cdx/search/cdx?matchType=prefix&url=xpo.com/cdn/download_files/s1/p2831/,Wayback CDX,hit,"3 rows: CNWY_199-AI.2 (captured 2025-11-09), 199-AK.2 x2; no 2021 edition (199-AD/AE era)"
+K1,https://web.archive.org/cdx/search/cdx?matchType=prefix&url=fedexfreight.com/content/dam/web/us/documents/fuel,Wayback CDX,miss,1 row: fuel-surcharge-effective6-9-25.pdf (already held as 14-073); no 2021-24 table
+K1,https://web.archive.org/cdx/search/cdx?matchType=prefix&url=saia.com/tools-and-resources/fuel,Wayback CDX,hit,"6 captures of the fuel-surcharges HTML page (2019-12, 2021-12, 2023-03, 2025-05, 2025-10, 2025-12); not fetched - no held Saia bill to test against"
+K1,https://web.archive.org/web/20240224130901id_/https://www.odfl.com/content/dam/odfl/us/en/documents/rates-and-tariffs/ODFL%20128-BB.pdf,Wayback raw,hit,"225,560 = orig length after 429s"
+K1,https://web.archive.org/web/20211209130006id_/https://yrc.com/wp-content/uploads/sites/4/2021/11/Yellow-Tariff-100-Item-700-Effective-11-3-21.pdf,Wayback raw,throttled,429 x5
+K1,https://web.archive.org/web/20220119054536id_/https://yrc.com/wp-content/uploads/sites/4/2021/11/Yellow-Tariff-100-Item-700-Effective-11-3-21.pdf,Wayback raw,throttled,429 x5; 2021-11-03 edition not obtained
+K1,https://web.archive.org/web/20220814064349id_/https://yrc.com/wp-content/uploads/sites/4/2022/03/Yellow-Tariff-100-Item-700.pdf,Wayback raw,hit,"456,790 = orig length"
+K1,https://web.archive.org/web/20220814064509id_/https://yrc.com/wp-content/uploads/sites/4/2022/03/Yellow-Tariff-100-Item-703.pdf,Wayback raw,hit,"436,335 = orig length"
+K1,https://web.archive.org/web/20220814064621id_/https://yrc.com/wp-content/uploads/sites/4/2022/03/Yellow-Tariff-100-Item-705.pdf,Wayback raw,throttled,429 x5
+K1,https://web.archive.org/web/20240413230114id_/https://my.yrc.com/national/pdf/Yellow-Tariff-100-Item-705.pdf,Wayback raw,hit,"455,085 = orig length; same 2022-03-30 PDF"
+K1,https://web.archive.org/web/20220316172102id_/https://my.yrc.com/national/pdf/InspRpt.pdf,Wayback raw,hit,cargo inspection form (not W&I)
+K1,https://web.archive.org/web/20230803135045id_/https://my.yrc.com/national/pdf/usTerms.pdf,Wayback raw,hit,Uniform BOL terms
+K1,https://web.archive.org/web/20231210043917id_/https://my.yrc.com/national/html/fuel-surcharge-us.shtml,Wayback raw,hit,rates as of 2023-07-12
+K1,https://web.archive.org/web/20251109192226id_/https://www.xpo.com/cdn/download_files/s1/p2831/CNWY_199-AI.2.pdf,Wayback raw,hit,"937,755 = orig length; accessorial tariff eff 2024-04-15"
+K1,https://web.archive.org/cdx/search/cdx?matchType=prefix&url=rlcarriers.com/freight/shipping-resources/fuel,Wayback CDX,miss,0 rows (after one 503)
+K1,https://api.github.com/repos/brycejech/edi-translator/commits/HEAD + git/trees (recursive),GitHub API,hit,HEAD 08b6e2e51dff4086013ef8b315cf414b6689dead (2024-12-06); no LICENSE file
+K1,https://raw.githubusercontent.com/brycejech/edi-translator/08b6e2e51dff4086013ef8b315cf414b6689dead/package.json,GitHub raw,hit,license: None
+K1,https://raw.githubusercontent.com/brycejech/edi-translator/08b6e2e51dff4086013ef8b315cf414b6689dead/unit-test-files/ (13 files),GitHub raw,hit,12 kept; 210_3.edi fetched and skipped (same content as 210.edi with later ISA/GS date)
+K1,https://raw.githubusercontent.com/brycejech/edi-translator/08b6e2e51dff4086013ef8b315cf414b6689dead/samples/204-MGSEABOARD-RASY-{185944713351,185944714995,185947215252}.edi,GitHub raw
+K1,Epiq YRC docket 4914 attachments 2-4 (docIds 4405990-4405992),Epiq document download,hit,exhibits A (proposed order) and B (declaration) fetched; not kept (redundant with 5185)
+K1,"Epiq YRC Adv 25-51601 Doc 9 (Cass answer, docId 4604023); Doc 1890 (TQL withdrawal)",Epiq,miss,listed but not downloaded (outside the brief)
+K2,id:pycp0254 OR id:hgky0254 OR id:szvy0254 OR id:hhfy0254 OR id:fhfy0254 OR id:zzvy0254 OR id:fgky0254 OR id:xfvw0253,IDL solr,hits=8,
+K2,id:pycp0254,IDL solr,hits=1,
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/y/c/p/pycp0254/pycp0254.zip,IDL S3,ok,1173871 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/g/k/y/hgky0254/hgky0254.zip,IDL S3,ok,17936470 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/k/y/fgky0254/fgky0254.zip,IDL S3,ok,16560159 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/f/v/w/xfvw0253/xfvw0253.zip,IDL S3,ok,13005934 bytes
+K2,filename:paylog OR ti:paylog | coll=mnk,IDL solr,hits=1,
+K2,"ot:""audit reason code"" | coll=mnk",IDL solr,hits=8,
+K2,filename:TRN_FILE* OR ti:TRN_FILE* | coll=mnk,IDL solr,hits=83,
+K2,filename:TRN_FILE* OR ti:TRN_FILE* | coll=mnk,IDL solr,hits=83,weekly freight payment files
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/x/h/y/nxhy0249/nxhy0249.zip,IDL S3,ok,1429602 bytes
+K2,id:nppk0238 | coll=mnk,IDL solr,hits=1,
+K2,"ti:""freight question"" | coll=mnk",IDL solr,hits=2,
+K2,"ot:(""old dominion"" OR ODFL) AND ot:(""pricing agreement"" OR ""rate schedule"" OR tariff OR ""discount"") | coll=mnk",IDL solr,hits=1778,
+K2,"ot:(""UPS Freight"" OR UPGF) AND ot:(""pricing agreement"" OR ""rate schedule"" OR ""tariff"") | coll=mnk",IDL solr,hits=8,
+K2,"ot:(""Kuehne"" OR KHNN) AND ot:(""rate"" AND freight AND (""LTL"" OR truckload)) | coll=mnk",IDL solr,hits=49,
+K2,"ot:(""FedEx Freight"" OR FXFE) AND ot:(""pricing agreement"" OR ""rate schedule"" OR ""tariff"") | coll=mnk",IDL solr,hits=5,
+K2,"ot:(""balance due"") AND ot:(freight AND (ODFL OR ""old dominion"" OR ""FedEx Freight"" OR ""UPS Freight"" OR LTL)) | coll=mnk",IDL solr,hits=12,
+K2,ot:(undercharge) AND ot:(freight AND (carrier OR LTL)) | coll=mnk,IDL solr,hits=6,
+K2,"ot:(paylog OR ""pay log"") | coll=mnk",IDL solr,hits=9,
+K2,"ot:(""audit reason"" OR ""did not rate within tolerance"") | coll=mnk",IDL solr,hits=15,
+K2,"ot:(""freight audit"") AND ot:(cass OR ""intelligent audit"" OR ctsi OR trax OR ""data2logistics"" OR nfa OR ""national freight"") | coll=mnk",IDL solr,hits=1,
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/p/p/k/nppk0238/nppk0238.ocr,IDL S3,ok,4848 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/y/c/p/yycp0254/yycp0254.ocr,IDL S3,ok,2524 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/l/w/c/jlwc0253/jlwc0253.ocr,IDL S3,ok,112947 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/l/c/v/klcv0245/klcv0245.ocr,IDL S3,ok,489264 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/x/v/w/gxvw0248/gxvw0248.ocr,IDL S3,ok,86650 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/q/v/d/tqvd0253/tqvd0253.ocr,IDL S3,ok,149438 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/r/w/j/mrwj0255/mrwj0255.ocr,IDL S3,ok,2622200 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/y/y/f/hyyf0237/hyyf0237.ocr,IDL S3,ok,11383 bytes
+K2,"ot:(""truckload RFQ"" OR ""TL RFQ"" OR ""lane rates"" OR ""rate per mile"" OR ""linehaul rate"") | coll=mnk",IDL solr,hits=20,
+K2,"ot:(""fuel surcharge"") AND ot:(""Old Dominion"" OR Swift OR Crete OR ODFL OR ""UPS Freight"") | coll=mnk",IDL solr,hits=24,
+K2,"ot:(""Old Dominion"") AND ot:(""discount"" AND ""minimum charge"") | coll=mnk",IDL solr,hits=1,
+K2,"ot:(""freight bill"" OR ""freight invoice"") AND ot:(carrier AND (dispute OR overcharge OR ""short pay"" OR rebill OR ""credit"")) | coll=mnk",IDL solr,hits=52,
+K2,"ot:(""Trans-Budget"" OR ""transportation budget"") | coll=mnk",IDL solr,hits=16,
+K2,"ot:(""freight payment"" OR ""freight pay"") AND ot:(cass OR ""US Bank"" OR ""Powertrack"" OR ""nVision"" OR ""CTSI"" OR ""Intelligent Audit"" OR ""Data2Logistics"" OR ""ControlPay"") | coll=mnk",IDL solr,hits=19,
+K2,"ot:(""inspection certificate"" OR ""weight and inspection"" OR ""weights and inspection"" OR reweigh) | coll=mnk",IDL solr,hits=388,
+K2,ot:(SABR AND carrier) | coll=mnk,IDL solr,hits=10,
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/f/x/l/qfxl0234/qfxl0234.ocr,IDL S3,ok,55757 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/r/f/c/grfc0245/grfc0245.ocr,IDL S3,ok,22307 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/t/n/w/htnw0254/htnw0254.ocr,IDL S3,ok,191350 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/s/g/d/ksgd0252/ksgd0252.ocr,IDL S3,ok,4168 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/r/d/f/frdf0255/frdf0255.ocr,IDL S3,ok,90297 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/r/p/w/hrpw0255/hrpw0255.ocr,IDL S3,ok,92457 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/l/v/f/jlvf0255/jlvf0255.ocr,IDL S3,ok,74878 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/k/c/f/kkcf0255/kkcf0255.ocr,IDL S3,ok,67090 bytes
+K2,filename:(*freight* OR *Freight* OR *FREIGHT* OR *carrier* OR *Carrier* OR *LTL* OR *truckload* OR *Transport* OR *transport* OR *ODFL* OR *Dominion*) | coll=mnk,IDL solr,hits=545,filename sweep
+K2,filename:(*freight* OR *Freight* OR *FREIGHT* OR *carrier* OR *Carrier* OR *LTL* OR *truckload* OR *Transport* OR *transport* OR *ODFL* OR *Dominion*) | coll=mnk,IDL solr,hits=545,filename sweep p2
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/l/p/h/mlph0248/mlph0248.ocr,IDL S3,ok,5233 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/f/l/x/nflx0245/nflx0245.ocr,IDL S3,ok,7433 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/m/d/h/kmdh0245/kmdh0245.ocr,IDL S3,ok,13394774 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/q/f/f/hqff0255/hqff0255.ocr,IDL S3,ok,3353 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/r/h/k/hrhk0246/hrhk0246.ocr,IDL S3,ok,2223 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/q/m/w/pqmw0253/pqmw0253.ocr,IDL S3,ok,1986 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/r/w/h/nrwh0252/nrwh0252.ocr,IDL S3,ok,106851 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/l/k/f/mlkf0249/mlkf0249.ocr,IDL S3,ok,3264 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/z/y/c/szyc0245/szyc0245.ocr,IDL S3,ok,74804 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/p/b/n/ypbn0235/ypbn0235.ocr,IDL S3,ok,919 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/l/d/d/yldd0253/yldd0253.ocr,IDL S3,ok,258 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/j/m/b/gjmb0245/gjmb0245.ocr,IDL S3,ok,961 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/r/c/g/frcg0245/frcg0245.ocr,IDL S3,ok,67177 bytes
+K2,"ot:""bill of lading"" AND ot:(""Old Dominion"" OR ""Swift Transportation"" OR ""UPS Freight"" OR ""Crete"" OR ""Con-way"" OR ""FedEx Freight"" OR ""Estes"" OR ""YRC"" OR ""R+L"" OR ""Saia"") | coll=mnk",IDL solr,hits=440,
+K2,"ot:(""delivery receipt"") AND ot:(""Old Dominion"" OR ODFL OR ""UPS Freight"" OR ""FedEx Freight"" OR ""Estes"" OR ""YRC"" OR ""Saia"" OR ""Pitt Ohio"" OR Averitt OR ""R+L"" OR ""R&L"") | coll=mnk",IDL solr,hits=15,
+K2,"ot:(""freight claim"") AND ot:(carrier) AND ot:(""concealed damage"" OR shortage OR ""claim number"") | coll=mnk",IDL solr,hits=28,
+K2,"ot:(""Swift"") AND ot:(invoice AND (""linehaul"" OR ""line haul"" OR ""fuel"") AND truckload) | coll=mnk",IDL solr,hits=6,
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/k/y/j/lkyj0234/lkyj0234.ocr,IDL S3,ok,1768 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/x/b/m/hxbm0245/hxbm0245.ocr,IDL S3,ok,21327 bytes
+K2,id:(zpjc0310 OR rjdb0321 OR tsmx0332 OR zghn0318 OR msfc0376 OR xtyy0364) | coll=None,IDL solr,hits=6,
+K2,"ot:""Billing Errors"" | coll=juul",IDL solr,hits=244,
+K2,"ot:(DCL AND ""price schedule"") | coll=juul",IDL solr,hits=140,
+K2,"ot:(""DCL Logistics"" OR ""Dependable Distribution"" OR ""DCL"") AND ot:(agreement AND warehouse AND rates) | coll=juul",IDL solr,hits=1021,
+K2,ot:(Trax AND freight AND audit) | coll=juul,IDL solr,hits=60,
+K2,"ot:(CTSI OR ""CT Logistics"" OR ""Cass Information"") AND ot:freight | coll=juul",IDL solr,hits=35,
+K2,ot:166836 | coll=juul,IDL solr,hits=63,
+K2,filename:(*DCL* OR *Freight* OR *freight* OR *FREIGHT* OR *Price*Schedule* OR *Trax* OR *TRAX* OR *Shipping* OR *carrier* OR *Carrier*) | coll=juul,IDL solr,hits=10649,juul filename sweep
+K2,filename:(*Freight* OR *freight* OR *FREIGHT* OR *DCL*invoice* OR *Price*Schedule* OR *PRICING* OR *Trax* OR *TRAX* OR *ABF* OR *LTL* OR *Accrued* OR *accrued*) | coll=juul,IDL solr,hits=14044,sweep juul_freightname
+K2,filename:(*Freight* OR *freight* OR *FREIGHT* OR *DCL*invoice* OR *Price*Schedule* OR *PRICING* OR *Trax* OR *TRAX* OR *ABF* OR *LTL* OR *Accrued* OR *accrued*) | coll=juul,IDL solr,hits=14044,sweep juul_freightname
+K2,filename:(*Freight* OR *freight* OR *FREIGHT* OR *DCL*invoice* OR *Price*Schedule* OR *PRICING* OR *Trax* OR *TRAX* OR *ABF* OR *LTL* OR *Accrued* OR *accrued*) | coll=juul,IDL solr,hits=14044,sweep juul_freightname
+K2,filename:(*Freight* OR *freight* OR *FREIGHT* OR *DCL*invoice* OR *Price*Schedule* OR *PRICING* OR *Trax* OR *TRAX* OR *ABF* OR *LTL* OR *Accrued* OR *accrued*) | coll=juul,IDL solr,hits=14044,sweep juul_freightname
+K2,filename:(*Freight* OR *freight* OR *FREIGHT* OR *DCL*invoice* OR *Price*Schedule* OR *PRICING* OR *Trax* OR *TRAX* OR *ABF* OR *LTL* OR *Accrued* OR *accrued*) | coll=juul,IDL solr,hits=14044,sweep juul_freightname
+K2,filename:(*Freight* OR *freight* OR *FREIGHT* OR *DCL*invoice* OR *Price*Schedule* OR *PRICING* OR *Trax* OR *TRAX* OR *ABF* OR *LTL* OR *Accrued* OR *accrued*) | coll=juul,IDL solr,hits=14044,sweep juul_freightname
+K2,filename:(*Freight* OR *freight* OR *FREIGHT*) OR ti:(freight) | coll=juul,IDL solr,hits=647,sweep juul_freight2
+K2,filename:(*Freight* OR *freight* OR *FREIGHT*) OR ti:(freight) | coll=juul,IDL solr,hits=647,sweep juul_freight2
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/g/m/k/qgmk0287/qgmk0287.ocr,IDL S3,ok,2181 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/q/v/m/fqvm0406/fqvm0406.ocr,IDL S3,ok,1921 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/r/v/j/jrvj0329/jrvj0329.ocr,IDL S3,ok,3474 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/j/x/x/ljxx0311/ljxx0311.ocr,IDL S3,ok,14292 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/g/b/rfgb0409/rfgb0409.ocr,IDL S3,ok,16571 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/f/f/c/hffc0311/hffc0311.ocr,IDL S3,ok,7677 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/p/v/h/jpvh0314/jpvh0314.ocr,IDL S3,ok,1406 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/s/f/k/nsfk0290/nsfk0290.ocr,IDL S3,ok,336 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/z/n/l/sznl0292/sznl0292.ocr,IDL S3,ok,9531 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/l/y/n/flyn0408/flyn0408.ocr,IDL S3,ok,4389 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/y/f/b/fyfb0398/fyfb0398.ocr,IDL S3,ok,780 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/d/j/fgdj0307/fgdj0307.ocr,IDL S3,ok,6189 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/s/l/f/qslf0403/qslf0403.ocr,IDL S3,ok,892 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/h/f/v/phfv0311/phfv0311.ocr,IDL S3,ok,328 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/t/y/y/xtyy0364/xtyy0364.ocr,IDL S3,ok,11240 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/p/j/c/zpjc0310/zpjc0310.ocr,IDL S3,ok,32956 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/p/j/c/zpjc0310/zpjc0310.pdf,IDL S3,ok,1892489 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/j/d/b/rjdb0321/rjdb0321.ocr,IDL S3,ok,2541 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/j/d/b/rjdb0321/rjdb0321.pdf,IDL S3,ok,133906 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/n/h/l/hnhl0297/hnhl0297.ocr,IDL S3,ok,2776 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/n/h/l/hnhl0297/hnhl0297.pdf,IDL S3,ok,139367 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/r/x/w/grxw0289/grxw0289.ocr,IDL S3,ok,2751 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/r/x/w/grxw0289/grxw0289.pdf,IDL S3,ok,138439 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/f/y/k/ffyk0407/ffyk0407.ocr,IDL S3,ok,6656 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/t/h/j/fthj0323/fthj0323.ocr,IDL S3,ok,2748 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/t/h/j/fthj0323/fthj0323.zip,IDL S3,ok,11391 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/s/m/x/tsmx0332/tsmx0332.ocr,IDL S3,ok,84153 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/s/m/x/tsmx0332/tsmx0332.zip,IDL S3,ok,92197 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/g/h/n/zghn0318/zghn0318.ocr,IDL S3,ok,16143 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/g/h/n/zghn0318/zghn0318.zip,IDL S3,ok,2015243 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/s/f/c/msfc0376/msfc0376.ocr,IDL S3,ok,62427 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/r/v/j/jrvj0329/jrvj0329.pdf,IDL S3,ok,203478 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/r/l/x/frlx0407/frlx0407.ocr,IDL S3,ok,4665 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/g/b/p/ggbp0406/ggbp0406.ocr,IDL S3,ok,3452 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/f/y/k/ffyk0407/ffyk0407.pdf,IDL S3,ok,3366120 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/s/f/c/msfc0376/msfc0376.pdf,IDL S3,ok,2957554 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/t/y/y/xtyy0364/xtyy0364.pdf,IDL S3,ok,696375 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/r/l/x/frlx0407/frlx0407.pdf,IDL S3,ok,3270832 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/g/b/p/ggbp0406/ggbp0406.pdf,IDL S3,ok,3809834 bytes
+K2,"ot:""Billing Errors"" AND ot:(DCL OR 220950 OR freight OR ""Freight Out"") | coll=juul",IDL solr,hits=81,sweep juul_billerr
+K2,"ot:(""DCL"" AND ""Freight Out"" AND invoice) AND dt:spreadsheet | coll=juul",IDL solr,hits=1870,sweep juul_dclinv
+K2,"ot:(""DCL"" AND ""Freight Out"" AND invoice) AND dt:spreadsheet | coll=juul",IDL solr,hits=1870,sweep juul_dclinv
+K2,"ot:(""DCL"" AND ""Freight Out"" AND invoice) AND dt:spreadsheet | coll=juul",IDL solr,hits=1870,sweep juul_dclinv
+K2,"ot:(""DCL"" AND ""Freight Out"" AND invoice) AND dt:spreadsheet | coll=juul",IDL solr,hits=1870,sweep juul_dclinv
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/f/h/j/ffhj0332/ffhj0332.ocr,IDL S3,ok,2784518 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/f/h/j/ffhj0332/ffhj0332.zip,IDL S3,ok,2098848 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/x/x/p/mxxp0298/mxxp0298.ocr,IDL S3,ok,23210752 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/x/x/p/mxxp0298/mxxp0298.zip,IDL S3,ok,9218178 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/y/b/p/gybp0318/gybp0318.ocr,IDL S3,ok,125235869 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/y/b/p/gybp0318/gybp0318.zip,IDL S3,skipped,over 25MB: 26629355
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/j/c/g/fjcg0340/fjcg0340.ocr,IDL S3,ok,1974859 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/j/c/g/fjcg0340/fjcg0340.zip,IDL S3,ok,2222846 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/l/c/j/flcj0332/flcj0332.ocr,IDL S3,ok,33369 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/l/c/j/flcj0332/flcj0332.zip,IDL S3,ok,733321 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/n/m/f/snmf0333/snmf0333.ocr,IDL S3,ok,262610 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/n/m/f/snmf0333/snmf0333.zip,IDL S3,ok,238935 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/k/b/p/skbp0318/skbp0318.ocr,IDL S3,ok,9528492 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/k/b/p/skbp0318/skbp0318.zip,IDL S3,ok,6737243 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/j/b/k/jjbk0323/jjbk0323.ocr,IDL S3,ok,14048499 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/j/b/k/jjbk0323/jjbk0323.zip,IDL S3,ok,10350363 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/z/p/p/gzpp0298/gzpp0298.ocr,IDL S3,ok,13050 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/z/p/p/gzpp0298/gzpp0298.zip,IDL S3,ok,35256 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/d/n/fsdn0318/fsdn0318.ocr,IDL S3,ok,7360 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/d/n/fsdn0318/fsdn0318.zip,IDL S3,ok,1599073 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/h/c/x/fhcx0403/fhcx0403.ocr,IDL S3,ok,380702411 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/h/c/x/fhcx0403/fhcx0403.zip,IDL S3,skipped,over 25MB: 59598111
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/h/c/x/ghcx0403/ghcx0403.ocr,IDL S3,error,HTTP Error 404: Not Found
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/h/c/x/ghcx0403/ghcx0403.zip,IDL S3,skipped,over 25MB: 91788057
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/x/x/lxxx0403/lxxx0403.ocr,IDL S3,ok,356789070 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/x/x/lxxx0403/lxxx0403.zip,IDL S3,skipped,over 25MB: 55244649
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/y/f/x/yyfx0301/yyfx0301.ocr,IDL S3,ok,2509367 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/y/f/x/yyfx0301/yyfx0301.zip,IDL S3,ok,1449861 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/f/d/x/sfdx0318/sfdx0318.ocr,IDL S3,ok,2141 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/f/d/x/sfdx0318/sfdx0318.zip,IDL S3,ok,9520 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/s/l/f/qslf0403/qslf0403.zip,IDL S3,ok,77803 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/z/n/l/sznl0292/sznl0292.pdf,IDL S3,ok,2011535 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/h/f/v/phfv0311/phfv0311.pdf,IDL S3,ok,25598 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/p/v/h/jpvh0314/jpvh0314.pdf,IDL S3,ok,78111 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/j/x/x/ljxx0311/ljxx0311.pdf,IDL S3,ok,713415 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/y/f/b/fyfb0398/fyfb0398.pdf,IDL S3,ok,46130 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/d/j/fgdj0307/fgdj0307.pdf,IDL S3,ok,320645 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/g/b/rfgb0409/rfgb0409.pdf,IDL S3,ok,4104472 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/s/f/k/nsfk0290/nsfk0290.pdf,IDL S3,ok,27647 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/q/v/m/fqvm0406/fqvm0406.pdf,IDL S3,ok,214128 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/g/m/k/qgmk0287/qgmk0287.pdf,IDL S3,ok,331006 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/m/b/k/xmbk0289/xmbk0289.ocr,IDL S3,ok,820 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/m/b/k/xmbk0289/xmbk0289.pdf,IDL S3,ok,143670 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/t/w/g/ntwg0376/ntwg0376.ocr,IDL S3,ok,8669 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/t/w/g/ntwg0376/ntwg0376.pdf,IDL S3,ok,399870 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/f/f/c/hffc0311/hffc0311.pdf,IDL S3,ok,1029723 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/m/g/k/kmgk0290/kmgk0290.ocr,IDL S3,ok,1044 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/m/g/k/kmgk0290/kmgk0290.pdf,IDL S3,ok,248866 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/l/f/b/tlfb0399/tlfb0399.ocr,IDL S3,ok,27909 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/l/f/b/tlfb0399/tlfb0399.pdf,IDL S3,ok,4179430 bytes
+K2,id:(xsvy0400 OR fsvf0370 OR prvf0370 OR nxcd0363 OR ttyb0420 OR sypd0435 OR mkxw0443 OR kjxw0443 OR lxwk0433 OR rmcn0361 OR jtdl0331 OR prwl0331 OR hydg0334 OR lmdg0349 OR psww0360 OR qsww0360 OR fgcm0347) | coll=None,IDL solr,hits=17,
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/k/x/w/mkxw0443/mkxw0443.ocr,IDL S3,ok,6241 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/k/x/w/mkxw0443/mkxw0443.zip,IDL S3,ok,1818 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/j/x/w/kjxw0443/kjxw0443.ocr,IDL S3,ok,43096 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/j/x/w/kjxw0443/kjxw0443.zip,IDL S3,ok,3625 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/s/v/y/xsvy0400/xsvy0400.ocr,IDL S3,ok,15627 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/s/v/y/xsvy0400/xsvy0400.pdf,IDL S3,ok,2678382 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/v/f/fsvf0370/fsvf0370.ocr,IDL S3,ok,11474 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/v/f/fsvf0370/fsvf0370.pdf,IDL S3,ok,580988 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/r/v/f/prvf0370/prvf0370.ocr,IDL S3,ok,35090 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/r/v/f/prvf0370/prvf0370.pdf,IDL S3,ok,1671050 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/x/c/d/nxcd0363/nxcd0363.ocr,IDL S3,ok,5586 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/x/c/d/nxcd0363/nxcd0363.pdf,IDL S3,ok,351197 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/w/k/lxwk0433/lxwk0433.ocr,IDL S3,ok,32170 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/w/k/lxwk0433/lxwk0433.pdf,IDL S3,ok,1708482 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/m/c/n/rmcn0361/rmcn0361.ocr,IDL S3,ok,1662 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/m/c/n/rmcn0361/rmcn0361.pdf,IDL S3,ok,108730 bytes
+K2,"ot:(""UPS INVOICE REF NUMBER"" AND ""LINE HAUL / BASE RATE"") | coll=endo",IDL solr,hits=2,sweep endo_upsscs
+K2,"ot:(""UPS Supply Chain"" OR ""UPS SCS"" OR ""UPS-SCS"") AND ot:(freight AND (invoice OR rate OR discount OR LTL)) | coll=endo OR teva",IDL solr,hits=1323,sweep endo_upsscs2
+K2,"ot:(""UPS Supply Chain"" OR ""UPS SCS"" OR ""UPS-SCS"") AND ot:(freight AND (invoice OR rate OR discount OR LTL)) | coll=endo OR teva",IDL solr,hits=1323,sweep endo_upsscs2
+K2,"ot:(""UPS Supply Chain"" OR ""UPS SCS"" OR ""UPS-SCS"") AND ot:(freight AND (invoice OR rate OR discount OR LTL)) | coll=endo OR teva",IDL solr,hits=1323,sweep endo_upsscs2
+K2,"ot:(""SELL SHIPMENT ID"" OR ""UPS LOCATION CODE"" OR ""BLANKET PO NUMBER"") | coll=endo",IDL solr,hits=23,sweep endo_csv1
+K2,"originalformat:csv AND ot:(SCAC OR CARRIER) AND ot:(FREIGHT OR ""FUEL SURCHARGE"") | coll=endo",IDL solr,hits=7,sweep endo_csv2
+K2,originalformat:(csv OR CSV) | coll=endo,IDL solr,hits=3288,sweep endo_csv3
+K2,originalformat:(csv OR CSV) | coll=endo,IDL solr,hits=3288,sweep endo_csv3
+K2,originalformat:(csv OR CSV) | coll=endo,IDL solr,hits=3288,sweep endo_csv3
+K2,originalformat:(csv OR CSV) | coll=endo,IDL solr,hits=3288,sweep endo_csv3
+K2,originalformat:(csv OR CSV) | coll=endo,IDL solr,hits=3288,sweep endo_csv3
+K2,originalformat:(csv OR CSV) | coll=endo,IDL solr,hits=3288,sweep endo_csv3
+K2,originalformat:(csv OR CSV) AND filename:(*WE*) | coll=endo,IDL solr,hits=42,sweep endo_csv4
+K2,originalformat:(csv OR CSV) | coll=endo,IDL solr,hits=3288,endo csv tail
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/y/m/fsym0441/fsym0441.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/y/m/fsym0441/fsym0441.pdf,IDL S3,ok,27436 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/y/m/psym0441/psym0441.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/y/m/psym0441/psym0441.pdf,IDL S3,ok,27380 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/k/y/m/gkym0441/gkym0441.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/k/y/m/gkym0441/gkym0441.pdf,IDL S3,ok,27436 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/q/p/m/hqpm0441/hqpm0441.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/q/p/m/hqpm0441/hqpm0441.pdf,IDL S3,ok,27503 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/z/y/m/jzym0441/jzym0441.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/z/y/m/jzym0441/jzym0441.pdf,IDL S3,ok,27398 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/f/h/x/nfhx0433/nfhx0433.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/f/h/x/nfhx0433/nfhx0433.pdf,IDL S3,ok,27546 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/y/y/b/tyyb0427/tyyb0427.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/y/y/b/tyyb0427/tyyb0427.pdf,IDL S3,ok,20081 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/r/g/x/prgx0434/prgx0434.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/r/g/x/prgx0434/prgx0434.pdf,IDL S3,ok,27465 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/r/g/x/yrgx0434/yrgx0434.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/r/g/x/yrgx0434/yrgx0434.pdf,IDL S3,ok,27444 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/p/c/x/spcx0434/spcx0434.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/p/c/x/spcx0434/spcx0434.pdf,IDL S3,ok,27644 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/q/c/x/xqcx0434/xqcx0434.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/q/c/x/xqcx0434/xqcx0434.pdf,IDL S3,ok,27608 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/t/v/n/stvn0435/stvn0435.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/t/v/n/stvn0435/stvn0435.pdf,IDL S3,ok,28868 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/t/y/b/ttyb0420/ttyb0420.ocr,IDL S3,ok,32510 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/t/y/b/ttyb0420/ttyb0420.pdf,IDL S3,ok,16563595 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/y/p/d/sypd0435/sypd0435.ocr,IDL S3,ok,62013 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/y/p/d/sypd0435/sypd0435.zip,IDL S3,ok,7815423 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/b/n/pjbn0416/pjbn0416.ocr,IDL S3,ok,42323 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/b/n/pjbn0416/pjbn0416.zip,IDL S3,ok,235519 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/x/k/n/rxkn0400/rxkn0400.ocr,IDL S3,ok,5832 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/x/k/n/rxkn0400/rxkn0400.pdf,IDL S3,ok,976369 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/f/f/y/zffy0422/zffy0422.ocr,IDL S3,ok,3168 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/f/f/y/zffy0422/zffy0422.pdf,IDL S3,ok,140285 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/m/w/w/gmww0370/gmww0370.ocr,IDL S3,ok,174371 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/m/w/w/gmww0370/gmww0370.pdf,IDL S3,ok,8058800 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/y/m/fsym0441/fsym0441.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/y/m/psym0441/psym0441.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/k/y/m/gkym0441/gkym0441.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/q/p/m/hqpm0441/hqpm0441.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/z/y/m/jzym0441/jzym0441.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/f/h/x/nfhx0433/nfhx0433.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/y/y/b/tyyb0427/tyyb0427.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/r/g/x/prgx0434/prgx0434.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/r/g/x/yrgx0434/yrgx0434.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/p/c/x/spcx0434/spcx0434.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/q/c/x/xqcx0434/xqcx0434.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/t/v/n/stvn0435/stvn0435.pdf,IDL S3,withheld,Document Withheld - Non-Opioid Product Document placeholder; UPS SCS weekly invoice CSV not released
+K2,"filename:(*freight*details* OR *Freight*details* OR *UPS*small*pkg* OR *freight*invoice* OR *Freight*Invoice*) OR ot:(""Actavis freight details"" OR ""freight invoice backup"") | coll=teva",IDL solr,hits=2,sweep teva_actfrt
+K2,"ot:(""UPS Supply Chain"" OR ""UPS-SCS"" OR ""UPS SCS"") AND ot:(LTL AND (rate OR discount OR invoice OR tariff OR CzarLite OR FAK)) | coll=teva",IDL solr,hits=70,sweep teva_upsscs
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/h/c/d/mhcd0363/mhcd0363.ocr,IDL S3,ok,16815 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/y/h/rfyh0362/rfyh0362.ocr,IDL S3,ok,192981 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/g/x/c/qgxc0372/qgxc0372.ocr,IDL S3,ok,1911901 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/t/k/p/xtkp0363/xtkp0363.ocr,IDL S3,ok,2932 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/m/h/d/qmhd0360/qmhd0360.ocr,IDL S3,ok,5350 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/h/c/d/mhcd0363/mhcd0363.pdf,IDL S3,ok,768381 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/y/h/rfyh0362/rfyh0362.pdf,IDL S3,ok,9105152 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/k/y/h/gkyh0362/gkyh0362.ocr,IDL S3,ok,243220 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/k/y/h/gkyh0362/gkyh0362.pdf,IDL S3,ok,11470738 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/t/k/g/ptkg0362/ptkg0362.ocr,IDL S3,ok,724640 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/t/k/g/ptkg0362/ptkg0362.pdf,IDL S3,ok,24980650 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/j/p/c/njpc0363/njpc0363.ocr,IDL S3,ok,404354 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/j/p/c/njpc0363/njpc0363.pdf,IDL S3,ok,18436532 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/t/k/p/xtkp0363/xtkp0363.zip,IDL S3,ok,835482 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/m/h/d/qmhd0360/qmhd0360.zip,IDL S3,ok,830902 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/r/v/f/zrvf0370/zrvf0370.ocr,IDL S3,ok,56386 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/r/v/f/zrvf0370/zrvf0370.pdf,IDL S3,ok,2857446 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/h/c/d/hhcd0363/hhcd0363.ocr,IDL S3,ok,5586 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/h/c/d/hhcd0363/hhcd0363.pdf,IDL S3,ok,351801 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/t/d/l/jtdl0331/jtdl0331.ocr,IDL S3,ok,1850 bytes
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""WEIGHTS & INSPECTION"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight certificate"" OR ""reweigh"" OR ""re-weigh"" OR ""reweighed"")",IDL solr,hits=2248,sweep wi1
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""WEIGHTS & INSPECTION"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight certificate"" OR ""reweigh"" OR ""re-weigh"" OR ""reweighed"")",IDL solr,hits=2248,sweep wi1
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""WEIGHTS & INSPECTION"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight certificate"" OR ""reweigh"" OR ""re-weigh"" OR ""reweighed"")",IDL solr,hits=2248,sweep wi1
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""WEIGHTS & INSPECTION"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight certificate"" OR ""reweigh"" OR ""re-weigh"" OR ""reweighed"")",IDL solr,hits=2248,sweep wi1
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""WEIGHTS & INSPECTION"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight certificate"" OR ""reweigh"" OR ""re-weigh"" OR ""reweighed"")",IDL solr,hits=2248,sweep wi1
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight correction"" OR ""corrected weight"" OR ""reweigh"" OR ""W&I"") AND ot:(""freight bill"" OR ""delivery receipt"" OR ""pro number"" OR ""PRO#"" OR ""LTL"" OR ""consignee"" OR ""fuel surcharge"")",IDL solr,hits=13536,sweep wi2
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight correction"" OR ""corrected weight"" OR ""reweigh"" OR ""W&I"") AND ot:(""freight bill"" OR ""delivery receipt"" OR ""pro number"" OR ""PRO#"" OR ""LTL"" OR ""consignee"" OR ""fuel surcharge"")",IDL solr,hits=13536,sweep wi2
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight correction"" OR ""corrected weight"" OR ""reweigh"" OR ""W&I"") AND ot:(""freight bill"" OR ""delivery receipt"" OR ""pro number"" OR ""PRO#"" OR ""LTL"" OR ""consignee"" OR ""fuel surcharge"")",IDL solr,hits=13536,sweep wi2
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight correction"" OR ""corrected weight"" OR ""reweigh"" OR ""W&I"") AND ot:(""freight bill"" OR ""delivery receipt"" OR ""pro number"" OR ""PRO#"" OR ""LTL"" OR ""consignee"" OR ""fuel surcharge"")",IDL solr,hits=13536,sweep wi2
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight correction"" OR ""corrected weight"" OR ""reweigh"" OR ""W&I"") AND ot:(""freight bill"" OR ""delivery receipt"" OR ""pro number"" OR ""PRO#"" OR ""LTL"" OR ""consignee"" OR ""fuel surcharge"")",IDL solr,hits=13536,sweep wi2
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""inspection certificate"" OR ""weight correction"" OR ""corrected weight"" OR ""reweigh"" OR ""W&I"") AND ot:(""freight bill"" OR ""delivery receipt"" OR ""pro number"" OR ""PRO#"" OR ""LTL"" OR ""consignee"" OR ""fuel surcharge"")",IDL solr,hits=13536,sweep wi2
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""weight & inspection"" OR ""weights & inspection"")",IDL solr,hits=755,sweep wi3
+K2,"ot:(""weights and inspection"" OR ""weight and inspection"" OR ""inspection department"" OR ""scale differential"" OR ""weight & inspection"" OR ""weights & inspection"")",IDL solr,hits=755,sweep wi3
+K2,"ot:(""reweigh"" OR ""re-weigh"" OR ""reweighed"" OR ""weight correction"" OR ""corrected weight"" OR ""reclass"" OR ""inspection certificate"") AND ot:(""PRO"" AND (freight OR LTL OR carrier))",IDL solr,hits=2835,sweep wi4
+K2,"ot:(""reweigh"" OR ""re-weigh"" OR ""reweighed"" OR ""weight correction"" OR ""corrected weight"" OR ""reclass"" OR ""inspection certificate"") AND ot:(""PRO"" AND (freight OR LTL OR carrier))",IDL solr,hits=2835,sweep wi4
+K2,"ot:(""reweigh"" OR ""re-weigh"" OR ""reweighed"" OR ""weight correction"" OR ""corrected weight"" OR ""reclass"" OR ""inspection certificate"") AND ot:(""PRO"" AND (freight OR LTL OR carrier))",IDL solr,hits=2835,sweep wi4
+K2,"ot:(""reweigh"" OR ""re-weigh"" OR ""reweighed"" OR ""weight correction"" OR ""corrected weight"" OR ""reclass"" OR ""inspection certificate"") AND ot:(""PRO"" AND (freight OR LTL OR carrier))",IDL solr,hits=2835,sweep wi4
+K2,"ot:(""reweigh"" OR ""re-weigh"" OR ""reweighed"" OR ""weight correction"" OR ""corrected weight"" OR ""reclass"" OR ""inspection certificate"") AND ot:(""PRO"" AND (freight OR LTL OR carrier))",IDL solr,hits=2835,sweep wi4
+K2,"ot:(""reweigh"" OR ""re-weigh"" OR ""reweighed"" OR ""weight correction"" OR ""corrected weight"" OR ""reclass"" OR ""inspection certificate"") AND ot:(""PRO"" AND (freight OR LTL OR carrier))",IDL solr,hits=2835,sweep wi4
+K2,"ot:(""weights and inspection department"" OR ""inspected by our weights"" OR ""scale differential"" OR ""W & I"" OR ""W&I CERT"" OR ""weight and inspection certificate"" OR ""weight & research"" OR ""weight inspection"")",IDL solr,hits=56729,sweep wi5
+K2,"ot:(""weights and inspection department"" OR ""inspected by our weights"" OR ""scale differential"" OR ""W & I"" OR ""W&I CERT"" OR ""weight and inspection certificate"" OR ""weight & research"" OR ""weight inspection"")",IDL solr,hits=56729,sweep wi5
+K2,"ot:(""weights and inspection department"" OR ""inspected by our weights"" OR ""scale differential"" OR ""W & I"" OR ""W&I CERT"" OR ""weight and inspection certificate"" OR ""weight & research"" OR ""weight inspection"")",IDL solr,hits=56729,sweep wi5
+K2,"ot:(""weights and inspection department"" OR ""inspected by our weights"" OR ""scale differential"" OR ""W & I"" OR ""W&I CERT"" OR ""weight and inspection certificate"" OR ""weight & research"" OR ""weight inspection"")",IDL solr,hits=56729,sweep wi5
+K2,"ot:(""weights and inspection department"" OR ""inspected by our weights"" OR ""scale differential"" OR ""W & I"" OR ""W&I CERT"" OR ""weight and inspection certificate"" OR ""weight & research"" OR ""weight inspection"")",IDL solr,hits=56729,sweep wi5
+K2,"ot:(""weights and inspection department"" OR ""inspected by our weights"" OR ""scale differential"" OR ""W & I"" OR ""W&I CERT"" OR ""weight and inspection certificate"" OR ""weight & research"" OR ""weight inspection"")",IDL solr,hits=56729,sweep wi5
+K2,"ot:""weights and inspection department""",IDL solr,hits=3,sweep wiX
+K2,"ot:""scale differential""",IDL solr,hits=11,sweep wiX
+K2,"ot:""inspected by our weights""",IDL solr,hits=3,sweep wiX
+K2,"ot:(""inspection certificate"") AND ot:(""freight"" AND (""PRO"" OR carrier))",IDL solr,hits=120,sweep wiX
+K2,"ot:(""reweigh"" OR ""reweighed"" OR ""re-weigh"") AND ot:(""freight"" AND carrier AND (LTL OR invoice))",IDL solr,hits=62,sweep wiX
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/h/k/p/khkp0328/khkp0328.ocr,IDL S3,ok,434 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/s/g/g/qsgg0240/qsgg0240.ocr,IDL S3,ok,27329 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/s/c/v/rscv0396/rscv0396.ocr,IDL S3,ok,48271 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/s/c/v/sscv0396/sscv0396.ocr,IDL S3,ok,48305 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/k/n/x/kknx0410/kknx0410.ocr,IDL S3,ok,43454 bytes
+K2,"ot:(""Inspection Certificate"" AND ""Weight Correction"")",IDL solr,hits=2,sweep wiY
+K2,"ot:(""weight correction"" OR ""corrected bill"" OR ""correction notice"" OR ""balance due"") AND ot:(PRO AND (YRC OR ""UPS Freight"" OR ""FedEx Freight"" OR ABF OR Estes OR Saia OR ""R+L"" OR ""R&L"" OR Conway OR ""Con-way"" OR ""Old Dominion"" OR ""Pitt Ohio"" OR Averitt OR Roadway OR ""Central Transport"" OR Holland))",IDL solr,hits=548,sweep wiY
+K2,"ot:(""weight correction"" OR ""corrected bill"" OR ""correction notice"" OR ""balance due"") AND ot:(PRO AND (YRC OR ""UPS Freight"" OR ""FedEx Freight"" OR ABF OR Estes OR Saia OR ""R+L"" OR ""R&L"" OR Conway OR ""Con-way"" OR ""Old Dominion"" OR ""Pitt Ohio"" OR Averitt OR Roadway OR ""Central Transport"" OR Holland))",IDL solr,hits=548,sweep wiY
+K2,filename:(WC* OR *Inspection* OR *inspection* OR *W&I* OR *reweigh* OR *Reweigh*),IDL solr,hits=5029,sweep wiY
+K2,filename:(WC* OR *Inspection* OR *inspection* OR *W&I* OR *reweigh* OR *Reweigh*),IDL solr,hits=5029,sweep wiY
+K2,filename:(WC* OR *Inspection* OR *inspection* OR *W&I* OR *reweigh* OR *Reweigh*),IDL solr,hits=5029,sweep wiY
+K2,filename:(WC* OR *Inspection* OR *inspection* OR *W&I* OR *reweigh* OR *Reweigh*),IDL solr,hits=5029,sweep wiY
+K2,filename:(WC* OR *Inspection* OR *inspection* OR *W&I* OR *reweigh* OR *Reweigh*),IDL solr,hits=5029,sweep wiY
+K2,filename:(WC* OR *Inspection* OR *inspection* OR *W&I* OR *reweigh* OR *Reweigh*),IDL solr,hits=5029,sweep wiY
+K2,"ot:(""979-408870"" OR ""979408870"" OR 1020945) | coll=juul",IDL solr,hits=81,sweep jy
+K2,"ot:(YRC OR ""YRC Freight"") AND ot:(invoice OR ""freight bill"" OR ""balance due"" OR correction OR reweigh OR inspection OR dispute OR overcharge OR refund) | coll=juul",IDL solr,hits=274,sweep jy
+K2,"ot:(""Estes"" OR ""Saia"" OR ""R+L Carriers"" OR ""Old Dominion"" OR ""FedEx Freight"" OR ""UPS Freight"" OR ""ABF"") AND ot:(""freight bill"" OR ""balance due"" OR ""corrected invoice"" OR ""invoice adjustment"" OR ""overcharge"" OR ""short paid"" OR ""short pay"") | coll=juul",IDL solr,hits=416,sweep jy
+K2,"filename:(166836* OR 166957* OR 167159* OR 167494* OR 167620* OR 165742* OR 166278* OR 166482* OR 165957* OR *DCL*Invoice* OR 16????.xlsx OR 16????.xlsb OR 16????.pdf) OR ot:(""166836"") | coll=juul",IDL solr,hits=67,sweep dclinvs
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/q/g/g/xqgg0299/xqgg0299.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/q/g/g/xqgg0299/xqgg0299.zip,IDL S3,ok,4272038 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/k/k/p/kkkp0328/kkkp0328.ocr,IDL S3,ok,2724 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/k/k/p/kkkp0328/kkkp0328.pdf,IDL S3,ok,119450 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/h/k/p/khkp0328/khkp0328.pdf,IDL S3,ok,33189 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/h/k/p/fhkp0328/fhkp0328.ocr,IDL S3,ok,40145 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/h/k/p/fhkp0328/fhkp0328.pdf,IDL S3,ok,2041149 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/k/k/p/nkkp0328/nkkp0328.ocr,IDL S3,ok,31120 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/k/k/p/nkkp0328/nkkp0328.pdf,IDL S3,ok,1517757 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/s/n/j/jsnj0398/jsnj0398.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/s/n/j/jsnj0398/jsnj0398.zip,IDL S3,ok,20616261 bytes
+K2,"ot:(68648757 OR ""Smith Transportation"" OR ""Smith-Cargo"" OR ""smith cargo"" OR ""Smith Cargo"") | coll=juul",IDL solr,hits=476,sweep smith
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/r/p/j/grpj0352/grpj0352.ocr,IDL S3,ok,6797 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/p/g/f/fpgf0317/fpgf0317.ocr,IDL S3,ok,3254 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/h/d/x/mhdx0367/mhdx0367.ocr,IDL S3,ok,38606 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/r/v/k/frvk0352/frvk0352.ocr,IDL S3,ok,4745 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/q/f/d/rqfd0302/rqfd0302.ocr,IDL S3,ok,1712 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/m/k/p/fmkp0328/fmkp0328.ocr,IDL S3,ok,26672 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/x/k/p/fxkp0328/fxkp0328.ocr,IDL S3,ok,19160 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/r/p/j/jrpj0352/jrpj0352.ocr,IDL S3,ok,10976 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/r/p/j/krpj0352/krpj0352.ocr,IDL S3,ok,12984 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/s/g/b/fsgb0398/fsgb0398.ocr,IDL S3,ok,3286 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/p/g/f/gpgf0317/gpgf0317.ocr,IDL S3,ok,1501 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/h/k/p/hhkp0328/hhkp0328.ocr,IDL S3,ok,35237 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/r/p/j/jrpj0352/jrpj0352.pdf,IDL S3,ok,2503906 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/l/k/p/plkp0328/plkp0328.ocr,IDL S3,ok,2728 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/l/k/p/plkp0328/plkp0328.pdf,IDL S3,ok,115765 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/x/k/p/gxkp0328/gxkp0328.ocr,IDL S3,ok,2650 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/x/k/p/gxkp0328/gxkp0328.pdf,IDL S3,ok,115252 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/h/d/x/mhdx0367/mhdx0367.pdf,IDL S3,ok,9568290 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/m/d/g/lmdg0349/lmdg0349.ocr,IDL S3,ok,40498 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/m/d/g/lmdg0349/lmdg0349.zip,IDL S3,ok,27107 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/w/w/psww0360/psww0360.ocr,IDL S3,ok,4175 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/w/w/psww0360/psww0360.zip,IDL S3,ok,7158 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/s/w/w/qsww0360/qsww0360.ocr,IDL S3,ok,1984 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/s/w/w/qsww0360/qsww0360.zip,IDL S3,ok,4702 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/c/m/fgcm0347/fgcm0347.ocr,IDL S3,ok,709791 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/c/m/fgcm0347/fgcm0347.zip,IDL S3,ok,501041 bytes
+K2,"ot:(""freight claim"" OR ""cargo claim"" OR ""claim log"" OR ""carrier claim"") AND ot:(carrier OR PRO OR ""check received"" OR denied OR approved) | coll=teva",IDL solr,hits=480,sweep teva_claims
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/m/d/c/qmdc0348/qmdc0348.ocr,IDL S3,ok,746 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/f/x/h/jfxh0352/jfxh0352.ocr,IDL S3,ok,2077 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/m/d/c/hmdc0348/hmdc0348.ocr,IDL S3,ok,839 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/g/p/n/jgpn0371/jgpn0371.ocr,IDL S3,ok,2353 bytes
+K2,filename:(*claim* OR *Claim* OR *CLAIM* OR *shortage* OR *Shortage* OR *SDR* OR *Damage* OR *damage* OR *Exceptions*Log*) AND dt:spreadsheet | coll=teva OR endo OR mnk OR mck OR insys,IDL solr,hits=884,sweep claimfiles
+K2,filename:(*claim* OR *Claim* OR *CLAIM* OR *shortage* OR *Shortage* OR *SDR* OR *Damage* OR *damage* OR *Exceptions*Log*) AND dt:spreadsheet | coll=teva OR endo OR mnk OR mck OR insys,IDL solr,hits=884,sweep claimfiles
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/r/f/c/mrfc0427/mrfc0427.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/x/g/c/hxgc0427/hxgc0427.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/y/g/f/tygf0418/tygf0418.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/z/l/k/qzlk0244/qzlk0244.ocr,IDL S3,ok,5184 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/r/v/h/prvh0250/prvh0250.ocr,IDL S3,ok,40376 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/x/j/c/mxjc0418/mxjc0418.ocr,IDL S3,ok,51 bytes
+K2,"ot:(""rate confirmation"" OR ""load confirmation"" OR ""carrier confirmation"") AND ot:(truckload OR ""dry van"" OR linehaul OR ""line haul"" OR MC)",IDL solr,hits=8,sweep p6
+K2,"ot:(""guaranteed service"" OR ""service guarantee"" OR ""money back guarantee"" OR ""guaranteed delivery"") AND ot:(refund OR credit) AND ot:(freight OR LTL OR carrier)",IDL solr,hits=787,sweep p6
+K2,"ot:(""guaranteed service"" OR ""service guarantee"" OR ""money back guarantee"" OR ""guaranteed delivery"") AND ot:(refund OR credit) AND ot:(freight OR LTL OR carrier)",IDL solr,hits=787,sweep p6
+K2,"ot:(""overcharge claim"" OR ""freight overcharge"" OR ""duplicate billing"" OR ""duplicate payment"") AND ot:(freight OR carrier)",IDL solr,hits=394,sweep p6
+K2,"ot:(""fuel surcharge table"" OR ""fuel surcharge schedule"" OR ""fuel schedule"" OR ""DOE national average"") AND ot:(LTL OR truckload OR freight)",IDL solr,hits=0,sweep p6
+K2,"ot:(""detention"" OR ""lumper"" OR ""TONU"" OR ""truck ordered not used"" OR ""layover"") AND ot:(invoice AND (carrier OR freight OR truckload))",IDL solr,hits=2488,sweep p6
+K2,"ot:(""detention"" OR ""lumper"" OR ""TONU"" OR ""truck ordered not used"" OR ""layover"") AND ot:(invoice AND (carrier OR freight OR truckload))",IDL solr,hits=2488,sweep p6
+K2,"ot:(""detention"" OR ""lumper"" OR ""TONU"" OR ""truck ordered not used"" OR ""layover"") AND ot:(invoice AND (carrier OR freight OR truckload))",IDL solr,hits=2488,sweep p6
+K2,"ot:(""detention"" OR ""lumper"" OR ""TONU"" OR ""truck ordered not used"" OR ""layover"") AND ot:(invoice AND (carrier OR freight OR truckload))",IDL solr,hits=2488,sweep p6
+K2,"ot:(""detention"" OR ""lumper"" OR ""TONU"" OR ""truck ordered not used"" OR ""layover"") AND ot:(invoice AND (carrier OR freight OR truckload))",IDL solr,hits=2488,sweep p6
+K2,filename:(*freight* OR *Freight* OR *FREIGHT* OR *carrier* OR *Carrier* OR *LTL* OR *truckload* OR *Truckload* OR *BOL* OR *Bill*Lading* OR *tariff* OR *Tariff* OR *fuel*surcharge* OR *Fuel*Surcharge*) | coll=mck OR insys OR endo OR teva,IDL solr,hits=1774,sweep fnames_other
+K2,filename:(*freight* OR *Freight* OR *FREIGHT* OR *carrier* OR *Carrier* OR *LTL* OR *truckload* OR *Truckload* OR *BOL* OR *Bill*Lading* OR *tariff* OR *Tariff* OR *fuel*surcharge* OR *Fuel*Surcharge*) | coll=mck OR insys OR endo OR teva,IDL solr,hits=1774,sweep fnames_other
+K2,filename:(*freight* OR *Freight* OR *FREIGHT* OR *carrier* OR *Carrier* OR *LTL* OR *truckload* OR *Truckload* OR *BOL* OR *Bill*Lading* OR *tariff* OR *Tariff* OR *fuel*surcharge* OR *Fuel*Surcharge*) | coll=mck OR insys OR endo OR teva,IDL solr,hits=1774,sweep fnames_other
+K2,filename:(*freight* OR *Freight* OR *FREIGHT* OR *carrier* OR *Carrier* OR *LTL* OR *truckload* OR *Truckload* OR *BOL* OR *Bill*Lading* OR *tariff* OR *Tariff* OR *fuel*surcharge* OR *Fuel*Surcharge*) | coll=mck OR insys OR endo OR teva,IDL solr,hits=1774,sweep fnames_other
+K2,filename:(*freight* OR *Freight* OR *FREIGHT* OR *LTL* OR *truckload* OR *Truckload* OR *Bill*Lading* OR *tariff* OR *Tariff* OR *fuel*surcharge* OR *Fuel*Surcharge* OR *Transportation* OR *transportation*) | coll=mck OR insys OR endo OR teva,IDL solr,hits=486,sweep fnames_other2
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/p/w/y/lpwy0429/lpwy0429.ocr,IDL S3,ok,7588 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/n/g/w/rngw0436/rngw0436.ocr,IDL S3,ok,36 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/n/g/w/sngw0436/sngw0436.ocr,IDL S3,ok,36 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/n/g/w/tngw0436/tngw0436.ocr,IDL S3,ok,36 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/n/g/w/zngw0436/zngw0436.ocr,IDL S3,ok,36 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/z/k/p/xzkp0412/xzkp0412.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/z/k/p/jzkp0412/jzkp0412.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/p/m/y/lpmy0440/lpmy0440.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/r/d/b/hrdb0421/hrdb0421.ocr,IDL S3,ok,1978 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/q/c/y/gqcy0400/gqcy0400.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/q/c/y/xqcy0400/xqcy0400.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/p/c/y/ppcy0400/ppcy0400.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/q/c/y/jqcy0400/jqcy0400.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/n/v/y/rnvy0433/rnvy0433.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/m/l/y/lmly0433/lmly0433.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/r/n/m/lrnm0441/lrnm0441.ocr,IDL S3,ok,726 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/k/n/m/lknm0441/lknm0441.ocr,IDL S3,ok,17373 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/z/m/m/tzmm0441/tzmm0441.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/p/m/k/fpmk0430/fpmk0430.ocr,IDL S3,ok,9129 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/n/n/m/fnnm0441/fnnm0441.ocr,IDL S3,ok,730 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/l/x/n/nlxn0433/nlxn0433.ocr,IDL S3,ok,36 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/f/m/v/jfmv0418/jfmv0418.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/m/x/w/kmxw0421/kmxw0421.ocr,IDL S3,ok,8298 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/g/k/l/sgkl0414/sgkl0414.ocr,IDL S3,ok,1578 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/m/w/pjmw0433/pjmw0433.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/h/m/y/thmy0429/thmy0429.ocr,IDL S3,ok,3310 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/f/b/p/sfbp0430/sfbp0430.ocr,IDL S3,ok,6354 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/y/y/v/qyyv0418/qyyv0418.ocr,IDL S3,ok,2387 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/s/b/w/msbw0438/msbw0438.ocr,IDL S3,ok,5811 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/t/m/y/xtmy0433/xtmy0433.ocr,IDL S3,ok,4211 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/c/x/fgcx0431/fgcx0431.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/s/l/f/gslf0418/gslf0418.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/j/b/y/fjby0400/fjby0400.ocr,IDL S3,ok,36 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/r/k/d/hrkd0430/hrkd0430.ocr,IDL S3,ok,1046 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/t/x/d/ttxd0430/ttxd0430.ocr,IDL S3,ok,486 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/m/g/x/gmgx0378/gmgx0378.ocr,IDL S3,ok,3272 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/y/k/n/sykn0400/sykn0400.ocr,IDL S3,ok,1092 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/g/m/j/jgmj0403/jgmj0403.ocr,IDL S3,ok,43435 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/g/h/v/xghv0390/xghv0390.ocr,IDL S3,ok,811 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/s/g/n/gsgn0377/gsgn0377.ocr,IDL S3,ok,554 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/g/m/n/hgmn0426/hgmn0426.ocr,IDL S3,ok,51 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/s/n/k/ksnk0429/ksnk0429.ocr,IDL S3,ok,36 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/t/k/p/ktkp0412/ktkp0412.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/h/m/d/jhmd0431/jhmd0431.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/h/m/d/ghmd0431/ghmd0431.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/f/j/j/nfjj0438/nfjj0438.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/n/d/n/zndn0400/zndn0400.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/t/b/g/ttbg0379/ttbg0379.ocr,IDL S3,ok,1366 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/f/n/lxfn0419/lxfn0419.ocr,IDL S3,ok,68 bytes
+K2,"ot:(LTL OR truckload OR ""freight bill"" OR ""bill of lading"") AND ot:(carrier OR freight) | coll=mck",IDL solr,hits=5,sweep mck1
+K2,"ot:(""freight bill"" OR ""bill of lading"" OR LTL OR ""YRC"" OR ""FedEx Freight"" OR ""UPS Freight"")  | coll=insys",IDL solr,hits=754,sweep ins1
+K2,"ot:(""freight bill"" OR ""bill of lading"" OR LTL OR ""YRC"" OR ""FedEx Freight"" OR ""UPS Freight"")  | coll=insys",IDL solr,hits=754,sweep ins1
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/m/y/l/smyl0277/smyl0277.ocr,IDL S3,ok,5491 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/y/y/c/hyyc0266/hyyc0266.ocr,IDL S3,ok,1593 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/z/h/j/gzhj0270/gzhj0270.ocr,IDL S3,ok,1957 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/n/l/v/xnlv0270/xnlv0270.ocr,IDL S3,ok,9356 bytes
+K2,"ot:(YRC OR ""Yellow"" OR Estes OR ""Old Dominion"" OR ""UPS Freight"" OR ""FedEx Freight"" OR ""Central Freight"" OR Saia OR ""Con-way"" OR ""Conway"" OR ""ABF"" OR ""R+L"" OR ""Southeastern Freight"" OR ""Dayton Freight"" OR ""Pitt Ohio"" OR Averitt) AND ot:(invoice OR ""freight bill"" OR PRO) | coll=insys",IDL solr,hits=1124,sweep ins2
+K2,"ot:(YRC OR ""Yellow"" OR Estes OR ""Old Dominion"" OR ""UPS Freight"" OR ""FedEx Freight"" OR ""Central Freight"" OR Saia OR ""Con-way"" OR ""Conway"" OR ""ABF"" OR ""R+L"" OR ""Southeastern Freight"" OR ""Dayton Freight"" OR ""Pitt Ohio"" OR Averitt) AND ot:(invoice OR ""freight bill"" OR PRO) | coll=insys",IDL solr,hits=1124,sweep ins2
+K2,"ot:(YRC OR ""Yellow"" OR Estes OR ""Old Dominion"" OR ""UPS Freight"" OR ""FedEx Freight"" OR ""Central Freight"" OR Saia OR ""Con-way"" OR ""Conway"" OR ""ABF"" OR ""R+L"" OR ""Southeastern Freight"" OR ""Dayton Freight"" OR ""Pitt Ohio"" OR Averitt) AND ot:(invoice OR ""freight bill"" OR PRO) | coll=insys",IDL solr,hits=1124,sweep ins2
+K2,filename:(*FREIGHT* OR *Freight* OR *freight* OR *YRC* OR *ESTES* OR *DRAYAGE* OR *Drayage* OR *SHIPPING*INVOICE*) | coll=insys,IDL solr,hits=8,sweep ins3
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/n/k/k/pnkk0247/pnkk0247.ocr,IDL S3,ok,2335278 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/n/k/k/pnkk0247/pnkk0247.zip,IDL S3,ok,1490076 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/j/h/y/tjhy0249/tjhy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/j/h/y/tjhy0249/tjhy0249.zip,IDL S3,ok,1740455 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/k/h/y/fkhy0249/fkhy0249.ocr,IDL S3,ok,2285115 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/k/h/y/fkhy0249/fkhy0249.zip,IDL S3,ok,1453965 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/h/y/pjhy0249/pjhy0249.ocr,IDL S3,ok,1988986 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/h/y/pjhy0249/pjhy0249.zip,IDL S3,ok,1265305 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/n/k/k/nnkk0247/nnkk0247.ocr,IDL S3,ok,2479129 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/n/k/k/nnkk0247/nnkk0247.zip,IDL S3,ok,1562730 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/k/h/y/jkhy0249/jkhy0249.ocr,IDL S3,ok,2290673 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/k/h/y/jkhy0249/jkhy0249.zip,IDL S3,ok,1456061 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/j/h/y/hjhy0249/hjhy0249.ocr,IDL S3,ok,1916533 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/j/h/y/hjhy0249/hjhy0249.zip,IDL S3,ok,1215721 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/x/h/y/pxhy0249/pxhy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/x/h/y/pxhy0249/pxhy0249.zip,IDL S3,ok,1715272 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/x/h/y/rxhy0249/rxhy0249.ocr,IDL S3,ok,2442879 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/x/h/y/rxhy0249/rxhy0249.zip,IDL S3,ok,1547146 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/m/k/k/pmkk0247/pmkk0247.ocr,IDL S3,ok,1599776 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/m/k/k/pmkk0247/pmkk0247.zip,IDL S3,ok,1027848 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/h/h/y/xhhy0249/xhhy0249.ocr,IDL S3,ok,1976903 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/h/h/y/xhhy0249/xhhy0249.zip,IDL S3,ok,1249141 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/x/h/y/jxhy0249/jxhy0249.ocr,IDL S3,ok,2715797 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/x/h/y/jxhy0249/jxhy0249.zip,IDL S3,ok,1699599 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/h/y/lxhy0249/lxhy0249.ocr,IDL S3,ok,2180758 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/h/y/lxhy0249/lxhy0249.zip,IDL S3,ok,1377427 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/h/h/y/yhhy0249/yhhy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/h/h/y/yhhy0249/yhhy0249.zip,IDL S3,ok,1735356 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/h/h/y/qhhy0249/qhhy0249.ocr,IDL S3,ok,127 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/h/h/y/qhhy0249/qhhy0249.zip,IDL S3,ok,1489053 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/h/h/y/shhy0249/shhy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/h/h/y/shhy0249/shhy0249.zip,IDL S3,ok,1508550 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/t/g/y/jtgy0249/jtgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/t/g/y/jtgy0249/jtgy0249.zip,IDL S3,ok,1575342 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/t/g/y/ptgy0249/ptgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/t/g/y/ptgy0249/ptgy0249.zip,IDL S3,ok,1252492 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/v/x/pjvx0248/pjvx0248.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/v/x/pjvx0248/pjvx0248.zip,IDL S3,ok,1237323 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/g/y/psgy0249/psgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/g/y/psgy0249/psgy0249.zip,IDL S3,ok,2111046 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/g/h/y/pghy0249/pghy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/g/h/y/pghy0249/pghy0249.zip,IDL S3,ok,1410894 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/g/h/y/nghy0249/nghy0249.ocr,IDL S3,ok,2804476 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/g/h/y/nghy0249/nghy0249.zip,IDL S3,ok,1759501 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/k/v/x/jkvx0248/jkvx0248.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/k/v/x/jkvx0248/jkvx0248.zip,IDL S3,ok,1041379 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/q/g/y/qqgy0249/qqgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/q/g/y/qqgy0249/qqgy0249.zip,IDL S3,ok,959820 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/m/g/y/rmgy0249/rmgy0249.ocr,IDL S3,ok,127 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/m/g/y/rmgy0249/rmgy0249.zip,IDL S3,ok,1001142 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/n/g/y/fngy0249/fngy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/n/g/y/fngy0249/fngy0249.zip,IDL S3,ok,595746 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/m/g/y/tmgy0249/tmgy0249.ocr,IDL S3,ok,127 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/m/g/y/tmgy0249/tmgy0249.zip,IDL S3,ok,909136 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/r/g/y/xrgy0249/xrgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/r/g/y/xrgy0249/xrgy0249.zip,IDL S3,ok,1174584 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/q/g/y/hqgy0249/hqgy0249.ocr,IDL S3,ok,127 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/q/g/y/hqgy0249/hqgy0249.zip,IDL S3,ok,1237657 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/p/g/y/xpgy0249/xpgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/p/g/y/xpgy0249/xpgy0249.zip,IDL S3,ok,1163266 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/l/g/y/plgy0249/plgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/l/g/y/plgy0249/plgy0249.zip,IDL S3,ok,1071360 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/k/g/y/rkgy0249/rkgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/k/g/y/rkgy0249/rkgy0249.zip,IDL S3,ok,804823 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/y/g/y/zygy0249/zygy0249.ocr,IDL S3,ok,127 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/y/g/y/zygy0249/zygy0249.zip,IDL S3,ok,1204787 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/p/g/y/gpgy0249/gpgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/p/g/y/gpgy0249/gpgy0249.zip,IDL S3,ok,1383937 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/y/g/y/mygy0249/mygy0249.ocr,IDL S3,ok,1723382 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/y/g/y/mygy0249/mygy0249.zip,IDL S3,ok,1084669 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/k/g/y/nkgy0249/nkgy0249.ocr,IDL S3,ok,1725097 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/k/g/y/nkgy0249/nkgy0249.zip,IDL S3,ok,1083573 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/k/g/y/pkgy0249/pkgy0249.ocr,IDL S3,ok,1297328 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/k/g/y/pkgy0249/pkgy0249.zip,IDL S3,ok,828180 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/y/g/y/yygy0249/yygy0249.ocr,IDL S3,ok,1393151 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/y/g/y/yygy0249/yygy0249.zip,IDL S3,ok,877284 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/k/g/y/tkgy0249/tkgy0249.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/k/g/y/tkgy0249/tkgy0249.zip,IDL S3,ok,954853 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/l/g/y/nlgy0249/nlgy0249.ocr,IDL S3,ok,1277152 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/l/g/y/nlgy0249/nlgy0249.zip,IDL S3,ok,811931 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/l/g/y/llgy0249/llgy0249.ocr,IDL S3,ok,1691958 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/l/g/y/llgy0249/llgy0249.zip,IDL S3,ok,1069566 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/y/g/y/sygy0249/sygy0249.ocr,IDL S3,ok,127 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/y/g/y/sygy0249/sygy0249.zip,IDL S3,ok,1284812 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/f/n/h/qfnh0248/qfnh0248.ocr,IDL S3,ok,127 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/f/n/h/qfnh0248/qfnh0248.zip,IDL S3,ok,689904 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/z/m/h/zzmh0248/zzmh0248.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/z/m/h/zzmh0248/zzmh0248.zip,IDL S3,ok,1174946 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/g/x/k/ygxk0247/ygxk0247.ocr,IDL S3,ok,1095335 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/g/x/k/ygxk0247/ygxk0247.zip,IDL S3,ok,655230 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/h/x/k/jhxk0247/jhxk0247.ocr,IDL S3,ok,1084271 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/h/x/k/jhxk0247/jhxk0247.zip,IDL S3,ok,658891 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/g/x/k/kgxk0247/kgxk0247.ocr,IDL S3,ok,972847 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/g/x/k/kgxk0247/kgxk0247.zip,IDL S3,ok,584928 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/x/k/fgxk0247/fgxk0247.ocr,IDL S3,ok,939850 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/x/k/fgxk0247/fgxk0247.zip,IDL S3,ok,563692 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/l/m/h/rlmh0248/rlmh0248.ocr,IDL S3,ok,896248 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/l/m/h/rlmh0248/rlmh0248.zip,IDL S3,ok,543765 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/m/m/h/fmmh0248/fmmh0248.ocr,IDL S3,ok,119 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/m/m/h/fmmh0248/fmmh0248.zip,IDL S3,ok,348505 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/l/c/v/klcv0245/klcv0245.zip,IDL S3,ok,120972 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/l/w/c/jlwc0253/jlwc0253.zip,IDL S3,ok,367967 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/r/f/c/grfc0245/grfc0245.zip,IDL S3,ok,39666 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/f/l/x/nflx0245/nflx0245.pdf,IDL S3,ok,231649 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/z/y/c/szyc0245/szyc0245.zip,IDL S3,ok,58169 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/j/m/b/gjmb0245/gjmb0245.zip,IDL S3,ok,10201 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/p/b/n/ypbn0235/ypbn0235.pdf,IDL S3,ok,27786 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/l/p/h/mlph0248/mlph0248.pdf,IDL S3,ok,267381 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/y/y/f/hyyf0237/hyyf0237.pdf,IDL S3,ok,500137 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/x/b/m/hxbm0245/hxbm0245.pdf,IDL S3,ok,991709 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/r/v/h/prvh0250/prvh0250.zip,IDL S3,ok,31362 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/k/b/b/fkbb0245/fkbb0245.ocr,IDL S3,ok,94712 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/k/b/b/fkbb0245/fkbb0245.zip,IDL S3,ok,97351 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/h/k/w/fhkw0245/fhkw0245.ocr,IDL S3,ok,88288 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/h/k/w/fhkw0245/fhkw0245.zip,IDL S3,ok,85843 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/l/y/h/ylyh0248/ylyh0248.ocr,IDL S3,ok,212913 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/l/y/h/ylyh0248/ylyh0248.zip,IDL S3,ok,161437 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/y/c/p/yycp0254/yycp0254.pdf,IDL S3,ok,78943 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/p/p/k/nppk0238/nppk0238.pdf,IDL S3,ok,171605 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/h/c/j/yhcj0332/yhcj0332.ocr,IDL S3,ok,35124 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/y/h/c/j/yhcj0332/yhcj0332.zip,IDL S3,ok,673212 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/z/l/x/tzlx0332/tzlx0332.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/z/l/x/tzlx0332/tzlx0332.zip,IDL S3,ok,12260377 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/q/h/n/lqhn0318/lqhn0318.ocr,IDL S3,ok,6284 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/q/h/n/lqhn0318/lqhn0318.zip,IDL S3,ok,660628 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/j/g/w/njgw0357/njgw0357.ocr,IDL S3,ok,23514 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/j/g/w/njgw0357/njgw0357.zip,IDL S3,ok,669073 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/l/k/x/hlkx0332/hlkx0332.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/l/k/x/hlkx0332/hlkx0332.zip,IDL S3,ok,16457108 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/n/b/p/fnbp0318/fnbp0318.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/n/b/p/fnbp0318/fnbp0318.zip,IDL S3,ok,22283753 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/j/n/x/hjnx0332/hjnx0332.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/j/n/x/hjnx0332/hjnx0332.zip,IDL S3,ok,25999527 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/n/x/rfnx0332/rfnx0332.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/n/x/rfnx0332/rfnx0332.zip,IDL S3,skipped,over 25MB: 28001486
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/p/b/p/ppbp0318/ppbp0318.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/p/b/p/ppbp0318/ppbp0318.zip,IDL S3,ok,11249283 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/s/k/x/qskx0332/qskx0332.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/s/k/x/qskx0332/qskx0332.zip,IDL S3,ok,21430321 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/j/l/g/zjlg0340/zjlg0340.ocr,IDL S3,ok,4000001 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/j/l/g/zjlg0340/zjlg0340.zip,IDL S3,ok,1846340 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/k/k/x/kkkx0332/kkkx0332.ocr,IDL S3,ok,2320657 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/k/k/x/kkkx0332/kkkx0332.zip,IDL S3,ok,1384218 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/t/d/p/ftdp0380/ftdp0380.ocr,IDL S3,ok,1872 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/t/d/p/ftdp0380/ftdp0380.pdf,IDL S3,ok,98585 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/y/b/rfyb0318/rfyb0318.ocr,IDL S3,ok,1390 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/y/b/rfyb0318/rfyb0318.pdf,IDL S3,ok,185689 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/l/g/x/klgx0408/klgx0408.ocr,IDL S3,ok,49912 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/l/g/x/klgx0408/klgx0408.zip,IDL S3,ok,330168 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/g/n/psgn0318/psgn0318.ocr,IDL S3,ok,601814 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/s/g/n/psgn0318/psgn0318.zip,IDL S3,ok,218759 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/m/k/p/fmkp0328/fmkp0328.pdf,IDL S3,ok,1505238 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/x/k/p/fxkp0328/fxkp0328.pdf,IDL S3,ok,1174132 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/m/y/l/smyl0277/smyl0277.pdf,IDL S3,ok,610081 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/p/w/y/lpwy0429/lpwy0429.pdf,IDL S3,ok,634502 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/r/d/b/hrdb0421/hrdb0421.pdf,IDL S3,ok,134915 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/r/n/m/lrnm0441/lrnm0441.pdf,IDL S3,ok,57596 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/k/n/m/lknm0441/lknm0441.pdf,IDL S3,ok,1000692 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/p/m/k/fpmk0430/fpmk0430.pdf,IDL S3,ok,416151 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/n/n/m/fnnm0441/fnnm0441.pdf,IDL S3,ok,48992 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/m/x/w/kmxw0421/kmxw0421.zip,IDL S3,ok,12591 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/g/k/l/sgkl0414/sgkl0414.pdf,IDL S3,ok,87599 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/h/m/y/thmy0429/thmy0429.pdf,IDL S3,ok,247503 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/f/b/p/sfbp0430/sfbp0430.pdf,IDL S3,ok,339779 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/y/y/v/qyyv0418/qyyv0418.pdf,IDL S3,ok,153226 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/s/b/w/msbw0438/msbw0438.pdf,IDL S3,ok,475920 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/t/m/y/xtmy0433/xtmy0433.pdf,IDL S3,ok,369237 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/g/m/j/jgmj0403/jgmj0403.zip,IDL S3,ok,77798 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/t/b/g/ttbg0379/ttbg0379.pdf,IDL S3,ok,81798 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/y/k/n/sykn0400/sykn0400.pdf,IDL S3,ok,67482 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/x/c/l/rxcl0418/rxcl0418.ocr,IDL S3,ok,68 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/x/c/l/rxcl0418/rxcl0418.pdf,IDL S3,ok,21467 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/q/m/d/c/qmdc0348/qmdc0348.pdf,IDL S3,ok,48640 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/m/d/c/hmdc0348/hmdc0348.pdf,IDL S3,ok,47209 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/f/x/h/jfxh0352/jfxh0352.pdf,IDL S3,ok,119716 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/t/d/l/jtdl0331/jtdl0331.pdf,IDL S3,ok,193795 bytes
+K2,id:ffhj0332 OR id:ffyk0407 OR id:fgcm0347 OR id:fgdj0307 OR id:fgky0254 OR id:fgxk0247 OR id:fhkp0328 OR id:fhkw0245 OR id:fjcg0340 OR id:fkbb0245 OR id:fkhy0249 OR id:flcj0332 OR id:fmkp0328 OR id:fmmh0248 OR id:fngy0249 OR id:fnnm0441 OR id:fpmk0430 OR id:fqvm0406 OR id:frlx0407 OR id:fsdn0318 OR id:fsvf0370 OR id:ftdp0380 OR id:fthj0323 OR id:fxkp0328 OR id:fyfb0398 OR id:ggbp0406 OR id:gjmb0245 OR id:gkyh0362 OR id:gpgy0249 OR id:grfc0245 OR id:grxw0289 OR id:gxkp0328 OR id:gzpp0298 OR id:hffc0311 OR id:hgky0254 OR id:hjhy0249 OR id:hlkx0332 OR id:hmdc0348 OR id:hnhl0297 OR id:hqgy0249 | coll=None,IDL solr,hits=40,metadata fetch
+K2,id:hrdb0421 OR id:hxbm0245 OR id:hyyf0237 OR id:jfxh0352 OR id:jgmj0403 OR id:jhxk0247 OR id:jjbk0323 OR id:jkhy0249 OR id:jkvx0248 OR id:jlwc0253 OR id:jpvh0314 OR id:jrpj0352 OR id:jrvj0329 OR id:jtdl0331 OR id:jtgy0249 OR id:jxhy0249 OR id:kgxk0247 OR id:khkp0328 OR id:kjxw0443 OR id:kkkp0328 OR id:kkkx0332 OR id:klcv0245 OR id:klgx0408 OR id:kmgk0290 OR id:kmxw0421 OR id:ljxx0311 OR id:lknm0441 OR id:llgy0249 OR id:lmdg0349 OR id:lpwy0429 OR id:lqhn0318 OR id:lrnm0441 OR id:lxhy0249 OR id:lxwk0433 OR id:mhcd0363 OR id:mhdx0367 OR id:mkxw0443 OR id:mlph0248 OR id:msbw0438 OR id:msfc0376 | coll=None,IDL solr,hits=40,metadata fetch
+K2,id:mygy0249 OR id:nflx0245 OR id:nghy0249 OR id:njgw0357 OR id:njpc0363 OR id:nkgy0249 OR id:nkkp0328 OR id:nlgy0249 OR id:nnkk0247 OR id:nppk0238 OR id:nsfk0290 OR id:ntwg0376 OR id:nxcd0363 OR id:nxhy0249 OR id:pghy0249 OR id:phfv0311 OR id:pjbn0416 OR id:pjhy0249 OR id:pjvx0248 OR id:pkgy0249 OR id:plgy0249 OR id:plkp0328 OR id:pmkk0247 OR id:pnkk0247 OR id:ppbp0318 OR id:prvf0370 OR id:prvh0250 OR id:psgn0318 OR id:psgy0249 OR id:psww0360 OR id:ptgy0249 OR id:pxhy0249 OR id:pycp0254 OR id:qfnh0248 OR id:qgmk0287 OR id:qhhy0249 OR id:qmdc0348 OR id:qmhd0360 OR id:qqgy0249 OR id:qslf0403 | coll=None,IDL solr,hits=40,metadata fetch
+K2,id:qsww0360 OR id:qyyv0418 OR id:rfgb0409 OR id:rfyb0318 OR id:rfyh0362 OR id:rjdb0321 OR id:rkgy0249 OR id:rlmh0248 OR id:rmcn0361 OR id:rmgy0249 OR id:rxcl0418 OR id:rxhy0249 OR id:rxkn0400 OR id:sfbp0430 OR id:sfdx0318 OR id:sgkl0414 OR id:shhy0249 OR id:skbp0318 OR id:smyl0277 OR id:sygy0249 OR id:sykn0400 OR id:sypd0435 OR id:sznl0292 OR id:szyc0245 OR id:thmy0429 OR id:tjhy0249 OR id:tkgy0249 OR id:tlfb0399 OR id:tmgy0249 OR id:tsmx0332 OR id:ttbg0379 OR id:ttyb0420 OR id:tzlx0332 OR id:xfvw0253 OR id:xhhy0249 OR id:xmbk0289 OR id:xpgy0249 OR id:xqgg0299 OR id:xrgy0249 OR id:xsvy0400 | coll=None,IDL solr,hits=40,metadata fetch
+K2,id:xtkp0363 OR id:xtmy0433 OR id:xtyy0364 OR id:ygxk0247 OR id:yhcj0332 OR id:yhhy0249 OR id:ylyh0248 OR id:ypbn0235 OR id:yycp0254 OR id:yyfx0301 OR id:yygy0249 OR id:zffy0422 OR id:zghn0318 OR id:zjlg0340 OR id:zpjc0310 OR id:zrvf0370 OR id:zygy0249 OR id:zzmh0248 | coll=None,IDL solr,hits=18,metadata fetch
+K2,https://www.industrydocuments.ucsf.edu/help/copyright/,IDL web,ok,5811 bytes
+K2,https://www.industrydocuments.ucsf.edu/about/copyright/,IDL web,ok,5811 bytes
+K2,https://www.industrydocuments.ucsf.edu/help/faq/,IDL web,ok,5811 bytes
+K2,https://www.industrydocuments.ucsf.edu/about/policies/,IDL web,ok,5811 bytes
+K2,https://www.industrydocuments.ucsf.edu/terms-of-use/,IDL web,ok,5811 bytes
+K2,https://www.industrydocuments.ucsf.edu/,IDL web,ok,5811 bytes
+K2,https://registry.opendata.aws/ucsf-idl/,web,error,HTTP Error 404: Not Found
+K2,https://raw.githubusercontent.com/awslabs/open-data-registry/main/datasets/ucsf-idl.yaml,web,error,HTTP Error 404: Not Found
+K2,https://www.library.ucsf.edu/archives/industry-documents/,web,ok,142031 bytes
+K2,https://www.industrydocuments.ucsf.edu/wp-content/uploads/,web,ok,5811 bytes
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/README.md,web,error,HTTP Error 404: Not Found
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/h/c/x/fhcx0403/fhcx0403.zip,IDL S3,skipped,"JUUL Freight (8).csv zip 59.6MB, OCR 380MB - over 25MB cap; consumer PII"
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/h/c/x/ghcx0403/ghcx0403.zip,IDL S3,skipped,Freight (9).csv zip 91.8MB over cap
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/x/x/lxxx0403/lxxx0403.zip,IDL S3,skipped,Freight (6).csv zip 55.2MB over cap
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/y/b/p/gybp0318/gybp0318.zip,IDL S3,skipped,December 17 DCL Freight Alloc zip 26.6MB over cap
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/j/n/x/hjnx0332/hjnx0332.zip,IDL S3,skipped,January 18 DCL Freight Alloc zip 26.0MB / member over cap
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/f/n/x/rfnx0332/rfnx0332.zip,IDL S3,skipped,March 18 DCL Freight Alloc zip 28.0MB over cap
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/n/g/w/rngw0436/rngw0436.pdf,IDL S3,withheld,FedEx Freight AA-number PDF (Endo 2017) - Document Withheld - Non-Opioid Product
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/s/n/g/w/sngw0436/sngw0436.pdf,IDL S3,withheld,FedEx Freight AA-number PDF (Endo 2017) - Document Withheld - Non-Opioid Product
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/n/g/w/tngw0436/tngw0436.pdf,IDL S3,withheld,FedEx Freight AA-number PDF (Endo 2017) - Document Withheld - Non-Opioid Product
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/n/g/w/zngw0436/zngw0436.pdf,IDL S3,withheld,FedEx Freight AA-number PDF (Endo 2017) - Document Withheld - Non-Opioid Product
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/z/k/p/xzkp0412/xzkp0412.ocr,IDL S3,withheld,ABF Freight Systems MSA Summary - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/z/k/p/jzkp0412/jzkp0412.ocr,IDL S3,withheld,"ABF AAF, CAF and MSA Nov14 - placeholder Document Withheld - Non-Opioid Product Document"
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/p/m/y/lpmy0440/lpmy0440.ocr,IDL S3,withheld,ABF AAF CAF MSA Nov14 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/q/c/y/gqcy0400/gqcy0400.ocr,IDL S3,withheld,UPS Fuel Surcharges for LTL 2012 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/x/q/c/y/xqcy0400/xqcy0400.ocr,IDL S3,withheld,UPS LTL Analysis from proposal 2012 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/p/c/y/ppcy0400/ppcy0400.ocr,IDL S3,withheld,UPS freight pricing sheet - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/q/c/y/jqcy0400/jqcy0400.ocr,IDL S3,withheld,UPS market basket - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/r/n/v/y/rnvy0433/rnvy0433.ocr,IDL S3,withheld,UPS Endo and Par 2019 LTL and SP - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/m/l/y/lmly0433/lmly0433.ocr,IDL S3,withheld,Endo and Par 2019 LTL and SP v3 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/z/m/m/tzmm0441/tzmm0441.ocr,IDL S3,withheld,Freight 2013 REVISED - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/n/l/x/n/nlxn0433/nlxn0433.ocr,IDL S3,withheld,KN LTL master BOL - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/f/m/v/jfmv0418/jfmv0418.ocr,IDL S3,withheld,4Q09 ABC shipments with freight charges - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/p/j/m/w/pjmw0433/pjmw0433.ocr,IDL S3,withheld,ABC Freight Proposal - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/g/c/x/fgcx0431/fgcx0431.ocr,IDL S3,withheld,UPS SCS Service Schedule No.2 Apr10 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/s/l/f/gslf0418/gslf0418.ocr,IDL S3,withheld,Endo MSA for Transportation and Logistics v5 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/f/j/b/y/fjby0400/fjby0400.ocr,IDL S3,withheld,Endo SS2 Distribution Transportation v3 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/g/m/n/hgmn0426/hgmn0426.ocr,IDL S3,withheld,Trade Contract Summary incl Brand Freight - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/s/n/k/ksnk0429/ksnk0429.ocr,IDL S3,withheld,Transportation RFP final candidate review - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/k/t/k/p/ktkp0412/ktkp0412.ocr,IDL S3,withheld,Draft MSA Transportation and Logistics - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/j/h/m/d/jhmd0431/jhmd0431.ocr,IDL S3,withheld,Supplier Transportation Agreement template - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/g/h/m/d/ghmd0431/ghmd0431.ocr,IDL S3,withheld,Par/McKesson Transportation Agreement - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/z/n/d/n/zndn0400/zndn0400.ocr,IDL S3,withheld,UPS Transportation and Distribution Agreement Review - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/l/x/f/n/lxfn0419/lxfn0419.ocr,IDL S3,withheld,McKesson Freight Agreement - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/r/f/c/mrfc0427/mrfc0427.ocr,IDL S3,withheld,Lidoderm Damaged 2008 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/h/x/g/c/hxgc0427/hxgc0427.ocr,IDL S3,withheld,Lidoderm & Voltaren Shipping Damages 2009 - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/t/y/g/f/tygf0418/tygf0418.ocr,IDL S3,withheld,Lidoderm 2007 Concealed Damages - placeholder Document Withheld - Non-Opioid Product Document
+K2,https://ucsf-idl-dataset.s3.us-east-1.amazonaws.com/m/x/j/c/mxjc0418/mxjc0418.ocr,IDL S3,withheld,Lidoderm Damages Log 2007 - placeholder Document Withheld - Non-Opioid Product Document
+K2,ptkg0362,IDL S3,dropped,Actavis exception log Feb 2011 24.98MB PDF - near-duplicate of kept logs; not kept
+K2,mxxp0298,IDL S3,dropped,"December 17 DCL Freight Alloc-DCL Data 9.7MB - B2C consumer data, duplicate of kept alloc files"
+K2,snmf0333,IDL S3,dropped,220950 Accrued Freight 12 review - actually inventory valuation; not freight
+K2,"fnbp0318,qskx0332",IDL S3,dropped,Sep17 and Jul18 DCL Freight Alloc 23-25MB - same format as kept hlkx0332/ppbp0318; B2C consumer data
+K2,gmww0370,IDL S3,dropped,"Open exceptions 4-1-10, near-duplicate of rfyh0362"
+K2,"https://www.industrydocuments.ucsf.edu/help/copyright/ (and /about/copyright/, /help/faq/, /terms-of-use/)",IDL web,blocked,JavaScript single-page app; no policy text returned to a plain GET
+K2,https://www.industrydocuments.ucsf.edu/wp-json/wp/v2/pages?search=copyright,IDL web,ok,5811 bytes
+K2,https://www.industrydocuments.ucsf.edu/api/pages/copyright,IDL web,error,HTTP Error 401: 
+K2,"https://metadata.idl.ucsf.edu/solr/ltdl3/select?q=id:pycp0254&fl=availability,availabilitystatus,cat,redaction,redactedby&wt=json",IDL web,ok,508 bytes
+K2,id:ffhj0332 OR id:ffyk0407 OR id:fgcm0347 OR id:fgdj0307 OR id:fgky0254 OR id:fgxk0247 OR id:fhkp0328 OR id:fhkw0245 OR id:fjcg0340 OR id:fkbb0245 OR id:fkhy0249 OR id:flcj0332 OR id:fmkp0328 OR id:fmmh0248 OR id:fngy0249 OR id:fnnm0441 OR id:fpmk0430 OR id:fqvm0406 OR id:frlx0407 OR id:fsdn0318 OR id:fsvf0370 OR id:ftdp0380 OR id:fthj0323 OR id:fxkp0328 OR id:fyfb0398 OR id:ggbp0406 OR id:gjmb0245 OR id:gkyh0362 OR id:gpgy0249 OR id:grfc0245 OR id:grxw0289 OR id:gxkp0328 OR id:gzpp0298 OR id:hffc0311 OR id:hgky0254 OR id:hjhy0249 OR id:hlkx0332 OR id:hmdc0348 OR id:hnhl0297 OR id:hqgy0249 | coll=None,IDL solr,hits=40,availability check
+K2,id:hrdb0421 OR id:hxbm0245 OR id:hyyf0237 OR id:jfxh0352 OR id:jgmj0403 OR id:jhxk0247 OR id:jjbk0323 OR id:jkhy0249 OR id:jkvx0248 OR id:jlwc0253 OR id:jpvh0314 OR id:jrpj0352 OR id:jrvj0329 OR id:jtdl0331 OR id:jtgy0249 OR id:jxhy0249 OR id:kgxk0247 OR id:khkp0328 OR id:kjxw0443 OR id:kkkp0328 OR id:kkkx0332 OR id:klcv0245 OR id:klgx0408 OR id:kmgk0290 OR id:kmxw0421 OR id:ljxx0311 OR id:lknm0441 OR id:llgy0249 OR id:lmdg0349 OR id:lpwy0429 OR id:lqhn0318 OR id:lrnm0441 OR id:lxhy0249 OR id:lxwk0433 OR id:mhcd0363 OR id:mhdx0367 OR id:mkxw0443 OR id:mlph0248 OR id:msbw0438 OR id:msfc0376 | coll=None,IDL solr,hits=40,availability check
+K2,id:mygy0249 OR id:nflx0245 OR id:nghy0249 OR id:njgw0357 OR id:njpc0363 OR id:nkgy0249 OR id:nkkp0328 OR id:nlgy0249 OR id:nnkk0247 OR id:nppk0238 OR id:nsfk0290 OR id:ntwg0376 OR id:nxcd0363 OR id:nxhy0249 OR id:pghy0249 OR id:phfv0311 OR id:pjbn0416 OR id:pjhy0249 OR id:pjvx0248 OR id:pkgy0249 OR id:plgy0249 OR id:plkp0328 OR id:pmkk0247 OR id:pnkk0247 OR id:ppbp0318 OR id:prvf0370 OR id:prvh0250 OR id:psgn0318 OR id:psgy0249 OR id:psww0360 OR id:ptgy0249 OR id:pxhy0249 OR id:pycp0254 OR id:qfnh0248 OR id:qgmk0287 OR id:qhhy0249 OR id:qmdc0348 OR id:qmhd0360 OR id:qqgy0249 OR id:qslf0403 | coll=None,IDL solr,hits=40,availability check
+K2,id:qsww0360 OR id:qyyv0418 OR id:rfgb0409 OR id:rfyb0318 OR id:rfyh0362 OR id:rjdb0321 OR id:rkgy0249 OR id:rlmh0248 OR id:rmcn0361 OR id:rmgy0249 OR id:rxcl0418 OR id:rxhy0249 OR id:rxkn0400 OR id:sfbp0430 OR id:sfdx0318 OR id:sgkl0414 OR id:shhy0249 OR id:skbp0318 OR id:smyl0277 OR id:sygy0249 OR id:sykn0400 OR id:sypd0435 OR id:sznl0292 OR id:szyc0245 OR id:thmy0429 OR id:tjhy0249 OR id:tkgy0249 OR id:tlfb0399 OR id:tmgy0249 OR id:tsmx0332 OR id:ttbg0379 OR id:ttyb0420 OR id:tzlx0332 OR id:xfvw0253 OR id:xhhy0249 OR id:xmbk0289 OR id:xpgy0249 OR id:xqgg0299 OR id:xrgy0249 OR id:xsvy0400 | coll=None,IDL solr,hits=40,availability check
+K2,id:xtkp0363 OR id:xtmy0433 OR id:xtyy0364 OR id:ygxk0247 OR id:yhcj0332 OR id:yhhy0249 OR id:ylyh0248 OR id:ypbn0235 OR id:yycp0254 OR id:yyfx0301 OR id:yygy0249 OR id:zffy0422 OR id:zghn0318 OR id:zjlg0340 OR id:zpjc0310 OR id:zrvf0370 OR id:zygy0249 OR id:zzmh0248 | coll=None,IDL solr,hits=18,availability check
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=freight invoice&iframe=true,BC CRT search,hit,59 results; 3 pages parsed
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=freight charges&iframe=true,BC CRT search,hit,50 results
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=freight overcharged&iframe=true,BC CRT search,hit,12
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=remeasure&iframe=true,BC CRT search,hit,4
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=re-measured&iframe=true,BC CRT search,hit,3
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=pallet quote&iframe=true,BC CRT search,hit,9
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=storage freight&iframe=true,BC CRT search,hit,14
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=broker invoice&iframe=true,BC CRT search,hit,72
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=liftgate&iframe=true,BC CRT search,hit,1
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=tailgate&iframe=true,BC CRT search,hit,28 (mostly truck repairs)
+K3,"https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=""fuel surcharge""&iframe=true",BC CRT search,hit,96 (mostly waste-bin and moving disputes)
+K3,"https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=""bill of lading""&iframe=true",BC CRT search,hit,56
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=detention&iframe=true,BC CRT search,hit,"39 (mostly detinue, not freight)"
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=accessorial&iframe=true,BC CRT search,hit,112 (few freight)
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=residential delivery&iframe=true,BC CRT search,hit,102 (few freight)
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=freight reweigh&iframe=true,BC CRT search,hit,0
+K3,"https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=""freight bill""&iframe=true",BC CRT search,hit,1
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=trucking invoice overcharged&iframe=true,BC CRT search,hit,84
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=shipping quote invoice higher&iframe=true,BC CRT search,hit,8
+K3,"https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=""waiting time"" trucking&iframe=true",BC CRT search,hit,5
+K3,"https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=""cubic"" freight&iframe=true",BC CRT search,hit,2
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=dimensional weight freight&iframe=true,BC CRT search,hit,0
+K3,https://decisions.civilresolutionbc.ca/crt/en/d/s/index.do?cont=courier invoice overcharge&iframe=true,BC CRT search,hit,11
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/<id>/1/document.do,BC CRT PDF,blocked,"~70 PDFs fetched at 1.1 s/request, then the site served a captcha (/robocop/) to every PDF and iframe request for the rest of the session; item index.do HTML still loads but holds no text; WebFetch 403; CanLII 403 (bot wall)"
+K3,https://www.canlii.org/en/bc/bccrt/doc/2021/2021bccrt1216/2021bccrt1216.html,CanLII,blocked,403 JS/bot wall
+K3,https://www.gsbca.gsa.gov/rate/rate1.htm,GSBCA index,hit,index page; all linked m*.txt fetched
+K3,https://www.gsbca.gsa.gov/rate/rate2.htm,GSBCA index,hit,index page; all linked m*.txt fetched
+K3,https://www.gsbca.gsa.gov/rate/rate3.htm,GSBCA index,hit,index page; all linked m*.txt fetched
+K3,https://www.gsbca.gsa.gov/rate/rate4.htm,GSBCA index,hit,index page; all linked m*.txt fetched
+K3,https://www.gsbca.gsa.gov/rate/rate5.htm,GSBCA index,hit,index page; all linked m*.txt fetched
+K3,https://www.gsbca.gsa.gov/rate/rate6.htm,GSBCA index,hit,index page; all linked m*.txt fetched
+K3,https://www.gsbca.gsa.gov/rate/m*.txt,GSBCA decisions,hit,255 text files fetched; 172 over 2 KB; 130 after removing near-identical series
+K3,https://www.cbca.gov/decisions/rate.html,CBCA index,hit,40 PDF links (38 + 2); 3 already held in set 20
+K3,https://files.cpuc.ca.gov/LegacyCPUCDecisionsAndResolutions/Decisions/Decisions_D40600_to_D57800/,CPUC folder listing,hit,"17,201 PDFs listed"
+K3,https://files.cpuc.ca.gov/LegacyCPUCDecisionsAndResolutions/Decisions/Decisions_D57801_to_D73750/,CPUC folder listing,hit,"15,450 PDFs listed"
+K3,https://files.cpuc.ca.gov/LegacyCPUCDecisionsAndResolutions/Decisions/Decisions_D73751_to_D86500/,CPUC folder listing,hit,"12,744 PDFs listed"
+K3,"CPUC random sample 1 (220 C-proceeding PDFs 1959-1979, 90-350 KB)",CPUC,hit,13 mention undercharges
+K3,"CPUC sample 2 (450 C-proceeding PDFs 1960-1972, 100-280 KB)",CPUC,hit,see findings
+K3,"CPUC sample 3 (700 single-decision C-proceedings C6000-C9999, 60-420 KB)",CPUC,hit,see findings
+K3,https://data.richmondgov.com/resource/7f6e-uc8y.json,Socrata,hit,193 carrier rows
+K3,https://controllerdata.lacity.org/resource/pggv-e4fn.json,Socrata,hit,11 carrier rows
+K3,https://data.ct.gov/resource/ajdm-rvz7.json,Socrata,hit,21 carrier rows
+K3,https://data.ct.gov/resource/avfh-2eg7.json,Socrata,miss,archive ledger: same 21 carrier vendors/counts as current; not pulled
+K3,https://datacatalog.cookcountyil.gov/resource/4h27-5s9x.json,Socrata,hit,292 carrier rows (check register)
+K3,https://datacatalog.cookcountyil.gov/resource/exta-e29u.json,Socrata,hit,560 carrier rows (invoice register)
+K3,https://data.montgomerycountymd.gov/resource/vpf9-6irq.json,Socrata,hit,10 carrier rows
+K3,https://atlanta.data.socrata.com/resource/jmke-icfi.json,Socrata,hit,"433 rows, mostly UPS parcel/postage under a UPS Ground Freight vendor name"
+K3,https://www.dallasopendata.com/resource/awax-wfz9.json,Socrata,hit,66 carrier rows; no invoice field (docid)
+K3,https://www.dallasopendata.com/resource/x5ih-idh7.json,Socrata,miss,no carrier vendors
+K3,https://data.kcmo.org/resource/gbmr-uec3.json,Socrata,hit,44 FedEx Freight rows (2022)
+K3,https://data.kcmo.org/resource/4mdg-usvj.json,Socrata,miss,"10 FedEx Freight rows (2016), under the 20-row bar; not pulled"
+K3,https://data.ramseycountymn.gov/resource/4htu-nawa.json,Socrata,miss,"16 LTL rows (FedEx Freight 15, TForce Freight 1), under 20"
+K3,https://sharefulton.fultoncountyga.gov/resource/kp4p-scak.json,Socrata,miss,no carrier vendors
+K3,https://data.brla.gov/resource/vwa8-ps2a.json,Socrata,miss,no carrier vendors
+K3,https://data.cstx.gov/resource/y2v6-fvti.json,Socrata,miss,1 XPO row
+K3,https://data.providenceri.gov/resource/u4ks-kiwa.json,Socrata,miss,1 A Duie Pyle row
+K3,https://data.oregon.gov/resource/ab7d-sygn.json,Socrata,miss,no carrier vendors
+K3,https://api.us.socrata.com/api/catalog/v1?q=vendor%20payments,Socrata,hit,discovery: ~150 datasets with a vendor column
+K3,https://api.us.socrata.com/api/catalog/v1?q=checkbook,Socrata,hit,discovery
+K3,https://api.us.socrata.com/api/catalog/v1?q=expenditures%20vendor,Socrata,hit,discovery
+K3,https://api.us.socrata.com/api/catalog/v1?q=accounts%20payable,Socrata,hit,discovery
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/516319/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/500484/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/522098/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/522130/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/525998/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/523351/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/523860/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/527760/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/529237/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/529409/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/498308/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/499754/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/512323/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/519199/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/528497/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/492183/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/523258/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/496659/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/525274/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/483620/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/485363/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/493487/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/527527/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/524291/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/480327/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+K3,https://decisions.civilresolutionbc.ca/crt/crtd/en/527682/1/document.do,bc_crt_decisions,blocked,identified as a freight-billing decision; not fetched: captcha after ~70 requests (2026-10-21); citations in research/s5_check_BE_c09_new_document_channels.md §8 item 6
+E2,https://iapps.courts.state.ny.us/nyscef/CaseSearch,nyscef,blocked,403 to scripts
+E2,CanLII search (BC CRT mirror),canlii,blocked,403 anti-bot
+E2,MuckRock API / DocumentCloud,muckrock_documentcloud,blocked,Cloudflare challenge
+E2,"checkbooknyc, OpenTheBooks, Ohio and Colorado checkbooks",open_checkbook_non_socrata,blocked,403 or timeout
+E2,State/university LTL contracts (Utah UPS LTL PD136 page; WSU; Iowa),procurement,miss,Utah page 404 with no Wayback capture; no LTL award with discounts found in ~8 searches
+E2,"Sourcewell, OMNIA, E&I, TIPS, city/county/school bid tabulations for LTL",procurement,miss,no LTL award with discounts (5 searches)
+E2,https://apps.des.wa.gov/DESContracts/Home/ContractSummary/10421,naspo_wa_des,hit,parcel/air pricing exhibit with minimums and MBG waiver; not LTL; not kept
+E2,"regulations.gov API (DEMO_KEY) FMCSA-2023-0257, FMCSA-2020-0194",regulations_gov,hit,"1,465 / 67 comments mention rate confirmation; 4 sampled had no attachments; not kept"
+E2,gao.gov/assets/b-NNNNNN.pdf,gao,blocked,403 to curl; HTML summaries work; PDFs are scans
+E2,STB/ICC undercharge decisions (1990s),stb,miss,press releases and few bill-level facts
+E2,Central Freight Lines bankruptcy claims register,claims_agent,miss,wound down 2021 outside bankruptcy (assumed); no register
+E2,"ASBCA/PSBCA, TIA arbitration, state AG complaints, state weights-and-measures enforcement",other,miss,nothing relevant found
+E3,"Hugging Face datasets search (freight, bill of lading, x12)",huggingface,miss,"no freight bill, BOL or 210; StanzaAPI/x12-test-data is synthetic 837s; two ""freight"" sets are spam"
+E3,"Kaggle, Zenodo (FATURA), Papers with Code",datasets,miss,synthetic or generic invoices; Kaggle needs login
+E3,https://huggingface.co/datasets/pixparse/idl-wds,huggingface,miss,real IDL mirror but predates the JUUL and newer opioid loads and has no clear licence; not used
+E3,"Reddit JSON (r/FreightBrokers, r/Truckers)",reddit,blocked,block page to anonymous JSON
+E3,"Scribd, DocPlayer, Yumpu, Issuu, SlideShare via search",doc_sharing,miss,no pages returned by the search engine
+E3,"Freight-audit/TMS vendor sample reports (ShipHawk, nShift, nVision, Nanonets)",vendors,miss,field lists only; nShift guide gated
+E3,"TLP&SA, Freight Claims Council training material",training,miss,no sample decline letters
+E3,BBB complaint pages (ODFL),bbb,hit,"carrier replies readable via WebFetch only (curl 403); wording, not documents; not kept"
+E3,Internet Archive full-text search (services/search/beta/page_production fts),archive_org,hit,"223 hits, mostly lending-only textbooks; DTIC thesis open; not kept"
+E3,Common Crawl index CC-MAIN-2022-21/2023-23/2025-08 for carrier fuel PDFs,common_crawl,miss,no ODFL fuel URLs; frequent 502/504
+E4,ToxicDocs search/API,toxicdocs,blocked,HTML only; API 403

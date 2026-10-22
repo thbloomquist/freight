@@ -1,0 +1,200 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+ 
+                                                  
+ 
+                              May 22, 1998
+                                                  
+ 
+ 
+                            GSBCA 14244-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        John  D. Bagileo and  Claire Shapiro of  Bagileo, Silverberg
+   and  Goldman, L.L.P.,  Washington,  DC;  and  Robert  D.  Norcom,
+   Auditor, Tri-State Motor  Transit Co., Joplin, MO,  appearing for
+   Claimant.
+ 
+        Jeffrey J.  Thurston,  Director,  Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Colonel James F. Quinn, Staff  Judge Advocate, Headquarters,
+   Military  Traffic  Management  Command, Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   DANIELS, Board Judge (Chairman).
+ 
+        Tri-State Motor Transit Co. has  asked us to review  denials
+   by the General Services Administration's Office of Transportation
+   Audits  (OTA) of thirty-four separate claims pertaining to moneys
+   due  the  carrier  for  transporting  wheeled  vehicles  for  the
+   Department     of     Defense    (DoD)     during     1990    and
+   1991.[foot #] 1
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 Earlier, when the General Accounting Office (GAO)
+   had  statutory   responsibility  for  reviewing  (on  request  by
+   carriers) determinations made by OTA, Tri-State had asked GAO  to
+   consider OTA's denials of these claims.  GAO's response contained
+   language which, we have held,  indicated that the matter remained
+   pending and was  never resolved by that Office.   Tri-State Motor
+                                                     _______________
+   Transit Co., GSBCA 14249-RATE, 98-1 BCA   29,516; Tri-State Motor
+   ___________                                       _______________
+   Transit Co., GSBCA 14245-RATE, 98-1 BCA   29,431; Tri-State Motor
+   ___________                                       _______________
+   Transit  Co., GSBCA  14243-RATE, 98-1  BCA   29,411.    After the
+   ____________
+   review authority was  transferred to this Board,  Tri-State asked
+   us to examine the denials.   Since GAO never rendered judgment on
+   these OTA  actions, we  proceed to consider  the claims  on their
+   merits.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        The claims  all involve  an issue  which we  have considered
+   many times before:  whether DoD must  pay additional amounts  for
+   carriage when it declares on a  Government bill of lading (GBL) a
+   value for the vehicle which is in excess of the default "released
+   value."   The "released value"  limits the carrier's liability in
+   the event  that the shipment  is lost or  damaged.  According  to
+   Item  190  of  the Military  Traffic  Management  Command Freight
+   Traffic Rules Publication No. 1A,  tenders filed with DoD for the
+   movement  of vehicles  for  that  agency "will  be  subject to  a
+   released value not exceeding $20,000 for each vehicle."  However,
+   "[i]f a  value exceeding th[is]  released value is stated  on the
+   bill of lading, this valuation shall control."   Consequently, we
+   have  held that where a higher value  is stated, the shipper must
+   pay  an additional  amount --  a premium  to cover  the carrier's
+   increased  liability.    Tri-State   Motor  Transit  Co.,   GSBCA
+   14352-RATE, 98-1 BCA   29,521; Tri-State Motor Transit Co., GSBCA
+   14249-RATE, 98-1 BCA   29,516; Tri-State Motor Transit Co., GSBCA
+   14353-RATE, 98-1 BCA   29,515; Tri-State Motor Transit Co., GSBCA
+   14245-RATE, 98-1 BCA   29,431; Tri-State Motor Transit Co., GSBCA
+   13735-RATE, 98-1  BCA   29,415  (1997);  Tri-State Motor  Transit
+   Co., GSBCA 14251-RATE, 98-1 BCA   29,443; Tri-State Motor Transit
+   Co., GSBCA 14243-RATE, 98-1 BCA   29,411; Tri-State Motor Transit
+   Co.,  GSBCA  14241-RATE,  97-2  BCA    29,306; McGil  Specialized
+   Carriers,  GSBCA 14127-RATE, 97-2  BCA   29,295;  Tri-State Motor
+   Transit Co., GSBCA 13839-RATE, 97-1 BCA   28,953; Tri-State Motor
+   Transit Co., GSBCA 13746-RATE, 97-1 BCA   28,951.
+ 
+        With the  exception of  three claims  which we  treat later,
+   each of the claims  involved in this case is similar  to the ones
+   in the cases cited above.  DoD stated on the GBL a specific value
+   for  the vehicle  or vehicles  being  shipped (usually  $2.50 per
+   pound per vehicle,  but sometimes $1.75),  and the vehicles  were
+   sufficiently  heavy that  this value  was more  than the  default
+   released value.  DoD is  liable, in accordance with the  terms of
+   Item 190, for  the additional excess released value  charge.  The
+   amount is as calculated by Tri-State as to the following nineteen
+   GBLs, for which the total sum sought by the carrier is $1,634.70:
+ 
+             GBL                          Amount
+ 
+             C-0,997,977                    $     90.00
+             C-1,103,032                   178.20
+             C-1,103,052                   153.15
+             C-1,137,759                     97.05
+             C-7,653,961                     41.70 
+             C-7,867,882                     43.95
+             C-9,072,771                   166.50
+             C-9,531,628                     39.00
+             D-0,506,146                     18.60
+             D-0,556,268                     90.00
+             D-0,665,027                     91.05
+             D-0,711,177                   119.85
+             D-0,977,876                   204.60
+             D-0,980,567                     40.65
+ 
+             D-1,043,709                   111.30
+             D-1,655,268                     26.10
+             E-2,038,543                     41.40
+             S-1,356,316                     40.80
+             S-1,356,318                     40.80
+ 
+   Tri-State is also  due additional  compensation totaling  $287.40
+   for transporting  vehicles under  the following  three GBLs;  the
+   amounts we  find due for  these shipments are  slightly different
+   from those calculated by the carrier:
+ 
+             GBL                          Amount
+ 
+             C-8,125,413                     $    89.10
+             D-0,973,074                     99.15
+             D-0,973,075                     99.15
+ 
+   As to the  following nine GBLs, the copies of the documents which
+   Tri-State provided to the Board are illegible, but if the weights
+   of the vehicles and  the statement "Released value  not exceeding
+   $2.50/lb."  are  as  maintained  by  the  carrier  on  its  claim
+   worksheets, DoD owes  Tri-State a total of $792.30.   Neither OTA
+   nor DoD has challenged the accuracy of the statements made on the
+   worksheets, so we accept those  statements as accurate.  The nine
+   claims are as follows:
+ 
+             GBL                          Amount
+ 
+             E-1,049,057                     $  112.95
+             E-1,049,058                   112.95
+             E-1,049,059                   112.95
+             E-1,049,060                   112.95
+             E-1,049,067                   114.45
+             E-1,049,068                   109.50
+             E-1,049,070                                   
+                                      38.85[foot #] 2
+             E-1,049,071                     38.85
+             E-1,049,352                     38.85
+ 
+        The  total additional  amount  we  find  due  Tri-State  for
+   transporting  vehicles  pursuant to  the  thirty-one GBLs  listed
+   above is $2,714.40.
+ 
+        The three final claims, involving GBLs numbered C-9,248,422,
+   C-9,248,425,  and  C-9,248,426,  are  different  from  all  those
+   discussed  above.   Each of  these GBLs  contains two  statements
+   regarding the value of the vehicles  being shipped.  On the first
+   page of the GBL appears, "Release [sic] value not to exceed $2.50
+   per /lb."   On the second  page appears, "Released  value not  to
+   exceed $20,000 per veh[icle]."  These statements are inconsistent
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2 Tri-State's  calculation  of the  amount  due for
+   this GBL, $23.85, is in error.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   with  each other.    The  vehicle being  shipped  under each  GBL
+   weighed  41,344  pounds, which,  if  valued at  $2.50  per pound,
+   yields a figure of $103,360 -- considerably more than $20,000.
+ 
+ 
+        Because carriers  are legally responsible for  issuing bills
+   of  lading,  if   a  carrier  executes  a   bill  which  contains
+   conflicting   or  erroneous   entries  without   first  obtaining
+   clarification  from  the   shipper,  it  may  not   benefit  from
+   neglecting its  duty to secure such clarification.  C. I. Whitten
+   Transfer Co., GSBCA 13893-RATE, 97-2 BCA   29,031.  Because these
+   GBLs on  their face  contain conflicting  entries, and  Tri-State
+   executed the bills without first securing clarification from DoD,
+   we will not  permit the carrier to obtain  the additional charges
+   it seeks for transporting the vehicles in question.
+ 
+ 
+ 
+                                      __________________________
+                                      STEPHEN M. DANIELS
+                                      Board Judge

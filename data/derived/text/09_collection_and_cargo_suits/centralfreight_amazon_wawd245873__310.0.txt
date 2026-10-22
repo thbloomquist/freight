@@ -1,0 +1,933 @@
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+                            UNITED STATES DISTRICT COURT
+                           WESTERN DISTRICT OF WASHINGTON
+ 8
+                                     AT SEATTLE
+ 9
+
+10         CENTRAL FREIGHT LINES, INC.,                 CASE NO. C17-0814JLR
+
+11                              Plaintiff,              ORDER ON PLAINTIFF’S
+                  v.                                    MOTIONS FOR PREJUDMGENT
+12                                                      INTEREST AND ATTORNEY’S
+                                                        FEES
+           AMAZON FULFILLMENT
+13
+           SERVICES, INC.,
+14
+                                Defendant.
+15
+                                    I.       INTRODUCTION
+16
+           Before the court are (1) Plaintiff Central Freight Lines, Inc.’s (“CFL”) motion for
+17
+     attorney’s fees (Fees Mot. (Dkt. # 285); see also Fees Mot. Reply (Dkt. # 307)); and
+18
+     (2) CFL’s motion to alter or amend the judgment to include prejudgment interest (Interest
+19
+     Mot. (Dkt. # 283); see also Interest Mot. Reply (Dkt. # 299)). Defendant Amazon
+20
+     Fulfillment Services, Inc. (“AFS”) filed responses to the motions. (See AFS Resp. to
+21
+     Fees Mot. (Dkt. # 300); AFS Resp. to Interest Mot. (Dkt. # 291).) The court has
+22
+
+
+     ORDER - 1
+ 1   reviewed CFL’s motions, the parties’ submissions in support of and in opposition to the
+
+ 2   motions, the relevant portions of the record, and the applicable law. Being fully advised, 1
+
+ 3   the court DENIES CFL’s motion for attorney’s fees and GRANTS in part and DENIES
+
+ 4   in part CFL’s motion to amend or alter the judgment to include prejudgment interest.
+
+ 5                                     II.    BACKGROUND
+
+ 6          The facts of this case have been detailed in several prior orders. (See, e.g., MSJ
+
+ 7   Order (Dkt. # 214) at 2-17.) Therefore, the court provides only a brief summary of the
+
+ 8   facts relevant to the present motions.
+
+ 9          This case arises from a contract dispute between CFL, a freight carrier, and AFS.
+
+10   (See generally FAC (Dkt. # 139).) AFS, which is a subsidiary of Amazon.com, Inc.,
+
+11   arranges inbound transportation of merchandise from vendors to Amazon Fulfillment
+
+12   Centers. (CFL MSJ Resp. (Dkt. ## 156 (redacted), 166 (sealed)) at 12.) CFL provided
+
+13   shipping services to AFS pursuant to a Transportation Agreement executed on July 7,
+
+14   2011. (FAC ¶¶ 13-14, Ex. A (“Agreement”).) The Agreement adopts and applies
+
+15   CzarLite, a third-party freight rating system, for pricing and shipments, including
+
+16   CzarLite’s discount for less-than-truckload (“LTL”) shipments. (See id. at 13.) After
+
+17   CFL complained to AFS that it was losing money on shipments that required more than
+
+18   eight pallet spaces (“9+ pallet shipments”), the parties orally modified the Agreement to
+
+19   allow CFL to apply volume rates calculated by its spot-quote system to 9+ pallet
+
+20   //
+
+21          1
+              Neither party requests oral argument (see Fees Mot. at 1; Interest Mot. at 1; AFS Resp.
+     to Fee Mot. at 1; AFS Resp. to Interest Mot. at 1), and the court finds oral argument would not be
+22   helpful to its disposition of the motions, see Local Civil Rules W.D. Wash. LCR 7(b)(4).
+
+
+     ORDER - 2
+ 1   shipments. (See MSJ Order at 27, 32.) After AFS withheld payments from CFL for
+
+ 2   shipments that CFL completed to offset alleged overcharges for prior shipments, this
+
+ 3   litigation ensued. (See id. at 16-17.) CFL claimed that AFS breached the Agreement by
+
+ 4   withholding payment for those shipments, and AFS counterclaimed, alleging that CFL
+
+ 5   overcharged AFS. (See FAC ¶¶ 132-37 (alleging that AFS “[w]rongfully with[held]
+
+ 6   payments as purported set-off to the amounts it wrongfully claimed it overpaid” to CFL);
+
+ 7   Answer and Counterclaim (Dkt. # 48) ¶¶ 40-45.)
+
+ 8          After a trial, the jury rendered a verdict finding AFS liable for breach of contract;
+
+ 9   determining that AFS’ breach caused CFL $2,472,227.10 in damages; and finding CFL
+
+10   not liable on AFS’ counterclaim. (See Verdict Form (Dkt. # 280) at 2.)
+
+11                                       III.   ANALYSIS
+
+12   A.     CFL’s Motion for Attorney’s Fees
+
+13          The Agreement does not include an attorney’s fees provision. (See generally
+
+14   Agreement.) Nevertheless, CFL argues that it is entitled to attorney’s fees based on
+
+15   AFS’s bad faith conduct both before and during this litigation. (See Fees Mot. at 2-3.)
+
+16   CFL bases its motion on an exception to the American Rule 2 under Washington law that
+
+17   allows fee awards for bad faith conduct. (See id.) AFS responds that CFL is not entitled
+
+18   to attorney’s fees because (1) the Federal Aviation Administration Authorization Act of
+
+19   1994 (“FAAAA”) preempts any Washington law-based fee award (see AFS Resp. to Fees
+
+20   //
+
+21          2
+              Under the American Rule, a prevailing party does not recover its attorney’s fees absent
+     a contract, statute, or recognized ground of equity. See Rorvig v. Douglas, 873 P.2d 492, 497
+22   (Wash. 1994).
+
+
+     ORDER - 3
+ 1   Mot. at 3-7 (citing 49 U.S.C. § 14501(c))); (2) even if Washington law applies, bad faith
+
+ 2   based on pre-litigation conduct is not a recognized ground for attorney’s fees under
+
+ 3   Washington law (see id. at 7-9); and (3) AFS’s conduct did not rise to the level of bad
+
+ 4   faith (see id. at 9-14).
+
+ 5          Although CFL relies exclusively on Washington law (see Fees Mot. at 2-3),
+
+ 6   Washington law does not apply to the entirety of CFL’s fee request. In federal diversity
+
+ 7   actions, district courts may award attorney’s fees under state law when they are part of
+
+ 8   the state’s substantive, rather than procedural, requirements. See In re Larry’s
+
+ 9   Apartment, L.L.C., 249 F.3d 832, 838 (9th Cir. 2001). “However, when fees are based
+
+10   upon misconduct by an attorney or party in the litigation itself, rather than upon a matter
+
+11   of substantive law, the matter is procedural,” and federal law applies. See id. (citing
+
+12   Chambers v. NASCO, Inc., 501 U.S. 32, 53 (1991)), and quoting People by Abrams v.
+
+13   Terry, 45 F.3d 17, 23 (2d Cir. 1995) (“[I]t is quite anomalous to suggest that a federal
+
+14   court must look to the . . . state legislature to vindicate an abuse of the federal judicial
+
+15   power.”). 3 Accordingly, the court first analyzes whether Washington State substantive
+
+16   law allows an award of fees for AFS’s pre-litigation conduct before applying federal
+
+17   procedural law to CFL’s request for fees based on AFS’s conduct during this litigation.
+
+18          1. Fees for Pre-Litigation Conduct Under Washington Law
+
+19          As a general matter, Washington State follows the American Rule, under which
+
+20   each side pays its own attorney’s fees regardless of who prevails, and rejects punitive
+
+21
+            3
+              A district court’s inherent authority to sanction parties for their litigation conduct
+22   applies with equal force in diversity actions. See Chambers, 501 U.S. at 35, 52.
+
+
+     ORDER - 4
+ 1   damages. See Dempere v. Nelson, 886 P.2d 219, 222 (Wash. Ct. App. 1994), overruled
+
+ 2   on separate grounds by Burnet v. Spokane Ambulance, 933 P.2d 1036 (1997)). 4
+
+ 3   Nevertheless, a court may award attorney’s fees if authorized by contract, statute, or a
+
+ 4   recognized ground in equity. See id. at 220 (internal quotations and citations omitted).
+
+ 5   Here, it is undisputed that the Agreement does not contain a fees provision. (See
+
+ 6   generally Agreement.) Further, CFL does not point to any Washington statute entitling it
+
+ 7   to fees. (See generally Fees Mot.) Thus, CFL relies on the final ground upon which
+
+ 8   Washington law may allow an award of fees, “a recognized ground in equity.” See
+
+ 9   Dempere, 886 P.2d at 220.
+
+10          Like the federal courts, Washington courts have “inherent equitable powers” to
+
+11   “authorize the award of attorney fees in cases of bad faith.” Matter of Pearsall-Stipek,
+
+12   961 P.2d 343, 349 (Wash. 1998), as amended (Oct. 17, 2000). Although Washington
+
+13   courts often describe these “inherent equitable powers” in terms similar to those used by
+
+14   federal courts, see, e.g., Chambers, 501 U.S. at 53, the scope of Washington State courts’
+
+15   equitable power to award bad-faith attorney’s fees is not clearly defined. See Rogerson
+
+16   Hiller Corp. v. Port of Port Angeles, 982 P.2d 131, 135 (Wash. Ct. App. 1999)
+
+17   (“Although a number of cases have questioned the existence of bad faith as a basis of an
+
+18   attorney’s fee award, the Washington Supreme Court has recently confirmed that ‘bad
+
+19   //
+
+20   //
+
+21
+            4
+              The court in Deutscher v. Gabel, 202 P.3d 355, 366 (Wash. Ct. App. 2009), recognized
+22   Burnet’s overruling of Dempere on separate grounds.
+
+
+     ORDER - 5
+ 1   faith litigation can warrant the equitable award of attorney fees.’ . . . But Washington
+
+ 2   case law provides little precedent for what constitutes bad faith.’”). 5
+
+ 3          Nevertheless, several Washington courts have determined that “it is bad faith in
+
+ 4   the conduct of litigation,” not prelitigation misconduct, “which may warrant an award of
+
+ 5   attorney fees.” Dempere, 886 P.2d at 221 (comparing fee awards based on prelitigation
+
+ 6   misconduct to punitive damages, which Washington law does not recognize); see also
+
+ 7   Maytown Sand & Gravel, LLC v. Thurston Cty., 423 P.3d 223, 250 (2018), as amended
+
+ 8   (Oct. 1, 2018) (holding that sanctioning parties for “prelitigation conduct that occurred
+
+ 9   before the court was involved and before litigation was initiated” exceeds the scope of
+
+10   Washington courts’ inherent authority to award bad faith attorney’s fees, because “harm
+
+11   caused by malicious, prelitigation conduct fits more naturally within the meaning of
+
+12   damages and is therefore limited to that context”), overruled on other grounds by Yim v.
+
+13   City of Seattle, 451 P.3d 694 (Wash. 2019); see also Maytown Sand & Gravel, LLC, 423
+
+14   P.3d at 250 (“Washington limits the situations in which such prelitigation attorney fees
+
+15   can be recovered as damages.”).
+
+16          CFL seizes on a sentence in Rorvig v. Douglas, 873 P.2d 492, 497 (Wash. 1994),
+
+17   to argue that Washington’s bad faith exception to the American Rule applies to AFS’s
+
+18   //
+
+19
+            5
+              As an example of the sometimes-confusing nature of the Washington law bad faith
+20   exception, one Washington case describes intentionally bringing a frivolous claim with an
+     improper motive as a form of “[s]ubstantive bad faith,” whereas federal case law describes the
+     same conduct as a matter of procedural law. Compare Rogerson Hiller Corp., 982 P.2d at 136
+21
+     (describing “[s]ubstantive bad faith”), with Chambers, 501 U.S. at 53 (“However, when fees are
+     based upon misconduct by an attorney or party in the litigation itself, rather than upon a matter of
+22   substantive law, the matter is procedural.”).
+
+
+     ORDER - 6
+ 1   prelitigation conduct. (See Fees Mot. at 3.) In that case, the Supreme Court of
+
+ 2   Washington recognized that attorney’s fees may be recovered as special damages for
+
+ 3   prelitigation misconduct in certain circumstances, including in malicious prosecution and
+
+ 4   wrongful attachment or garnishment actions. See Rorvig, 873 P.2d at 497. In doing so,
+
+ 5   the court held that these special damages extend to slander of title actions, because in
+
+ 6   those actions, “[i]t is the defendant who by intentional and calculated action leaves the
+
+ 7   plaintiff with only one course of action: that is, litigation.” See id. In these limited types
+
+ 8   of cases, Washington law extends attorney’s fees as special damages because “actual
+
+ 9   damages are difficult to establish” and thus “[f]airness requires the plaintiff to have some
+
+10   recourse against the intentional malicious acts of the defendants.” See id.
+
+11          CFL contends that Rorvig allows fees for AFS’s prelitigation conduct because
+
+12   AFS left CFL with no choice but to litigate. (See Fees Mot. at 3.) However, Washington
+
+13   courts have limited Rorvig to specific types of claims that do not include breach of
+
+14   contract. See Campbell v. McClelland, 112 Wash. App. 1005, 2002 WL 1279903, at *1
+
+15   (Wash. Ct. App. 2002) (unpublished) (declining to award fees based on prelitigation
+
+16   conduct to a case based on a restrictive covenant because to take “that language [in
+
+17   Rorvig] literally would destroy the American Rule of attorney fees in every intentional
+
+18   tort case and every intentional breach of contract case”); see also Dempere, 886 P.2d at
+
+19   222 (“Consequently, we hold that bad faith in the underlying tortious conduct is not a
+
+20   recognized equitable ground for awards of attorney fees in Washington.”).
+
+21          CFL cites no case, and the court is aware of none, in which a Washington court
+
+22   has applied Rorvig to award attorney’s fees based on prelitigation conduct in a breach of
+
+
+     ORDER - 7
+ 1   contract case. (See generally Fees Mot.) One Washington case that CFL relies on
+
+ 2   discusses “prelitigation misconduct” in dicta but does not cite to any Washington case
+
+ 3   that stands for the proposition that Washington law allows attorney’s fees based on
+
+ 4   prelitigation conduct that is connected to the underlying merits of the case. (See Fees
+
+ 5   Mot. at 3 (citing Rogerson Hiller Corp., 982 P.2d at 136).) CFL also relies on Hsu Ying
+
+ 6   Li v. Tang, 557 P.2d 342 (Wash. 1976). (See CFL Reply to Fees Mot. at 6.) Yet, the Hsu
+
+ 7   Ying Li court concluded that the “bad faith” exception did “not apply . . . as the trial court
+
+ 8   did not find any bad faith conduct,” and instead awarded fees based upon the defendant’s
+
+ 9   constructive fraud. See Hsu Ying Li, 557 P.2d at 344. Finally, CFL relies on Gunn v.
+
+10   Riely, 200 Wash. App. 1039 (2017) (unpublished), but that case involved a quiet title
+
+11   action, one of the types of cases in which such fees are allowed under Rorvig. (See CFL
+
+12   Reply to Fees Mot. at 7.) Moreover, the purpose of awarding fees for prelitigation bad
+
+13   faith conduct as described by Rorvig does not apply to breach of contract cases like this
+
+14   one, because unlike slander or quiet title actions, damages are not generally “difficult to
+
+15   establish” in breach of contract cases. See Rorvig, 873 P.2d at 497.
+
+16          Based on the foregoing authorities, the court concludes that Washington State
+
+17   substantive law does not allow for attorney’s fees based on bad faith prelitigation conduct
+
+18   in breach of contract cases. Therefore, the court need not address AFS’s arguments that
+
+19   the FAAAA preempts Washington law (see AFS Resp. to Fees Mot. at 3-7) or CFL’s
+
+20   responses to those arguments (see CFL Reply to Fees Mot. at 2-5).
+
+21   //
+
+22   //
+
+
+     ORDER - 8
+ 1          2. Fees for AFS’s Litigation Conduct Under Federal Law
+
+ 2          Having determined that Washington State substantive law does not allow
+
+ 3   attorney’s fees for AFS’s prelitigation conduct, the court next applies the applicable
+
+ 4   federal law to the portion of CFL’s fee request based on AFS’s conduct during this
+
+ 5   litigation. CFL focuses primarily on AFS’s prelitigation conduct and spills little ink on
+
+ 6   AFS’s conduct throughout this litigation, but argues that “AFS asserted positions that it
+
+ 7   knew were false, both before and after the commencement of this litigation.” (See Fees
+
+ 8   Mot. at 2.)
+
+ 9          District courts may award sanctions in the form of attorney’s fees under their
+
+10   inherent equitable powers if the court finds bad faith or “conduct tantamount to bad
+
+11   faith.” B.K.B. v. Maui Police Dept., 276 F.3d 1091, 1108 (9th Cir. 2002) (quoting Fink v.
+
+12   Gomez, 239 F.3d 989, 994 (9th Cir. 2001)) (internal quotation marks omitted).
+
+13   “Sanctions are available for a variety of types of willful actions, including recklessness
+
+14   when combined with an additional factor such as frivolousness, harassment, or an
+
+15   improper purpose.” Id. (quoting Fink, 239 F.3d at 994) (internal quotation marks
+
+16   omitted). The decision to impose sanctions rests in the sound discretion of the district
+
+17   court. See Air Separation v. Underwriters at Lloyd’s of London, 45 F.3d 288, 291 (9th
+
+18   Cir. 1994).
+
+19          Inherent powers must be used only with restraint and discretion. Leon v. IDX Sys.
+
+20   Corp., No. C03-1158 P, 2004 WL 5571412, at *3 (W.D. Wash. Sept. 30, 2004), aff’d,
+
+21   464 F.3d 951 (9th Cir. 2006) (citing Chambers, 501 U.S. at 44). If conduct can be
+
+22   sanctioned adequately under existing rules, a court ordinarily should rely on the rules
+
+
+     ORDER - 9
+ 1   rather than on inherent power to impose sanctions. Herrera v. Singh, 103 F. Supp. 2d
+
+ 2   1244, 1256 (E.D. Wash. 2000) (citing Chambers, 501 U.S. at 50). However, “if in the
+
+ 3   informed discretion of the court, neither the statute nor the rules are up to the task, the
+
+ 4   court may safely rely on its inherent power.” Chambers, 501 U.S. at 50.
+
+ 5           The court’s inherent power to sanction bad-faith conduct is based “not on which
+
+ 6   party wins the lawsuit, but on how the parties conduct themselves during the litigation.”
+
+ 7   See id. at 53. “Sanctions are available for a variety of types of willful actions, including
+
+ 8   recklessness when combined with an additional factor such as frivolousness, harassment,
+
+ 9   or an improper purpose.” B.K.B., 276 F.3d at 1108 (quoting Fink, 239 F.3d at 994)
+
+10   (internal quotation marks omitted).
+
+11           CFL does not seek sanctions under either Federal Rule of Civil Procedure 11, 28
+
+12   U.S.C. § 1297, or any other federal rule or statute. (See generally Fees Mot.) To support
+
+13   an award of fees under Rule 11, AFS must be given notice and an opportunity to respond.
+
+14   See Fed. R. Civ. P. 11(c)(1). AFS did not have such notice here because CFL did not
+
+15   seek relief under Rule 11. (See generally Fees Mot.) To support an award of fees under
+
+16   28 U.S.C. § 1927, AFS must have acted in subjective bad faith, which is present if AFS
+
+17   “knowingly or recklessly raise[d] a frivolous argument, or argue[d] a meritorious claim
+
+18   for the purpose of harassing an opponent.” In re Keegan Mgmt. Co. Sec. Litig., 78 F.3d
+
+19   431, 436 (9th Cir. 1996). This standard is similar to the standard the Ninth Circuit
+
+20   applies to requests for fees under the court’s inherent authority. See B.K.B, 276 F.3d at
+
+21   1108.
+
+22   //
+
+
+     ORDER - 10
+ 1          The court concludes that an award of attorney’s fees is not justified here. CFL
+
+ 2   does not point to any failure by AFS to disobey court orders or otherwise disrupt or delay
+
+ 3   court proceedings. (See generally Fees Mot.) Instead, CFL asserts that AFS “continu[ed]
+
+ 4   to assert positions it knew to be untrue throughout the litigation.” (See id. at 3.)
+
+ 5   Although the court granted partial summary judgment in favor of CFL (see MSJ Order at
+
+ 6   65-66), and CFL ultimately prevailed at trial on its breach of contract claim against AFS
+
+ 7   (see Verdict Form at 2), the court does not conclude from the evidence before it that
+
+ 8   AFS’s litigation positions were frivolous, reckless, or for the purpose of harassing CFL.
+
+ 9   CFL prevailed in part based on a contract modification that the court determined existed
+
+10   on summary judgment only after a full period of discovery. (See MSJ Order at 27.)
+
+11   AFS’s remaining positions, including that the parties did not enter a settlement agreement
+
+12   to resolve a dispute over master bills of lading (“MBOL”) (see id. at 56), that CFL was
+
+13   required to include valid Tender IDs on its invoices to AFS (see id. at 41), and that CFL
+
+14   was required to submit a master bill of lading for same day/same origin/same destination
+
+15   shipments (see id. at 39), all involved genuine disputes of material fact that required a
+
+16   jury trial to resolve. 6 Therefore, the court DENIES CFL’s motion for attorney’s fees.
+
+17   //
+
+18   //
+
+19
+            6
+               To be sure, the court does not condone all of AFS’s trial strategy, which included taking
+20   new litigation positions on the eve of and during the trial. (See 2/21/20 Order at 12 (discussing
+     the court’s rejection of AFS’s new theory that the parties’ modification included a condition
+     precedent) id. at 26-29 (discussing AFS’s proposal and subsequent rejection of “setoff” language
+21
+     in the jury instructions).) However, CFL does not discuss these positions in its motion for
+     attorney’s fees, and the court does not find they rise to a level that warrants sanctions. (See
+22   generally Fees Mot.)
+
+
+     ORDER - 11
+ 1   B.     CFL’s Motion for Prejudgment Interest
+
+ 2          CFL moves to amend or alter the judgment to include prejudgment interest at the
+
+ 3   Washington State statutory rate of 12% per annum. (See Interest Mot. at 2 (citing U.S.
+
+ 4   Fid. & Guar. Co. v. Lee Investments, LLC, 641 F.3d 1126, 1139 (9th Cir. 2011);
+
+ 5   Mutuelles Unies v. Kroll & Linstrom, 957 F.2d 707, 714 (9th Cir. 1992) (“In diversity
+
+ 6   jurisdiction, state law governs all awards of pre-judgment interest.”)).)
+
+ 7          Although AFS agrees that state law generally provides the applicable prejudgment
+
+ 8   interest rate, AFS responds that 49 U.S.C. § 14501(c) of the FAAAA preempts the
+
+ 9   application of a state law interest rate in this case, and therefore the 52-week U.S.
+
+10   Treasury bill rate should apply. (See AFS Resp. to Interest Mot. at 8-13.) AFS also takes
+
+11   issue with CFL’s proposed interest calculations. (See id. at 4-7.) The court addresses
+
+12   AFS’s preemption argument before determining the proper prejudgment interest award in
+
+13   this case.
+
+14          1. Preemption
+
+15          “In diversity actions brought in federal court a prevailing plaintiff is entitled to
+
+16   pre-judgment interest at state law rates . . . .” Onink v. Cardelucci, 285 F.3d 1231, 1235
+
+17   (9th Cir. 2002); Northrop Corp. v. Triad Int’l Mktg., S.A., 842 F.2d 1154, 1155 (9th Cir.
+
+18   1988) (“The recognized general rule is that state law determines the rate of prejudgment
+
+19   interest in diversity actions. . . . The general rule has been followed in this circuit.”)
+
+20   (citations omitted). Because the Agreement does not specify an applicable rate, CFL
+
+21   seeks the 12% per annum rate allowed by RCW 4.56.110(6) and RCW 19.52.020(1).
+
+22   (See Interest Mot. at 2.)
+
+
+     ORDER - 12
+ 1          AFS contends that 49 U.S.C. § 14501(c) of the FAAAA preempts the application
+
+ 2   of a state law interest rate because this case relates to a motor carrier and therefore the
+
+ 3   52-week U.S. Treasury bill rate should apply. (See AFS Resp. to Interest Mot. at 8-13.)
+
+ 4   Section 14501(c)(1) provides, in relevant part:
+
+ 5          Except as provided in paragraphs (2) and (3), a State, political subdivision of
+            a State, or political authority of 2 or more States may not enact or enforce a
+ 6          law, regulation, or other provision having the force and effect of law related
+            to a price, route, or service of any motor carrier (other than a carrier affiliated
+ 7          with a direct air carrier covered by section 41713(b)(4)) or any motor private
+            carrier, broker, or freight forwarder with respect to the transportation of
+ 8          property.
+
+ 9   49 U.S.C. § 14501(c)(1).
+
+10          An exception under the FAAAA allows the adjudication of state-law-based claims
+
+11   for breach of motor carrier-related contract claims, as long as there is “no enlargement or
+
+12   enhancement [of the contract] based on state laws or policies external to the agreement.”
+
+13   See Am. Airlines, Inc. v. Wolens, 513 U.S. 219, 232-33 (1995). AFS relies on cases
+
+14   holding that the FAAAA preempts state laws allowing punitive damages and state-law
+
+15   based attorney’s fees to argue that the FAAAA similarly preempts the application of
+
+16   Washington statutes providing 12% per annum interest in cases relating to motor carriers.
+
+17   (See AFS Resp. to Interest Mot. at 10-11 (citing Travel All Over the World, Inc. v.
+
+18   Kingdom of Saudi Arabia, 73 F.3d 1423, 1432 n.8 (7th Cir. 1996) (holding that the
+
+19   FAAAA preempts state law punitive damages because they represent an enlargement or
+
+20   enhancement of the parties’ bargain); ATA Airlines, Inc. v. Fed. Express Corp., No.
+
+21   1:08-cv-00785, 2010 WL 1754164, at *4 (S.D. Ind. Apr. 21, 2010) (holding that the
+
+22   FAAAA similarly preempts state law-based attorney’s fees)).) AFS cites only one case
+
+
+     ORDER - 13
+ 1   that mentions state-law-based prejudgment interest in relation to the FAAAA. (See AFS
+
+ 2   Resp. to Interest Mot. at 11 (citing Manassas Travel, Inc. v. Worldspan, L.P.,
+
+ 3   2:07-CV-701-TC, 2008 WL 1925135, at *2 (D. Utah April 30, 2008)). However, the
+
+ 4   portion of Manassas Travel that AFS cites simply recites a party’s argument that to the
+
+ 5   extent the opposing party “is seeking extra-contractual relief, such as attorneys’ fees,
+
+ 6   exemplary damages and interest, the ADA preempts such relief.” See Manassas Travel,
+
+ 7   Inc., at *2. The court did not ultimately adopt this position and reserved ruling on the
+
+ 8   issue. See id.
+
+ 9          AFS cites to no case in which a court has held that the FAAAA preempts the
+
+10   application of state-law-based prejudgment interest in diversity breach of contract cases.
+
+11   (See generally AFS Resp. to Interest Mot.) On the other hand, at least one Ninth Circuit
+
+12   case has affirmed a district court’s award of Washington law-based prejudgment interest
+
+13   in a contract-based diversity action involving a motor carrier. See Oak Harbor Freight
+
+14   Lines, Inc. v. Sears Roebuck, & Co., 513 F.3d 949, 961-62 (9th Cir. 2008); see also In re
+
+15   Exxon Valdez, 484 F.3d 1098, 1101 (9th Cir. 2007). Further, the cases upon which AFS
+
+16   relies that hold that FAAAA preempts state-law-based punitive damages and attorney’s
+
+17   fees are distinguishable from cases awarding prejudgment interest. Unlike punitive
+
+18   damages and fees, prejudgment interest does not enlarge or enhance what was owed, but
+
+19   rather is “necessary in the ordinary case to compensate a plaintiff fully for a loss suffered
+
+20   at time t and not compensated until t + 1.” See Hopi Tribe v. Navajo Tribe, 46 F.3d 908,
+
+21   922 (9th Cir. 1995) (internal quotation marks omitted); see also Emp. Painters’ Tr. v.
+
+22   Cascade Coatings, No. C12-0101JLR, 2014 WL 2893298, at *7 (W.D. Wash. June 25,
+
+
+     ORDER - 14
+ 1   2014) (“Prejudgment interest is appropriate as a form of compensatory relief, but not as a
+
+ 2   means of punitive damages”).
+
+ 3          Based on the foregoing authority, the court concludes that the FAAAA does not
+
+ 4   preempt the application of RCW 4.56.110(6) and RCW 19.52.020(1) in this case.
+
+ 5          2. Standard for Prejudgment Interest
+
+ 6          CFL seeks prejudgment interest on (1) the entire amount of the jury’s verdict for
+
+ 7   the time period between July 31, 2019, and the verdict date of October 25, 2013; for the
+
+ 8   “full setoff” amount between May 15, 2017, and May 26, 2017; and for the “full setoff”
+
+ 9   amount minus $530,121.21 (totaling $2,856,602.00) for the time period between May 26,
+
+10   2017, and July 31, 2019, for a total interest amount of $829,718.39. (See Interest Mot. at
+
+11   6.) CFL also includes an “alternative” request for $727,736.05. (See id. at 8.)
+
+12          “A party is entitled to prejudgment interest where the amount due is ‘liquidated.’”
+
+13   Unigard Ins. Co. v. Mutual of Enumclaw Ins. Co., 250 P.3d 121, 128 (Wash. Ct. App.
+
+14   2011) (citing Weyerhaeuser Co. v. Commercial Union Ins. Co., 15 P.3d 115, 132 (Wash.
+
+15   2000)). Additionally, courts award prejudgment interest when “the amount of an
+
+16   ‘unliquidated’ claim is for an amount due upon a specific contract for the payment of
+
+17   money and the amount due is determinable by computation with reference to a fixed
+
+18   standard contained in the contract, without reliance on opinion or discretion,” see
+
+19   Maryhill Museum of Fine Arts v. Emil’s Concrete Const. Co., 751 P.2d 866, 870 (1988)
+
+20   (quoting Prier v. Refrigeration Eng’g Co., 442 P.2d 621, 626 (Wash. 1968)). A claim is
+
+21   liquidated “where the evidence furnishes data which, if believed, makes it possible to
+
+22   compute the amount with exactness, without reliance on opinion or discretion.” Egerer v.
+
+
+     ORDER - 15
+ 1   CSR W., LLC, 67 P.3d 1128, 1131 (Wash. Ct. App. 2003) (quoting Prier, 442 P.2d at
+
+ 2   626). “[T]he existence of a dispute over part or all of a claim does not change the claim
+
+ 3   from a liquidated to an unliquidated one. It is the character of the claim and not of the
+
+ 4   defense that determines the question.” Prier, 442 P.2d at 627.
+
+ 5          AFS raises several objections to CFL’s calculations. (See AFS Resp. to Interest
+
+ 6   Mot. at 4-7.) AFS contends that CFL improperly seeks interest on an unsupportable sum
+
+ 7   greater than the jury’s verdict, relies on an arbitrary accrual date, and fails to support its
+
+ 8   calculations with accurate, invoice-by-invoice due dates and amounts. (See id.) The
+
+ 9   court first addresses the sum to which prejudgment interest properly applies before
+
+10   addressing the proper accrual date.
+
+11          3. Sum to Which Interest Applies
+
+12          The court concludes that the jury’s verdict of $2,472,227.10 is the proper sum
+
+13   upon which to apply prejudgment interest. (See Verdict Form at 2.) This sum represents
+
+14   the amounts the jury determined AFS withheld from CFL in violation of the Agreement,
+
+15   minus the amount CFL concedes it overcharged AFS. As AFS agrees, the jury appears to
+
+16   have calculated CFL’s damages as follows:
+
+17          (1) The amount AFS failed to pay to set off alleged overcharges on 9+ pallet
+
+18   shipments ($1,781,158.01); plus
+
+19          (2) The amount AFS failed to pay to set off alleged overcharges on 1-8 pallet
+
+20   shipments ($634,629.25); plus
+
+21          (3) The MBOL setoff amount ($431,028.00); plus
+
+22   //
+
+
+     ORDER - 16
+ 1          (4) The amount AFS failed to pay based on alleged Tender ID defects ($36,036);
+
+ 2   plus
+
+ 3          (5) CFL’s payment to AFS in response to AFS’s demands on the MBOL issue
+
+ 4   ($112,203.52); minus
+
+ 5          (6) The amount CFL admitted it overcharged AFS for 1-8 pallet shipments
+
+ 6   ($522,827.68).
+
+ 7   (See 2/21/20 Order (Dkt. # 309) at 20-21; AFS JMOL Mot. (Dkt. # 286) at 9-10.)
+
+ 8          Evidence presented to the jury supports the above sums. (See 2/21/20 Order at
+
+ 9   20-23 (analyzing the evidence supporting the jury’s damages award).) However, the
+
+10   sums in excess of the jury’s verdict upon which CFL seeks interest are not supported. In
+
+11   CFL’s first calculation, CFL seeks prejudgment interest on the “full setoff” amount of
+
+12   $3,386,723.21, a sum that includes $530,121.21 that AFS reimbursed to CFL on May 26,
+
+13   2017. (See Interest Mot. at 6.) CFL does not connect the $530,121.21 to any set of
+
+14   invoices or provide evidence of when such invoices were due. (See generally id.)
+
+15   Because the reimbursed amount could relate to invoices that were not yet due, CFL
+
+16   cannot obtain prejudgment interest on the $530,121.21 that AFS reimbursed more than
+
+17   two and a half years ago. Further, the “total setoff” amount upon which CFL seeks
+
+18   prejudgment interest is not a proper sum because it fails to account for the $522,827.68
+
+19   that CFL conceded throughout trial that AFS in fact did not owe to CFL. (See 2/21/20
+
+20   Order at 20 (discussing CFL’s position that $522,827.68 should be deducted from its
+
+21   damages award because it overcharged AFS that amount for 1-8 pallet shipments).)
+
+22   //
+
+
+     ORDER - 17
+ 1          4. Accrual Date
+
+ 2          Generally, the date an invoice becomes due is the proper accrual date for
+
+ 3   prejudgment interest. See Weyerhauser Co. v. Commercial Union Ins. Co., 15 P.3d 115,
+
+ 4   133 (Wash. 2000) (“The date those invoices were paid established the proper time
+
+ 5   interest began to run.”) However, where voluminous separate invoices became due on
+
+ 6   separate dates, the court may determine a single date from which prejudgment interest
+
+ 7   accrues. Oak Harbor Freight Lines, Inc., 513 F.3d at 961 (affirming a district court’s
+
+ 8   adoption of a single prejudgment accrual date as opposed to a separate accrual date for
+
+ 9   each of the 3,386 freight bills at issue) (citing Chandler v. Bombardier Capital, Inc., 44
+
+10   F.3d 80, 84 (2d Cir. 1994) (holding that the district court did not abuse its discretion in
+
+11   applying, over a longer period of time, a lower interest rate than it otherwise might have
+
+12   applied because the interest was fair and the court avoided “establishing a separate
+
+13   interest figure for each lost monthly payment”)).
+
+14          Here, the Agreement required AFS to pay CFL’s invoices within 60 days of
+
+15   receipt. (See Agreement § 2.2.) CFL proposes a May 15, 2017, accrual date for its “full
+
+16   setoff” calculation, and a May 26, 2017, accrual date for its calculation based on the
+
+17   amount of the jury’s verdict. (See Interest Mot. at 6, 8.) AFS contends that May 15,
+
+18   2017, is an “arbitrary” accrual date, and that many invoices on which CFL seeks
+
+19   prejudgment interest were not yet due as of that date. (See AFS Resp. to Interest Mot. at
+
+20   5-6 (citing Trial Ex. 107).) CFL responds that only 51 of the 23,642 invoices were issued
+
+21   after May 15, 2017. (See CFL Reply to Interest Mot. at 2-3.)
+
+22   //
+
+
+     ORDER - 18
+ 1          The court adopts the method affirmed by the Ninth Circuit in Oak Harbor Freight
+
+ 2   Lines and sets an accrual date of December 26, 2017, sixty days after the final invoice
+
+ 3   issue date of October 27, 2017—and therefore the date the final invoice was due—on all
+
+ 4   portions of the jury’s damages award except for the $112,203.52 MBOL payment. (See
+
+ 5   Tr. Ex. 107; Am. Answer (Dkt. # 6) ¶ 49.) The parties do not provide evidence of the
+
+ 6   exact date of that payment, but they agree that AFS received the payment by August
+
+ 7   2016. Therefore, the court sets an accrual date of September 1, 2016, for prejudgment
+
+ 8   interest on the $112,203.52 MBOL payment.
+
+ 9          5. Prejudgment Interest Award
+
+10          Based on the foregoing analysis, the court awards CFL prejudgment interest as
+
+11   follows:
+
+12    Date Range            Days                   Base Amount            Prejudgment
+                                                                          Interest at 12% per
+13                                                                        annum
+      December 26,       669                       $2,360,023.58          $519,075.87
+14    2017-October 25,
+      2019
+15    September 1,       1,150                     $112,203.52            $42,422.15
+      2016-October 25,
+16    2019
+      Total Prejudgment Interest:                                        $561,492.02
+17
+
+18                                  IV.    CONCLUSION
+
+19          For the reasons set forth above, the court DENIES CFL’s motion for attorney’s
+
+20   fees (Dkt. # 285); GRANTS in part and DENIES in part CFL’s motion to alter or amend
+
+21   //
+
+22   //
+
+
+     ORDER - 19
+ 1   the judgment to include prejudgment interest (Dkt. # 283); and awards CFL $561,492.02
+
+ 2   in prejudgment interest. An amended judgment will follow.
+
+ 3         Dated this 26th day of February, 2020.
+
+ 4
+
+ 5                                                  A
+                                                    JAMES L. ROBART
+ 6
+                                                    United States District Judge
+ 7
+
+ 8
+
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+
+     ORDER - 20
+

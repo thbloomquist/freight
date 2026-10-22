@@ -1,0 +1,288 @@
+                                                    Date Issued: January 16, 2019
+
+                                                            File: SC-2018-003600
+
+                                                              Type: Small Claims
+
+
+                        Civil Resolution Tribunal
+
+  Indexed as: ACME TRANSPORT LTD v. PLANET EXPRESS TRANSPORT LTD,
+                           2019 BCCRT 63
+
+
+  BETWEEN:
+
+
+            ACME TRANSPORT LTD
+
+
+                                                                  APPLICANT
+
+
+  AND:
+
+
+            PLANET EXPRESS TRANSPORT LTD
+
+
+                                                               RESPONDENT
+
+
+
+                       REASONS FOR DECISION
+
+
+Tribunal Member:                                        Shelley Lopez, Vice Chair
+INTRODUCTION
+
+1. This dispute is about unpaid freight delivery charges. The applicant carrier, ACME
+    TRANSPORT LTD, claims payment of $4,450 for 2 invoices, plus interest. The
+    respondent freight broker, PLANET EXPRESS TRANSPORT LTD, says the third
+    party shipper, RBI, reported 1 of the 2 loads was damaged, and alleges the
+    applicant failed to process an insurance claim. The respondent submits that
+    because it was not paid by RBI, it does not have to pay the applicant.
+
+2. The applicant is represented by Amarjit Kailey, an employee or principal. The
+    respondent is represented by Jaskam Ke, an employee or principal.
+
+3. For the reasons that follow, I allow the applicant’s claims.
+
+
+JURISDICTION AND PROCEDURE
+
+4. These are the formal written reasons of the Civil Resolution Tribunal (tribunal). The
+    tribunal has jurisdiction over small claims brought under section 118 of the Civil
+    Resolution Tribunal Act (Act). The tribunal’s mandate is to provide dispute
+    resolution services accessibly, quickly, economically, informally, and flexibly. In
+    resolving disputes, the tribunal must apply principles of law and fairness, and
+    recognize any relationships between parties to a dispute that will likely continue
+    after the dispute resolution process has ended.
+
+5. The tribunal has discretion to decide the format of the hearing, including by writing,
+    telephone, videoconferencing, email, or a combination of these. In the
+    circumstances here, I find that I am properly able to assess and weigh the
+    documentary evidence and submissions before me. Further, bearing in mind the
+    tribunal’s mandate that includes proportionality and a speedy resolution of disputes,
+    I find that an oral hearing is not necessary. I also note that in Yas v. Pope, 2018
+    BCSC 282 at paragraphs 32 to 38, the BC Supreme Court recognized the tribunal’s
+    process and found that oral hearings are not necessarily required where credibility
+    is in issue. The tribunal may accept as evidence information that it considers
+
+
+                                            2
+    relevant, necessary and appropriate, whether or not the information would be
+    admissible in a court of law. The tribunal may also ask questions of the parties and
+    witnesses and inform itself in any other way it considers appropriate.
+
+6. Under tribunal rule 126, in resolving this dispute the tribunal may order a party to do
+    or stop doing something, order a party to pay money, or order any other terms or
+    conditions the tribunal considers appropriate.
+
+7. To the extent the parties respectively make allegations of defamation, I have not
+    considered them, because defamation is expressly outside the tribunal’s jurisdiction.
+
+
+ISSUE
+
+8. The issue in this dispute is to what extent, if any, the applicant is entitled to payment
+    of its invoices totaling $4,450, plus interest, for 2 freight deliveries.
+
+
+EVIDENCE AND ANALYSIS
+
+9. In a civil claim such as this, the applicant bears the burden of proof on a balance of
+    probabilities. I have only addressed the evidence and submissions below as
+    necessary to explain my decision.
+
+10. It is undisputed the applicant hauled 2 loads at the respondent’s request: #5101 and
+    #5098. I find the respondent is responsible to pay the applicant’s invoices, as
+    discussed below.
+
+11. Invoice #5101, dated August 17, 2016, is for $2,220 for an August 13, 2016 delivery
+    from a combination of various Lower Mainland shippers to Edmonton. This
+    shipment contained kitchen cabinets, mouldings, and related construction items.
+    There is no suggestion that invoice #5101 was delivered damaged or that there was
+    any other concern about this shipment. There is no explanation before me as to why
+    the respondent has not paid the applicant’s invoice #5101, and there is no evidence
+    the applicant’s calculations are incorrect. I order the respondent to pay invoice
+    #5101.
+
+                                               3
+12. Invoice #5098, dated November 26, 2016, is for $2,250, for an August 15, 2016
+   delivery from AVS Windows in Surrey, BC to RBI Construction (RBI) in Calgary, AB.
+   It appears RBI was the entity who hired the respondent, and as noted above, the
+   respondent hired the applicant to carry and deliver the goods.
+
+13. Invoice #5098 includes $450 in “waiting time”. The bill of lading shows the driver
+   arrived at 9 a.m. and left at 8:15 p.m. This supports the applicant’s undisputed
+   submission that the receiver at RBI spent a significant amount of time inspecting the
+   load. As set out on the bill of lading, this shipment contained 74 pieces, with the
+   item description “windows”. On its face, the bill of lading required written notice to
+   the applicant carrier of any damage within 60 days of delivery. As submitted by the
+   applicant, there is no indication on the bill of lading of any concern about the
+   delivery, and the receiver RBI signed for it.
+
+14. Based on the evidence before me, on December 19, 2016 RBI’s lawyer first wrote
+   to the applicant about alleged damage to “more than 75%” of the windows, well
+   after the 60-day limit set out in the bill of lading for shipment #5098. While the
+   respondent stated in a similar January 24, 2017 letter that it immediately contacted
+   the applicant about the damaged windows, there is no evidence that it did so and no
+   evidence that it did so in writing as required. RBI is not a party to this dispute, which
+   is about the applicant’s demand for payment of its invoices issued to the
+   respondent.
+
+15. The respondent asked the applicant to pursue an insurance claim for shipment
+   #5098, which is mentioned in their January 24, 2017 letter. The applicant did so by
+   early February 2017. It is unclear what came of this claim, but I find it does not
+   impact the respondent’s obligation to pay the applicant. I say this because I find the
+   evidence before me shows the windows were delivered undamaged, and even if
+   they were damaged, the applicant is not responsible for the damage.
+
+16. In particular, as referenced above it is undisputed both shipments were delivered
+   with clean bills of lading and receiver signatures. RBI’s receiver inspected the
+   shipment thoroughly while the applicant’s driver waited all day, for almost 12 hours.
+
+                                            4
+    I find there was no defect or damage found on the receiver’s detailed inspection of
+    the shipment. If 75% of the windows had been damaged at the time of delivery, I
+    find it more likely that RBI’s receiver would have noticed it during its detailed
+    inspection.
+
+17. Further, as set out in the bill of lading, if there is any damage, the carrier must be
+    notified within 60 days of delivery. Based on the evidence before me, no one
+    notified the applicant in writing within 60 days. Based on the documentation before
+    me, the first time the respondent raised a concern was February 1, 2017, more than
+    6 months after delivery, and RBI’s letter was in December 2016, outside the 60 day
+    timeframe. I find the bill of lading governed the parties’ conduct about damage
+    claims.
+
+18. I acknowledge the respondent provided photos of damaged windows. However, as
+    noted by the applicant, these photos are undated and on the face of them I cannot
+    tell which shipment they come from or when the damage occurred. The respondent
+    does not deny it brokered another shipment of windows for RBI which another
+    carrier delivered. Even if these photos are of shipment #5098, I cannot tell if the
+    windows were damaged after the applicant delivered them. I prefer the receiver’s
+    clean bill of lading as the better evidence that the windows were delivered by the
+    applicant undamaged. As also noted by the applicant, the respondent’s
+    correspondence refers to a damaged shipment containing 113 pieces, but shipment
+    #5098 only had 74 pieces. The respondent says the claim shows 113 pieces
+    “because some pieces count is not the windows”. This explanation is unclear and
+    ultimately not helpful, given the bill of lading clearly identified only 74 pieces being
+    shipped, total. This discrepancy leads me to conclude the respondent’s evidence is
+    not reliable.
+
+19. I do acknowledge an email thread between the parties and an insurer. There is one
+    entry that indicates the applicant’s driver discovered “window was broken in
+    Calgary” and the RBI drop off site was a construction zone (all quotes reproduced
+    as written). It is unclear what was intended by that comment, but I find it does not
+
+
+                                             5
+    suggest negligence by the applicant. The statement went on to say “No accident
+    report to the company from the driver maybe strapped too tight owner thinks it is
+    common in that loss location”. The evidence before me does not indicate the
+    applicant carrier was responsible for loading and strapping the windows in shipment
+    #5098. Thus, even if the windows were damaged during transport, the evidence
+    does not show it was due to the applicant’s negligence.
+
+20. I note the respondent provided a voice recording, which is legal in Canada if one
+    party to the recording is aware the recording is being made. However, there is no
+    indication of who the speakers are, whether either of them knew they were being
+    recorded, and the speakers are not speaking in English. The respondent did not
+    provide any English translation and made no submissions about the recording.
+    There is nothing I can draw from this non-English recording and I place no weight
+    on it.
+
+21. Contrary to the respondent’s central submission, the fact that the respondent has
+    not received payment from RBI for the applicant’s services is not relevant to the
+    respondent’s obligation to pay the applicant. I have found above the applicant
+    delivered #5098 undamaged and as also noted there was no issue with shipment
+    #5101. I find the respondent must pay the applicant their invoices.
+
+22. The respondent’s point in this dispute is that it has not been paid by RBI, because
+    RBI was not paid through the applicant’s insurance. There is no evidence before me
+    that requires the applicant to pursue an insurance claim for RBI, in order to receive
+    payment from the respondent. As noted above, there is no dispute the applicant
+    delivered the 2 shipments, as the respondent hired it to do. There is no dispute
+    about the amount of the delivery charges. I have found the applicant delivered the
+    goods undamaged and in any event there is no evidence before me that the
+    applicant was negligent. Nothing turns on the insurance issue.
+
+23. I also note that the respondent submits, “If I can get the money from RBI, we can
+    pay you in full no problem at all”. I note the respondent’s submission it started a
+    separate tribunal proceeding against RBI and the respondent’s reference to a
+
+                                            6
+    provincial court action, which I infer relates to an enforcement proceeding. Again,
+    payment by RBI is an issue between the respondent and RBI, which is not a party
+    to the dispute before me. I reject the respondent’s submission that shipment #5098
+    is pending and that its shipment is not concluded. The load was delivered under the
+    parties’ agreement, as noted by the receiver’s signature.
+
+24. I turn to the applicant’s interest claim of $285.55. I note the applicant’s invoice terms
+    are “net 30”, and on their face state that 2% monthly interest (24% per year) applies
+    to all overdue accounts.
+
+25. The 2% monthly interest rate equals 24% annual interest, which I find would result
+    in a total interest calculation of $2,207.32 for both invoices, to the date of this
+    decision. However, as noted the applicant claimed only the specific amount of
+    $285.55 in interest for both invoices, and so that is what I allow.
+
+26. In any event, I note there is an argument to be made that contractual interest (unlike
+    pre-judgment interest under the Court Order Interest Act) is a substantive claim that
+    must together with the principal debt fall under the tribunal’s $5,000 monetary limit
+    (see Telus Services Inc. v. Hussey, 2016 BCPC 41 and Canadian Tire Bank v.
+    Konkin, 2018 BCPC 151, although these cases considered the Small Claims Act,
+    rather than the Act). I mention this here given the significant difference between the
+    $285.55 claimed and the $2,207.32 calculation based on 24% annual interest. In
+    other words, given the tribunal’s $5,000 monetary limit it is possible the applicant’s
+    total contractual interest in this tribunal proceeding would be limited to $550, from
+    the invoices’ due dates to the date of this decision. However, I do not need to
+    decide that issue here, as the applicant limited their interest claim to $285.55.
+
+27. In accordance with the Act and the tribunal rules, ordinarily a successful applicant is
+    entitled to reimbursement of tribunal fees and reasonable dispute-related expenses.
+    The applicant was successful. I therefore find it is entitled to reimbursement of $175
+    in tribunal fees and $31.50 for a company search.
+
+
+
+
+                                             7
+ORDERS
+
+28. Within 14 days of this decision, I order the respondent to pay the applicant a total of
+    $4,942.05, broken down as follows:
+
+       a. $4,450 in debt for outstanding invoices for shipments #5101 and #5098,
+
+       b. $285.55 in pre-judgment interest, and
+
+       c. $206.50, for $175 in tribunal fees and $31.50 in dispute-related expenses.
+
+29. The applicant is entitled to post-judgment interest, as applicable.
+
+30. Under section 48 of the Act, the tribunal will not provide the parties with the Order
+    giving final effect to this decision until the time for making a notice of objection
+    under section 56.1(2) has expired and no notice of objection has been made. The
+    time for filing a notice of objection is 28 days after the party receives notice of the
+    tribunal’s final decision.
+
+31. Under section 58.1 of the Act, a validated copy of the tribunal’s order can be
+    enforced through the Provincial Court of British Columbia. A tribunal order can only
+    be enforced if it is an approved consent resolution order, or, if no objection has
+    been made and the time for filing a notice of objection has passed. Once filed, a
+    tribunal order has the same force and effect as an order of the Provincial Court of
+    British Columbia.
+
+
+
+
+                                                                Shelley Lopez, Vice Chair
+
+
+
+
+                                             8
+

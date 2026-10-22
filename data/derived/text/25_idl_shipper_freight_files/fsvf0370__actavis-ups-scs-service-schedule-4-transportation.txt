@@ -1,0 +1,209 @@
+                                                                                                                     TGOS_VA4_MDL_12246735
+
+
+                                                                          gol-o_srbeth(z--                         Confidential & Proprietary
+                                    SERVICE SCHEDULE NO. 4 - TRANSPORTATION SERVICES
+                  This Service Schedule No. 4 for Transportation Services ("Schedule") is attached to and made part of that certain Master
+         Services Agreement dated November 6, 2006, (the "MSA") by and between UPS Supply Chain Solutions, Inc. ("SCS") and Actavis,
+         Inc., ("Client") as of November 6, 2006 (the "Effective Date"). The terms and conditions of the MSA are incorporated herein by
+         reference. Terms not defined in this Schedule shall have the meaning set forth in the MSA.
+         1. Provision of Services. SCS will provide transportation services to support Client's logistics requirements related to
+         transportation (the "Services"), in accordance with this Schedule and all bills of lading and other transportation documents issued by
+         SCS and carriers, each of which is incorporated into this Schedule by reference. In the event of a conflict between any bill of lading
+         or other transportation document and this Schedule, this Schedule will control. Client acknowledges that this Schedule does not
+         provide for the handling or transportation of Hazardous, Dangerous or Regulated Goods. Unless otherwise specified in a Services
+         Schedule, SCS shall not be required to arrange for transportation of Goods in a special environment, including but not limited to air-
+         conditioned, cooled, chilled or frozen environments.
+         2. Term and Termination. The Initial Term of this Schedule shall commence on the Effective Date and shall continue up to and
+         including November 5, 2009 ("Initial Term"), unless earlier terminated in accordance with the MSA. Thereafter, this Schedule will
+         automatically renew for successive one-year renewal terms, unless either Party gives the other Party written notice of non-renewal at
+         least one hundred twenty (120) days prior to the expiration of the then-current term. In addition to the termination provisions in the
+         MSA, this Schedule may be terminated by either Party: (a) without cause upon one hundred twenty (120) days prior written notice or
+         (b) with cause upon the commission of a material breach of this Schedule which is not cured within sixty (60) days after the
+         breaching Party receives notice.
+         3. Termination Costs. SCS must make certain financial commitments in order to perform the Services, which SCS expects to
+         recover during the term of this Services Appendix. As a consequence, if this Schedule is terminated (i) by SCS due to Client's
+         breach, failure to make payments when due, insolvency, or bankruptcy, or (ii) by Client for its convenience, Client shall pay SCS the
+         termination cost listed in Exhibit A, if any.
+         4. Fees. The Fees applicable to the Services and the Operating Parameters (as defined below) on which SCS has calculated the
+         Fees are specified on Exhibit A. SCS will invoice Client every two weeks for the Fees as incurred by SCS. Client will pay all Fees
+         on an invoice within fourteen (14) days from date of the invoice. The Fees will be reviewed annually. SCS will use commercially
+         reasonable efforts to minimize or eliminate annual price increases from its core carriers. However, when carrier price increases are
+         incurred, SCS will pass such price increases on to Client, and Client will pay them, notwithstanding anything to the contrary in this
+         Schedule. Any surcharges imposed or paid will be per section 3.0 of the MSA.
+         5. Operating Parameters. SCS has calculated the Fees set forth on Exhibit A based on the Operating Parameters set forth in
+         Exhibit B. The following provision supersedes any conflicting provision of the MSA with regard to this Schedule: In the event of a
+         change in any Operating Parameter, SCS will propose an adjustment to the Fees to respond to the change by providing Client with
+         fifteen (15) days prior written notice thereof, setting forth with reasonable specificity the basis for such adjustment. Client shall not
+         unreasonably withhold its approval of such adjustment. If Client refuses to pay such adjustment, either Party may immediately
+         escalate the matter to senior managers of each Party. Thereafter, if the Parties have still not reached an agreement, the Parties may
+         proceed with resolution of the dispute or termination in accordance with the MSA.
+        6. Liability for Loss or Damage. SCS shall use commercially reasonable efforts to require all carriers (including carriers that are
+        affiliates of SCS) selected by SCS for the purposes of transporting Goods to maintain motor cargo insurance in the amount of
+        $100,000 to cover lost or damaged Goods caused by carrier's negligence. Notwithstanding the foregoing, Client acknowledges and
+        agrees that the carrier of the Goods shall have the risk of any loss of or damage to the Goods managed pursuant to this Schedule
+        while the Goods are in such carrier's care, custody, or control on such terms and conditions as may be agreed to in writing between
+        SCS and the carrier. Notwithstanding anything to the contrary in this Agreement, SCS shall have no liability for any loss of or
+        damage to any Goods transported by a carrier (including carriers that are affiliates of SCS) and, in each such event, any claim of loss
+        of or damage to such Goods shall be governed by the applicable standard terms and conditions of such carrier. In no event shall
+        SCS have any responsibility to pay any amounts which a carrier fails or refuses to pay with respect to any carrier claim.
+        7. Carrier Claims. Upon Client's request and payment of the associated Fees specified on Exhibit A, SCS will file on Client's
+        behalf any claim for any loss or damage to Goods, provided that Client gives SCS written notice of such claim within thirty (30)
+        days after delivery of the Goods by SCS' s carrier or thirty (30) days after Client is given written notice by SCS that loss or damage
+        to the Goods has occurred, whichever is earlier. If Client fails to provide SCS notice of a claim in accordance with this Section,
+        Client's right to bring such claim is waived. SCS will act on behalf of Client in the filing and processing of such claims, and Client
+        will reimburse SCS for all reasonable costs and expenses incurred by SCS in connection with the filing and prosecution of such
+        claims.
+        8. Disclaimer. SCS is not responsible for any consequences that result from any action of Client in following or declining to
+        follow any advice of SCS, it being acknowledged and agreed by Client that all decision-making regarding Client, including without
+        limitation whether or not to follow any advice given by SCS, is solely the responsibility of Client.
+
+        Actavis, Inc. 11-06-2006                                                                                                 Page 1       /
+                                                                                                                                             *./
+
+Highly Confidential           Source: https://www.industrydocuments.ucsf.edu/docs/fsvf0370
+                                                                                        Acquired_Actavis_01545054
+                                                                                                                  TGOS_VA4_MDL_1 2246736
+
+
+
+                                                                                                                Confidential & Proprietary
+
+        9. Notices. In addition to the requirements of the Notices provision in the MSA, any notice required under this Schedule shall be
+        directed to the following individuals:
+                 To SCS:                                                Copy To:
+                 UPS Supply Chain Solutions, Inc.                       UPS Supply Chain Solutions, Inc.
+                                                                 Attn: Global Contracts Department
+                                                                       12380 Morris Road
+                                                                        Atlanta, Georgia 30328
+
+
+                 If to Client:
+
+
+
+
+        10. Governing Publications. Transportation of all Goods under this Schedule is subject to the following publications:
+            1.   National Motor Freight Classification ("NMFC") - 100 W series or reissues thereof.
+                 U.S. Postal Service Zip Code Directory.
+            3.   P.C. Miler as appropriate to the contracts and shipments involved, in use by SCS at date of shipment.
+        If any such publication conflicts with this Schedule, this Schedule shall govern.
+        11. Survival. The following provisions of this Schedule will survive its expiration or termination: Termination Costs, Liability for
+        Loss or Damage, and Carrier Claims.
+
+
+                 IN WITNESS WHEREOF, the parties hereto have caused this Schedule to be executed by their duly authorized
+        representatives as of the day and year first written herein.
+
+
+        UPS SUPPLY CHAIN SOLUTIONS, INC.                                         ACTAVIS,
+        "SCS"                                                                    "CLIENT"
+
+
+
+                                                                                 Signature
+                                                                                       f,,re_hp,-          /..S.CO,-1
+        Printed Name                                                             Printed Name
+                                                                                   execce. il / vc ge
+        Title 19/ 6 "#)              /61‘11
+                                          11- 1-61Ad                             Title
+                                                                                            ee,444 er --
+        Date                                                                     Date
+
+
+
+
+        Actavis, Inc. 11-06-2006                                                                                            Page 2
+
+
+
+Highly Confidential                                                                        Acqui red_Actavis_01545055
+                                 Source: https://www.industrydocuments.ucsf.edu/docs/fsvf0370
+                                                                                                               TGOS_VA4_MDL_12246737
+
+
+
+                                                                                                              Confidential & Proprietary
+                                                 EXHIBIT A - FEES
+                                TO SERVICE SCHEDULE NO. 4 - TRANSPORTATION SERVICES
+
+
+
+
+        In accordance with this Schedule, Client will pay to SCS the following Fees:
+        1.      Maintenance Fee: 5 % on weekly invoiced transportation expense for TL and LTL.
+        2.      Surcharge for invoices received from carriers not identified in the SCS Routing Guide.
+        3.      Pricing does not include fuel surcharges. UPS Supply Chain Solutions sets fuel surcharges (if applicable) weekly based on
+                market conditions. Fuel Surcharge is set weekly based on the diesel fuel national average price. Fuel surcharge is a
+                percentage of linehaul.
+        4.      Accessorial charges will be charged to the Client as incurred.
+        5.      LTL rates based on a discount of 54% off the CZAR Lite 95 tariffs for a NMFC 77.5 for non-temperature controlled
+                transportation. The minimum charge is $70 per shipment. Rates for temperature controlled transportation will be provided
+                per Client request.
+        6.      Fees for processing carrier claims $65 per claim or 3% of the claim amount, whichever is greater.
+        7.      Customs clearance, duties, entry fees are not included in the pricing.
+        8.      Termination fees $0.00.
+
+
+
+
+        Actavis, Inc. 11-06-2006                                                                                          Page 3
+
+
+
+Highly Confidential                                                                    Acqui red_Actavis_01545056
+                             Source: https://www.industrydocuments.ucsf.edu/docs/fsvf0370
+                                                                                                                  TGOS_VA4_MDL_12246738
+
+
+                                                                                                                Confidential & Proprietary
+
+                                               EXHIBIT B - OPERATING PARAMETERS
+                                TO SERVICE SCHEDULE NO. 4 - TRANSPORTATION SERVICES
+
+
+
+
+       Based on the data supplied by Client, SCS anticipates the following Operating Parameters:
+       1.      Goods: pharmaceutical products not requiring temperature or humidity controls while in transit.
+                                                                                                                      the term of this
+       2.       The location of the distribution facilities at Louisville, KY and Newark, DE will not change during
+                Schedule.
+                                                                                                                           specified in
+       3.       Hours of Operation: 9:00 AM through 5:00 PM local facility time, Monday through Friday, excluding Holidays
+                this Services Appendix.
+       4.       Holiday Schedule:
+                Thanksgiving Day                    Day after Thanksgiving
+                Christmas Day                       New Year's Eve
+                New Year's Day                       Memorial Day
+                4th of July                          Labor Day
+
+
+                                                                                                                                         KY or
+        5.      SCS will coordinate the scheduling of all inbound shipments from Client's third party manufacturers to Louisville,
+                Newark, DE.
+                                                                                                                                   agreed upon
+        6.      SCS will coordinate both the Inbound and Outbound Transportation schedules in accordance with the mutual
+                work instructions of both Client and SCS.
+                                                                                                                                    (Client also
+        7.      Client will at all times retain the right to route its movements on any Transportation Provider of its choosing
+                understands that in choosing an alternative carrier to our preferred vendor base may translate to a higher cost structure).
+                                                                                                                                         to
+        8.      Client may also decide to route its own freight under its own contracts with the marketplace. Should Client decide
+                              strategy, Client would allow a 90 day transition period to allow SCS  to re-allocate the Traffic Manager.
+                initiate this
+                                                                                                                                        are
+        9.      SCS will also monitor all outbound movements on an exception report basis to ensure that any and all movements
+                delivered in a timely   basis and provide such report to Actavis on a regular basis
+
+
+
+
+                                                                                                                                Page 4
+        Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                     Acq u i red_Actavis_01545057
+                              Source: https://www.industrydocuments.ucsf.edu/docs/fsvf0370
+

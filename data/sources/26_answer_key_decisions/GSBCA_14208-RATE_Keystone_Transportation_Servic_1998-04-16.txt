@@ -1,0 +1,118 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+ 
+                                                 
+ 
+                             April 16, 1998
+                                                 
+ 
+ 
+                            GSBCA 14208-RATE
+ 
+ 
+        In the Matter of KEYSTONE TRANSPORTATION SERVICES, INC.
+ 
+ 
+        Carol    Muriella,    Collection     Department,    Keystone
+   Transportation Services,  Inc., Philadelphia,  PA, appearing  for
+   Claimant.
+ 
+        Jeffrey  J.  Thurston,  Director,  Office of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Colonel  James F. Quinn, Staff Judge Advocate, Headquarters,
+   Military  Traffic  Management Command,  Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   DANIELS, Board Judge (Chairman).
+ 
+        In February  1995, Keystone  Transportation Services,  Inc.,
+   carried goods for the Department  of Defense (DoD) from  Bayonne,
+   New Jersey to Holland, Michigan.  The DoD transportation  officer
+   in  Holland refused  to  accept  the  shipment;  she  ordered  it
+   returned  to  Bayonne.     Keystone  and  the   General  Services
+   Administration's Office of  Transportation Audits (GSA)  disagree
+   as  to the  appropriate charge  for  the return  carriage of  the
+   goods.
+ 
+        According  to Keystone,  the trip  back to  Bayonne is  best
+   viewed as a "reconsignment" or  "diversion."  Under the  Military
+   Traffic   Management   Command  (MTMC)   Freight   Traffic  Rules
+   Publication  No.  1A  (MFTRP   No.  1A),  these  two  terms   are
+   synonymous, and they mean, among other things, "[a] change in the
+   route or other  instructions that require a change  in billing or
+   an  additional movement  of the  shipment."   MFTRP No.  1A, Item
+   180(1).  This publication provides, "When the performance of this
+   service involves a change in the original destination point, this
+   charge will  be in  addition to  the applicable  published tender
+   line-haul rates to and from  the reconsignment point.  If carrier
+   does not  have an applicable tender line-haul  rate, tender rates
+   will  be negotiated  between the  carrier and  MTMC prior  to the
+   submission  of carrier's voucher for payment of freight charges."
+   Id., Item 180(3).
+ 
+ 
+        Keystone transported the goods from Bayonne to Holland under
+   the  terms of  its  tender  KEYT 000010,  which  applied only  to
+   shipments originating in  Bayonne.  The charge was  $357.86.  For
+   the return trip to Bayonne, Keystone calculated  the charge under
+   the terms of  its tender KEYT 000013, which  applied to shipments
+   originating  anywhere in the continental United States.  Keystone
+   and MTMC  both say that the carrier and  DoD agreed, prior to the
+   trip, that  this charge was  properly calculated as $1,845.   DoD
+   paid Keystone this amount, and MTMC agrees with Keystone that the
+   carrier is entitled to retain the money.
+ 
+        GSA,  on  the other  hand,  believes  that the  return  from
+   Holland to  Bayonne is best viewed as  a "redelivery."  MFTRP No.
+   1A provides, in  the item with  this heading, "When  instructions
+   are   furnished  carrier  ordering  return  of  the  shipment  to
+   consignor at  original point of  origin, carrier will  assess the
+   line-haul rate  applicable to  the original  inbound movement  or
+   applicable  tender rate  for the  return  movement, whichever  is
+   lower.   Carrier shall obtain a properly executed GBL [Government
+   bill of  lading] from  the party  ordering the return  movement."
+   MFTRP No. 1A, Item  185(6).  GSA maintains  that since the  line-
+   haul rate applicable  to the original inbound  movement ($357.86,
+   per KEYT 000010) is lower than the applicable tender rate for the
+   return  movement  ($1,845,  per KEYT  000013),  the  inbound rate
+   should  have been used for the return.  Thus, Keystone must remit
+   to the Government  the difference  between the  amount which  was
+   actually paid and the correct amount -- $1,487.14.
+ 
+        In our view, GSA has the better of this argument.  The MFTRP
+   No. 1A provision  under the heading "redelivery,"  which pertains
+   to  "return of  the shipment  to consignor  at original  point of
+   origin,"  describes  precisely the  situation  involved  with the
+   shipment  in  question.   The  publication's  provision regarding
+   "reconsignment"  or "diversion"  does not,  and  a dictionary  to
+   which GSA directs us confirms  that a "diversion" involves a very
+   different type  of  situation:    "Diversion is  the  process  of
+   changing  the destination,  but  not  the  consignee,  while  the
+   shipment is enroute.   Both diversion  and reconsignment must  be
+   done while the shipment is enroute and not after the shipment has
+   arrived at  its  original destination."   J.  L. Cavinato  (ed.),
+   Transportation-Logistics Dictionary 71 (1982).
+ 
+        Both of the tenders mentioned  in this case, KEYT 000010 and
+   KEYT 000013, state expressly that  they are governed by MFTRP No.
+   1A.  Thus, that publication's rules regarding redelivery apply to
+   the  return of  the  goods  from  Holland to  Bayonne.    As  GSA
+   contends,  since   Keystone  had   tender  line-haul  rates   for
+   transportation  in  both  directions, the  lower  of  these rates
+   should  be used  in calculating  DoD's  financial obligation  for
+   return  carriage.    Under  the  terms  of  the  publication,  as
+   incorporated into the tenders, DoD  and Keystone were not free to
+   negotiate a  special rate for  this trip.  Consequently,  we hold
+   that GSA acted correctly in demanding that Keystone refund to the
+   Government  the difference between the $1,845 improperly paid and
+   the KEYT 000010 rate of $357.86.
+ 
+                                 _________________________
+                                 STEPHEN M. DANIELS 
+                                 Board Judge

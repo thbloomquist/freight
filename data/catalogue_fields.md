@@ -7,12 +7,12 @@ One row per original file under `sources/`. Derived files (`derived/`) and tools
 | `file_id` | `<set_id>-<running number>` | e.g. `02-004` |
 | `set_id`, `set_name` | the folder under `sources/` | `01` … |
 | `path` | path relative to `data/` | |
-| `source_kind` | where it came from | `court-recap` (CourtListener RECAP, free copies of PACER filings), `claims-agent` (Kroll, Stretto, Epiq, Omni, Verita, Donlin Recano registers), `carrier-site`, `gov`, `github`, `archive-org`, `press`, `other` |
+| `source_kind` | where it came from | `court-recap` (CourtListener RECAP, free copies of PACER filings), `claims-agent` (Kroll, Stretto, Epiq, Omni, Verita, Donlin Recano registers), `carrier-site`, `gov`, `github`, `archive-org`, `press`, `industry-docs` (UCSF Industry Documents Library: litigation-discovery productions, set 25, check BE), `other` |
 | `case_or_docket` | case name and number, if a court or claims record | |
 | `doc_number` | docket entry or claim number | |
 | `url` | the exact download URL. `UNRESOLVED` = the file was rescued from an earlier session's scratchpad and its URL is still to be confirmed | |
 | `retrieved_on` | date the copy in `data/` was made | ISO date |
-| `retrieved_by` | `round0-rescue` (copied from an earlier session's download), `agent-A`, `agent-B`, `agent-C`, `coordinator` | |
+| `retrieved_by` | `round0-rescue` (copied from an earlier session's download), `agent-A`, `agent-B`, `agent-C`, `coordinator`; check BE (2026-10-21): `agent-K1` (near-chain closers), `agent-K2` (IDL), `agent-K3` (decisions and AP ledgers) | |
 | `sha256`, `bytes`, `pages` | from `sha256sum` and `pdfinfo` | |
 | `text_layer` | does `pdftotext` return real body text? `yes` = all three sampled places (pp. 1-3, middle, last) give more than 40 words after the court stamp is removed; `partial` = some do; `no` = none; `na` = not a PDF | |
 | `ocr_available` | is there a `derived/ocr/` text for it | yes / no |
@@ -27,4 +27,4 @@ One row per original file under `sources/`. Derived files (`derived/`) and tools
 | `format_notes` | layout, scan quality, handwriting; the word counts behind `text_layer` | |
 | `cited_in` | the research file and source ID that first used it | |
 | `notes` | free text | |
-| `verify_status`, `verify_note` | set by the verification pass (`research/s5_check_AT_adversarial.md`) | unverified / verified / narrowed / wrong |
+| `verify_status`, `verify_note` | set by the verification pass (`research/s5_check_AT_adversarial.md`; for rows added by check BE, `research/s5_check_BE_adversarial.md`) | unverified / verified / narrowed / wrong |

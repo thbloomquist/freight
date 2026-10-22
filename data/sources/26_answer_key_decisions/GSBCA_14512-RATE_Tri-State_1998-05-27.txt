@@ -1,0 +1,204 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+                       _________________________
+ 
+                              May 27, 1998
+                       _________________________
+ 
+ 
+                            GSBCA 14512-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D. Norcom,  Auditor,  Tri-State Motor  Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey J.  Thurston,  Director,  Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James F.  Quinn,  Staff Judge  Advocate, Headquarters,
+   Military  Traffic Management  Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   NEILL, Board Judge.
+ 
+        This case concerns  a supplemental bill for  excess released
+   value declared on a military cargo transported by Tri-State Motor
+   Transit Co. (Tri-State) from New  Orleans, Louisiana to Kelly Air
+   Force Base  in Texas.   The  shipment was made  in October  1991.
+   Tri-State  was  initially paid  $1108.28  for  its transportation
+   services.    It  later submitted a  supplemental charge  of $2307
+   based on the excess released value of the shipment.
+ 
+        In block eighteen of the Government bill of lading (GBL) No.
+   D-1,179,580,  which  covered  the   shipment,  is  the  notation:
+   "Released value not exceeding $20,000 per lb per article."  Based
+   upon a cargo weight of 15,000 pounds, which is also listed on the
+   GBL,  the total  released  value  of the  cargo  would amount  to
+   $300,000,000.   Tri-State, recognizing that the $20,000 per pound
+   rate listed on the GBL was  an obvious error, did not figure  its
+   excess released value  charge on the $300,000,000  released value
+   but used  instead the actual value  of the cargo.   A requisition
+   and invoice/shipping  document (DD  Form  1149), which  Tri-State
+   states it  received with the GBL, listed  the actual value of the
+   cargo as $1,575,000.  
+     
+        The Office  of Transportation  Audits (OTA)  of the  General
+   Services Administration   acknowledges that Tri-State's  original
+   claim was timely filed but was  not  processed at that time.   In
+ 
+                                                                   2
+ 
+   1997, Tri-State  inquired concerning the  status of  its claim.  
+   OTA was unable to find  the initial submission and requested Tri-
+   State to resubmit it.  At the time the resubmission was received,
+   several claims relating to charges for excess released value were
+   pending before the Board.  OTA, therefore, deferred ruling on the
+   resubmitted claim until the Board  had decided these claims.  The
+   claims  have since  been resolved  and  generally in  Tri-State's
+   favor.  See  Tri-State Motor Transit Co.,  GSBCA 14249-RATE, 98-1
+   BCA   29,516 (and cases  cited therein).  Nevertheless, OTA still
+   defers ruling on the resubmitted claim.  
+ 
+         OTA now advises us that, although it is prepared to concede
+   on  the general  issue regarding  excess  release value  charges,
+   which  was  posed  in  the earlier  claims,    nevertheless, this
+   particular  claim   poses  unique   facts  which   merit  special
+   consideration by  the Board  and distinguish  it  from the  cases
+   which have preceded it.
+ 
+                               Discussion
+ 
+          OTA contends that  the Government should not be liable for
+   excess released value  charges in cases where  the information in
+   the  GBL regarding released  value is  obviously incorrect.   The
+   carrier, according to OTA, should first verify the released value
+   figure -- especially  because the carrier and not  the shipper is
+   ultimately responsible  for issuing the  bill of lading.   If the
+   carrier fails to verify  a mistake of this nature,   any right to
+   claim excess value charges at a later date is lost.  
+ 
+        It is  well established that  a carrier executes at  its own
+   risk  any bill of  lading prepared by  the shipper which,  on its
+   face, contains conflicting terms or terms with  which the carrier
+   cannot  lawfully comply.   See C.I.  Whitten Transfer  Co., GSBCA
+   13893-RATE, 97-2 BCA   29,060  (and cases cited therein).   This,
+   however, does not  describe the situation here  where the shipper
+   has entered an incredibly high  released value factor on the GBL.
+   Although an obvious error, the  entry does not present a specific
+   conflict or  require of  the carrier that  it engage  in unlawful
+   activity.  Rather,  it may well indicate that the  shipper is not
+   satisfied with  the released  value as  stated in  the applicable
+   tender or tariff which would control in the absence of a specific
+   released value factor in block eighteen of the GBL.  
+ 
+        In  cases  such  as  this, the  Comptroller  General,    who
+   formerly exercised  the review  authority which  we now  exercise
+   regarding  carrier claims  for transportation services,  took the
+   position that the  listing of a specific but  obviously incorrect
+   figure for  released value on  a GBL suggested  an intent on  the
+   Government s  part to  ship at  actual value  rather than  at the
+   lesser  default released value  stated in  the tender  or tariff.
+   Accordingly, the Comptroller  General ruled that, in  such cases,
+   absent any evidence  that the carrier actually  exercised special
+ 
+                                                                   3
+ 
+   handling  procedures for  a  denominated value  in excess  of the
+   actual value,  he  would not  object to  payment of  a claim  for
+   excess released  value based  on the actual  value of  the cargo.
+   See Tri-State Motor  Transit Co., B-254831 (June  1, 1994) letter
+   decision; American Farm Lines, B-203933 (June 17, 1982).  
+ 
+        In this case, OTA and Tri-State both agree that the cargo in
+   question had an actual value  of $1,575,000.  They likewise agree
+   that $37,500  of the released  value was already provided  for in
+   the basic transportation rate.  They, therefore, are in agreement
+   that the  excess released value  (based upon the actual  value of
+   $1,575,000 rather than the incorrect, declared  released value of
+   $300,000,000)  would amount to $1,537,500.  Tri-State s claim for
+   excess released  value  is based  on this  figure of  $1,537,500.
+   Using   the  factor   of  fifteen  cents   per  $100   of  excess
+   value[foot #] 1,   Tri-State   has,   therefore,   calculated   a
+   claim amounting to $2307.      
+ 
+        In submitting its supplemental voucher to OTA, Tri-State has
+   explained that it  has  calculated its claim  for excess released
+   value  using the  methodology described  in  the above  mentioned
+   Comptroller  General decisions.    In  commenting on  Tri-State s
+   claim, OTA, in addition to the basic objection discussed earlier,
+   also asks whether we consider these decisions applicable to  this
+   case.   We  do.   Counsel for  MTMC suggests  that  we follow  an
+   approach different  from that  formerly used  by the  Comptroller
+   General.    Counsel would  have us  ignore totally  the obviously
+   incorrect  GBL entry  and assume  instead  that the  Government's
+   intent was to  ship at the default  released value stated in  the
+   tender  or tariff.  We  prefer the Comptroller General's approach
+   as being more realistic in that the incorrect entry on the GBL is
+   not  simply dismissed as  meaningless but  rather is  accepted as
+   evidence of at  least an  intent to ship  the cargo at  something
+   other than the default released value.
+ 
+        Nothing  in the  record  suggests  that Tri-State  exercised
+   special  handling procedures which  might justify a  charge based
+   upon  a  figure in  excess  of  the actual  value  of the  cargo.
+   Indeed, Tri-State has  based its claim on the actual  value.  The
+   approach previously used  by the Comptroller General  in cases of
+   this type is a sound one.  We, therefore, follow it here.  
+        In commenting on Tri-State s claim, OTA points out that,  in
+   some  cases,  if  an incorrect  released  value  stated  in block
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1   Item   190  of   the   Freight  Traffic   Rules
+   Publication No.  1A of  the Military  Traffic Management  Command
+   (MTMC),    which  deals  with  released  value  rates,  expressly
+   provides that excess valuation charges are figured using a charge
+   of fifteen cents  for each $100 or fraction thereof  by which the
+   declared value  of the  shipment exceeds the  value to  which the
+   base transportation rate applies.   
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   4
+ 
+   eighteen of a GBL is  given credence, the potential liability for
+   excess  released  value  charges  could  be   tremendous.     Two
+   specific examples are given by way of illustration.  In one case,
+   the  total release value, based on a factor of $20,000 per pound,
+   would amount to  $290,000,000 with excess released  value charges
+   of  $434,946.   In the  other example,  the released  value, also
+   based  on  a  factor  of  $20,000  per  pound,  would  amount  to
+   $267,580,000 with excess released value charges of $401,320.50. 
+ 
+        We  find  OTA s concerns  tenuous  at  best.     As  already
+   explained,  an obviously erroneous released value factor would be
+   accepted only as an indication that the Government wanted to ship
+   at a released value equal to the actual value of the cargo.  Only
+   if  the Government itself  were to refuse  to divulge information
+   concerning  the actual  value  of   a  cargo would  there  be any
+   possibility that  it might  be held  liable  for excess  released
+   value charges  based on a  value in  excess of the  actual value.
+   Furthermore, a carrier  bringing such a claim would  have to meet
+   the  arduous burden of demonstrating that an extraordinarily high
+   released value  calculated from  an obviously incorrect  released
+   value  factor appearing  on the  GBL  was nonetheless  reasonably
+   assumed to be correct.    
+ 
+        Given the facts before us, we are persuaded that Tri-State s
+   claim is  a valid one.   OTA is,  therefore, directed to  issue a
+   certificate of settlement allowing the claim.   
+ 
+ 
+                                           ______________________
+                                           EDWIN B. NEILL
+                                           Board Judge

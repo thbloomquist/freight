@@ -1,0 +1,174 @@
+                  
+
+                  
+
+              _______________________________________________
+                                     
+                              April 18, 1997
+              _______________________________________________
+
+                                     
+                             GSBCA 13839-RATE
+                                     
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC, appearing
+for General Services Administration.
+
+     Col. David A. Shull, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+BORWICK, Board Judge.
+
+     Claimant, Tri-State Motor Transit Company, seeks additional
+compensation for shipping trailers under six government bills of
+lading (GBLs).  Claimant maintains that in the GBLs, issued by
+various agencies of the Department of Defense, the Government
+declared released values greater than the default released value. 
+Claimant argues that it is therefore entitled to the additional
+compensation, greater than the amounts originally invoiced,
+commensurate with its tender rates for released values when excess
+values are declared.  Claimant submitted its requests for
+additional compensation to GSA, which issued settlement
+certificates denying the requests.  Claimant sought review of the
+GSA's action at this Board.  We agree with claimant and conclude
+that the Government declared excess released values for the shipped
+items.  Claimant is therefore entitled to the amounts claimed.  
+
+     The fact are as follows.  On September 8, 1992, claimant
+delivered two ammunition trailers from West Plains, Missouri, to
+Fort Sill, Oklahoma, pursuant to GBL D-2,468,550.  The GBL
+classified the shipped items as "freight all kinds" and had the
+following statement: "Released value not exceeding $2.50 per pound
+per article."  Claimant billed the Government $702 for the
+shipment.  Claimant then filed a claim for $21.45 as additional
+compensation.  Claimant figured the released value of the trailers
+at $54,250, which is derived by taking $2.50 per pound multiplied
+by the weight of the trailers, 21,700 pounds.  Claimant determined
+the excess released value to be $14,250 ($54,250-$40,000). 
+Claimant derived $21.45 by taking the "excess declared value" of
+$14,300 (it rounded up to the next $50) at a rate of 15›/$100
+($14,300/$100=$143, $143x15›=$21.45).
+
+     On or about September 9, 1992, the Army shipped a trailer
+weighing 10,600 pounds from Tooele, Utah, to Montgomery, Alabama,
+by GBL E-1,195,114.  This item was also designated freight all
+kinds.  Like the previous GBL, this one had the statement "released
+value not exceeding $2.50 per [pound]."  Claimant billed the
+Government $1,673.20 for the shipment.  Claimant filed a claim for
+$9.75 as additional compensation.  Claimant figured the released
+value of the trailer at $26,500, which is derived by taking $2.50
+per pound multiplied by the weight of the trailer--10,600 pounds. 
+Claimant derived $9.75 by taking the "excess declared value" of
+$6,500 ($26,500-$20,000) and applying the rate of 15›/$100
+($6500/$100=$65, $65x15›=$9.75).  
+    
+     Using similar calculations, claimant claimed additional
+shipping charges of $21.45 for GBL D-2,468,552; $21.45 for GBL D-
+2,467,635; $9.75 for GBL E-2,295,111; and $21.45 for GBL D-
+1,971,582.  All claims were based on the excess declared value
+arising from the notation on the GBLs of "released value not
+exceeding $2.50 per pound per article."  GSA declined to pay the
+claims.  For the following reasons, we conclude that GSA's refusal
+to pay the additional charges for excess released value was
+incorrect.
+  
+     Three documents comprise the shipping contracts--the carrier's
+tender, which is a continuing offer to provide transportation
+services for the stated prices; the tariff, if applicable, where
+the stated prices are found and incorporated into the carrier's
+tender; and the GBL, which is the document by which the Government
+accepts the  carrier's services.  Baggett Transportation Co. v.
+United States, 969 F.2d 1028, 1029 (Fed. Cir. 1992).        
+
+     The shipments at issue here were performed under contracts
+administered by the Department of Defense's Military Traffic
+Management Command (MTMC).  The Military Freight Traffic Rules
+Publication 1A (MFTRP 1A) states the terms and conditions
+applicable to tenders of freight services.  
+
+     The MFTRP 1A deals with the  concept of "released value."  The
+Interstate Commerce Act, 49 U.S.C.  20(11) (1976), provided that
+carriers shall be liable for the full actual loss, damage or injury
+to property delivered to them.  The Act provided further, however,
+that a carrier's liability may be limited by agreement to a
+shipment's released value, i.e., the value declared by the shipper
+and to which recovery is limited in case of loss or damage to the
+shipment.  Cf. Strickland Transportation Co. v. United States, 334
+F.2d 172 (5th Cir. 1964).  Released value rates are lower than
+unreleased rates, since the shipper becomes a co-insurer of the
+shipment.  Id.  
+
+     MFTRP 1A, Item 190(4) provides a default released value of
+$20,000 for certain described vehicles, including trailers.  It
+also provides that the default released value "will also apply to
+the described vehicles when moved . . . under the commodity
+description Freight All Kinds (FAK), at applicable Freight All
+Kinds rates, and this released value would take precedence over the
+FAK released value shown on line 14 of the FAK tender."  MFTRP 1A,
+Item 190 (5) provides that "the application of released values as
+stated in this item [item 190] shall take precedence over all
+released value statements issued by the filing carrier in line 14
+or line 15 of the DOD tender form."  
+
+     The default released values established by MFTRP 1A, Item
+190(6), apply without the necessity of the shipper providing a
+released value statement in the GBL.  Cf. Tri-State Motor Transit
+Co., B-254378, et al. (Feb. 16, 1994).   MFTRP 1A, Item 190(6) also
+provides that "if a value exceeding the released value is stated on
+the bill of lading, such valuation shall control."  Where the
+commodity has been released to a value exceeding $20,000 per each
+vehicle in the shipment, then the excess valuation charge is the
+base transportation rate in the carrier's tender plus an excess
+value charge of fifteen cents for each $100 or fraction thereof by
+which the declared value of the shipment exceeds $20,000 per
+vehicle.  
+
+     Claimant's tender had the following statement as to released
+value: "Rates quoted are subject to a released value not to exceed
+$02.50 per pound per article (vehicle) as prepared for shipment,
+except as provided in Item 190 (Released Value) of the applicable
+Military Freight Traffic Rules Publication."  
+
+     Here, claimant maintains that the statement on the GBLs
+"Released value not exceeding $2.50 per pound per article" is a
+statement of the "value exceeding the released value," such that
+the increased released value overrides the default released value
+established by Item 190.  Claimant finds support for its position
+in a decision issued by the General Accounting Office (GAO), Tri-
+State Motor Transit Co., B-254378, et al., which held a statement
+similar to the statements in these GBLs "must be read as
+establishing the shipment's stated or declared value for purposes
+of paragraph six of item 190."  The Government argues that it did
+not specifically "declare the value" on any of the shipments
+involved; it simply stated the "released valuation" in conformance
+with the carrier's tender offer.  The Government urges us to reject
+Tri-State's holding that such a statement is a declaration of value
+which overrides the default.         
+
+     We conclude that the GAO decision is correct.  The declared
+value of the shipment can easily be determined by multiplying the
+$2.50 per pound by the weight of the trailers, the methodology
+claimant contemplated in its tender.  Furthermore, the Government
+has not explained why, in light of the default released value of
+$20,000, the issuer of the GBL would put the phrase "Released value
+not exceeding $2.50 per pound per article" on the GBL except to
+declare or state a released value greater than $20,000.  In the
+future, should the Government not wish to pay for excess released
+valuation above $20,000, it may simply leave such a statement off
+the GBL.  See Tri-State Motor Transit Co., GSBCA 13746-RATE (Apr.
+17, 1997).  Claimant is entitled to payment of its claim.  
+
+     
+
+                         ________________________________
+                         ANTHONY S. BORWICK
+                         Board Judge

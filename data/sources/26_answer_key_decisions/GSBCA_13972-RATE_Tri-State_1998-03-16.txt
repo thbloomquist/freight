@@ -1,0 +1,332 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+                           __________________
+ 
+                             March 16, 1998
+                           __________________
+ 
+                            GSBCA 13972-RATE
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D. Norcom,  Auditor,  Tri-State  Motor Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+        Jeffrey  J.  Thurston,  Director,  Office of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+        Col.  James F.  Quinn, Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management  Command, Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense. 
+ 
+   NEILL, Board Judge.
+        By letter  dated August  30, 1995,  Tri-State Motor  Transit
+   Company  (Tri-State) appealed  to the  General Accounting  Office
+   (GAO)  a  series of  decisions  of the  Office  of Transportation
+   Audits (OTA) of  the General Services Administration  (GSA).  The
+   decisions concerned supplemental invoices regarding 120 different
+   transactions covered by  an equal number  of Government bills  of
+   lading (GBLs).  
+ 
+        In presenting its  appeal to GAO,  Tri-State noted that  the
+   issue involved in each of  the supplemental invoices was the same
+   as  that addressed  in an  earlier decision  of the  GAO, namely,
+   Tri-State Motor Transit  Co., B-255630, et  al. (Aug. 18,  1994).
+   The carrier  indicated that  it continued  to disagree  with this
+   decision and  planned either  to request  GAO  to reconsider  the
+   decision  or else  to  challenge it  in  a judicial  forum.   GAO
+   acknowledged Tri-State's request for review and advised that, for
+   future correspondence, the  case number assigned to  these claims
+   would be B-266021.  Nevertheless, GAO explained that these claims
+   and any others related to its decision of August 18, 1994, for B-
+   255630, et al.  would be addressed only if and when a request for
+   reconsideration were to be received.  
+ 
+        The  following   year,  the  responsibility   for  reviewing
+   decisions  of  the  OTA  was  transferred  by  statute  from  the
+   Comptroller General  to the  Administrator  of General  Services.
+   Pub. L.  No. 104-316,   202(o)(2),  110 Stat. 3826,  3844 (1996).
+   By  delegation, this Board now  exercises this review function on
+   behalf of the Administrator in transportation rate cases.  
+        In October 1996,  Tri-State advised the  Clerk of the  Board
+   that no decision had ever been issued in GAO case number B-266021
+   and that  no notice  had been  provided  that the  case had  been
+   transferred with others to the Board.  Tri-State pointed out that
+   the  issue presented  in that case  was the same  as that already
+   before the Board in GSBCA 13763-RATE and requested that the Board
+   consider the claims presented in B-266021.
+ 
+        In response to this request,  the Board sought and  received
+   from GAO  the case file  on B-266021.   The case was  docketed as
+   GSBCA 13972-RATE and copies of the GAO file were provided  to OTA
+   and the Military Traffic Management Command (MTMC) for comment.
+        From  the  comments   submitted  by  the  parties   to  this
+   proceeding, it  is clear that  the basic issue presented  in this
+   case is, in fact, the same as that presented in GSBCA 13763-RATE.
+   That issue is   whether  a change  made on October  19, 1992,  in
+   MTMC's  Freight Traffic Rules  Publication 1A  (MFTRP 1A)  can be
+   applied  retroactively.  This  particular change provided  that a
+   FAK  (Freight All  Kinds)  rate was  not  to  be applied  to  any
+   commodities to  which a  Department of  Defense unique  commodity
+   (DODUC) code had been assigned by MTMC headquarters.  Tri-State's
+   position on this  issue, as argued in GSBCA  13763-RATE, was that
+   the change in MFTRP 1A  could be applied retroactively because it
+   represented nothing more than the recognition of a policy already
+   well  supported by  provisions contained  in tender  instructions
+   published several years  before by MTMC.  MTMC  and OTA disagreed
+   with this  position and, in doing  so, relied heavily  upon a GAO
+   decision  stating  that  the change  could  not  be retroactively
+   applied.  Tri-State Motor Transit Co., B-255630, et al. (Aug. 18,
+   1994).  
+        Tri-State has divided the  supplemental payment claims which
+   are the subject of this case into two groups.  In the first group
+   are sixty-three shipments originally billed on the basis of a FAK
+   rate  in  a  Tri-State  tender.   Tri-State  contends  that these
+   shipments involved  missiles or rockets  to which the  DODUC code
+   014255 applied.   Accordingly,  it seeks  to charge the  specific
+   rate applicable to this item rather than a FAK tender rate.   The
+   shipments in question and the adjustments sought are  as follows:
+ 
+                  GBL                 CLAIM
+ 
+                       (DODUC 014255)
+ 
+             C-6,603,457              $ 531.95
+             C-6,603,458               1576.89
+             C-2,073,897              2368.82
+             C-8,451,179               278.35
+             D-1,208,859              1116.48
+             C-6,408,975               373.70
+             C-8,451,646               472.32
+             C-6,603,564               361.99
+             C-8,773,399               403.00
+             D-0,747,117              1572.16
+             C-9,782,267               864.66
+             C-6,603,235              1575.79
+             C-9,560,691              2244.99
+             C-8,760,463               511.59
+             C-8,760,443               468.66
+             D-0,601,059               335.66
+             C-6,603,234              2596.07
+             C-7,266,831               893.73
+             C-2,070,414                45.34
+             D-1,165,228               835.50
+             C-2,065,108               496.40
+             D-1,429,594               480.53
+             D-1,698,080               266.50
+             C-9,543,737              2588.28
+             E-0,765,476               479.72
+             D-0,667,862              1089.08
+ 
+             C-6,567,489               541.59
+             C-8,451,007               525.99
+             D-0,604,781              1300.75
+             C-9,471,895              1500.99
+             E-2,006,760               460.50
+             E-0,764,074               847.30
+             E-0,765,316              1302.45
+             C-8,422,529               642.73
+             D-1,259,330              1503.68
+             C-8,760,406               905.61
+             C-9,533,091              1463.55
+             E-0,765,355               519.72
+             C-8,760,409               669.56
+             C-6,603,965               748.13
+             D-1,379,049               283.94
+             D-0,667,303               335.18
+             C-9,260,795              2239.28
+             C-8,130,018               532.00
+             C-9,460,004              2613.28
+             E-0,720,357              1162.73
+             C-8,113,102               436.78
+             D-0,939,362               629.08
+             C-6,603,676               878.62
+             E-0,764,983              2299.00
+             C-8,037,961               957.60
+             D-1,416,317               561.27
+             C-9,508,733               347.62
+             C-8,830,367               376.74
+             C-9,782,416               869.40
+             C-9,460,001              2175.39
+             E-2,038,317              1168.47
+             C-7,267,300              1073.85
+             D-0,738,788               790.70
+             C-6,603,574              2803.67
+             C-1,235,103              2270.79
+             C-2,085,217               879.88
+             C-2,085,334               362.33
+                                   __________
+                                   $63,808.31
+ 
+        In  the second  group of  claims  are fifty-seven  shipments
+   which were also originally billed on the basis of a FAK rate in a
+   Tri-State  tender.    Tri-State  contends  that  these  shipments
+   involved aircraft engines to which the DODUC code 120820 applied.
+   Accordingly, it seeks to  charge the specific rate  applicable to
+   this item  rather  than a  FAK  tender rate.   The  shipments  in
+   question and the adjustments sought are as follows:
+                  GBL                 CLAIM
+ 
+                        (DODUC 120820)
+             G-1,004,570            $  467.50
+             D-0,742,184               218.90
+             D-0,643,952               358.68
+             C-9,461,097               408.33
+             C-5,786,050               124.50
+             C-9,482,577               344.90
+             E-2,038,253                36.00
+             C-7,652,714               225.00
+             C-5,751,772               740.34
+             C-7,654,164                72.15
+             C-8,054,082              1147.09
+             C-7,654,365               260.38
+             C-7,654,447               459.01
+             C-7,654,478               260.38
+             C-9,260,456               100.00
+ 
+             C-7,861,929               100.00
+             C-5,751,792               610.20
+             D-1,761,350                50.00
+             C-9,465,464               142.20
+             E-2,006,050               711.04
+             D-1,414,840               847.85
+             C-7,651,529               613.45
+             C-9,476,376               814.32
+             C-9,476,300              1116.20
+             C-8,100,410               952.00
+             D-2,412,232               441.32
+             C-9,476,565              1133.14
+             E-2,792,016              1052.14
+             C-9,476,560              1133.14
+             C-9,476,564              1133.14
+             E-2,046,279               720.56
+             C-8,100,402                90.23
+             C-8,100,401               490.23
+             D-1,426,133               479.24
+             E-0,766,880               877.00
+             C-7,657,512              1004.13
+             C-9,483,927               784.70
+             C-7,657,471               194.51
+             C-8,100,262               486.78
+             C-7,655,773              1163.29
+             E-2,038,370                25.98
+             D-1,210,739                52.92
+             C-5,594,178               900.38
+             C-5,594,169              2619.60
+             D-1,414,417                23.80
+             C-5,594,104              1917.28
+             C-5,594,114              1104.12
+             C-5,594,124               863.20
+             C-5,594,168              1196.72
+             C-7,658,386               206.01
+             C-5,594,080              2719.08
+             C-5,594,129               832.72
+             C-5,594,151              1196.72
+             D-1,277,229               864.61
+             D-1,210,733                52.92
+             C-5,593,870              1480.53
+             C-8,030,879              1843.00
+                                 ____________
+                                   $40,263.56
+ 
+        After its review of the documentation provided in support of
+   the  above listed requests  for supplemental payment,  OTA issued
+   settlement certificates denying the  individual claims.  Although
+   OTA's auditors  presumably reviewed the  supporting documentation
+   in its entirety, each certificate, with but two exceptions, lists
+   basically the same  reason for disallowing the claim in question.
+   Nearly all the certificates read as follows:  
+        Your claim for [amount of claim] . . .  as an allowance
+        for   transportation   furnished  the   United   States
+        Government   under  document   reference  number   [GBL
+        number],  has been  examined  and  disallowed  for  the
+        following reason(s):
+ 
+        Shipment is  to  be  rated as  FAK  per  GAO  Decisions
+        B-255630, B-256081 and  B-256873.  Change in  MFTRP 1-A
+        cannot apply retroactively to shipments moving prior to
+        October 19, 1992.
+ 
+        Eleven       certificates[foot #] 1      likewise       deny
+   payment  based on the same prohibition of retroactive application
+   of the change in MFTRP 1-A,  but cite GAO's decision in  B-256872
+   (Dec.  29,  1994)  rather  than  the  GAO  consolidated  decision
+   B-255630, et al. (Aug. 18, 1994) in support of that proposition.
+ 
+        Only  two certificates  of  settlement  deny  the  claim  on
+   grounds  other  than  GAO's  decisions  prohibiting   retroactive
+   application  of  rates.   OTA disallowed  the claim  of $1,163.29
+   concerning GBL C-7,655,773 on the ground that the GBL stated that
+   the   shipment  conformed  to   the  conditions  and  limitations
+   specified  for  excepted  radioactive  material  instruments  and
+   articles  and the original  charge was, therefore,  correct.  The
+   claim  for $361.99 concerning  GBL C-6,603,564 was  disallowed on
+   the ground  that the  record for this  shipment did  not indicate
+   that DODUC code 014255 applied to the commodity shipped. 
+        In this case, OTA has been afforded the opportunity to state
+   any and  all reasons  it might have  in support  of its  original
+   decision  to  disallow  the above  listed  claims.    Its initial
+   position  regarding the claims,  however, remains unchanged.   In
+   comments submitted, OTA continues to  offer no reason in  support
+   of its decision to disallow  the claims other than that  given in
+   each of the original settlement certificates.  
+ 
+                               Discussion
+        Since  this case  was docketed  and briefed,  the Board  has
+   decided GSBCA  13763-RATE, which, as claimant contended, involved
+   the same issue presented here.  In that decision we discussed the
+   GAO decision  which OTA continues to rely on  in this case as the
+   sole  reason for  disallowing all  but two  of the  claims listed
+   above.   We noted that the  GAO decision was a brief  one and did
+   not address the specific provisions of MTMC s tender instructions
+   which, in fact, led the Board to a conclusion different from that
+   previously reached by GAO.  We also  noted that we were not bound
+   by the  GAO decision  and in this  case chose  not to  follow it.
+   Tri-State Motor Transit Co., GSBCA 13763-RATE, 97-2 BCA   29,098.
+ 
+ 
+        It should  come as  no surprise,  therefore, that  we reject
+   OTA's  continual  reliance  on the  precedent  established  in B-
+   255630, et al. as  the sole reason for disallowing  the claims in
+   this case.   This  includes the eleven  claims disallowed  by OTA
+   based on  the GAO decision in B-256872 rather than on the earlier
+   consolidated decision  in B-255630, et  al.  The  former decision
+   involves  nothing  more  than the  application  of  the precedent
+   already  established in  the  consolidated  decision issued  four
+   months  earlier.    To  the  extent that  we  have  rejected  the
+   conclusion reached by GAO in B-255630, et al., we likewise reject
+   any conclusion  reached by GAO  in B-256872, which relies  on the
+   decision rendered in B-255630, et al. 
+        In  the  absence  of any  other  stated  objection to  these
+   claims,   therefore,  we   direct  OTA   to  reissue   settlement
+   certificates allowing all of them with the exception of the claim
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1   Namely: claims  under GBL  numbers C-5,594,114;
+   C-5,594,124; C-5,594,168; C-5,594,080;  C-5,594,129; C-5,594,155;
+   C-1,235,103;   C-2,055,217;    C-2,085,334;   C-8,030,879;    and
+   C-5,593,870.  The claims  relating to the last two GBLs  were not
+   denied  with a  formal  certificate of  settlement but  rather by
+   individual  letters  to  Tri-State  dated  April 4,  1995.    The
+   letters,  however, disallow  the claims  for the  same reason  as
+   given in the formal certificates.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   of $1,163.29 concerning GBL C-7,655,773  and the claim of $361.99
+   concerning GBL C-6,603,564.  Tri-State has neither rebutted OTA's
+   initial  reason for disallowing these two claims nor demonstrated
+   to  us how  our decision  in GSBCA  13763-RATE would  support our
+   allowing them.   
+ 
+ 
+ 
+                                           _____________________
+                                           EDWIN B. NEILL
+                                           Board Judge   

@@ -1,0 +1,229 @@
+                   
+
+
+
+
+                          ______________________
+
+                              April 17, 1997
+                          _______________________
+
+
+
+                             GSBCA 13746-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC, appearing
+for General Services Administration.
+
+     Col. David A. Shull, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+DeGRAFF, Board Judge.
+
+     Government bill of lading (GBL) G-0,394,347, issued on June 4,
+1992, tendered a shipment of aircraft engines to Tri-State Motor
+Transit Company (Tri-State).  Tri-State was to pick up the shipment
+from General Electric Company in Cincinnati, Ohio and deliver it to
+Eglin Air Force Base, Florida.  The GBL identified the applicable
+tender as TSMT 555.  The GBL stated, "Released value not exceeding
+$5.00 per pound per article," which was the released value
+established in tender TSMT 555.  If a shipment is lost or damaged,
+the released value limits a carrier's liability to the lesser of
+the released value or the actual loss or damage sustained.
+
+     Tri-State picked up and delivered the shipment and sent a
+voucher for $1,713.60 to the Defense Finance and Accounting
+Service.  GSA and Tri-State agree that tender TSMT 555 did not
+apply to the shipment because the tender did not offer rates
+between Cincinnati and Eglin Air Force Base and because the tender
+was canceled before the date of the shipment.  Instead, Tri-State
+tender 456 applied, and Tri-State billed according to the rate set
+out in tender 456.  Later, Tri-State claimed that it was owed an
+excess value charge.  According to Tri-State, Military Freight
+Traffic Rules Publication No. 1A (MFTRP 1A), Item 190, says that a
+carrier is entitled to an excess value charge if the value stated
+on the GBL exceeds the released value contained in the applicable
+tender.  The released value stated on the GBL was $5.00 per pound,
+which exceeded the $2.50 per pound released value contained in
+tender 456.  Tri-State calculated the additional amount it believed
+it was due in accordance with MFTRP 1A, Item 190. 
+
+     The General Services Administration (GSA) denied Tri-State's
+claim because GSA decided that excess released value charges did
+not apply to the shipment.  Tri-State asked the General Accounting
+Office (GAO) to review GSA's decision.  Congress transferred the
+review function formerly performed by GAO to the Director of the
+Office of Management and Budget (OMB), and authorized him to
+delegate it to any other agency or agencies.  Pub. L. No. 104-53,
+ 211, 109 Stat. 514, 535 (1995).  The Acting Director of OMB
+delegated this function to GSA (Delegation, June 28, 1996), and the
+Acting GSA Administrator redelegated it to this Board (Delegation,
+July 17, 1996).  Later, Congress made permanent the assignment of
+this duty to the Administrator.  Pub. L. No. 104-316,  202(o)(2),
+110 Stat. 3826, 3844 (1996).
+
+                                Discussion
+
+     MFTRP 1A, Item 130 provides that, except as otherwise provided
+in Item 190, a carrier is liable for all loss and damage to
+freight.  Item 190 discusses released value and explains how
+released value can limit a carrier's liability.  Paragraph 6 of
+Item 190 explains that the released value established in a tender
+applies "without the necessity of the shipper providing a released
+value statement on the bill of lading."  Paragraph 6 states:
+
+     If a value exceeding the released value is stated on the
+     bill of lading, such valuation shall control and the
+     following excess value charges will apply:
+
+Excess Released Valuation     Excess Valuation Charges
+
+a. Released to a value        Base transportation rate in
+exceeding $20,000 per         carrier[']s tender plus an excess
+each vehicle in the           value charge of 15 cents for each
+shipment.                     $100 or fraction thereof by which
+                              the declared value of the shipment
+                              exceeds $20,000 per vehicle.
+
+b.  Except as provided in     Base transportation rate in
+(a) above, released           carrier[']s tender plus an excess
+to a value exceeding          charge of 15 cents for each $100
+the value that may be         or fraction thereof by which the
+stated in [the tender].       declared value of the shipment
+                              exceeds that for which the base
+                              transportation rate applies.
+
+     Paragraph 7 of Item 190 says that, if a shipment is lost or
+damaged, the carrier's liability is limited to the lesser of the
+released value or the actual loss or damage sustained.  Item 190
+also says that a carrier's liability is limited to the lesser of
+the declared value of the shipment when stated on the bill of
+lading or the actual loss or damage sustained.
+
+     The GBL was subject to 41 CFR 101-41.302-3(e) (1991), which
+says that a shipment is made at the limited valuation specified in
+the tender, "unless otherwise indicated on the face of the GBL." 
+Paragraph 6 of Item 190, which says that the released value
+contained in the tender applies without the shipper having to
+provide a released value statement on the GBL is consistent with
+this regulation.
+
+     Tri-State says that the GBL shows on its face that the
+released value of the shipment was $5 per pound.  Because this
+exceeds the released value contained in the applicable tender, Tri-
+State concludes that the $5 per pound valuation controls and that
+the terms of Item 190 of MFTRP 1A establish the excess valuation
+charge that Tri-State is entitled to recover.  
+
+     GSA makes two arguments concerning why Tri-State is not
+entitled to recover its claimed excess value charge, and we reject
+both arguments.  First, says GSA, Tri-State was responsible for
+ensuring that any errors or ambiguities on the face of the GBL were
+corrected before it moved the shipment.  On its face, however, the
+GBL did not contain any error or ambiguity because the stated
+released value of $5 per pound was consistent with tender TSMT 555. 
+Second, GSA says that when Tri-State determined that tender 456
+applied to the shipment, it should have also determined that the
+corresponding released value of $2.50 per pound applied to the
+shipment, and it should have resolved any questions concerning
+released value at that time.  This argument seems to presume that
+there is something inconsistent between using the rates contained
+in tender 456 and stating a released value of $5 per pound.  MFTRP
+1A explains, however, that a shipper can state a value on a GBL
+that exceeds the applicable tender's released value, and so the
+agency was permitted to use tender 456 and to state a released
+value of $5 per pound.  When Tri-State realized that the applicable
+tender was tender 456, Tri-State was not obligated either to
+conclude that a released value of $2.50 per pound applied to the
+shipment or to raise a question concerning the proper released
+value of the shipment.  
+
+     Although the Military Traffic Management Command's (MTMC's)
+initial position was that Tri-State should be paid, MTMC later
+agreed with GSA.  In addition to adopting GSA's arguments, MTMC
+makes two arguments of its own, which we reject.  First, MTMC says
+that if the GBL contained an improper tender number, Tri-State was
+responsible for correcting that number before accepting the
+shipment, and that the terms of the GBL should not be changed
+unless there is proof of mutual mistake.  Although it would have
+been preferable if someone had noticed before the shipment moved
+that the tender number stated on the GBL was incorrect, there is no
+evidence to suggest that anyone was aware of the mistake until
+after the shipment moved.  GSA and Tri-State agree that tender TSMT
+555 did not apply to the shipment, and so a correction has to be
+made to the terms of the GBL in order to pay Tri-State the correct
+amount for moving the shipment.  GSA and Tri-State agree that
+tender 456 applied to the shipment, and MTMC does not suggest
+either that some tender other than tender 456 applied to the
+shipment or that Tri-State should not be paid for its services. 
+Thus, the contract as evidenced by the GBL should be corrected to
+show that tender 456 applied to the shipment.
+
+     MTMC's second argument is that the $5 released value stated on
+the GBL simply states the released value contained in tender TSMT
+555, and has "no meaning in the absence of a 'declared value' as
+required by Item 190" of MFTRP 1A.  According to MTMC, no evidence
+suggests that the shipper ever intended to release the shipment at
+a value exceeding the released value contained in the applicable
+tender.  
+
+     The regulations to which the GBL was subject said that the
+shipment was made at the tender's released value "unless otherwise
+indicated on the face of the GBL."  Consistent with this, MFTRP 1A,
+Item 190, paragraph 6 says that the tender's released value applies
+"without the necessity" of providing a released value on the face
+of the GBL.  But, paragraph 6 also says that if "a value exceeding
+the released value is stated on the bill of lading, such valuation
+shall control" and the carrier is entitled to excess value charges. 
+It seems clear, given these provisions, that if the released value
+stated on a GBL is higher than the released value stated in a
+tender, the tender's released value does not apply and the carrier
+is entitled to excess value charges.  MTMC says that this is true
+only if the GBL contains a "declared value."
+
+     The concept of "declared value" is introduced when paragraph
+6 of Item 190 explains how to calculate the excess value charge. 
+Paragraph 6 says that the excess value charge is fifteen cents for
+each $100 by which the "declared value" of the shipment exceeds the
+released value stated in the tender.  Although MTMC says that the
+$5 per pound released value stated on the face of our GBL does not
+amount to a "declared value," MTMC has not cited us to any
+precedent to support its position.  In Tri-State Motor Transit Co.,
+B-254378, et al. (Feb. 16, 1994), aff'd on reconsideration (July 5,
+1995), GAO concluded that "declared value" meant the released value
+stated on the GBL.  This is consistent with earlier precedent that
+speaks of the "declared released value" of a shipment.  See
+Strickland Transportation Co. v. United States, 334 F.2d 172 (5th
+Cir. 1964); American Farm Lines, B-200939 (May 29, 1981); Secretary
+of Defense, 38 Comp. Gen. 768 (1959); American Home Foods, Inc. v.
+Delaware, Lackawanna & Western Railroad Co., 303 ICC 655 (1958). 
+We agree with GAO's conclusion that "declared value" means the
+value declared or stated on the face of the GBL by the shipper.  
+
+     If the shipper wished to use the released value contained in
+the applicable tender, it did not have to state any released value
+on the face of the GBL.  The shipper, however, declared a released
+value of $5 per pound on the face of the GBL.  If the applicable
+tender had contained a released value of $5 per pound, Tri-State
+would not be entitled to any excess value charge.  MFTRP 1A makes 
+clear, however, that a carrier is entitled to collect an excess
+value charge if the shipper declares a value that exceeds the
+released value contained in the applicable tender.  Tri-State is
+entitled to collect an excess value charge, calculated in
+accordance with MFTRP 1A.
+
+
+
+
+                                   ______________________________
+                                   MARTHA H. DeGRAFF
+                                   Board Judge

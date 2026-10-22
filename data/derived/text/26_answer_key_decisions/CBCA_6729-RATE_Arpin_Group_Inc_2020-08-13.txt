@@ -1,0 +1,76 @@
+                                      August 13, 2020
+
+
+                                     CBCA 6729-RATE
+
+
+                          In the Matter of ARPIN GROUP, INC.
+
+
+     Mark Greene, Senior Vice President of GSA Operations, Arpin Group, Inc., East
+Greenwich, RI, appearing for Claimant.
+
+     George J. Thomas, Jr., Director, Transportation Audits Division, Office of Travel,
+Employee Relocation, and Transportation, Federal Acquisition Service, General Services
+Administration, Washington, DC, appearing for General Services Administration.
+
+      Pamela Middleton, Supervisor, Relocation Services Branch, Travel Services Division,
+Bureau of Fiscal Service, Parkersburg, WV, appearing for Department of the Treasury.
+
+KULLBERG, Board Judge.
+
+       Claimant, Arpin Group, Inc. (Arpin), seeks the Board’s review of an audit by the
+General Services Administration (GSA) that assessed an overcharge because Arpin failed to
+obtain a signature on weight tickets for the reweigh of a shipment of household goods
+(HHG). Arpin does not dispute that it initially failed to obtain a signature, but contends that
+it provided such a signature after receiving a notice of overcharge (NOC) from GSA. For
+the reasons stated below, the Board denies the claim.
+
+                                         Background
+
+      On August 15, 2018, GSA issued to Arpin an NOC in the amount of $1326.56 plus
+$5.74 in interest because the Government had “paid $18,603.38 but should have paid
+$17,276.82.” The NOC noted that a reweigh of an HHG shipment in excess of 18,000
+CBCA 6729-RATE                                                                               2
+
+pounds is required, but GSA found that the weight tickets for the reweigh on January 8, 2018,
+at the destination lacked the signature of a weigh master.
+
+        Arpin requested that GSA review the NOC, and on September 4, 2018, GSA issued
+its dispute resolution letter that reaffirmed the NOC. On September 27, 2018, Arpin
+requested and later obtained a weigh master’s signature for the January 8, 2018, weight
+tickets. On October 21, 2019, GSA issued its settlement certificate that disallowed Arpin’s
+claim. The settlement certificate also advised Arpin that it could not provide the missing
+weigh master’s signature after GSA had issued the NOC. Arpin subsequently submitted its
+claim to the Board.
+
+                                         Discussion
+
+        The issue in this matter is whether GSA can properly assess an overcharge against
+Arpin for its failure to provide a weigh master’s signature on a weight ticket when it invoiced
+for payment but did provide such a signature after GSA issued its NOC. Statute and
+regulation provide the authority for GSA to perform audits of an agency’s transportation
+bills. 31 U.S.C. § 3726 (2018); 41 CFR 102-118.405 (2017). GSA’s Household Goods
+Tender of Service (HTOS) rules state that if the weight of an HHG shipment exceeds 18,000
+pounds, the shipper must reweigh the shipment at final delivery, and a shipper will not be
+allowed to invoice for a shipment in excess of 18,000 pounds if the reweigh is not
+performed. HTOS 5.4.4. (Sept. 2017). Those rules also require that a shipper obtain weight
+tickets for each weighing of a shipment, and “[e]very weight ticket shall be signed by a
+weigh master performing the weighing.” Id. 5.4.2.
+
+       Arpin does not dispute the facts alleged by GSA in this matter, and it only raises the
+question as to when a weigh master must sign a weight ticket. Such an argument is of no
+avail. GSA’s rules, which are set forth in the HTOS, precluded Arpin from invoicing for a
+shipment that exceeded 18,000 pounds without valid weight tickets for the reweigh of that
+shipment. A weight ticket that lacks a weigh master’s signature is invalid. Arpin’s
+submission of a weigh master’s signature long after the actual weighing of a shipment does
+not correct Arpin’s failure to submit a properly signed weight ticket when it invoiced for
+payment.
+
+                                          Decision
+
+       The claim is denied.
+                                                      H. Chuck Kullberg
+                                                   H. CHUCK KULLBERG
+                                                   Board Judge
+

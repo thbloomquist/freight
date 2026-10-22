@@ -1,0 +1,158 @@
+                   
+
+
+
+
+                        _________________________
+
+                              June 13, 1997
+                        _________________________
+
+
+
+                            GSBCA 13826-RATE
+
+
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     John R. Bagileo of Bagileo, Silverberg & Goldman, L.L.P.,
+Washington, DC; and Robert D. Norcom, Auditor, Tri-State Motor
+Transit Co., Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, Washington, DC, appearing for General Services
+Administration.
+
+     Col. David A. Shull, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+DeGRAFF, Board Judge.
+
+     On June 26, 1990, the Anniston Army Depot in Anniston,
+Alabama, issued Government Bill of Lading (GBL) C-7,654,383 to Tri-
+State Motor Transit Company (Tri-State).  The GBL showed that the
+Anniston Army Depot was the shipper of freight that was to be
+transported by Tri-State to Fort Belvoir, Virginia.  The GBL
+explained that Tri-State's shipping charges were to be billed to
+the Drug Enforcement Agency (DEA).  The GBL block labeled
+"Tariff/Special Rate Authority" contained the notation "TMST 0200." 
+The GBL block labeled "Seal Numbers" contained the notation
+"USDISC0468072-050."  The GBL provided that the shipper requested
+dromedary service.  In addition, the GBL contained the following
+notation:
+
+     SHIPPER SEALS APPLIED.  CARRIER MAY REMOVE SEALS AND
+     REPLACE WITH EQUIVALENT SEALS ON PRIOR CONSENT OF
+     CONSIGNOR.  IF SEALS ARE BROKEN IN EMERGENCIES, NOTIFY
+     [TELEPHONE NUMBERS OMITTED] AS SOON AS POSSIBLE.  CARRIER
+     MUST ANNOTATE SEAL CHANGES ON GOVERNMENT BILL OF LADING. 
+     APPLICATION OF SHIPPER SEALS DOES NOT CONSTITUTE A
+     REQUEST FOR EXCLUSIVE USE OF VEHICLE.   
+
+     Tri-State transported the freight and sent an invoice for $489
+to the DEA.  DEA paid this amount.  Later, Tri-State sent the DEA
+an invoice claiming an additional $996.56.  The General Services
+Administration (GSA) decided that Tri-State was not due any
+additional payment.  
+
+     Tri-State asked the General Accounting Office (GAO) to review
+its claim.  In 1996, Congress transferred the review function
+formerly performed by GAO to the Director of the Office of
+Management and Budget (OMB), and authorized the Director to
+delegate it to any other agency or agencies.  Pub. L. No. 104-53,
+ 211, 109 Stat. 514, 535 (1996).  The Acting Director of OMB
+delegated this function to GSA (Delegation, June 28, 1996), and the
+Acting GSA Administrator redelegated it to this Board (Delegation,
+July 17, 1996).  Later, Congress made permanent the assignment of
+this duty to the Administrator.  Pub. L. No. 104-316,  202(o)(2),
+110 Stat. 3826, 3844 (1996).
+
+     Tri-State and GSA agree that the rates that were the basis for
+the invoice of $489 were tender rates available only to the
+Department of Defense (DoD), and not available to the DEA.  Tri-
+State says that the applicable rates are contained in tariff TSMT
+4000B, and GSA has not disputed this.  Item 525 of the tariff,
+which contains the rules for exclusive use of a dromedary
+container, provides:
+
+     When a shipper inserts the following notation on the bill
+     of lading:
+
+     "DO NOT BREAK SEALS EXCEPT IN CASE OF EMERGENCY OR UPON
+     PRIOR AUTHORITY OF THE CONSIGNOR OR CONSIGNEE.  IF FOUND
+     BROKEN OR IF BROKEN FOR EMERGENCY REASONS, APPLY
+     CARRIER'S SEAL AS SOON AS POSSIBLE AND IMMEDIATELY NOTIFY
+     BOTH THE CONSIGNOR AND THE CONSIGNEE."
+
+     Carrier will consider this as requiring exclusive
+     use . . . . Any notation which in any way limits or
+     denies carrier access to the Dromedary . . . shall be
+     deemed by the carrier to require exclusive use . . . .
+
+     Tri-State says that it provided exclusive use of the dromedary
+container used for the shipment at issue here.  As evidence of
+this, Tri-State provided records that it generates to record
+information about its shipments.  These records show, for example,
+the route and distance traveled by a shipment, the number of the
+trailer used to haul the shipment, the position of a shipment on a
+trailer, the names of the tractor drivers, etc.  These records also
+show whether a container held more than one shipment.  The records
+relevant to this case show that the shipment at issue here was
+transported in its own container.  In other words, this shipment
+had exclusive use of the dromedary, according to Tri-State's
+records.
+
+                               Discussion
+
+     The issue is whether Tri-State is entitled to be paid for the
+exclusive use of a dromedary container.  Tri-State says that it is
+entitled to be paid for exclusive use, according to the holding in
+Baggett Transportation v. United States, 23 Cl. Ct. 263 (1991),
+aff'd, 969 F.2d 1028 (Fed. Cir. 1992).  GSA says that Tri-State
+is not entitled to recover for exclusive use because it did not
+establish that exclusive use was, in fact, provided.
+
+     As the trial court explained in Baggett, in order to apply
+exclusive use rates, there are two conditions that must be met. 
+First, there must be substantial compliance with the requirements
+of the tariff concerning a request for exclusive use.  Second,
+there must be some evidence to establish that exclusive use was
+actually provided. 
+
+     In Baggett, the tariffs of two plaintiffs provided, "Any
+notation which in any way limits or denies carrier access to the
+Dromedary . . . shall be deemed by the carrier to require exclusive
+use . . . ."  This is exactly the language that is found in the
+Tri-State tariff at issue in our case.  The GBLs in Baggett
+contained a notation virtually identical to the notation contained
+in the GBL in our case, permitting the carrier to remove the
+shipper seals with the prior consent of the shipper.  The trial
+court in Baggett decided that the prior consent statement contained
+in the GBL notation "at least in some way denies the carrier access
+to the dromedary," because it allows the carrier to remove the
+shipper seals only with the consent of the shipper.  23 Cl.Ct. at
+273.  The trial court held that the prior consent statement
+contained in the notation, combined with the tariff provision
+concerning limiting a carrier's access to the dromedary,
+constituted a request for exclusive use.  We agree with the court's
+conclusion.  Therefore, the first condition for applying exclusive
+use rates is met.
+
+     GSA has not provided us with any reason to reject the evidence
+provided by Tri-State concerning exclusive use.  Tri-State's
+records establish that it provided exclusive use, and so the second
+condition for applying exclusive use rates is met.
+
+     Tri-State is entitled to be paid for providing exclusive use
+of a dromedary container for this shipment.
+
+
+
+
+
+                                       _____________________________
+                                       MARTHA H. DeGRAFF
+                                       Board Judge
+

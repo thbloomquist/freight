@@ -1,0 +1,98 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+                           __________________
+ 
+                            December 9, 1999
+                           __________________
+ 
+ 
+                            GSBCA 15099-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D. Norcom,  Auditor,  Tri-State Motor  Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        James  F.  Fitzgerald,  Director,  Audit  Division,  Federal
+   Supply Service,  Washington, DC,  appearing for General  Services
+   Administration.
+ 
+        Col.  James F.  Quinn,  Staff Judge  Advocate, Headquarters,
+   Military  Traffic Management  Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   BORWICK, Board Judge.
+ 
+        Tri-State  Motor Transit  Co.  (claimant)  seeks $293.28  in
+   additional compensation for shipping  internal combustion engines
+   under Government Bill of Lading (GBL) G-1,752,757.  By settlement
+   certificate  of June 2, 1999, the General Services Administration
+   rejected the claim  because the engines  were shipped as  freight
+   all kinds  (FAK) in  a mixed  shipment.   For the  reasons stated
+   below, we sustain GSA s decision.
+ 
+        On February  21, 1996, claimant  signed and accepted  GBL G-
+   1,752,757,  for   the  shipment   of  goods   from  the   Defense
+   Distribution Depot, Anniston,  Alabama, to the  Consolidation and
+   Containerization Point, New Cumberland, Pennsylvania.  The GBL at
+   block  twenty, page  one,   referenced  claimant s Tariff/Special
+   Rate authority   TSMT 1876," which is claimant s  tender rate for
+   goods shipped as FAK.  The  second page of the GBL contained  the
+   notation:  Freight  of All Kinds    NMFC [National  Motor Freight
+   Classification] 999913.    As specific items  to be shipped,  the
+   GBL listed transmissions, clutches and parts, water coolers, auto
+   steering  gear  assemblies without  wheels, machinery  parts, and
+   internal combustion engines.  
+ 
+        Internal combustion engines, however, are not FAK.  Internal
+   combustion  engines are  classified  under Department  of Defense
+   Unique Commodity (DODUC) code  120820 (sub classification 2 &  3)
+   and are  not subject to  FAK rates.  Military  Traffic Management
+   Command (MTMC) Freight  Traffic Rules Publication (FTRP)  No. 1A.
+   The commodity  description for internal  combustion engines--NMFC
+   120820--was listed on the GBL.  
+ 
+ 
+        For  the  shipment,  claimant  invoiced  the  Department  of
+   Defense (DOD)  $894.88 based  on the FAK  rate, and the  DOD paid
+   claimant the amount invoiced.  On February 17, 1999, almost three
+   years after the  shipment, claimant sought an  additional $293.28
+   for the engines  claimant had transported under  GBL G-1,752,757.
+   The additional  sum was  based on claimant s  Tariff   T4066E for
+   internal combustion  engines.  The  DOD rejected the  claim, and,
+   after  audit, by settlement  certificate dated June  2, 1999, GSA
+   denied  it as  well.    GSA concluded  that  all  items had  been
+   transported  and noted as  FAK on the GBL,  and that claimant was
+   not entitled to  a further adjustment.  Claimant  filed a request
+   for review of that determination with the Board.
+ 
+        It is settled that although a shipper may prepare a GBL, the
+   carrier is ultimately responsible for issuing  the GBL and should
+   not execute it if it is obvious that the GBL contains conflicting
+   terms.  In the event the carrier executes the GBL notwithstanding
+   the obvious conflict, it cannot later benefit from corrections or
+   clarifications.   Tri-State Motor Transit Co.,  GSBCA 13869-RATE,
+   98-1 BCA   29,523; C.I.  Whitten Transfer Co., GSBCA  13893-RATE,
+   97-1 BCA   29,060;  see also   Tri-State Motor Transit Co., GSBCA
+   13877-RATE, 98-1 BCA   29,406.  
+ 
+        Here, there was  an obvious conflict.  The first page of the
+   GBL referenced claimant s FAK tender as applicable to  the entire
+   shipment,  yet subsequent pages of the GBL contain accurate DODUC
+   codes for internal combustion engines, which, under MTMC FTRP 1A,
+   are  not covered  by FAK  rates.   The obvious  inconsistency was
+   sufficient  to put  claimant upon notice  to inquire.   See  Tri-
+   State Motor Transit Co., GSBCA 13869-RATE, 98-1 BCA   29,523.  It
+   chose not  to inquire, but to  accept the shipment at  FAK rates.
+   It is not entitled to any adjustment.
+ 
+ 
+                                 __________________________
+                                 ANTHONY S. BORWICK
+                                 Board Judge   

@@ -1,0 +1,117 @@
+ 
+                      
+ 
+                      ____________________________
+ 
+                           December 18, 1997
+                      ____________________________
+ 
+ 
+                            GSBCA 13895-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D. Norcom,  Auditor,  Tri-State  Motor Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey  J.  Thurston,  Director, Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James F.  Quinn, Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   HYATT, Board Judge.
+ 
+        Tri-State Motor Transit  Company claims that  it is owed  an
+   additional $574.79  in connection  with its  transportation of  a
+   shipment under Government bill of lading (GBL)  G-0,490,568.  The
+   substance of  Tri-State's claim  is two-fold.   First,  Tri-State
+   claims that the freight shipped  should have been identified as a
+   missile guidance  control system,  which was  not eligible  to be
+   shipped  under Tri-State's tender  0763.  Thus,  Tri-State argues
+   that  it is entitled to  the higher public  tariff rate.  Second,
+   Tri-State  claims that  the GBL  and  terms of  its tariff,  read
+   together,  requested  exclusive  use of  the  vehicle,  which was
+   provided by Tri-State. 
+ 
+                               Background
+ 
+        On  March  19, 1993,  GBL  G-0,490,568  was issued  for  the
+   transport  of  a shipment  described as  "Radio Transmitting  and
+   Receiving Sets NMFC 62820 SUB1" from the Naval Weapons station in
+   Yorktown, Virginia to the Raytheon Company in Bristol, Tennessee.
+   The GBL  listed the  applicable rates as  TSMT 0763,  a Tri-State
+   tender rate offered  to the Department of Defense  (DOD) under 49
+   U.S.C.     10721  (1994).    Tri-State  transported the  cargo  a
+   distance 
+   of 398 miles and delivered it to Raytheon on March 23, 1993.
+    
+ 
+        On March 31, 1993, Tri-State  submitted a bill in the amount
+   of  $566.25 and was paid in that amount.  On March 31, 1996, Tri-
+   State submitted  a supplemental  bill in the  amount of  $574.29.
+   Tri-State asserted in  its supplemental bill that its tender 0763
+   did not apply to the commodity actually shipped by DOD since that
+   commodity was  actually a  guidance control  system which  should
+   have  been classified  under DOD  Unique  Commodity Code  (DODUC)
+   14255.  After  initially rejecting this claim for  lack of proof,
+   GSA    subsequently    determined,   upon    receiving    further
+   documentation,  that  this  claim is  valid.    A Certificate  of
+   Settlement, allowing this  portion of the claim in  the amount of
+   $99.54, has been issued.
+ 
+        Still  pending before us is Tri-State's claim for additional
+   compensation  for providing exclusive  use of the  vehicle.  Tri-
+   State's  basis for  this claim  is  that its  tariff stated  that
+   application  by  the shipper  of  a  lock  requiring the  use  of
+   mechanical means  to break the  seal is considered a  request for
+   exclusive use.   The GBL, in  block 24,  under the heading  "seal
+   numbers" shows the  annotation "U.S. DISC:  0813248,  249."  Tri-
+   State  maintains that this  annotation signifies usage  of a lock
+   requiring mechanical means to break  the seal.  In addition, Tri-
+   State  has furnished  a  copy of  its  tractor continuity  report
+   demonstrating that  exclusive  use of  the  vehicle was  in  fact
+   provided.  
+ 
+                               Discussion
+ 
+        On the date that the  GBL was issued, Tri-State's Tariff ICC
+   TSMT 4001, Item 470-1, paragraph 4, provided as follows:
+ 
+                  The  use  of  any method  of  sealing  a
+             dromedary  box or  410 container,  i.e.: bolt
+             seals,  padlocks,  cable   locks,  ball  type
+             locks, wire  twists, etc., which  require the
+             use  of mechanical means  to break  that seal
+             will be considered as a request for exclusive
+             use irregardless of any notation on the  bill
+             of lading. . . .
+ 
+   The GBL confirms that the shipper applied  a lock with the prefix
+   "U.S. DISC."  Tri-State maintains that this prefix is used by the
+   Department of Defense for a type of cable lock seal that can only
+   be broken  by mechanical means.  In an earlier decision on point,
+   the Board  was provided  with an affidavit  in which  a Tri-State
+   scheduler  attested  that  this   prefix  has  consistently  been
+   associated with  a cable lock  which, when sealed, may  be opened
+   only by mechanical means.  In the absence of any evidence  to the
+   contrary  from GSA  or the  Military  Traffic Management  Command
+   (MTMC),  the Board  accepted the  statements  in this  affidavit.
+   Tri-State Motor Transit Co., GSBCA 13886-RATE, 97-1 BCA   28,941.
+   This  case involved  the identical  tariff.   The Board  ruled in
+   GSBCA 13886-RATE that the  language of the tariff, together  with
+   the  application  of a  cable  lock,  constituted a  request  for
+   exclusive use  even in  the absence of  explicit language  on the
+   face of the GBL referring to  exclusive use.  The same result  is
+   dictated  here.   Tri-State  has furnished  satisfactory evidence
+   that exclusive  use of  the vehicle  was provided.   Accordingly,
+   Tri-State is entitled to recover the amount claimed for providing
+   exclusive use of the vehicle.   
+ 
+                                      ____________________________
+                                      CATHERINE B. HYATT
+                                      Board Judge

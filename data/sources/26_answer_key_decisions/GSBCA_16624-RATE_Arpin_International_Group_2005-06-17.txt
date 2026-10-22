@@ -1,0 +1,93 @@
+ 
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+
+
+                         _______________
+
+                          June 17, 2005
+                         _______________
+
+
+                         GSBCA 16624-RATE
+
+
+            In the Matter of ARPIN INTERNATIONAL GROUP
+
+
+     Mark Greene, GSA and Alaska Division, Arpin International Group, East Greenwich,
+RI, appearing for Claimant.
+
+     James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     John W. Dillon, Unit Chief, Fleet Management and Transportation Services Unit,
+Federal Bureau of Investigation, Department of Justice, Washington, DC, appearing for
+Department of Justice.
+
+DeGRAFF, Board Judge.
+
+     The carrier asks the Board to review the agency's decision to apply alternation of rates
+to a shipment of household goods.  Because alternation of rates was appropriate, we deny the
+claim. 
+
+                            Background
+
+     On March 7, 2001, the Federal Bureau of Investigation (FBI) used the General
+Services Administration's (GSA's) Interagency Transportation Management System (ITMS)
+to obtain an estimate of the cost to move a shipment of household goods.  The ITMS
+provided the FBI with a printout which listed information regarding carriers with rates on file
+with GSA for the anticipated shipment.  The carriers had provided their rates to GSA in
+response to a request for offers which said, "A [carrier's] accepted offer of general
+government rates and charges will alternate with the [carrier's] accepted offer of agency
+specific rates and charges."  GSA 2000-2001 Request for Offers - Centralized Household
+Goods Traffic Management Program (CHAMP),   2-5.5 (July 5, 2000).  
+
+     The ITMS printout showed Paul Arpin Van Lines, Inc. (Arpin) had the lowest
+available shipping rate if the goods were moved using Arpin's tender PA16.  Based upon this
+information, the FBI completed a government bill of lading which showed PA16 as the
+applicable rate authority and issued the bill of lading to Arpin for the shipment.
+  
+     When Arpin received the bill of lading, it told the FBI it thought the applicable rate
+authority was tender PAV1, not PA16, and asked whether the bill of lading needed to be
+corrected.  PA16 was applicable to government agencies generally, while PAV1 was
+applicable only to the FBI, and the rates contained in PAV1 were discounted less than those
+contained in PA16.  The FBI did not make any change to the rate authority shown on the bill
+of lading.  Arpin moved the goods for the FBI and submitted an invoice based upon the rates
+contained in PAV1, and the FBI paid for the shipment in accordance with the invoice.  
+
+     After a post-payment audit, GSA determined the two rates contained in the two
+tenders applied to the same service, and concluded Arpin should have charged for the
+shipment in accordance with the more deeply discounted rate contained in PA16 instead of
+the rate contained in PAV1.  GSA issued a notice of overcharge to Arpin for $2020.74,
+which GSA calculated was the difference, excluding interest, between the cost of shipping
+the household goods at the rate contained in PA16 and the cost of shipping them at the rate
+contained in PAV1.  Arpin contested the notice of overcharge.  In March 2005, GSA decided
+the notice of overcharge was correct and issued a settlement certificate asking Arpin to pay
+the $2020.74, plus interest.  Arpin asks us to review GSA's decision.
+
+                            Discussion
+
+     According to the terms of the request for offers, Arpin's tender PA16 and tender
+PAV1 rates alternated.  As the Comptroller General explained, "Alternation permits selecting
+the lowest charge for a shipment from any of the rates and rate publications that could
+apply."  Double M Transport, Inc., B-236336 (July 13, 1990).  We emphasized in Menlo
+Worldwide Forwarding, Inc., GSBCA 16353-RATE, 04-2 BCA   32,761, that alternation of
+rates is appropriate only when the rates apply to the same service.  Because the rates
+contained in the two Arpin tenders applied to the same service, GSA was allowed to select
+the lower of the two rates when it determined the proper charge for the shipment.  Thus, the
+notice of overcharge and the subsequent settlement certificate were proper. 
+
+                             Decision
+
+     The claim is DENIED.
+
+
+
+
+                                   ___________________________________
+                                   MARTHA H. DeGRAFF
+                                   Board Judge

@@ -1,0 +1,236 @@
+                   
+
+
+
+
+
+
+
+                          ______________________
+
+                               April 4, 1997
+                          _______________________
+
+
+
+                             GSBCA 13737-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC, appearing
+for General Services Administration.
+
+     Col. David A. Shull, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+DeGRAFF, Board Judge.
+
+     On August 26, 1991, the Traffic Management Office at Dover Air
+Force Base, Dover, Delaware issued government bill of lading (GBL)
+E-2,298,741 to Tri-State Motor Transit Company (Tri-State).  The
+GBL described the freight being transported as a Class A explosive,
+"rocket ammunition with explosive projectile."  The GBL states that
+dromedary service was requested, as was dual driver protective
+service (DDPS).  In Block 24, under the heading "seal numbers," the
+GBL contains the annotation "0498231/0498232."  The GBL also
+contains the following annotations, among others:
+
+     FLAME OR HEAT PRODUCING TOOLS WILL NOT BE USED TO REMOVE
+     SECURITY DEVICES.
+
+     SHIPPER SEAL(S) APPLIED, CARRIER MAY REMOVE SEAL(S) AND
+     REPLACE WITH EQUIVALENT SEAL(S). . . . APPLICATION OF
+     SHIPPER SEAL(S) DOES NOT CONSTITUTE A REQUEST FOR
+     EXCLUSIVE USE OF VEHICLE.
+
+Tri-State submitted a voucher to the Department of Defense (DoD) on
+September 10, 1991, for transporting this shipment.  
+
+     Some time later (the date is not contained in our record),
+Tri-State claimed that it was owed an additional amount because the
+shipment was a foreign military sale (FMS) shipment and because DoD
+requested exclusive use of the container that Tri-State used to
+transport the shipment.  On August 30, 1995, the General Services
+Administration (GSA) denied Tri-State's claim.  On September 8,
+1995, Tri-State asked the General Accounting Office (GAO) to review
+GSA's decision.    
+
+     The Military Traffic Management Command (MTMC) informed GAO
+that the shipment at issue was, indeed, an FMS shipment.  MTMC
+agreed with GSA, however, that DoD had not requested exclusive use. 
+GSA informed GAO that Tri-State billed for mileage in excess of
+that allowed by Tri-State's tariff, and overcharged for providing
+DDPS.  GSA later agreed that Tri-State had not overcharged for
+providing DDPS.  Only two issues, exclusive use and mileage, remain
+for us to resolve.
+
+                                Discussion
+
+Exclusive use
+
+     On the date that the GBL was issued, Tariff ICC TSMT 4000-B,
+Item 525, paragraph 4, read as follows:
+
+     The use of any method of sealing a dromedary box or 410
+     container, ie:  bolt seals, padlocks, cable locks, ball
+     type locks, wire twists, etc., which require the use of
+     mechanical means to break that seal will be considered as
+     a request for exclusive use irregardless of any notation
+     on the bill of lading . . . . 
+
+As evidence that one of the types of seals described in its tariff
+was applied by Dover Air Force Base to the shipment at issue in
+this case, Tri-State relies upon provisions of the Defense Traffic
+Management Regulation (DTMR). 
+
+     In Tables 34-2 and 34-3, the DTMR sets out minimum standards
+that apply to shipments of confidential and sensitive material,
+including ammunition.  Shipments of confidential material require,
+at a minimum, DoD constant surveillance service, but do not require
+exclusive use.  The requirements for shipments of sensitive
+material vary according to the type of material being transported. 
+The most sensitive material requires protective security service,
+armed guard surveillance, security escort vehicle service, and
+exclusive use.  The least sensitive material requires DDPS, but
+does not require exclusive use.  For confidential and sensitive
+material, regardless of whether exclusive use is required, the DTMR
+explains that the shipment will be sealed by the shipper in
+accordance with DTMR paragraph 34-10. 
+
+     DTMR paragraph 34-10 states that shippers will apply seals to
+shipments of confidential or sensitive material.  Paragraph 34-10
+states, "Seal application by shipper does not constitute a request
+for exclusive use of vehicle.  See paragraph 34-11 when exclusive
+use of vehicle is required."  Paragraph 34-11 reads as follows:
+
+     When exclusive use of a vehicle is required, or when
+     exclusive use of a closed and locked compartment on
+     carrier equipment is used for movement of SECRET,
+     CONFIDENTIAL, or sensitive material, a serially numbered
+     cable seal lock (NSN 5340-00-084-1570), or other type of
+     specialized seal that provides equal or better security
+     on carload or truckload shipments, must be applied.  A
+     serially numbered, ball-type seal with a peened bolt and
+     nut (NSN 5340-00-081-3381), or a number 5 American wire
+     gauge steel wire twist (NSN 9505-00-244-6550), may be
+     substituted.  See Figure 32-1, Item 21, Instruction
+     d(1)(h), for required GBL annotation.  
+
+     Item 21, Instruction d(1)(h) of the DTMR provides, "When
+applicable, [annotate the GBL]:  'Flame or heat-producing tools
+will not be used to remove security devices.'  (See. para 34-11)." 
+The DTMR spells out the specific language of the annotations that
+are required on GBLs when seals are applied by shippers to
+sensitive and confidential shipments.  The DTMR also explains that,
+for shipments requiring exclusive use, the GBL must be annotated
+with the words "Exclusive use of vehicle requested by Government,"
+or similar language.  In addition, when exclusive use is requested,
+the DTMR says that the GBL must contain an endorsement to be signed
+by the carrier at the freight's destination, certifying that
+exclusive use was furnished.  DTMR, Item 21, Instructions d(1)(e),
+o(2). 
+
+     Tri-State reads the DTMR to say that the annotation "Flame or
+heat-producing tools will not be used to remove security devices"
+will be used only when DoD requests exclusive use.  Tri-State says
+that, because its GBL includes this annotation, it must presume
+that Dover Air Force Base applied one of the seals mentioned in
+paragraph 34-11, which describes the seals that are applied when
+DoD requests exclusive use.  According to Tri-State, if one
+presumes that DoD applied a type of seal described in paragraph 34-
+11, this constitutes a request for exclusive use according to Tri-
+State's tariff because the seals described in paragraph 34-11 are
+included within the types of seals mentioned in Tri-State's tariff. 
+Tri-State also says that the shipment must have been either
+confidential or sensitive, and that this supports a conclusion that
+a seal described in paragraph 34-11 was applied.  
+
+     In response, GSA says that Tri-State's tariff provides that,
+if the shipment at issue was secured with a bolt seal, padlock,
+cable lock, ball type lock, wire twists, etc. which can only be
+broken by mechanical means, this constitutes a request for
+exclusive use.  GSA's position is that Tri-State has not
+established that the shipment in our case was secured with such a
+seal.  
+
+     On February 4, 1997, the Board asked Tri-State to submit any
+documentation that would satisfy GSA's concerns about Tri-State's
+claim.  Tri-State never provided any documentation.  
+
+     The DTMR makes it clear that, even if this shipment was
+confidential or sensitive, not all shipments of confidential or
+sensitive material require exclusive use, that shipments of these
+materials will be sealed by the shipper, and that the application
+of a seal by the shipper does not constitute a request for
+exclusive use.  The DTMR also makes it clear that, when exclusive
+use is requested, particular types of seals are required, but there
+is no evidence that one of these seals was used for this shipment. 
+The DTMR does not say that the flame or heat-producing tools
+annotation can be used only when DoD requests exclusive use, or
+that this annotation amounts to a request for exclusive use.  In
+fact, the DTMR's explanation of how to annotate a GBL to request
+exclusive use does not mention flame or heat-producing tools.  The
+fact that the GBL was annotated to refer to the use of flame or
+heat-producing tools does not mean that DoD applied one of the
+types of seals described in Tri-State's tariff and, by doing so,
+requested exclusive use.  
+
+     Tri-State has not established that the type of seal applied to
+this shipment was one of the types of seals identified in Tri-
+State's tariff.  Without such evidence, we cannot conclude that DoD
+requested exclusive use, according to the terms of the tariff.
+
+Mileage
+
+     According to Tri-State, it is entitled to recover for
+transporting the shipment 2,294 miles.  Tri-State cites to the
+following tariff provision:  
+
+     If due to State, Municipal, or Federal regulations
+     governing the transportation of these commodities a route
+     of greater distance than the distance computed under the
+     [Household Goods Mileage Guide] is necessary, the greater
+     distance shall apply.
+
+Tariff ICC TSMT 4000-B, Item 450, at 9.  Tri-State says that it
+relied upon Compu.Map, a proprietary computer program, to provide
+the shortest lawful highway route available for transportation of
+explosives in compliance with federal, state, and municipal
+regulations, and that the shortest route was 2,294 miles, according
+to Compu.Map.  
+
+     According to GSA, Tri-State is entitled to recover for
+transporting the shipment 2,178 miles, in accordance with the
+Household Goods Mileage Guide.  GSA says that if state, municipal,
+or federal regulations required Tri-State to travel more than the
+distance computed according to the mileage guide, those regulations
+would have also required Tri-State to obtain permits.  GSA stated
+that, if Tri-State would submit copies of the permits it obtained
+in order to comply with the regulations, this would validate Tri-
+State's mileage claim.  
+
+     On February 4, 1997, the Board asked Tri-State to supply
+documentation to establish that permits were issued, or any other
+documentation to satisfy GSA's concerns.  Tri-State never
+responded.  
+
+     Tri-State has not established that GSA's mileage calculation
+is incorrect.  Tri-State's tariff permits it to charge for a route
+longer than that set out in the mileage guide only if the longer
+route is necessary due to state, municipal, or federal regulations. 
+Tri-State has not established that any regulations necessitated a
+longer route than that set out in the mileage guide.
+
+
+
+
+                                   ______________________________
+                                   MARTHA H. DeGRAFF
+                                   Board Judge

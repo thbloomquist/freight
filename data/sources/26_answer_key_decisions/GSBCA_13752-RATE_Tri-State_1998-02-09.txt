@@ -1,0 +1,166 @@
+ 
+                     
+ 
+                     
+ 
+ 
+            _______________________________________________
+ 
+                            February 9, 1998
+            _______________________________________________
+ 
+ 
+                            GSBCA 13752-RATE
+ 
+ 
+                 In the Matter of TRI-STATE TRANSIT CO.
+ 
+ 
+        John R. Bagileo of Bagileo, Silverberg & Goldman,
+   Washington, DC; and Robert D. Norcom, Auditor, Tri-State Motor
+   Transit Co., Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey J. Thurston, Director, Office of Transportation
+   Audits, General Services Administration, Washington, DC,
+   appearing for General Services Administration.
+ 
+        Col. James F. Quinn, Staff Judge Advocate, Headquarters,
+   Military Traffic Management Command, Department of the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   BORWICK, Board Judge.
+ 
+        This matter involves claims for excess released value
+   charges for shipments under government bills of lading (GBLs)
+   E-1,195,115, E-1,195,116, C-0,997,629, and D-
+   2,467,637.[foot #] 1  For the reasons stated below, we
+   conclude that claimant is entitled to be reimbursed for the
+   excess released value charges.  
+ 
+        Three of the four GBLs (E-1,195,115, E-1,195,116 and
+   D-2,467,637) involve shipment of either tank or ammunition
+   trailers (HEMATs).  These items were properly classified and
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1   The claim was  originally filed at  the General
+   Accounting  Office  (GAO).     Congress  transferred  the  review
+   function formerly performed by GAO  to the Director of the Office
+   of Management and Budget (OMB)  and authorized him to delegate it
+   to any other  agency or agencies.  Pub. L. No. 104-53,   211, 109
+   Stat. 514, 535 (1995).  The Acting Director of OMB delegated this
+   function to GSA  (Delegation, June 28, 1996), and  the Acting GSA
+   Administrator  redelegated it to this Board (Delegation, July 17,
+   1996).   Later, Congress  made permanent  the assignment  of this
+   duty to the Administrator.  Pub. L. No. 104-316,   202(o)(2), 110
+   Stat. 3826, 3844 (1996).  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   shipped as "freight all kinds" (FAK).[foot #] 2  Each
+   of the GBLs contained a provision that the released value was not
+   to exceed $2.50 per pound.
+ 
+ 
+        The fourth GBL, C-0,997,629, involved a 2   ton truck.  The
+   GBL for this commodity also contained a notation that the
+   released value was not to exceed $2.50 per pound.  Although that
+   GBL contained the notation FAK, the item classification number
+   was NMFC 190190, and the GBL referenced claimant s tariff/special
+   rate authority 00064200, effective August 1, 1991.  The Board
+   requested and received from GSA s Office of Transportation Audits
+   (OTA) a copy of claimant s tender 00064200.  In accordance with
+   the instructions of MFTRP 1A, Item 190-4, claimant placed in the
+   tender the notation: "Released value not exceeding $20,000 per
+   vehicle."  The shipment was invoiced and billed at claimant s
+   tender rate applicable to the vehicle. 
+ 
+        MFTRP 1A Item 190-6 provides in part:
+ 
+        The released value established . . . in the DOD tender
+        . . . shall be sufficient to release an applicable
+        shipment to the values for the commodity described in
+        the bill of lading, without the necessity of the
+        shipper providing a released value statement on the
+        bill of lading. . . .  If a value exceeding the
+        released value is stated on the bill of lading, such
+        valuation shall control and the following excess value
+        charges shall apply.
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2     By  policy  letter of  April  24,  1990,  the
+   Military  Traffic  Management  Command   (MTMC)  determined  that
+   wheeled vehicles would no  longer be routed as FAK.   That policy
+   was implemented  in a  change to Military  Freight Traffic  Rules
+   Publication  (MFTRP) 1A Item 112(C),  dated October 19, 1992, but
+   effective April  24, 1990.   The change specified that  FAK rates
+   would not apply  to self-propelled vehicles (including  NMFC Item
+   190190 and 190210) or  to all other  commodities for which a  DoD
+   Unique  Commodity  (DODUC)   code  had  been  assigned   by  MTMC
+   headquarters.  In Tri-State Motor Transit Co., B-254372 (July 15,
+                     ___________________________
+   1994), GAO held  that the  instruction changes  could be  applied
+   retroactively  to shipments  after  April 24,  1990 and  that the
+   items shipped as FAK should  have been billed at rates applicable
+   to  the  specific  commodity description.    That  case, however,
+   involved  self-propelled vehicles.  The trailers shipped by these
+   three GBLs were not self-propelled vehicles and were not assigned
+   specific DODUC  codes for  classification or  rate purposes,  and
+   thus were properly classified as FAK.  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+         Excess Released Valuation  Excess Valuation Charges 
+         a. Released to a value     Base transportation rate
+         exceeding $20,000 per      in carrier[ ]s tender
+         each vehicle in the        plus an excess value
+         shipment                   charge of 15 cents for
+                                    each $100 or fraction
+                                    thereof by which the
+                                    declared value of the
+                                    shipment exceeds $20,000
+                                    per vehicle.
+ 
+ 
+        Claimant seeks the excess released value charges for the
+   items in the GBL shipped as FAK as well as the excess released
+   value charges for the 2   ton truck shipped as the specific
+   commodity Item 190190 in GBL C-0,997,629.  The Government does
+   not dispute that MFTRP 1A Item 190-6 applies to specific
+   commodities as well as to commodities shipped as FAK.  In this
+   respect MTMC states:  Yes, the default released value which is
+   included in a carrier s rate offer can be overridden with a
+   specifically declared value of the vehicles and or shipment which
+   is in excess of the default released value.  
+ 
+        Claimant seeks excess valuation charges of $9.75 each for
+   GBLs  E-1,195,115 and E-1,195,116; $19.50 for GBL C-0,996,629;
+   and $21.45 for GBL D-2,467,637.  Claimant s calculations of
+   excess value charges are faithful to the method for establishing
+   the excess released value as stated in the MFTRP.  
+ 
+        The Government, however, maintains that the  released value
+   statements in the GBLs are not declarations of excess released
+   value.  Both this Board and the GAO have considered this
+   "released valuation" issue and have concluded that the Government
+   is wrong.  Tri-State Motor Transit Co., GSBCA 14352-RATE (Jan. 6,
+   1998); Tri-State Motor Transit Co., GSBCA 14245-RATE (Nov. 26,
+   1997); Tri-State Motor Transit Co., GSBCA 13839-RATE, 97-1 BCA  
+   28,953; Tri-State Motor Transit Co., GSBCA 13746-RATE, 97-1 BCA  
+   28,951; Tri-State Motor Transit Co.--Reconsideration, B-254378.2,
+   et al. (July 5, 1995).  We follow our earlier decisions and the
+   decisions of the GAO.  Tri-State is entitled to payment on its
+   claims. 
+ 
+ 
+ 
+                                 __________________________
+                                 ANTHONY S. BORWICK
+                                 Board Judge
+ 
+    

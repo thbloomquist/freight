@@ -1,0 +1,187 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+                     ______________________________
+ 
+                           December 18, 1998
+                     ______________________________
+ 
+ 
+                            GSBCA 14480-RATE
+ 
+ 
+            In the Matter of T. F. BOYLE TRANSPORTATION INC.
+ 
+ 
+        James  P.   Matteodo,   Pricing   Manager,   T.   F.   Boyle
+   Transportation Inc., Billerica, MA, appearing for Claimant.
+ 
+        James   F.  Fitzgerald,   Director,  Transportation   Audits
+   Division,  General   Services  Administration,   Washington,  DC,
+   appearing for General Services Administration.
+ 
+        Robert  L. Holston, Traffic Specialist, Goddard Space Flight
+   Center, Wallops Island,  VA, appearing  for National  Aeronautics
+   and Space Administration.
+ 
+   WILLIAMS, Board Judge.
+ 
+        Claimant, T. F. Boyle  Transportation Inc. (Boyle), contests
+   the  General  Services  Administration's  (GSA's)  assessment  of
+   overcharges in the amount of $2576.07, which GSA alleges resulted
+   from Boyle's erroneous computation of charges based upon rates in
+   the tender  Boyle offered to  the National Aeronautics  and Space
+   Administration (NASA) instead of the less  expensive rates in the
+   tenders Boyle  offered to  the Department of  Defense (DOD).   We
+   conclude  that Boyle did not overcharge the Government because it
+   properly  utilized  the tender  it  offered to  the  agency which
+   derived the benefit of the transportation, NASA.
+ 
+                               Background
+ 
+        Boyle has a  separate tender for the movement  of freight on
+   file with NASA, designated as Boyle 402.  Boyle also has separate
+   tenders  specifically issued  for  DOD for  the  movement of  its
+   freight,  and these  tenders by  their  terms only  apply to  DOD
+   shipments.
+ 
+        On  September 12,  1996,  Boyle transported  a  shipment  of
+   rocket motors  from the  United States Army  White Sands  Missile
+   Range  in New Mexico  to  the NASA  facility  in Wallops  Island,
+ 
+                                                                   2
+ 
+   Virginia.   According to Government  bill of lading  (GBL) number
+   G-4,395,168,  the charges  were to  be  billed to  the consignee,
+   NASA.  Given  this, Boyle billed  $7382.64 for transporting  this
+   shipment in  accordance with the  rates in Boyle 402,  the tender
+   offered to and filed with NASA.  Boyle did not charge the reduced
+   rates applicable under any of its tenders filed with DOD because,
+   under the terms  of those tenders, non-DOD agencies  such as NASA
+   were not entitled to use rates in those tenders.
+ 
+        On October 6,  1997, GSA issued  a notice  of overcharge  to
+   Boyle  claiming  that  Boyle overcharged  the  Government  in the
+   amount of  $2576.07  because  Boyle erred  in  billing  for  this
+   shipment on  the  basis of  its tender  filed with  NASA when  it
+   should  have billed on the basis of a tender filed with DOD.  The
+   issue before us is which rates applied -- the special lower rates
+   offered  to DOD  alone in  Boyle's  tenders filed  with DOD,  the
+   shipper,  or  the  rates  in  the tender  filed  with  NASA,  the
+   consignee, which paid the transportation charges.
+ 
+                               Discussion
+ 
+        The  Board resolved  the identical  issue in  C. I.  Whitten
+   Transfer  Co., GSBCA 13911-RATE, 97-1 BCA   28,860, and concluded
+   that the tender filed with  the agency which receives the benefit
+   of  the transportation  is  the  tender which  applies.   In  the
+   instant case that tender was  Boyle's tender filed with NASA, the
+   agency which paid  for the transportation and  received delivery,
+   and not its tenders filed with DOD.  As we noted in Whitten:
+ 
+        A tender may be applied only if the entity  to which it
+        is offered  actually receives a direct  and substantial
+        pecuniary benefit from  the shipment.  The  Coast Guard
+        paid for the shipment here.  It received the direct and
+        substantial  pecuniary benefit  of the  shipment.   The
+        tender in question  was offered to DOD  alone.  Because
+        the Coast Guard is not part of  DOD, it may not pay the
+        rates which were offered only to DOD.
+ 
+   Whitten, 97-1 BCA at 109,071.   Thus, as we explained in Whitten,
+   permitting DOD to secure special  rates for shipments for non-DOD
+   agencies would vitiate the terms of the tenders which are offered
+   only to DOD, and not to other agencies such as NASA.
+ 
+        In resolving the Whitten case,  the Board relied upon a 1982
+   Court  of   Claims  decision,   Baggett  Transportation   Co.  v.
+   United States, 670  F.2d 1011  (Ct. Cl. 1982).   The  Board noted
+   that it would follow the rulings of the Court of Appeals  for the
+   Federal  Circuit  with regard  to  cases involving  requests   by
+   carriers for review of GSA's audit and claims determinations, and
+   that  the Baggett  decision,  issued  by  the  Federal  Circuit's
+   predecessor court, was binding precedent.
+ 
+                                                                   3
+ 
+        Claimant has asked us whether Whitten applies to the instant
+   case and, if so, what the effective date  of the applicability of
+   the Whitten decision  is -- the  date of the Whitten  decision or
+   the  earlier  date of  the  shipment  which  was the  subject  of
+   Whitten.    GSA  argues  that  Whitten  should   not  be  applied
+   retroactively.
+ 
+        This  Board has  squarely ruled  that  its Whitten  decision
+   should be applied retroactively.   As the Board explained in Tri-
+   State   Motor  Transit  Co.,  GSBCA  14560-RATE,  slip op.  at  2
+   (Sept. 17, 1998) (motion for reconsideration pending):
+ 
+        In  both federal  court  cases  and  in  administrative
+        adjudications,    decisions    generally    are   given
+        retroactive effect because of  the overriding policy of
+        treating similarly situated parties the same, which  is
+        regarded  as  a  fundamental principle  both  of  stare
+        decisis and the rule of law generally.
+ 
+   The Board went on  to note that  there are limited exceptions  to
+   retroactivity and that  none of those  exceptions applied in  the
+   context of the Board's Whitten decision.  The Board stated:
+ 
+        In  Whitten,  we  did  not  make  new  law;  rather  we
+        interpreted  the provisions of the tender and tariff in
+        light of  the law  the Court  of Claims  articulated in
+        1982  in Baggett. . . .  We applied the law articulated
+        by the  authoritative court as  it has  stood since  at
+        least 1982.  Since the agency has not demonstrated that
+        a departure from  the general rule of  retroactivity is
+        warranted,    or   demonstrated    that   Whitten    is
+        distinguishable  from this  matter, we will  follow the
+        reasoning of Whitten.
+ 
+   Id. at 2-3. 
+ 
+        In Tri-State  Motor Transit Co.,  GSBCA 14169-RATE,  et al.,
+   97-2 BCA    29,294, at  145,724, this Board followed  Whitten and
+   emphasized the precedential  value of that  case as follows:  "We
+   issue   decisions  with  the  expectation  that  they  will  have
+   precedential value -- that the principles expressed  in them will
+   be applied in future actions to which they might pertain."  Thus,
+   to  answer claimant's  question, the  date on which  a particular
+   shipment occurred is  immaterial for purposes of  whether a Board
+   decision,   such   as   Whitten,   will  be   followed.[foot #] 1
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1     In fact, the Whitten rationale was applied in
+                                    _______
+   Tri-State, 97-2 BCA   29,294, even  though the shipments at issue
+   _________
+   there were  earlier than the  shipment in Whitten    in Tri-State
+                                             _______       _________
+   shipments were  made between 1988  and 1990, and in  Whitten, the
+                                                        _______
+   shipment was made in 1993.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   4
+ 
+   Rather,  the Board  applies any  pertinent  legal rationale  from
+   Whitten when it  resolves a timely filed case  subsequent to that
+   decision,   so  long  as  the  Whitten  decision  remains  viable
+   precedent. 
+ 
+                                Decision
+ 
+        The claim is granted.  GSA's assessment of the overcharge of
+   $2576.07 under GBL G-4,395,168 was erroneous.  The Government may
+   not collect this sum from Boyle.
+   ________________________________
+ 
+                                      MARY ELLEN COSTER WILLIAMS
+                                      Board Judge

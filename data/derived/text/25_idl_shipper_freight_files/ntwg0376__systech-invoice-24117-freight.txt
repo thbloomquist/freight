@@ -1,0 +1,281 @@
+                                                                                              Invoice
+                        UNLY UNE
+             Sys-Tech Solutions, Inc.
+             dba Systech International
+                                                                                              Invoice No: 24117
+             One Research Way
+             Princeton, NJ 08540                                                             Invoice Date: 08/14/2019
+             United States                                                                Payment Terms: Net 30
+             +1 UCSF Redaction
+                                                                                               Due Date: 09/13/2019
+                                                                                         Customer PO No: 1010339
+           Bill To
+                                                                                            Customer No: 2009
+           JUUL Labs, Inc.
+           560 20th St.                                                                  Amount Due: $6,521.91
+           San Francisco CA 94017
+
+
+
+
+ GEN 3 Buffalo Grove IL Line 16 and Line 18
+  Project ID I    Qty                Item                                  Description      List Price   Discount       Amount
+ 13300                                                      Freight charges                                               146.03
+
+ 13300                                                      Freight charges                                              6,236.54
+
+ 13300                                                      Freight charges                                                139.34
+
+
+
+                                                                                          Subtotal:                      6,521.91
+                                                                                          Balance Due (USD):            $6,521.91
+
+
+
+
+ Payment via Wire/ACH                                     Payments via Check
+ Federal Reserve Bank for Credit to Silicon Valley Bank
+ BIC Code/ABA#: 121140399                                 Sys-Tech Solutions, Inc.
+ Further Credit to Sys-Tech Solutions, Inc.               dba Systech International
+ Account#: 3300908127                                     PO Box 347896
+ Swift Code: SVBKUS6S                                     Pittsburg, PA 15251-4896
+ Bank Address: 3003 Tasman Drive, Santa Clara, CA 95054
+
+
+
+
+CONFIDENTIAL                                                                                                        JLI44353120
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/ntwg0376
+                                                              RADIANT GLOBAL LOGISTICS (R41EWR)                                           Invoice #       :   102479951
+   RADIAN                     GLOBAL
+                                                              50 MAYFIELD AVE
+                                                              EWR@RADIANTDELIVERS.COM
+                                                                                                                                          Invoice Date
+                                                                                                                                          Account
+                                                                                                                                                          :
+                                                                                                                                                          :
+                                                                                                                                                              04/23/2019
+                                                                                                                                                              10030222
+                            LOGISTiCS                         EDISON, NJ 08837                                                            Due Date        :   05/23/2019
+                                                              USA                                                                         Total Due       :   $836.08 USD
+                                                              Tel: UCSF Redaction                                                         HAWB            :   102479951
+                                                              Fax: UCSF Redaction
+
+
+
+
+                                                             DOMESTIC SHIPMENT INVOICE
+   Bill To                                                                                     Shipper
+   Attn: SAMANTHA                                                                              Attn: Michael Bush
+   SYSTECH SOLUTIONS                                                                           Systech
+   ONE RESEARCH WAY                                                                            One Research Way
+   PRINCETON, NJ 08540 USA                                                                     PRINCETON, NJ 08540 USA
+                                                                                               Ref #: SO7951/SO7952, SO8140/SO8148, SO8169/SO8170
+
+
+
+   Ref #: SO7951/SO79        5O8140/5O8148, SO8169/SO8170
+   Details                                                                                     Consignee
+   Service Level : THIRD DAY                                                                   Attn: TRACEY WATTS
+   Pickup Date    : 04/11/19                                                                   FLEXTRONICS
+   # of Pcs       :3                                                                           1000 TECHNOLOGY DRIVE
+   Declared Value : N/A                                                                        WEST COLUMBIA, SC 29170 USA
+          Actual Wt.                  Volume Wt.                Chargeable Wt.                 Ref #: JUUL 13300
+                941.00 Lbs                1,059.07 Lbs                1,059.07 Lbs
+                426.83 Kgs                  480.39 Kgs                  480.39 Kgs
+   Description of Goods
+   COMPUTERS AND COMPUTER PERIPHERALS
+   Proof of Delivery
+   Date: 04/16/2019                         Time: 09:00                                       Pcs Dlvd: 3                                       Rcvd By: t haynes
+   Calculator Details
+   Item   Pcs       Length     Width       Height   Units            Lbs               Kgs                CFT                    CM            Type             Numbers & Marks
+
+    1      1           48        40          43          0         365.00            165.56               47.78                  1.35         CARTONS
+
+    2      1           48        40          32          0         251.00            113.85               35.56                  1.01         CARTONS
+
+    3      1           48        40          32          0         325.00            147.42               35.56                  1.01         CARTONS
+   Charges
+   Description                                                                                                                          Qty        Rate                     Charge
+
+   Freight Charges                                                                                                                    1.00      668.868                      668.87
+
+   Fuel Surcharge                                                                                                                     1.00       167.21                      167.21
+
+
+
+
+                                      Terms and Conditions as per Company Website                                                              Total                    $836.08 USD
+
+
+
+                                                             To Ensure Proper Credit, Please Return This Portion With Payment!
+   Bill To
+   SYSTECH SOLUTIONS                                                                                                              Invoice #        : 102479951
+   ONE RESEARCH WAY                                                                                                               Ship Date        : 04/11/19
+   PRINCETON, NJ 08540 USA                                                                                                        Invoice Date     : 04/23/2019
+                                                                                                                                  Origin Port      : EWR
+                                                                                                                                  Destination Port : CAE
+                                                                                                                                  Charges          : $836.08 USD
+   Account #: 10030222                                       Remit To
+                                                             RADIANT GLOBAL LOGISTICS
+                                                             PO BOX 844722
+                                                             Dallas, TX 75284-4722
+
+
+
+
+                                                                                       Page 111
+
+
+CONFIDENTIAL                                                                                                                                                           JLI44353121
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/ntwg0376
+                                                            RADIANT GLOBAL LOGISTICS (R41EWR)                                           Invoice #        :   102474228
+   RADIAN                     GLOBAL
+                                                            50 MAYFIELD AVE
+                                                            EWR@RADIANTDELIVERS.COM
+                                                                                                                                        Invoice Date
+                                                                                                                                        Account
+                                                                                                                                                         :
+                                                                                                                                                         :
+                                                                                                                                                             03/12/2019
+                                                                                                                                                             10030222
+                            LOGISPCS                        EDISON, NJ 08837                                                            Due Date         :   04/11/2019
+                                                            USA                                                                         Total Due        :   $438.09 USD
+                                                            Tel: UCSF Redaction                                                         HAWB             :   102474228
+                                                            Fax: UCSF Redaction
+
+
+
+
+                                                           DOMESTIC SHIPMENT INVOICE
+   Bill To                                                                                   Shipper
+   Attn: SAMANTHA                                                                            Attn: Michael Bush
+   SYSTECH SOLUTIONS                                                                         Systech
+   ONE RESEARCH WAY                                                                          One Research Way
+   PRINCETON, NJ 08540 USA                                                                   EIN# 22.2641000 / UCSF Redaction
+                                                                                             PRINCETON, NJ 08540 USA
+                                                                                             Ref #: PHILIPS MEDSIZE, SO7951/SO7952/, SO8149
+
+   Ref #: PHILIPS MEDSIZE, SO795                 SO8149
+   Details                                                                                   Consignee
+   Service Level : THIRD DAY                                                                 Attn: DANIEL MASSA
+   Pickup Date    : 02/21/19                                                                 PHILLIPS MEDSIZE CORP
+   # of Pcs       :1                                                                         428 TECHNOLOGY DR E
+   Declared Value : N/A                                                                      MENOMONIE, WI 54751 USA
+          Actual Wt.                 Volume Wt.               Chargeable Wt.                 Ref #: /1010339, PO 1010338
+                147.00 Lbs                179.00 Lbs                  179.00 Lbs
+                 67.00 Kgs                 81.00 Kgs                   81.00 Kgs
+   Description of Goods
+   COMPUTER AND COMPUTER PERIPHERALS
+   Proof of Delivery
+   Date: 02/25/2019                        Time: 15:20                                      Pcs Dlvd: 1                                       Rcvd By: Jeff Wolf
+   Calculator Details
+   Item   Pcs       Length     Width      Height   Units           Lbs               Kgs                CFT                    CM            Type              Numbers & Marks
+
+    1      1           48       40          18         0         147.00             66.68               20.00                  0.57         CARTONS
+   Charges
+   Description                                                                                                                        Qty        Rate                      Charge
+
+   Freight Charges                                                                                                                  1.00         369.7                      369.70
+
+   Fuel Surcharge                                                                                                                   1.00        68.39                        68.39
+
+
+
+
+                                     Terms and Conditions as per Company Website                                                             Total
+
+
+
+                                                           To Ensure Proper Credit, Please Return This Portion With Payment!
+   Bill To
+   SYSTECH SOLUTIONS                                                                                                            Invoice #        : 102474228
+   ONE RESEARCH WAY                                                                                                             Ship Date        : 02/21/19
+   PRINCETON, NJ 08540 USA                                                                                                      Invoice Date     : 03/12/2019
+                                                                                                                                Origin Port      : EWR
+                                                                                                                                Destination Port : MSP
+                                                                                                                                Charges          : $438.09 USD
+   Account #: 10030222                                     Remit To
+                                                           RADIANT GLOBAL LOGISTICS
+                                                           PO BOX 844722
+                                                           Dallas, TX 75284-4722
+
+
+
+
+                                                                                     Page 111
+
+
+CONFIDENTIAL                                                                                                                                                          JLI44353122
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/ntwg0376
+Invoice Number:
+Account Number:
+                                TTN 0000584941
+                                     781526713                                                           OUTBOUND INVOICE
+Invoice Date:                        03/20/2019
+Number of Pages:                          3 of 3
+
+
+
+Waybill            Shipment            Product        Shipper Reference    Origin                                       Destination                                       Pcs / Weight      Weight Extra Charge                             Total
+Number             Date                Code                                Shipper                                      Receiver                                        Wgt Cd Tender /     Charge Description                             Charge
+                                                                                                                                                                                 Billed
+                   02,2842019          P              SO- 952/13300        TTN                                          AMS                                                  4   1,312.00   5,019.63 EXPRESS WORLDWIDE NONDOC               5,019.63
+                                                                           MICHAEL BUSH                                 VINCENT SCHLIEF                                          2,173.00              LITHIUM ION PI966                       0.00
+                                                                           SYSTECH INTERNATIONAL                        MPAC LANGEN                                          4                         OVERSIZE PIECE (WEIGHT)               356.00
+                                                                           1 RESEARCH WAY                               EDISONSTRAAT 14                                      2                         NON STACKABLE PALLET                  430.00
+                                                                           PRINCETON NJ 08540                           WIJCHEN 6604                                                                   DUTIES TAXES PAID                      10.00
+                                                                                                                                                                                                       FUEL SURCHARGE                        420.91
+                                                                                                                                                                            W                                                              6,236.54
+   Proof of Delivery/Name: H RUIS 2019-03-06 13:41                           Event Description: DELIVERY
+   Description of Contents: COMPUTER AND COMPUTER PERIPHERALS                Dimensions: 44.00 x 37.00 x 48.00, 40.00 x 37.00 x 48.00, 44.00 x 37.00 x 48.00, 42.00 x
+                                                                             37.00 x 48.00
+2137522413         03/12/2019          P              SO8240/SPARE PARTS   TTN                                           TMP                                                 1     37.00     233.08 EXPRESS WORLDWIDE NONDOC                 233.08
+                                                                           MICHAEL BUSH                                 MANU PERRNU                                                88.00               EXPORT DECLARATION                     15.00
+                                                                           SYSTECH INTERNATIONAL                        SERVICE POINT KUOPIO OY                                                        FUEL SURCHARGE                         18.06
+                                                                           1 RESEARCH WAY                               VOLTTIKATU 5                                         V                                                               266.14
+                                                                           PRINCETON NJ 08540                           KUOPIO 70700
+   Proof of Delivery/Name: OVASKAINEN 2019-03-18 09:48                       Event Description: DELIVERY
+   Description of Contents: COMPUTER AND COMPUTER PERIPHERALS                Dimensions: 19.00 x 23.00 x 28.00
+3209022950         03/15/2019          P              SO7905/SPARE PARTS   TTN                                           NUE                                                 1     85.00     198.21 EXPRESS WORLDWIDE NONDOC                 198.21
+                                                                           MICHAEL BUSH                                  KARLHEINZ MANDEL                                          85.00               FUEL SURCHARGE                         15.36
+                                                                           SYSTECH INTERNATIONAL                         EXCELLA GMBH & CO. KG                               B                                                               213.57
+                                                                           1 RESEARCH WAY                                NUMBERGER STR 12
+                                                                           PRINCETON NJ 08540                           FEUCHT 90537
+   Proof of Delivery/Name: POLLOTH 2019-03-18 11:23                          Event Description: DELIVERY
+   Description of Contents: COMPUTER AND COMPUTER PERIPHERALS
+Service Subtotal - EXPRESS WORLDWIDE nondoc                                                                                                                                  6   2,346.00   5,450.92                                       6,716.25
+5829843795         03/15/2019          T              SO8283/SPARE PARTS   TTN                                          SYD                                                  1       0.50     18.52 EXPRESS 12:00 DOC                         18.52
+                                                                           MICHAEL BUSH                                 MARC YUMOL                                                   1.00              PREMIUM 12:00                            5.00
+                                                                           SYSTECH INTERNATIONAL                        ASTRAZENCA AUSTRAILIA                                                          FUEL SURCHARGE                           1.82
+                                                                           1 RESEARCH WAY                               47 TALAVERA ROAD                                     B                                                                25.34
+                                                                           PRINCETON NJ 08540                           NORTH RYDE 2113
+   Proof of Delivery/Name: JOHN 2019-03-18 13:44                             Event Description: DELIVERY
+   Description of Contents: MEMO
+Service Subtotal - EXPRESS 12:00 doc                                                                                                                                         1      1.00      18.52                                           25.34
+337735166E.        03/15/2019          X              5O8309/12986         TTN                                          WAW                                                  1       0.50     25.19 EXPRESS ENVELOPE                          25.19
+                                                                           MICHAEL BUSH                                  EWA BALEJA-KRZYZANW                                         0.50              FUEL SURCHARGE                          1.95
+                                                                           SYSTECH INTERNATIONAL                         TAKEDA PHARMA SP. Z.O.O                             B                                                                27.14
+                                                                           1 RESEARCH WAY                               UL. KSIESTWA LOWICKIEGO 12
+                                                                           PRINCETON NJ 08540                           LYSZKOWICE 99-420
+   Proof of Delivery/Name: K MAJCHER 2019-03-18 09:39                        Event Description: DELIVERY
+   Description of Contents: MEMO
+Service Subtotal - EXPRESS ENVELOPE                                                                                                                                          1       0.50     25.19                                           27.14
+                                                                                                                                             Total:                          8   2,347.50   5,494.63                                       6,768.73
+
+
+
+
+Weight Code: A = Customer Actual Weight              V = Customer Volumetric Weight    B = DHL Actual Weight         W = DHL Volumetric Weight                                                                                   Federal ID: 94-3380425
+
+
+
+
+CONFIDENTIAL                                                                                                                                                                                                                       JLI44353123
+NC-JLI-Consent Judgment                                               Source: https://www.industrydocuments.ucsf.edu/docs/ntwg0376
+

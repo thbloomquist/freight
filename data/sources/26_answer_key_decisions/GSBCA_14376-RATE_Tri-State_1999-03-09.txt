@@ -1,0 +1,236 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+                     ______________________________
+ 
+                             March 9, 1999
+                     ______________________________
+ 
+ 
+                            GSBCA 14376-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D.  Norcom, Auditor,  Tri-State  Motor Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        James   F.  Fitzgerald,   Director,  Transportation   Audits
+   Division,  General   Services  Administration,   Washington,  DC,
+   appearing for General Services Administration.
+ 
+        Col. James  F. Quinn,  Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   WILLIAMS, Board Judge.
+ 
+        Claimant asks  that this  Board review  the decision  by the
+   General Services Administration s Office of Transportation Audits
+   (OTA)  denying additional  payment of  $1658.17  for shipment  of
+   water  coolers  which   the  Government  Bill  of   Lading  (GBL)
+   designated  as Freight All  Kinds (FAK).   The GBL  cited as rate
+   authority, and claimant initially based its  invoice on, a tender
+   which was part of  a Standing Route Order (SRO)  and applied only
+   to  certain  named  commodities. Subsequently,  claimant  sent  a
+   supplemental invoice  based upon  a tender covering  FAK.   A GBL
+   Notice  of Correction, which  reclassified the shipment  to state
+   that it  was not  FAK but was  within the scope  of the  SRO, was
+   issued   by   Defense   Contract   Management  Area   Operations,
+   Philadelphia   (DCMAO)   two   months   after   the   claim   was
+   submitted.[foot #] 1     Because   claimant   has  not   met  its
+   burden of proving  that the shipment was  initially misclassified
+   under the SRO, the claim for additional payment is denied.
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1     The Department of  the Army, Military Traffic
+   Management Command (MTMC)  supported OTA s denial based  upon the
+   issuance of the GBL Notice of Correction.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   2
+ 
+                              Background 
+ 
+        On June 16, 1992, claimant picked up a 13,056-pound shipment
+   from  General Electric Corporation in Burlington, New Jersey (GE-
+   Burlington) for delivery  to Ingalls Shipbuilding Corporation  in
+   Pascagoula,  Mississippi  (Ingalls).   The  GBL  stated  that the
+   shipment  was FAK, that  the commodity classification  number was
+   National  Motor Freight  Classification (NMFC)  999912, and  that
+   claimant s  Department  of  Defense  (DOD)  Tender  486  was  the
+   governing rate authority.  This shipment was transported under an
+   SRO,  i.e., a  traffic lane  between  GE-Burlington and  Ingalls,
+   which  covers   only  Electrical   Appliances  and   Instruments,
+   NOI,[foot #] 2   NMFC  61700,   and  Tender   486   was  a   rate
+   authority  under  this  SRO.    The  Defense  Traffic  Management
+   Regulation  (DTMR) states that  [o]rdinarily, SROs will be issued
+   when the  origin, destination, commodity(ies),  and frequency  of
+   shipments constitute a repetitive  traffic pattern.   DLAR4500.3,
+   Paragraph   17-3  (d)  (1986).    The  DTMR  defines   repetitive
+   movements  as two or more shipments per month.  Id. 
+ 
+        The GBL also  stated that  Shipper Furnished Carrier DD Form
+   1907.     That  form,  a   Signature  and  Tally  Record,   cited
+   claimant s Tender 486 under permit number, and FAK as the freight
+   classification description, and contained a handwritten reference
+   to Work Order 523695.  That work order identified the  freight as
+   water coolers. 
+ 
+        Claimant  completed its delivery  on approximately  June 17,
+   1992.   On  approximately June  23,  1992, claimant  submitted an
+   invoice in the amount  of $2029.56 and was paid on  July 9, 1992.
+   Claimant  billed  according  to  Tender  556  and  described  the
+   commodity shipped as water coolers.  Tender 556 is a billing rate
+   under  the same SRO that includes Tender  486 and covers the same
+   items.  It differs from Tender 486 in terms of the equipment used
+   to   transport    the    shipment   and    the    base    billing
+   rate.[foot #] 3
+ 
+        On  approximately  June  16,   1995,  claimant  submitted  a
+   supplemental claim  to the  Defense  Accounting Office,  Norfolk,
+   Virginia,  for  $1658.17, alleging  an  erroneous  computation of
+   charges based  upon a tender  cited in the  GBL which  it claimed
+   applied  neither to  FAK  nor  to water  coolers.   According  to
+   claimant,  NMFC 999912 was  incorrect  in  that  it  was  not  an
+   existing NMFC designation, but rather  the number of a DOD Unique
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2     NOI means not otherwise identified.
+ 
+        [foot #] 3     On July  11,  1993, OTA  determined that  the
+   claimant  had been overpaid  $425 by billing  according to Tender
+   556  rather  than 486  and  collected that  amount  plus interest
+   through a setoff.  That action is not at issue in this claim.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   3
+ 
+   Code (DODUC) description and claimant offered no rates whatsoever
+   under   DODUC   999912.[foot #] 4      On   August   28,    1995,
+   DCMAO  issued  a  GBL Correction  Notice  changing  the commodity
+   classification number  of the shipment  from NMFC 999912  to NMFC
+   61700, Electrical Appliances or Instruments, NOI. 
+ 
+        On  August 14,  1997, OTA  disallowed the claim  and advised
+   claimant  that   the  reason   for  the   disallowance  was   the
+   reclassification  of  the shipment  because, as  a result  of the
+   reclassification,  the  shipped items were   specifically covered
+   by  the SRO and subject to the  rates claimant offered under that
+   SRO.
+ 
+        MTMC supported  OTA s denial  of this  claim and  determined
+   that the  shipment contained water coolers  under GE-Burlington s
+   contract with the Department of the Navy for    Water Cooler  for
+   the  Aegis Weapon System (Submarines).   MTMC further ascertained
+   that claimant was the first alternate carrier on the SRO and that
+    the  same commodity  as shipped  in  this case  was tendered  to
+   [claimant]  by the  shipper  on  numerous  occasions,  under  the
+   existing SRO, between the same origin and destination.   Claimant
+   did not offer evidence to the contrary.[foot #] 5 
+ 
+                               Discussion
+ 
+        Claimant  contends  that  either FAK,  or  a  specific water
+   cooler  designation --  both of  which  would be  subject to  the
+   higher  FAK  rate  --  rather  than   Electrical  Appliances  and
+   Instruments,  NOI  -- is  the appropriate classification  for the
+   shipment of water  coolers, and that,  therefore, the higher  FAK
+   rate should govern the  shipment.  This  claim fails for lack  of
+   proof.
+ 
+        It  is fundamental  that the  burden is  on the  claimant to
+   establish the liability  of the agency, and  the claimant s right
+   to payment.  Tri-State Motor Transit Co.,  GSBCA 13741-RATE, 97-2
+   BCA   29,286, at 145,713,  quoting 48 CFR 6103.1(b); accord, Tri-
+   State Motor  Transit Co.,  GSBCA 13743-RATE, 97-2  BCA    29,068.
+   Here, claimant admits  that the coolers themselves have "not been
+   sufficiently described for claimant to  determine what particular
+   type of  water cooler was  shipped."  As  such, claimant  has not
+   offered sufficient  proof that  the  coolers in  the shipment  at
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 4     Claimant  does  publish   rates  under  DODUC
+   999913 FAK,  and  that is  what it  sought to  substitute as  the
+   proper classification on its supplemental invoice.
+ 
+        [foot #] 5     It appears  that  on November  26, 1997,  OTA
+   issued  a  Certificate  of  Settlement  allowing  the  additional
+   payment  but  subsequently  rescinded the  order.    Claimant was
+   apparently not notified of either action.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   4
+ 
+   issue   were   misclassified   as    Electrical   Appliances   or
+   Instruments, NOI,  NMFC  61700.  Claimant has  identified several
+   commodity  classification  numbers  within  the National  Freight
+   Motor   Carriers  classification  scheme  which  refer  to  water
+   coolers, which would be billable  under the FAK rate claimed, and
+   which  it suggests  would be more  suitable designations  for the
+   water coolers in  question than the 61700   Electrical Appliances
+   and   Instruments,  NOI.     However,  claimant  has  offered  no
+   persuasive  evidence to  demonstrate that  any  of its  suggested
+   classifications  have greater  merit  than the  one  used by  the
+   Government.
+ 
+        The  fact that the  Interstate Commerce Commission  has held
+   that the "NOI" description should apply only in the absence  of a
+   more  specific  description  does  not  establish  the  requisite
+   factual  premise to  cause the  coolers to  be classified  in one
+   particular category  as opposed to  another.  Nor does  the GBL's
+   description of  the items  as FAK require  a conclusion  that the
+   items were  in fact  FAK.  This  Board has  frequently recognized
+   that an erroneous  entry on a GBL  may later be rectified.   Tri-
+   State Motor Transit Co., GSBCA  14262-RATE, 98-1 BCA   29,416, at
+   146,126; C. I. Whitten Transfer Co., GSBCA 13911-RATE, 97-1 BCA  
+   28,860,  at 143,990-91;  see also  Tri-State  Motor Transit  Co.,
+   GSBCA 13886-RATE, 97-1 BCA   28,941, at 144,212.
+ 
+        Further, these  items were  shipped under  an SRO,  which is
+   premised on repetitive movement of the same commodity between the
+   same two points, and claimant had transported the  same commodity
+   on  numerous  occasions   from  the  same  shipper  to  the  same
+   destination under the SRO in  question and under the tender rates
+   contained in the SRO.  There is no proof in the record that these
+   repetitive  shipments of the  same commodity under  this SRO were
+   misclassified.
+ 
+        Finally,  in  issuing  its GBL  Notice  of  Correction, some
+   thirty-eight months after the shipment was  made, DCMAO sought to
+   clarify that the water coolers at issue were  properly classified
+   as "Electrical Appliances and Instruments, NOI" and not FAK.   We
+   note  that the  Notice of  Correction standing  alone  and coming
+   after  the  filing of  the instant  claim does  not in  this case
+   definitively  establish the  proper classification  of  the water
+   coolers  in  question.    Rather,  our  decision  is  based  upon
+   claimant's failure to  meet its burden of proving  that the water
+   coolers were misclassified.
+ 
+                                Decision
+ 
+        Claimant  has  not  demonstrated  entitlement to  additional
+   payment and its claim is, therefore, denied.
+ 
+                                                                   5
+ 
+ 
+   ________________________________
+                                      MARY ELLEN COSTER WILLIAMS
+                                      Board Judge

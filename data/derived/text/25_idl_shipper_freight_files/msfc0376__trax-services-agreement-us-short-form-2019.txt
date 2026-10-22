@@ -1,0 +1,874 @@
+                                                 SERVICES AGREEMENT
+       This Services Agreement is made and entered into as of                 , 2019 (the "Effective Date") by and
+       between TRAX RETAIL, INC., a Delaware corporation, having its principal offices at 1960 Satellite Blvd, Suite
+       4100, Duluth, Georgia 30097 ("Trax"); and              , a corporation organized and existing under the laws
+       of                , having its principal offices at           (the "Customer").
+       WHEREAS, Trax owns a platform for the collection of images and data by third party's users ("Crowd
+       Platform");
+       WHEREAS, Trax has developed a proprietary image recognition platform for in shelf tracking and in-store
+       execution service;
+       WHEREAS, Trax makes available such platform and related services to its customers on a software-as-a-service
+       (SaaS) basis; and
+       WHEREAS, Customer desires to obtain, and Trax desires to grant to Customer, the right to access and use such
+       platform and services, in accordance with the terms and conditions set out in this Agreement and in the respective
+       SOW(s).
+       NOW, THEREFORE, the parties have agreed as follows:
+       1.      DEFINITIONS
+       1.1     In this Agreement, unless the context otherwise requires or expressly stated otherwise: singular terms
+               include the plural and vice versa; the words "include" and "including" will not be construed as terms of
+               limitation; each of Trax and Customer is a "party" and together the "parties".
+       1.2     When used in this Agreement, the capitalized terms below shall have the following meanings:
+              "Agreement" means this agreement and all exhibits attached hereto.
+              "APIs" means application programming interface which is a set of routines, protocols, and tools that allow
+              third parties to send Trax image data and/or Customer Content for processing and to receive Deliverables
+              from Trax, as described in Trax developers' site at https://services.traxretail.com.
+              "Brand Hunt" means a service of initial category creation and setup which is done by registering all the
+              category's SKUs and their reference data.
+              "Brand Watch" means a service which includes a continuous in-market tracking of the covered categories
+              and brands for new SKUs and designs to maintain the most up-to-date product repository.
+              "Business Day" means a day on which commercial banks are open for business in Singapore and the
+              respective Territory as agreed in the relevant SOW.
+              "Change" has the meaning specified in Section 2.4 below.
+              "Change Request" has the meaning specified in Section 2.4 below.
+              "Confidential Information" has the meaning set forth in Section 9.1.
+              "Customer Application" means software developed by the Customer.
+              "Customer Content" means all of Customer's data, information, text and images to the extent that these
+              are (i) related to Customer's SKUs, and (ii) uploaded or routed to the System by Customer or transmitted
+              by Customer to Trax while using the Services.
+              "Deliverables" means the analysis and reports being the output of Services provided by Trax to Customer
+              under this Agreement that relate specifically to the Customer Content. For the avoidance of doubt,
+              "Deliverable" does not include the System or Services or any Intellectual Property Rights of Trax or
+              tangible embodiments thereof.
+              "Documentation" means the documentation which is provided by Trax as part of the Services, which may
+              include user guides, installation instructions and training materials, but excluding Trax's source code.
+              "Crowd" means third-party users of the Crowd Platform for collection of images and data.
+
+
+
+
+CONFIDENTIAL                                                                                                     J1141686422
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+               "Intellectual Property Rights" means all intellectual, moral, industrial and/or proprietary rights
+               recognized under any applicable law anywhere in the world, whether issued or pending, registered or
+               unregistered, including without limitation: (i) all forms of patents; (ii) rights to inventions and discoveries
+               (whether patentable or not); (iii) copyrights and neighboring or related rights; (iv) trademarks, business
+               names, logos, service marks, trade names and domain name registrations; (v) design rights (whether or not
+               capable of registration); (vi) database rights; (vii) trade secrets and all rights in know-how, Confidential
+               Information or proprietary information; (viii) rights in get-up and trade dress, goodwill and the right to sue
+               for passing off or unfair competition; and (ix) any rights analogous to those mentioned herein; all
+               derivative works thereof; and any current or future applications, renewals, extensions, continuations,
+               divisions, re-exams and reissues thereof.
+               "Services" has the meaning specified in Section 2.1 below.
+               "Services Fees" has the meaning specified in Section 4.1 below.
+               "SKU" means a Stock Keeping Unit - a unique identifier or code that refers to Customer's products or
+               items sold at a Store.
+                "SOW" means a Scope of Work as further specified in Section 2.1 below.
+               "Store(s)" means a retail store(s) in which the SKUs are sold.
+               "System" means, collectively, (a) X-Suite Platform (including Trax Mobile Application), (b) the API, (c)
+               the Crowd Platform, and (d) all Updates.
+               "Territory" means the site(s), Stores, region(s), country or countries set out in the respective SOW.
+               "Trax Mobile Application" means Trax's proprietary mobile application, including any Updates thereto,
+               that is intended for installation on the Users' mobile devices for the purpose of enabling access to, and use
+               of, the X-Suite Platform.
+               "X-Suite Platform" means Trax's proprietary multi-module web platform, including any Updates thereto,
+               which may be made available to Customer as part of the Services, as set forth in the applicable SOW(s),
+               and is intended to provide Customer the ability to set events and targets and to review, configure, track
+               and monitor the Customer Content and/or the Deliverables, depending on the modules chosen by
+               Customer as set out in the applicable SOW(s).
+               "Update(s)" means a modification or an upgrade to the System, which incorporates corrections of errors
+               and/or which provides functional or performance improvements and/or enhancements, made by Trax from
+               time to time without notice to Customer, as part of maintenance services for the System.
+               "User" means each individual end user whom Customer has authorized to use the Trax Mobile
+               Application, X-Suite Platform and/or Services, as designated by Customer, and who have been issued user
+               IDs and passwords by Trax. Users may include Customer's employees, contractors and agents.
+       1.3      The following Exhibits are incorporated into this Agreement and shall be deemed to be an integral part
+                hereof:
+                Exhibit "A" - Statement of Work.
+                Exhibit "B" — Change Request Form.
+                Exhibit "C" — Professional Services Terms and Conditions.
+       2.       THE SERVICES
+       2.1      Statements of Work. Subject to the terms and conditions of this Agreement and conditioned upon
+                Customer's compliance therewith (including, without limitation, the payment of the Services Fees), Trax
+                will provide Customer with the services set out in Statement of Work(s) executed by the parties from time
+                to time during the Term (each, an "SOW") and attached to this Agreement as subsequently numbered
+                SOWs (collectively, the "Services"). Each SOW shall reference this Agreement, shall be deemed to
+                incorporate the terms and conditions of this Agreement, and will be binding on the parties only upon the
+                execution by the duly authorized signatories of both parties. In case of any inconsistency or contradiction
+       Confidential                             Page 2
+
+
+
+
+CONFIDENTIAL                                                                                                         JLI41686423
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+             between the provisions of this Agreement and the provisions of an SOW, the provisions of this Agreement
+             shall prevail as to the subject matter of such inconsistency or contradiction. The Services shall be utilized
+             by Customer (or by its affiliates listed in Annex 2.1 attached hereto) solely in connection with Customer's
+             authorized use of the X-Suite Platform.
+       2.2   Configuration. As part of the Services, if applicable, Customer may make certain configuration to some of
+             the features/functionalities of the X-Suite Platform, including without limitation, configuration and
+             updates made by Customer in connection with the Stores, SKUs, routes or Users (the "Configuration").
+             Customer acknowledges that Trax will provide the Services to Customer based on and in reliance on the
+             Configuration without any investigation of any kind of the Configuration, including without limitation, its
+             accuracy, completeness, fitness for Customer's needs or otherwise. It is agreed that Trax shall not be liable
+             for any loss, expense or damage incurred or suffered by Customer or any other third party arising out of or
+             in connection with the Configuration or any Services based on the Configuration, and Customer shall have
+             no claim and/or demand with respect thereof.
+       2.3   User IDs and Passwords. Customer will be required to register in order to access and use the Services. As
+             part of the registration process, Customer will be required to designate the Users and provide such contact
+             information, provided that Customer will not provide to Trax any personal data, but will provide solely
+             the necessary unidentifiable details of the Users for access credentials to the X-Suite Platform, i.e. work
+             email address and either forename or surname. Customer will not permit any person to use a User's
+             credentials, whether for access to the X-Suite Platform and Services or otherwise, unless it is such User's
+             own credentials. Customer shall implement appropriate security measures and access procedures to
+             ensure that the X-Suite Platform and Services are accessed only by Users. Customer is responsible for
+             maintaining the confidentiality of all user credentials and passwords, and agrees not to transfer or disclose
+             such User IDs and passwords to any third-party. Customer agree to immediately notify Trax of any
+             unauthorized use of User IDs, passwords, or any other breach of security related to Customer's account.
+             Trax shall not be liable for any loss or damage arising from Customer's failure to comply with any of the
+             foregoing obligations.
+       2.4   Change Requests.
+             (a)     Customer may request a change in the scope of Services, including different and/or additional
+             Deliverables (a "Change"), by submitting details of such requested Change to Trax in the change request
+             form attached hereto as Exhibit B ( a "Change Request").
+             (b)     Trax shall, within a reasonable time, provide a written estimate to Customer of: (i) the time likely
+             to be required to implement the Change; (ii) any variations to the Services Fees required in order to
+             implement such a Change; (iii) any further information required by Trax in order to implement the
+             Change; and (iv) any other effect the Change might have on this Agreement and/or the respective SOW.
+             (c)     Trax may, at its sole discretion, accept or reject a Change Request for any reason, and in no event
+             shall be obligated to accept and/or implement any such Change Request (or any part thereof).
+             (d)     Each Change Request, once executed by the parties' duly-authorized representatives, and this
+             Agreement shall constitute the entire agreement between the parties relating to a particular Change
+             Request. In case of any inconsistency or contradiction between the provisions of this Agreement and the
+             provisions of a Change Request, the provisions of this Agreement shall prevail as to the subject matter of
+             such inconsistency or contradiction.
+       2.5   Professional Services. Customer and Trax may, from time to time, agree on the provision of advanced
+             services by Trax to Customer by executing a work order in a form acceptable to Trax (the "Professional
+             Services"). Professional Services may include the modification or customization of any part of the
+             System, the provision of certain technical assistance, including with respect to integration, customization
+             or data migration in connection with the System, or the provision of other services. Any Professional
+             Services will be set forth in writing in such work order and will be subject, in addition to the terms and
+             conditions of this Agreement, to the terms and conditions set out in Exhibit C.
+       3.    GRANT OF RIGHTS; RESTRICTIONS
+
+
+
+
+CONFIDENTIAL                                                                                                      JLI41686424
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+       3.1      Grant of Rights. Subject to the terms and conditions of this Agreement and conditioned upon Customer's
+                compliance therewith (including payment by Customer of all Services Fees), Trax grants to Customer a
+                personal, non-exclusive, revocable, non-transferable and non-sublicensable limited right, during the Term,
+                to permit Users to: (i) install the Trax Mobile Application on mobile devices owned by Customer or Users
+                or connect the Customer Application to the X-Suite Platform via the API (if applicable); (ii) use the Trax
+                Mobile Application on such devices solely for purposes of accessing the X-Suite Platform, to the extent
+                included as part of the Services, as set forth in the applicable SOW(s) in order to enable the provision of
+                the Services to Customer, and (iii) access, review and print the Deliverables on the X-Suite Platform via a
+                browser (or through the API if applicable); all solely for Customer's own internal business operations
+                within the Territory, up to the usage capacity set forth in the applicable SOW(s), and in accordance with
+                the Documentation.
+       3.2     Use Restrictions. Customer shall not (and shall not permit any third party to): (a) copy, modify, adapt,
+               translate, or create derivative works based on the System or Services (or any part thereof), except as
+               expressly permitted in this Agreement; (b) decompile, disassemble, decode or otherwise reverse engineer
+               or attempt to discover any source code, algorithms, methods or techniques used or embodied in the
+               System or Services (or any part thereof), except as and only to the extent any of the foregoing restrictions
+               are specifically prohibited by applicable law or by the applicable licensing terms governing use of any
+               open source components included with the System (with respect to the respective open source components
+               governed thereby); (c) loan, rent, lease, sublicense, resell, distribute or otherwise transfer or allow access
+               to the System or Services (or any part thereof) to any third party, or use the System or Services (or any
+               part thereof) for a commercial timesharing, service bureau or outsourcing arrangement; (d) access or use
+               the System or Services to develop or offer a competing product or service, or for any benchmarking or
+               competitive purposes; (e) use the System or Services to create, edit or display materials or content other
+               than Customer Content; (f) use the System or Services to transmit, store or display any content that is
+               defamatory, obscene or fraudulent, violates any law or regulation or infringes any third party Intellectual
+               Property Rights; (g) interfere with or disrupts the System or any services or offerings of Trax or any
+               associated servers or networks; (h) create any unauthorized Internet "links" to the System or Services, or
+               "frame" or "mirror" any content of the System or Services on any other server or device; (h) copy any
+               ideas, features, functions or graphics of the System or Services; (i) remove or alter any legal or proprietary
+               notices, patent numbers, trademarks, trade names or other identifying marks, symbols or legends included
+               in and/or otherwise affixed to the System or Services; (j) represent to any third party that Customer
+               possesses any proprietary interest in the System or Services (or any part thereof); or (k) access or utilize
+               the System or Services in any manner inconsistent with or not expressly allowed under this Agreement.
+               Customer acknowledges and agrees that Trax has the right, from time to time, to conduct an electronic
+               audit with respect to Customer's use of the System and Services and its compliance with the terms and
+               conditions of this Agreement and any SOW.
+       3.3      Responsibility for Users. Customer shall ensure that any Users accessing or using the System and/or
+                Services will do so strictly in accordance with the terms and conditions of this Agreement. Any use of the
+                System or Services by a User contrary to the provisions of this Agreement will be deemed as a breach by
+                Customer of this Agreement. Further, Customer shall notify Trax promptly and in writing if Customer
+                suspects or becomes aware of any unauthorized access to, or use of, the System or Services.
+       3.4      Suspension of Access. If Trax is made aware or believes in good faith that Customer's or Users' conduct,
+                or any Customer Content, may (a) violate the terms of this Agreement, (b) violate any law, regulation or
+                rights of a third party, including without limitation Intellectual Property Rights, (c) pose a security risk to
+                the System or any users of the System, or (d) subject Trax or any third party to liability, then Trax may
+                (but is not obligated to) immediately disable or suspend Customer's access to the System and Services (or
+                take other actions as may be required to comply with applicable law) without any notice to Customer.
+       4.       FEES, TERMS OF PAYMENT AND TAXES
+       4.1      Services Fees. In consideration of the Services, Customer shall pay Trax the amounts set forth in the
+                respective SOW(s) (the "Services Fees"). All Services Fees incurred by Customer under this Agreement
+                shall be: (a) paid in US Dollars (unless otherwise set forth in the respective SOW), and (b) paid within
+
+       Confidential                              Page 4
+
+
+
+
+CONFIDENTIAL                                                                                                          JLI41686425
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+             thirty (30) days from the date of issuance of the invoice to Customer. All Services Fees paid to Trax are
+             non-refundable.
+       4.2   Late Payment. Trax may charge interest on overdue payment of Services Fees at a rate equal to the lower
+             of: (a) one and one half percent (1.5%) per month; and (b) the maximum rate allowed by applicable law
+             (the "Interest"). Such Interest shall be payable as of the due date for such overdue payment of Services
+             Fees until payment is received by Trax (whether before or after judgment), accruing on a daily basis and
+             compounding monthly, and shall be without prejudice to any other rights and remedies afforded to Trax
+             under this Agreement and/or under any applicable law.
+       4.3   No Set-Off. Customer shall not be entitled to withhold or delay any payment due to Trax hereunder, and
+             shall not set-off or deduct therefrom any amounts whatsoever.
+       4.4   Failure to Pay. Notwithstanding anything to the contrary, Customer's failure to pay, for any reason,
+             Services Fees within thirty (30) days of the due date for such Services Fees, shall constitute a material
+             breach by Customer of this Agreement and of the respective SOW, entitling Trax to terminate (or at Trax's
+             sole discretion, suspend) this Agreement and any of the respective SOWs, without having to refer such
+             breach to a dispute mechanism in accordance with the provisions of Section 11.2 below, and without
+             prejudice to any other rights and remedies afforded to Trax under this Agreement and/or under any
+             applicable law.
+       4.5   Taxes. Each party shall enter into this Agreement on the basis that resident state of Customer shall not
+             levy any Taxes (as defined below) on the Services Fees for the Services provided by Trax under this
+             Agreement. If, contrary to the foregoing, resident state of Customer imposes any Taxes, such Taxes shall
+             be paid and borne by Customer. For the avoidance of doubt, all Services Fees invoiced under this
+             Agreement shall be net and are exclusive of all current and future Taxes and shall be paid in full to Trax.
+             In this regard, Trax shall take reasonable steps to support Customer in mitigating any Taxes on the
+             Services Fees for the Services provided by Trax under this Agreement, if and to the extent that the same is
+             possible under applicable laws and regulations, which if found to be applicable, the appropriate amount of
+             Taxes shall be invoiced to and paid by Customer. For the purpose of this Agreement, "Taxes" means any
+             and all present and future sales, use, personal property, customs, VAT, turnover, stamp, interest
+             equalization, income, profits or gains, gross receipts, or other taxes, levies, imposts, duties, fees or
+             withholdings together with any penalties, fines, surcharges or interest thereon imposed, levied, or assessed
+             by, or otherwise payable to, any government entity or authority.
+       5.    CUSTOMER CONTENT
+       5.1   Customer Responsibility. Customer shall be responsible to provide complete, timely and accurate
+             Customer Content in the format and manner as required by Trax (in an SOW or otherwise) for the
+             performance of the Services. Customer will be responsible for, and assumes the risk of, any problems
+             resulting if the Customer Content does not conform to the foregoing. Trax will not be obligated or
+             expected to validate any of the Customer Content for correctness, completeness or usability. Trax will
+             notify Customer of nonconforming Customer Content and will afford Customer the opportunity to modify
+             the Customer Content to satisfy Trax's requirements to perform the Services. If Trax becomes aware or
+             believes that any Customer Content may be obscene, defamatory or fraudulent, violate any law or
+             regulation or infringe any third party rights, including Intellectual Property Rights, Customer shall
+             immediately remove such Customer Content from the System. Customer shall be responsible (at its
+             expense and without any liability to Trax) to connect its devices to the System via the API in accordance
+             with the instructions provided on Trax developers' site and as instructed by Trax.
+       5.2   Customer's Representations. Customer hereby represents, warrants and covenants that: (a) Customer is
+             the owner or authorized licensee of the Customer Content (and Customer Application, if applicable), and
+             has secured all necessary licenses, consents, authorizations and waivers for the use of the Customer
+             Content, including all text, images, audio, video, logos and trademarks contained therein, and there are no
+             conflicting claim(s) with respect to Customer's rights thereto; (b) the Customer Content and the use
+             thereof do not infringe upon any third party's rights, including privacy rights, proprietary rights or any
+             Intellectual Property Rights, and is not obscene, defamatory or fraudulent; (c) during the Term, and at all
+             times during Customer's use of the Services, Customer shall comply with all laws, rules and regulations
+
+
+
+
+CONFIDENTIAL                                                                                                     JLI41686426
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+                relating to the Customer Content; and (d) Customer Content will not include, and Customer will not
+                otherwise submit through the System or Services, any personally-identifiable information, any sensitive
+                data about personal characteristics or any other personal data. If Customer breaches any of the
+                representations and warranties contained in this Section 5.2, Trax may, in addition to any other rights or
+                remedies it may have in law or equity or under this Agreement, exercise its right to terminate this
+                Agreement in accordance with the provisions of Section 10.3 below. Customer shall indemnify, defend,
+                and hold harmless Trax, its affiliates, and their respective directors, officers, employees and agents, from
+                and against any loss, cost, expense (including attorneys' fees) or liability, resulting from or arising out of
+                any third party claim based on a breach or alleged breach of any representation or warranty contained in
+                this Section 5.2. Trax shall be entitled to recover from Customer all amounts payable to the indemnified
+                parties under this Section on their behalf.
+       5.3      Archival of Content. Trax shall be entitled to (a) delete or archive any images provided to Trax or
+                uploaded to the System by Customer or otherwise in connection with the Services following the lapse of
+                two (2) years as of the upload of such images; and (b) archive (with an option to retrieve) any data and
+                information in connection with the Services, provided that such data archiving shall not interfere with
+                ongoing Services.
+       6.       REPRESENTATIONS AND WARRANTIES
+       6.1      By Both Parties. Each party hereby represents and warrants that:
+                (a)     it has all requisite corporate power and authority to execute, deliver, and perform its obligations
+                        under this Agreement;
+                (b)     it shall comply with all applicable laws, statutes, regulations and codes relating to anti-bribery and
+                        anti-corruption, including the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act 2010;
+                (c)     this Agreement is a valid and legally binding obligation thereon, enforceable against it in
+                        accordance with its terms; and
+                (d)     nothing contained in this Agreement, nor the performance thereof, shall place it in breach or
+                        default of any other obligation, commitment or agreement, or any law or regulation, by which it is
+                        bound or to which it is subject, or requires the consent of any person or entity.
+       6.2      By Customer. In addition, Customer hereby represents and warrants that (a) it is the ultimate end user of
+                the Services and that it is aware that the Services may only be used for Customer's own internal business
+                operations within the Territory; and (b) Customer shall not use the Services to conduct any illegal activity,
+                or engage in any other activity which infringes upon the Intellectual Property Rights or other rights of
+                Trax or any third party.
+       6.3      Disclaimer. EXCEPT ONLY TO THE EXTENT EXPRESSLY SET FORTH OTHERWISE IN THIS AGREEMENT OR IN
+                AN SOW, THE SYSTEM, SERVICES, PROFESSIONAL SERVICES (IF APPLICABLE) AND ANY DELIVERABLES
+                PROVIDED UNDER THIS AGREEMENT ARE PROVIDED BY TRAX ON AN "AS-IS" BASIS, AND ALL OTHER
+                CONDITIONS, WARRANTIES (OF ANY KIND OR NATURE, WHETHER WRITTEN OR ORAL) OR OTHER TERMS
+                WHICH MIGHT HAVE EFFECT BETWEEN THE PARTIES OR BE IMPLIED OR INCORPORATED INTO THIS
+                AGREEMENT, WHETHER BY STATUTE, LAW OR OTHERWISE, ARE HEREBY EXCLUDED, INCLUDING THE
+                IMPLIED CONDITIONS, WARRANTIES OR OTHER TERMS AS TO SATISFACTORY QUALITY, MERCHANTABILITY,
+                FITNESS FOR A PARTICULAR PURPOSE, THE USE OF REASONABLE SKILL AND CARE OR NON-INFRINGEMENT
+                OF THIRD PARTY RIGHTS. In addition, Trax expressly disclaims any implied warranty with respect to
+                liability for compliance with laws, regulations, or other official government releases applicable to
+                Customer, which shall be the sole responsibility of Customer. Customer expressly agrees that Trax does
+                not represent or warrant that the operation or use of the System or Services (or Professional Services, if
+                applicable) will be accurate, uninterrupted or error-free or that the Trax Mobile Application will operate
+                on mobile devices other than those tested by Trax. Customer acknowledges and understands that Trax
+                uses a crowd-sourced workforce of individuals used solely to provide data by answering surveys and
+                taking photos in-store, and Customer agrees that the Crowd shall not be deemed agents or contractors of
+                Trax for purposes of this Agreement.
+
+       Confidential                              Page 6
+
+
+
+
+CONFIDENTIAL                                                                                                         JLI41686427
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+       6.4   Internet Failures. Customer acknowledges that Trax does not, and cannot, control the flow of data to or
+             from Customer's Internet hosts and other portions of the Internet. Accordingly, Trax disclaims any and all
+             liability resulting from or related to disruptions or impairments of Customer's connection to the Internet.
+       7.    LIMITATION OF LIABILITY
+       7.1   Limitation of Liability. IN NO EVENT SHALL TRAX BE LIABLE FOR (A) ANY SPECIAL, INDIRECT OR
+             CONSEQUENTIAL LOSSES AND/OR PUNITIVE DAMAGES, LOSS OF OR DAMAGE TO DATA, LOSS OF REVENUES,
+             LOSS OF PROFITS, LOSS OF GOODWILL, AND/OR (B) ANY THIRD PARTY CLAIMS AGAINST CUSTOMER ARISING
+             OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT AND/OR ANY SOW, REGARDLESS OF THE BASIS FOR
+             LIABILITY OF ANY SUCH CLAIM (WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE),
+             BREACH OF STATUTORY DUTY OR OTHERWISE), EVEN IF INFORMED OF SUCH DAMAGES. TRAX'S MAXIMUM
+             CUMULATIVE LIABILITY UNDER THIS AGREEMENT, INCLUDING LIABILITY ARISING OUT OF SERVICES
+             PERFORMED AND/OR FROM ANY DELIVERABLES PROVIDED, WILL BE LIMITED TO THE TOTAL AMOUNT OF
+             SERVICES FEES ACTUALLY PAID BY CUSTOMER TO TRAX UNDER THE SPECIFIC SOW FROM WHICH THE
+             LIABILITY ARISES DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE DATE ON WHICH THE EVENT
+             GIVING RISE TO LIABILITY OCCURRED, EXCLUDING AMOUNTS ALREADY PAID BY TRAX UNDER THE SAME
+             SOW FOR ANY PREVIOUS LIABILITIES. THE LIMITATIONS OF LIABILITY CONTAINED IN THIS AGREEMENT
+             SHALL BE APPLICABLE EVEN IF ALL OTHER REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE. The limitations
+             of liability set forth in this Section 7 shall also apply to the benefit of Trax's and Trax's affiliates'
+             directors, officers, employees and agents.
+       7.2   Exclusions. Notwithstanding the foregoing, nothing in this Agreement shall limit either party's liability
+             for: (a) fraud, fraudulent misstatement or fraudulent misrepresentation; or (b) any liability which may not
+             be excluded by law.
+       8.    PROPRIETARY RIGHTS
+       8.1   System and Services. All right, title, and interest in and to the System, Services, API, Professional
+             Services and Documentation, including all Intellectual Property Rights therein, are and shall remain the
+             sole and exclusive property of Trax. Customer is granted no title or ownership rights in or to the System or
+             Services. All rights not expressly granted to Customer in this Agreement are retained by Trax. Without
+             derogating from the above, Trax reserves all right, title and interest in and to: (a) all designs, engineering
+             details and other data pertaining to the System and Services, (b) all original works, computer programs,
+             discoveries, inventions, patents, know-how, and techniques arising out of, and/or products developed as a
+             result of, the Services, and (c) all data, information, text, images and other content that are uploaded to the
+             System or generated by Trax          the Crowd in connection with the Services. The System and Services
+             contain trade secrets of Trax, including the source code version and the specific design of the System.
+       8.2   Deliverables. Subject to Section 8.1, upon payment by Customer in full of all applicable Services Fees,
+             all right, title, and interest in and to the Deliverables shall pass to and vest in Customer.
+       8.3   Customer Content. Customer will retain sole and exclusive ownership of the Customer Content and
+             Customer Application (if applicable), including all Intellectual Property Rights related thereto. Customer
+             hereby grants to Trax a non-exclusive, worldwide, fully paid-up and royalty-free, fully transferable and
+             sublicensable right and license to use, modify, reproduce, publicly display, distribute, store, collect, copy,
+             transmit, process, and create derivative works of the Customer Content (i) for the purpose of performing
+             its obligations under this Agreement, including without limitation to provide and make available the
+             Services to Customer during the Term; (ii) to provide support and help prevent or address technical or
+             other Services-related issues; (iii) as otherwise permitted by Customer in writing; (iv) as required by
+             applicable laws, rules, or regulations; and (v) to learn from and use the Customer Content to develop,
+             create, enhance, improve, optimize, and maintain the Services and Trax's other related products and
+             services, including without limitation, by learning from and using the Customer Content to train, enhance,
+             improve, optimize, and maintain Trax's artificial intelligence and machine learning algorithms (and
+             develop and create new algorithms) and create other derivative data (collectively "Derivative Data").
+             Such license will: (A) with respect to the Customer Content itself, be limited to the Term; and (B) with
+             respect to any Customer Content that may be included in Trax's Derivative Data, be perpetual. Without
+             limiting the generality of the foregoing, Customer hereby represents and warrants that it has all necessary
+
+
+
+
+CONFIDENTIAL                                                                                                       JL141686428
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+                rights and authorities to authorize Trax to collect, use, disclose and otherwise process Customer Content
+                for the purposes described in this Agreement. For the avoidance of doubt, all data, information, text,
+                images and other content that are uploaded to the System or generated by Trax or the Crowd, including via
+                the use of Brand Watch and/or Brand Hunt, shall be solely and exclusively owned by Trax.
+       8.4      Infringement. Customer shall promptly notify Trax in writing of any (actual or foreseen) infringement or
+                other violation of Trax's Intellectual Property Rights of which Customer becomes aware. Trax shall have
+                the sole and exclusive right to protect and defend Trax's Intellectual Property Rights. Customer shall
+                reasonably cooperate with Trax in the defense and protection of such Intellectual Property Rights.
+       8.5      Use of Marks for Marketing Purposes. Each party shall be entitled to use the other party's trademarks,
+                trade names, logos and symbols in its marketing materials and activities.
+       8.6     Feedback. If Customer provides Trax with any suggestions, ideas, feedback, error identification or other
+               information related to the System or Services or any other technology, products or services of Trax (a
+               "Feedback"), Trax will be free to use and incorporate any and all such Feedback without any restrictions
+               and without any obligation or compensation to Customer.
+       9.       CONFIDENTIALITY
+       9.1      Confidential Information. As used in this Agreement, "Confidential Information" means information, in
+                whatever form disclosed, provided by or on behalf of either party (the "Disclosing Party") to the other
+                party (the "Receiving Party"), or to which the Receiving Party otherwise gains access, in the course of or
+                incidental to the performance of this Agreement and the Services, and that is either marked or identified as
+                confidential or proprietary or should reasonably be understood by the Receiving Party because of the
+                circumstances of disclosure or the nature of the information itself to be proprietary and confidential to the
+                Disclosing Party. Without derogating from the generality of the foregoing, the System shall be deemed as
+                Confidential Information of Trax.
+       9.2     Non-Disclosure. The Receiving Party agrees to hold in strict confidence the Confidential Information of
+               the Disclosing Party, and to refrain from copying, distributing, disseminating or otherwise disclosing such
+               Confidential Information to any person or entity, other than to those of its employees, if and to the extent
+               that such employees have a need to know such Confidential Information for the purpose of Receiving
+               Party's performance of this Agreement, and provided that such employees are bound by written agreement
+               to abide by all the obligations concerning such Confidential Information contained in this Agreement.
+       9.3     Non-Use. The Receiving Party undertakes not to use the Confidential Information of the Disclosing Party
+               for any purposes other than for the purposes of performing this Agreement. Without derogating from the
+               generality of the above, Customer undertakes not to use, directly or indirectly, the Confidential
+               Information of Trax in the development and/or sale of products having the same or similar functions as the
+               System, for itself or for a third party.
+       9.4      Exclusions. The confidentiality obligations of the Receiving Party regarding the Disclosing Party's
+                Confidential Information shall not apply to Confidential Information which: (a) is or becomes part of the
+                public domain without fault on the part of the Receiving Party; (b) is lawfully obtained from a source
+                other than the Disclosing Party, which source is free of any obligation to keep the same confidential; (c) is
+                previously known to the Receiving Party without an obligation to be kept confidential, as can be
+                substantiated by its written and dated records; (d) was independently developed by the Receiving Party,
+                without use of the Disclosing Party's Confidential Information, as can be substantiated by written and
+                dated records; (e) is expressly released in writing from such obligations by the Disclosing Party; or (f) is
+                required to be disclosed pursuant to law, regulation, judicial or administrative order, or request by a
+                governmental or other entity authorized by law to make such request; provided, however, that the
+                Receiving Party so required to disclose shall first notify the Disclosing Party (to the extent not prohibited
+                from doing so) in order to enable it to seek relief from such requirement, render reasonable assistance
+                requested by the Disclosing Party (at the Disclosing Party's expense) in connection therewith and disclose
+                only that portion of the Confidential Information which is required to be disclosed by law as stated above.
+       9.5      Ownership. All Confidential Information is and will remain the property of the Disclosing Party.
+                Disclosure of the Disclosing Party's Confidential Information to the Receiving Party shall not be
+       Confidential                             Page 8
+
+
+
+
+CONFIDENTIAL                                                                                                        JLI41686429
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+              construed as granting the Receiving Party any right, title, or license, whether express or implied, with
+              respect to the Confidential Information or to its related Intellectual Property Rights or products (including
+              improvements, modifications and/or derivatives related to the Confidential Information), other than the
+              right to use the Confidential Information strictly in accordance with the provisions of this Agreement and
+              the relevant SOW.
+       9.6    Disclaimer. Disclosing Party's Confidential Information is provided on an "as is" basis, with no warranty
+              of any kind whatsoever. Without derogating from the generality of the above, Disclosing Party makes no
+              warranties, whether express or implied, regarding the accuracy and/or completeness of the Confidential
+              Information disclosed to Receiving Party hereunder.
+       9.7    Injunctive Relief. Each party acknowledges that its breach of this Section 9 may cause the other party
+              extensive and irreparable harm and damage, and agrees that such party shall be entitled to seek injunctive
+              relief to prevent use or disclosure of its Confidential Information not authorized by this Agreement, in
+              addition to any other remedy available to such party under this Agreement or applicable law.
+       9.8    Return of Confidential Information. All copies of Confidential Information, regardless of form, shall, at
+              the discretion of the Disclosing Party, either be destroyed or returned to the Disclosing Party, promptly
+              upon the earlier of: (a) Disclosing Party's written request, or (b) expiration or termination for any reason
+              of this Agreement. The Receiving Party shall confirm such destruction or return in writing to the
+              Disclosing Party.
+       10.    TERM AND TERMINATION
+       10.1   Term. This Agreement shall be effective for an initial term commencing on the Effective Date and shall
+              continue for a period of two (2) years thereafter, unless terminated earlier in accordance with the
+              provisions of this Section 10 (the "Initial Term"). Following the expiration of the Initial Term, this
+              Agreement shall be automatically renewed for consecutive one-year periods, unless terminated by either
+              party in accordance with the terms of this Section 10 (collectively, the "Term"). Any termination or
+              expiration of this Agreement will not affect any accrued rights, remedies or liabilities of either party.
+       10.2   Termination for Convenience. Either party may terminate this Agreement and/or any SOW at any time
+              and for any reason (or for no reason), by sending the other party no less than ninety (90) days' prior
+              written notice to that effect.
+       10.3   Termination for Cause. Either party may terminate this Agreement and/or any SOW, upon written notice
+              to the other party, in the event the other party materially breaches this Agreement and, if such breach is
+              curable, fails to cure such breach within thirty (30) days of receipt of notice of the alleged breach. Further,
+              this Agreement and/or any SOW may be terminated by either party on written notice, (a) if the other party
+              becomes insolvent, ceases to do business as a going concern, makes an assignment, composition or
+              arrangement for the benefit of its creditors, or is deemed or admits in writing its inability to pay debts (as
+              defined in section 123 Insolvency Act 1986, or in any equivalent statute in other applicable jurisdictions),
+              or (b) if proceedings are instituted by or against it for receivership or administration (in each case over the
+              whole or a material part of its business or assets), winding-up or dissolution (other than in the course of a
+              solvent reorganization or restructuring), provided that such proceedings are not dismissed within sixty
+              (60) days from the initiation thereof.
+       10.4   Effects of Termination. Upon expiration or termination for any reason of this Agreement and/or any SOW,
+              the following will apply: (a) the rights granted to Customer hereunder shall immediately terminate; (b)
+              Trax will immediately cease performing the Services and will block the Customer's access to the System;
+              (c) Customer shall delete all Trax Mobile Applications installed by Users on mobile and other devices and
+              all copies thereof in its possession; and (d) termination shall be without prejudice to any rights and
+              obligations accrued prior to the effective date of such termination, including Customer's obligation to pay
+              the Services Fees.
+       10.5   Survival. The provisions of Sections 1 (Definitions), 3.2 (Use Restrictions), 4 (Fees, Terms of Payment
+              and Taxes), 5.2 (Customer's Representations), 6.3 (Disclaimer), 7 (Limitation of Liability), 8 (Proprietary
+              Rights), 9 (Confidentiality), 10.4 (Effects of Termination), 10.5 (Survival), 11 (Governing Law) and 12
+              (Miscellaneous) shall survive the expiration or termination of this Agreement for any reason. Expiration
+
+
+
+
+CONFIDENTIAL                                                                                                        JLI41686430
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+                or termination for any reason of this Agreement shall cause the expiration or termination of any
+                outstanding SOW, unless otherwise agreed in advance and in writing by the parties.
+       11.      GOVERNING LAW
+       11.1     Governing Law. The validity, performance, construction and effect of this Agreement and any dispute or
+                claim arising out of or in connection therewith or its subject matter or formation (including non-
+                contractual disputes or claims) shall be governed by the laws of New York, without regard to conflict of
+                law principles. The United Nations Convention on Contracts for the International Sale of Goods will not
+                apply to this Agreement.
+       11.2     Dispute Resolution.
+       (a)      The parties shall first undertake to resolve any dispute controversy or claim, including any question
+                regarding its existence, validity or termination, arising out of or relating to this Agreement through good
+                faith negotiations, to be carried out during thirty (30) day period as of either party's notice to the other
+                regarding such dispute. The parties shall not make any claims for remedies based on an alleged breach of
+                a party's obligations, assert any right to terminate, provide notice of termination, or commence any other
+                dispute resolution process, without first endeavoring to resolve the matter through good faith negotiations
+                as set out above.
+       (b)      Any dispute arising out or relating to this Agreement or any SOW not resolved by good faith negotiations
+                as specified above, shall be resolved exclusively and finally by binding arbitration to be carried out by the
+                International Court of Arbitration of the International Chamber of Commerce ("ICC"), in accordance with
+                the substantive law governing this Agreement, and the ICC's Rules of Arbitration (the "Rules"), which
+                Rules are incorporated herein by reference in their entirety. Such arbitration shall be conducted in
+                Singapore, in the English language, by a sole arbitrator appointed under the Rules. All proceedings,
+                pleadings, discovery (oral and written), decisions, orders, awards and judgments resulting from the
+                arbitration hereunder shall be confidential.
+       (c)      The arbitrator's decision shall be final and binding upon the parties, provided however that a party may
+                petition a competent court in Singapore, to: (i) vacate the arbitrator's decision on the grounds of the
+                arbitrator's failure to abide by the provisions of this Agreement, or (ii) seek temporary injunctive or other
+                temporary equitable relief without having to first initiate arbitration proceedings. Both parties submit to
+                the exclusive jurisdiction of the aforementioned courts for the purposes mentioned in (i) and (ii) above,
+                and hereby expressly and irrevocably consent and waive any objection to the entry of any award in any
+                such jurisdiction.
+       (d)      Judgment on the award or any other final or interim decision rendered by the arbitrator may be entered,
+                registered or filed for enforcement in any court having jurisdiction over any of the parties, and the parties
+                hereby expressly and irrevocably consent and waive any objection to the entry of any award in any such
+                jurisdiction.
+       12.      MISCELLANEOUS
+       12.1     Marketing. Trax and Customer agree to collaborate with each other with respect to public relations and
+                marketing efforts aimed at building their respective brands, including issuing a joint press release
+                referencing Customer's role in connection with the Services covered by this Agreement and a Customer-
+                approved case study at the completion of the Services.
+       12.2     Entire Agreement. This Agreement, together with all SOW(s) and Exhibits, contains the complete
+                agreement between the parties and supersedes any prior understandings, agreements, statements or
+                representations (whether made innocently or negligently) by or among the parties, which relate to the
+                subject matter of this Agreement. Without limiting the foregoing, the parties acknowledge and agree that
+                the terms of this Agreement, together with all SOW(s) and Exhibits, supersede any conflicting terms in
+                any purchase order or any other document issued by Customer, even if acknowledged in writing or
+                assented to by Trax before, after or simultaneous with executing this Agreement, unless the parties
+                specifically amend this Agreement in writing. Each party acknowledges that in entering into this
+                Agreement it does not rely on any statement, representation, assurance or warranty (whether made
+       Confidential                             Page 10
+
+
+
+
+CONFIDENTIAL                                                                                                         JLI41686431
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+               innocently or negligently) that is not set out in this Agreement. In the event of any inconsistency or
+               contradiction between the provisions of this Agreement and the provisions of an Exhibit, the provisions of
+               this Agreement will prevail with respect to the subject matter of such inconsistency or discrepancy.
+               Notwithstanding the above, by entering into this Agreement, Customer acknowledges and agrees to be
+               bound by the terms and conditions of Trax's Privacy Policy (located at https://traxretail.com/privacy-
+               policy!) and Trax' Data Processing Agreement for Customers (located at https://traxretail.com/wp-
+               content/uploads/2018/11/Trax-DPA-for-Customers-signed.pdf), which are incorporated herein by
+               reference, and as may be amended from time to time by Trax.
+       12.3    Headings. The headings of the Sections in this Agreement are for reference only and shall not be
+               considered in the interpretation hereof. All references in this Agreement to Sections and Exhibits shall,
+               unless otherwise provided, refer to Sections and Exhibits attached hereto.
+       12.4    Amendment. This Agreement shall not be amended without the express prior written consent of both
+               parties hereto. Any amendment affected in accordance with this Section shall be binding upon the parties
+               hereto.
+       12.5    Modifications to the System. Trax reserves the right, from time to time, to (a) modify or release
+               subsequent versions of all or any portion of the System, (b) impose license keys, authorizations, or other
+               means of controlling access to all or any portion of the System, and (c) change or discontinue all or any
+               portion of the System, including making feature or functionality updates to the System. Trax will provide
+               Customer with ninety (90) days' advance notice if Trax discontinues the System in its entirety.
+       12.6    Severability. In the event that any provision of this Agreement is held to be invalid or unenforceable by a
+               court of competent jurisdiction, that provision shall be construed, limited, modified or deleted, to the
+               extent necessary to eliminate any invalidity or unenforceability, and the remaining provisions of this
+               Agreement shall remain in full force and effect.
+       12.7    Waiver. No waiver of any right or remedy under this Agreement shall be effective unless given in writing
+               and signed by the authorized signatories of the waiving party. No waiver of any past or present right or
+               remedy arising from any breach or failure to perform shall be deemed to be a waiver of any future right or
+               remedy arising under this Agreement.
+       12.8    No Partnership. Nothing contained in this Agreement shall be construed as creating a partnership, joint
+               venture, agency or other similar relationship between Trax and Customer, nor as granting either party the
+               right, power, or authority (express or implied) to bind or otherwise create any duty or obligation for or on
+               behalf of the other party. There shall be no employer-employee relationship between the parties'
+               employees.
+       12.9    Assignment. Customer may not assign, subcontract, transfer, charge, declare a trust over or deal in any
+               other manner with any of its rights and/or obligations under this Agreement or any SOW to any third party
+               without the prior written consent of Trax, and any purported assignment or transfer without Trax's prior
+               written consent shall be null and void. This Agreement shall be binding upon, and shall inure to the benefit
+               of, the parties hereto and their respective successors and permitted assigns.
+       12.10   Force Majeure. A party hereto shall not be liable for any delay, loss and/or damage resulting from causes
+               beyond the control thereof, including, but not limited to, acts of God, acts of a public enemy, acts of any
+               governmental or quasi-governmental agency or any of their political subdivisions, fire, flood, epidemics,
+               explosion, power or telecommunications irregularities, quarantine restrictions; strikes or other labor
+               unrest, earthquakes, civil commotion or revolutions, war, terrorist attack, freight embargoes, unusually
+               severe weather conditions, or any other cause that was not reasonably foreseeable by such party on the
+               date of execution of this Agreement. Notwithstanding the above, the provision of this Section 12.10 shall
+               not apply to Customer's obligation to pay Trax the amounts due to it under this Agreement and/or any
+               SOW.
+       12.11 No Solicitation. During the Term and for a period of six (6) months following the expiration or
+             termination thereof for any reason, Customer shall not (a) solicit to hire or otherwise employ any of the
+             executive officers, technical personnel and/or other employees of Trax or of Trax's subcontractors, nor (b)
+
+
+
+
+CONFIDENTIAL                                                                                                       JLI41686432
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+                solicit suppliers and/or customers of Trax to cease their engagement with Trax. Solely for purposes of this
+                Section 12.11, Trax's independent subcontractors shall be deemed as Trax's employees.
+       12.12    Remedies. All remedies, either under this Agreement or by law otherwise affording to any party, shall be
+                cumulative and not alternative.
+       12.13 Notices. All notices required or permitted under this Agreement shall be in writing, will reference this
+             Agreement and will be deemed delivered upon actual delivery by a courier service to the other party, with
+             written verification of receipt. All communications will be sent to the parties' respective addresses set
+             forth in the heading of this Agreement. Such notice or other communications shall be deemed to have
+             been given on the date confirmed as the actual date of delivery by the courier service if sent by such
+             service.
+       12.14    Language. The Documentation and all correspondence, notices and technical documentation exchanged
+                between the parties under and/or in accordance with this Agreement or any SOW, and the Services shall
+                be provided in the English language only, unless otherwise agreed by the parties in writing.
+       12.15 No Third-Party Beneficiaries. This Agreement does not create any obligation of a party to any third party,
+             nor shall it be deemed to create any rights or causes of action on behalf of any third party.
+       12.16    Counterparts. This Agreement may be executed in any number of counterparts, including by means of
+                facsimile or PDF, with the same effect as if all parties had signed the same original document.
+
+
+                                                    [Signature pagefollows]
+
+
+
+
+       Confidential                            Page 12
+
+
+
+
+CONFIDENTIAL                                                                                                       JLI41686433
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+       IN WITNESS WHEREOF, the parties hereto have signed this Agreement as of the date indicated below:
+
+
+
+       TRAX RETAIL, INC.                                I             I
+
+
+       By:                                             By:
+       Name:                                           Name:
+       Title:                                          Title:
+       Date:                                           Date:
+
+
+
+
+                                         [Signature page to Services Agreement]
+
+
+
+
+CONFIDENTIAL                                                                                               J1141686434
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+                                              EXHIBIT A
+
+
+                                                SOW 1
+
+
+                                          [to be attached here]
+
+
+
+
+       Confidential                 Page 14
+
+
+
+
+CONFIDENTIAL                                                                      JLI41686435
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+                                                          EXHIBIT B
+
+
+                                                CHANGE REQUEST No. L.]
+
+
+       Pursuant to Section 2.4 of the Services Agreement by and between TRAX RETAIL, INC. ("Trax"), and
+       [                           ] (the "Customer"), dated as of                      (the "Agreement"), which is
+       specifically incorporated herein by this reference, certain change(s) to Services is hereby being requested by
+       Customer, as below:
+       Terms not defined herein shall have the meanings ascribed to them in the Agreement or the relevant SOW, as
+       applicable.
+
+       Date of Request:                                    Originator:
+
+       Reason for Change:
+
+
+
+
+       Details of Change:
+
+
+
+
+       Effective date of Change (subject to approval by Trax):
+
+
+
+       Price Change (to be completed by Trax)
+
+
+
+
+CONFIDENTIAL                                                                                                 JLI41686436
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+       Any other consequences of, or matters relating to, the Change:
+
+
+
+
+       Effect on the Agreement       YES/NO (if "YES" provide full details)
+
+
+
+
+       Trax Authorized Representative                         Customer Authorized Representative
+
+
+
+
+       SIGNATURE:                                             SIGNATURE:
+
+
+
+
+       DATE:                                                  DATE:
+
+
+
+
+       Confidential                           Page 16
+
+
+
+
+CONFIDENTIAL                                                                                       JLI41686437
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+CONFIDENTIAL                                                                      JL141686438
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+                                                          EXHIBIT C
+                                 PROFESSIONAL SERVICES TERMS AND CONDITIONS
+       THE TERMS AND CONDITIONS SET FORTH BELOW ARE THE TERMS AND CONDITIONS UNDER WHICH TRAX WILL
+       PROVIDE PROFESSIONAL SERVICES TO CUSTOMER IN CONNECTION WITH CUSTOMER'S USE OF THE SYSTEM AND
+       SERVICES. TO RECEIVE THE PROFESSIONAL SERVICES, CUSTOMER MUST AGREE TO BE BOUND BY THESE TERMS
+       AND CONDITIONS.
+       1.      Scope. Customer and Trax agree that this Exhibit constitutes the complete and exclusive statement of the
+       mutual understanding of the parties, and supersedes all previous written, oral, and other agreements and
+       communications, relating to the subject of this Exhibit. No terms or conditions of any purchase order, work order,
+       acknowledgment or other business form of Customer will modify or add additional terms to this Exhibit, and Trax
+       expressly rejects any terms and conditions contained in any such Customer purchase order, work order,
+       acknowledgment or other business form that are different from or in addition to those contained in this Exhibit.
+       For the avoidance of doubt, the terms and conditions of the Services Agreement to which this Exhibit is attached
+       (the "Services Agreement") govern Customer's use of Trax's System and Services, including in connection with
+       the Professional Services. Capitalized terms used in this Exhibit will have the meanings ascribed to them in the
+       Services Agreement unless otherwise defined herein.
+
+       2.       Professional Services. Customer and Trax may from time to time agree on the provision of Professional
+       Services by executing a work order (a "Work Order") in a form acceptable to Trax. Professional Services may
+       include the development by Trax of software (a "Developed Software"), which is a modification or customization
+       of, a derivative work based on, or otherwise intended for use in conjunction with, any part of the System, the
+       provision by Trax of certain technical assistance, including with respect to integration, customization or data
+       migration in connection with the System or Developed Software or the provision of other services by Trax. The
+       Work Order will also set forth, as applicable, all relevant details of and specifications for the Developed Software
+       and other Work Product (as defined below) to be delivered by Trax in its performance of the Professional Services.
+       Trax agrees to use commercially reasonable efforts to perform (or cause to be performed) for Customer the
+       Professional Services. Customer will provide in a professional manner, and at no cost to Trax, assistance,
+       cooperation, complete and accurate information and data, equipment, computer and telecommunications facilities,
+       programs, files, documentation, test data, sample output, a suitable work environment and other resources
+       requested by Trax to enable it to perform the Professional Services (collectively, "Assistance"). Trax will not be
+       liable for any deficiency in performing the Professional Services if such deficiency results from Customer's failure
+       to provide full Assistance as required hereunder.
+
+       3.       Proprietary Rights.
+
+                3.1     Ownership. As used in this Exhibit, the term "Work Product" means all materials, software,
+       tools, data, inventions, works of authorship and other innovations of any kind, including, without limitation, any
+       Developed Software or other deliverable, that Trax (or personnel working for or through Trax) may make,
+       conceive, develop or reduce to practice, alone or jointly with others, in the course of performing the Professional
+       Services. Customer agrees that all Work Product will be the exclusive property of Trax and hereby assigns all
+       rights, interest and title it may have in the Work Product, including all related Intellectual Property Rights and
+       other proprietary rights, to Trax.
+
+                3.2     Rights to Developed Software. Unless otherwise expressly specified in the applicable Work Order,
+       subject to Customer's performance of its obligations hereunder, any Developed Software will be deemed part of
+       the System and Customer will be granted with rights to use such Developed Software on the same terms and
+       conditions as such is provided to Customer pursuant to the Services Agreement. Without limiting the foregoing,
+       except as otherwise expressly provided herein or in the Services Agreement, Trax will retain all right, title and
+       interest in and to any Developed Software.
+
+
+       Confidential                            Page 18
+
+
+
+
+CONFIDENTIAL                                                                                                       JLI41686439
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+               3.3    Rights to Other Work Product. Unless otherwise expressly specified in the applicable Work Order,
+       subject to Customer's performance of its obligations hereunder, Trax will grant to Customer a worldwide, non-
+       exclusive, non-transferable, non-sublicensable, revocable right to use, within Customer's enterprise only, any
+       Work Product (other than Developed Software) solely for Customer's internal business purposes.
+
+               3.4     Restrictions. Customer will not, without the written consent of Trax: (a) decompile or otherwise
+       reverse engineer any Work Product or any portion thereof; (b) rent, lease, sublicense, sell, transfer or otherwise
+       grant rights in or to the Work Product (in whole or in part) to any third party in any form; or (c) use the Work
+       Product for commercial time-sharing or service bureau use.
+
+               3.5     Reservation of Rights. Except as otherwise expressly provided in this Exhibit or in the applicable
+       Work Order, nothing in this Agreement (including any Work Orders) or in the Services Agreement will be deemed
+       to grant, directly or by implication, estoppel or otherwise, any right or license with respect to any technology or
+       other Intellectual Property Rights, and each party retains all right, title and interest in and to its respective
+       technologies and other Intellectual Property Rights.
+
+       4.      Fees. Unless otherwise indicated in a Work Order, all Professional Services will be performed on a time-
+       and-materials basis at Trax's then-current fees and charges therefor. Accordingly, Customer will pay Trax for all
+       time spent performing the Professional Services, plus the cost of any materials, taxes, travel, lodging,
+       communications, shipping charges and out-of-pocket expenses incurred by Trax in connection with providing the
+       Professional Services. All such fees and costs will be invoiced monthly and will be payable within thirty (30) days
+       of the date of invoice. Any amounts payable by Customer under this Exhibit that remain unpaid after the due date
+       will be subject to a late charge equal to one and one-half percent (1.5%) per month from the due date until such
+       amount is paid or the maximum amount allowable by law, whichever is less. The payment of any such fees shall
+       be made in accordance with and subject to the provisions of Section 4 of the Services Agreement.
+
+       5.       Termination. Trax may terminate a Work Order immediately upon notice to Customer if the Customer
+       breaches or is in default of any obligation hereunder, including the failure to make any payment when due, which
+       default is incapable of cure or which, being capable of cure, has not been cured within thirty (30) days after receipt
+       of written notice from Trax. Upon such termination, Trax will immediately cease performing any Professional
+       Services and Customer will pay Trax any amounts due for the Professional Services actually rendered. Sections
+       3.1, 3.4 and 5 of this Exhibit will survive the termination of a Work Order or the Services Agreement.
+
+       6.     Confidentiality. All Work Product and any technology, ideas, algorithms or information derived therefrom
+       or otherwise disclosed by Trax to Customer in connection with the Professional Services will constitute
+       Confidential Information of Trax and be subject to the confidentiality obligations set forth in the Services
+       Agreement.
+
+
+
+
+CONFIDENTIAL                                                                                                        JLI41686440
+NC-JLI-Consent Judgment
+                   Source: https://www.industrydocuments.ucsf.edu/docs/msfc0376
+

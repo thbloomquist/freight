@@ -1,0 +1,132 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+                           __________________
+ 
+                              May 19, 1998
+                           __________________
+ 
+ 
+                            GSBCA 14106-RATE
+ 
+ 
+ 
+               In the Matter of C.I. WHITTEN TRANSFER CO.
+ 
+ 
+        Robert  D.  Norcom,  Auditor,  C.I.  Whitten  Transfer  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey  J.  Thurston,  Director, Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James F.  Quinn, Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   BORWICK, Board Judge.
+ 
+        Claimant, C.I.  Whitten Transfer  Co., seeks  review of  the
+   General Services  Administration Office of  Transportation Audits
+   (OTA)  denial  of  claims  on three  Government  Bills  of Lading
+   (GBLs).   Claimant maintains  that it  should be  paid at a  rate
+   applicable to Department  of Defense (DOD) unique  commodity code
+   14255 items because the items  were actually missile guidance and
+   control apparatus or rocket frame assemblies, instead of electric
+   instruments or  transmitting and receiving  sets as set  forth in
+   the GBLs.  OTA denied the  claims because claimant did not  prove
+   that the  items were DOD unique  commodity code 14255 items.   We
+   sustain OTA's determination.  
+ 
+        By  GBL E-1,205,928,  dated  April  15,  1993,  the  Defense
+   Distribution  Depot, Anniston,  Alabama, shipped  to Fort  Bragg,
+   North Carolina, items  noted on the GBL  as electrical appliances
+   and  instruments.   The tariff/special  rate  authority was  TSMT
+   000763, which contained a rate applicable to shipment  of freight
+   all kinds.   By GBL E-1,206,430, dated  May 24, 1993, the Defense
+   Distribution Depot  shipped to  Fort Bliss,  Arkansas, items  de-
+   scribed as transmitting and receiving sets, electrical appliances
+   and instruments,  under tariff/special rate authority  TSMT 9800.
+   By GBL H-0,083,417,  the General Dynamics Corporation  shipped to
+   another  office of  General Dynamics  items noted  on the  GBL as
+   electrical instruments , under tariff/special rate authority TSMT
+   000763.  
+ 
+ 
+        Subsequently, claimant filed claims for balances due carrier
+   of $124.75 on GBL E-1,205,928;  of $159.75 on GBL E-1,206,430 and
+   of $160.75 on  GBL H-0,083,417.  Claimant  maintained that either
+   missile  guidance  control  systems or  missile  or  rocket frame
+   assemblies containing  electronic apparatus were shipped by those
+   GBLs and that claimant was entitled to  be paid at the applicable
+   rates for items classified under DOD unique commodity code 14255.
+ 
+        OTA denied the  claims because claimant had  not established
+   that DOD unique commodity code  14255 items were shipped.  Claim-
+   ant filed a request for review by this Board of OTA's denial.  
+ 
+        Claimant  had  filed  requests pursuant  to  the  Freedom of
+   Information Act for  the receiving reports,  DD Form 1348-1,  for
+   the applicable  GBLs.  The  agency had disposed of  the receiving
+   reports  after three  years in  accordance with  the Modern  Army
+   Record Keeping System  (MARKS) as implemented in  Army Regulation
+   25-400-2  (Feb. 1993).   The Military Traffic  Management Command
+   (MTMC),  however, has provided a requisition and invoice shipping
+   document for GBL H-0,083,417 that  shows that the item shipped by
+   that GBL was  an autopilot battery section being  returned to the
+   manufacturer for warranty repair. 
+ 
+        The claimant has the burden of establishing the liability of
+   the  agency and  the claimant's  right  to payment.   Board  Rule
+   301(b) (48 CFR  6103.1(b) (1997)).  Normally, the  bill of lading
+   description of the shipped article is prima facie evidence of the
+   identity of the  article and entitled to great  weight.  Southern
+   Pacific Transportation  Co. v.  United States,  454 F.2d  740,744
+   (Ct. Cl. 1972);Tri-State Motor Transit Co., GSBCA 13877-RATE, 98-
+   1  BCA    29,406.  Claimant  has not established  that it carried
+   other than the described items.   As regards GBL H-0,083,417, the
+   record shows  an autopilot battery  section as the  shipped item.
+   In the absence  of an applicable DOD unique  commodity code, that
+   item was properly classified as  freight all kinds and shipped at
+   the  rate contained in TSMT  000763.  In  its most recent filing,
+   claimant maintains  that as  to that item,  "the shipper,  Hughes
+   Missile  Systems Company,  specializes in manufacturing  the very
+   articles  described  by  DOD  [unique   commodity  code]  14255."
+   Putting aside  the  fact that  General Dynamics,  not Hughes,  is
+   listed in the GBL as  the shipper, claimant's argument amounts to
+   outright speculation that the item shipped in that GBL was a type
+   of missile guidance and control system.  Claimant has not met its
+   burden and established  that the items shipped by  the other GBLs
+   werecovered by DOD unique commodity code 14255, either.[foot #] 1
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 Unlike Tri-State Motor Transit Co., GSBCA  13877-
+                          ___________________________
+   RATE,  98-1 BCA   29,406,  claimant has  not here  established by
+   other  GBLs  from   the  same  shipper  that   claimant  actually
+                                                      (continued...)
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+     
+ 
+ 
+        The decision of the OTA is sustained. 
+ 
+ 
+                                 __________________________
+                                 ANTHONY S. BORWICK
+                                 Board Judge
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 (...continued)
+   transported   missile   guidance  control   systems   which  were
+   deliberately disguised as electronic apparatus. 

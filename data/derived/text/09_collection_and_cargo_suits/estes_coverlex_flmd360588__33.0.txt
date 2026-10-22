@@ -1,0 +1,278 @@
+Case 8:19-cv-00467-CEH-AEP Document 33 Filed 01/08/21 Page 1 of 6 PageID 5476
+
+
+
+
+                         UNITED STATES DISTRICT COURT
+                          MIDDLE DISTRICT OF FLORIDA
+                                TAMPA DIVISION
+
+ESTES EXPRESS LINES,
+
+         Plaintiff,
+
+v.                                                           Case No: 8:19-cv-467-T-36AEP
+
+COVERLEX, INC.,
+
+      Defendant.
+___________________________________/
+
+                                           ORDER
+
+         This matter comes before the Court upon Plaintiff's Motion for Entry of Default
+
+Final Judgment by Court [Doc. 32], filed on November 9, 2020. In the motion,
+
+Plaintiff requests the entry of a Default Final Judgment. The Court, having considered
+
+the motion and being fully advised in the premises, will grant Plaintiff's Motion for
+
+Entry of Default Final Judgment by Court.
+
+    I.   BACKGROUND 1
+
+         In 2018, Defendant Coverlex, Inc. (“Coverlex”) tendered approximately 2,500
+
+shipments of commercial goods to Plaintiff Estes Express Lines for shipment under a
+
+pricing agreement, which among other things provided shipping discounts and
+
+preferred pricing to Coverlex. [Doc. ¶¶ 6, 7, 10, 12; pp. 7-14. Coverlex was invoiced
+
+$335,575.69 for these shipments but failed to pay. Id. ¶¶ 18-20. Because of the failure
+
+
+1
+ The facts giving rise to this action have been laid out in detail in the Court’s prior orders and
+will be discussed briefly here. See Docs. 15, 20.
+Case 8:19-cv-00467-CEH-AEP Document 33 Filed 01/08/21 Page 2 of 6 PageID 5477
+
+
+
+
+to pay, Estes removed the discounts that had been applied—in accordance with the
+
+agreement—resulting in undiscounted freight charges due and owing in the amount of
+
+$1,829,154.14. Id. ¶¶ 21-23, p. 17. This included lost discount charges of
+
+$1,493,578.45. Id. at ¶ 23.
+
+       Estes then filed this lawsuit for breach of contract and quantum meruit and
+
+obtained a Clerk’s default after Coverlex failed to answer or otherwise respond to the
+
+Complaint. [Docs. 1, 10]. The Court subsequently entered default judgment as to
+
+liability, but deferred ruling on damages as Estes had not established the amount of
+
+damages sought. [Doc. 15]. Eventually the matter was set for an evidentiary hearing
+
+to allow Estes to explain, among other things, how the shipping discounts were
+
+calculated and removed for each of the 2498 freight bills at issue. [Doc. 20 at pp. 5-8].
+
+At a September 8, 2020 hearing, Estes provided testimony from Albert Wilder, Jr., the
+
+claim resolution services manager. [Doc. 24]. Mr. Wilder discussed several randomly
+
+selected freight bills and explained what the various figures represented and how they
+
+were calculated.    He also explained how Estes determined the discounted and
+
+undiscounted shipping costs. The Court admitted into evidence the 2,498 invoices that
+
+reflected the breakdown of the various charges, including the discounted and
+
+undiscounted rates. The Court also admitted into evidence Estes’ confidential tariffs
+
+that contained its base rates for shipping.
+
+ II.   LEGAL STANDARD
+
+       “A court has an obligation to assure that there is a legitimate basis for any
+
+damage award it enters.” Anheuser Busch, Inc. v. Philpot, 317 F.3d 1264, 1266 (11th Cir.
+                                              2
+Case 8:19-cv-00467-CEH-AEP Document 33 Filed 01/08/21 Page 3 of 6 PageID 5478
+
+
+
+
+2003). “Damages in cases of default are governed by Rule 55.” Safari Programs, Inc. v.
+
+CollectA Int'l Ltd., 686 F. App'x 737, 746 (11th Cir. 2017). “Rule 55(b)(2) of the Federal
+
+Rules of Civil Procedure provides that following entry of a default judgment, a district
+
+court may conduct an evidentiary hearing ‘to determine the amount of damages or to
+
+establish the truth of any averment by evidence....’ ” Id. (quoting Fed. R. Civ. P.
+
+55(b)(2)). However, “[t]he district court may forego a hearing ‘where all essential
+
+evidence is already of record.’ ” Giovanno v. Fabec, 804 F.3d 1361, 1366 (11th Cir. 2015)
+
+(quoting SEC v. Smyth, 420 F.3d 1225, 1232 n. 13 (11th Cir.2005)). The Court may not
+
+take a judicial leap of faith in fixing the amount of a default judgment. Phazzer Elecs.,
+
+Inc. v. Protective Sols., Inc., No. 6:15-CV-348-ORL-31DAB, 2015 WL 7184561, at *5
+
+(M.D. Fla. Oct. 27, 2015), report and recommendation adopted, No. 6:15-CV-348-ORL-
+
+31DAB, 2015 WL 7076847 (M.D. Fla. Nov. 13, 2015). “Rather than merely telling the
+
+Court in summary fashion what its damages are, a plaintiff seeking default judgment
+
+must show the Court what those damages are, how they are calculated, and where they
+
+come from ...” Id. (quoting PNCEF, LLC v. Hendricks Bldg. Supply LLC, 740 F.Supp.2d
+
+1287, 1293–94 (S.D.Ala.2010)).
+
+III.   DISCUSSION
+
+       Estes has sufficiently established that its damages are in the amount of
+
+$1,829,154.14. It had initially provided testimony from its Credit Analyst, Donna
+
+Ferguson, that this amount comprised original freight charges of $335,575.69, and lost
+
+discount charges of $1,493,578.45. [Doc. 19-1 ¶ 24]. Ms. Ferguson provided the pricing
+
+
+
+                                            3
+Case 8:19-cv-00467-CEH-AEP Document 33 Filed 01/08/21 Page 4 of 6 PageID 5479
+
+
+
+
+agreement governing Coverlex’s shipments and the discount forfeiture notice which
+
+provided line item details for 2,498 past due freight bills and notified Coverlex that it
+
+would forfeit its discounts if it did not remit payment in full in twenty days. Id. at pp.
+
+7-14, 15-69. Having determined that the evidence was deficient as there was no line
+
+item reflecting lost discounts totaling $1,493,578.45, and that Estes had failed to
+
+explain how the shipping discounts were calculated and removed, the Court took
+
+additional evidence on the matter.
+
+      At the evidentiary hearing on September 8, 2020, Mr. Wilder explained with
+
+reference to randomly selected freight bills, the pricing agreement, and its confidential
+
+tariffs, how it arrived at the discounted amounts reflected in its freight bills and the
+
+undiscounted amounts its was seeking to recover from Coverlex. He explained that
+
+the rates in the pricing agreement were specific to Coverlex based on shipping
+
+volumes. Base shipping rates were listed in the 550-01 tariff and varied according to
+
+the zip codes between which the shipment moved. [Doc. 31]. Estes would then apply
+
+to the base rate a discount or minimum charge that is provided in the pricing
+
+agreement. To illustrate this, the invoice for the shipment of barrel covers—weighing
+
+60 pounds—to Shawnee, Oklahoma from Clearwater, Florida reflects a base rate of
+
+$537.03. [Doc. 27-2 at p. 1]. The pricing agreement provides that shipments to or from
+
+Oklahoma being less than or equal to 100 pounds have an $84 minimum charge. [Doc.
+
+19-1 at p. 7]. Applying that minimum charge, Coverlex received a discount of $453.00.
+
+
+
+
+                                            4
+Case 8:19-cv-00467-CEH-AEP Document 33 Filed 01/08/21 Page 5 of 6 PageID 5480
+
+
+
+
+[Doc. 27-2 at p. 1]. A residential fee 2 of $15.00 and a fuel surcharge 3 of $20.66 were
+
+added to the minimum charge of $84 for a total discounted cost of $119.66 for that
+
+shipment. Id. Because of the failure to make payment, the $453.00 discount was
+
+forfeited, and the price returned to the base rate of $537.03 [Doc. 31-6 at p. 28], which
+
+when added to the residential fee and fuel surcharge amounted to a total charge of
+
+$572.69.
+
+       Having not received payment for any of its shipments, Estes notified Coverlex
+
+in writing that its account was past due and if Coverlex did not remit payment in full
+
+within 20 days, it would forfeit its discount for each shipment and/or incur a penalty.
+
+[Doc. 19-1 at p. 17]. Because it did not receive payment from Coverlex, Estes turned
+
+over the account for collections. It also removed the discount from each of the 2,498
+
+freight bills and added a 30% collection fee—that is set forth by tariff EXLA 105 series,
+
+items 720 and 720-50—for a total balance in the amount of $1,833,322.01. 4 Based on
+
+the testimony presented by Mr. Wilder and the other evidence presented to the Court,
+
+Estes has now sufficiently shown the Court what its damages are, how they are
+
+calculated, and from where they derived. Phazzer Elecs., Inc., 2015 WL 7184561, at *5.
+
+As such, Estes has established its entitlement to judgment in the amount sought.
+
+       Accordingly, it is hereby ORDERED AND ADJUDGED:
+
+
+
+2
+  The amount varied as set out in the pricing agreement. [Doc. 19-1 at p. 13].
+3
+  According to Mr. Wilder, this rate varies based on where the shipment is being delivered to
+and is set by the Department of Energy and updated weekly.
+4
+  Estes has noted that this amount reflects what is due but it will abide by its clerical error and
+accept judgment for the lesser amount of $1,829,154.14. [Doc. 19-1 at p. 5 n.3].
+                                                5
+Case 8:19-cv-00467-CEH-AEP Document 33 Filed 01/08/21 Page 6 of 6 PageID 5481
+
+
+
+
+         1. Plaintiff's Motion for Entry of Default Final Judgment by Court [Doc.
+
+            32] is GRANTED.
+
+         2. The Clerk is directed to enter judgment in favor of Plaintiff Estes Express
+
+            Lines and against Defendant Coverlex, Inc. in the amount of
+
+            $1,829,154.14.
+
+         3. The Clerk is further directed to close this case.
+
+      DONE AND ORDERED in Tampa, Florida on January 8, 2021.
+
+
+
+
+Copies to:
+Counsel of Record and Unrepresented Parties, if any
+
+
+
+
+                                          6
+

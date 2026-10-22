@@ -1,0 +1,198 @@
+                                      April 25, 2017
+
+
+                                   CBCA 5663-RATE
+
+
+                        In the Matter of LOGISTICS PLUS, INC.
+
+
+      Steve Srnka, Compliance Attorney of Logistics Plus, Inc., Erie, PA, appearing for
+Claimant.
+
+      George J. Thomas, Jr., Director, Transportation Audit Division, Office of Travel and
+Transportation Services, Federal Acquisition Service, General Services Administration,
+Washington, DC, appearing for General Services Administration.
+
+      David J. DiCenso, Attorney-Advisor, Military Surface Deployment and Distribution
+Command, Department of the Army, Scott Air Force Base, IL, appearing for Department of
+Defense.
+
+DANIELS, Board Judge (Chairman).
+
+       Logistics Plus, Inc. (LPI) brokered a carrier to deliver a shipment on behalf of the
+Department of Defense (DoD) from Massachusetts to South Carolina in October 2016.
+Delivery was delayed because the facility in South Carolina was closed, pursuant to
+evacuation orders, due to an approaching hurricane. LPI believes that it should have been
+paid redelivery, storage, and detention charges in the amount of $4050 as part of its
+compensation for making the delivery. DoD and the General Services Administration
+(GSA), which reviewed the claim, think differently. LPI filed a case with the Board, seeking
+to recover this money.1
+
+
+       1
+            LPI filed a similar case, involving the same matter, earlier. GSA and DoD
+responded by noting that under 41 CFR 102-118.645 and 102-118.650 (2016), a
+                                                                           (continued...)
+CBCA 5663-RATE                                                                             2
+
+                                        Background
+
+Relevant rules
+
+      The rules applicable to this matter are contained in two DoD publications, the Military
+Surface Deployment and Distribution Command’s (SDDC’s) Freight Traffic Rules
+Publication No. 1C-R (Publication No. 1C-R) and that Command’s Military Freight Traffic
+Unified Rules Publication-1 (MFTURP-1).
+
+       Publication No. 1C-R includes the following provision:
+
+       Item 231, Transportation Facilities Guide (TFG):
+
+       Carriers must review and comply with TFG local installation policies and
+       operating hours prior to delivery or pick-up. Failure to comply with this
+       requirement may result in delays and/or non-compensation. Carriers must
+       ensure they are in compliance with each installation’s policy.
+
+       MFTURP-1 includes the following provisions:
+
+       Section A, III.E, Transportation Facilities Guide (TFG):
+
+              1.      TSP [transportation service provider] will review the TFG for
+              installation policies regarding the minimum requirements for normal
+              operating hours, installation closures, or any other important
+              information. TSP can access the TFG at the ETA [electronic
+              transportation acquisition] website https://eta.sddc.army.mil/.
+
+              2.     Failure to review the TFG for installation policies for pickup and
+              delivery requirements may result in non-payment of detention,
+              demurrage and/or storage charges.
+
+
+       1
+              (...continued)
+transportation service provider which has a claim against the Government must first file the
+claim with the GSA Transportation Audit Division, and only if the provider objects to the
+Audit Division’s settlement may it request a review by the Board. LPI acknowledged the
+correctness of this position, asked the Board to dismiss the case, and submitted the claim to
+the GSA Audit Division. Logistics Plus, Inc., CBCA 5539-RATE (Jan. 4, 2017). The Audit
+Division has since denied the claim. LPI brings this case to us in proper order.
+CBCA 5663-RATE                                                                             3
+
+             3.      Failure to review the TFG for installation operating hours may
+             result in late shipments.
+
+      Section A, VI.D, Non-Applicable Charges/Transportation Service Provider
+      Liability:
+
+             1.     The TSP shall not charge any detention, demurrage or storage
+             charges against any DOD sponsored shipment when the delay is caused
+             by acts or omissions beyond DOD, its contractors[’], or its agents[’]
+             control.[2]
+
+Relevant events
+
+       On October 5, 2016, a transportation officer of the Defense Contract Management
+Agency (DCMA) issued to LPI a commercial bill of lading for the shipment of various items
+from an address in South Deerfield, Massachusetts, to a Department of the Navy facility in
+Hanahan, South Carolina (just outside Charleston). LPI brokered this shipment to another
+firm, which loaded its truck in South Deerfield at approximately 3:45 to 4:00 p.m. on
+October 5.
+
+
+
+
+      2
+            LPI, DoD, and GSA all appear to believe that MFTURP-1’s Section C, Item
+201, Demurrage (Straight) (DEM), paragraph 11, also applies to this case. This provision
+reads:
+
+      In circumstances where severe weather conditions (floods, earthquakes,
+      hurricanes, tornadoes, or similar “acts of God”) make it impractical or
+      otherwise, [sic] impossible to load or unload a shipment, the duration in time
+      of the severe weather condition shall be eliminated in computing demurrage,
+      provided the shipper/consignee advises the railroad/TSP of the nature and
+      expected duration of the weather interference at or/prior to the time the rail car
+      is released.
+
+Because Section C is devoted to “Rail Transportation Service Provider Rules” and the
+shipment with which we are concerned was moved by truck, we believe that this paragraph
+does not apply to our situation.
+CBCA 5663-RATE                                                                              4
+
+      On that morning, as Hurricane Matthew approached the South Carolina coast, the
+governor of the state had ordered a mandatory evacuation of coastal counties around
+Charleston. DoD’s Joint Base Charleston had issued the following statement at 10:32 a.m.:
+
+       The South Carolina Governor has issued an evacuation order for Zone A
+       around Charleston as of 1500L hours on Wednesday, 5 Oct 2016. They are
+       saying that people need to get out at least 100 miles from the coastal regions
+       that will be affected and that does include JB [Joint Base] Charleston. We
+       have also had an official Limited Evacuation Order from our JB Charleston
+       Air Base Wing CC [Command Chief] as well starting today at 1500 hours.
+       Joint Base Charleston (Charleston Air Force Base and Naval Weapons Station
+       Charleston) will not have Cargo/Personal Property/Passenger Travel services
+       available starting 1500L, 5 Oct 2016 until an ALL CLEAR NOTICE is given.
+
+        The earliest communication between LPI and DoD included in our record, other than
+the bill of lading, is an October 7 electronic mail message from a DCMA traffic management
+specialist to an SDDC traffic management specialist, with a copy to an LPI representative.
+The message reads: “The carrier tried every phone number provided in the TFG with no
+success. Please advise on how to proceed. We are not sure if the facility is closed due to the
+impending weather.” The SDDC official responded promptly, again copying the LPI
+representative, “The bases there in FL [Florida], GA [Georgia], and SC [South Carolina] are
+closed due to weather. Carrier should hold on to freight, and try to deliver Tuesday
+[October 11]. No additional funds will be authorized.”
+
+                                         Discussion
+
+       LPI maintains that DoD is responsible for the predicament in which the transportation
+service provider found itself, and that the agency must therefore pay the redelivery, storage,
+and detention charges sought. The TSP argues that it relied to its detriment on DoD’s
+instruction to pick up the goods for shipment and the agency’s failure to note in its
+Transportation Facilities Guide, when the load was dispatched, that the delivery facility was
+closed. LPI acknowledges that MFTURP-1 precludes a TSP from charging “any detention,
+demurrage or storage charges against any DoD sponsored shipment when the delay is caused
+by acts or omissions beyond DoD’s . . . control.” The actions about which LPI complains
+were, however, within DoD’s control, the TSP contends, so the cited provision of the
+publication does not apply. Further, says LPI, if it had refused to accept the shipment, it
+might well have suffered unsatisfactory performance ratings.
+
+      DoD and GSA argue to the contrary that a TSP is responsible, under Publication No.
+1C-R, for “ensur[ing] [it is] in compliance with each installation’s policy” for “operating
+CBCA 5663-RATE                                                                             5
+
+hours prior to delivery or pick-up.” LPI should have known, the agencies maintain, by
+monitoring widely-disseminated news reports, that coastal South Carolina had been
+evacuated before the goods were loaded on its brokered truck. The TSP should also have
+known, by checking with the delivery facility, that the facility had been evacuated as well.
+Consequently, say the agencies, per Publication No. 1C-R, the TSP’s failure to comply with
+the delivery facility’s notice of closure “result[ed] in delays and/or non-compensation.”
+
+        Neither side is blameless. We fault DoD for assigning a shipment to be delivered to
+a location which had been closed, due to approaching weather, and for not alerting the TSP
+to the situation when it arrived to pick up goods. The rules under which a TSP carries goods
+for the agency put the onus on the carrier to know when and where delivery is possible,
+however. LPI did not fulfill its responsibility of learning whether the delivery facility was
+open when its truck was loaded. We cannot conclude, as LPI urges, that information in the
+TFG was insufficient when the truck was loaded, since there is no evidence that the TSP
+checked that guide prior to October 7 – two days after the shipment was tendered – or ever
+accessed the TFG website. And even if LPI’s assumption is correct, we think that any carrier
+en route to a location threatened by a hurricane should be alert to more than TFG information
+for the possibility that a problem might occur with delivery. Thus, even if the TFG data was
+incomplete, that was a technical failing that did not make inability to deliver the financial
+responsibility of DoD, per the relevant provisions of Publication No. 1C-R and MFTURP-1.
+
+                                         Decision
+
+       We sustain the position of SDDC and GSA that LPI may not collect redelivery,
+storage, and detention charges due to delivery problems occasioned with the shipment at
+issue. The claim is denied.
+
+
+
+
+                                                  _________________________
+                                                  STEPHEN M. DANIELS
+                                                  Board Judge
+

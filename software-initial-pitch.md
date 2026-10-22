@@ -429,7 +429,7 @@ Check AJ estimates **1-3 hours per carrier version**. Time it on the first look-
 **Design points [our call]:**
 - **One shipment, one packet.** All papers for a shipment are linked and shown together.
 - **Always show which agreement version was used,** and let the reviewer correct it.
-- **Tolerances per charge type,** in both $ and %: strict on extras, conservative at the start. Also flag bills far *below* the quote, so the shipper sees we report both ways. That builds trust, though undercharges earn no fee.
+- **Tolerances:** none for now. Any difference in the shipper's favour is flagged, whatever its size (founders, 2026-10-20: "For now lets say any difference, so long as there is money that the carrier needs to pay"). Per-charge tolerances in both $ and % can come later. Bills far *below* the quote are not flags under this rule; whether to show them anyway, so the shipper sees we report both ways, is open.
 - **Group findings by cause and carrier.** For example: "Fuel % above your table: 23 bills, $412, Saia". It is one decision and one claim.
   - The rules allow one claim to cover many shipments with the same issue (49 CFR 378.3(b)).
   - Carriers' forms take lists of bills, and Estes's tool takes up to 100 at once (check AK §5.4, *verified*).

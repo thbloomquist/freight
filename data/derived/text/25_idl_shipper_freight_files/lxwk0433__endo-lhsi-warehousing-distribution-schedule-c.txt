@@ -1,0 +1,596 @@
+                                                              SCHEDULE C
+
+                DESCRIPTION OF WAREHOUSE AND DISTRIBUTION SERVICES
+
+                The ENDO/LHSI Warehousing and Distribution Agreement services will include the following:
+
+                1.   Endo, via e-mail, will provide LHSI notification of incoming purchase orders from contracted
+                     manufacturers according to established work instructions. LHSI will provide DEA Form 222 to
+                     contract manufacturer for purchase of CII pharmaceutical products.
+
+                2.   LHSI will create Purchase Order in LHSI computer system (LMS) and Customer Service at Memphis
+                     Distribution Center (MDC) will issue a DEA Form 222 to contract manufacturer (when applicable).
+
+                     Endo will make sure that LHSI is communicated to via e-mail by all manufacturing sites so that LHSI
+                     is aware of both international and domestic in-bound transportation from contract manufacturers to
+                     LHSI MDC (Memphis Distribution Center). Actual shipment appointments will be arranged between
+                     manufacturing site and LHSI . LHSI is not responsible for customs clearance. Dupent-willr-lieve-the
+                                                                                •     Upon-sempletiett-effeeeipt-proeess,
+                                 L
+                     shipments:
+
+                3.   LHSI performs receipt of incoming inventory from contract manufacturer.
+                        • Receiver One sorts, segregates receipt by SKU and Lot Number, Expiration date, counts and
+                             enters receipt into LMS in a Quarantine (Q) status.
+                        • Receiver Two re-checks entire receipts and validates both system entry and paper documents
+                             in compliance with DEA requirements.
+                        • Receiver Two also performs RF Scanner put-away functions in Quarantine (Q) status and
+                             validates inventory quantity.
+                        • Supervisor reviews and accepts or modifies any discrepancies in Purchase Order in LMS
+                             quantity and inventory received by completing system transaction. LMS quantity on hand is
+                             updated and a scheduled EDI inventory receipt will be transmitted to Endo.
+                        • Supervisor provides copy receiver report to Endo Quality Assurance Associate personnel for
+                             review and Quality release. Once product is released, LMS is updated with scheduled updates
+                             to SAP.
+                        •    If inventory receipt has discrepancy LHSI is responsible for reporting to Endo Quality
+                             Assurance Associate as detailed in work instructions.
+
+                4.   Endo to perform QA functions:
+                        •     Endo Quality Assurance Associate personnel (2) will process all appropriate Endo paperwork
+                             and provide written approval for release of inventory to be transferred to Good Status. Lot
+                             sequence visibility is available via a COGNOS report that has been developed by LHSI. LHSI
+                             Supervisor to receive copy of Release Authorization.
+                        •     Endo Quality Assurance Associate personnel will identify inventory required for sample
+                             retention. LHSI Supervisor to receive copy of QA documentation.
+                        • LHSI Supervisor performs LMS system update to record movement of sample retention
+                              inventory when required. LMS inventory adjustment is transmitted to SAP.
+                        • LHSI to provide LMS training and visibility to Endo warehouse inventory within LMS.
+
+                5.   Endo Corporate will be responsible for communicating in writing the initial changeover to all Endo
+                     customers, including, but not limited to, the forwarding of all CH purchase orders and DEA Form 222
+                     to LHSI MDC. The Endo Customer Service function that will be performed by LHSI as specified
+                     elsewhere in this Agreement, will proactively communicate all changes in distribution to customers as
+                     a follow-up to the initial communication.
+
+
+
+
+                              Source:
+HIGHLY CONFIDENTIAL - SUBJECT TO         https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+                                 PROTECTIVE ORDER                                                                       ENDO-OPIOID_MDL-06250921
+                6.   LHSI to process orders for CII products from LHSI Memphis Distribution Center (MDC) within
+                     Controlled Area:
+                        • LHSI Supervisor or designate will validate all data on DEA Form 222 prior to processing
+                              order.
+                         • LHSI order entry personnel will enter order into SAP. To improve efficiencies a second check
+                              of all CII orders will be done, prior to being released through the interface to LMS per Work
+                              Instructions. SAP CII report can be utilized for this check.
+                         • SAP will process order and transmits order to LMS according to agreed upon schedule. LMS
+                              will accept electronic order and validate customer DEA information and product information,
+                              prior to transmitting to LMS Warehouse Management System for processing. If a change to
+                              an order is required, the change must be made manually according to Work Instructions, both
+                              in LMS and SAP.
+                        • LHSI Supervisor to compare pick document to original DEA Form 222.
+                         • LMS system to process order and allocate inventory based on Endo's FIFO requirements. The
+                              limited exceptions to this rule flow from the desire to never have more than two lots open at a
+                              given time while accommodating LHSI system limitations. Specifically, if successive lots
+                              arrive at MDC which expire before lots already received at MDC, the MDC will complete the
+                              lot it is currently shipping. Then the MDC will be permitted to select as the next lot to ship as
+                              the lot with the shortest shelf life. In addition, if Quality Assurance Associate puts a lot on
+                              Hold at any time, the MDC will be permitted to ship from the next lot with the shortest shelf
+                              life. If that same lot on Hold gets released, the MDC will complete the lot it is currently
+                              shipping from and then will be permitted to select the next lot to ship from with the shortest
+                              shelf life. Inventory allocation control will be achieved through the use of WMS hold reason
+                              codes and Cognos report.
+                         • Picker One — picks and stages order utilizing RF scanner.
+                         • Picker Two — rechecks the pick and validates the staged order to the original pick document.
+                         • Packer will package order per mutually agreed upon Work Instructions. Endo packing slip
+                              will be enclosed within carton for CII orders. The pack slip will be standard LHSI pack slip
+                              with Endo name appearing along the top of the document.
+                         • Shipper will process all orders through carrier shipment terminals. Initially, MDC authorized
+                              FTE will enter pertinent information directly into SAP. Future functionality will allow LHSI
+                              new Transportation Management System to electronically provide shipment data via EDI.
+                         • LHSI designate will perform dispatch function when carrier arrives for outbound pick-up.
+                         • LHSI will transmit sales order confirmation to LMS Order Management System - which will
+                              transmit agreed upon data to SAP. Scheduled transmission will be performed every hour.
+                         • Normal daily order cut-off times for same day processing and shipping is 3:00pm Central
+                              Standard Time (4:00pm Eastern Standard Time).All orders received after these cut-off times
+                              will be processed and shipped the very next business day. During peak times (i.e. promotions,
+                              backorder processing or unusual customer demands) order priorities will have to be reviewed
+                              and approved by Customer Service. All controlled substance orders should not be in transit
+                              for more than 2 days. At a minimum, all shipments to customers, with the exception of
+                              backorders, will be delivered within 8 business days from receipt of order. These
+                              requirements will be reviewed and revised if needed at the end of the Is' full quarter of
+                              shipments.
+                         • Carrier service levels to be determined (i.e. last Fed Ex pick-up 11:30 PM CST)
+                         • Emergency orders must be shipped according to Work Instructions.
+                         • Federal Express/UPS labels will be provided to those customers that request them to send CII
+                              orders in to the MDC. The Customer Service Order Entry personnel at the MDC will be
+                              responsible for this service.
+
+
+
+
+                              Source:
+HIGHLY CONFIDENTIAL - SUBJECT TO         https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+                                 PROTECTIVE ORDER                                                                           ENDO-OPIOID_MDL-06250922
+                7.   LHSI to process orders for CIII-CV at LHSI Memphis Distribution Center (MDC) within appropriate
+                     designated working stations within cage area :
+                         • SAP will process orders and transmits order to LMS. LMS will validate customer DEA
+                              information and product information prior to transmitting to LHSI's Warehouse Management
+                              System (WMS) for processing.
+                         • LMS system to process order and allocate inventory based on Endo's FIFO requirements. The
+                              limited exceptions to this rule flow from the desire to never have more than two lots open at a
+                              given time while accommodating LHSI system limitations. Specifically, if successive lots
+                              arrive at MDC which expire before lots already received at MDC, the MDC will complete the
+                              lot it is currently shipping. Then the MDC will be permitted to select as the next lot to ship as
+                              the lot with the shortest shelf life. In addition, if Quality Assurance Associate puts a lot on
+                              Hold at any time, the MDC will be permitted to ship from the next lot with the shortest shelf
+                              life. If that same lot on Hold gets released, the MDC will complete the lot it is currently
+                              shipping from and then will be permitted to select the next lot to ship from with the shortest
+                              shelf life. Inventory allocation control will be achieved through the use of WMS hold reason
+                              codes and Cognos report.
+                         • Picker One - picks and stages order utilizing RF scanner.
+                         • Picker Two — validates the staged order to the original pick document
+                         • Packer will package order per mutually agreed upon Work Instructions. Endo packing slip
+                              will be enclosed within carton for all CIII-CV orders.
+                         •     Shipper will process all orders through carrier shipment terminals. Initially, MDC
+                              authorized FTE will enter pertinent information directly into SAP. Future functionality will
+                              allow LHSI new Transportation Management System to electronically provide shipment data
+                              via EDI.
+                         • LHSI designate will perform dispatch function when carrier arrives.
+                         • LHSI will transmit sales order confirmation to LHSI's Order Management System (OMS) and
+                              then transmitting agreed upon data to SAP Scheduled transmission would be performed every
+                              hour.
+                         • Normal daily order cut-off times for same day processing and shipping is 3:00pm Central
+                              Standard Time (4:00pm Eastern Standard Time). All orders received after these cut-off times
+                              will be processed and shipped the very next business day. During peak times (i.e. promotions,
+                              backorder processing or unusual customer demands) order priorities will have to be reviewed
+                              and approved by Customer Service. All controlled substance orders should not be in transit
+                              for more than 2 days. At a minimum, all shipments to customers, with the exception of
+                              backorders, will be delivered within 8 business days from receipt of order. These
+                              requirements will be reviewed and revised if needed at the end of the V' full quarter of
+                              shipments.
+                         • Carrier service levels to be determined (i.e. last Fed Ex pick-up 11:30 PM CST)
+                         • Emergency orders must be shipped according to Work Instructions.
+
+                8. LHSI to process orders for Rx at LHSI Memphis Distribution Center (MDC) within appropriate
+                   designated working stations within warehouse area :
+                       • SAP will process order and transmits order to LMS. LMS will validate customer DEA
+                            information and product information prior to transmitting to WMS for processing.
+                       • LMS system to process order and allocate inventory based on Endo's FIFO requirements. The
+                            limited exceptions to this rule flow from the desire to never have more than two lots open at a
+                            given time while accommodating LHSI system limitations. Specifically, if successive lots
+                            arrive at MDC which expire before lots already received at MDC, the MDC will complete the
+                            lot it is currently shipping. Then the MDC will be permitted to select as the next lot to ship as
+                            the lot with the shortest shelf life. In addition, if Quality Assurance Associate puts a lot on
+                            Hold at any time, the MDC will be permitted to ship from the next lot with the shortest shelf
+                            life. If that same lot on Hold gets released, the MDC will complete the lot it is currently
+                            shipping from and then will be permitted to select the next lot to ship from with the shortest
+                            shelf life. Inventory allocation control will be achieved through the use of WMS hold reason
+                            codes and Cognos report. Picker One — picks and stages order utilizing RF scanner.
+
+
+
+
+                              Source:
+HIGHLY CONFIDENTIAL - SUBJECT TO         https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+                                 PROTECTIVE ORDER                                                                           ENDO-OPIOID_MDL-06250923
+                         •   Picker Two — validates the staged order to the original pick document
+                         •   Packer will package order per mutually agreed upon Work Instructions. Endo packing slip
+                             will be enclosed within carton for all Rx orders.
+                         •    Shipper will process all orders through carrier shipment terminals. Initially, MDC
+                             authorized FTE will enter pertinent information directly into SAP. Future functionality will
+                             allow LHSI new Transportation Management System to electronically provide shipment data
+                             via EDI.
+                         •   LHSI designate will perform dispatch function when carrier arrives.
+                         •   LHSI will transmit sales order confirmation to LMS/OMS and then transmit agreed upon data
+                             to SAP Scheduled transmission will be performed every hour.
+                         •   Normal daily order cut-off times for same day processing and shipping is 3:00pm Central
+                             Standard Time (4:00pm Eastern Standard Time).All orders received after these cut-off times
+                             will be processed and shipped the very next business day. During peak times (i.e. promotions,
+                             backorder processing or unusual customer demands) order priorities will have to be reviewed
+                             and approved by Customer Service. All controlled substance orders should not be in transit
+                             for more than 2 days. At a minimum, all shipments to customers, with the exception of
+                             backorders, will be delivered within 8 business days from receipt of order. These
+                             requirements will be reviewed and revised if needed at the end of the 1st full quarter of
+                             shipments.
+                         •   Carrier service levels to be determined (i.e. last Fed Ex pick-up 11:30 PM CST)
+                         •   Emergency orders must be shipped according to Work Instructions.
+
+                9.   LHSI MDC to process all other types of orders (same classes as above) according to above and Work
+                     Instructions (i.e. promotions, clinical study orders, stock fulfillment orders, shortdated orders).
+
+                10. All Endo backorders, when product is released, will be processed according to Work Instructions.
+
+                11. Endo Pharmaceuticals will be adding new products to its portfolio and LHSI MDC will be responsible
+                    for providing all services described in this scope for any and all new products, provided that these
+                    products require same type of PDMA storage specifications as existing products.
+
+                12. LHSI MDC must comply with special customer order requirements such as dating; ship requests will
+                    be passed through interface via customer notes.
+
+                13. LHSI to perform transportation management for Endo for all outbound orders.
+
+                         •   Carrier selection to be mutually agreed upon by Endo and LHSI
+                         •   LHSI to perform random audit of freight invoices.
+                         •   LHSI to manage freight payments and audits.
+                         •   LHSI to conduct carrier performance audits.
+
+                14. LHSI to perform the following Inventory Control functions utilizing segregation of duties:
+                       • Complete redundancy (double check) of receiving and picking functions for controlled
+                            substances (i.e. Receiver 1, Receiver 2 and Put Away checks). For ambient products Receiver
+                            1 checks and then a Put Away check as well.
+                       • LHSI Supervisor will validate all inbound receipts and all internal product movement.
+                       • LMS to provide a previous workday ending inventory update to SAP by 8:00 AM EST each
+                            morning.
+                       • LHSI to perform daily physical inventory count on all active controlled substance lots and
+                            locations.
+                       • LHSI to perform non-controlled inventory cycle counts 8% (1/12) of location per day.
+                       • LHSI MDC Managers (Director., Distribution Center Manager, Office Manager) is solely
+                            authorized to approve inventory adjustments of controlled substances.
+                       • LMS RF functionality electronically restricts warehouse personnel access to proper
+                            warehouse zones.
+
+
+
+
+                              Source:
+HIGHLY CONFIDENTIAL - SUBJECT TO         https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+                                 PROTECTIVE ORDER                                                                       ENDO-OPIOID_MDL-06250924
+                         •   Control cage card access limits LHSI employees access to controlled areas.
+                         •   If inventory receipt has discrepancy, LHSI is responsible for reporting to Endo Quality
+                             Assurance Associate as detailed in Work Instructions.
+                         •   LHSI MDC is responsible for investigating shortages, incorrect shipments, and reporting to
+                             Customer Service according to Work Instructions.
+
+                15. LHSI to perform DEA/ARCOS Compliance Validation and ARCOS Reporting:
+                       • All daily receiving and shipping documents to be maintained in a secured area outside of
+                            control cage.
+                       • DEA Daily Edit Report of LMS controlled substance transactions will be generated next
+                            business day. This report contains all LMS DEA transactions performed the previous day.
+                       •    LHSI non-controlled substance Warehouse Associate will validate the official receiving and
+                            shipping documents to the DEA Daily Edit Report.
+                       • LHSI does perform a monthly product reconciliation for all classes of controlled substances
+                            comparing a report of monthly DEA transactions to the month end physical inventory. This
+                            ensures the DEA electronic file confirms the physical inventory.
+                       • LHSI will perform quarterly ARCOS transmissions of all activity
+
+
+                16. LHSI will manage the handling and processing of short-dated, damaged or expired inventory on behalf
+                    of Endo to be sold to Pharmacy Solutions, Inc :
+                        •    LHSI to submit inventory report itemizing product, quantities and lot and category of product.
+                        •    Endo Customer Service Manager or designate and Quality &Compliance to approve request
+                            for destruction. Order entry for destruction orders will be perform solely within LMS
+                            OMS/WMS processes. LMS will validate Pharmacy Solutions, Inc. as the customer, product
+                            information and quantity prior to transmitting to WMS for processing.
+                        •   If CII product is involved, LHSI will contact Pharmacy Solutions, Inc. and request them to
+                            issue DEA Form 222. LHSI Supervisor will compare pick document to original DEA Form
+                            222.
+                        •   LHSI will process the order as outlined above.
+                        •   LHSI will process all product destructions according to all DEA guidelines.
+                        •   LHSI will provide Endo Quality Assurance Associate with copies of Pharmacy Solution
+                            acknowledgement documentation.
+                        •   LHSI destruction process will be audited and reviewed from time to time by Endo Quality
+                            Assurance Associate.
+
+                17. LHSI will manage receipt, handling and processing of all authorized returns.
+                       •    Endo Customer Service and Distribution will process all authorization requests for return
+                            merchandise based on Endo Returns Policy and according to Customer Service Work
+                            Instructions.
+                       • If in-date product is returned (i.e. mis-shipment,), that product can be put back into inventory
+                           after Endo Quality Assurance Associate approves.
+                       •   LHSI will receive and process return based on mutually agreed upon Work Instructions.
+                       •   LHSI will store return merchandise in designated area under Quarantined status until
+                           authorized by Endo (Customer Service Manager or designate and on-site Quality Associate
+                           for destruction as detailed in Work Instructions.
+                       •   If CII product is involved, LHSI warehouse operator will send customer a DEA Form 222 so
+                           that customer can return product.
+                       •   Process for destruction is outlined above.
+                       • All returns should be processed within 5 working days from the date of receipt.
+                       • LHSI will be required to process all full container returns. Full container is defined, as
+                           original manufactures seal intact. In the event of a partial container receipt, LHSI will be
+                           required to perform manually regulatory reporting requirement. LHSI will be responsible for
+                           keying partial return credit in SAP system.
+
+
+
+
+                              Source:
+HIGHLY CONFIDENTIAL - SUBJECT TO         https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+                                 PROTECTIVE ORDER                                                                         ENDO-OPIOID_MDL-06250925
+                         •   Returned Products to be received, handled and processed are specified on Schedule A-I and
+                             A-II.
+
+                18. LHSI will provide a Shipping History Report by Lot Number, by customer should a Recall be issued
+                    by Endo. LHSI will assist in executing recall i.e. communication to customers, and receipt of product
+                    in controlled area according to Endo's Recall policy as a special project.
+
+                DESCRIPTION OF LHSI WAREHOUSE FACILITY
+                                                                      i918"              45'16               171,05   7
+                1.   LHSI to provide PDMA/DEA compliant space for .606-pallet vault, 360-pallet cage and 4060-ambient
+                     pallet positions at 1910 Danielson Road, Memphis, Tennessee 38114.
+                2.   LHSI to provide security systems to include cameras located in the receiving, vault, cage and shipping
+                     areas; video, limited ID card access to controlled areas, and pocketless uniforms.
+                3.   LHSI to provide designated office space complete with furniture, telephones and Personal Computers
+                     for Endo Quality Assurance Associate and LHSI Order Entry personnel.
+                4.
+                     reirn.ipirkg rrndi;MS. Le4S-1— pr o el -e. 02                                                             4,,tivALIIALL
+                                                                                VAel.              S in fate, c
+                                                                                                                                -ptr.uc
+                5.   LHSI to provide warehouse equipment (forklifts, racking, RF scanners, pick lines, carrier terminals,
+                     communication lines, and terminal hardware).
+                6.   LHSI to provide secure trucking lounge for truckers.
+                7.   Upon completion of construction of MDC, Endo and LHSI should review and agree on location of
+                     security cameras and overall state of security in general.
+                8.   Emergency after hour on-call beeper is available. Emergency orders will be processed as per work
+                     instructions
+
+                 DESCRIPTION OF INFORMATION TECHNOLOGY SERVICES
+                1. LHSI will provide LMS2000 platform for warehouse management functions and train appropriate
+                   Endo QA personnel.
+                2. LHSI will participate in the project management, design, and development of LMS2000 interface with
+                   SAP.
+                3. LHSI will provide LMS2000 test environment and participating in interface validation.
+                4. Endo will provide SAP test environment and participate in interface validation.
+                5. LHSI will provide terminal hardware, software and connectivity for Endo Quality Assurance Associate
+                   personnel and LHSI order entry associate.
+                6. This document contains many statements that refer to EDI Transmission and RF functionality. The
+                   following is a definition of these statements and how they will be applied through out LHSI
+                   applications and this document:                                        y2hour
+                   • EDI Inbound and Outbound transmissions will be scheduled every-hem between the hours of
+                        8:30AM to 11:30PM EST, or more often as agreed upon.
+                   • RF is defined in many of LHSI day- to-day activities. In the event of system failure, LHSI will
+                        perform receipts, put away, stock move and picking utilizing workstation and paper. The
+                        workstation / paper mode is fully capable of performing the same task and providing the same
+                        results.
+
+                DESCRIPTION OF HUMAN RESOURCE SERVICES
+                1. LHSI to recruit, hire and train appropriate LHSI personnel to provide the Services.
+                2. LHSI will conduct background checks on new LHSI employees.
+                3. LHSI will perform initial drug testing and conduct random drug testing of all active employees.
+                4. Endo to provide LHSI Hold Harmless Agreement for Endo Quality Assurance Associate personnel
+                    stationed at LHSI Memphis Distribution Center.
+                5. Endo Quality Assurance Associate personnel will adhere to all LHSI employee policies and have
+                    access to Memphis facility limited to standard business hours of operation.
+                6. LHSI to assist Endo in the recruiting process for Quality Assurance Associate.
+                7. LHSI to provide limited access to controlled areas (vault and cage) and only limited employees will be
+                    able to work those areas.
+                8. LHSI will adhere to the required GMP, DEA, OSHA AND EPA regulations.
+
+
+
+
+                              Source:
+HIGHLY CONFIDENTIAL - SUBJECT TO         https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+                                 PROTECTIVE ORDER                                                                           ENDO-OPIOID_MDL-06250926
+                                                    SCHEDULE C (continued)
+
+               DESCRIPTION OF CUSTOMER SERVICE AND CHARGEBACK PROCESSING SERVICES
+                                AND ACCOUNTS RECEIVABLE SERVICES
+
+              The ENDO/LHSI Customer Service, Chargeback Processing and Accounts Receivable
+              implementation will include the following:
+
+              1.      Endo will provide LHSI access to SAP to perform Customer Service, the processing of
+                      chargebacks, returns and Accounts Receivable services.
+
+              2.      LHSI will supply the necessary phone lines to handle customer inquiries and process orders
+                      by phone or fax.
+                                         seamless transfer of customer medical information calls to appropriate
+                                         Endo personnel
+                                         seamless transfer of customer calls to Endo corporate
+                                         seamless transfer of customer calls regarding customer complaints to
+                                         appropriate Endo personnel
+                                         handle peak times
+
+              3.      LHSI will provide an address for mail orders and any other correspondence that should be
+                      directed to LHSI.
+
+              4.       Endo will handle all initial EDI setup, in conjunction with LHSI, using SAP. Current EDI
+                      transactions supported are purchase orders, chargebacks, chargeback reconciliation,
+                      invoicing and award notifications. All future EDI transactions and/or customer additions to
+                      existing accounts will be handled by ENDO in conjunction with LHSI. Initial EDI training
+                      for LHSI will be provided at Endo's expense and is included in the start-up fee. LHSI is
+                      responsible for the following:
+
+                                           monitoring EDI error reports
+                                           recording customer calls regarding EDI inquiries and/or problems
+                                           communicating on a daily basis to Endo any inquiries and/or problems
+
+              5.      LHSI will be responsible for communicating the initial changeover to all Endo customers
+                      which will include changes such as telephone numbers, addresses, changes in returns
+                      processing, etc.
+
+              6.      Endo will establish protocols with LHSI's Memphis Distribution Centcr ("MDC") to
+                      handle CII narcotics orders (DEA form #222). LHSI's MDC Customer Service
+                      Representative will be responsible for entering all CII orders in SAP at the LHSI MDC.
+                      LHSI Customer Service will have access to all order information related to CII orders to be
+                      able to respond to customer inquiries.
+
+
+
+
+                                                                                                             ENDO-OPIOID_MDL-06250927
+                             Source: https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+HIGHLY CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER
+             7.    The MDC will provide ship confirmation and shipment tracking information to SAP so that
+                   I..HST can inform customers of order ship dates.
+
+             8.    The MDC will provide inventory information to SAP so that LHSI has access to on hand
+                   inventory, and product in quarantine.
+
+             9.     LHSI, in the absence of electronic invoicing, will mail invoices to Endo's customers.
+                    Postage costs will be passed on to Endo.
+
+             10.    LHSI will provide the staffing and training necessary to conduct the following customer
+                    service and chargeback functions:
+                    •    Call Management to include
+                        • Primary contact for customers, responding to all customer inquiries within 24 hours.
+                            It is assumed that a LHSI customer service representative will answer all customer
+                            calls and handle according to established work procedures.
+                            • Customer service hours to be from 8:00 am - 6:00 pm
+                            • Em enc' calls — Bee          cov ge, numbers ref enced. It is assumed that
+                                                 uire the          ave someo        able to respond. Time spent
+                                 for emer• ency response will e charged at th Agreed overtime rate.
+                            • Order inquiries
+                            • Shipping errors
+                            • Product complaints
+                            • Return authorizations (CIIs only) Forms faxed for others.
+                            • Chargeback inquiries
+                            • Invoice inquiries
+                            • Pricing inquiries
+                            • PODs
+                            • Adverse Events forwarded to appropriate Endo personnel as detailed in work
+                                 procedures.
+                            • Emergenc            — Beeper co     ge. It is assume  at ENDO will require the
+                                 MDC to hav       meone availab to respond
+
+                       •   Telephone Metrics
+                           • Report customer calls outlined in work procedures daily.
+                           • Inbound calls
+                              • Number of calls
+                              • Number of Abandoned calls
+                              • Average speed of answer
+                              • Duration of call
+                              • Types of calls (i.e. medical affairs vs customer service)
+
+
+
+
+                              Source:
+HIGHLY CONFIDENTIAL - SUBJECT TO         https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+                                 PROTECTIVE ORDER                                                           ENDO-OPIOID_MDL-06250928
+                                                               SCHEDULE C (continued)
+
+                               •   Outbound calls
+                                   • Number of calls
+                                   • Average duration of call
+                                   • Hourly report (to monitor peak times for proper coverage)
+
+                       •     Order Entry (except CIIs), Maintenance (except CIIs) and processing of all orders to
+                           include
+                           • Customer number verification
+                               Validation of valid DEA license and schedule verification, valid state license, credit
+                               checks
+                           • Order modifications
+                           • Excessive order checks
+                           • NDC and pricing checks
+                           • New business checks (new item purchased)
+                           • Trade Show orders
+                           • Promotional orders
+                           • Export orders
+                           • Drop shipments
+                           • Rush orders
+                           • Re-work on orders (i.e. damages, order entry errors, etc)
+                           • Shortdated orders, overstock orders
+                           • Clinical study orders
+                           • Product complaints — credit/product replacement
+                           • PODs
+                           • Physician personal use units according to Stock Fulfillment procedure
+                           • Donations
+                            • rk.1412.10- eiSSsi `jdtk },CC. 4I CLQ-( 5
+                       •   LHSI will be responsible for backorder management and processing
+                             • Handle backorders according to customers' request (customer's cancellation
+                                 policies)
+                             • Proactively advise customer of all backorders and expected delivery dates
+                                 whether EDI or manual order (assuming SAP or Endo can provide this
+                                 information)
+                             • Work with MDC to prioritize backorder shipments
+                             • Handle according to Endo's procedures and work instructions
+
+
+
+
+                             Source: https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+HIGHLY CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER                                                                ENDO-OPIOID_MDL-06250929
+                                                    SCHEDULE C (continued)
+
+
+                       •    LHSI will be responsible for Customer and Product Master file maintenance to include
+                           but not be limited to:
+                           • Assistance with initial file loads of Customer Master profiles, including drop ships
+                           • New account setups
+                           • DEA updates
+                           owSitertmarrrpchttes--. .
+                           • Customer/Product eligibility
+
+                       •   LHSI will be responsible for the preparation of letters to customers for DEA license 30
+                           days before expiration. LHSI will also be responsible for maintaining copies of all
+                           applicable customer licenses, including DEA licenses.
+
+                            Day end activity reporting (assumes SAP generated)
+
+                            Customer invoicing (assume SAP generated) to include
+                           • Processing of all Invoices
+                           • Processing of price equalizations
+                           • Processing of return credits, including electronic and manual processing
+                           • Processing of all credits, including electronic and manual processing
+                           • LHSI will work with Endo to have invoices printed
+
+                      •     Chargeback validation, processing and reconciliation to include:
+                           a 72 hour turn around time (credit to customer) The assumption is that at least 90%
+                              of the transactions are via EDI
+                           • Handle all inquiries from customers related to chargebacks
+                           • Manual entry of chargebacks
+                           • Assist in resolving all chargeback errors with wholesaler customers
+                           • ENDO is responsible for Group membership and wholesaler updates
+                           • Primary conduit for National Account Executives for all customer inquiries or
+                              requests regarding chargebacks
+
+                      •    Return Authorizations
+                           • Handled return authorizations according to Endo Returns Policy and Procedures
+
+
+
+
+                             Source: https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+HIGHLY CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER                                                            ENDO-OPIOID_MDL-06250930
+                                                    SCHEDULE C (continued)
+
+
+                           •     LHSI will proactively call accounts to build an awareness of promotions/new
+                                product launches.
+
+               11.     LHSI will be responsible for Accounts Receivable for Endo which includes:
+                       •    Deposits
+                       •    Cash Management and Application
+                       •    Adjustments
+                         • Short Payments
+                         • Cash Discounts
+                         • Payments on Accounts
+                         • Credits/Debits
+                         • Chargebacks
+                         • Write Offs
+                         • Slow Payer's
+                       •   Collections Management and Deductions/Dispute Resolution
+                       •   Reporting
+                       •    ENDO is responsible for credit management (e.g., establishing customer credit limits,
+                         placing and releasing customer orders on credit hold).
+
+               12.     MDC will be responsible for all ARCOS reporting and tracking.
+
+               13.     LHSI will allow Endo to do random checks on how customer calls are handled.
+
+               14.    Endo will be responsible for all contracts, pricing and rebate administration, including
+               Medicaid (assumes on SAP).
+
+              15.     LHSI will be responsible for Record Retention for all services Agreed upon in accordance
+              with the Work Instructions as well as those Record Retention services described in the Agreement.
+
+
+               Key Assumptions:
+
+               ➢ LHSI does not provide support for SAP.
+
+               ➢ ENDO will provide help desk support for SAP.
+
+               ➢ ENDO's customer base will contain only customers holding current state and federal licenses to
+                 distribute pharmaceuticals (e.g. DEA license, wholesaler distribution license).
+
+
+
+
+                               Source: https://www.industrydocuments.ucsf.edu/docs/lxwk0433
+HIGHLY CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER                                                                ENDO-OPIOID_MDL-06250931
+

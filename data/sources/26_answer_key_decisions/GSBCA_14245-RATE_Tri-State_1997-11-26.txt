@@ -1,0 +1,203 @@
+ 
+                     
+ 
+                     
+ 
+    
+ 
+                       _________________________
+ 
+                           November 26, 1997
+                       __________________________
+ 
+ 
+                            GSBCA 14245-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        John  R. Bagileo of  Bagileo, Silverberg &  Goldman, L.L.P.,
+   Washington,  DC; and Robert  D. Norcom, Auditor,  Tri-State Motor
+   Transit Co., Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey  J.  Thurston,  Director,  Office of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col. James  F. Quinn,  Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense. 
+ 
+   NEILL, Board Judge.
+ 
+        Claimant, Tri-State  Motor Transit Company  (Tri-State), has
+   asked  that we review  the denial of  eight of its  claims by the
+   Office  of  Transportation   Audits  of   the  General   Services
+   Administration (GSA).  The claims are for alleged excess released
+   value charges on vehicles moved  by claimant during 1991 pursuant
+   to eight  Government bills  of lading (GBLs).   We  conclude that
+   Tri-State is entitled to recover on seven of the eight claims. 
+ 
+        Claimant  originally billed the  Government for each  of the
+   eight shipments based on the stated "Freight All Kinds" or  other
+   National Motor Freight Classification  designation listed on  the
+   GBLs.   Tri-State sought no charge for  excess valuation coverage
+   in its  original billing.  Upon audit, claimant determined, based
+   upon the released  value annotations appearing on  the GBLs, that
+   it was entitled to excess  valuation charges.  With the exception
+   of GBL D-1,032,191, each GBL does, in fact, contain either in box
+   15 or box 18 an annotation  which, although in some  cases worded
+   slightly differently,  nevertheless indicates  that the  released
+   value for  the  cargo is  not to  exceed $2.50  per  pound.   The
+   annotation  for D-1,032,191 states  that the released  value does
+   not exceed $1.75 per ton.        
+ 
+                                                                   2
+ 
+        Based on  the released  value annotations  appearing on  the
+   GBLs, Tri-State submitted claims in the following amounts.  
+ 
+                               GBL       Claim 
+                        1. D-1,101,868    $91.50
+                        2. D-1,101,870    $61.35
+                        3. D-1,046,279    $38.25
+                        4. D-1,046,280    $38.25
+                        5. D-1,179,926   $217.20
+                        6. D-1,164,627   $182.10
+                        7. D-1,101,519    $39.75
+                        8. D-1,032,191    $40.35
+                        TOTAL            $708.75
+ 
+        Tri-State computed these claims using a methodology based on
+   guidance provided  in Military Traffic  Management Command (MTMC)
+   Freight Traffic Rules  Publication No. 1A, Item 190.   Taking GBL
+   D-1,101,868  as a representative  example, we note  that claimant
+   determined the  release  value  of  the wrecker  truck  which  it
+   transported,  by taking  $2.50  per  pound  (the  released  value
+   annotation appearing  in box 15 of the GBL) and multiplying it by
+   the weight of the truck, 32,640 pounds.  This resulted in a total
+   released value of $81,600.   Claimant then determined the  excess
+   declared value  to be $61,600 ($81,600 less  the default released
+   value of $20,000).  Claimant  rounded this figure down to $61,000
+   and then applied the rate of $.15 for every hundred to  arrive at
+   an excess valuation charge of $91.50.   Similar computations were
+   performed  for each  of the  other seven  GBLs to  arrive at  the
+   amounts claimed.[foot #] 1  
+ 
+        GSA's Office  of  Transportation  Audits  issued  settlement
+   certificates  which disallowed  all eight of  Tri-State's claims.
+   The claims  were rejected on  the ground that the  released value
+   annotations on the  GBLs did not entitle the  carrier to anything
+   more  than  what  was  originally  sought  based  upon  the  item
+   classification numbers  shown on  the GBLs.   Claimant  thereupon
+   asked the General Accounting Office (GAO) to review GSA's denial.
+   GAO docketed the  request as B-266097.  No decision was issued on
+   the  case.   Tri-State  did,  however,  receive  a  letter  dated
+   December 11, 1995, from GAO.   The letter acknowledged receipt of
+   Tri-State's claim  and provided  Tri-State with  the case  docket
+   number.  The letter went on to state: 
+ 
+        As you suggest, GSA's settlements appear to be contrary
+        to  our  decision  Tri-State  Motor  Transit  Company--
+        Reconsideration, B-254378.2 et al., July 5, 1995.  Your
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1   The calculation for  the last GBL, D-1,032,191,
+   is based on the assumption  that the released value annotation of
+   $1.75 per ton  in block 15  is in error  and should instead  read
+   $1.75 per pound.   
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   3
+ 
+        letter  to the . . .  Administrator of General Services
+        indicates that you  are attempting to enforce  our July
+        5, 1995, decision  within GSA.  If you are unsuccessful
+        with  the Administrator, you  may have to  pursue other
+        remedies.  We have clearly stated our  position on this
+        matter, and we have nothing further to add.  
+ 
+        We  will maintain  this  letter  as  evidence  of  your
+        request for  review, and we  will provide a copy  of it
+        with all enclosures to GSA and to the  Military Traffic
+        Management Command.  Please advise if you believe there
+        are future steps we can take.  
+ 
+        We  read the  final paragraph  of  this letter  from GAO  as
+   indicating that the matter remained pending and was not  resolved
+   by GAO.[foot #] 2
+ 
+        Several months after GAO wrote this letter to Tri-State, the
+   authority   to  review  GSA's   denial  of  carrier   claims  was
+   transferred from GAO to this Board.  C. I. Whitten Transfer  Co.,
+   GSBCA 13911-RATE, 97-1 BCA   28,860, at 143,986.  By letter dated
+   July 7, 1997, Tri-State asked the Board to review GSA's denial of
+   eight  claims originally  submitted to  GAO  and assigned  docket
+   number  B-266097.   We  docketed  the request  and  asked GAO  to
+   provide us the file for this  case.  We then invited the  parties
+   to file comments on these claims of Tri-State. 
+ 
+        Tri-State's  position is  that  based  on  the  earlier  GAO
+   decision of July  5, 1995, the GAO  letter of December 10,  1995,
+   and other decisions of the GAO and this Board  regarding the same
+   issue,  there is  nothing for  this  Board to  do but  affirm the
+   continued applicability  of those  decisions and  issue an  order
+   enforcing compliance with  them.  GSA's Office  of Transportation
+   Audits  disagrees  and  contends  that  the  decisions  cited  by
+   claimant have limited application and are restricted by the facts
+   relative to each case.  The office, however, has deferred to MTMC
+   to address  the diversity  of facts  distinguishing these  claims
+   from those  which have been the subject of the decisions cited by
+   Tri-State.    MTMC, although  providing  extensive comments,  has
+   provided us with no facts specific  to the GBLs at issue in  this
+   case.  
+ 
+        The Government continues to maintain that the released value
+   statements on  GBLs do  not entitle  Tri-State to  the additional
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2   This  language  does not  appear  in  a similar
+   letter written with regard  to the claim which is  the subject of
+   our decision  in Tri-State  Motor Transit  Co., GSBCA  14250-RATE
+                    
+   (Oct.  21, 1997),  in  which  the Board  concluded  that GAO  had
+   completed  its review  and  effectively  granted  the  claims  in
+   question.  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   4
+ 
+   amounts  claimed.   We  agree  with  claimant  that there  is  no
+   substantive difference between  the facts in this case  and those
+   in other cases  where the Board  and GAO have concluded  that the
+   Government's  position is not  correct.  Tri-State  Motor Transit
+   Co.,  GSBCA 13735-RATE (Nov.  18, 1997); Tri-State  Motor Transit
+   Co., GSBCA 14243-RATE (Nov. 4, 1997); McGil Specialized Carriers,
+   GSBCA 14127-RATE (Sept.  30, 1997); Tri-State Motor  Transit Co.,
+   GSBCA 13839-RATE, 97-1 BCA   28,953; Tri-State Motor Transit Co.,
+   GSBCA 13746-RATE, 97-1 BCA   28,951; Tri-State Motor Transit Co.-
+   -Reconsideration,  B-254378.2, et al. (July 5,  1995).  We follow
+   our earlier decisions.  
+ 
+        Tri-State  is, therefore, entitled to the amounts claimed as
+   additional payment for the shipments  covered by the first  seven
+   GBLs at  issue.  The  claim regarding GBL D-1,032,191  is denied,
+   however, since  the $1.75 figure  used by Tri-State  to calculate
+   its excess  claim is  clearly listed on  the GBL  as a  "per ton"
+   rather than a  "per pound" figure.   Using the "per ton"  figure,
+   one  cannot calculate  an  excess released  value but  rather one
+   which is considerably below the default value of $20,000.     
+ 
+                                           _____________________
+                                           EDWIN B. NEILL
+                                           Board Judge
+

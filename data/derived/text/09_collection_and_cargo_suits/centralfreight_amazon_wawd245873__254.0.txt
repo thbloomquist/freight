@@ -1,0 +1,2397 @@
+1                                                      HONORABLE JAMES L. ROBART
+
+2
+
+3
+
+4
+
+5
+
+6
+                              UNITED STATES DISTRICT COURT
+7
+                             WESTERN DISTRICT OF WASHINGTON
+8                                      AT SEATTLE
+
+9
+     CENTRAL FREIGHT LINES, INC., a Texas )
+10   Corporation                                  )
+11                                                ) NO. 2:17-CV-00814-JLR
+                                       Plaintiff, )
+12                                                ) JOINT PRETRIAL ORDER
+             v.                                   )
+13                                                ) TRIAL DATE: OCTOBER 21, 2019
+     AMAZON FULFILLMENT SERVICES,                 )
+14   a Delaware corporation, and DOES 1 through )
+15   25, inclusive,                               )
+                                    Defendants. )
+16                                                )
+17
+
+18
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+     JOINT PRETRIAL ORDER                                        ROETZEL & ANDRESS LPA
+     NO. 2:18-cv-00814-JLR                                   30 N. LASALLE STREET SUITE 2800
+                                                                     CHICAGO, IL 60602
+                                                                        312.580.1200
+
+     53523549.1
+1                                                  I. JURISDICTION
+
+2              This Court has jurisdiction in this matter under 28 U.S.C. § 1332(a) because the matter in
+
+3    controversy exceeds the sum of $75,000, exclusive of interest and costs, and is between citizens
+
+4    of different states.
+
+5                        II. CLAIMS AND DEFENSES REMAINING FOR TRIAL
+                        AFTER THE COURT’S SUMMARY JUDGMENT RULING
+6
+              On July 31, 2019, this Court entered its Order on the Motions for Summary judgment
+7
+     (“Order”), which narrowed the claims and issues that remain for trial. At the September 10, 2019
+8
+     hearing on Plaintiff’s Daubert motions, the Court advised the parties to sharpen and focus the
+9
+     issues for trial. The Court’s September 17, 2019 Order on Plaintiff’s Motions to Exclude (“Daubert
+10
+     Ruling”) further narrowed the remaining issues for trial. The claims and defenses remain for trial
+11
+     as a result of these rulings are set forth below.
+12
+     A.       PLAINTIFFS’ CLAIMS AND DEFENSES
+13
+              1.        Counts I and II – Declaratory Judgment and Breach of Contract
+14
+              Set Off
+15
+              The Court “GRANT[ED] CFL summary judgment on its declaratory judgment claims that
+16
+     AFS’s $2,856,602.00 setoff was improper.” (Order, 51:12-15.). This issue therefore no longer
+17
+     remains for trial.1
+18
+              8+ Pallet Issue
+19
+              The Court held that: (1) CFL and AFS reached an oral agreement beginning on January 16,
+20
+     2014 pursuant to which CFL would charge its spot quote rate for shipments that were 9 or more
+21
+     pallet spaces in size (Id., 27-28); (2) this oral agreement did not require CFL to obtain AFS’
+22
+     preapproval of its spot quote rate for shipments that were 9 or more pallet spaces in size. (Id., 29-
+23
+     30); (3) “even if the parties orally agreed to the preapproval requirement, AFS waived this
+24
+
+25
+     1 Central Freight has filed a motion for entry of judgment. (Dkt. # 241.)
+26
+                                                                                 ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                                   30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-1                                                        CHICAGO, IL 60602
+                                                                                        312.580.1200
+1    requirement” (Id., p. 30); (4) the oral agreement “was for CFL to charge its spot-quoted volume
+
+2    rate, not a ‘reasonable’ rate” (Daubert Ruling, p. 25 n. 8); (5) CFL “should not have spot quoted
+
+3    shipments that occupied exactly eight pallet spaces” (Id., 32:20-22); (6) the Court was unable to
+
+4    “determine whether CFL properly charged for the shipments that occupied between one and seven
+
+5    pallet spaces” (Id., 32:20-22).2
+
+6             Based on the aforementioned rulings by the Court, the only issues that CFL must establish
+
+7    at trial for Counts I and II on the 8+ Pallet issue are:
+
+8            that it billed its volume rate using its spot quote software;
+9            the amount AFS owes to CFL on the shipments that were 9 or more pallet spaces to which
+10            the oral agreement applied;
+
+11           the amount AFS owes to CFL on the shipments that were 8 or fewer pallet spaces because
+12            of AFS’ miscalculation of what was owed under the Transportation Agreement.
+
+13       MBOL Issue
+
+14            The Court ruled that CFL was not obligated under the Transportation Agreement (“TA”)
+
+15   to consolidate multiple BOLs into a single MBOL. (See Oder, p. 38, “the Court concludes that the
+
+16   Agreement allowed CFL to use multiple BOLs”). The Court noted that mutual assent as to whether
+
+17   CFL would use one MBOL instead of multiple BOLs “may exist.” (Id.) The sole issue for trial
+
+18   thus is “whether, and at what date after the Directive, CFL was required to use one MBOL for
+19   same day/same origin/same destination shipments.” (Id. at 39:17-19.)
+
+20            The $431,028 that AFS set off on the MBOL was based on its audit of the months of
+
+21   February, March and April 2016. The sole issue at trial, therefore, is whether there was an
+
+22
+     2 In the Order, the Court found there are “genuine issues of material fact whether such an agreement [as the January
+23
+     16, 2014 oral agreement] existed prior to that date, and whether any agreement that existed prior to January 16, 2014,
+     contained a preapproval requirement.” (Order, 33:16-19.) However, it is undisputed that all of the 8+ Pallet Shipments
+24   for which AFS claims CFL overbilled it took place after the January 16, 2014 agreement. (See Pl. Trial Ex. 167, AFS’
+     0% Discount Audit, AFS_CFL_00001597.) Moreover, any claim by AFS as to shipments prior to January 16, 2014
+25   would be untimely and barred under the Agreement. There thus is no issue for trial as to the existence of such an
+     agreement prior to January 16, 2014.
+26
+                                                                                 ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                                   30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-2                                                        CHICAGO, IL 60602
+                                                                                        312.580.1200
+1    agreement to combine BOLs, and, if so when it was reached. For example, if CFL establishes there
+
+2    was no agreement as of the end of April 2016, CFL is entitled to payment of the $431,028 that
+
+3    AFS set off.
+
+4           Further trial issues are: (1) “whether the $112,203.52 payment [by CFL on the MBOL
+
+5    Issue] was a reimbursement pursuant to the Agreement, or whether it was payment in furtherance
+
+6    of a settlement.” (Order, 55:16-19); (2) if it was payment in furtherance of a settlement. whether
+
+7    CFL is entitled to repayment of this money because AFS continued to pursue additional money
+
+8    from CFL after it was paid.
+
+9           Tender ID Issue
+
+10          The issues at trial on the Tender ID Issue are: (i) whether and when there was an agreement
+
+11   that CFL was required to include a valid Tender ID; and (ii) whether AFS could refuse payment
+
+12   for a shipment that was made because of no Tender ID. (Id., 40-41.)
+
+13          Damages for “bad faith”
+
+14          In addition to its actual damages, CFL may – if the jury finds that AFS acted with “bad
+
+15   faith” – be entitled to the attorneys’ fees it expended in this litigation. (Order, 56:8-17.) As stated
+
+16   in the Order, an award of attorney fees is proper under the bad faith exception when the fees were
+
+17   incurred as a result of: (1) an “intentional and calculated action” that (2) left “the plaintiff with
+
+18   only one course of action: that is, litigation.” (Id., 56:8-12 (quotation omitted).)
+19          2.      Central Freight’s Claims Dismissed by the Court at Summary Judgment
+
+20          The following claims were dismissed by the Court and are no longer part of the trial: Count
+
+21   III – Fraud, Count IV – Fraudulent Inducement, Count V – Conversion, Count VI – Promissory
+
+22   Estoppel (dismissed as moot because of other rulings), and Count VIII – Violation of Consumer
+
+23   Protection Acts.
+
+24          3.      Central Freight’s Defenses at Trial to AFS’s Counterclaims.
+
+25          1.      AFS’ counterclaims are barred by the doctrines of laches, estoppel, release, waiver,
+26   ratification, acquiescence, bad faith and/or unclean hands, and other equitable defenses.
+                                                                        ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                          30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-3                                               CHICAGO, IL 60602
+                                                                               312.580.1200
+1           2.      AFS’ counterclaims are barred in whole or in part because AFS has suffered no
+
+2    damage caused by the actions alleged in the Counterclaims.
+
+3           3.      AFS’ counterclaims are barred by Defendants’ own material breach of the Contract.
+
+4           4.      Any allegation that Central Freight breached the Contract is legally excused and
+
+5    justified by AFS’ material breach of the Contract.
+
+6           5.      Any claims by AFS against Central Freight’s outstanding invoices are time-barred.
+
+7    B.     AFS’S COUNTERCLAIMS AND DEFENSES
+
+8           AFS does not accept or ratify CFL’s characterization of the Court’s Orders and documents
+
+9    which speak for themselves. Because AFS’s defenses and counterclaims are intertwined, AFS
+
+10   addresses them together. AFS will pursue the following defenses and counterclaims at trial:
+
+11          (1)     CFL breached the terms of the transportation agreement by failing to charge the
+
+12   contractual rates for shipments occupying 1-8 pallet positions;
+
+13          (2)     CFL breached the terms of the oral modification of the transportation agreement by
+
+14   (a) failing to use its spot quote rating software to determine rates for shipments occupying more
+
+15   than 9 pallet positions, and/or (b) inflated the rates it charged AFS for shipments occupying 9 or
+
+16   more pallet positions;
+
+17          (3)     The parties modified the transportation agreement to require CFL to consolidate
+
+18   shipments and CFL breached that agreement by failing to consolidate shipments onto a single bill
+19   of lading for shipments moving in February, March, April, June of 2016;
+
+20          Central Freight’s Response to (3): The only months at issue for trial on the MBOL Issue
+
+21   are February, March and April of 2016. In its Counterclaim, AFS asserts that “Central Freight
+
+22   charged AFS multiple times for the same single shipments …. Central Freight’s billing procedures
+
+23   resulted in AFS overpaying Central Freight by $431,028, of which only a fraction was
+
+24   reimbursed.” (Dkt. # 48, Counterclaim ¶ 30.) By email dated June 23, 2016, Christian Piller
+
+25   confirmed to CFL that the audit was “only … February 2016 through April 2016 . . .”
+
+26   (CFL_003684, Trial Ex. 42.) Both of the “Multiple ARN Audit” spreadsheets AFS produced in
+                                                                      ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                        30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-4                                             CHICAGO, IL 60602
+                                                                             312.580.1200
+1    discovery, AFS_CFL_00000839 and AFS_CFL_00001599, end in April of 2016. (See Dkt. # 105,
+
+2    p. 6, confirming production of the setoff audits.) In addition, AFS is time-barred by both the
+
+3    limitations period set forth in the TA and federal law, 49 U.S.C. § 14705, from asserting a claim
+
+4    more than 18 months after the claim arose. AFS’ claim on shipments from June 2016 is time-
+
+5    barred. AFS should not be permitted to expand its prayer for affirmative relief on the eve of trial.
+
+6             AFS’s Reply: AFS’s counterclaims have always been that CFL “materially breached the
+
+7    Contract ... by charging AFS multiple times for single shipments.” Dkt. No. 48, ¶¶ 21-25, 42. This
+
+8    is an affirmative claim and is not limited to amounts AFS calculated in its audit as overcharges by
+
+9    CFL. CFL claims that AFS did not disclose this amount during discovery; however, CFL limited
+
+10   its discovery to AFS’s audit. See Dkt. No. 99-1, at 9, 17 (requesting the invoice numbers for “all
+
+11   freight services that you claim were overbilled pursuant to the Audit.”); see also Dkt. No. 139, ¶
+
+12   49 (placing CFL’s May/June 2016 audit in dispute for this litigation)3; Dkt. No. 144, ¶ 49
+
+13   (admitting that CFL agreed to “self-audit its multiple BOL shipments occurring in May and June
+
+14   2016, and agreed to repay these amounts, which amounted to $112,203.52 and $145,698.94”);
+
+15   Dkt. No. 156, at 23 (“CFL agreed to repay the overcharges from May and June 2016.”). Similarly,
+
+16   in its Motion to Compel, CFL only moved to compel the invoices for the “audit it [AFS] conducted
+
+17   of CFL’s performance in 2016.” See Dkt No. 98 at 2 (seeking the “full, accurate and complete
+
+18   copy of the July 2016 Audit.”), and AFS responded appropriately. The audit in dispute was
+19   conducted by CFL in August 2016. See Dkt. No. 158-2, at 11. AFS produced this audit as
+
+20   AFS_CFL_00001527. Moreover, AFS included these amounts in its Amended Initial Disclosures,
+
+21   served on CFL on May 9, 2019. Finally, the statute of limitations does not apply to AFS’s
+
+22   counterclaims. Olsen v. Pesarik, 118 Wn. App. 688, 692, 77 P.3d 385 (2003); Seattle First Nat.
+
+23
+
+24
+     3 CFL’s First Amended Complaint, Dkt. No. 139, does not explicitly claim that it is entitled to recover the $112,203.52
+25   it paid for unconsolidated May 2016 shipments. Nevertheless, CFL requests that amount be included as part of its
+     damages.
+26
+                                                                                 ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                                   30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-5                                                        CHICAGO, IL 60602
+                                                                                        312.580.1200
+1    Bank, N.A. v. Siebol, 64 Wn. App. 401, 407, 824 P.2d 1252 (1992). CFL’s objections are
+
+2    unwarranted.
+
+3           (4)     AFS is entitled to retain the $112,203.52 CFL issued AFS for unconsolidated
+
+4    shipments that moved in May of 2016;
+
+5           (5)     CFL breached the terms of the transportation agreement by failing to provide the
+
+6    required Tender ID on its invoices;
+
+7           (6)     CFL is not entitled to damages for shipments for which it failed to identify the
+
+8    Tender ID on certain unpaid invoices; certain invoices which were untimely submitted; and for
+
+9    invoices not authorized by AFS;
+
+10          Central Freight’s Response to (6): AFS’s belated attempt to state a claim on the eve of
+
+11   trial based upon the “setoff invoices” (as distinct from the “audit invoices”) is improper because
+
+12   AFS previously stated in discovery that information concerning the “invoices Central Freight
+
+13   submitted after the Audit” (i.e., the “setoff invoices”) “is irrelevant to any claim or defense in this
+
+14   litigation.” (AFS’ Answers to Plaintiff’s First Set of Interrogatories, No. 2.) Moreover, AFS stated
+
+15   it did not have a claim against the “setoff invoices” when it stated that it “set off this amount
+
+16   [$2,856,602] from amounts otherwise due.” (AFS’ Answers to Plaintiff’s First Set of
+
+17   Interrogatories, No. 6 (emphasis added).) AFS’ answers to discovery foreclosed its attempt to
+
+18   assert claims against the “setoff invoices” (invoices Central Freight submitted for work performed
+19   after the 2016 audit that AFS refused to pay). It cannot do so now. In addition, AFS is time-barred
+
+20   by both the limitations period set forth in the TA and federal law, 49 U.S.C. § 14705, from asserting
+
+21   these claims more than 18 months after they arose.
+
+22          AFS’s Reply: This allegation is an improper attempt to supplement CFL’s motion in limine
+
+23   addressing this issue by asserting alternative grounds for relief. See Dkt. No. 216, at 8-9. It also
+
+24   seeks to circumvent this Court’s ruling that these issues are “relevant to AFS’s breach of contract
+
+25   counterclaim.” Dkt. No. 238, at 16. CFL was well aware that AFS asserts these claims after CFL
+
+26   sought damages in excess of the set off amount. These claims were clearly raised during discovery
+                                                                        ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                          30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-6                                               CHICAGO, IL 60602
+                                                                               312.580.1200
+1    and were explicitly identified in the expert report of William Partin. See Dkt. No.158-2, at 69
+
+2    (dated May 2, 2019); see also Dkt. No. 156, at 43 (dated May 6, 2019). Because CFL was well
+
+3    aware of these damages prior to the discovery cutoff, it cannot now raise an issue that this is an
+
+4    undisclosed claim. Finally, statute of limitations defenses do not apply to AFS’s counterclaims.
+
+5    Olsen v. Pesarik, 118 Wn. App. 688, 692, 77 P.3d 385 (2003); Seattle First Nat. Bank, N.A. v.
+
+6    Siebol, 64 Wn. App. 401, 407, 824 P.2d 1252 (1992).
+
+7           (7)     AFS did not act in bad faith because CFL misrepresented the agreements it had
+
+8    with prior AFS carrier managers, and AFS understood CFL’s ability to spot quote as following
+
+9    industry procedures regarding spot quoting shipments.
+
+10                                     III.     STIPULATED FACTS
+
+11          The parties are prepared to stipulate to the following facts, which are relevant and about
+
+12   which they believes there is no dispute:
+
+13          1.      Central Freight is a less-than-truckload (“LTL”) freight carrier based in the
+
+14   southwestern United States. Central Freight also performs Truckload (“TL”) services and operates
+
+15   throughout the Southern United States.
+
+16          2.      LTL is a shipping option for freight shipments larger than parcel (small package)
+
+17   but less than a full truckload (“TL”).
+
+18          3.      Central Freight and AFS entered into a Transportation Agreement (“TA”) with an
+19   effective date of July 7, 2011.
+
+20          4.      The TA was renewed on an annual basis and was in full force and effect until it was
+
+21   terminated in early 2017.
+
+22          5.      Central Freight made hundreds of thousands of LTL freight shipments for AFS over
+
+23   the years the TA was in effect.
+
+24          6.      In 2011, Central Freight objected to transporting large volume shipments which
+
+25   had been tendered to Central Freight.
+
+26
+                                                                     ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                       30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-7                                            CHICAGO, IL 60602
+                                                                            312.580.1200
+1           7.      Central Freight informed AFS that it did not want to pick up and transport large
+
+2    volume shipments.
+
+3           8.      The Court has ruled that, on January 16, 2014, Christian Piller, of AFS, and Central
+
+4    Freight orally modified the TA to allow Central Freight to use its spot quote rating software system
+
+5    to set pricing for shipments that occupied nine or more pallet spaces.
+
+6           9.      The Court has ruled that the oral modification of the TA for shipments that were
+
+7    nine or more pallets in size did not require Central Freight to get preapproval from AFS of the
+
+8    pricing for those shipments.
+
+9           10.     In 2014, AFS implemented a computerized invoice auditing program, the
+
+10   Transportation Invoice Processing System, or “TIPS”, to support the goal of ensuring that AFS
+
+11   paid its carriers the right amount and on time.
+
+12          11.     If there was a variance between TIPS’s estimated manifest amount and the LTL
+
+13   carrier’s invoice, the system would flag the invoice as “off manifest.” TIPS also compared other
+
+14   metrics to determine if an invoice would be flagged as “off manifest.”
+
+15          12.     AFS paid thousands of invoices for shipments Central Freight transported for
+
+16   Amazon, including those that Central Freight contends were rated using Central Freight’s spot
+
+17   quote program.
+
+18          13.     In June of 2016, AFS denied that it had ever entered into an agreement with Central
+19   Freight regarding large volume shipments.
+
+20          14.     A bill of lading (“BOL”) is a contract between a shipper and carrier for a shipment
+
+21   by warranting payment to a carrier for that shipment. It identifies the freight, the person who
+
+22   receives it, the place of delivery and the terms of the agreement.
+
+23          15.     On February 13, 2016, Brett Beavers of AFS sent an email to AFS’s LTL carriers
+
+24   directing the carriers to combine multiple BOL into a Master BOL (“MBOL”) for shipments going
+
+25   from the same origin to the same destination on the same day onto a single MBOL. The email
+
+26   instructed carriers to invoice AFS based upon the MBOL.
+                                                                      ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                        30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-8                                             CHICAGO, IL 60602
+                                                                             312.580.1200
+1           16.     Combining multiple shipments, each identified by a single BOL, into a MBOL can
+
+2    modify the pricing of the shipments.
+
+3           17.     AFS sent the February 13, 2016 email to a single billing clerk at Central Freight.
+
+4           18.     On February 24, 2016, Barry Rankin, then the Director of Credit and Collections at
+
+5    Central Freight, forwarded the February 13, 2016 directive to Central Freight’s EDI team.
+
+6           19.     On March 2, 2016, Tom Botsios was forwarded the February 13, 2016 email.
+
+7           20.     On April 4, 2016, AFS sent another email to its LTL carriers notifying them that if
+
+8    they did not include the proper Tender ID on an invoice, AFS might refuse to pay the invoice.
+
+9           21.     A Tender ID is a unique reference number used by AFS to provide authorization
+
+10   for a carrier to transport a shipment.
+
+11          22.     A Tender ID may include multiple Amazon Reference Numbers (“ARN”).
+
+12          23.     In 2016, AFS initiated an audit of its LTL freight carriers to determine whether the
+
+13   carriers were complying with MBOL processes.
+
+14          24.     AFS’s MBOL audit claimed that Central Freight overcharged AFS by $431,028 for
+
+15   the months of February, March and April 2016.
+
+16          25.     AFS also audited Central Freight to determine its compliance with Tender ID
+
+17   procedures.
+
+18          26.     In June of 2016, an Amazon employee noticed that Central Freight was not
+19   applying the contractual discounts to some shipments.
+
+20          27.     AFS then audited Central Freight to determine whether it was applying the discount
+
+21   percentages set forth in its contract with AFS to applicable shipments, i.e., the 0% discount audit.
+
+22          28.     The 0% Discount audit reviewed shipments sent April 2015 through May 2016.
+
+23          29.     On August 10, 2016, AFS sent CFL a demand letter (“Demand Letter”) claiming
+
+24   that Central Freight had overcharged AFS: (1) $2,389,538.00 for failing to apply the contractual
+
+25   discount to certain shipments; $431,028.00 for failing to consolidate multiple BOLs in February,
+
+26   March and April 2016; and (3) $36,036.00 for supplying AFS with incorrect Tender IDs. Based on
+                                                                      ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                        30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-9                                             CHICAGO, IL 60602
+                                                                             312.580.1200
+1    those asserted errors, AFS demanded that CFL reimburse AFS $2,856,602.00 no later than
+
+2    September 15, 2016.
+
+3           30.     Central Freight refused to pay AFS the amounts set forth in the Demand Letter.
+
+4           31.     AFS decided to withhold money it owed Central Freight for freight services
+
+5    rendered in order to “set off” the $2,856,602 million it had demanded from Central Freight but that
+
+6    Central Freight refused to pay.
+
+7           32.     AFS continued to tender shipments to Central Freight and Central Freight
+
+8    continued to pick up and transport shipments for AFS, until the end of February/beginning of
+
+9    March 2017.
+
+10          33.     On February 14, 2017, AFS informed Central Freight that it would not be awarding
+
+11   Central Freight any LTL business in 2017.
+
+12          34.     AFS did not inform Central Freight in advance of its intent to effectuate a set off.
+
+13          35.     AFS began withholding payments to Central Freight on March 13, 2017.
+
+14          36.     AFS calculated the amount to set off for the 0% discount and Tender ID audits from
+
+15   a spreadsheet bates numbered AFS_CFL_00000351.
+
+16          37.     Later, AFS admitted that the spreadsheet AFS_CFL_00000351 was missorted.
+
+17          38.     To correct the error, AFS produced another spreadsheet, AFS_CFL00001597,
+
+18   which contains all the same shipments on its original 0% Discount Audit (AFS_CFL_00000351).
+19   AFS_CFL_00001597 did not include the Tender ID audit, which was included in
+
+20   AFS_CFL_00000351.
+
+21          39.     However, AFS_CFL_00001597 calculated the overcharge to be $2,415,787.27,
+
+22   more than the amount shown in AFS_CFL_00000351 and the amount AFS set off from Central
+
+23   Freight.
+
+24          40.     The 0% Discount audit contained 6,298 shipments, including shipments that were
+
+25   1 to 8 pallets in size, shipments that were nine pallets or more in size, as well as shipments
+
+26   comprised of non-palletized freight.
+                                                                      ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                        30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-10                                            CHICAGO, IL 60602
+                                                                             312.580.1200
+1           41.        AFS initially withheld as set off an amount that was $530,152.21 more than was
+
+2    set forth in the AFS_CFL_00000351 audit spreadsheet.
+
+3           42.        AFS paid the $530,161.23 a few weeks after Central Freight filed this lawsuit.
+
+4           43.        CFL claims AFS is currently withholding $2,856,602 from Central Freight based
+
+5    upon the setoff.
+
+6           44.        Of the 6,298 shipments in the 0% Discount audit, 4,151 of the shipments occupied
+
+7    8 or fewer pallet spaces.
+
+8           45.        Shipments that occupied fewer than 9 pallet spaces should have been rated under
+
+9    the TA.
+
+10          46.        The proper way to rate a shipment under the TA is to (i) determine the CzarLite
+
+11   Base Rate, (ii) apply the contractual discount to the CzarLite Base Rate and then (iii) apply AFS’s
+
+12   fuel surcharge.
+
+13                                         IV.    ISSUES OF LAW
+
+14          1.         Whether Central Freight agreed to consolidate shipments onto MBOL, such that
+
+15   Central Freight and AFS formed a contract on the MBOL Issue, after April 30, 2016.
+16
+            2.         Whether AFS breached the Transportation Agreement by withholding as set off
+17
+     $431,028 on the MBOL Issue.
+18
+            3.         Whether Central Freight breached the Transportation Agreement by failing to
+19
+     consolidate shipments and consequently overcharging AFS by $431,028 for shipments in
+20
+
+21   February, March and April of 2016, and $145,698.94 for June 2016.
+
+22          Central Freight Response to (3): Shipments from June of 2016 are time-barred, barred
+23   by AFS’s responses in discovery and AFS omitted any claims against these shipments from its
+24
+     Counterclaim. See page 4, supra.
+25
+
+26
+                                                                       ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                         30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-11                                             CHICAGO, IL 60602
+                                                                              312.580.1200
+1              4.    Whether AFS breached the Transportation Agreement by withholding as set off
+
+2    $36,036 on the Tender ID issue.
+3
+               5.    Whether Central Freight breached the Transportation Agreement by failing to
+4
+     provide proper Tender IDs on its invoices to AFS.
+5
+               Central Freight Response to (5): AFS’ claims against the “setoff invoices,” those
+6
+     invoices that remain unpaid and are distinct from the invoices AFS audited (i.e., the “audit
+7
+
+8    invoices”) are time-barred and barred by AFS’s responses in discovery. See page 5, supra.
+
+9              6.    Whether AFS breached the Transportation Agreement by setting off an amount of
+10   funds from Central Freight for shipments that occupied 8 or fewer pallet spaces in excess of the
+11
+     rates determined by the Transportation Agreement.
+12
+               7.    Whether Central Freight breached the Transportation Agreement by failing to apply
+13
+     the contractual discount or minimum charge rates to shipments occupying fewer than 8 pallet
+14
+
+15   spaces.
+
+16             8.    Whether AFS breached the oral agreement found by the Court by setting off funds
+
+17   for shipments that were rated pursuant to the oral agreement (i.e., those occupying 9 or more pallet
+18   spaces).
+19
+               9.    Whether Central Freight breached the oral agreement found by the Court by failing
+20
+     to use its spot quote system to rate shipments that occupied 9 or more pallet spaces as agreed.
+21
+               10.   Whether AFS engaged in bad faith by (i) denying the existence of the oral
+22
+
+23   agreement, conducting an audit of shipments subject to the oral agreement and setting off money
+
+24   from Central Freight based shipments subject to the oral agreement (ii) disregarding its own
+
+25   internal and external policies, including terms in the Transportation Agreement, regarding bills of
+26
+                                                                      ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                        30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-12                                            CHICAGO, IL 60602
+                                                                             312.580.1200
+1    lading, auditing Central Freight for its failure to consolidate certain shipments and setting off
+
+2    money from Central Freight for that alleged failure; and/or (iii) setting off money from Central
+3
+     Freight instead of engaging in a proper dispute resolution process.
+4
+            11.     Whether AFS should repay Central Freight the $112,203.52 it paid AFS because
+5
+     the payment was contingent on resolving all payment issues between Central Freight and AFS.
+6
+                                              V. WITNESSES
+7
+     A.     EXPERT WITNESSES
+8
+            1.      Each party shall be entitled to two expert witnesses. The witnesses may be called
+9
+     to testify on the following topics: (i) industry custom and practice regarding multiple bills of
+10
+     lading; (ii) CFL’s spot quote program and how the program calculates rates.
+11
+            2.      The name(s) and addresses of the expert witness(es) to be used by each party at the
+12
+     trial and the issue upon which each will testify is:
+13
+                    (a)     On behalf of plaintiff; Michael Regan (Possible Witness Only), TranzAct
+14
+     Technologies, Inc., 360 W. Butterfield Road, Suite 400, Elmhurst, IL 60126. Mr. Regan will testify
+15
+     consistent with his expert report and his rebuttal report and his deposition given in this matter.
+16
+                    (b)     On behalf of defendant:
+17
+                            (i) Nicole Bolton (Will Testify), 18 Remount Rd., North Little Rock, AR
+18
+     72118. Ms. Bolton will testify “whether CFL failed to use its spot-quote program, or artificially
+19
+     inflated its volume rates” (Dkt. No. 238, at 27); CFL’s spot quote system, as detailed in her
+20
+     supplemental report (see Dkt. No. 238, at 5 n. 4); and industry custom and practice regarding
+21
+     multiple bills of lading (Dkt. No. 238, at 30), as set forth in her expert reports. Ms. Bolton will not
+22
+     testify about the reasonableness of Central Freight’s spot quote rates themselves or as compared
+23
+     with the LTL industry at large. (Dkt. No. 238.)
+24
+                            (ii) William Partin (Possible Witness Only), 400 108th Ave N.E. Suite
+25
+     615, Bellevue WA 98004. Mr. Partin may testify regarding CFL’s claimed damages stemming
+26
+                                                                        ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                          30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-13                                              CHICAGO, IL 60602
+                                                                               312.580.1200
+1    from the 0% Discount audit and the amount CFL overcharged for certain shipments that had 0%
+
+2    discount applied. Mr. Partin will not testify about the timeliness of Central Freight’s invoices or
+
+3    the validity or invalidity of Tender IDs Central Freight included on its invoices. (Dkt. # 238, pp.
+
+4    18-20.)
+
+5    B.        WITNESSES
+
+6              1.     Central Freight’s Witnesses
+
+7              Pursuant to LCR 16(h), Central Freight identifies the names and addresses of all witnesses
+
+8    who might be called by it and the general nature of the expected testimony of each. Central Freight
+
+9    also reserve the right to call any witnesses identified by AFS, as part of Central Freight’s case in
+
+10   chief or in rebuttal.
+
+11             All current employees and retained experts of Central Freight may be contacted via
+
+12   Plaintiff’s counsel.
+
+13   1.        Tom Botsios (Central Freight Lines), Central Freight Lines, Inc., 5601 West Waco Dr.,
+
+14   Waco, TX 76710 - Will Testify
+
+15             Mr. Botsios will testify regarding:
+
+16             The nature of Central Freight’s business as an LTL carrier; his experience in
+
+17             trucking industry and at Central Freight; Central Freight’s business practices; the
+
+18             trucking industry; CzarLite; bills of lading; the TA, including but not limited to its
+19             negotiation, terms, pricing or rating arrangements, rights and responsibilities
+
+20             thereunder and amendments; the business between AFS and Central Freight; the
+
+21             agreement between AFS and Central Freight permitting Central Freight to use its
+
+22             spot quote system to rate volume shipments; Central Freight’s use of its spot quote
+
+23             system to rate volume shipments for AFS; misrepresentations made by AFS; the
+
+24             “audits” AFS provided Central Freight; Central Freight’s attempts to resolve
+
+25             disputes with AFS; AFS’s set off of funds to compensate for Central Freight’s
+
+26             alleged overcharges; Central Freight’s attempts to assess and analyze AFS’s
+                                                                         ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                           30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-14                                               CHICAGO, IL 60602
+                                                                                312.580.1200
+1           “audits”; amounts owed by AFS to Central Freight; damages incurred by Central
+
+2           Freight caused by AFS; AFS’s bad faith. It is further anticipated that Mr. Botsios
+
+3           will testify consistent with his deposition testimony given in this matter.
+
+4    2.     Don Orr (Central Freight Lines), May be Contacted Through Counsel for Central Freight
+
+5    Lines - Possible Witness Only
+
+6           Mr. Orr will testify regarding:
+
+7           The history of Central Freight and its business; his experience in the trucking
+
+8           industry and his tenure with Central Freight; the MBOL dispute; attempts to resolve
+
+9           the disputes between AFS and Central Freight; damages incurred by Central Freight
+
+10          caused by AFS; AFS’s bad faith. It is further anticipated that Mr. Orr will testify
+
+11          consistent with his deposition testimony given in this matter.
+
+12   3.     Samantha Amaro (Central Freight Lines), Central Freight Lines, Inc., 5601 West Waco
+
+13   Dr., Waco, TX 76710 – Will Testify
+
+14          Ms. Amaro will testify regarding:
+
+15          Her tenure and experience at Central Freight; Central Freight’s business practices; the TA;
+
+16          Central Freight’s spot quote practices; the agreement between AFS and Central Freight
+
+17          regarding volume shipments; Central Freight’s use of its spot quote system; amounts owed
+
+18          by AFS to Central Freight; damages incurred by Central Freight as a result of AFS’s
+19          conduct; the MBOL dispute; communications between Central Freight and AFS before,
+
+20          during and after the MBOL dispute, 0% Discount Dispute, TenderID Dispute. It is further
+
+21          anticipated that Ms. Amaro will testify consistent with her deposition testimony given in
+
+22          this matter.
+
+23   4.     Doug Culbertson (Central Freight Lines), Central Freight Lines, Inc., 5601 West Waco
+
+24   Dr., Waco, TX 76710 – Will Testify
+
+25          Mr. Culbertson will testify regarding:
+
+26
+                                                                      ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                        30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-15                                            CHICAGO, IL 60602
+                                                                             312.580.1200
+1           His experience in the trucking industry and tenure with Central Freight; Central
+
+2           Freight’s business practices and procedures; the TA; how LTL shipments are rated
+
+3           under CzarLite and the TA; how Central Freight uses pallet spaces in rating a
+
+4           shipment; Central Freight’s spot quote system; Central Freight’s use of its spot
+
+5           quote program to rate volume shipments; bills of lading and related documents
+
+6           Central Freight creates and/or uses during the shipping and billing process; his
+
+7           review of AFS’ 0% Discount Spreadsheet (AFS_CFL_00001597) and supporting
+
+8           documents to determine which shipments were nine of more pallet spaces in size,
+
+9           and which were 8 pallets or fewer in size (CFL_098680); documents
+
+10          (CFL_052745-52906) that show that Central Freight performed services for AFS
+
+11          for the shipments subject to AFS’s Tender ID audit, AFS_CFL_00001598; the
+
+12          MBOL Dispute; AFS’s incorrect “audits”; Central Freight’s assessment and
+
+13          analysis of various AFS’s “audits”; spreadsheets created by him or at his direction
+
+14          relating to the audits; Central Freight’s unpaid invoices; damages incurred by
+
+15          Central Freight as a result of AFS’s conduct; Central Freight’s damages
+
+16          calculations. It is further anticipated that Mr. Culbertson will testify consistent with
+
+17          his deposition testimony given in this matter.
+
+18   5.     Christian Piller (AFS), 2337 W Lyndale Street, Unit 2, Chicago, IL 60647-3229 - Will
+19   Testify as an Adverse Witness
+
+20          Mr. Piller will testify regarding:
+
+21          His tenure, experience and roles at AFS; the TA; the “audit” AFS provided to
+
+22          Central Freight; agreements between AFS and Central Freight regarding volume
+
+23          shipments; the various audits AFS conducted of Central Freight, including
+
+24          spreadsheets supporting those audits; the EDI invoices for all Central Freight
+
+25          invoices that AFS audited, AFS_CFL_00001946-91242; AFS’s TIPS System;
+
+26          AFS’s policies and procedures regarding bills of lading; the MBOL Dispute;
+                                                                       ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                         30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-16                                             CHICAGO, IL 60602
+                                                                              312.580.1200
+1           internal AFS communications regarding MBOL issues; AFS’s decision to set off
+
+2           funds owed to Central Freight; AFS’s build up of its accounts payable balance to
+
+3           Central Freight to support the setoff; AFS’s repudiation of the oral agreement with
+
+4           Central Freight; his review of CFL financial data; AFS’s bad faith. It is also
+
+5           anticipated that Piller will also testify consistent with his deposition testimony
+
+6           given in this matter.
+
+7    6.     Brett Beavers (AFS), c/o Foster Pepper PLLC, 1111 Third Ave., Suite 3000,
+
+8    Seattle, WA 98101-3299 – Will Testify as an Adverse Witness
+
+9           Mr. Beavers will testify regarding:
+
+10          His tenure, experience and role at AFS; LTL rates and invoicing practices; AFS’s
+
+11          invoicing, billing and payment practices, including but not limited to EDI and other
+
+12          data transfers; AFS’s TIPS system; bills of lading; AFS’s policies and procedures
+
+13          regarding bills of lading; the MBOL Dispute; AFS’s audits, including spreadsheets
+
+14          supporting those audits; AFS’s decision to set off funds owed to Central Freight;
+
+15          AFS’s build up of its accounts payable balance to Central Freight to support the
+
+16          setoff; AFS’s bad faith. It is also anticipated that Mr. Beavers will also testify
+
+17          consistent with his deposition testimony given in this matter.
+
+18   7.     Andrea Lau (AFS), 6609 43rd Ave. S., Seattle, WA 98118 – Possible Adverse Witness
+19   Only
+
+20          Ms. Lau may testify regarding:
+
+21          Her tenure and experience at AFS; AFS’s invoicing, billing and payment practices;
+
+22          her knowledge of Central Freight’s rates and invoicing practices; internal
+
+23          discussions at AFS about Central Freight’s refusal to accept large volume
+
+24          shipments; AFS’s knowledge that Central Freight was rating certain shipments at
+
+25          rate other than that set forth in the TA; AFS’s knowledge that that Central Freight
+
+26          was using its spot quote system to rate volume shipments for AFS; AFS’s TIPS
+                                                                     ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                       30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-17                                           CHICAGO, IL 60602
+                                                                            312.580.1200
+1           system; agreements between AFS and Central Freight regarding large volume
+
+2           shipments; her communications with Central Freight. It is also anticipated that Ms.
+
+3           Lau will testify consistent with her deposition testimony given in this matter.
+
+4    8.     Ankush Khandelwal (AFS), c/o Foster Pepper PLLC, 1111 Third Ave., Suite 3000,
+
+5    Seattle, WA 98101-3299 – Will Testify as an Adverse Witness
+
+6           Mr. Khandelwal will testify regarding:
+
+7           His tenure and experience at AFS; his lack of experience at AFS in the spring of
+
+8           2016; LTL rates and invoicing practices; AFS’s invoicing, billing and payment
+
+9           practices, including but not limited to EDI and other data transfers; AFS’s TIPS
+
+10          system; his knowledge of Central Freight’s rates and invoicing practices;
+
+11          agreements between AFS and Central Freight regarding large volume shipments;
+
+12          his communications with Central Freight including but not limited to his knowledge
+
+13          that Central Freight was using its spot quote system to rate volume shipments for
+
+14          AFS; AFS’s audits of Central Freight, including spreadsheets supporting those
+
+15          audits; AFS’s decision to set off funds owed to Central Freight; AFS’s decision not
+
+16          to inform Central Freight that it did not intend to pay Central Freight for services
+
+17          rendered in early 2016; the amounts AFS set off from Central Freight. It is further
+
+18          anticipated that Mr. Khandelwal will testify consistent with his deposition
+19          testimony given in this matter.
+
+20   9.     Allison Stein (AFS), 3901 1st Ave NW, No. 301, Seattle, WA 98107-4956 – Possible
+
+21   Adverse Witness Only
+
+22          Ms. Stein may testify regarding:
+
+23          Her tenure and experience at AFS; AFS’s invoicing, billing and payment practices;
+
+24          her knowledge of Central Freight’s rates and invoicing practices; AFS’s knowledge
+
+25          that Central Freight was rating certain shipments at rates other than that set forth in
+
+26          the TA; AFS’s knowledge that Central Freight was using its spot quote system to
+                                                                       ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                         30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-18                                             CHICAGO, IL 60602
+                                                                              312.580.1200
+1             rate volume shipments for AFS; AFS’s TIPS system; her communications with
+
+2             Central Freight. It is also anticipated that Ms. Stein will testify consistent with her
+
+3             deposition testimony given in this matter.
+
+4    10.      Todd Militzer (Central Freight Lines), 1420 Danbury Drive, Mansfield, TX 76063 –
+
+5    Will Testify
+
+6             Militzer will testify regarding:
+
+7             His experience in the freight shipping industry; his tenure and experience at Central
+
+8             Freight; Central Freight’s invoicing and billing practices; Central Freight’s use of
+
+9             its spot quote system; his analysis of AFS’s purported audits and demands for
+
+10            payment; spreadsheets created by him or at his direction, including but not limited
+
+11            to CFL_094418; AFS’s set off of funds owed to Central Freight; comparison of
+
+12            spreadsheets created by him with those created after his tenure at CFL; the amounts
+
+13            AFS owes Central Freight; Central Freight’s damages caused by AFS. It is further
+
+14            anticipated that Mr. Militzer will testify consistent with his deposition testimony
+
+15            given in this matter.
+
+16   11.      Robert Harris (Central Freight Lines), 1300 Placid Circle, Apt 2405, Waco, TX 76706
+
+17   – May Testify4
+
+18            Mr. Harris testify regarding:
+19            His tenure, experience and roles at Central Freight; Central Freight’s spot quote system;
+
+20            Central Freight’s use of its spot quote system to rate volume shipments for AFS; CFL’s
+
+21            procedure for billing its volume rate using the spot quote system for AFS volume
+
+22            shipments.
+
+23
+
+24
+     4 Central Freight has designated parts of Mr. Harris’s deposition for use at trial in an abundance of caution. Mr. Harris
+25   is a former employee of Central Freight and, despite efforts, counsel for Central Freight has been unable to confirm
+     his attendance at trial. Moreover, he resides more than 100 miles from Seattle.
+26
+                                                                                  ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                                    30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-19                                                        CHICAGO, IL 60602
+                                                                                         312.580.1200
+1    12.      David Heim (Central Freight Lines) – 1513 Melody Lane, Keller, Texas 76262 – May
+
+2    Testify via deposition
+
+3             Mr. Heim may testify regarding:
+
+4             His tenure, experience and roles at Central Freight; Central Freight’s rating and billing
+
+5             practices; Central Freight’s spot quote system; Central Freight’s use of its spot quote
+
+6             system to rate volume shipments for AFS; CFL’s procedure for billing its volume rate using
+
+7             the spot quote system for AFS volume shipments.
+
+8    13.      Allen Parrot (Central Freight Lines), 15410 Prade Ranch Lane, Cypress, TX 77429-
+
+9    6439 – Possible Witness Only via deposition
+
+10            Mr. Parrot may testify regarding:
+
+11            His tenure, experience and role at Central Freight; Central Freight’s invoicing and
+
+12            billing practices; the amounts AFS owes to Central Freight; Central Freight’s
+
+13            damages caused by AFS; AFS’s set off of funds owed to Central Freight; directives
+
+14            he gave Central Freight officers and employees regarding AFS’s audits and set off,
+
+15            including the creation of CFL_052072; and the attorneys’ fees and costs expended
+
+16            by CFL in this matter. It is further anticipated that Mr. Parrot will testify consistent
+
+17            with his deposition testimony given in this matter.
+
+18
+19            Central Freight Lines may rely upon testimony from the depositions of the following
+
+20   persons: (i) Robert Flannery; (ii) Robert Black; (iii) David Heim; (iv) Robert Harris; (v) Allen
+
+21   Parrot; (vi) Christian Piller; and (vii) Allison Stein.5
+
+22            Those portions of the deposition of Robert Flannery that Central Freight Lines may offer
+
+23   into evidence are:
+
+24
+
+25   5 Central Freight intends to submit the videotaped depositions of Robert Flannery, Christian Piller and Allison Stein,
+
+     should any of their designations be used at trial.
+26
+                                                                                 ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                                   30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-20                                                       CHICAGO, IL 60602
+                                                                                        312.580.1200
+1          253:2 – 255:7
+2           Those portions of the deposition of Robert Black that Central Freight Lines may offer into
+
+3    evidence are:
+
+4          13:5-8                  19:10 – 20:23       22:4-14                   24:2-9
+           25:4-26:23              27:2-25             28:14-24                  29:9-24
+5
+           31:14 – 32:7            32:12 – 33:14       34:12 – 35:6              46:7-23
+6          49:22 – 50:3            54:6-13             58:12-20                  59:2-16
+7          66:19-25                79:20-25
+
+8
+            Those portions of the deposition of David Heim that Central Freight Lines may offer into
+9
+     evidence are:
+10
+           12:22 – 13:2            13:6-14           13:24 – 14:8                15:10 – 16:21
+11         19:6 – 20:22            22:12-14          23:6 – 24:13                26:12-20
+12         27:6-12                 27:15 – 28:11     28:22 – 29:17               29:21 – 31:23
+           36:14-24                38:3-6            40:8-19                     43:3-19
+13
+           61:24 – 62:2
+14
+
+15          Those portions of the deposition of Robert Harris that Central Freight Lines may offer
+
+16   into evidence are:
+
+17         12:14-21                13:13-20          14:18 – 15:14               15:22 – 17:20
+           26:11-15                31:22 – 32:12     33:13-24                    37:23 – 38:10
+18
+           39:14 – 41:11           42:24 – 43:4      43:6 – 44:23                45:3-11
+19         50:11-24                51:17-19          51:22 – 52:7                79:11 – 80:11
+           83:12-23                85:10 – 86:22     87:22 – 88:24               91:13-22
+20
+           92:16 – 93:19           94:22 – 95:8      97:9 – 98:2
+21
+
+22          Those portions of the March 8, 2019 deposition of Allen Parrot that Central Freight Lines
+
+23   may offer into evidence are:
+
+24         14:8-21               15:2-8              30:8-10                     46:8-23
+           48:6-18               49:19 – 50:4        72:8-20
+25
+
+26
+                                                                    ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                      30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-21                                          CHICAGO, IL 60602
+                                                                           312.580.1200
+1               Those portions of the April 22, 2019 30(b)(6) deposition of Allen Parrot that Central
+
+2    Freight Lines may offer into evidence are:
+
+3              41:12-25            42:7-25               43:2-25                    44:3-19
+               45:7 – 46:5         49:17-24              50:24 – 52:20              57:5-9
+4
+
+5
+                Those portions of the deposition of Christian Piller that Central Freight Lines may offer
+6
+     into evidence are:
+7
+                11:6-8                         11:18-25                        12:1-25
+8               13:1-7                         14:20 – 15:21                   16:6 – 19:10
+9               19:21 – 20-6                   20-13-16                        27:10 – 28-12
+                28-15 – 30-16                  30:23 – 34:5                    43:16 – 44:10
+10              44:21 – 45:17                  45:22 – 46:2                    46:7-9
+11              46:13-18                       47:17 – 23                      48:13 – 49:20
+                50: 11-14                      51:1-6                          51:14 – 52:4
+12
+                53:5-17                        53:23-25                        54:1-3
+13              55:4-16                        58:24 – 60:3                    64:2 – 66:19
+                69:18 – 74:5                   101:1 – 105:6                   106:25 – 107:11
+14
+                107:15 – 108:1                 108:15 – 109:10                 111:7 – 112:7
+15              112:23 – 113:6                 113:23 – 114:5                  129:17 – 130:8
+16              131:8-12                       132:2-15                        133:16 – 134:8
+                134:10-12                      139:5-13                        143:8-15
+17              143:17-24                      144:2-5                         149:19-25
+18              150:2-3                        153:18 – 154:25                 155:3-7
+                155:10-12                      160:15 – 161:3                  161:5-6
+19              162:3 – 163:6                  163:18 – 164:19                 164:22 – 165:14
+20              165:16                         166:3 – 167:25                  168:19 – 171:16
+                171:18 – 174:11                180:18-24                       181:1-2
+21
+                185:11 – 187:6                 187:8 – 188:5                   188:7 – 189:8
+22              189:10-24                      190:1 – 191:13                  197:4 – 199:17
+                199:19-23                      199:25 – 201:23                 202:12-16
+23
+                202:21 – 203:7                 203:9-23                        203:25 – 204:1
+24              204:7-11                       204:13 – 205:2                  209:4-6
+25              209:18 – 210:20                210:22 – 211:5                  211:15-21
+                211:25 – 216:19                216:21 – 217:4                  217:6-8
+26
+                                                                       ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                         30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-22                                             CHICAGO, IL 60602
+                                                                              312.580.1200
+1           217:11                          217:22 – 218:2                   218:4-21
+            218:23 – 219:23                 219:25 – 220:9                   220:11-18
+2
+            220:20-25                       221:2-4                          221:12-17
+3           221:19-22                       221:24 – 222:1                   222:3-5
+4           222:8-21                        222:23                           222:25 – 223:14
+            223:16-17                       224:7-17                         224:19 – 225:1
+5           228:12 – 230:7                  230:10-11                        230:14:17
+6           230:19 – 232:12                 232:14-18                        232:20-22
+            233:1-19                        233:21 – 234:6                   234:24-25
+7
+            235:3-5                         235:24 - 238:25                  239:13-20
+8           243:2-7                         243:9-10                         245:14 – 251:2
+            252:11 – 253:18                 253:20 – 254:2                   254:4-16
+9
+            254:19 – 259:10                 259:12 – 260:13                  260:15 – 261:7
+10          261:15 – 263:14                 263:19 – 267:4                   267:10-25
+11          268:2 – 269:10                  270:10 – 273:6                   273:24 – 274:11
+            274:19 – 275:4                  275:21 – 276:1                   277:8 – 278:13
+12          279:11-19                       280:12 – 281:24                  285:18 – 290:2
+13          293:5-11                        293:14 – 294:15                  295:3 – 296:11
+            298:3                           298:8-14
+14
+
+15          Those portions of the deposition of Allison Stein that Central Freight Lines may offer into
+     evidence are:
+16
+            8:2 – 16:22                     47:17 – 48:7                     78:8-19
+17          16:25 – 18:11                   50:7 – 51:16                     79:1-17
+18          18:18 – 19:9                    52:3-9                           79:20 – 81:17
+            19:14 – 24:24                   52:12-25                         82:11 – 84:25
+19
+            25:4 – 26:10                    54:9-11                          89:20 – 90:12
+20          26:12-15                        54:13-19                         90:25 – 92:18
+            26:17-18                        55:14 – 56:7                     93:18-24
+21
+            26:20 – 28:19                   56:16-21                         94:1
+22          28:22 – 29:21                   56:24                            94:3-5
+23          30:1 – 33:5                     57:1-19                          100:17 – 101:6
+            33:7-9                          59:1-23                          101:8
+24          33:15 – 34:7                    60:1-9                           101:10-13
+25          34:10                           60:17-25                         102:3 – 103:9
+            34:12 – 35:5                    61:1 – 65:9                      104:24 – 106:12
+26
+                                                                     ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                       30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-23                                           CHICAGO, IL 60602
+                                                                            312.580.1200
+1             36:10-12                        95:12-13                        108:5 – 111:21
+              36:15 – 37:4                    95:16 – 66:21                   112:1 – 114:17
+2
+              37:6-7                          66:24 – 67:15                   114:21 – 115:12
+3             37:9-25                         67:18-19                        115:20 – 117:10
+4             38:2                            68:1 – 72:23                    117:16 – 118:2
+              38:4-25                         73:1-2                          139:9 – 140:6
+5             39:2                            73:5-19                         141:1-142:3
+6             39:4 – 42:24                    73:23-25                        142:8-17
+              43:2 – 44:3                     74:2-9                          142:21 – 143:7
+7
+              44:6 – 45:5                     74:11 – 75:5                    143:21-25
+8             45:8                            75:15 – 76:16                   144:3-22
+              45:10 – 46:22                   76:20 – 77:20
+9
+              46:25                           77:24 – 78:3
+10            47:2                            78:6
+11
+              2.     AFS’s Witnesses
+12
+     1.       Christian Piller (AFS) – 2337 W Lyndale Street, Unit 2, Chicago, IL 60647 – Will Testify
+13
+              Mr. Piller will testify regarding the modification of the transportation agreement, Central
+14
+              Freight’s improper invoicing practices, AFS’s audits of Central Freight, the LTL
+15
+              transportation industry, misrepresentations made by Central Freight to AFS, and AFS’s
+16
+              setoff of funds.
+17
+     2.       Brett Beavers (AFS) – c/o Foster Pepper PLLC, 1111 Third Avenue, Suite 3000, Seattle,
+18
+     WA 98101 – Will Testify
+19
+              Mr. Beavers will testify regarding Central Freight’s improper invoicing practices, the
+20
+              modification of the transportation agreement, Central Freight’s invoices, the LTL
+21
+              transportation industry, AFS’s auditing system, the audits he conducted, and AFS’s setoff
+22
+              of funds.
+23
+     3.       Ankush Khandelwal (AFS) – c/o Foster Pepper PLLC, 1111 Third Avenue, Suite 3000,
+24
+     Seattle, WA 98101 – Will Testify
+25
+
+26
+                                                                      ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                        30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-24                                            CHICAGO, IL 60602
+                                                                             312.580.1200
+1              Mr. Khandelwal will testify concerning AFS’s invoicing processing system, Central
+
+2              Freight’s improper invoicing practices, audits he created, and amounts setoff by AFS.
+
+3    4.        Robert Flannery (AFS) – 7376 Longview Court, Naples, Florida 34109 – May Testify
+
+4              Mr. Flannery may testify regarding the LTL transportation industry, the transportation
+
+5              agreement, and Central Freight’s improper invoicing practices.
+
+6    5.        Joseph Kraninger (AFS) – 4701 Wyngate Way, Forest Lake, Minnesota 55025 – May
+
+7    Testify
+
+8              Mr. Kraninger may testify regarding the alleged modification of the transportation
+
+9              agreement, the transportation agreement, and the LTL transportation industry.
+
+10   6.        Allen Parrot (Central Freight Lines) – 15410 Prade Ranch Lane, Cypress, Texas 77429
+
+11   – May Testify via Deposition
+
+12             Mr. Parrot may testify regarding Central Freight’s improper invoicing practices and alleged
+
+13             damages.
+
+14   7.        David Heim (Central Freight Lines) – 1513 Melody Lane, Keller, Texas 76262 – Will
+
+15   Testify via Deposition
+
+16             Mr. Heim will testify regarding the transportation agreement, the implementation of the
+
+17             oral modification, Central Freight’s improper invoicing practices, and Central Freight’s
+
+18             alleged damages.
+19   8.        Don Orr (Central Freight Lines) – c/o Roetzel & Andress, 30 N LaSalle St #2800,
+
+20   Chicago, IL 60602 – Will Testify
+
+21             Mr. Orr will testify regarding the transportation agreement, the modification to the
+
+22             transportation agreement, Central Freight’s improper invoicing practices, Central Freight’s
+
+23             alleged damages, and Central Freight’s misrepresentations to AFS.
+
+24   9.        Doug Culbertson (Central Freight Lines) – c/o Roetzel & Andress, 30 N LaSalle St
+
+25   #2800, Chicago, IL 60602 – Will Testify
+
+26
+                                                                       ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                         30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-25                                             CHICAGO, IL 60602
+                                                                              312.580.1200
+1           Mr. Culbertson will testify regarding the transportation agreement, the modification of the
+
+2           transportation agreement, Central Freight’s improper invoicing practices, and Central
+
+3           Freight’s alleged damages.
+
+4    10.    Grady Christie (Central Freight Lines) – c/o Roetzel & Andress, 30 N LaSalle St #2800,
+
+5    Chicago, IL 60602 – Will Testify
+
+6           Mr. Christie may testify regarding Central Freight’s spot quote program.
+
+7    11.    Todd Militzer (Central Freight Lines) – 1420 Danbury Drive, Mansfield, TX 76063 –
+
+8    May Testify
+
+9           Mr. Militzer may testify regarding Central Freight’s improper invoicing practices, and
+
+10          Central Freight’s alleged damages.
+
+11   12.    Thomas Botsios (Central Freight Lines) – c/o Roetzel & Andress, 30 N LaSalle St
+
+12   #2800, Chicago, IL 60602 – Will Testify
+
+13          Mr. Botsios will testify regarding the transportation agreement, any oral modification to it,
+
+14          Central Freight’s alleged damages, Central Freight’s misrepresentations to AFS, and
+
+15          Central Freight’s alleged damages.
+
+16   13.    Allison Stein (AFS) – 3901 1st Ave NW, No. 301, Seattle, WA 98107 – May Testify
+
+17          Ms. Stein may testify regarding AFS’s invoicing processing system.
+
+18   14.    Robert Black (Central Freight Lines) – 635 Old Bethany Road, Bruceville, Texas 76630
+19   – May Testify via Deposition
+
+20          Mr. Black will testify regarding Central Freight’s spot quote program, invoicing practices,
+
+21          and any modification to the transportation agreement.
+
+22   15.    Kristin Kubitza (Central Freight Lines) – 1881 Battle Lake Road, Riesel, TX 76682 –
+
+23   May Testify via Deposition
+
+24          Ms. Kubitza may testify regarding the transportation agreement, the modification of the
+
+25          transportation agreement, Central Freight’s improper invoicing practices, and Central
+
+26          Freight’s alleged damages.
+                                                                     ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                       30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-26                                           CHICAGO, IL 60602
+                                                                            312.580.1200
+1    16.       Samantha Amaro (Central Freight Lines) – c/o Roetzel & Andress, 30 N LaSalle St
+
+2    #2800, Chicago, IL 60602 – May Testify
+
+3              Ms. Amaro may testify regarding the transportation agreement, the modification to the
+
+4              transportation agreement, Central Freight’s improper invoicing practices, and Central
+
+5              Freight’s alleged damages.
+
+6
+               AFS reserves the right to use any deposition testimony designated by CFL. AFS may rely
+7
+     upon testimony from the depositions of the following persons: (i) Robert Harris; (ii) Joseph
+8
+     Kraninger; (iii) Robert Black; (iv) Kristin Kubitza; (v) David Heim; (vi) Grady Christy; (vii) Don
+9
+     Orr; (viii) Allen Parrot; (ix) FRCP 30(b)(6) of Allen Parrot, (x) Christian Piller, and (xi) Allison
+10
+     Stein.6
+11
+               Those portions of the deposition of Robert Harris that AFS may offer into evidence are:
+12
+              16:25-22:16          23:2-8                      25:20-26:10               31:19-21
+13
+              37:23-40:17          43:8-44:19                  49:18-52:4                62:21-63:13
+14            82:14-25             83:2-84:3                   90:9-93:19                95:24-97:22
+
+15
+               Those portions of the deposition of Joseph Kraninger that AFS may offer into evidence
+16
+     are:
+17
+              22:4-6               23:13-24                    28:1025                   50:16-51:8
+18
+              75:23-76:6           76:15-18                    78:23-81:18               83:5-16
+19            84:4-15              97:2-24                     108:18-111:6              129:1-6
+20            152:2-16             154:13-155:24
+
+21
+               Those portions of the deposition of Robert Black that AFS may offer into evidence are:
+22
+              27:21-38:12          41:14-50:9                  52:15-53:25               67:2-68:2
+23            85:6-100:3           100:10-104:18
+24
+
+25   6 Ms. Stein and Mr. Piller are expected to testify live at trial. These are AFS’s coounterdesignations to CFL’s
+
+     designations.
+26
+                                                                            ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                              30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-27                                                  CHICAGO, IL 60602
+                                                                                   312.580.1200
+1
+
+2           Those portions of the deposition of Kristin Kubitza that AFS may offer into evidence are:
+
+3          8:21-9:7                14:2-16:15          20:13-21:7                27:21-29:25
+4
+            Those portions of the deposition of David Heim that AFS may offer into evidence are:
+5
+           28:22-32:10        33:13-25               35:11-36:7            39:10-41:12
+6
+           41:23-43:19        44:20-46:21            48:11-57:25           58:17-61:19
+7          64:11-72:12        73:10-78:2             83:9-24               88:23-90:4
+8          95:12-96:17        110:10-25              125:22-126:12
+             Those portions of the deposition of Grady Christie that AFS may offer into evidence are:
+9
+           23:12-24:4              24:20-33:11         34:20-37:18               38:15-39:11
+10         40:21-45:18             46:16-48:13         50:20-51:25               57:21-58:3
+11         65:3-66:2
+
+12
+            Those portions of the deposition of Don Orr that AFS may offer into evidence are:
+13
+           52:12-22                58:12-60:5          86:2-16                   87:16-25
+14
+           116:4-14                120:22-121:9        129:5-21                  130:3-13
+15
+
+16          Those portions of the deposition of Allen Parrot that AFS may offer into evidence are:
+
+17         30:18-31:17             36:12-17            40:5-8                    41:2-6
+           42:16-22                44:3-7              51:11-22
+18
+19
+            Those portions of the deposition of FRCP 30(b)(6) of Allen Parrot that AFS may offer
+20
+     into evidence are:
+21
+           42:5-15                 43:8-44:6           44:19-45:6                51:21-52-14
+22         65:8-11                 70:9-71:2           76:2-77:5                 140:4016
+23
+            Those portions of the deposition of Christian Piller that AFS may offer into evidence are:
+24
+
+25         74:7-24                 75:10-76:6          110:19-111:2              251:3-21
+
+26
+                                                                    ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                      30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-28                                          CHICAGO, IL 60602
+                                                                           312.580.1200
+1               Those portions of the deposition of Allison Stein that AFS may offer into evidence are:
+
+2              26:17-18             48:8-12                77:21-33                 86:5-89:16
+               97:1-99:21           140:18-25
+3
+
+4
+                                           VI.    TRIAL EXHIBITS
+5
+     (a) Admissibility stipulated:
+6
+     Plaintiff’s Exhibits:
+7
+     Ex. No.        Description                                                        Bates No.
+8
+            1       Transportation Agreement                                           CFL_000115
+9
+            4       Re: Case 153157441 - TL Rate, 1/16/14                              CFL_003232
+10          8       RE: Amazon, 1/17/14                                                CFL_003219
+11                  RE: CENF Multiple ARNs and BOL audit, 6/23/2016 email              CFL_003645
+        18
+                    with MBOL audit
+12                  FW: Amazon Tenders w/Multi ARN Numbers, 6/29/2016                  AFS_CFL_00096879
+        19
+13                  email re EDI 204
+        20          FW: CENF Multiple ARNs and BOL audit, 6/29/2016 email              CFL_003647
+14
+                    RE: Amazon LTL Invoicing, 2/13/2016 - 6/30/2016 email              AFS_CFL_00000171
+        21
+15                  chain
+                    RE: Email addresses Multiple BOLs communications were              CFL_027052
+16      26
+                    sent to, 6/30/2016, with exhibits
+17                  RE: Master BOL Billing, 7/8/2016 - 7/11/2016 email chain           AFS_CFL_00000173
+        28
+                    Piller and D Orr
+18
+        51          Ramp down plan Email, 2/14/17                                      AFS_CFL_00095995
+19      58          CENF LTL.XLSX, Carrier Pricing Schedule                            AFS_CFL_00105690
+20      62          RE: Fb 736367152, 12/15/2014, Harris email                         CFL_030368
+
+21                  Re: PCO to FON 2 shipments each 10 PLTS AMZ,
+        64                                                                             CFL_027731
+                    11/20/2015, Harris email chain
+22      73          Amazon Volume.xlsx                                                 CFL_001321
+23      87          RE: Amazon LTL Invoicing, 2/18/2016, Beavers email                 AFS_CFL_00098917
+        88          FW: Amazon LTL Invoicing, 2/24/2016, Rankin email                  CFL_008034
+24
+                    FW: Amazon LTL Invoicing, 2/14/2016, Amaro email with
+        89                                                                             CFL_008109
+25                  exhibits
+
+26
+                                                                       ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                         30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-29                                             CHICAGO, IL 60602
+                                                                              312.580.1200
+1              Missing ARN and Duplicate BOL's, 5/3/2016 appointment
+       90                                                                    CFL_027282
+               scheduler
+2
+       91      RE: Amazon LTL Invoicing, 3/9/2016 email                      AFS_CFL_00099101
+3              Amazon LTL Invoicing Update, 4/4/2016 Beavers email
+       92                                                                    AFS_CFL_00098953
+               directive
+4
+       93      CENF Multiple ARNs and BOL audit, 6/22/2016 Piller email      AFS_CFL_00097147
+5              FW: Amazon LTL Invoicing Update, 5/10/2016 Beavers
+      102                                                                    AFS_CFL_00099001
+               email directive
+6
+               RE: amazon.com QP's 2345812 and 2345817, 11/11/2011
+      156                                                                    CFL_004629
+7              TOC email
+      166      0% discount audit, CENF_Final.xlsx (missorted)                AFS_CFL_00000351
+8
+      167      0% discount audit, CENF_Final_Corrected Data.xlsx             AFS_CFL_00001597
+9              Multiple ARN Audit (CENF only),
+      169                                                                    AFS_CFL_00001599
+               CENF_Invoice_Details.xlsx
+10
+      170      Tender ID Audit, CENF_Pallets_Data_Ver2.xlsx                  AFS_CFL_00001598
+11             Amazon Carrier Manual Requirements and Expectations,
+      172                                                                    AFS_CFL_00000440
+12             Carrier Manual v2.docx
+               Amazon Carrier Manual Requirements & Expectations,
+13    174                                                                    AFS_CFL_00000071
+               Carrier Manual 2016 Final (June).docx
+14    180      Bolton Rebuttal to Regan
+      182      Bolton Expert Report
+15
+      183      Bolton Supplemental Report (re Spot Quote Program)
+16    185      Regan Rebuttal to Bolton Report
+17    187      Partin Expert Report
+      190      Partin Declaration
+18
+      191      Partin’s M&P Setoff Analysis.xlsx
+19
+      192      Partin’s M&P 8 Pallet Analysis.xlsx
+20    194      Amazon Master Bill May June 2016 Summary.xlsx                 CFL_004171
+21    196      Unpaid Invoices - Data Pull.xlsx                              AFS_CFL_00107729
+      203      CFL’s Responses to Amazon’s 1st IROGS, RFP (11/8/2017)
+22
+      204      CFL’s Responses to Amazon’s 2nd IROGS, RFP
+23    205      CFL’s Suppl Response to Amazon’s discovery (2/15/2019)
+24    206      CFL’s Responses to Amazon’s 3rd IROGS, RFP
+
+25    207      CFL’s Responses to Amazon’s 4th RFP (3/25/2019)
+      208      CFL’s Answers to Amazon’s 1st RFA (9/26/2018)
+26
+                                                               ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                  30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-30                                      CHICAGO, IL 60602
+                                                                      312.580.1200
+1      209       CFL’s Answers to Amazon’s 2nd RFA (12/19/2018)
+2      210       Amazon’s Supp Responses to CFL’s 1st IROGS, RFP
+       211       Amazon’s Answers to CFL’s 1st RFA (11/22/2017)
+3
+       212       Amazon’s Answers to CFL’s 2nd RFA (8/17/2018)
+4      213       Amazon’s Responses to CFL’s 2nd IROGS, RFP
+5      219       CENF Additional On Hold Invoices.xlxs                       AFS_CFL_00001604
+
+6    Defendant’s Exhibits:
+7
+       Ex. No.   Document                                               Bates No.
+8      A-28      FW: CENF setoff                                        AFS_CFL_00001530
+9      A-29      FW: LTL Rate Update (Confidential)                     AFS_CFL_00001531
+       A-38      RE: Payment Activity                                   AFS_CFL_00096651
+10     A-39      FW: Amazon LTL Invoicing                               AFS_CFL_00097148
+11     A-40      RE: Master BOL Billing                                 AFS_CFL_00097172
+       A-41      RE: CENF Multiple ARNs and BOL audit                   AFS_CFL_00097518
+12     A-43      RE: Carrier Rate Information                           AFS_CFL_00098414
+13     A-44      Re: Invoice details correction                         AFS_CFL_00098416
+       A-45      corrected invoices Amazon.pdf                          AFS_CFL_00098421
+14
+       A-58      RE: Pay date on Redirect bills                         AFS_CFL_00101216
+15     A-63      Fwd: Audit Failed Invoices Week - 27.                  AFS_CFL_00101257
+       A-64      amazon spot quote.pdf                                  AFS_CFL_00101260
+16
+       A-89      RE: 3.30 TL and LTL Invoice Approvals                  AFS_CFL_00107572
+17     A-94      Re: Over 90 corrected redirects                        CFL_001235
+       A-95      incorrect redirect resend 1-17-2017.xlsx               CFL_001237
+18
+       A-96      FW: Vendor Caused delivery delays                      CFL_001258
+19     A-97      EDI Events.xlsx                                        CFL_001262
+20     A-101     Ankits list 11-30.xlsx                                 CFL_002984
+       A-102     CENF_carrier.xlsx                                      CFL_002992
+21     A-103     CENF.xlsx                                              CFL_002994
+22     A-104     CENF.xlsx                                              CFL_002998
+       A-105     CENF.xlsx                                              CFL_003000
+23     A-106     RE: Amazon                                             CFL_003202
+24               Re: [Case 161729651] [PO:8U5LMPIE] [SAT1]
+       A-107     TRUCK LOAD RATE PO: 8U5LMPIE ARN:                      CFL_003226
+25               2008359231
+                 RE: Amazon 2014 Consolidation Mira Loma and Ft
+       A-108                                                            CFL_003238
+26               Worth Proposal
+                                                               ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                 30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-31                                     CHICAGO, IL 60602
+                                                                      312.580.1200
+1               Fwd: RE: [Case 161729651] [PO: 8U5LMPIE] [SAT1]
+      A-109     TRUCK LOAD RATE PO: 8U5LMPIE ARN: CFL_003359
+2
+                2008359231
+3     A-110     RE: Amazon LTL Invoicing                               CFL_003489
+4     A-111     RE: Amazon LTL Invoicing                               CFL_003492
+      A-113     RE: Amazon LTL Invoicing                               CFL_003669
+5     A-114     FW: New Invoicing rules                                CFL_003842
+6     A-115     RE: linear Foot charges - demand notice                CFL_003919
+      A-116     RE: Master BOL Billing                                 CFL_003963
+7     A-117     Master BOL Billing                                     CFL_004023
+8     A-118     RE: Master BOL Billing                                 CFL_004071
+      A-119     FW: Amazon Master May June 2016                        CFL_004170
+9
+      A-138     Fwd: RE: Invoice details correction                    CFL_004826
+10    A-139     Re: Fwd: FW: Amazon LTL Invoicing Update               CFL_004860
+      A-140     Re: Fwd: Fwd: Amazon LTL Invoicing Update              CFL_004937
+11
+      A-141     Inbound LTL redirect invoicing procedure               CFL_005051
+12    A-142     FW: Fwd: Amazon LTL Invoicing Update April 4 email     CFL_005053
+      A-148     Fwd: Fwd: Amazon LTL Invoicing                         CFL_005439
+13
+      A-149     Amazon                                                 CFL_005465
+14    A-150     RE: Fwd: Amazon LTL Invoicing                          CFL_005566
+15    A-153     Re: Amazon Tenders w/Multi ARN Numbers                 CFL_006454
+                Amazon_ProcessID_47345043_ISACon         trolNumber
+16    A-154                                                            CFL_006456
+                000103159 Unwrap.X12
+17              Amazon_ProcessID_47345022_ISACon        trolNumber
+      A-155                                                            CFL_006457
+                000103140 Unwrap.X12
+18              Amazon_ProcessID_47192253_ISACon      trolNumber
+      A-156                                                            CFL_006459
+19              000096520 Unwrap.X12
+      A-157     RE: FW: ECRDD Report Fri - 10/18                       CFL_007306
+20    A-158     RE: CENF Duplicates                                    CFL_007375
+21    A-159     FW: EDI DD and DP Compliance                           CFL_007871
+      A-160     Carrier Manual 2016 Final (June).docx                  CFL_007872
+22    A-161     FW: Amazon LTL Invoicing                               CFL_008075
+23    A-162     Fwd: FW: FW: Amazon LTL Invoicing                      CFL_008092
+      A-163     RE: Amazon LTL Invoicing                               CFL_008112
+24
+                Fwd: Fwd: FW: CENF Invalid Invoices 4.6 (Amazon
+      A-165                                                            CFL_008234
+25              duplicates)
+      A-167     FW: CENF Invalid Invoices 8.5                          CFL_008241
+26
+                                                              ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                 30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-32                                     CHICAGO, IL 60602
+                                                                     312.580.1200
+1     A-176     FW: Amazon Issues                                        CFL_009064
+      A-177     RE: Fwd: FW: CENF Invalid Invoices 9.22 – Amazon         CFL_009320
+2
+      A-178     Cancellation Letter.doc                                  CFL_009356
+3     A-182     RE: Amazon - Weekly CENF Meeting - RECAP                 CFL_027036
+4     A-183     FW: Amazon - CFL Contract                                CFL_027086
+      A-184     RE: Amazon FTW1 Proposed Lane Changes January            CFL_027240
+5     A-192     2016CENF PRO 716937016
+                Re:                                                      CFL_030387
+6     A-193     PaperwiseDocument-1.tif                                  CFL_030399
+      A-194     RE: Fb 731780516                                         CFL_030880
+7     A-195     RE: OB loads to FTW                                      CFL_031477
+8     A-197     RE: Tender Match                                         CFL_051935
+                RE: [Case 1808114641] [Various] Volume shipments
+9     A-198                                                              CFL_051982
+                over 8 pallets need retendered
+10    A-199     RE: Ramp down plan                                       CFL_052067
+      A-200     E-Mail 1.pdf                                             CFL_052070
+11
+                Re: Response Required: Heavy or High Volume LTL
+      A-201                                                              CFL_052075
+12              Shipments
+      A-202     FW: Amazon Addendum 3 to Exhibit B.doc                   CFL_052200
+13
+      A-203     Addendum 3 to Exhibit B.doc                              CFL_052201
+14              RE:         RE:            [Case       123670351]
+      A-204     [CENF][Confirm][OAK3][344237150] [PHX7] [CENF] CFL_052203
+15
+                [OAK3] Please redirect from PHX7 to OAK3
+16    A-205     RE: Amazon Truck Load Quote                              CFL_052206
+      A-206     RE: TL Quote                                             CFL_052210
+17
+                RE: Pacific Cycle Inc // QP 4532480 CENF PRO
+      A-207                                                              CFL_052215
+18              732367776
+      A-208     RE: Fb 723405205                                         CFL_052220
+19
+      A-209     RE: Amazon Re-rated Bills                                CFL_052293
+20    A-210     Re: Amazon Re-rated Bills                                CFL_052300
+21    A-211     RE: Amazon 1280 loose pieces                             CFL_052348
+                FW: Pup load 3 bills same s/ same c/ same day. To AMZ.
+22    A-212                                                              CFL_052379
+                18 plts total
+23    A-213     RE: Amazon                                               CFL_052530
+      A-216     CzarLite2011_ratingGuide(12015191 1).PDF                 CFL_000001
+24    A-217     NTD manual(12015193_1).PDF                               CFL_000014
+25    A-218     BOL and Weighing and Inspection Reports                  CFL_088159
+      A-219     AmazonConsigneeShipments2012-2017BLDR                    CFL_091759
+26              Pat64.pdf
+                                                                ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                   30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-33                                       CHICAGO, IL 60602
+                                                                       312.580.1200
+1                                                                                AFS_CFL_00001607 –
+       A-223      EDI Invoices
+                                                                                 AFS CFL 00091244
+2
+                                                                                 AFS_CFL_00107730 –
+       A-224      EDI Invoices
+3                                                                                AFS_CFL_00146626
+
+4
+
+5
+     (b) Authenticity stipulated, admissibility disputed:
+6
+     Plaintiff’s Exhibits:
+7
+
+8    Ex. No.     Description                                                         Bates No.
+         2       1/4/2013 Botsios email to Lau re loading pallets                    CFL_004778
+9
+         3       RE: Case 153157441 - TL Rate, 1/16/14                               CFL_003304
+10       5       RE: Case 153157441 - TL Rate, 1/16/14                               CFL_003250
+11       6       RE: Case 153157441 - TL Rate, with Addendum 4, 1/16/14              CFL_003243
+                 FW: [Case 161729651] [PO: 8U5LMPIE] [SAT1] TRUCK
+12       9                                                                           CFL_003423
+                 LOAD RATE, 2/14/14
+13               RE: [Case 161729651] [PO: 8U5LMPIE] [SAT1] TRUCK
+        10                                                                           CFL_003351
+                 LOAD RATE, 2/14/14
+14
+        11       Re: OAK3-CHA2 Redirect Question, 6/14/2014                          CFL_003402
+15               RE: Canceled: CENF Daily Peak Call, 11/12/2014 email re
+        12                                                                           CFL_003262
+16               Piller departure
+                 Fwd: Re: Amazon Off Manifest Bills, 11/14/2014 email with
+17      13                                                                           CFL_052328
+                 exhibits
+18      14       FW: Amazon, 6/20/16, Botsios to Piller                              CFL_003192
+        15       RE: Amazon, 6/20/16, Piller response                                CFL_003209
+19
+        16       RE: Amazon, 6/20/16, Botsios response                               CFL_003187
+20
+        17       RE: Amazon, 6/20/16, Piller response                                CFL_003189
+21               RE: CENF Multiple ARNs and BOL audit, 6/22/2016 -
+        22                                                                           CFL_003749
+                 6/29/2016 CFL email chain
+22
+                 RE: Case 153157441 - TL Rate, 1/15/2014 - 7/18/2016 email
+        23                                                                 CFL_003893
+23               chain Botios and Piller
+24      24       8/10/2016 Demand Letter from Piller to CFL                          AFS_CFL_00001544
+        25       Declaration of Tom Botsios
+25
+                 FW: Fwd: Amazon LTL Invoicing Update April 4 email,
+        27                                                                           CFL_008132
+26               4/4/16 - 7/6/16 email chain
+                                                                        ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                          30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-34                                              CHICAGO, IL 60602
+                                                                               312.580.1200
+1      29      Re: Master BOL Billing, 7/13/2016                                CFL_004002
+2      30      RE: Master BOL Billing, 7/13/2016                                AFS_CFL_00097113
+       31      Case 153157441 - TL Rate, 1/15/14                                CFL_003321
+3
+       32      RE: LTL Clawback, 5/5/2016                                       AFS_CFL_00104853
+4      33      RE: Amazon LTL Invoicing Update, 5/11/16                         AFS_CFL_00000210
+5              RE: Amazon LTL Invoicing Update, 5/11/2016 email Piller
+       34                                                                       AFS_CFL_00000190
+               to Beavers
+6
+       35      RE: Amazon LTL Invoicing Update, 4/4/2016 - 5/11/2016            AFS_CFL_00103716
+7              RE: Monthly Vendor Reports from Controllership,
+       36                                                                       AFS_CFL_00104736
+               5/24/2016
+8
+       37      Re: LTL Analysis 6-7-16.xlsx, 6/13/2016                          AFS_CFL_00097365
+9      38      Re: 8 PALLETS/1 BILL AMAZON, 6/14/2016                           CFL_003547
+10             RE: Carrier Rate Information, 6/15/2016, email Piller to
+       39                                                                       AFS_CFL_00098810
+               Azzi and Ankush
+11
+               RE: Carrier Rate Information, 6/15/2016 email Azzi to Piller
+       40                                                                       AFS_CFL_00098824
+12             and Anksuh
+       41      RE: LTL Analysis 6-7-16.xlsx, 6/23/2016 email                    AFS_CFL_00098672
+13
+               RE: CENF Multiple ARNs and BOL audit, 6/23/2016 email
+14     42                                                                       CFL_003684
+               Piller re MBOL audit
+15     43      FW: Master BOL Billing, 7/8/16                                   AFS_CFL_00096971
+       44      RE: ONT8 Update, 7/15/2016, Piller email                         AFS_CFL_00092682
+16
+               CENF Settlement Letter synopsis, 11/2/2016 email Piller to
+       45                                                                       AFS_CFL_00099249
+17             K Breedlove
+18     46      FW: Financial Due Diligence, 11/23/16                            AFS_CFL_00095566
+       47      Re: Amazon response, 11/23/16                                    AFS_CFL_00096859
+19
+               FW: [V1824882] deprecate Central Freight (CENF),
+       48                                                                       AFS_CFL_00097124
+20             12/19/2016 email Piller to Azzi
+       49      Conversation with Piller, Christian, 3/31/17                     AFS_CFL_00092636
+21
+       50      RE: Multiple Reports for Inbound LTL, 5/24/16                    AFS_CFL_00103551
+22
+       52      RE: LTL RFQ Approvals Doc, 2/14/2017                             AFS_CFL_00097099
+23     53      CENF setoff Email, 3/12/17                                       AFS_CFL_00000146
+24     54      CENF payables Email, 11/29/16                                    AFS_CFL_00097341
+       55      RE: Central Freight (CENF), 3/2/17                               AFS_CFL_00092658
+25
+       56      RE: CENF Communication, 4/3/17                                   AFS_CFL_00097230
+26
+                                                                   ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                      30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-35                                          CHICAGO, IL 60602
+                                                                          312.580.1200
+1      57      Conversation with Moore, Becky, 3/6/18                        AFS_CFL_00102431
+2      60      RE: Amazon Reconsignment, 10/3/2014, Culbertson email         CFL_027748
+       61      RE: Fb 736367152, 12/15/2014, Heim email                      CFL_030372
+3
+       63      Re: HAY to FON AMZ 13 PLTS, 11/20/2015, Harris email          CFL_027732
+4      65      Amazon Round 2 bid response, 2/24/2016 email w exhibits       CFL_027286
+5      66      RE: CENF LTL/TL breakdown, 3/16/2013                          AFS_CFL_00105812
+       68      RE: FW: Amazon Billing Change, 7/8/2016                       CFL_008166
+6
+       69      RE: Amazon Master Bill Program, 7/8/2016                      CFL_010558
+7
+               Fwd: RE: FW: Amazon Volume.xlsx, 9/26/2016 email with
+       70                                                                    CFL_001344
+8              exhibit
+       71      Amazon Spots, 9/22/2016 email with exhibit                    CFL_027789
+9
+       72      FW: Master BOL Billing, 7/18/2016                             AFS_CFL_00092675
+10     74      Copy of CENF_Invoice_Details.xlsx                             CFL_052891
+11     75      Amazon invoice, Drs, WI 1                                     CFL_052745
+12     76      Amazon invoices and DR                                        CFL_052782
+       78      Amazon invoice Drs, WI 2                                      CFL_052867
+13
+       79      Amazon - no LOAs 1                                            CFL_052888
+14     81      Analysis of AFS_CFL_00001597.xlsx                             CFL_005615
+15     82      Spot reconciliation with Amazon 1597 02 15 19.xlsx            CFL_094068
+       83      Declaration of Doug Culbertson
+16
+       84      Second Declaration of Doug Culbertson with exhibits
+17     85      Culbertson Pallets Analysis                                   CFL_096236
+18             SpotQuotes_Part01.pdf – SpotQuotes_Part41.pdf,                CFL_031482 -
+       86
+               BOL and W&I forms for 0% discount                             CFL_051823
+19
+       94      FW: Amazon LTL Invoicing, 7/8/2016 email chain                CFL_051968
+20     95      LTL Invoice Process Improvements.docx                         AFS_CFL_00099218
+21             RE: 3.30 TL and LTL Invoice Approvals, 4/9/2015 email
+       96                                                                    AFS_CFL_00098531
+               chain
+22
+       97      Amazon LTL Invoicing, 2/13/2016 Beavers email directive       CFL_005240
+23     98      RE: Master BOL - LTL Deep Dive, 2/22/2016                     AFS_CFL_00103802
+24             RE: Master BOL - LTL Deep Dive, 3/1/2016 email Azzi to
+       99                                                                    AFS_CFL_00103619
+               Beavers
+25
+               RE: Amazon LTL Invoicing, 3/10/2016 email Rankin to
+      100                                                                    CFL_005432
+26             Beavers
+                                                                ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                   30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-36                                       CHICAGO, IL 60602
+                                                                       312.580.1200
+1     101      RE: LTL Deep Dive, 5/5/2016 email chain                         AFS_CFL_00103714
+2              RE: Amazon LTL Invoicing Update, 5/11/2016, Beavers to
+      103                                                                      AFS_CFL_00104018
+               Piller
+3              Re: Amazon LTL Invoicing Update, 5/12/2016, Piller to
+      104                                                                      AFS_CFL_00103835
+4              Beavers
+               RE: Amazon LTL Invoicing Update, 5/12/2016, Beavers to
+5     105                                                                      AFS_CFL_00096115
+               Piller
+6     106      RE: LTL Clawback, 5/17/2016 Beavers email                       AFS_CFL_00104011
+      107      RE: LTL Clawback, 5/18/2016 Anfinson email                      AFS_CFL_00103823
+7
+      108      RE: LTL Clawback, 5/19/2016 Beavers email                       AFS_CFL_00104126
+8     109      RE: LTL Analysis 6-7-16.xlsx, 6/22/2016 Beavers email           AFS_CFL_00099044
+9     110      Re: [MMT-1228] Master BOL Creation, 10/6/2016 chat              AFS_CFL_00103718
+10             RE: Question on setting off, 2/20/2017 email Beavers to
+      111                                                                      AFS_CFL_00099666
+               Ankush
+11    112      RE: Payment Activity, 4/3/2017 email                            AFS_CFL_00095449
+12    113      RE: duplicate VRID, 10/13/2017 Beavers email                    AFS_CFL_00092629
+      114      RE: multiple BOLs, 10/19/2017 email                             AFS_CFL_00104322
+13
+               RE: Central Freight is saying they cannot pick up more than
+14    115                                                                      AFS_CFL_00096263
+               8 pallets?, 9/13/2016
+15    116      RE: Accounts Receivable/Invoicing Contact, 7/14/2014            CFL_052223
+      117      Amazon LTL Invoice Auditing, 7/14/2014                          CFL_052224
+16
+      118      Re: Fwd: RE: Amazon Rejected Bills, 11/14/17                    CFL_003294
+17    119      Fwd: Amazon LTL Invoice Auditing, 7/15/14                       CFL_003404
+18    120      CFL#728880634, 10/29/2014 Mooney email                          CFL_052307
+19    121      RE: CFL#728880634, 10/29/2014 Stein email                       CFL_052308
+      122      CENF Invalid Invoices 11.3, 11/5/2014 email with exhibit        CFL_052312
+20
+      123      Re: CFL#728880634, 11/7/2014 Mooney email                       CFL_052316
+21    124      RE: CFL#728880634, 11/7/2014 Stein email                        CFL_052317
+22    125      Amazon Rejected Bills, 11/7/2014 Mooney email                   CFL_052320
+      126      RE: Amazon Rejected Bills, 11/11/2014 Stein email               CFL_052325
+23
+      127      Central Freight Balance email, 2/1/2017                         AFS_CFL_00098880
+24
+               RE: Re: Amazon Off Manifest Bills, 11/19/2014 Stein email
+      128                                                                      CFL_052445
+25             chain
+
+26
+                                                                  ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                     30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-37                                         CHICAGO, IL 60602
+                                                                         312.580.1200
+1              RE: Re: Fwd: RE: Amazon Rejected Bills, 11/19/14 Stein
+      129                                                                       CFL_003271
+               email chain
+2
+      130      Fwd: RE: Carrier Freight Class Questions, 4/1/2015 email         CFL_052369
+3              Routing Request response from Amazon.com - CENF
+      131                                                                       AFS_CFL_00100195
+4              {1226400661} {LTL} **Need Response**, 2/26/2013 chat
+      132      Conversation with Gebregiorgis, Haben, 3/1/2013 chat             AFS_CFL_00102675
+5
+               RE: [Case 91083241] [V1261676] [PHX5], 4/2/13 TOC
+      133                                                                       AFS_CFL_00105847
+6              communication
+      134      RE: Pallet upper caps for LTL, 3/29/2013 email AFS internal AFS_CFL_00105808
+7
+               RE: RE: [Case 87916751] Freight Not Pickup //
+8     135                                                                       AFS_CFL_00106262
+               ARN:1226400661, 4/5/2013 email to Lau
+9              Re: [Case 87916751] Freight Not Pickup //
+      136                                                                       AFS_CFL_00106197
+               ARN:1226400661, 4/8/2013 AFS internal
+10             RE: [Case 87916751] Freight Not Pickup //
+      137                                                                       AFS_CFL_00106205
+11             ARN:1226400661, 4/11/2013 AFS internal
+               RE: [Case 87916751] Freight Not Pickup //
+12    138                                                                       AFS_CFL_00106188
+               ARN:1226400661, 4/11/2013 Flannery email
+13    139      RE: CENF Stacked and unstacked data, 8/10/2016 email             AFS_CFL_00000349
+               RE: Invoice details correction, 6/20/2016 email with
+14    140                                                                       CFL_005025
+               spreadsheet attachment
+15             Fwd: RE: Invoice details correction, 6/10/2016 Kubitza
+      141                                                                       CFL_005014
+               email with exhibits
+16
+               RE: RE: Invoice details correction, 6/20/2016 email with
+      142                                                                       CFL_004880
+17             exhibit
+      143      RE: Carrier Rate Information, 6/20/2016 email                    AFS_CFL_00098328
+18
+      144      RE: Non-discount invoices for CENF, 7/7/2016 email               AFS_CFL_00098525
+19
+               CENF Stacked and unstacked data, 7/25/2016 email to
+      145                                                                       AFS_CFL_00000352
+20             Khandelwal
+               RE: CENF Stacked and unstacked data, 7/28/2016 email to
+21    146                                                                       AFS_CFL_00095439
+               Khandelwal
+22             RE: CENF Stacked and unstacked data, 8/9/2016 email to
+      147                                                                       AFS_CFL_00000317
+               Khandelwal
+23
+               FW: Non-discount invoices for CENF, 8/9/2016 email Azzi
+      148                                                                       AFS_CFL_00095840
+24             to Piller
+               RE: Question on setting off, 2/18/2017 Azzi email to
+25    149                                                                       AFS_CFL_00095552
+               Khandelwal
+26
+                                                                   ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                      30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-38                                          CHICAGO, IL 60602
+                                                                          312.580.1200
+1              RE: Question on setting off, 2/18/2017 Khandelwal email to
+      150                                                                       AFS_CFL_00098683
+               Azzi
+2
+      151      RE: Question on setting off, 2/21/2017 Azzi email to Piller      AFS_CFL_00096647
+3     152      RE: Setting off CENF, 3/17/17 email                              AFS_CFL_00098337
+4     153      RE: Setting off CENF, 3/20/2017 email                            AFS_CFL_00000492
+
+5              Ticket 0109030253 - Correspondence - Status Assigned -
+      154                                                                       AFS_CFL_00095878
+               Central Freight Invoices to be placed on-hold, 4/3/2017 TT
+6     155      RE: V-Return Estes Invoices, 5/3/17 email re CENF                AFS_CFL_00102277
+7              Fwd: RE: Invoice details correction, 6/10/2016 email
+      157                                                                       AFS_CFL_00098197
+               Kubitza to Khandelwal
+8
+               RE: CENF Multiple ARNs and BOL audit, 7/8/2016 email
+      158                                                                       CFL_004110
+9              Culbertson to Militzer
+               RE: High Volume ARN’s for possible retender, 7/8/2016
+10    162                                                                       CFL_051971
+               email
+11    163      FW: LTL Clawback, 5/16/2016 email                                AFS_CFL_00104886
+
+12    164      RE: LTL contract summary, 6/17/2016                              AFS_CFL_00103753
+      165      RE: Payment Activity, 3/27/2017 email                            CFL_002722
+13
+               Multiple ARN audit (all LTL carriers), Clawback
+      168                                                                       AFS_CFL_00000839
+14             Comparison.xlsx,
+      171      RE: LTL Clawback Initial Data, 5/20/2016                         AFS_CFL_00000849
+15
+               Amazon NA Vendor Shipment Manual, Oct 2015,
+16    173                                                                       AFS_CFL_00000602
+               NA_Vendor_Prep_and_Trans_Manual.pdf
+17    175      Summary CENF_.xlsx                                               AFS_CFL_00000353
+      176      Summary_CENF_BookerTable_Final.xlsx                              AFS_CFL_00095440
+18
+      177      PalletCount_Final.xlsx                                           AFS_CFL_00000319
+19             RE: Inbound Transportation Update, 8/19/2016 email
+      178                                                                       AFS_CFL_00000858
+               Anfinson to Breedlove
+20
+      179      Regan Expert Report                                              Regan-Dep001
+21
+      184      Exhibit 3, Bolton Deposition
+22    186      Polash Expert Report
+23    188      Partin notes, deposition exhibit 2
+      189      Partin notes, deposition exhibit 3
+24
+      193      Central Freight - Invoices on Hold.xlsb                          AFS_CFL_00001602
+25             AmazonConsigneeShipments2012-2017 Cleaned
+      195                                                                       CFL_094066
+26             (003)(002).xlsx
+                                                                   ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                      30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-39                                          CHICAGO, IL 60602
+                                                                          312.580.1200
+1               Fwd: Audit Failed Invoices Week – 27, 7/6/2016 email with
+       197                                                                       CFL_005057
+                attachments
+2
+       199      Amazon’s Answer to 1st Complaint and Counterclaim
+3      200      Central Freight’s Answer to Counterclaim (Dkt. #50)
+4      201      Central Freight’s First Amended Complaint (Dkt. #139)
+
+5      202      Amazon’s Answer to Amended Complaint (Dkt. #144)
+       214      Court Opinion on Summary Judgment
+6
+       215      8/1/2019 Letter Kallish to Block
+7               Analysis of AFS_CFL_00001597.xlsx by more than and less
+       217                                                                       CFL_098680
+                than 9 pallet spaces
+8
+                Re: Invoice details correction, 6/22/2016 email with
+       218                                                                       CFL_004907
+9               attachments
+10
+     Defendant’s Exhibits:
+11
+     Ex. No.     Document                                                    Bates No.
+12   A-1         RE: Amazon                                                  AFS_CFL_00000040
+13   A-21        Carrier Invoice Manual_Inbound- TL.pdf                      AFS_CFL_00000969
+     A-23        RE: LTL RFQ Update                                          AFS_CFL_00001298
+14
+     A-25        RE: Amazon Master May June 2016                             AFS_CFL_00001431
+15   A-26        FW: Amazon response                                         AFS_CFL_00001450
+     A-31        Settlement Agreement                                        AFS_CFL_00096790
+16
+     A-34        RE: Financial Due Diligence                                 AFS_CFL_00095558
+17   A-36        RE: Amazon Vendor Freight Consolidation Bid                 AFS_CFL_00095636
+     A-46        FW: Revised Golden State revenue adjustments file           AFS_CFL_00099053
+18
+     A-49        Re: Audit failed invoices week 50                           AFS_CFL_00101164
+19   A-50        Ankits 12-14-16.xlsx                                        AFS_CFL_00101166
+     A-51        Fwd: Audit Failed Invoices Week - 48 CENF                   AFS_CFL_00101167
+20
+     A-52        Re: Audit Failed Invoices Week - 40 CENF                    AFS_CFL_00101170
+21   A-53        Ankit's list 9-30-16.xlsx                                   AFS_CFL_00101171
+22   A-54        Re: Audit Failed Invoices Week - 45 CENF                    AFS_CFL_00101206
+     A-55        Ankits list 11-2.xlsx                                       AFS_CFL_00101207
+23   A-56        Re: Audit Failed Invoices Week - 37 CENF                    AFS_CFL_00101208
+24   A-57        Null - invalid tender 9-6-16.xlsx                           AFS_CFL_00101209
+     A-59        Re: Audit Failed Invoices Week - 42 CENF                    AFS_CFL_00101224
+25   A-60        Ankits list 10-21-16.xlsx                                   AFS_CFL_00101226
+26   A-61        Re: Audit Failed Invoices Week - 48 CENF                    AFS_CFL_00101249
+                                                                    ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                      30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-40                                          CHICAGO, IL 60602
+                                                                           312.580.1200
+1    A-62       Ankits list 11-30.xlsx                                AFS_CFL_00101251
+     A-65       Ankits list 11-30-1.xlsx                              AFS_CFL_00101268
+2
+     A-66       Ankits list 11-30-1.xlsx                              AFS_CFL_00101269
+3    A-67       Ankits list 11-30.xlsx                                AFS_CFL_00101289
+4    A-68       Ankits list 11-30.xlsx                                AFS_CFL_00101290
+     A-69       Re: [*SPAM*]                                          AFS_CFL_00105834
+5    A-70       RE: EDI 214 map                                       AFS_CFL_00105959
+6    A-71       Carrier Manual v 9.0.docx                             AFS_CFL_00105963
+                RE: [Case 92222631] [PHX7] [X9716628] V8888007
+7    A-72       Y6668281 ARN 1282395171 Amazon Vendor AFS_CFL_00106137
+8               SUNPENTOWN INTERNATIONAL INC
+     A-73       RE: CENF LTL/TL breakdown                             AFS_CFL_00106218
+9    A-87       OCT IB ME Checklist                                   AFS_CFL_00107473
+10   A-88       INBOUND_CHECKLIST_1014.xlsx                           AFS_CFL_00107474
+     A-90       Amazon - and other things                             CFL_000334
+11
+     A-91       Amazon Overcharges                                    CFL_000550
+12   A-92       CENF Claim Update                                     CFL_000653
+     A-93       FW: ARN status                                        CFL_001031
+13
+     A-98       Fwd: FW: Amazon/Central Freight Demand Letter         CFL_001314
+14   A-99       Fwd: RE: FW: Amazon                                   CFL_001348
+     A-100      RE: Amazon Cancellation Letter                        CFL_001555
+15
+     A-112      06301601.PDF                                          CFL_003515
+16   A-120      FW: CARP Editing Phase 2 Heads Up                     CFL_004208
+17   A-121      RE: Consolidation program                             CFL_004282
+     A-122      RE: Emailing: Amazon revisions 111912.pdf             CFL_004318
+18   A-123      FW: Emailing: Amazon revisions 111912.pdf             CFL_004327
+19   A-124      Amazon revisions 111912.pdf                           CFL_004328
+     A-125      Consolidation Pricing 062911.pdf                      CFL_004348
+20   A-126      RE: URGENT - Pop Chips pick up                        CFL_004400
+21   A-127      Fwd: Re: misload of po N2797781                       CFL_004490
+     A-128      RE: Amazon Addendum 3 to Exhibit B.doc                CFL_004516
+22
+     A-129      FW: Pop Chips pick up                                 CFL_004530
+23              RE: Pickup Notification for: AMAZON.COM -
+     A-130                                                            CFL_004532
+                620955491 PO: R5176751
+24
+     A-131      FW: Amazon 091311.pdf                                 CFL_004545
+25   A-132      Amazon 091311.pdf                                     CFL_004546
+     A-133      Amazon Add 1.pdf                                      CFL_004547
+26
+                                                             ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-41                                    CHICAGO, IL 60602
+                                                                    312.580.1200
+1    A-134      RE: Amazon 091311.pdf                                   CFL_004551
+     A-135      Consolidation                                           CFL_004559
+2
+     A-136      RE: Emailing: Central Freight Lines Quick Pick          CFL_004560
+3    A-137      Email 4.pdf                                             CFL_004767
+4    A-143      null or invalid tenders 7-5-16.xlsx                     CFL_005061
+     A-144      Null - invalid tender 9-6-16.xlsx                       CFL_005073
+5    A-145      Case Id 1967295901. Invalid Tender ID.xls               CFL_005125
+6    A-146      RE: Amazon shipment at Poundex URGENT!!                 CFL_005181
+     A-147      RE: AKA Gourmet (Wine.com)                              CFL_005202
+7    A-151      New Rules Tariff                                        CFL_005606
+8    A-152      CENF 100 Rules- Final PDF - Current 08-19-2015.pdf      CFL_005648
+     A-164      Central No Tender ID.xlsx                               CFL_008115
+9
+     A-166      CENF 4.6.xls                                            CFL_008237
+10   A-168      Charge code list EXT FINAL.docx                         CFL_008244
+     A-169      RE: Master rate file                                    CFL_008393
+11
+     A-170      Amazon MDW2 -Final.xlsx                                 CFL_008395
+12   A-171      Amazon FTW1 Rate Submission 02-16- 16.xlsx              CFL_008396
+     A-172      Amazon SNA4 Final.xlsx                                  CFL_008397
+13
+                Amazon 2016 CENF Rate Submission effective 10-13-
+     A-173                                                              CFL_008398
+14              15.xlsx
+     A-174      Audit Failed Invoices Week - 27.                        CFL_008807
+15
+     A-175      CENF_20160704.xlsx                                      CFL_008808
+16   A-179      RE: 736351545 Amazon                                    CFL_009371
+17              First Pass of Power-point presentation on Truck Load
+     A-180                                                              CFL_009389
+                Business Development
+18   A-181      Truck Load Business Development 3.pdf                   CFL_009390
+19   A-185      RE: 2 bills same day same S/ Same C/ HAY to FON         CFL_027655
+     A-186      Re: LVG to FRS                                          CFL_027656
+20   A-187      RE: FON to SAN                                          CFL_027659
+21   A-188      RE: F/B 562248336 Bunzl                                 CFL_027661
+     A-189      Re: Fwd: Re: Documents needed on account                CFL_027669
+22              #4418729001
+                Re: FW: Pup load 3 bills same s/ same c/ same day. To
+     A-190                                                        CFL_027718
+23              AMZ. 18 plts total
+     A-191      Fwd: RE: Amazonw HU and PltSpcs 092216.xls        CFL_027747
+24
+                EDI210_Invoice_Requirement - Inbound and LineHaul
+     A-196                                                        CFL_051826
+25              Carriers.xlsx
+     A-214      amazon spot quote rule                            CFL_052725
+26
+                                                               ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                                  30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-42                                      CHICAGO, IL 60602
+                                                                      312.580.1200
+1    A-215        Re: Fwd: Fb's 740013842 & 737680595                        CFL_052726
+     A-220        Central Freight Consolidated Balance Sheets                CFL_094348
+2
+     A-221        CENF_Pallet.xlsx                                           AFS_CFL_00001409
+3    A-222        9/16/19 Letter from Marc Kallish re: CFL_098680
+4
+
+5
+     (c) Authenticity and admissibility disputed:
+6
+     Plaintiff’s Exhibits:
+7
+
+8       Ex. No.      Description                                                    Bates No.
+           7         FW: FW: Case 153157441 - TL Rate, 9/11/2016 email chain        CFL_001182
+9
+          59         Exhibit 11, Culbertson Deposition
+10                   RE: Amazon Multiple ARNs and BOL audit, 7/8/2016 email
+          67                                                                        CFL_003992
+                     chain
+11
+           77        Amazon Litigation Supporting Docs 11.27.18                     CFL_052818
+12         80        doc26868720181127150607.pdf                                    CFL_052892
+13        159        Amazon Aging Report (10-30-2017) (1).xlsx                      CFL_094418
+          160        arp_Amazon_(9-26-2018)_Final_L Westerfeld.xls                  CFL_052072
+14                                                                                  CFL_052907 -
+          161        CFL Open A/R Invoices
+15                                                                                  77779
+          181        Excerpt of T Botsios Deposition (Regan Dep Exhibit 5)
+16
+          198        5 EDI Invoices
+17        216        Roetzel & Andress, LPA invoices (redacted)
+18
+19   Defendant’s Exhibits:
+
+20     Ex. No.    Document                                                   Bates No.
+21     A-2        Audit Failed Invoices Week - 42 CENF                       AFS_CFL_00000257
+       A-3        CENF.xlsx                                                  AFS_CFL_00000258
+22     A-4        Audit Failed Invoices Week - 37 CENF                       AFS_CFL_00000262
+23     A-5        CENF.xlsx                                                  AFS_CFL_00000263
+       A-6        Audit Failed Invoices Week - 45 CENF                       AFS_CFL_00000270
+24
+       A-7        CENF_carrier.xlsx                                          AFS_CFL_00000271
+25     A-8        Audit Failed Invoices Week - 40 CENF                       AFS_CFL_00000272
+       A-9        CENF Carrrier.xlsx                                         AFS_CFL_00000273
+26
+                                                                  ROETZEL & ANDRESS LPA
+      JOINT PRETRIAL ORDER                                    30 N. LASALLE STREET SUITE 2800
+      NO. 2:18-cv-00814-JLR-43                                        CHICAGO, IL 60602
+                                                                         312.580.1200
+1     A-10      Audit Failed Invoices Week - 45 CENF                AFS_CFL_00000281
+      A-11      CENF_.xlsx                                          AFS_CFL_00000282
+2
+      A-12      Audit failed invoices week 50                       AFS_CFL_00000290
+3     A-13      CENF.xlsx                                           AFS_CFL_00000291
+4     A-14      Audit failed 05/05/2017                             AFS_CFL_00000304
+      A-15      CENF.xlsx                                           AFS_CFL_00000305
+5     A-16      RE: CENF Stacked and unstacked data                 AFS_CFL_00000341
+6     A-17      Multiple ARNS_Master.xlsx                           AFS_CFL_00000343
+      A-18      RE: Fwd: FW: Case Id 1967295901. Invalid Tender     AFS_CFL_00000371
+7     A-19      ID.xls
+                RE: Carrier Onboarding                              AFS_CFL_00000437
+8     A-20      LTL_INVOICING_1PGR_FINAL.docx                       AFS_CFL_00000967
+      A-22      IB-rate.xlsx                                        AFS_CFL_00000989
+9
+      A-24      CENF_One_Pager.docx                                 AFS_CFL_00001390
+10    A-27      CENF Settlement Letter FINAL.pdf                    AFS_CFL_00001455
+      A-30      Central Freight - Payments in 2017.xlsb             AFS_CFL_00001603
+11
+      A-32      Carrier_Guidelines_Accessorials.docx                AFS_CFL_00095518
+12    A-33      Carrier Invoice Manual_Inbound TL - 2015.docx       AFS_CFL_00095522
+13              CENTRALFREIGHTL__375360_1611                  23
+      A-35                                                          AFS_CFL_00095568
+                093035255.pdf
+14    A-37      Central Freight.xlsx                                AFS_CFL_00096635
+      A-42      Microsoft_PowerPoint_Slide1.sldx                    AFS_CFL_00097729
+15
+      A-47      Golden State Shipments.xls                          AFS_CFL_00099056
+16    A-48      TL_Invoicing_Peak_2015_Draft_1.docx                 AFS_CFL_00100161
+17    A-74      Carrier Manual v8.docx                              AFS_CFL_00106270
+      A-75      9.8 LTL Invoice Approvals                           AFS_CFL_00106353
+18    A-76      9.8 LTL Invoice Analysis.xlsx                       AFS_CFL_00106354
+19    A-77      5.8 TL and LTL Invoice Approvals                    AFS_CFL_00106374
+      A-78      Outstanding Invoices 5.5.xlsx                       AFS_CFL_00106375
+20    A-79      FW: 4.14 TL and LTL Invoice Approvals               AFS_CFL_00106448
+21    A-80      CENF8plus.csv                                       AFS_CFL_00106512
+      A-81      CENF_all.csv                                        AFS_CFL_00106513
+22
+      A-82      CENFTheyPay.csv                                     AFS_CFL_00106514
+23    A-83      AFS Calculation-Data Pull.xlsx                      AFS_CFL_00106515
+      A-84      TIPS DATA 2153 (Based on F_ID).xlsx                 AFS_CFL_00106516
+24
+      A-85      TIPS DATA.XLSX                                      AFS_CFL_00106517
+25    A-86      invoice_dump_tips.csv                               AFS_CFL_00106518
+26
+                                                           ROETZEL & ANDRESS LPA
+     JOINT PRETRIAL ORDER                              30 N. LASALLE STREET SUITE 2800
+     NO. 2:18-cv-00814-JLR-44                                  CHICAGO, IL 60602
+                                                                  312.580.1200
+

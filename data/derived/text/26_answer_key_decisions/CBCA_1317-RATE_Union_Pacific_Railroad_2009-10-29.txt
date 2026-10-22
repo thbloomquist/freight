@@ -1,0 +1,294 @@
+                                     October 29, 2009
+
+
+                                    CBCA 1317-RATE
+
+
+                     In the Matter of UNION PACIFIC RAILROAD
+
+
+      Rebecca B. Gregory and Raymond J. Hasiak of Union Pacific Railroad, Omaha, NE,
+appearing for Claimant.
+
+      Mary C. Bates, Acting Director, Transportation Audits Division, Office of Travel,
+Motor Vehicles & Card Services, Federal Acquisition Service, General Services
+Administration, Arlington, VA; and Aaron J. Pound, Office of General Counsel, General
+Services Administration, Washington, DC, appearing for General Services Administration.
+
+      Janet D. Kaminski, Office of the Staff Judge Advocate, Headquarters, Military
+Surface Deployment and Distribution Command, Department of the Army, Fort Eustis, VA,
+appearing for Department of Defense.
+
+GILMORE, Board Judge.
+
+       This case is proceeding under 31 U.S.C. § 3726(i)(1) (2006), which provides that a
+carrier or freight forwarder may request the Administrator of the General Services
+Administration (GSA) to review an action taken by the Audit Division of GSA’s Office of
+Transportation and Property Management. The Administrator has delegated the review
+function to the Civilian Board of Contract Appeals (CBCA). Rule 301 (48 CFR 6103.301
+(2008)). The burden is on the claimant to establish the timeliness of the claim, the liability
+of the agency, and the claimant’s right to payment. Rule 301(b). We conclude that the
+deductions at issue were untimely under the applicable statute and reverse the deductions.
+CBCA 1317-RATE                                                                                 2
+
+                                     General Background
+
+        The Department of Defense (DOD) contracted with Union Pacific Railroad (UP or
+claimant), to transport goods in the United States. As UP completed certain deliveries under
+the contract, it submitted bills of lading (BOLs) for payment, and the Government paid the
+bills. After completing post-payment audits, GSA discovered UP had overcharged DOD on
+seventy-four of the BOLs and, therefore, issued seventy-four notices of overcharge to UP.
+UP disputed the overcharges. After attempts to resolve the disputes failed, GSA eventually
+submitted the alleged overcharged amounts to the Department of the Treasury (TD) for
+collection. UP subsequently filed claims with the Board regarding the seventy-four BOLs
+in dispute. Since the initial filing, the parties advised the Board that they had resolved sixty-
+seven of the original claims. On May 12, 2009, the Board granted the parties’ joint motion
+to amend the proceedings to add five overcharge claims that involved the same two issues
+for resolution as were presently before the Board.
+
+Background on Twelve Overcharges in Dispute
+
+        At present, there are twelve overcharges in dispute. They all involve BOLs where the
+transportation contract required the Government to annotate on the BOLs the railway car
+sizes ordered and the car sizes provided. The Government entered the information on the
+face of the BOLs and UP was paid accordingly. After the bills were paid, GSA discovered
+that the information noted was incorrect and that UP had substituted railway car sizes
+different from those ordered (which was allowed under certain conditions). GSA then
+adjusted each bill to reflect the lower cost resulting from the car substitution, and issued a
+notice of overcharge to UP on each of the twelve BOLs. UP disputed the adjustments, and
+after the parties were unable to resolve the disputes, the overcharges were submitted to the
+TD for collection. The deductions were made by TD at various times during 2008. By
+October 31, 2008, all of the alleged overcharges had been deducted from UP’s account.
+There is no dispute, however, that the deductions under each of these twelve BOLs were
+taken more than three years after the bills were paid.
+
+       UP has raised two issues in conjunction with the claims:
+
+Issue 1: Is the Government precluded under the provisions in 31 U.S.C. § 3726 from
+deducting the alleged overcharges more than three years after the subject bills were paid?
+
+Issue 2: Can the Government, which had the responsibility to enter the sizes of the cars
+ordered and actually supplied on the face of the BOLs for payment purposes, assert that the
+information entered was incorrect, and adjust the amounts due, after the bills were paid?
+CBCA 1317-RATE                                                                                3
+
+Issue 1
+
+          Facts
+
+          Title 31 U.S.C. § 3726(d) provides that:
+
+          Not later than three years (excluding time of war) after the time a bill is paid,
+          the Government may deduct from an amount subsequently due a carrier or
+          freight forwarder an amount paid on the bill that was greater than the rate
+          allowed under--
+
+          ....
+
+          (2)     a lawfully quoted rate subject to the jurisdiction of the Surface
+                  Transportation Board.
+
+      The parties agree on the dates the bills were paid and the dates the deductions were
+made as follows:
+
+    BOL       Overcharge                  Date Bill Paid    Amount Deducted       Date Deducted
+W45QQ90009822 $17,936.54                   1/20/2005         $17,936.54           6/16/2008
+W45QQ90009825 $13,148.05                    1/20/2005        $13,148.05           6/16/2008
+W45QQ90009832 $21,942.47                   2/11/2005         $21,942.47          10/15/2008
+W45QQ90009833 $ 8787.44                    2/02/2005         $ 8787.44            4/15/2008
+W45QQ90009838 $ 4388.49                    2/11/2005         $ 4388.49            4/15/2008
+W45QQ90009856 $ 8776.98                     2/11/2005        $ 8776.98            4/15/2008
+W45QQ90009858 $ 4369.90                    2/11/2005         $ 4369.90            4/15/2008
+W67G230008416 $ 3304.60                     1/27/2004         $ 3304.60          10/10/2008
+W67G230008417 $ 4798.79                     2/05/2004         $ 4798.79          10/10/2008
+W5CQRF0017135 $ 4665.31                    2/09/2004         $ 4665.31           10/10/2008
+W45QQ90006106 $12,073.83                   3/01/2004         $11,979.02          10/31/2008
+W45QQ90006013 $33,421.64                   2/06/2004         $33,259.16          10/31/2008
+
+          UP’s Position
+
+       UP contends that under 31 U.S.C. § 3726(d), the Government has three years from the
+date of payment of a bill to deduct an amount that is greater than the allowable rate from
+amounts otherwise due the freight carrier. It contends that the language is clear and
+unambiguous and that after the three-year period has run, the Government can no longer
+deduct the overcharge from its account. In support of its position, UP relies primarily on the
+CBCA 1317-RATE                                                                                  4
+
+court’s analysis in American Airlines, Inc. v. Austin, 75 F.3d 1535 (Fed. Cir. 1996), a case
+in which the Court of Appeals for the Federal Circuit found that 31 U.S.C. § 3726 required
+the Government to deduct rate overcharges within three years after the bill is paid, citing
+Alaska Airlines, Inc. v. Johnson, 8 F.3d 791, 793 (Fed. Cir. 1993), while holding that the
+statute did not place a time limit on the Government’s right to recover advanced payments
+made for unused transportation under 31 U.S.C. § 3726(f) (1988). American Airlines,
+75 F.3d at 1539.
+
+       Government’s Position
+
+        The Government argues that the three-year period for deduction places a limitation
+only on the method of collection outlined in that section and that the Government’s failure
+to deduct the overcharge within the three-year period neither extinguishes the debt nor
+prohibits the Government from using alternative methods of collection. The Government
+argues that under 31 U.S.C. § 3716, the Government is authorized to effect administrative
+offset using common-law precedents separately from any limitations stated in other statutes.
+It also argues that the deduction action referenced in 31 U.S.C. § 3726 relates to an external
+procedure used to collect debts through the use of Government disbursing centers detailed
+in 41 CFR 102-118.640(b) under which other agencies collect debts on behalf of GSA. It
+contends that an administrative offset is different from a deduction action, and that an
+administrative offset is still available as a method of collection after the running of the three-
+year period for a deduction action. In support of its position, it relies on United States v.
+Munsey Trust Co., 332 U.S. 234 (1947), in which the Court held that the Government has the
+same right as every creditor to apply moneys of his debtor, in his hands, to extinguish the
+debt due him. The Government relies also on Burlington Northern Inc. v. United States, 462
+F. 2d 526, 529 (Ct. Cl. 1972), in which the court concluded that the Government’s claim was
+one for “damages,” since it involved the carrier’s unauthorized use of a Government-owned
+flatcar and, thus, the three-year limitation for deductions of “overcharges” did not apply.
+GSA also argues that the disputed amounts were not “overcharges” under 31 U.S.C. § 3726,
+but were “ordinary debts” which were subject to the ten-year statute of limitations found in
+31 U.S.C. § 3716.1
+
+
+
+
+       1
+             Under the Debt Collection Act of 1982 (31 U.S.C. § 3716), the Government
+is allowed to collect a debt by administrative offset after attempting to collect under
+31 U.S.C. § 3711 on debts no more than ten years old.
+CBCA 1317-RATE                                                                                5
+
+       Discussion
+
+       The Government has alleged that UP overcharged it for transportation services
+because the proper rate had not been applied due to UP’s substitution of railway cars that
+were different sizes from those ordered. GSA eventually sent the overcharged amounts to
+the TD for collection. The TD deducted the overcharges from amounts otherwise due UP
+for services under various Government contracts. These deductions were taken more than
+three years after the bills were paid.
+
+        The statutory procedures under which transportation service providers are paid for
+their services are set forth in 31 U.S.C. § 3726. The statute prescribes time limits on both the
+Government and the transportation service providers for bringing transportation claims. See
+American World Forwarders, Inc., CBCA 888-RATE, 08-1 BCA ¶ 33,744 (2007). Under
+31 U.S.C. § 3726, GSA has the responsibility of performing post-payment audits of bills for
+transportation services provided to federal agencies, and if there are any discrepancies, the
+Government may offset any amounts deemed to be overcharges. The Government’s right
+to offset, however, is not left unchecked. Rather, the statute gives the Government a period
+of “3 years . . . after the time a bill is paid” to “deduct from an amount subsequently due a
+freight carrier or freight forwarder an amount paid on the bill that was greater than the rate
+allowed under . . . a lawfully quoted rate subject to the jurisdiction of the Surface
+Transportation Board.” 31 U.S.C. § 3726(d)(2); see also PJAX Freight System, CBCA 552­
+RATE (Apr. 19, 2007). UP’s rates are subject to the Surface Transportation Board, which
+has exclusive jurisdiction over “transportation by rail carriers.” 49 U.S.C. § 10501(b).
+
+       The three-year deduction limitation for overcharges under 31 U.S.C. § 3726(d) is clear
+and unambiguous. Although the issue of whether the Government can deduct the alleged
+debt once the three-year period has run is one of first impression for this Board, the
+Comptroller General, who decided these claims prior to the GSA Board of Contract Appeals
+and this Board, addressed this issue in a number of reviews under the same statute. The
+Comptroller General concluded that the three-year statute of limitations for overcharges
+precludes the Government from deducting the overcharged amount once the three-year
+period has run. Double “M” Transport, B-236378 (Feb. 6, 1991) (statute precludes
+deduction of overcharges after three years but does not apply to loss or damage claims); Mike
+Meadors Trucking, B-225138 (May 22, 1987) (Government in error in deducting carrier’s
+debt three years after payment); TransCountry Van Lines, Inc., B-188647 (Dec. 28, 1977)
+(deduction not authorized after three years is a nullity).
+
+       This conclusion is also supported by the Federal Circuit’s analysis in American
+Airlines, and the Court of Claims’ analysis in Burlington Northern, where the courts in these
+CBCA 1317-RATE                                                                             6
+
+cases looked to the legislative history of 31 U.S.C. § 3726(d) in reaching their decisions on
+the ultimate issues. In American Airlines, 75 F.3d at 1540, the Federal Circuit stated:
+
+       As the Court explained in [United States v.] New York, New Haven [&
+       Hartford R.R., 355 U.S. 253 (1957)], prior to enactment of the 1940
+       [Transportation] Act, “the Government protected itself against transportation
+       overcharges by not paying transportation bills until the responsible government
+       officers, and, in doubtful cases, the General Accounting Office, first audited
+       the bills and found that the charges were correct.” Id. at 255, 78 S.Ct. at 214.
+       The 1940 Act replaced this means of protecting against overcharges with the
+       statutory right to collect them from subsequent bills. Id. at 257, 78 S.Ct. at
+       215. The right to deduct overcharges from subsequent bills of the carrier was
+       deemed necessary to protect the government since bills would have to be paid
+       when presented and prior to audit. United States v. Western Pac. R.R., 352
+       U.S. 59, 74, 77 S.Ct. 161, 170, 1 L.Ed.2d 126 (1956).
+
+       “Congress was desirous of aiding the [transportation carriers] to secure prompt
+       payment of their charges, but it is also clear that . . . the Government’s
+       protection against overcharges available under the preaudit practice should not
+       be diminished.” 355 U.S. at 260, 78 S.Ct. at 216 (footnote omitted). Thus,
+       “the Government’s statutory right of setoff was designed to be the substantial
+       equivalent of its previous right to withhold payment altogether until the carrier
+       established the correctness of its charges.” Id. at 261, 78 S.Ct. at 217.
+       Importantly, the government’s setoff right was not limited or qualified by time.
+       See S. Rep. No. 334, 85th Cong., 2d Sess. (1957), reprinted in 1958
+       U.S.C.C.A.N. 3923, 3927; see also Strickland Transp. v. United States, 334
+       F.2d 172, 180 (5th Cir. 1964).
+
+       In 1958, however, Congress determined that “a reasonable time limitation
+       should be established for such deductions.” S. Rep. No. 334, reprinted in 1958
+       U.S.C.C.A.N. at 3927. It therefore amended section 322 to expressly limit the
+       government’s right to deduct overcharges to a period of three years after the
+       payment of the original bill. Act of Aug. 26, 1958, Pub.L. No. 85-762, § 2, 72
+       Stat. 860 (codified, as amended, at 31 U.S.C. § 3726(b) [predecessor to
+       § 3726(d)]). By this act, Congress also added the three-year limitation on
+       contractor claims against the government. Id. (codified, as amended, at
+       31 U.S.C. § 3726(a)).
+CBCA 1317-RATE                                                                                 7
+
+       In Burlington Northern, 462 F.2d at 528-29, the court held that an offset for damages
+owed to the Government for the unauthorized use of a Government-owned rail car was not
+subject to the three-year statute of limitations, stating:
+
+       The Government is authorized by 49 U.S.C. § 66 [a predecessor statute of §
+       3726] to deduct overcharges by any carrier from other amounts due that
+       carrier. As is apparent from the definition given that term, an overcharge
+       occurs only when the carrier submits a bill for services that is in excess of the
+       amount properly due the carrier. This is quite different from a claim for
+       damages. The defendant admits this, and we agree.
+
+       The Government cited the Burlington Northern decision in support of its position.
+However, it actually supports UP’s position that the three-year limitation period applies
+specifically to “overcharges.”
+
+        Although the Government sent UP a “Notice of Overcharge” for each BOL, it now
+contends that the amounts claimed are “ordinary debts” under 31 U.S.C. § 3716, which
+provides a ten-year statute of limitation for offsets, and are not “overcharges” under
+31 U.S.C. § 3726, which provides a three-year limitation for deductions. This argument is
+confusing and illogical. The Government appears to be arguing that once the three-year
+period has run for an overcharge deduction, the debt becomes an ordinary debt, subject to
+offset under 31 U.S.C. § 3716. The Government’s argument makes the three-year limitation
+in 31 U.S.C. § 3726 meaningless. Statutes are to be interpreted to give effect to all portions
+of the statute if possible, and to further the intent of the legislature. United States v. Zacks,
+375 U.S. 59 (1963). Moreover, the United States Supreme Court has held that a more
+specific statute will not be superseded by a more recent general statute unless there is a clear
+indication of the intent to do so. Morton v. Mancari, 417 U.S. 535 (1974). It is clear that
+Congress, in enacting 31 U.S.C. § 3726(d), intended to treat the Government’s collection of
+transportation “overcharges” in a specific and distinctive manner.
+
+         The Government’s own regulations recognize this Congressional intent.
+“Overcharges” are defined in 41 CFR 102.118.35 as “those charges for transportation and
+travel services that exceed those applicable under the contract for carriage.” “Ordinary debt”
+is defined in 41 CFR 102.118.35 as “an amount that a [transportation service provider] owes
+an agency other than for repayment of an overcharge.” The record shows that the amounts
+involved in this claim were properly classified as “overcharges” by the Government in its
+initial notices and, therefore, 31 U.S.C. § 3726 provides the proper guidance. Also, because
+the claims in this case are “those arising from the audit of transportation accounts pursuant
+to 31 U.S.C. § 3726,” they are required to “be determined, collected, compromised,
+CBCA 1317-RATE                                                                            8
+
+terminated, or settled in accordance with the regulation published under the authority of
+31 U.S.C. § 3726 (see 41 CFR part 101-41 . . .).” 41 CFR 105-55.018(b).
+
+                                         Decision
+
+       We conclude that any deductions made for “overcharges” for transportation services
+are required under 31 U.S.C. § 3726(d) to be made no later then three years after the bills
+were paid. Here, the deductions were made after the three-year period had run and, thus,
+made in violation of the statute. The amounts deducted should, therefore, be refunded to UP.
+Because the deductions were improper under 31 U.S.C. § 3726(d), and must be refunded,
+Issue 2 is now moot.
+
+
+                                          BERYL S. GILMORE
+                                          Board Judge
+

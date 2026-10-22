@@ -1,0 +1,1345 @@
+                Case 23-11069-CTG            Doc 7142         Filed 08/01/25     Page 1 of 25
+
+
+
+
+                         IN THE UNITED STATES BANKRUPTCY COURT
+                              FOR THE DISTRICT OF DELAWARE
+
+In re:
+                                                              Chapter 11
+YELLOW CORPORATION, et al.,
+                                                              Case No. 23-11069 (CTG)
+                                                          1
+                                              Debtors.
+                                                              (Jointly Administered)
+
+
+Yellow Corporation and YRC Inc.,
+                                            Plaintiffs,
+vs.
+
+GlobalTranz Enterprises, LLC dba GlobalTranz                  Adv. No. Refer to Summons
+Enterprises, Inc.,
+                                  Defendant.
+
+    COMPLAINT TO AVOID AND RECOVER TRANSFERS PURSUANT TO 11 U.S.C. §§
+     547, 548, AND 550 AND TO DISALLOW CLAIMS PURSUANT TO 11 U.S.C. § 502
+
+          Yellow Corporation and YRC Inc. (together, the “Plaintiffs”), two of the debtors and
+
+debtors in possession (collectively, the “Debtors”) in the above-captioned chapter 11 cases, by and
+
+through their undersigned counsel, file this complaint (the “Complaint”) to avoid and recover
+
+transfers against GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (the
+
+“Defendant”) and to disallow any claims held by Defendant. In support of this Complaint,
+
+Plaintiffs alleges upon information and belief that:
+
+                                         NATURE OF THE CASE
+
+          1.     Plaintiffs seek to avoid and recover from Defendant, or from any other person or
+
+entity for whose benefit the transfers were made, all (a) preferential transfers of property of the
+
+
+
+
+1
+      A complete list of each of the Debtors in these Chapter 11 Cases may be obtained on the website of the
+      Debtors’ claims and noticing agent at https://dm.epiq11.com/YellowCorporation. The location of the
+      Debtors’ principal place of business and the Debtors’ service address in these Chapter 11 Cases is: 11500
+      Outlook Street, Suite 400, Overland Park, Kansas 66211.
+
+                                                          1
+            Case 23-11069-CTG           Doc 7142      Filed 08/01/25      Page 2 of 25
+
+
+
+
+Debtors that occurred during the ninety (90) day period prior to the commencement of the
+
+bankruptcy proceedings of the Debtors pursuant to sections 547 and 550 of chapter 5 of title 11 of
+
+the United States Code (the “Bankruptcy Code”) and, subject to proof, (b) transfers that may have
+
+been fraudulent conveyances pursuant to sections 548 and 550 of the Bankruptcy Code.
+
+       2.      In addition, Plaintiffs seek to disallow, pursuant to sections 502(d) and (j) of the
+
+Bankruptcy Code, any claim that Defendant has filed or asserted against the Debtors or that has
+
+been scheduled for Defendant. Plaintiffs do not waive but hereby reserves all of their rights and
+
+the rights of all of the Debtors to object to any such claim for any reason, including, but not limited
+
+to, any reason set forth in sections 502(a) through (j) of the Bankruptcy Code.
+
+                                 JURISDICTION AND VENUE
+
+       3.      The district court has jurisdiction over this adversary proceeding pursuant to 28
+
+U.S.C. § 1334, which was referred to this Court under 28 U.S.C. § 157 pursuant to the Amended
+
+Standing Order of Reference from the United States District Court for the District of Delaware,
+
+dated February 29, 2012. The underlying chapter 11 bankruptcy cases are captioned In re: Yellow
+
+Corporation, et al., Case No. 23-11069 (CTG).
+
+       4.      This adversary proceeding is a “core” proceeding to be heard and determined by
+
+the Court pursuant to 28 U.S.C. § 157(b)(2), and the Court may enter final orders for matters
+
+contained herein.
+
+       5.      Venue is proper in the District of Delaware pursuant to 28 U.S.C. § 1409(a).
+
+       6.      The statutory and legal predicates for the relief sought herein are sections 502, 547,
+
+548, and 550 of the Bankruptcy Code and Rules 3007 and 7001 of the Federal Rules of Bankruptcy
+
+Procedure (the “Bankruptcy Rules”).
+
+
+
+
+                                                  2
+                Case 23-11069-CTG       Doc 7142       Filed 08/01/25     Page 3 of 25
+
+
+
+
+          7.     Pursuant to Local Bankruptcy Rule 7008-1, Plaintiffs state that they do consent to
+
+the entry of final orders or judgments by the Court if it is determined that the Court, absent consent
+
+of the parties, cannot enter final orders or judgments consistent with Article III of the United States
+
+Constitution.
+
+                                PROCEDURAL BACKGROUND
+
+          8.     On August 6, 2023 and continuing on August 7, 2023 (together, the “Petition
+
+Date”), the Debtors filed voluntary petitions for relief under chapter 11 of the Bankruptcy Code.
+
+These chapter 11 cases (the “Chapter 11 Cases”) have been consolidated for procedural purposes
+
+only and are being jointly administered pursuant to Bankruptcy Rule 1015(b).2
+
+          9.     The Debtors continue to operate their businesses and manage their properties as
+
+debtors and debtors-in-possession pursuant to Bankruptcy Code sections 1107(a) and 1108. No
+
+request has been made for the appointment of a trustee or an examiner.
+
+          10.    On August 16, 2023, the Office of the United States Trustee for Region 3 (the “U.S.
+
+Trustee”) appointed an official committee of unsecured creditors pursuant to section 1102 of the
+
+Bankruptcy Code (the “Committee”).3 An amended notice of appointment was filed on May 20,
+
+2024.4 A second amended notice of appointment was filed on February 5, 2025.5
+
+                                           THE PARTIES
+
+          11.    As more fully discussed in the Third Amended Disclosure Statement for Third
+
+Amended Joint Chapter 11 Plan of Yellow Corporation and Its Debtor Affiliates Pursuant to
+
+
+
+2
+    Docket No. 169.
+3
+    Docket No. 269.
+4
+    Docket No. 3430.
+5
+    Docket No. 5615.
+
+                                                  3
+                Case 23-11069-CTG       Doc 7142      Filed 08/01/25     Page 4 of 25
+
+
+
+
+Chapter 11 of the Bankruptcy Code Proposed By The Debtors and the Official Committee of
+
+Unsecured Creditors (the “Disclosure Statement”),6 the Debtors were a leading trucking and
+
+logistics company, boasting one of the largest LTL networks in North America that enabled the
+
+Debtors to provide customers with regional, national, and international shipping services of
+
+transportation logistics and LTL services. Entering 2023, the Debtors were the largest unionized
+
+LTL carrier in the United States, in addition to being the third largest LTL freight carrier and the
+
+fifth largest transportation company in North America. As of July 27, 2023, the Debtors employed
+
+nearly 30,000 people. The Debtors operated service terminals in 300 communities, with employees
+
+in all fifty states.
+
+          12.     Pursuant to Bankruptcy Code sections 547, 548, 550, 704(a), 1106, and 1107,
+
+    Plaintiffs are authorized and have standing to investigate, pursue, commence, prosecute,
+
+    compromise, settle, or otherwise resolve certain causes of action under chapter 5 of the
+
+    Bankruptcy Code, including the instant avoidance action.
+
+          13.     Upon information and belief, Defendant was, at all relevant times, a vendor or
+
+creditor that provided transportation and logistics services to or for the Debtors. Upon further
+
+information and belief, at all relevant times, Defendant’s principal place of business is located at
+
+2700 Commerce Street Suite 1500, Dallas, Texas 75226. Plaintiffs are informed and believe and
+
+on that basis allege that Defendant is a limited liability company residing in and subject to the laws
+
+of the State of Delaware.
+
+                                   FACTUAL BACKGROUND
+
+          14.     Prior to the Petition Date, the Debtors, as a trucking and logistics company,
+
+maintained business relationships with various business entities, through which the Debtors
+
+
+
+6
+    Docket No. 5996.
+
+                                                  4
+                 Case 23-11069-CTG           Doc 7142        Filed 08/01/25         Page 5 of 25
+
+
+
+
+regularly purchased, sold, received, and/or delivered goods and services. The Debtors also
+
+regularly paid for services used to facilitate its business.
+
+           15.    The Debtors’ financial difficulties that led to the decision to file the voluntary
+
+petitions are attributable to a combination of factors, all of which placed significant stress on the
+
+Debtors’ liquidity position in the months leading up to the Petition Date. A summary of the
+
+Debtors’ prepetition operations, debt structure, and factors that led to the Bankruptcy Case are set
+
+forth in Article 5.C through 6.F of the Disclosure Statement and are incorporated herein by
+
+reference.
+
+           16.    As described in Article 3.E of the Disclosure Statement and Section 3.A of the
+
+Third Amended Joint Chapter 11 Plan of Yellow Corporation and Its Debtor Affiliates Pursuant
+
+to Chapter 11 of the Bankruptcy Code Proposed By The Debtors and the Official Committee of
+
+Unsecured Creditors (the “Plan”),7 General Unsecured Claims compromise an impaired class of
+
+creditors and are not expected to be paid in full.
+
+           17.    As of the Petition Date, the Debtors utilized two separate cash management systems
+
+(the “USA Cash Management System” and the “Canada Cash Management System,” collectively,
+
+the “Cash Management Systems”), and used these Cash Management Systems to collect, transfer,
+
+and disburse funds and to facilitate cash monitoring, forecasting, and reporting .8 As of the Petition
+
+Date, the Cash Management Systems consisted of 59 bank accounts (the “Bank Accounts”)
+
+maintained at several financial institutions including JPMorgan Chase Bank, N.A. (“JPMorgan”),
+
+Citizens Bank, and Bank of Nova Scotia (“BNS”).
+
+
+
+7
+    D.I. 5995.
+8
+  See Motion of Debtors for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Continue to Operate
+Their Cash Management System, (B) Honor Certain Prepetition Obligations Related Thereto, (C) Maintain Existing
+Business Forms, and (D) Perform Intercompany Transactions and (II) Granting Related Relief, incorporated here by
+reference (the “Cash Management Motion”) [D.I. 10].
+
+                                                         5
+             Case 23-11069-CTG          Doc 7142      Filed 08/01/25      Page 6 of 25
+
+
+
+
+       18.     Among these Bank Accounts, disbursements to the Debtors’ vendors were made
+
+from the following accounts: accounts ending 0830, 4201, and 4599 held at JPMorgan by Yellow
+
+Corporation and accounts ending 5117 and 5214 held at BNS by Yellow Corporation; account
+
+ending 4250 held at JPMorgan by YRC Inc.; and accounts ending 4510, 3512, and 8114 held at
+
+BNS by YRC Freight Canada Company. Yellow Corporation also made disbursements via credit
+
+cards maintained with Citizens Bank (such credit cards, collectively with the Bank Accounts from
+
+which disbursements were made, the “Disbursement Accounts”). [See D.I. 10].
+
+       19.     The Debtors drew upon the Disbursement Accounts to pay for their operational
+
+costs, including payment to their vendors, suppliers, distributors, and other creditors, including
+
+Defendant.
+
+       20.     During the ninety (90) days before the Petition Date, that is between May 8, 2023
+
+and August 6, 2023 (the “Preference Period”), the Debtors continued to operate their business
+
+affairs, including the transfer of property, either by checks, cashier checks, wire transfers, ACH
+
+transfers, direct deposits, credit card payment, or otherwise to various entities.
+
+       21.     Upon information and belief, during the course of their relationship, Plaintiffs and
+
+Defendant entered into agreements, which are evidenced by invoices, communications and other
+
+documents (collectively, the “Agreements”). The Agreements concerned and related to the goods
+
+and/or services provided by Defendant to Plaintiffs as described in the “Parties” section of this
+
+Complaint. Yellow Corporation’s payments to the Defendant pursuant to the Agreements during
+
+the Preference Period are set forth on the Statement of Account, which is attached hereto and
+
+incorporated by reference as Exhibit A. Such details include “Invoice Number,” “Invoice Date,”
+
+“Invoice Amount.” YRC Inc.’s payments to the Defendant pursuant to the Agreements during the
+
+Preference Period are set forth on the Statement of Account, which is attached hereto and
+
+
+
+                                                  6
+             Case 23-11069-CTG         Doc 7142      Filed 08/01/25     Page 7 of 25
+
+
+
+
+incorporated by reference as Exhibit B. Such details include “Invoice Number,” “Invoice Date,”
+
+“Invoice Amount.”
+
+       22.     Plaintiffs are seeking to avoid all of the transfers of an interest of Plaintiffs’
+
+property made by Plaintiffs to Defendant within the Preference Period. Yellow Corporation made
+
+transfer(s) of an interest of Yellow Corporation’s property to or for the benefit of Defendant
+
+during the Preference Period through payments aggregating not less than the amount set forth on
+
+Exhibit A hereto (the “Yellow Corporation Transfer” or “Yellow Corporation Transfers”). The
+
+details of each Yellow Corporation Transfer are set forth on Exhibit A attached hereto and
+
+incorporated by reference. Such details include “Transfer Number,” “Transfer Amount,”
+
+“Transfer Clear Date,” and “Debtor Transferor(s).”
+
+       23.     YRC Inc. made transfer(s) of an interest of YRC Inc.’s property to or for the benefit
+
+of Defendant during the Preference Period through payments aggregating not less than the amount
+
+set forth on Exhibit B hereto (the “YRC Inc. Transfer” or “YRC Inc. Transfers,” and together
+
+with the Yellow Corporation Transfer or Yellow Corporation Transfers, the “Transfers”). The
+
+details of each YRC Inc. Transfer are set forth on Exhibit B attached hereto and incorporated by
+
+reference. Such details include “Transfer Number,” “Transfer Amount,” “Transfer Clear Date,”
+
+and “Debtor Transferor(s).”
+
+       24.     On or about June 24, 2025, and possibly additional dates, Plaintiff, through
+
+counsel, sent one or more demand letters (collectively, the “Demand Letter”) to Defendant,
+
+seeking a return of the Transfer(s). The Demand Letter indicated the potential statutory defenses
+
+available to Defendant pursuant to section 547(c) of the Bankruptcy Code and requested that if
+
+Defendant had evidence to support any affirmative defenses, it provide this evidence so Plaintiffs
+
+could review the same.
+
+
+
+                                                 7
+             Case 23-11069-CTG          Doc 7142      Filed 08/01/25     Page 8 of 25
+
+
+
+
+       25.     Plaintiffs also performed Plaintiffs’ own due diligence evaluation of the reasonably
+
+knowable affirmative defenses available to Defendant. As part of Plaintiffs’ due diligence,
+
+Plaintiffs reviewed the books and records in Plaintiffs’ possession and identified that Defendant
+
+potentially has $ 130,720.00 in invoices qualifying for the subsequent new value defense under
+
+section 547(c)(4) of the Bankruptcy Code. However, the subsequent new value defense is an
+
+affirmative defense for which Defendant bears the burden of proof under section 547(g). The
+
+potential new value is based on the invoice date in the books and records. As the dates for new
+
+value are often based on the shipping dates for goods and the actual dates of service for services,
+
+this new value is subject to adjustment. Additionally, section 547(c)(4)(B) provides that any
+
+potential new value must not be paid for by “an otherwise unavoidable transfer.” To the extent that
+
+i) there are any prepayments in the Preference Period paying such new value that are not subject
+
+to avoidance by Plaintiffs, or ii) Defendant successfully asserts affirmative defenses, including but
+
+not limited to the ordinary course of business defense or the contemporaneous exchange for new
+
+value defense, certain invoices may no longer be available for new value and the total new value
+
+amount may be subject to reduction.
+
+       26.      Additionally, Plaintiffs reviewed the books and records in Plaintiffs’ possession to
+
+examine whether historical payment records exist that may be used to analyze whether, and to
+
+what extent, Defendant may be able to assert the subjective ordinary course of business affirmative
+
+defense. However, the subjective ordinary course of business defense is an inherently factual
+
+endeavor, and payment history is only one factor. The presence of collection pressure, tightening
+
+of credit terms, a creditor’s loss of credit insurance, and threats to stop shipments without payment,
+
+can make even statistically ordinary payments unordinary. Certain information related to these
+
+factors may only be in Defendant’s possession, which Plaintiffs are entitled request during
+
+
+
+                                                  8
+             Case 23-11069-CTG          Doc 7142       Filed 08/01/25    Page 9 of 25
+
+
+
+
+discovery. Accordingly, Plaintiffs put Defendant to its burden of proof to establish it is entitled to
+
+the ordinary course of business affirmative defense.
+
+       27.     Based upon Plaintiffs’ review of the information, if any, provided by Defendant
+
+prior to filing this Complaint, and after performing Plaintiffs’ own due diligence evaluation of the
+
+reasonably knowable affirmative defenses to avoidance of the Transfer(s), Plaintiffs have
+
+determined that Plaintiffs may avoid some or all of the Transfers even after taking into account
+
+Defendant’s alleged affirmative defenses.
+
+       28.     During the course of this proceeding, Plaintiffs may learn (through discovery or
+
+otherwise) of additional transfers made to Defendant during the Preference Period. It is Plaintiffs’
+
+intention to avoid and recover all transfers made by the Debtors of an interest of the Debtors in
+
+property and to or for the benefit of Defendant or any other transferee. Plaintiffs reserve the right
+
+to amend this original Complaint to include: (i) further information regarding the Transfer(s), (ii)
+
+additional transfers, (iii) modifications of and/or revision to Defendant’s name, (iv) additional
+
+defendants, and/or (v) additional causes of action, if applicable (collectively, the “Amendments”),
+
+that may become known to Plaintiffs at any time during this adversary proceeding, through formal
+
+discovery or otherwise, and for the Amendments to relate back to this original Complaint.
+
+                                         CLAIMS FOR RELIEF
+
+                                           COUNT I
+         (Avoidance of Preference Period Yellow Corporation Transfers – 11 U.S.C. § 547)
+
+       29.     Plaintiffs incorporate all preceding paragraphs as if fully re-alleged herein, to the
+
+extent they are not inconsistent with allegations contained in this First Claim for Relief.
+
+       30.     As more particularly described on Exhibit A attached hereto and incorporated
+
+herein, during the Preference Period, Yellow Corporation made Yellow Corporation Transfers to
+
+
+
+
+                                                  9
+             Case 23-11069-CTG        Doc 7142       Filed 08/01/25    Page 10 of 25
+
+
+
+
+or for the benefit of Defendant in an aggregate amount not less than the amount set forth on Exhibit
+
+A hereto.
+
+       31.     Each Yellow Corporation Transfer was made from one or more of the
+
+Disbursement Accounts described supra, and constituted transfers of an interest in property of
+
+Yellow Corporation.
+
+       32.     Defendant was a creditor of Yellow Corporation at the time of each Yellow
+
+Corporation Transfer by virtue of supplying the goods and/or services identified in this Complaint
+
+and in the Agreements to Yellow Corporation, as more fully set forth on Exhibit A hereto, for
+
+which Yellow Corporation was obligated to pay in accordance with the Agreements. See Exhibit
+
+A.
+
+       33.     Each Yellow Corporation Transfer was to or for the benefit of a creditor within the
+
+meaning of section § 547(b)(1) of the Bankruptcy Code because each Yellow Corporation Transfer
+
+either reduced or fully satisfied a debt or debts then owed by Yellow Corporation to Defendant.
+
+       34.     Each Yellow Corporation Transfer was made for, or on account of, an antecedent
+
+debt or debts owed by Yellow Corporation to Defendant before such Yellow Corporation Transfers
+
+were made, as asserted by Defendant and memorialized in the Agreements, each of which
+
+constituted a “debt” or “claim” (as those terms are defined in the Bankruptcy Code) of Defendant
+
+prior to being paid by Yellow Corporation as set forth on Exhibit A hereto.
+
+       35.     Each Yellow Corporation Transfer was made while Yellow Corporation was
+
+insolvent. Yellow Corporation is entitled to the presumption of insolvency for each Yellow
+
+Corporation Transfer made during the Preference Period pursuant to section 547(f) of the
+
+Bankruptcy Code.
+
+
+
+
+                                                10
+             Case 23-11069-CTG        Doc 7142       Filed 08/01/25    Page 11 of 25
+
+
+
+
+       36.     Each Yellow Corporation Transfer was made during the Preference Period, as set
+
+forth on Exhibit A.
+
+       37.     As a result of each Yellow Corporation Transfer, Defendant received more than
+
+Defendant would have received if: (i) Yellow Corporation’s case was under chapter 7 of the
+
+Bankruptcy Code; (ii) the Yellow Corporation Transfers had not been made; and (iii) Defendant
+
+received payments of its debts under the provisions of the Bankruptcy Code. As evidenced by the
+
+Debtors’ schedules filed in the underlying bankruptcy case as well as the proofs of claim that have
+
+been received to date, the Debtors’ liabilities exceed their assets to the point that unsecured
+
+creditors will not receive a full payout of their claims from the Debtors’ bankruptcy estates.
+
+       38.     In accordance with the foregoing, each Yellow Corporation Transfer is avoidable
+
+pursuant to section 547(b) of the Bankruptcy Code.
+
+                                           COUNT II
+              (Avoidance of Preference Period YRC Inc. Transfers – 11 U.S.C. § 547)
+
+       39.     Plaintiffs incorporate all preceding paragraphs as if fully re-alleged herein, to the
+
+extent they are not inconsistent with allegations contained in this Second Claim for Relief.
+
+       40.     As more particularly described on Exhibit B attached hereto and incorporated
+
+herein, during the Preference Period, YRC Inc. made YRC Inc. Transfers to or for the benefit of
+
+Defendant in an aggregate amount not less than the amount set forth on Exhibit B hereto.
+
+       41.     Each YRC Inc. Transfer was made from one or more of the Disbursement Accounts
+
+described supra, and constituted transfers of an interest in property of YRC Inc..
+
+       42.     Defendant was a creditor of YRC Inc. at the time of each YRC Inc. Transfer by
+
+virtue of supplying the goods and/or services identified in this Complaint and in the Agreementsto
+
+YRC Inc., as more fully set forth on Exhibit B hereto, for which Yellow Corporation was obligated
+
+to pay in accordance with the Agreements. See Exhibit B.
+
+                                                11
+             Case 23-11069-CTG         Doc 7142       Filed 08/01/25     Page 12 of 25
+
+
+
+
+       43.     Each YRC Inc. Transfer was to or for the benefit of a creditor within the meaning
+
+of section § 547(b)(1) of the Bankruptcy Code because each YRC Inc. Transfer either reduced or
+
+fully satisfied a debt or debts then owed by YRC Inc. to Defendant.
+
+       44.     Each YRC Inc. Transfer was made for, or on account of, an antecedent debt or debts
+
+owed by YRC Inc. to Defendant before such YRC Inc. Transfers were made, as asserted by
+
+Defendant and memorialized in the Agreements, each of which constituted a “debt” or “claim” (as
+
+those terms are defined in the Bankruptcy Code) of Defendant prior to being paid by YRC Inc. as
+
+set forth on Exhibit B hereto.
+
+       45.     Each YRC Inc. Transfer was made while YRC Inc. was insolvent. YRC Inc. is
+
+entitled to the presumption of insolvency for each YRC Inc. Transfer made during the Preference
+
+Period pursuant to section 547(f) of the Bankruptcy Code.
+
+       46.     Each YRC Inc. Transfer was made during the Preference Period, as set forth on
+
+Exhibit B.
+
+       47.     As a result of each YRC Inc. Transfer, Defendant received more than Defendant
+
+would have received if: (i) YRC Inc.’s case was under chapter 7 of the Bankruptcy Code; (ii) the
+
+YRC Inc. Transfers had not been made; and (iii) Defendant received payments of its debts under
+
+the provisions of the Bankruptcy Code. As evidenced by the Debtors’ schedules filed in the
+
+underlying bankruptcy case as well as the proofs of claim that have been received to date, the
+
+Debtors’ liabilities exceed their assets to the point that unsecured creditors will not receive a full
+
+payout of their claims from the Debtors’ bankruptcy estates.
+
+       48.     In accordance with the foregoing, each YRC Inc. Transfer is avoidable pursuant to
+
+section 547(b) of the Bankruptcy Code.
+
+
+
+
+                                                 12
+             Case 23-11069-CTG         Doc 7142       Filed 08/01/25     Page 13 of 25
+
+
+
+
+                                             COUNT III
+                   (Avoidance of Fraudulent Conveyances – 11 U.S.C. § 548(a)(1)(B))
+
+       49.     Plaintiffs incorporate all previous allegations as though fully set forth herein, to the
+
+extent they are not inconsistent with allegations contained in this Third Claim for Relief.
+
+       50.     To the extent one or more of the Transfers identified on Exhibits A and/or B was
+
+not made on account of an antecedent debt, was a prepayment for goods and/or services
+
+subsequently received, or was incurred by another Debtor but paid for by one of the Plaintiffs
+
+without a corresponding intercompany receivable recorded by the Debtor incurring the debt,
+
+Plaintiffs plead in the alternative that the Debtor(s) making such transfer(s) did not receive
+
+reasonably equivalent value in exchange for such transfer(s) (the “Potentially Fraudulent
+
+Transfers”); and
+
+       A.      The Debtors were insolvent as of the date of the Transfer(s), or became insolvent
+
+as a result of the Transfer(s); or
+
+       B.      The Debtors were engaged, or about to engage, in business or a transaction for
+
+which any property remaining with the Debtors was an unreasonably small capital; or
+
+       C.      The Debtors intended to incur, or believed they would incur, debts beyond their
+
+ability to pay upon maturity.
+
+       51.     Based upon the foregoing, the Potentially Fraudulent Transfers are avoidable
+
+pursuant to section 548(a)(1)(B) of the Bankruptcy Code.
+
+
+                                         COUNT IV
+                           (Recovery of Avoided Transfers – 11 U.S.C. § 550)
+
+       52.     Plaintiffs incorporate all preceding paragraphs as if fully re-alleged herein, to the
+
+extent they are not inconsistent with allegations contained in this Fourth Claim for Relief.
+
+
+
+
+                                                 13
+              Case 23-11069-CTG        Doc 7142       Filed 08/01/25    Page 14 of 25
+
+
+
+
+        53.     Plaintiffs are entitled to avoid the Transfer(s) pursuant to section 547(b) of the
+
+Bankruptcy Code and any Potentially Fraudulent Transfers pursuant to section 548 of the
+
+Bankruptcy Code (collectively, the “Avoidable Transfers”).
+
+        54.      Defendant was the initial transferee of the Avoidable Transfer(s) or the immediate
+
+or mediate transferee of such initial transferee or the person for whose benefit the Avoidable
+
+Transfer(s) were made.
+
+        55.     Pursuant to section 550(a) of the Bankruptcy Code, Plaintiffs are entitled to recover
+
+from Defendant the Avoidable Transfer(s), plus interest thereon to the date of payment and the
+
+costs of this action.
+
+                                               COUNT V
+                        (Disallowance of all Claims – 11 U.S.C. § 502(d) and (j))
+
+        56.     Plaintiffs incorporate all preceding paragraphs as if fully re-alleged herein, to the
+
+extent they are not inconsistent with allegations contained in this Fifth Claim for Relief.
+
+        57.     Defendant is a transferee of transfers avoidable under sections 547 and/or 548 of
+
+the Bankruptcy Code, which property is recoverable under section 550 of the Bankruptcy Code.
+
+        58.     Defendant has not paid the amount of the Avoidable Transfer(s), or turned over
+
+such property, for which Defendant is liable under section 550 of the Bankruptcy Code.
+
+        59.     Pursuant to section 502(d) of the Bankruptcy Code, any and all Claims of
+
+Defendant and/or its assignee, against the Debtors’ chapter 11 estates must be disallowed until
+
+such time as Defendant pays to Plaintiffs an amount equal to the aggregate amount of the
+
+Avoidable Transfer(s), plus interest thereon and costs.
+
+        60.     Pursuant to section 502(j) of the Bankruptcy Code, any and all Claims of
+
+Defendant, and/or its assignee, against the Debtors’ chapter 11 estates previously allowed by the
+
+
+
+
+                                                 14
+               Case 23-11069-CTG        Doc 7142       Filed 08/01/25   Page 15 of 25
+
+
+
+
+Debtors, must be reconsidered and disallowed until such time as Defendant pays to Plaintiffs an
+
+amount equal to the aggregate amount of the Avoidable Transfer(s).
+
+                                      PRAYER FOR RELIEF
+
+          WHEREFORE, Plaintiffs request that this Court grant the following relief against
+
+Defendant:
+
+          A.     On Plaintiffs’ First, Second, Third, and Fourth Claims for Relief, judgment in favor
+
+of Plaintiffs and against Defendant, avoiding all of the Avoidable Transfers and directing
+
+Defendant to return to Plaintiffs the amount of the Avoidable Transfers pursuant to sections 547(b),
+
+548, and 550(a) of the Bankruptcy Code, plus interest from the date of demand at the maximum
+
+legal rate and to the fullest extent allowed by applicable law, together with the costs and expenses
+
+of this action including, without limitation, attorneys’ fees;
+
+          B.     On Plaintiffs’ Fifth Claim for Relief, judgment in favor of Plaintiffs and against
+
+Defendant disallowing any claims held or filed by Defendant against the Debtors until Defendant
+
+returns the Avoidable Transfers to Plaintiffs pursuant to sections 502(d) and (j) of the Bankruptcy
+
+Code; and
+
+          C.     Granting Plaintiffs such other and further relief as this Court may deem just and
+
+proper.
+
+
+
+
+                                                  15
+          Case 23-11069-CTG   Doc 7142       Filed 08/01/25     Page 16 of 25
+
+
+
+
+Dated: August 1, 2025
+                                /s/ Peter J. Keane_______________
+                                Laura Davis Jones (DE Bar No. 2436)
+                                Timothy P. Cairns (DE Bar No. 4228)
+                                Peter J. Keane (DE Bar No. 5503)
+                                Edward Corma (DE Bar No. 6718)
+                                PACHULSKI STANG ZIEHL & JONES LLP
+                                919 North Market Street, 17th Floor
+                                P.O. Box 8705
+                                Wilmington, Delaware 19801
+                                Telephone: (302) 652-4100
+                                Facsimile: (302) 652-4400
+                                Email: ljones@pszjlaw.com
+                                tcairns@pszjlaw.com
+                                pkeane@pszjlaw.com
+                                ecorma@pszjlaw.com
+
+                                -and-
+
+                                Joseph L. Steinfeld, Jr., Esq., MN SBN 0266292
+                                Anastasia Kazmina, Esq.,
+                                ASK LLP
+                                2600 Eagan Woods Drive, Suite 400
+                                St. Paul, MN 55121
+                                Telephone: 651-289-3854
+                                Fax: (651) 406-9676
+                                Email: akazmina@askllp.com
+
+                                -and-
+
+                                Edward E. Neiger, Esq.
+                                60 East 42nd Street, 46th Fl.
+                                New York, NY 10165
+                                Telephone: (212) 267-7342
+                                Fax: (212) 918-3427
+
+                                Counsel for Plaintiffs
+
+
+
+
+                                        16
+                             Case 23-11069-CTG                   Doc 7142        Filed 08/01/25     Page 17 of 25
+Defendant:                  GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc.
+Bankruptcy Case:            Yellow Corporation
+Preference Period:          May 8, 2023 - Aug 6, 2023
+
+                                                       Transfers During Preference Period
+
+                       Debtor(s) Incurring
+Debtor Transferor(s)    Antecedent Debt        Transfer Number Transfer Amount   Clear Date   Invoice Number   Invoice Date   Invoice Amount
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26780249       4/26/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26739615       4/18/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26780273       4/27/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26780234       4/25/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26759990       4/25/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26747162       4/24/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26747125       4/24/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26747067       4/20/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26739646       4/20/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26739635       4/19/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318337        $22,680.00     5/18/2023      26784676       4/27/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318836        $7,070.00      5/19/2023      26784880        5/1/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318836        $7,070.00      5/19/2023      26784945        5/1/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200318836        $7,070.00      5/19/2023      26829973        5/2/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200319032        $2,860.00      5/22/2023      26829988        5/3/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200319032        $2,860.00      5/22/2023      26830001        5/3/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200319565        $2,820.00      5/24/2023      26846802        5/5/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+
+
+
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                            Exhibit A                                                   P. 1
+                             Case 23-11069-CTG                   Doc 7142        Filed 08/01/25     Page 18 of 25
+                                                       Transfers During Preference Period
+
+                       Debtor(s) Incurring
+Debtor Transferor(s)    Antecedent Debt        Transfer Number Transfer Amount   Clear Date   Invoice Number   Invoice Date   Invoice Amount
+Yellow Corporation     Yellow Corporation;       200320358         $450.00       5/25/2023      26347453       2/13/2023            $450.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200320506        $7,070.00      5/26/2023      26867373        5/9/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200320506        $7,070.00      5/26/2023      26832424        5/8/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200320506        $7,070.00      5/26/2023      26832451        5/8/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200321178        $4,250.00      5/30/2023      26867449       5/11/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200321178        $4,250.00      5/30/2023      26878206       5/11/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200322474        $9,890.00       6/2/2023      26878223       5/15/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200322474        $9,890.00       6/2/2023      26878248       5/15/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200322474        $9,890.00       6/2/2023      26882454       5/16/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200322474        $9,890.00       6/2/2023      26912041       5/16/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200323262        $7,110.00       6/6/2023      26878191       5/10/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200323262        $7,110.00       6/6/2023      26917185       5/17/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200323262        $7,110.00       6/6/2023      26916001       5/18/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200323262        $7,110.00       6/6/2023      26917127       5/18/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200324507        $7,070.00       6/9/2023      26916005       5/22/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200324507        $7,070.00       6/9/2023      26916010       5/22/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200324507        $7,070.00       6/9/2023      26931957       5/22/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200327610        $2,820.00      6/21/2023      26950716        6/2/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200328641        $4,250.00      6/23/2023      26975054        6/6/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+
+
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                            Exhibit A                                                   P. 2
+                             Case 23-11069-CTG                   Doc 7142        Filed 08/01/25     Page 19 of 25
+                                                       Transfers During Preference Period
+
+                       Debtor(s) Incurring
+Debtor Transferor(s)    Antecedent Debt        Transfer Number Transfer Amount   Clear Date   Invoice Number   Invoice Date   Invoice Amount
+Yellow Corporation     Yellow Corporation;       200328641        $4,250.00      6/23/2023      27001986        6/6/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200328700        $4,250.00      6/26/2023      26991598        6/7/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200328700        $4,250.00      6/26/2023      26951892        6/7/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200329598        $12,750.00     6/28/2023      26951317        6/9/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200329598        $12,750.00     6/28/2023      26951756        6/9/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200329598        $12,750.00     6/28/2023      26966295        6/9/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200329598        $12,750.00     6/28/2023      26974993        6/9/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200329598        $12,750.00     6/28/2023      26995191        6/9/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200329598        $12,750.00     6/28/2023      27001672        6/9/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330463        $1,430.00      6/30/2023      27001529       6/11/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330842        $16,960.00      7/3/2023      27045816       6/15/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330842        $16,960.00      7/3/2023      27041811       6/15/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330842        $16,960.00      7/3/2023      27030299       6/15/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330842        $16,960.00      7/3/2023      27020955       6/15/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330842        $16,960.00      7/3/2023      27016242       6/15/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330842        $16,960.00      7/3/2023      26995159       6/14/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200330842        $16,960.00      7/3/2023      27014695       6/14/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200332492        $4,290.00      7/10/2023      27062714       6/21/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200332492        $4,290.00      7/10/2023      27062711       6/21/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+
+
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                            Exhibit A                                                   P. 3
+                             Case 23-11069-CTG                   Doc 7142        Filed 08/01/25     Page 20 of 25
+                                                       Transfers During Preference Period
+
+                       Debtor(s) Incurring
+Debtor Transferor(s)    Antecedent Debt        Transfer Number Transfer Amount   Clear Date   Invoice Number   Invoice Date   Invoice Amount
+Yellow Corporation     Yellow Corporation;       200332492        $4,290.00      7/10/2023      27030696       6/21/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200332952        $5,640.00      7/12/2023      27091573       6/23/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200332952        $5,640.00      7/12/2023      27088154       6/23/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200334121        $5,640.00      7/14/2023      27088133       6/27/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200334121        $5,640.00      7/14/2023      27108098       6/27/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200334315        $5,720.00      7/17/2023      27116665       6/28/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200334315        $5,720.00      7/17/2023      27062988       6/28/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200334315        $5,720.00      7/17/2023      27099963       6/28/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200334315        $5,720.00      7/17/2023      27108074       6/28/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200334574        $2,820.00      7/18/2023      27125523       6/29/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335075        $8,460.00      7/21/2023      27125856        7/1/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335075        $8,460.00      7/21/2023      27162423        7/4/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335075        $8,460.00      7/21/2023      27108271        7/1/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335749        $11,360.00     7/28/2023      27235462       7/11/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335749        $11,360.00     7/28/2023      27156672       7/10/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335749        $11,360.00     7/28/2023      27158881       7/10/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335749        $11,360.00     7/28/2023      27158940       7/10/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335749        $11,360.00     7/28/2023      27213201       7/11/2023           $1,430.00
+                       and Yellow Logistics,
+                                Inc.
+Yellow Corporation     Yellow Corporation;       200335749        $11,360.00     7/28/2023        2723220      7/11/2023           $2,820.00
+                       and Yellow Logistics,
+                                Inc.
+
+
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                            Exhibit A                                                   P. 4
+                          Case 23-11069-CTG               Doc 7142         Filed 08/01/25   Page 21 of 25
+       Totals:    23 transfer(s), $157,660.00
+
+
+
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                      Exhibit A                                 P. 5
+                             Case 23-11069-CTG                 Doc 7142        Filed 08/01/25     Page 22 of 25
+Defendant:                 GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc.
+Bankruptcy Case:           Yellow Corporation
+Preference Period:         May 8, 2023 - Aug 6, 2023
+
+                                                     Transfers During Preference Period
+
+                       Debtor(s) Incurring
+Debtor Transferor(s)    Antecedent Debt      Transfer Number Transfer Amount   Clear Date   Invoice Number   Invoice Date   Invoice Amount
+YRC Inc.                    YRC Inc.            1375151          $191.69       5/26/2023     O/A:1375151                          $191.69
+YRC Inc.                    YRC Inc.            1375152          $110.10       5/26/2023     O/A:1375152                          $110.10
+YRC Inc.                    YRC Inc.            1375150          $318.73       5/26/2023     O/A:1375150                          $318.73
+YRC Inc.                    YRC Inc.            1377837          $636.00       6/21/2023     O/A:1377837                          $636.00
+YRC Inc.                    YRC Inc.            1381319          $50.00        6/26/2023     O/A:1381319                           $50.00
+YRC Inc.                    YRC Inc.            1377723          $150.00       6/26/2023     O/A:1377723                          $150.00
+YRC Inc.                    YRC Inc.            1377725          $327.82       6/26/2023     O/A:1377725                          $327.82
+YRC Inc.                    YRC Inc.            1378618          $195.00       6/26/2023     O/A:1378618                          $195.00
+YRC Inc.                    YRC Inc.            1378619          $107.59       6/26/2023     O/A:1378619                          $107.59
+YRC Inc.                    YRC Inc.            1379072          $564.10       6/26/2023     O/A:1379072                          $564.10
+YRC Inc.                    YRC Inc.            1379073          $65.00        6/26/2023     O/A:1379073                           $65.00
+YRC Inc.                    YRC Inc.            1382131          $85.00        6/26/2023     O/A:1382131                           $85.00
+YRC Inc.                    YRC Inc.            1382130          $37.10        6/26/2023     O/A:1382130                           $37.10
+YRC Inc.                    YRC Inc.            1382129          $195.00       6/26/2023     O/A:1382129                          $195.00
+YRC Inc.                    YRC Inc.            1377441          $150.00       6/26/2023     O/A:1377441                          $150.00
+YRC Inc.                    YRC Inc.            1381740          $110.91       6/26/2023     O/A:1381740                          $110.91
+YRC Inc.                    YRC Inc.            1377724          $77.90        6/26/2023     O/A:1377724                           $77.90
+YRC Inc.                    YRC Inc.            1381318          $10.00        6/26/2023     O/A:1381318                           $10.00
+YRC Inc.                    YRC Inc.            1381317          $225.87       6/26/2023     O/A:1381317                          $225.87
+YRC Inc.                    YRC Inc.            1379075          $17.89        6/26/2023     O/A:1379075                           $17.89
+YRC Inc.                    YRC Inc.            1379076          $60.00        6/26/2023     O/A:1379076                           $60.00
+YRC Inc.                    YRC Inc.            1380485          $93.74        6/26/2023     O/A:1380485                           $93.74
+YRC Inc.                    YRC Inc.            1380484          $54.54        6/26/2023     O/A:1380484                           $54.54
+YRC Inc.                    YRC Inc.            1380483          $61.65        6/26/2023     O/A:1380483                           $61.65
+YRC Inc.                    YRC Inc.            1380087          $27.58        6/26/2023     O/A:1380087                           $27.58
+YRC Inc.                    YRC Inc.            1379074          $63.81        6/26/2023     O/A:1379074                           $63.81
+YRC Inc.                    YRC Inc.            1376736          $95.00        6/26/2023     O/A:1376736                           $95.00
+YRC Inc.                    YRC Inc.            1376144          $60.00        6/26/2023     O/A:1376144                           $60.00
+YRC Inc.                    YRC Inc.            1376145          $75.00        6/26/2023     O/A:1376145                           $75.00
+YRC Inc.                    YRC Inc.            1376452          $113.37       6/26/2023     O/A:1376452                          $113.37
+YRC Inc.                    YRC Inc.            1376453          $75.00        6/26/2023     O/A:1376453                           $75.00
+YRC Inc.                    YRC Inc.            1377440          $26.53        6/26/2023     O/A:1377440                           $26.53
+YRC Inc.                    YRC Inc.            1377439          $85.00        6/26/2023     O/A:1377439                           $85.00
+YRC Inc.                    YRC Inc.            1377254          $162.50       6/30/2023     O/A:1377254                          $162.50
+YRC Inc.                    YRC Inc.            1375504          $864.10       6/30/2023     O/A:1375504                          $864.10
+YRC Inc.                    YRC Inc.            1375505          $250.49       6/30/2023     O/A:1375505                          $250.49
+YRC Inc.                    YRC Inc.            1379278          $160.00       6/30/2023     O/A:1379278                          $160.00
+YRC Inc.                    YRC Inc.            1379277          $998.48       6/30/2023     O/A:1379277                          $998.48
+YRC Inc.                    YRC Inc.            1375506          $82.80        6/30/2023     O/A:1375506                           $82.80
+YRC Inc.                    YRC Inc.            1375507         $1,271.00      6/30/2023     O/A:1375507                         $1,271.00
+YRC Inc.                    YRC Inc.            1375939          $393.45       6/30/2023     O/A:1375939                          $393.45
+YRC Inc.                    YRC Inc.            1379276         $3,004.10      6/30/2023     O/A:1379276                         $3,004.10
+
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                          Exhibit B                                                   P. 1
+                             Case 23-11069-CTG                 Doc 7142        Filed 08/01/25     Page 23 of 25
+                                                     Transfers During Preference Period
+
+                       Debtor(s) Incurring
+Debtor Transferor(s)    Antecedent Debt      Transfer Number Transfer Amount   Clear Date   Invoice Number   Invoice Date   Invoice Amount
+YRC Inc.                    YRC Inc.            1379275         $1,829.20      6/30/2023     O/A:1379275                         $1,829.20
+YRC Inc.                    YRC Inc.            1377552          $972.70       6/30/2023     O/A:1377552                          $972.70
+YRC Inc.                    YRC Inc.            1376250         $1,057.54      6/30/2023     O/A:1376250                         $1,057.54
+YRC Inc.                    YRC Inc.            1376251         $3,774.00      6/30/2023     O/A:1376251                         $3,774.00
+YRC Inc.                    YRC Inc.            1376572          $666.31       6/30/2023     O/A:1376572                          $666.31
+YRC Inc.                    YRC Inc.            1378788          $213.33       6/30/2023     O/A:1378788                          $213.33
+YRC Inc.                    YRC Inc.            1377835         $5,870.88      6/30/2023     O/A:1377835                         $5,870.88
+YRC Inc.                    YRC Inc.            1377836          $926.04       6/30/2023     O/A:1377836                          $926.04
+YRC Inc.                    YRC Inc.            1377252          $791.87       6/30/2023     O/A:1377252                          $791.87
+YRC Inc.                    YRC Inc.            1377838          $80.75        6/30/2023     O/A:1377838                           $80.75
+YRC Inc.                    YRC Inc.            1376860         $1,203.28      6/30/2023     O/A:1376860                         $1,203.28
+YRC Inc.                    YRC Inc.            1376252          $110.24       6/30/2023     O/A:1376252                          $110.24
+YRC Inc.                    YRC Inc.            1378787          $953.10       6/30/2023     O/A:1378787                          $953.10
+YRC Inc.                    YRC Inc.            1376253          $398.49       6/30/2023     O/A:1376253                          $398.49
+YRC Inc.                    YRC Inc.            1376858          $564.36       6/30/2023     O/A:1376858                          $564.36
+YRC Inc.                    YRC Inc.            1376857         $3,640.00      6/30/2023     O/A:1376857                         $3,640.00
+YRC Inc.                    YRC Inc.            1377253          $441.35       6/30/2023     O/A:1377253                          $441.35
+YRC Inc.                    YRC Inc.            1380221          $264.29       6/30/2023     O/A:1380221                          $264.29
+YRC Inc.                    YRC Inc.            1377834          $55.17        6/30/2023     O/A:1377834                           $55.17
+YRC Inc.                    YRC Inc.            1379713          $21.00        6/30/2023     O/A:1379713                           $21.00
+YRC Inc.                    YRC Inc.            1376859         $1,450.00      6/30/2023     O/A:1376859                         $1,450.00
+YRC Inc.                    YRC Inc.            1380968         $3,380.32      6/30/2023     O/A:1380968                         $3,380.32
+YRC Inc.                    YRC Inc.            1379714          $301.00       6/30/2023     O/A:1379714                          $301.00
+YRC Inc.                    YRC Inc.            1380219         $1,366.55      6/30/2023     O/A:1380219                         $1,366.55
+YRC Inc.                    YRC Inc.            1380969          $200.00       6/30/2023     O/A:1380969                          $200.00
+YRC Inc.                    YRC Inc.            1380619         $4,182.58      6/30/2023     O/A:1380619                         $4,182.58
+YRC Inc.                    YRC Inc.            1380618          $978.80       6/30/2023     O/A:1380618                          $978.80
+YRC Inc.                    YRC Inc.            1380220          $145.60       6/30/2023     O/A:1380220                          $145.60
+YRC Inc.                    YRC Inc.            1379715          $350.00       6/30/2023     O/A:1379715                          $350.00
+YRC Inc.                    YRC Inc.            1379571           $0.19        7/14/2023     O/A:1379571                            $0.19
+YRC Inc.                    YRC Inc.            1385984          $632.91       7/20/2023     O/A:1385984                          $632.91
+YRC Inc.                    YRC Inc.            1386525          $555.81       7/20/2023     O/A:1386525                          $555.81
+YRC Inc.                    YRC Inc.            1383316         $3,161.99      7/20/2023     O/A:1383316                         $3,161.99
+YRC Inc.                    YRC Inc.            1386523         $1,344.72      7/20/2023     O/A:1386523                         $1,344.72
+YRC Inc.                    YRC Inc.            1383997          $81.15        7/20/2023     O/A:1383997                           $81.15
+YRC Inc.                    YRC Inc.            1387127          $414.30       7/20/2023     O/A:1387127                          $414.30
+YRC Inc.                    YRC Inc.            1387128          $184.00       7/20/2023     O/A:1387128                          $184.00
+YRC Inc.                    YRC Inc.            1387398          $250.00       7/20/2023     O/A:1387398                          $250.00
+YRC Inc.                    YRC Inc.            1385139          $178.00       7/20/2023     O/A:1385139                          $178.00
+YRC Inc.                    YRC Inc.            1387399         $1,031.24      7/20/2023     O/A:1387399                         $1,031.24
+YRC Inc.                    YRC Inc.            1384550           $6.00        7/20/2023     O/A:1384550                            $6.00
+YRC Inc.                    YRC Inc.            1385983         $1,997.69      7/20/2023     O/A:1385983                         $1,997.69
+YRC Inc.                    YRC Inc.            1383996          $185.28       7/20/2023     O/A:1383996                          $185.28
+YRC Inc.                    YRC Inc.            1383995          $432.82       7/20/2023     O/A:1383995                          $432.82
+YRC Inc.                    YRC Inc.            1386524          $500.00       7/20/2023     O/A:1386524                          $500.00
+YRC Inc.                    YRC Inc.            1383994          $741.76       7/20/2023     O/A:1383994                          $741.76
+YRC Inc.                    YRC Inc.            1385140          $472.33       7/20/2023     O/A:1385140                          $472.33
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                          Exhibit B                                                   P. 2
+                             Case 23-11069-CTG                 Doc 7142        Filed 08/01/25     Page 24 of 25
+                                                     Transfers During Preference Period
+
+                       Debtor(s) Incurring
+Debtor Transferor(s)    Antecedent Debt      Transfer Number Transfer Amount   Clear Date   Invoice Number   Invoice Date   Invoice Amount
+YRC Inc.                    YRC Inc.            1383088          $300.00       7/20/2023     O/A:1383088                          $300.00
+YRC Inc.                    YRC Inc.            1383087          $910.23       7/20/2023     O/A:1383087                          $910.23
+YRC Inc.                    YRC Inc.            1382634         $1,150.64      7/20/2023     O/A:1382634                         $1,150.64
+YRC Inc.                    YRC Inc.            1382633         $5,759.00      7/20/2023     O/A:1382633                         $5,759.00
+YRC Inc.                    YRC Inc.            1381866          $73.10        7/20/2023     O/A:1381866                           $73.10
+YRC Inc.                    YRC Inc.            1379279          $88.00        7/20/2023     O/A:1379279                           $88.00
+YRC Inc.                    YRC Inc.            1379280          $227.10       7/20/2023     O/A:1379280                          $227.10
+YRC Inc.                    YRC Inc.            1387646          $61.30        7/25/2023     O/A:1387646                           $61.30
+YRC Inc.                    YRC Inc.            1388020          $175.00       7/25/2023     O/A:1388020                          $175.00
+YRC Inc.                    YRC Inc.            1387645          $95.00        7/25/2023     O/A:1387645                           $95.00
+YRC Inc.                    YRC Inc.            1385897           $7.44        7/25/2023     O/A:1385897                            $7.44
+YRC Inc.                    YRC Inc.            1385896          $60.00        7/25/2023     O/A:1385896                           $60.00
+YRC Inc.                    YRC Inc.            1385594          $85.00        7/25/2023     O/A:1385594                           $85.00
+YRC Inc.                    YRC Inc.            1385046          $85.00        7/25/2023     O/A:1385046                           $85.00
+YRC Inc.                    YRC Inc.            1383899          $85.00        7/25/2023     O/A:1383899                           $85.00
+YRC Inc.                    YRC Inc.            1383007          $156.66       7/25/2023     O/A:1383007                          $156.66
+YRC Inc.                    YRC Inc.            1386175          $101.83       7/25/2023     O/A:1386175                          $101.83
+YRC Inc.                    YRC Inc.            1385895          $95.00        7/25/2023     O/A:1385895                           $95.00
+YRC Inc.                    YRC Inc.            1387786          $120.00       7/31/2023     O/A:1387786                          $120.00
+YRC Inc.                    YRC Inc.            1389700          $309.01       7/31/2023     O/A:1389700                          $309.01
+YRC Inc.                    YRC Inc.            1389699         $1,900.00      7/31/2023     O/A:1389699                         $1,900.00
+YRC Inc.                    YRC Inc.            1389698         $3,911.36      7/31/2023     O/A:1389698                         $3,911.36
+YRC Inc.                    YRC Inc.            1389697          $272.77       7/31/2023     O/A:1389697                          $272.77
+YRC Inc.                    YRC Inc.            1388752         $16,200.00     7/31/2023     O/A:1388752                       $16,200.00
+YRC Inc.                    YRC Inc.            1388751          $222.95       7/31/2023     O/A:1388751                          $222.95
+YRC Inc.                    YRC Inc.            1388437         $3,169.32      7/31/2023     O/A:1388437                         $3,169.32
+YRC Inc.                    YRC Inc.            1390081          $625.77       7/31/2023     O/A:1390081                          $625.77
+YRC Inc.                    YRC Inc.            1387785          $900.00       7/31/2023     O/A:1387785                          $900.00
+YRC Inc.                    YRC Inc.            1388115         $1,150.00      7/31/2023     O/A:1388115                         $1,150.00
+
+       Totals:    118 transfer(s), $98,359.26
+
+
+
+
+GlobalTranz Enterprises, LLC dba GlobalTranz Enterprises, Inc. (2310614)
+Bankruptcy Case: Yellow Corporation
+Jul 30, 2025                                                          Exhibit B                                                   P. 3
+             Case 23-11069-CTG             Doc 7142        Filed 08/01/25       Page 25 of 25
+
+
+
+                         IN THE UNITED STATES BANKRUPTCY COURT
+                              FOR THE DISTRICT OF DELAWARE
+
+   In re                                              Chapter 11
+
+   YELLOW CORPORATION, et al.,                        Case No.: 23-11069 (CTG)
+
+                                         Debtors.     (Jointly Administered)
+
+
+   Yellow Corporation and YRC Inc.,
+                                        Plaintiffs,
+   vs.
+
+   GlobalTranz Enterprises, LLC dba                   Adv. No. Refer to Summons
+   GlobalTranz Enterprises, Inc.,
+                                  Defendant(s).
+
+                      NOTICE OF DISPUTE RESOLUTION ALTERNATIVES
+
+        As party to litigation you have a right to adjudication of your matter by a judge of this Court.
+Settlement of your case, however, can often produce a resolution more quickly than appearing before a
+judge. Additionally, settlement can also reduce the expense, inconvenience, and uncertainty of litigation.
+
+         There are dispute resolution structures, other than litigation, that can lead to resolving your case.
+Alternative Dispute Resolution (ADR) is offered through a program established by this Court. The use of
+these services are often productive and effective in settling disputes. The purpose of this Notice is to furnish
+general information about ADR.
+
+        The ADR structures used most often are mediation, early-neutral evaluation, mediation/arbitration
+and arbitration. In each, the process is presided over by an impartial third party, called the “neutral.”
+
+        In mediation and early neutral evaluation, an experienced neutral has no power to impose a
+settlement on you. It fosters an environment where offers can be discussed and exchanged. In the process,
+together, you and your attorney will be involved in weighing settlement proposals and crafting a settlement.
+The Court in its Local Rules requires all ADR processes, except threat of a potential criminal action, to be
+confidential. You will not be prejudiced in the event a settlement is not achieved because the presiding
+judge will not be advised of the content of any of your settlement discussions.
+
+         Mediation/arbitration is a process where you submit to mediation and, if it is unsuccessful, agree
+that the mediator will act as an arbitrator. At that point, the process is the same as arbitration. You, through
+your counsel, will present evidence to a neutral, who issues a decision. If the matter in controversy arises
+in the main bankruptcy case or arises from a subsidiary issue in an adversary proceeding, the arbitration,
+though voluntary, may be binding. If a party requests de novo review of an arbitration award, the judge
+will rehear the case.
+
+      Your attorney can provide you with additional information about ADR and advise you as to
+whether and when ADR might be helpful in your case.
+
+Dated: August 1, 2025                                         /s/ Stephen L. Grant, Sr.
+                                                                         Clerk of Court
+
+
+
+
+                                              -1-              NOTICE OF DISPUTE RESOLUTION ALTERNATIVES
+                                                                                                \5Nov10, 0:05
+

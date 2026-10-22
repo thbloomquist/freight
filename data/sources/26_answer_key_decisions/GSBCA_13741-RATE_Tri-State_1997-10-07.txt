@@ -1,0 +1,85 @@
+                   
+
+
+
+
+                            ___________________
+
+                              October 7, 1997
+                           ____________________
+
+
+                             GSBCA 13741-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC, appearing
+for General Services Administration.
+     
+     Col. James F. Quinn, Staff Judge Advocate, Headquarters, 
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+PARKER, Board Judge.
+                                     
+     Tri-State Motor Transit Co. billed the Navy under its Tender
+Number 582 for transporting eight rockets, three "booster fin
+sets," and a logbook.  Tender 582 covers "freight-all-kinds." 
+After auditing the transaction, the General Services
+Administration's Office of Transportation Audits determined that
+the Government had been overcharged in the amount of $1,353.96
+because the shipment should have been billed under Tri-State's
+Tender Number 611, which covers "missiles or rockets."  Tri-State
+asked the General Accounting Office to review the propriety of
+GSA's deduction.
+
+     Tri-State initially argued that Tender Number 611 was not
+applicable because the booster fin sets were not an integral part
+of the rockets.  Thus, according to Tri-State, only its Tender
+Number 582, covering freight-all-kinds, was applicable to this
+mixed shipment.  Tri-State does not dispute that Tender Number 611
+is applicable to the rockets themselves -- it argues only that the
+addition of the booster fin sets changed the shipment into a mixed
+one to which the freight-all-kinds tender applies.
+
+     In response to Tri-State's argument, the Government explained,
+through an affidavit from an official of the company that
+manufactured the rockets, that booster fin sets are considered
+integral parts of a rocket.  The booster fins, which are used for
+guidance control and stability, are attached to the rocket or
+missile once it reaches its destination.  The logbooks, he
+explained, are also essential to the operation of the missile and
+are required to be shipped with it.
+
+     Tri-State disagrees with this conclusion, arguing that the
+booster fin sets could not have been integral parts of the rockets
+shipped because there were only three sets of fins for eight
+rockets.
+
+                                Discussion
+
+     The Board's Rule of Procedure 301(b) reflects a fundamental
+principle applicable to claims against the Government:  "The burden
+is on the claimant to establish . . . the liability of the agency,
+and the claimant's right to payment."  48 CFR 6103.1(b) (1996). 
+Tri-State has not met that burden here.  The Government has
+established that booster fins are an integral part of a rocket or
+missile; the booster fins are packed separately only for shipping
+purposes.   We have no idea why the Navy shipped only three sets of
+booster fins with eight rockets.  The fact that it did, however,
+does not establish that the booster fin sets were not part of three
+of the shipped rockets.  Tri-States' claim thus fails for lack of
+proof.
+
+
+
+
+                                        _______________________
+                                        ROBERT W. PARKER
+                                        Board Judge

@@ -1,0 +1,141 @@
+                                        July 22, 2010
+
+
+                                    CBCA 1635-RATE
+
+
+                       In the Matter of ATLAS VAN LINES, INC.
+
+
+       Alan F. Wohlstetter, Gwynedd, PA; and Stanley I. Goldman, Potomac, MD, appearing
+for Claimant.
+
+       Mary C. Bates, Director, Audits Division, Office of Travel and Transportation
+Services, Federal Acquisition Service, General Services Administration, Arlington, VA,
+appearing for General Services Administration.
+
+      James E. Hicks, Administrative Law Section, Office of Chief Counsel, Drug
+Enforcement Administration, Department of Justice, Washington, DC, appearing for
+Department of Justice.
+
+KULLBERG, Board Judge.
+
+        The matter before this Board was brought by Atlas Van Lines, Inc. (Atlas) under
+31 U.S.C. § 3726(i)(1) (2006), which provides that a freight forwarder may request review
+of an action taken by the Audits Division of the General Services Administration’s (GSA’s)
+Office of Travel and Transportation and Services. Atlas contends that GSA took deductions
+for overcharges beyond the three-year period allowed under 31 U.S.C. § 3726(d) and seeks
+a refund of those deductions that totaled $5305.97. GSA contends that its rights as a creditor
+are not extinguished by the three-year limitations period. Having considered and rejected the
+same arguments raised previously by GSA in Union Pacific Railroad, CBCA 1317-RATE,
+10-1 BCA ¶ 34,312 (2009), motion for reconsideration denied, 10-1 BCA ¶ 34,435, and
+Logistics International, Inc., CBCA 1637-RATE (July 2, 2010), the Board finds that GSA
+CBCA 1635-RATE                                                                               2
+
+improperly took deductions beyond the three-year limitations period, and those deductions
+must be refunded.
+
+                                         Background
+
+      Atlas received payments at various times during 2003 on five Government Bills of
+Lading (GBLs). On March 20, 2009, GSA took deductions that totaled $5305.97 for
+overcharges on those GBLs. The relevant information including the GBL number, the date
+of payment, the date of the deduction, and the amount of each deduction is summarized as
+follows:
+
+
+        GBL            Date Paid    Date of Offset                 Amount of Offset
+        Number
+
+        NO305688       3/6/03       3/20/09                                 $2569.32
+
+        NO305643       2/21/03      3/20/09                                 $1375.82
+
+        NO285819       8/29/03      3/20/09                                  $882.75
+
+        NO323236       8/11/03      3/20/09                                  $329.00
+
+        NO028552       8/11/03      3/20/09                                  $149.08
+
+                                    Total:                                  $5305.97
+
+
+
+      GSA issued settlement certificates with regard to each of the above listed deductions
+on June 18, 2009. Each settlement certificate had the following language:
+
+              The Government has the same right “which belongs to every
+              creditor, to apply the unappropriated moneys of his debtor, in his
+              hands, in extinguishment of the debts due him.” United
+              States v. Muns[e]y Trust of Washington, 332 U.S. 234, 238
+              (1947). Statutory authority for GSA’s offset procedure based on
+              this right is granted in the Federal Claims Collection Act. The
+              rights under the act are not extinguished by 31 U.S.C. 3726(d)[.]
+              Burlington Northern v. United States, 462 F.2d 526, 529
+              (Ct. Cl. 1972).
+
+Atlas subsequently brought its claim for a refund of all of the amounts offset on July 2, 2009.
+CBCA 1635-RATE                                                                               3
+
+                                         Discussion
+
+        The parties do not dispute that a period of more than three years passed between the
+date of payment and the date that a deduction was taken for overpayment for each of the
+GBLs that are at issue in this matter. Atlas contends that “it is entitled to [a] refund of the
+amounts offset by GSA because the offsets were made more than three years after the
+payment date[,] and GSA is time-barred from offsetting [the] alleged overcharges by the
+three-year statute of limitations, 31 U.S.C. § 3726(d).” Claimant’s Response at 1. GSA
+contends that “[u]nder 31 U.S.C. § 3716, the Government is authorized to effect
+administrative offset using common-law precedents separately and distinctly from any
+limitations in other statutes. This includes 31 U.S.C. § 3726 which clearly limits the
+narrowly defined ‘deduction action.’” Government’s Response at 5.
+
+        Under 31 U.S.C. § 3726, the Administrator of GSA has the authority to conduct audits
+of payments previously made to freight forwarders and deduct the amount of any
+overpayment from subsequent payments. That statute, however, also provides that “[n]ot
+later than 3 three years (excluding time of war) after a bill is paid, the Government may
+deduct from an amount subsequently due a carrier or freight forwarder an amount paid on the
+bill that was greater than the rate allowed.” Id. § 3726(d). The applicable regulation,
+41 CFR 102-118.640(b) (2007), states that “[a] 3-year limitation applies on the deduction of
+overcharges from amounts due a [transportation service provider] (31 U.S.C. [§] 3726).”
+
+       This matter involves the same issue that the Board decided in Union Pacific Railroad,
+in which the Board discussed in detail and rejected GSA’s contention that it has the authority
+under 31 U.S.C. § 3716, which has a ten-year limitations period, to collect overcharges
+beyond the three-year limitations period set forth in 31 U.S.C. § 3726(d). Following Union
+Pacific Railroad, this Board stated the following in Logistics International, Inc.:
+
+              As was the case in Union Pacific Railroad, GSA contends in
+              this matter that it has the right to collect overcharges by means
+              of an offset more than three years after payment. This Board
+              recognized in Union Pacific Railroad that deducting an
+              overcharge beyond the three-year limitation period is a “nullity.”
+              10-1 BCA at 169,492 (citing Trans Country Van Lines, Inc.,
+              B-188647 (Dec. 28, 1977)). A nullity is “a cause which the
+              opposite party may treat as though it had not taken place, or
+              which has absolutely no legal force or effect.” Black’s Law
+              Dictionary 963 (5 th ed. 1979). Although GSA attempts to justify
+              deducting overcharges beyond the three-year limitations period
+              under 31 U.S.C. § 3726(d) by calling an overcharge a “debt” and
+CBCA 1635-RATE                                                                              4
+
+              the deduction an “offset,” GSA’s action is a nullity with no legal
+              force or effect.
+
+Id., slip op. at 5. The same result applies in this matter in that GSA has taken deductions on
+GBLs beyond the three-year limitations period allowed under 31 U.S.C. § 3726(d), and such
+deductions are nullities with no legal force or effect. Consequently, GSA must refund those
+amounts deducted to Atlas.
+
+                                          Decision
+
+      The Board finds that GSA improperly deducted overcharges totaling $5305.97 on five
+GBLs, and GSA must refund that amount to Atlas.
+
+
+
+
+                                           ______________________
+                                           H. CHUCK KULLBERG
+                                           Board Judge
+

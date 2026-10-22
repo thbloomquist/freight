@@ -1,0 +1,244 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+                         ______________________
+ 
+                              May 17, 2000
+                         ______________________
+ 
+ 
+                            GSBCA 15194-RATE
+ 
+ 
+                  In the Matter of DANZAS CORPORATION
+ 
+ 
+        Thomas Jermann, Vice  President, Corporate Services,  Danzas
+   Corporation, Bellevue, WA, appearing for Claimant.
+ 
+        James   F.  Fitzgerald,   Director,  Transportation   Audits
+   Division,  Office  of  Transportation  and  Property  management,
+   General Services  Administration, appearing for  General Services
+   Administration.
+ 
+        Col.  James  F. Quinn,  Staff Judge  Advocate, Headquarters,
+   Military  Traffic  Management  Command, Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   HYATT, Board Judge.
+ 
+         Danzas Corporation has requested the Board's review of  the
+    General Services Administration s  (GSA s) audit  actions on  24
+    Government  Bill  of  Lading (GBL)  transactions.    GSA  issued
+    overcharge  assessments totaling  $6,167.85  in  connection with
+    these  transactions on  the ground that requested  services were
+    not  performed  and  thus  were  not  properly  charged  to  the
+    Government.  
+ 
+                               Background
+ 
+         The transactions in issue involved  twenty-four air freight
+    shipments of freight all kinds (FAK) on GBLs issued to Danzas by
+    the Department of  Defense (DOD) during the  period from June 3,
+    1996   until   May    23,   1997.[foot #] 1      The   shipments
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 The following GBLs are in issue:
+ 
+        GBL Number          Ship Date           Disputed Amount
+        __________          _________           _______________
+ 
+                                                      (continued...)
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+    originated at  McClellan Air  Force Base  with deliveries  to be
+    made at various  destinations in the Continental  United States.
+    The shipments were moved under Danzas  DOD rate tender DZNA 45. 
+ 
+ 
+ 
+         Danzas airfreight rate tender number 45 covers door-to-door
+    deliveries of FAK, excepting certain explosives.   Appendix B of
+    this tender sets  forth various rates for  next day, second day,
+    and three-four day deliveries.   There is no  rate set forth for
+    regular deliveries in  a non-specific time-frame.   With respect
+    to all of the rates set forth, the tender  provides for delivery
+    by 2:30 p.m.
+ 
+         Each GBL,  either in block  15 or 18, was  annotated with a
+    request for  NEXT DAY DELIVERY,   OVERNIGHT DELIVERY,  or   NEXT
+    DAY SERVICE.   None of the shipments  arrived in the time  frame
+    requested on  the GBLs  - many  shipments arrived  some 3-6 days
+    after shipment.   Nonetheless, Danzas  submitted bills  charging
+    for  next day  service at  the rates  set  forth in  rate tender
+    number 45.  DOD paid the full amounts billed.
+ 
+         In performing its post-payment audit responsibilities under
+    31 U.S.C.    3726,  GSA s Audit  Division (FBA) determined  that
+    Danzas  was overpaid  for  these  shipments because  it  had not
+    provided the requested level  of service.  GSA issued 24 notices
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 (...continued)
+   1.   G-7532030           06/03/96            $  698.55
+   2.   G-7532822           06/17/96            $  229.95
+   3.   G-7532870           06/18/96            $  113.29
+   4.   G-7534152           07/13/96            $  402.33
+   5.   G-7534524           07/23/96            $  237.10
+   6.   G-7534641           07/25/96            $  204.69
+   7.   G-7534643           07/25/96            $    99.52
+   8.   G-7534642           07/25/96            $    87.97
+   9.   M-1126659           08/29/96            $  235.29
+   10.  M-1127718           09/24/96            $  115.18
+   11.  M-1130675           12/19/96            $1039.16 
+   12.  M-1130821           12/24/96            $  241.59
+   13.  M-1130822           12/24/96            $  253.52
+   14.   1130823            12/24/96            $  253.52
+   15.  M-1130824           12/24/96            $  501.24
+   16.  M-1131394           01/16/97            $  243.99
+   17.  M-1131441           01/17/97            $  174.42
+   18.  M-1132114           02/06/97            $  255.12
+   19.  M-1135309           05/05/97            $  253.19
+   20.  M-1135356           05/08/97            $  330.86
+   21.  M-1135422           05/09/97            $    41.48
+   22.  M-1135585           05/14/97            $    35.09
+   23.  M-1135589           05/14/97            $    48.65
+   24.  M-1135899           05/23/97            $    72.15
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+    of overcharge, reducing  payments to reflect the  actual service
+    provided. 
+ 
+ 
+         Danzas   submitted  reclaims   to   GSA,   challenging  the
+    deductions  on the  ground that the shipments  required widebody
+    aircraft, and  that many  of the  DOD destination  installations
+    were not located near  large commercial airports, so that it was
+    necessary  to  complete  shipments  by  truck,  which  made   it
+    difficult  to meet next day delivery requirements.  In addition,
+    Danzas contended that at the time GSA made the deductions Danzas
+    had in effect a rules tender, approved by the Government, which,
+    in  paragraph 42,  set  forth  the  Danzas  policy  on   service
+    failure  adjustments:
+ 
+              Except as otherwise provided in this tender,
+              or on tenders governed hereby, the Forwarder
+              assumes   no  obligation   to   commence  or
+              complete transportation of a shipment within
+              any specific period  of time.  In  the event
+              of a service failure, the maximum adjustment
+              allowed   will  be   10   percent   of   the
+              transportation  charges   on  the   airbill.
+              Adjustments to accessorial fees  will not be
+              allowed.  
+ 
+    This rules tender had an effective date of May 14, 1997.
+ 
+                               Discussion
+ 
+         Danzas  does  not assert  that  it in  fact  completed  the
+    deliveries  on  a  timely  basis.    Rather,  its  defenses  are
+    predicated  on geographic  obstacles  to next  day service  with
+    remote installations, and on the service failure language in its
+    rules tender.  In rebutting GSA s notices of overcharges, Danzas
+    recalculates the deductions based on its ten percent  adjustment
+    policy.   The amounts in  dispute (set forth in  footnote 1) are
+    the amounts sought  to be recouped by  Danzas, and represent the
+    difference  between the  overcharges derived from the  rates for
+    the actual service provided,  which is what GSA and the Military
+    Traffic Management Command (MTMC ) believe should apply, and the
+    next day service rates adjusted downward by ten percent.   
+ 
+         GSA  and MTMC maintain  that since  the shipments  were not
+    delivered  in the  next day time  frames specified,  the charges
+    were  properly reduced  to reflect  the fees applicable  to two,
+    three,  and four day delivery  time frames.  They also point out
+    that at the time most of the shipments took place (as opposed to
+    when the audit actions occurred), paragraph 42 was not in effect
+    and  would not,  in any  event, limit  the government  to a  ten
+    percent adjustment.  
+ 
+         In responding to  Danzas  contentions concerning geographic
+    distances  and  obstacles,  GSA    questions  the  propriety  of
+    offering  next  day service  when,  as a  practical matter,  the
+    carrier  cannot provide  this service.    Although there  may be
+    delays associated  with geographical  distances from  commercial
+    airports to government installations, this can be accounted  for
+    appropriately by other, more straightforward, means, such as  by
+    incorporating distance into the  transportation rates, assessing
+     beyond  charges   as  other  carriers  do,  or  offering   more
+    realistic service levels  that can actually be  accomplished for
+    remote destinations. 
+ 
+ 
+         As to Danzas   other argument, asserting that  any downward
+    adjustment of  its next  day rates must  be limited  to the  ten
+    percent adjustment for  service failures  under its rules tender
+    100, both  GSA and MTMC make the point that this provision, even
+    if applicable, was not  in effect at the time the shipments were
+    transported.   Between June  3, 1996  and May  14, 1997, Danzas 
+    tender  rate number  45 referenced  DZNA Rules  Tender  0001 for
+    rules governing rates, charges and services provided by  Danzas.
+    This rules tender expired  on January 31, 1991.  The replacement
+    rules tender,  number 100,  which incorporated  the ten  percent
+     service failure  adjustment, did not become effective until May
+    14, 1997.  Thus,  no particular rules governing the provision of
+    services applied to  the majority of the  shipments.  Only three
+    shipments  were made  on or  after the  effective date  of rules
+    tender 100.
+ 
+         Clearly, with respect to shipments originating prior to May
+    14, 1997, GSA s audit action was proper.   When a shipper  fails
+    to deliver the services  promised under a GBL, the contractor is
+    limited to recovery  on a quantum meruit  basis.  See Associated
+    Air  Freight, Inc.,  GSBCA 14908-RATE (May 11,  1999); Universal
+    Transportation & Services, GSBCA 14491-RATE (Apr. 22, 1998).  In
+    this case,  GSA substituted Danzas   non-premium delivery  rates
+    (second, third,  and fourth  day service  rates) as  applicable.
+    This approach resulted in  the proper charges being paid for the
+    services actually provided.    
+ 
+         With respect to  the three shipments ostensibly  covered by
+    paragraph 42  of rules  tender 100,  we are  still not persuaded
+    that  Danzas may resort to  this paragraph  in the circumstances
+    presented.   Both GSA and MTMC contend that the language in this
+    paragraph is  ambiguous, and we  agree.  The  promise to deliver
+    freight in a  next day, second  third, or fourth day  time frame
+    goes  to the heart of  the agreed-to bargain.   It is inherently
+    inconsistent to offer differing rates depending upon the time in
+    transit and then assert that the shipper takes no responsibility
+    for  failing  to provide  premium  services,  other  than  a ten
+    percent  downward  adjustment   in  premium  rates,  when  those
+    services have been charged for.
+ 
+         Moreover, it is not  clear what the term  service  failure 
+    includes or would apply  to in these circumstances.  In general,
+    an  ambiguity such  as  this should  be  construed  against  the
+    drafter, which  is Danzas.   Reading the rate  and rules tenders
+    together,  a shipper could reasonably conclude that a failure to
+    provide  next  day  services altogether  would  be  remedied  by
+    payment of  the lower  rates applicable  to  second, third,  and
+    fourth day delivery, and  that  paragraph 42 simply sets forth a
+    remedy for the carrier's failure to provide door-to-door service
+    or to deliver by 2:30 p.m.  To the  extent a delivery is delayed
+    beyond  the fourth  day after  pick-up, it  would make  sense to
+    apply  the ten percent adjustment to the fourth day rates.  This
+    interpretation  not only is reasonable, but  gives effect to the
+    entire  agreement,  including  the  promise  to  render  premium
+    services for the higher prices quoted.  
+ 
+         GSA thus properly resorted to  actual rates with respect to
+    the three shipments originating on and after May 14, 1997.   The
+    claim is denied.
+    _________________________________
+ 
+                                       CATHERINE B. HYATT
+                                       Board Judge

@@ -1,0 +1,237 @@
+                                      May 5, 2010
+
+
+                                   CBCA 1141-RATE
+
+
+                          In the Matter of ARPIN VAN LINES
+
+
+      Matthew E. Shea, Vice President, General Services Division, Arpin Van Lines, Inc.,
+East Greenwich, RI, appearing for Claimant.
+
+      James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, General Services Administration, Arlington, VA; and
+Aaron J. Pound, Office of General Counsel, General Services Administration, Washington,
+DC, appearing for General Services Administration.
+
+       Susan A. Pratt, Manager, Household Goods, Relocation Services, Federal Bureau of
+Prisons, Department of Justice, Annapolis Junction, MD, appearing for Department of
+Justice.
+
+HYATT, Board Judge.
+
+       Arpin Van Lines (Arpin) has requested the Board’s review of notices of overcharge
+issued by the General Services Administration’s (GSA’s) Audit Division, Office of
+Transportation and Property Management. These notices were issued as a result of audits
+conducted with respect to Government Bill of Lading (GBL) transactions involving
+shipments of household goods to destinations originating and ending in the same state, but
+with storage in transit (SIT) outside the state.
+
+                                      Background
+
+       Arpin transported household goods pursuant to GBLs issued by the Federal Bureau
+of Prisons (BOP). The shipments in question involved trips between points that were wholly
+within one state. The audited shipments were from Pekin, Illinois, to Highland, Illinois;
+CBCA 1141-RATE                                                                                 2
+
+Pikeville, North Carolina, to Butner, North Carolina; Highland, Illinois, to Herrin, Illinois;
+LaGrange, North Carolina, to Butner, North Carolina; and El Paso, Texas, to Mansfield,
+Texas. Arpin has requested our review of GSA’s audit of GBL transactions NO709968,
+NO710084, NO710024, WP553212, NO709920, N0709945, NO553291, NO709327,
+NO709122, NO709112A, NO553303, and NO709216. Substantial overcharges have been
+claimed as a result of the audits.
+
+       With respect to the subject shipments, BOP requested transportation of household
+goods and storage in transit at an approved facility. Storage in transit (SIT) is ordinarily
+required to be accomplished at a facility no more than fifty miles distant from the delivery
+destination. Arpin inquired about using its own storage facilities in Leavenworth, Kansas,
+at no additional charge to BOP. Arpin preferred to use its own facility to maintain quality
+service standards. BOP had no objection to storage in Kansas, for the carrier’s convenience,
+and at no additional cost to the Government, and so noted on the GBLs. BOP has
+confirmed that the line-haul mileage was to be calculated using the direct distance from the
+point of origin to the point of destination, and SIT rates would be the same as if Arpin had
+used their agents located within the origin and destination state.
+
+        Arpin billed for the shipments based on that agreement, using its intrastate rates for
+the in-state line-haul mileage and storage facilities, which is all that was charged for. Arpin
+used intrastate discounts on its 415-G tariff of forty-five percent for transportation and
+thirty-five percent for storage.
+
+       When GSA audited the bills of lading, it concluded that because Arpin had in fact
+transported the household goods outside the state, it could not use intrastate rates to bill
+BOP. Instead, GSA recalculated the payments for Arpin using the greater interstate
+discounts (sixty percent for line-haul and forty percent for storage) for the intrastate
+distances.
+
+                                          Discussion
+
+       The question raised by this case is whether interstate or intrastate rates apply when
+a shipper and transporter agree to the application of intrastate rates for an intrastate shipment
+when, for the convenience of the carrier, they agree upon an interstate route. As support for
+its position, GSA relies on various regulations which define interstate and intrastate
+commerce similarly. The Federal Motor Carrier Safety Administration defines the terms as
+follows:
+
+              Interstate commerce means trade, traffic, or transportation in
+              the United States—
+CBCA 1141-RATE                                                                                   3
+
+               (1) Between a place in a State and a place outside of such State
+               (including a place outside of the United States);
+
+               (2) Between two places in a State through another State or a
+               place outside of the United States; or
+
+               (3) Between two places in a State as part of trade, traffic, or
+               transportation originating or terminating outside the State or the
+               United States.
+
+               Intrastate commerce means any trade, traffic, or transportation
+               in any State which is not described in the term “interstate
+               commerce.”
+
+49 CFR 390.5 (2007).
+
+        In essence, GSA maintains that because Arpin transported the shipments out of state
+to its storage facility in Kansas, the shipments, having left the state, must be treated as
+interstate in character and thus interstate discounts must apply. At the same time, GSA
+applies the lower interstate rates, not to the interstate routes actually driven, but solely to the
+direct intrastate route between the given destinations within the states in which the services
+were provided. This results in substantial “overcharges” by Arpin.
+
+       Clearly, Arpin transported the household goods outside the state for storage and then
+returned to the state to deliver the shipment to its destination. This was indeed interstate
+commerce. It is well-settled that transportation of property by motor vehicle between points
+in the same state through another state is interstate transportation no matter how small a
+distance may be traversed in the other state. See Central Greyhound Lines, Inc. of New York
+v. Mealey, 334 U.S. 653, 660-661 (1948).
+
+        This, however, is not dispositive of whether interstate or intrastate rates should apply
+to the subject transactions. A well-developed body of law under the Interstate Commerce
+Act has addressed similar scenarios involving whether shipments should be deemed to be
+interstate or intrastate in character. For the most part, the issue arises when either a shipper
+or carrier attempts to segment the trip into interstate and intrastate components to take
+advantage of rates that are more beneficial than the through rate. The concern is to protect
+the shipper from being overcharged or the carrier from being underpaid for a given trip.
+
+      In Baltimore & Ohio Southwestern Railroad Co. v. Settle, 260 U.S. 166, 170-72
+(1922), Justice Brandeis reasoned that whether a particular portion of travel is interstate or
+CBCA 1141-RATE                                                                               4
+
+intrastate “depends on the essential character of the movement.” The Court rejected an
+interstate shipper’s attempt to pay lower total tariffs by shipping its goods first from one
+state into another, and then, after taking possession of them, re-shipping them to their
+ultimate destination in that second state, taking advantage of lower local rates applicable to
+that segment of the trip. The Court observed:
+
+               Through rates are ordinarily made lower than the sum of the
+       intermediate rates. This practice is justified, in part, on the ground that
+       operating costs of a through movement are less than the aggregate costs of the
+       two independent movements covering the same route. But there may be traffic
+       or commercial conditions which compel, or justify, giving exceptionally low
+       rates to movements which are intermediate. The mere existence of such
+       intermediate rates confers no right upon the shipper to use them in
+       combination to defeat the applicable through rate. Here there had been
+       published interstate rates for the transportation from the [original destination]
+       to [the ultimate destination]. For such transportation the interstate rates to [the
+       ultimate destination] were the only lawful rates. To permit the applicable
+       through interstate rate to be defeated by use of a combination of intermediate
+       rates would open wide the door to unjust discrimination, and it would unjustly
+       deplete the revenues of the carrier.
+
+Id. at 171-72.
+
+        Under the facts of the case, which were undisputed, the Court concluded that the
+shipper had always intended to ship its goods to the ultimate destination in the second state
+and thus, the interstate rates applied to the entire distance. At the same time, the Court
+expressed the caveat that the “essential character” of movement that determines
+incorporation into interstate transport depends on the individual facts of each case, and that
+mere proximity in time and space will not automatically make an intrastate trip part of a
+larger interstate voyage. Id. at 173.
+
+        The Interstate Commerce Commission (ICC) (now the Surface Transportation
+Board) has applied this standard to the determination of whether carriers are engaged in
+interstate or intrastate commerce. Thus, the ICC also looked to the fixed and persisting
+intent of the shipper, or the one for whose benefit the shipment is made, as one of the most
+important factors in determining the essential character of commerce. Another factor to be
+considered is the character of the billing, that is, whether it is local or through. No single
+factor, however, is necessarily to be regarded as determinative in the final conclusion as to
+the essential character of the traffic. Rather, the determination is derived from all of the
+facts and circumstances surrounding the transportation. See, e.g., Pittsburgh-Johnstown­
+CBCA 1141-RATE                                                                                 5
+
+Altoona Express, Inc., 8 I.C.C.2d 821 (1990); Armstrong World Industries, Inc., 2 I.C.C. 2d
+63 (1986), aff’d sub nom. Texas v. Interstate Commerce Commission, 866 F.2d 1546 (5th
+Cir. 1989).
+
+       This approach was adopted by the Comptroller General, one of our predecessors in
+reviewing settlements of transportation cases such as this one. In Trans Country Van Lines,
+Inc., B-188647 (Dec. 28, 1977), GSA had audited a shipment originating at Van Nuys,
+California, with an intermediate delivery and pickup at Mare Island, Vallejo, California, and
+then continuing on to Norfolk, Virginia. Since the shipment originated in California and
+ended in Virginia, GSA concluded that the interstate tariff rates should be applied across the
+board to all segments of the trip. The carrier challenged this action, claiming the items
+unloaded at Mare Island were in fact traveling purely in intrastate commerce and subject to
+the intrastate tariff rates. The Comptroller General noted that a portion of the shipment
+unloaded at Mare Island was consigned to the Naval School Command there and agreed that
+this portion of the shipment might well have been purely local in nature and thus would be
+an intrastate shipment.
+
+     In an earlier decision, also reviewing a GSA audit, the Comptroller General
+summarized the analysis to be made as follows:
+
+              Whether a shipment is through or local depends upon the
+              essential character of the movement and this character is not
+              necessarily determined by the contract between the shipper and
+              the carrier but the intention to move the goods to the ultimate
+              destination from the initial point of shipment determined as a
+              matter of law the essential nature of the entire movement.
+
+8 Comp. Gen 509 (1929); see also Tri-State Motor Transit Co., B-253445 (Apr. 20, 1994);
+3 Comp. Gen. 618 (1924).
+
+        Although it is irrefutable that Arpin traveled outside the individual states with respect
+to the audited deliveries, it does not necessarily follow that the routes for which GSA
+considers BOP should pay must be deemed to be a segment of interstate commerce.
+Significantly, this is not a situation where the carrier attempted to inflate the mileage or
+charge higher rates than BOP would ordinarily be expected to pay for the deliveries. Here,
+the record establishes that BOP, the shipper, was seeking, and intended to pay for, only the
+intrastate transportation of household goods, with storage in transit at a site near the
+destination. It had no objection to Arpin’s request to store the household goods in transit
+at Leavenworth, Kansas, so long as it was not charged for the extra distance or other
+CBCA 1141-RATE                                                                                6
+
+possible costs involved, and, indeed, Arpin did not charge for the extra mileage driven to
+make use of its own storage facility.
+
+        In sum, considering the totality of the facts and circumstances surrounding these
+transactions in light of the guidance provided by case law, we conclude that we should
+recognize the intrastate character of the contracted-for transaction and effectuate the
+shipper’s intent. The approach adopted by GSA does not reflect the intent of either party
+to the transaction. BOP’s intent was always to ship the household goods from a point within
+a given state to another destination in that state, with storage also within that state. This is
+an intrastate transaction. Neither Arpin nor BOP regarded the carrier’s plan to store the
+household goods in Leavenworth for no extra charge as creating an interstate transaction that
+would result in charging interstate rates for the entire distance actually traveled, which is
+what the tariffs would ordinarily contemplate. This would have created a far more
+expensive transaction than the intrastate route that was specified for payment. Further,
+neither party intended that Arpin would find its revenue severely depleted by treating the
+intrastate legs of the trips, the only portions for which BOP agreed to pay, as interstate
+commerce for which the lower rates would be charged even though no payment would
+actually be made for any portion of the actual interstate portion of commerce that has been
+identified by GSA. This is simply not an example of a carrier attempting to overcharge the
+shipper by selecting routes to take advantage of higher rates. BOP obtained the rate to
+which it was entitled -- shipment of the household goods over the direct route from and to
+cities within one state.
+
+      Accordingly, based on the above discussion, GSA’s audits cannot be sustained. The
+monies that GSA collected from Arpin as alleged overcharges must be returned.
+
+
+
+
+                                                   _________________________________
+                                                   CATHERINE B. HYATT
+                                                   Board Judge
+

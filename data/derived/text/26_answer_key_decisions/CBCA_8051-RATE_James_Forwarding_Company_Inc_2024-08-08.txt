@@ -1,0 +1,521 @@
+                                     August 8, 2024
+
+
+                                   CBCA 8051-RATE
+
+
+              In the Matter of JAMES FORWARDING COMPANY, INC.
+
+
+      Jason Walker, Accountant of James Forwarding Company, Inc., San Antonio, TX,
+appearing for Claimant.
+
+     George J. Thomas, Jr., Director, Transportation Audits Division, Office of Travel,
+Employee Relocation, and Transportation, Federal Acquisition Service, General Services
+Administration, Washington, DC, appearing for General Services Administration.
+
+     Richard A. Martinelli, Office of Counsel, Naval Supply Systems Command,
+Mechanicsburg, PA, counsel for Department of the Navy.
+
+LESTER, Board Judge.
+
+       Claimant, James Forwarding Company, Inc. (JFC), has asked the Board to review a
+decision of the General Services Administration (GSA) denying as untimely its claim for
+payment of $14,595.69 for transportation services. JFC originally billed the Personal
+Property Shipping Office (PPSO) within the Department of the Navy (Navy) for those
+services in September 2018, soon after they were rendered, but the Navy denied that invoice
+on October 2, 2018, as part of a prepayment audit review because JFC’s invoice was not
+supported by weight tickets. Although JFC interpreted the Navy’s comment in the denial as
+suggesting that JFC could resubmit its payment request with the weight tickets, there is no
+evidence in the record that JFC did so until 2023, four-and-a-half years after the payment
+denial. In accordance with regulation, the Navy forwarded the renewed payment request to
+GSA, which denied the claim as barred by the three-year limitation period set forth in the
+Transportation Act of 1940, 31 U.S.C. § 3726(c)(2) (2018).
+CBCA 8051-RATE                                                                                2
+
+        As explained below, although the Navy, when denying payment on JFC’s invoice,
+failed to provide JFC with notice of its appeal rights (as required by regulation), JFC cannot
+establish that it was prejudiced by that lack of notice in the circumstances here. Because the
+absence of that notice did not toll the statute of limitations, JFC’s four-and-a-half-year delay
+in responding to the Navy’s payment denial renders its claim to the agency untimely.
+
+                                         Background
+
+      On May 31, 2018, JFC commenced transporting the household goods (HHG) of an
+employee of the Navy as part of the employee’s permanent change of station (PCS) from
+Louisiana to Guam. The HHG was delivered to Guam at some point in June or July 2018.
+
+        Pursuant to part IV of the Defense Transportation Regulation (DTR), which covers
+transportation of personal propery, a transportation service provider (TSP) is required to
+provide weight tickets to the agency “within seven Government Business Days (GBD) after
+shipment pickup.” DTR pt. IV, app. A-A ¶ B.2.e (available at https://www.ustranscom.mil/
+dtr/part-iv/dtr_part_iv_app_A-A.pdf (last visited Aug. 7, 2024)). The TSP is responsible for
+entering all accessorial services, weights, and actual pickup and delivery dates. Id.; see id.
+¶ B.4.b(2)(b) (“The weight ticket information must be entered into the [payment system] by
+the TSP.”). “TSPs are responsible for the resolution of all invoices in ‘Audit Exception’
+status in the [applicable third party payment system].” Id. ¶ B.2.e.
+
+       On September 26, 2018, JFC submitted an invoice on Standard Form 1113 in the
+Defense Personal Property System (DPS)1 seeking payment for its Louisiana-to-Guam
+transportation services. That invoice was initially approved within DPS on September 28,
+2018. Upon approval, DPS, through an electronic data interchange, sent a “notification of
+service completed” to Syncada, an Internet-based transportation payment system that the
+Department of Defense utilizes.2 The Syncada system conducts a line-by-line comparison
+
+       1
+               DPS “is the PCS and storage portal for Defense Department . . .
+personnel and their families” to use in setting up moves.
+https://www.militaryonesource.mil/resources/gov/defense-personal-property-system/ (last
+visited Aug. 7, 2024). After providing transportation services, TSPs use the DPS to submit
+their invoices to the responsible agencies.
+       2
+             “Syncada is a software package” that, “in conjunction with the Department of
+Defense (DOD) Global Freight Management (GFM)/Electronic Transportation Acquisition
+(ETA) Freight assignment software, . . . provides a virtually paperless transaction
+application that processes Commercial Bills of Lading (CBL) electronically.”
+https://www.uscg.mil/Portals/0/FINCEN/Documents/SyncadaCBLProcess2021.pdf (last
+CBCA 8051-RATE                                                                              3
+
+of each charge in an invoice. If any discrepancies are identified, the invoice is placed in an
+“audit exception” that requires manual intervention by the TSP or the shipping office. In this
+case, when JFC’s payment was processed through Syncada, the system identified the absence
+of a weight ticket associated with the invoice, resulting in the denial of the invoice on
+October 2, 2018.
+
+        In its submission to the Board, JFC acknowledges that, on or about October 2, 2018,
+a Navy representative “place[d] a note in Syncada” explaining the denial—the note read,
+“Additional Comments: Missing weight ticket verification”—but asserts that the
+representative “did not place a note in DPS, nor did she provide an email address for us to
+send the weight ticket to.” The Syncada denial provided no notice to JFC telling it of any
+appeal rights or explaining how an appeal process would work. Nevertheless, it clearly
+stated that payment on the invoice was “denied.”
+
+       The record before us does not identify exactly when JFC became aware of the denial
+in Syncada, but copies of internal company emails show that, by July 12, 2019, JFC’s
+accounting manager had transmitted the relevant weight ticket for the HHG shipment to
+JFC’s document management clerk, following email communications about the need for the
+document management clerk to submit it to the Navy. JFC has informed the Board that, as
+a matter of regular business, its employee routinely would have (and, as a result, must have)
+submitted the weight ticket to the Navy at that time. JFC indicates, however, that the
+document management clerk is no longer with the company and that JFC does not have
+access to her former email account. As a result, JFC has been unable to provide the Board
+with any evidence to show that the weight ticket was sent to the Navy or GSA at that time.
+Neither GSA nor the Navy has any record of having received the weight ticket in 2019.
+
+       The earliest evidence of the Government’s receipt of any response by JFC to the
+Syncada denial is from January 13, 2023, when JFC electronically added a comment to the
+denied Syncada record indicating that the company would send the weight ticket. At some
+point before August 22, 2023, JFC submitted the weight ticket and other documentation to
+GSA’s Office of Transportation and Property Management (the GSA Transportation Audits
+Division) and requested a decision on what it referenced as its claim.3 On January 22, 2024,
+
+
+visited Aug. 7, 2024). “The various carriers that are registered in Syncada then turn these
+CBL[s] into freight invoices.” Id.
+       3
+              The record does not contain a copy of JFC’s claim to the GSA Transportation
+Audits Division, but it is clear from the record that JFC submitted one sometime in 2023.
+JFC originally attempted to file this matter with the Board on August 22, 2023, but, pursuant
+to Rule 302(a) (48 CFR 6103.302(a) (2023)), the Clerk of the Board deferred docketing it
+CBCA 8051-RATE                                                                           4
+
+the GSA Transportation Audits Division denied the claim as barred under the three-year time
+limitation of section 3726, stating as follows:
+
+       As an allowance for transportation furnished the United States Government
+       under Document Reference Number CNNQ0515267, has been examined and
+       disallowed for the following reason(s):
+
+       Your bill in the amount [of $14,595.69] was received on the date indicated on
+       the public voucher. In accordance with the provisions of section 332 of the
+       Transportation Act of 1940, as amended (31 U.S.C[.] 244), every claim
+       cognizable by the General Services Administration for charges for
+       transportation within the purview of this section is forever barred unless the
+       claim is received by the General Services Administration, or its designee (the
+       agency out of whose activities the claim arose), within 3 years from the date
+       of
+
+        (1)   Accrual of the cause of action thereon, or
+        (2)   Payment of charges for the transportation involved[,] or
+        (3)   Subsequent refund for overpayment of charges, or
+        (4)   Deduction made pursuant to this section, whichever is later.
+
+       Since your claim was not received within the prescribed statutory period of
+       limitations, it cannot be given consideration[.] The claim, together with all
+       papers transmitted therewith, is returned. . . .
+
+       Time Barred Denial
+       Direct Claim
+
+       On March 19, 2024, JFC submitted to the Board its request for review of the GSA
+Transportation Audits Division’s denial of the claim. GSA responded on March 28, 2024,
+arguing that JFC’s claim was time-barred under 31 U.S.C. § 3726(c)(2)(A), and the Navy
+submitted its own response on March 29, 2024, agreeing with GSA’s position. After JFC
+submitted a reply, the Board issued an order on May 3, 2024, requesting supplemental
+briefing to help it better understand the Syncada invoice submission and denial process and
+
+
+
+because JFC did not identify the GSA Transportation Audits Division claim number. The
+Clerk referred JFC to the GSA Transportation Audits Division website. In its decision dated
+January 22, 2024, the GSA Transportation Audits Division represents that JFC submitted a
+claim but does not indicate when JFC submitted it.
+CBCA 8051-RATE                                                                                5
+
+the statutory basis of GSA’s and the Navy’s untimeliness argument. After receiving the
+parties’ supplemental briefing, the Board conducted a “virtual” conference on June 4, 2024,
+during which the parties further explained their positions.
+
+                                          Discussion
+
+I.     JFC’s Request for Review
+
+        Pursuant to 31 U.S.C. § 3726(i)(1), a TSP may ask that the Board review a decision
+of the GSA Transportation Audits Division denying a claim for payment.4 JFC has requested
+such a review, and it did so within six months after receiving the GSA Transportation Audits
+Division’s decision, as required by section 3726(i)(1).
+
+II.    Rules Regarding Timeliness of Transportation Claims
+
+        There is no dispute that JFC provided HHG delivery services, that JFC timely
+submitted an invoice to the Navy for those services, and that, in October 2018, the Navy
+denied payment on that invoice because it was unsupported by weight tickets. When JFC
+submitted its claim challenging non-payment in 2023, GSA denied it solely because it was
+not timely. Accordingly, the only issue before us is timeliness. “The burden is on the
+claimant to present evidence of receipt of a claim in the proper office within the statutory
+period of limitations.” Tri-State Motor Transport Co., B-256411, et al., 1995 WL 322417,
+at *2 (Comp. Gen. May 30, 1995); see Cinco Star Forwarding, GSBCA 16865-RATE, 2006
+WL 2831129 (Sept. 29, 2006); Rule 301(b) (48 CFR 6103.301(b) (2023)).
+
+       Timeliness of transportation claims is governed by section 3726. Inter-Coastal
+Xpress, Inc. v. United States, 296 F.3d 1357, 1367-69 (Fed. Cir. 2002). Section 3726
+authorizes GSA to “adjudicate transportation claims which cannot be resolved by the agency
+procuring the transportation services, or the carrier or freight-forwarder presenting the bill.”
+31 U.S.C. § 3726(c)(1). The statute provides that GSA can allow a claim only if the GSA
+Transportation Audits Division (or, pursuant to the regulation implementing this section, the
+agency that provided the services) receives it “not later than 3 years” from the latest of the
+following four dates:
+
+
+
+       4
+              The statute provides for review by the Administrator of General Services of the
+GSA Transportation Audits Division’s decision, but the Administrator has redelegated that
+function to the Board. See 31 U.S.C. § 3726(g) (authorizing such delegation); 41 CFR
+102-118.490(b); 48 CFR 6103.301(a); GSA Order ADM 5440.1 ch. 19 (Apr. 5, 2022) at 1.c.
+CBCA 8051-RATE                                                                                6
+
+       (A)    The date of accrual of the claim.
+       (B)    The date payment for the transportation is made.
+       (C)    The date a refund for an overpayment for the transportation is made.
+       (D)    The date a deduction under subsection (d) of this section is made.
+
+Id. § 3726(c)(2); see 41 CFR 102-118.470 (“[A]n administrative claim must be received by
+the GSA Transportation Audits Division or its designee (the agency where the claim arose)
+within 3 years” of the dates identified in section 3726(c)(2)). By regulation, a “claim”
+involves a request for payment of (1) “[a]mounts owed but not included in the original
+billing”; (2) “[a]mounts deducted or set off by an agency that are disputed by the TSP”;
+(3) “[r]equests by a TSP for amounts previously refunded in error by that TSP”; and/or
+(4) “[u]npaid original bills requiring direct settlement by GSA, including those subject to
+doubt about the suitability of payment.” 41 CFR 102-118.450.5
+
+        Most of the timeliness issues previously considered by the Board and its predecessors
+(the General Services Board of Contract Appeals (GSBCA) and the General Accounting
+Office (now the Government Accountability Office (GAO))) in deciding transportation
+claims were brought by TSPs that had failed to submit any invoice for payment within three
+years after completing their delivery services. Typically, “[a] claim for freight charges
+accrues when the shipment is delivered.” Peralta Shipping Corp., B-197661, 1980 WL
+16562, at *2 (Comp. Gen. May 22, 1980) (citing Baggett Transportation Co. v. United
+States, 319 F.2d 864, 868 (Ct. Cl. 1963)); see Southern Railway System, 51 Comp. Gen. 201,
+203 (1971) (“A cause of action for transportation charges against the United States accrues
+upon the completion of the transportation service, that is, the date of delivery to the
+consignee, and the statute of limitations begins to run from that date.”). Accordingly, it has
+routinely been held that, when a TSP fails to submit its initial invoice for payment to the
+appropriate government office within three years after completing delivery, its claim for
+
+
+       5
+                The regulations covering transportation claims contain a second definition of
+the term “claim,” defining it as “[a]ny demand by the TSP for amounts not included in the
+original bill that the TSP believes an agency owes them.” 41 CFR 102-118.35(2). Although,
+on its face, amounts that actually were included in the original bill but not paid would seem
+to fall outside of this definition, it goes on to provide that “[t]his includes amounts deducted
+or offset by an agency; amounts previously refunded by the TSP, which is believed to be
+owed; and any subsequent bills from the TSP resulting from a transaction that was
+prepayment or postpayment audited by the GSA Transportation Audits Division.” Id.
+Because section 102-118.450 plainly allows a TSP to submit a claim for payment of a
+disputed unpaid original bill, we need not attempt to decipher how this second regulatory
+definition applies to the situation before us.
+CBCA 8051-RATE                                                                              7
+
+payment is time-barred. See, e.g., Cinco Star Forwarding, 2006 WL 2831129; Apollo Van
+Lines, Inc., GSBCA 16074-RATE, 03-2 BCA ¶ 32,330, at 159,952; North American Van
+Lines, Inc., GSBCA 15941-RATE, 03-1 BCA ¶ 32,221, at 159,347-48; American Stitching
+& Box, Inc., GSBCA 14615-RATE, 99-1 BCA ¶ 30,369, at 150,141; Peralta Shipping, 1980
+WL 16562, at *2; Sea-Land Service, Inc., B-178546, 1973 WL 7774, at *2 (Comp. Gen.
+June 14, 1973); Southern Railway, 51 Comp. Gen. at 203. Where a claim is untimely
+submitted, “neither the GSA nor the Board has the authority to allow payment.” American
+Stitching & Box, Inc., 99-1 BCA at 150,141. It matters not that there is “no question that the
+[agency] received the moving services.” Id. at 150,140.
+
+       The situation before us is different. Here, JFC timely submitted its invoice for
+payment in September 2018, less than three months after its delivery of the HHG at issue.
+Accordingly, JFC met the initial time limit for submitting its request for payment.
+Subsequently, however, the Navy denied payment through Syncada as part of a prepayment
+audit required both by statute, 31 U.S.C. § 3726(a)(1), and by regulation, 41 CFR part
+102-188.
+
+        In a prepayment audit, an agency conducts a thorough review “of transportation
+billing documents before payment [to the TSP] to determine their validity, propriety, and
+conformity of rates with tariffs, quotations, agreements, contracts, or tenders.” 41 CFR
+102-118.35. If, as a result of the audit, the agency makes any adjustment to the TSP bill, the
+“agency must notify the TSP of [the] adjustment to the TSP bill either electronically or in
+writing within seven calendar days of the agency receipt of the bill.” Id. 102-118.290(a).
+By regulation, the notice must include the following information: “(1) TSP’s bill number;
+(2) Agency name; (3) TSP’s [Taxpayer Identification Number]; (4) [TSP’s Standard Carrier
+Alpha Code (SCAC)]; (5) [Document Reference Number (DRN) from the bill of lading];
+(6) Date invoice submitted; (7) Amount billed; (8) Date invoice was approved for payment;
+(9) Date and amount agency paid; (10) Payment location number and agency organization
+name; (11) Payment voucher number; (12) Complete contract, tender or tariff authority,
+including item or section number; (13) Reason for the adjustment; and (14) Complete
+information on the agency appeal process.” Id. 102-118.290(b). Once the TSP receives the
+notice of adjustment, it “must submit claims to the agency within three years under the
+guidelines established in subpart F, Claims and Appeals Procedures, [41 CFR 102-118.450
+to .675].” Id. 102-118.290(c).
+
+        GSA and the Navy tell us that, although JFC’s timely submission of its original
+invoice satisfied the original claim accrual deadline, the Syncada payment denial in October
+2018 started a new accrual deadline that JFC had three years to satisfy. Because JFC did not
+submit a claim to either the Navy or GSA challenging the Syncada payment denial within
+that three-year period, the agencies argue, JFC’s claim here is time-barred.
+CBCA 8051-RATE                                                                               8
+
+III.   Timeliness of JFC’s Claim
+
+       A.     JFC’s Alleged Timely Invoice Resubmission
+
+        As an initial matter, JFC suggests that it is not necessary to decide whether a new
+three-year limitations period began to run in October 2018 because, even if it did, JFC should
+be presumed to have met that deadline. JFC has produced an internal company email chain
+from July 2019 in which its accounting manager and its document management clerk were
+communicating about the need to submit the weight tickets to the Navy. JFC asserts that it
+would have been illogical for its clerk not to have resubmitted the invoice with weight tickets
+at that time. Yet, there is no actual evidence in the record that anyone from JFC ever
+contacted either the Navy or GSA at any time before January 2023 about the denied invoice,
+much less actually resubmitted it with weight tickets. JFC’s factual assertion is supported
+only by speculation and supposition. The GSBCA considered a similar situation in Apollo
+Van Lines, Inc., 03-2 BCA ¶ 32,330, where a TSP, while asserting that it had timely
+submitted invoices to the agency, was unable to produce any contemporaneous evidence of
+submission or receipt. See id. at 159,952. The board recognized that it is the TSP’s burden
+to establish that GSA or the relevant agency received a claim within the period set out in the
+statute and that the absence of any definitive evidence showing timely submission precluded
+the TSP from meeting that burden. Id. Like the claimant in Apollo Van Lines, JFC has
+produced no evidence that any of its employees actually resubmitted the invoice in July 2019
+with weight tickets. JFC’s speculation that submission must have happened is insufficient
+to meet its burden.
+
+       B.     The Effect of the Navy’s Failure to Provide Notice of Appeal Rights
+
+        With regard to the agencies’ argument that the Syncada payment denial started a new
+three-year time limit for challenging the denial, we would, assuming that the agency’s notice
+of the payment denial satisfied all regulatory requirements, agree. The regulatory provision
+at 41 CFR 102-118.290(c) makes clear that, after receiving a notice that the agency will pay
+only a reduced amount from that which was billed or will pay no money at all, the TSP has
+three years from the date of receipt to “submit claims to the agency . . . under the guidelines
+established in subpart F” of 41 CFR part 102-118. Under subpart F, a TSP may submit a
+“claim” challenging “[u]npaid original bills requiring direct settlement by GSA, including
+those subject to doubt about the suitability of payment.” 41 CFR 102-118.450. If the agency
+questions whether an invoice should be paid, it is “subject to doubt,” and the agency must
+obtain GSA’s approval before making payment. Rosemarie E. Naguski, B-212335, 1984 WL
+43950, at *3 (Comp. Gen. Feb. 28, 1984). In line with 41 CFR 102-118.470, claims “must
+be received by the GSA Transportation Audits Division or its designee (the agency where the
+claim arose) within 3 years” of the date of accrual. We agree with GSA and the Navy that
+CBCA 8051-RATE                                                                               9
+
+a TSP has three years from the date that it receives proper notice of the payment denial to
+submit a claim challenging it.
+
+        In this case, however, there is a problem with the notice that JFC received: it did not
+satisfy all of the regulatory requirements for a denial. By regulation, each agency’s
+prepayment audit program is required to include “[a]n appeals process . . . for a TSP to
+appeal any reduction in the amount billed.” 41 CFR 102-118.285(k); see id. 102-118.295
+(similarly requiring agency establishment of appeals process). Each agency is encouraged
+to “establish an electronic appeal process that will direct TSP-filed appeals to an agency
+official for determination of the claim,” and the “agency must complete the review of the
+appeal and inform the TSP of the agency determination within 30 calendar days of the receipt
+of the appeal, either electronically or in writing.” Id. 102-118.295. If the TSP elects to
+submit an appeal of the adjustment to the agency and the agency is subsequently “unable to
+resolve the disputed amount with the TSP, [the] agency must submit, within 30 calendar
+days, all relevant transportation documentation associated with the dispute, including a
+complete billing history and the appropriation or fund charged, to GSA Transportation Audits
+Division by email.” Id. 102-118.300.
+
+        Importantly for purposes of the matter before us, the regulations governing
+prepayment audit reviews require that, in the notice informing the TSP of a reduction in the
+invoiced payment amount, the agency must include (among other things) “[c]omplete
+information on the agency appeal process.” 41 CFR 102-118.290(b)(14). GSA added that
+requirement to the Federal Management Regulations (FMR) in 2016 through notice-and-
+comment rulemaking. 81 Fed. Reg. 65,296, 65,302 (Sept. 22, 2016). GSA’s stated reasons
+for revisions to the FMR included a need to implement the Travel and Transportation Reform
+Act of 1998, Pub. L. 105-264, which “established agency statutory requirements for
+prepayment audits of Federal agency and [Department of Defense (DoD)] transportation
+expenses,” and to “[s]trengthen[] agency requirements and responsibilities for transportation
+prepayment audits.” 81 Fed. Reg. at 65,296, 65,298.
+
+        The Syncada notice denying payment of JFC’s invoice, which serves as a “notice of
+adjustment” of the invoice down to zero, did not provide JFC with any notice of its appeal
+rights or information about how or when to appeal. Nor did the Navy provide any alternative
+notice of appeal rights outside of the Syncada denial.
+
+       In its original briefing to the Board, GSA did not mention this regulatory requirement.
+After the Board requested supplemental briefing following its review of GSA’s regulations,
+GSA explained that, unlike the the Contract Disputes Act (CDA), 41 U.S.C. §§ 7101–7109
+(2018), which requires that contracting officers include notices of appeal rights in final
+decisions on government contractor claims, “neither the Transportation Act (31 U.S.C.
+CBCA 8051-RATE                                                                                10
+
+§ 3726) nor 49 U.S.C. § 14705 require carriers to be notified explicitly of their appeal
+rights.” GSA’s Supplemental Brief at 2. While it may be true that there is no statutory
+notice requirement in the transportation statutes, GSA’s regulations require that agencies
+provide such notice, and “[i]t is well established that valid regulations have the force and
+effect of laws.” Shiflett v. United States Postal Service, 839 F.2d 669, 673 (Fed. Cir. 1988).
+In other contexts, the Court of Appeals for the Federal Circuit has routinely enforced
+regulations mandating notifications of appeal rights, even where the notice requirements are
+not set forth in an authorizing statute, and found that the agency’s failure to provide a
+required notice can delay the accrual of a claim. See, e.g., Ladrido v. Merit Systems
+Protection Board, 248 F. App’x 184, 186 (Fed. Cir. 2007) (“An agency’s failure to provide
+notice of appeal rights required by applicable regulations if serious enough can, by itself,
+constitute good cause for untimely filing of an appeal.”); Toyama v. Merit Systems Protection
+Board, 481 F.3d 1361, 1366-67 (Fed. Cir. 2007) (Under Equal Employment Opportunity
+Commission regulations relating to discrimination cases, agency’s failure to provide “the
+notice of appeal rights required by the regulations . . . constitutes good cause for a late
+filing.”); Shiflett, 839 F.2d at 674 (In the Merit Systems Protection Board context, “the
+failure of the respondent to give notice to petitioner of her appeal rights,” as required by
+regulation, “constituted good cause for the late filing by petitioner of her appeal.”).
+
+       GSA represents that the absence of an appeal rights notification to JFC is not unusual
+because TSPs receiving “[i]ndividual denials” of their invoices for transportation services
+“are not generally provided notice of the appeals process” by the agencies that pay (or decline
+to pay) their invoices. GSA’s Supplemental Brief at 2-3. Yet, “[a]n agency must follow all
+applicable procedures.” Shiflett, 839 F.2d at 674. Even if agencies routinely ignore the
+requirements of 41 CFR 102-118.290(b), they do so at their own risk. Requirements that
+agencies include notices of appeal rights in decisions that they issue are for the benefit and
+protection of the recipients. See, e.g., Decker & Co. v. West, 76 F.3d 1573, 1579 (Fed. Cir.
+1996); Steith Construction, Inc., NASA BCA 44-0291, 91-3 BCA ¶ 24,140, at 120,795;
+M.G.C. Co., DOT CAB 1553, 85-1 BCA ¶ 17,777, at 88,782 (1984). At least in the context
+of the CDA, which contains an appeal rights notification obligation that seems comparable
+to the one in 41 CFR 102-118.290(b)(14), an agency “decision that does not give the
+[recipient] adequate notice of its appeal rights is defective” and can preclude the
+commencement of the limitations period. Pathman Construction Co. v. United States, 817
+F.2d 1573, 1578 (Fed. Cir. 1987).
+
+       C.     Lack of Prejudice to JFC
+
+        That being said, “[t]he failure to include a notice of appeal rights does not prevent the
+start of the appeal period unless the [recipient] demonstrates that it was actually prejudiced
+by the lack of notice.” Parsons Government Services, Inc., ASBCA 62113, 20-1 BCA
+CBCA 8051-RATE                                                                                11
+
+¶ 37,586, at 182,509 (citing Decker & Co., 76 F.3d at 1580); see Wise Developments, LLC
+v. General Services Administration, CBCA 6659, 21-1 BCA ¶ 37,774, at 183,350 (“[T]he
+contractor must show prejudice from, or detrimental reliance upon, the absence of a proper
+appeal rights notice.”). Prejudice requires injury or damage, “with at least a showing
+of . . . some reasonable possibility that the outcome would have been different had [the
+contractor] received notice.” Wise Developments, 21-1 BCA at 183,351 (quoting Old
+Republic Insurance Co. v. Underwriters Safety & Claims, Inc., 306 F. App’x 250, 255
+(6th Cir. 2009)). “We will not presume ‘prejudice or [detrimental] reliance by virtue of the
+late filing alone.’” Id. (quoting Shafi Nasimi Construction & Logistics Co., ASBCA 59916,
+16-1 BCA ¶ 36,215).
+
+        GSA asserts that JFC could not have been adversely affected by the lack of notice
+because “any prudent person would [have] . . . contact[ed] the PPSO” after getting the
+Syncada denial, which JFC did not, and because “[t]he appeal process is clearly identified
+in 41 CFR § 102-118.” GSA’s Supplemental Brief at 3. “Yet, were we to find that the
+Government can escape a finding of prejudice every time it fails to include a notification of
+appeal rights in a final decision, simply because [a statute or regulation] identifies the
+contractor’s right, it would essentially eradicate the [agency’s] obligation under [the
+regulation] ever to provide such notice.” Wise Developments, 21-1 BCA at 183,350. As
+mentioned previously, one of the reasons for the 2016 amendment adding a requirement for
+a notice of appeal rights was to “[s]trengthen[] agency . . . responsibilities for transportation
+prepayment audits.” 81 Fed. Reg. at 65298. If we were to “adopt a standard of constructive
+notice that completely absolves the [agency] from ever having to meet [its] notice
+obligations,” Wise Developments, 21-1 BCA at 183,351, the 2016 regulatory amendments
+adding a requirement for notice would have no purpose. Agencies must be held accountable
+for failing to meet regulatory obligations.
+
+        GSA also references its Transportation Audits Management System (TAMS), which
+became effective on September 28, 2020, through which federal agencies and TSPs now
+manage their accounts, as providing information about appeals. GSA asserts that JFC created
+an account in the system on April 17, 2020, and that the “robust user guide” available
+through that site “provides step-by-step instructions . . . on submitting a claim to GSA,”
+meaning that JFC had information about its appeal rights no later than that date. GSA’s
+Supplemental Brief at 3. It is true that, when the agency fails to include a required notice of
+appeal rights in a decision, “a dismissal based on untimeliness may [still] be proper if the
+[recipient] fails to act promptly and within the allowable time limits after [it] becomes aware
+of those rights.” Ratcliff v. Merit Systems Protection Board, 55 F. App’x 942, 943 (Fed. Cir.
+2003). Here, though, the literature to which GSA has pointed describes the TAMS as an
+accounting system “that identifies and recovers [TSP] overcharges and other debts relating
+to transportation bills [previously] paid by federal agencies.” TAMS External User Training
+CBCA 8051-RATE                                                                             12
+
+Guide (Apr. 3, 2024) ¶ 1.1 at 4-5 (available at https://www.tams.gsa.gov/login (last visited
+Aug. 7, 2024)). In this case, the agency never paid JFS anything, so there is no overpayment
+for the agency to collect, making it appear that TAMS does not apply to the situation before
+us. To the extent that the referenced literature makes any reference to prepayment audits, it
+says nothing about appeal processes or a three-year time limit for submitting an appeal. The
+TAMS literature does not assist GSA.
+
+        Despite our rejection of GSA’s arguments regarding an alleged lack of prejudice, a
+review of the record here makes clear that it was not the absence of a notice of appeal rights
+that stopped JFC from timely submitting an appeal. As JFC acknowledges in its submissions,
+the invoice at issue simply got lost in JFC’s accounting records. Outside of the July 2019
+time frame when two JFC employees discussed the need to submit the weight tickets, it
+appears that JFC simply did not maintain records in which it could easily see that it had not
+been paid for this invoice before its current accountant discovered it in January 2023. As
+previously noted, to establish prejudice, JFC must show “some reasonable possibility that the
+outcome would have been different had it received notice.” Wise Developments, 21-1 BCA
+at 183,351. The record here demonstrates that it was not the lack of an appeal rights notice
+that stopped JFC from timely submitting a claim on its invoice payment denial but instead
+faulty recordkeeping and a failure to keep track of unpaid bills. Even had the Navy provided
+an appeal rights notice in October 2018, JFC still would not have recognized the invoice
+nonpayment within the three-year limitations period. It still would have lost this invoice in
+its accounting system, and it still would not have rediscovered the invoice until four-and-a-
+half years after the Syncada denial. Because we cannot find that JFC would timely have
+submitted its challenge to the invoice denial had the Navy provided it with a notice of appeal
+rights, we have no basis for finding prejudice to JFC from its absence. Accordingly, JFC
+cannot overcome the untimeliness of its claim.
+
+        With regard to JFC’s argument that, had the Navy timely provided it with notice of
+its appeal rights, it would have known where to send the missing weight tickets and could
+have taken immediate action to deal with it, a notice of appeal rights would not have
+provided that information. The missing notice would only have explained the agency’s
+appeal process for challenging denied invoices, which GSA and the Navy tell us involved
+going to the Navy’s PPSO through the same system that JFC eventually used to resubmit its
+invoice in 2023. The rules regarding the requirements for submission of weight tickets were
+contained in the DTR, with which JFC, as a TSP, was responsible for complying. See DTR
+pt. IV, app. A-A ¶¶ B.2.e, B.4.b(2)(b). The Navy was not required in an appeal rights notice
+to explain to JFC where to find those rules or how to fix defects in its invoice. Because an
+appeal rights notice would not have provided JFC with the information that it suggests would
+have encouraged it quickly to submit the missing weight tickets, this argument does not
+provide a basis for finding prejudice.
+CBCA 8051-RATE                                                                               13
+
+       D.     JFC’s Request Based on Equity
+
+         JFC also asks that we forgive its failure timely to submit its claim, suggests that any
+failure to submit was not intentional, and asserts that the loss of any payment for the work
+that it indisputably performed would be unfair to JFC and a windfall to the agency. We lack
+authority to excuse untimeliness based upon equitable considerations. See Arpin
+International Group, GSBCA 16471-RATE, 04-2 BCA ¶ 32,795, at 162,211 (“We have no
+authority to consider matters relating to payment for transportation services which were not
+previously presented in a timely fashion to GSA in the form of claims.”).
+
+                                           Decision
+
+       For the foregoing reasons, JFC’s claim is denied.
+
+
+                                                      Harold D. Lester, Jr.
+                                                   HAROLD D. LESTER, JR.
+                                                   Board Judge
+

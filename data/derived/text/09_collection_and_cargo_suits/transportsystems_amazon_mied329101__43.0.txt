@@ -1,0 +1,383 @@
+                     UNITED STATES DISTRICT COURT
+                     EASTERN DISTRICT OF MICHIGAN
+                          SOUTHERN DIVISION
+
+TRANSPORT SYSTEMS, LLC,
+            Plaintiff,                      Case No. 18-CV-11286
+vs.                                         HON. GEORGE CARAM STEEH
+
+AMAZON,
+            Defendant.
+__________________________/
+               ORDER GRANTING DEFENDANT’S MOTION
+                 FOR SUMMARY JUDGMENT (Doc. 35)
+
+      Plaintiff Transport Systems filed this diversity action for breach of
+
+contract, claim and delivery, conversion, and unjust enrichment under
+
+Michigan law against Defendant Amazon relating to an allegedly lost trailer.
+
+Defendant’s motion for summary judgment is now before the court.
+
+Because Plaintiff lacks standing, Defendant’s motion for summary
+
+judgment shall be GRANTED.
+
+                           I. Factual Background
+      Plaintiff is a motor carrier company that owns approximately 130
+
+trailers and approximately 30 cabs. (Doc. 38, Ex. A at PgID 366).
+
+Transport Systems is a company wholly owned by Ali Saleh and his wife.
+
+(Doc. 38, Ex. A at PgID 367). Ali Saleh is also the sole owner of Sure
+
+Express, LLC (“Sure Express”). (Doc. 38, Ex. D at PgID 400).
+                                      -1-
+      Plaintiff brought this suit against Defendant arising out of the alleged
+
+loss of a 2016 Vanguard trailer (VIN 5V7VC5326GM607804) which it
+
+identifies as trailer No. 4029 (the “Trailer”). It is undisputed that Plaintiff
+
+does not own the Trailer in question. (Doc. 38, Ex. A at PgID 378). The
+
+title holder is Sure Express. (Doc. 35-1, Ex. B at PgID 277). Ali Saleh
+
+acknowledged this fact at his deposition. (Doc. 38, Ex. A at PgID 378).
+
+During that deposition, Mr. Saleh testified that Plaintiff entered into a lease
+
+agreement for the Trailer but neither that lease nor any other agreement
+
+was ever produced during discovery. Further, no evidence of monthly
+
+payments or other forms of reliance were produced nor any evidence that
+
+Plaintiff paid for the use, maintenance, or repair of the Trailer. (Doc. 38,
+
+Ex. A at PgID 380). Sure Express is not a party to this action.
+
+      According to the scheduling order, Plaintiff had until October 31, 2018
+
+to file a motion for leave to amend the complaint to substitute the correct
+
+party plaintiff, Sure Express. (Doc. 15). Plaintiff failed to comply with the
+
+filing deadline. (Doc. 41, PgID 424). On February 28, 2019, Defendant
+
+filed a motion for summary judgment arguing in part that Plaintiff had no
+
+standing to sue because it did not own the Trailer in question. (Doc. 35).
+
+Plaintiff waited an additional two weeks before finally filing a motion for
+
+leave to amend on March 19, 2019, without including a reason for the
+
+
+                                       -2-
+delay. (Doc. 41, PgID 424). Magistrate Judge Patti denied Plaintiff’s
+
+untimely motion to amend, noting, the “determination of the proper entity
+
+plaintiff was not difficult and should have been made before this lawsuit
+
+was filed.” (Doc. 41, PgID 424). Magistrate Judge Patti allowed Plaintiff
+
+the opportunity to file additional briefing in opposition to Defendant’s motion
+
+for summary judgment, but Plaintiff failed to do so. (Doc. 42, PgID 426).
+
+                             II. Standard of Law
+      Federal Rule of Civil Procedure 56(c) empowers the court to render
+
+summary judgment "forthwith if the pleadings, depositions, answers to
+
+interrogatories and admissions on file, together with the affidavits, if any,
+
+show that there is no genuine issue as to any material fact and that the
+
+moving party is entitled to judgment as a matter of law." See Redding v. St.
+
+Eward, 241 F.3d 530, 532 (6th Cir. 2001). The Supreme Court has
+
+affirmed the court's use of summary judgment as an integral part of the fair
+
+and efficient administration of justice. The procedure is not a disfavored
+
+procedural shortcut. Celotex Corp. v. Catrett, 477 U.S. 317, 327 (1986);
+
+see also Cox v. Kentucky Dep’t of Transp., 53 F.3d 146, 149 (6th Cir.
+
+1995).
+
+      The standard for determining whether summary judgment is
+
+appropriate is "'whether the evidence presents a sufficient disagreement to
+
+
+                                      -3-
+require submission to a jury or whether it is so one-sided that one party
+
+must prevail as a matter of law.'" Amway Distributors Benefits Ass’n v.
+
+Northfield Ins. Co., 323 F.3d 386, 390 (6th Cir. 2003) (quoting Anderson v.
+
+Liberty Lobby, Inc., 477 U.S. 242, 251-52 (1986)). The evidence and all
+
+reasonable inferences must be construed in the light most favorable to the
+
+non-moving party. Tolan v. Cotton, 572 U.S. 650, 660 (2014); Matsushita
+
+Elec. Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 587 (1986).
+
+"[T]he mere existence of some alleged factual dispute between the parties
+
+will not defeat an otherwise properly supported motion for summary
+
+judgment; the requirement is that there be no genuine issue of material
+
+fact." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247-48 (1986)
+
+(emphasis in original); see also National Satellite Sports, Inc. v. Eliadis,
+
+Inc., 253 F.3d 900, 907 (6th Cir. 2001).
+
+      If the movant establishes by use of the material specified in Rule
+
+56(c) that there is no genuine issue of material fact and that it is entitled to
+
+judgment as a matter of law, the opposing party must come forward with
+
+"specific facts showing that there is a genuine issue for trial." First Nat'l
+
+Bank v. Cities Serv. Co., 391 U.S. 253, 270 (1968); see also McLean v.
+
+988011 Ontario, Ltd., 224 F.3d 797, 800 (6th Cir. 2000). Mere allegations
+
+or denials in the non-movant's pleadings will not meet this burden, nor will
+
+
+                                      -4-
+a mere scintilla of evidence supporting the non-moving party. Anderson,
+
+477 U.S. at 248, 252. Rather, there must be evidence on which a jury
+
+could reasonably find for the non-movant. McLean, 224 F.3d at 800 (citing
+
+Anderson, 477 U.S. at 252).
+
+                                 III. Analysis
+A.    Breach of Contract Claim
+
+      Count II alleges breach of contract. Defendant argues it cannot be
+
+liable for breach of contract because the parties are not now, and never
+
+have been, parties to any contract or written agreement with each other
+
+regarding the transportation of Defendant’s goods. Plaintiff conceded this
+
+issue in its responses to Defendant’s first set of “Requests for Admission,”
+
+and further waived the issue in its response to Defendant’s motion for
+
+summary judgment. (Doc. 38, PgID 353). Accordingly, Count II shall be
+
+dismissed.
+
+B.    Article III Standing
+
+      The other three claims for claim and delivery, conversion, and unjust
+
+enrichment (Counts I, III, IV) remain. Defendant argues that it is entitled to
+
+summary judgment on these claims based on Plaintiff’s lack of standing to
+
+sue. It is undisputed that Plaintiff does not own the Trailer. “When
+
+jurisdiction is premised on diversity of citizenship, a plaintiff must have
+
+
+                                      -5-
+standing under both Article III and state law in order to maintain a cause of
+
+action.” Morell v. Star Taxi, 343 F. App'x 54, 57 (6th Cir. 2009).
+
+      Article III standing requires three elements. The three constitutional
+
+requirements for standing are “(1) an injury in fact; (2) a causal connection
+
+between the injury and the conduct complained of; and (3) that the injury
+
+will likely be redressed by a favorable decision.” Barnes v. City of
+
+Cincinnati, 401 F.3d 729, 739 (6th Cir. 2005) (citing Lujan v. Defenders of
+
+Wildlife, 504 U.S. 555, 560–61 (1992)). The first element requires that the
+
+plaintiff must have suffered an injury arising from the “invasion of a legally
+
+protected interest.” Macy v. GC Servs. Ltd. P’ship, 897 F.3d 747, 752 (6th
+
+Cir. 2018) (quoting Lujan, 504 U.S. at 560). In addition, a plaintiff must also
+
+satisfy three prudential standing requirements. City of Cleveland v. Ohio,
+
+508 F.3d 827, 835 (6th Cir. 2007). Significantly, the first of those factors
+
+requires that a plaintiff must “assert [its] own legal rights and interests, and
+
+cannot rest [its] claim to relief on the legal rights or interests of third
+
+parties.” Warth v. Seldin, 422 U.S. 490, 499 (1975) (internal citations
+
+omitted). “These additional restrictions enforce the principle that, ‘as a
+
+prudential matter, the plaintiff must be a proper proponent, and the action a
+
+proper vehicle, to vindicate the rights asserted.’” Coal Operators &
+
+Assocs., Inc. v. Babbitt, 291 F.3d 912, 916 (6th Cir. 2002) (quoting Pestrak
+
+
+                                        -6-
+v. Ohio Elections Comm'n, 926 F.2d 573, 576 (6th Cir. 1991)). Here,
+
+Plaintiff has failed to show a legally protected interest in the Trailer; thus, it
+
+fails to satisfy the first prong of the Lujan test.
+
+      Defendant argues that Plaintiff’s claims for conversion, claim and
+
+delivery, and unjust enrichment all require an ownership interest in the
+
+property, which is lacking here. (Doc. 35, PgID 266). In response, Plaintiff
+
+argues that it has an equitable interest in the Trailer because it paid for the
+
+use, maintenance, and repair of the Trailer. (Doc. 38, PgID 355-56).
+
+Despite repeated assertions, however, Plaintiff provided no documentary
+
+evidence that it did indeed make any payments on the Trailer.
+
+      Plaintiff relies on Aroma Wines & Equip., Inc. v. Columbian Distrib.
+
+Servs., Inc., 497 Mich. 337 (Mich. 2015), for the proposition that it has
+
+standing based on its alleged equitable interest in the Trailer. However, in
+
+that case, there was no question that the plaintiff importer and distributor
+
+was the rightful owner of the wine that the defendant was alleged to have
+
+converted by failing to store it in a climate-controlled environment. Id. at
+
+340-41. That case held that conversion includes “any distinct act of
+
+dominion wrongfully exerted over another’s personal property.” Id. at 351-
+
+52. Here, unlike the conversion at issue in Aroma Wines, Plaintiff has not
+
+put forth any evidence that the Trailer was its personal property.
+
+
+                                        -7-
+      Black’s Law Dictionary defines personal property as, “[a]ny movable
+
+or intangible thing that is subject to ownership and not classified as real
+
+property.” Personal Property, Black’s Law Dictionary (11th ed. 2019).
+
+Delving further, ownership is defined by Black’s Law Dictionary as, “[t]he
+
+bundle of rights allowing one to use, manage, and enjoy property, including
+
+the right to convey it to others,” and “[ownership] implies the right to
+
+possess a thing, regardless of any actual or constructive control.”
+
+Ownership, Black’s Law Dictionary (11th ed. 2019). Based on these
+
+definitions, Plaintiff does not enjoy ownership of the Trailer.
+
+      Plaintiff’s citations to other case law and Michigan statutes, are also
+
+unpersuasive. Plaintiff relies on Batton-Jajuga v. Farm Bureau Gen. Ins.
+
+Co. of Mich., 322 Mich. App. 422, 425 (2017), which recognized that a land
+
+vendee who had executed and made payments on a land contract became
+
+an equitable owner. Unlike the facts of that case, Plaintiff had no interest in
+
+Sure Express and provided no evidence of an agreement. Ali Saleh, who
+
+is not the Plaintiff, owned the interest in Sure Express. (Doc. 35-1, Ex. B at
+
+PgID 277).
+
+      Plaintiff also relies on several statutes addressing equitable
+
+ownership interests. For example, Plaintiff relies on (1) M.C.L. §
+
+600.2932(5), which governs the determination of land benefits, (2) M.C.L. §
+
+
+                                      -8-
+324.80103(i), a definitions page under the Natural Resources and
+
+Environmental Protection Act, and (3) M.C.L. § 440.8510, a provision of
+
+Michigan’s Uniform Commercial Code. Although these statutes recognize
+
+that ownership interests may be equitable in nature, they are of no help to
+
+Plaintiff here, as it has come forward with no evidence to suggest that it has
+
+an equitable interest in the subject Trailer. The final two provisions Plaintiff
+
+cites, (1) M.C.L. § 257.1302, a definitions page of the Motor Vehicle
+
+Service & Repair Act, and (2) M.C.L. § 554.1012, the definitions page of
+
+the Michigan Uniform Commercial Real Estate Receivership Act, do not
+
+even include subsections that identify the term “equitable interest” or an
+
+obvious equivalent. In sum, none of the statutes Plaintiff relies upon are
+
+sufficient to establish Article III standing as to its claims for claim and
+
+delivery, conversion, or unjust enrichment as it lacks an ownership interest,
+
+equitable or otherwise, in the subject Trailer.
+
+                                IV. Conclusion
+     Because Plaintiff lacks standing, Defendant’s motion for summary
+
+judgment (Doc. 35) is GRANTED.
+
+Dated: August 6, 2019
+                                      s/George Caram Steeh
+                                      GEORGE CARAM STEEH
+                                      UNITED STATES DISTRICT JUDGE
+
+
+
+                                       -9-
+               CERTIFICATE OF SERVICE
+
+Copies of this Order were served upon attorneys of record on
+     August 6, 2019, by electronic and/or ordinary mail.
+
+                   s/Marcia Beauchemin
+                       Deputy Clerk
+
+
+
+
+                          - 10 -
+

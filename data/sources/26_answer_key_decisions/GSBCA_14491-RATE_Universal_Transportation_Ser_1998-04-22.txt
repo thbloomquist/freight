@@ -1,0 +1,205 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+ 
+                                                 
+ 
+                             April 22, 1998
+                                                 
+ 
+ 
+                            GSBCA 14491-RATE
+ 
+ 
+          In the Matter of UNIVERSAL TRANSPORTATION & SERVICES
+ 
+ 
+        Judi  G. Mohundro  of Universal  Transportation &  Services,
+   Hardy, AR, appearing for Claimant.
+ 
+        Jeffrey  J.  Thurston,  Director, Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Colonel James F. Quinn,  Staff Judge Advocate, Headquarters,
+   Military  Traffic  Management Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   DANIELS, Board Judge (Chairman).
+ 
+        On  October 7,  1992, the  Department of  the Navy  issued a
+   Government bill  of lading  (GBL) to  Universal Transportation  &
+   Services  (UTS), requiring UTS  to pick  up a  60,000-pound, two-
+   piece hub assembly  from Bird Johnson in  Walpole, Massachusetts,
+   on  October 9  and  deliver it  to a  Navy  facility in  Norfolk,
+   Virginia.  Although the GBL does not state a delivery date, it is
+   marked "emergency," and  UTS says without contravention  that the
+   assembly was "to be delivered . . . the following day in order to
+   make a ship."   There does not appear to be any question that UTS
+   delivered  the  goods in  accordance  with this  direction.   The
+   question before us is how much the  company should have been paid
+   for its services.
+ 
+        UTS explains, "At  that time (and also at  present) the only
+   tenders that my company has  offered to the Department of Defense
+   [DoD] are for that of air freight services, as we are an indirect
+   air carrier  (air freight forwarder,  if you will).  . . .   [W]e
+   have never  held our company out to the  public as a motor common
+   carrier."   UTS had given  DoD a Uniform  Tender of Rates  and/or
+   Charges  for Transportation Services which is clearly marked "Air
+   Freight Forwarder."   Under the version of that  tender which was
+   in effect  in October 1992,  the rate for shipping  60,000 pounds
+   from  Massachusetts to  Virginia,  door  to  door,  by  "priority
+   overnight  service" (overnight  delivery  by  the  next  business
+   morning),  was $39,498.   UTS  billed,  and the  Navy paid,  this
+   amount.
+ 
+ 
+        Nearly   three   years    later,   the   General    Services
+   Administration's Office  of Transportation  Audits (GSA)  audited
+   this  transaction and determined  that DoD  should have  paid UTS
+   only $2,035 for  transporting the hub  assembly.  GSA  explained,
+   "[T]his  shipment   moved via  motor carrier, and  is, therefore,
+   subject  to motor carrier rates and  charges.  Since [UTS] has no
+   operating  authority  as   a  motor  carrier,  rates   for  motor
+   transportation  were applied from  another carrier's tariff  on a
+   quantum  meruit[foot #] 1   basis."     UTS   objects  to   GSA's
+   reasoning  and  its conclusion.    UTS  does  not deny  that  the
+   shipment  moved  solely by  motor  carrier.   According  to  UTS,
+   however, it had a tender on file with DoD, performed  the service
+   that was  requested of  it by  the Navy,  and should  be paid  in
+   accordance with the terms of the tender.
+ 
+        Before  reaching  the merits  of the  case, we  consider and
+   reject the Military Traffic Management  Command's suggestion that
+   UTS's  request  for  review  of  GSA's  audit  determination  was
+   untimely.  Section  3726 of title 31, United  States Code imposes
+   one time limitation on  the filing of carrier claims with GSA and
+   another  on the filing  of requests for  administrative review of
+   GSA decisions  on those claims.   Subsection (a) of  section 3726
+   allows  carriers  to  make  claims  to  GSA  within  three  years
+   (excluding time of war) after  the latest of the following dates:
+   accrual of the claim; payment for  the transportation; refund for
+   an  overpayment  for  the transportation;  and  deduction  by the
+   Government  from an amount subsequently due, to compensate for an
+   earlier  overcharge.  Subsection  (g) allows carriers  to request
+   administrative  review within  six  months after  GSA  acts on  a
+   claim.   We will  consider a  carrier's request only  if both  of
+   these requirements  have been met.   C. I. Whitten  Transfer Co.,
+   GSBCA  13911-RATE, 97-1  BCA   28,860;  see also Valley  Moving &
+   Storage  Co., GSBCA 14307-RATE  (Feb. 23, 1998);  Tri-State Motor
+   Transit Co., GSBCA 13747-RATE, 98-1 BCA   29,398 (1997).  UTS met
+   the subsection (a)  requirement by filing its claim  on April 22,
+   1997, less than  three years after GSA's August 30,  1995, notice
+   of overcharge.  The carrier met the subsection (g) requirement by
+   filing its case with us on February 6, 1998, less than six months
+   after GSA's January 30, 1998, denial of the claim.
+ 
+        As to the merits, we agree with GSA's position.  At the time
+   this   shipment  was  made,   surface  and  air   common  carrier
+   transportation   were   governed  by   different   statutory  and
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 "Quantum meruit"  means "as much as he deserved."
+                    ______________
+   It is an  equitable doctrine  which provides  a reasonable amount
+   of  recovery  for  labor  and materials  furnished,  even  in the
+   absence of an express contract.  Black's Law Dictionary 1243 (6th
+                                    ______________________
+   ed. 1990).
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   regulatory schemes.   49 U.S.C.  subtit. IV (1988)  (surface); 49
+   U.S.C.  app. ch. 20, subch. IV (1988)  (air).  Firms moving goods
+   by  motor vehicle in interstate commerce  were required to secure
+   licenses,  establish tariffs, and file routes with the Interstate
+   Commerce  Commission;  they  could   not  provide  transportation
+   services without complying with these  strictures.  See, e.g., 49
+   U.S.C.    10702, 10703, 10725, 10761, 10762.  UTS's tender to DoD
+   did not cover motor vehicle transportation, and UTS has not shown
+   that it had any  other authority under which it might  have moved
+   the hub  assembly by motor  vehicle.   Thus, there  was no  legal
+   authority for  UTS to  carry the assembly  by truck,  as it  did.
+   Application  of a  tender  intended  for  air  transportation  to
+   surface delivery was improper.[foot #] 2
+ 
+ 
+        The  General  Accounting  Office  (GAO),  which   previously
+   considered  carriers' requests for  administrative review  of GSA
+   transportation    audit    decisions,   allowed    payment    for
+   transportation charges  on a quantum meruit basis where a carrier
+   moved  Government  goods in  the  absence  of a  valid  contract,
+   tariff, or tender  which dictated the proper amount  due.  United
+   Carriers, Inc.,  B-229309  (June  21,  1988).   This  holding  is
+   consistent  with court decisions that where a Government contract
+   award is  contrary to statute or  regulation due to  an action of
+   the contractor,  the contractor may  recover on a  quantum meruit
+   basis, but  only to the  extent that the Government  receives any
+   benefit  from the  contractor's performance.    United States  v.
+   Mississippi Valley Generating Co., 364 U.S. 520, 565 n.22 (1961);
+   Crocker v. United  States, 240 U.S. 74, 81  (1916); United States
+   v. Amdahl Corp., 786 F.2d 387, 395 (Fed. Cir. 1986).  We consider
+   the GAO's rule to be appropriate to situations such as the one at
+   issue here.
+ 
+        Unfortunately, in applying the rule, GSA has used rates from
+   a tariff which is inapplicable  to the shipment.  The  tariff GSA
+   selected was  ICC TSMT 4000-B, issued by  Tri-State Motor Transit
+   Co.  of Joplin,  Missouri.   This tariff was  canceled, effective
+   November 21,  1991  -- nearly  a year  before UTS  moved the  hub
+   assembly involved  in this case.  While  it was valid, the tariff
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2 The law contained  two exceptions to  the general
+   rule, but neither of them is  of assistance to UTS in this  case.
+   A common carrier which transported goods by air as  well as motor
+   vehicle   might  be   exempt  from   the   requirements  if   the
+   transportation was  part of a  continuous movement.  49  U.S.C.  
+   10526(a)(8)(B);  see  also 49  U.S.C.  app.    1301(24).    UTS's
+                    _________
+   transportation  of the  hub assembly,  however,  was entirely  by
+   truck.  A common carrier which generally transported goods by air
+   could also be exempt from the surface transportation requirements
+   if  it used  a  motor  vehicle instead  of  aircraft "because  of
+   adverse  weather conditions or mechanical failure of the aircraft
+   or other  causes due to  circumstances beyond the control  of the
+   carrier or  shipper."  49  U.S.C.   10526(a)(8)(C).  UTS  has not
+   attempted to show that this exception applied to this shipment.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   contained rates  which applied  to the  movement of  "explosives,
+   blasting  supplies,  flammable  liquids  and solids,  commodities
+   bearing a security classification by the United States Government
+   and  weapons, ammunition and drugs which are designated sensitive
+   by  the  United States  Government,"  and hub  assemblies  do not
+   appear to fall within  any of these categories.   The tariff also
+   applied when goods were "transported in dromedary  service or 410
+   container service," and there is  no indication that such was the
+   situation  here.   In addition,  the  document expressly  states,
+   "Rates named in Tariff will not apply on shipments from or to . .
+   .  ocean  port  facilities," and  GSA  has  not challenged  UTS's
+   statement that  this shipment was  delivered for  loading onto  a
+   ship.
+ 
+ 
+        The Government clearly  derived a benefit from  UTS's having
+   moved the hub assembly by  truck from Massachusetts to  Virginia,
+   on a priority basis,  in October 1992.  In  calculating the value
+   of this benefit,  the Government may look to  a contract, tariff,
+   or tender  which was relevant  to this  sort of shipment  at that
+   time.   GSA  may collect  the difference  between the  amount the
+   Government has paid UTS for its services and the reasonable value
+   of those services.
+ 
+                                 _________________________
+                                 STEPHEN M. DANIELS 
+                                 Board Judge

@@ -1,0 +1,172 @@
+                                     October 24, 2008
+
+
+                                    CBCA 1074-RATE
+
+
+                     In the Matter of UNION PACIFIC RAILROAD
+
+
+      Raymond J. Hasiak, Senior Trial Counsel of Union Pacific Railroad, Omaha, NE,
+appearing for Claimant.
+
+       James F. Fitzgerald, Director, Transportation Audits Division, Office of Travel, Motor
+Vehicles & Card Services, Federal Acquisition Service, General Services Administration,
+Arlington, VA; and Aaron J. Pound, Office of General Counsel, General Services
+Administration, Washington, DC, appearing for General Services Administration.
+
+      Janet D. Kaminski, Office of the Staff Judge Advocate, Military Surface Deployment
+and Distribution Command, Department of the Army, Fort Eustis, VA, appearing for
+Department of Defense.
+
+GILMORE, Board Judge.
+
+        Claimant, Union Pacific Railroad (UP), has asked the Board to review the decision
+of the General Services Administration (GSA) denying UP’s claim of $459,859.46 for
+additional transportation costs stemming from a mistake it made in entering the rates for
+tender number 702073 into the Global Freight Management (GFM) system. UP transported
+eleven shipments of ammunition for the Department of Defense (DOD) under this tender.
+There were seven shipments in May of 2007, and four in August of 2007. For the reasons
+set forth below, we deny UP’s claim.
+
+                                        Background
+
+       Under Defense Transportation Regulation (DTR) 4500.9-R, Part II (Sept. 2007), the
+Military Surface Deployment and Distribution Command (SDDC) is the DOD command
+CBCA 1074-RATE                                                                                  2
+
+responsible for accepting tenders (offers) under 49 U.S.C. § 10721 from rail carriers who
+offer to provide commercial transportation services to DOD for free or at discounted rates.
+SDDC is the interface between the DOD shippers and the commercial carriers.
+
+       SDDC has two primary methods under which carriers can submit tenders - the
+voluntary method and the negotiated method. The voluntary method involves an electronic
+system through which qualified carriers can submit rates for transportation into a database
+system without negotiating any special terms. The SDDC uses the GFM system for the
+electronic filing of tenders. Voluntary tenders include the 700,000 tender series numbers.
+The day following a tender entry, that entry is posted and distributed by the GFM system for
+use by DOD freight offices. Voluntary tenders are accepted and entered into the GFM system
+without review by SDDC personnel.
+
+        The negotiated method involves SDDC soliciting special rates from rail carriers for
+a particular shipment that generally has unique requirements or involves a volume movement.
+SDDC reviews the offers and often negotiates the tender rates and terms with the carrier prior
+to accepting the tender for filing into the GFM system. Negotiated tenders are assigned the
+500,000 series number. A carrier making a voluntary tender cannot use a 500,000 series
+number. At the time of the filing of this claim, there were 495,447 tenders on file, of which
+41,357 were active tenders. UP had approximately 1700 negotiated tenders and 2000
+voluntary tenders in the GFM system.
+
+        Military Standard Tender Instruction Publication (MSTIP) No. 364-D, in Items
+200 (C), 300, and 500, provides detailed instructions on how to enter the tenders into the
+GFM system. These instructions caution the carrier to use extreme care in the preparation
+of a tender and explicitly state that it is the carrier’s responsibility to ensure the accuracy of
+all coded data.
+
+       In the instant case, on May 15, 2007, the freight rate specialist at the Tooele Army
+Depot in Tooele, Utah, e-mailed UP, requesting UP to quote a tender and rate for DOD
+ammunition shipments from Tooele, Utah, to Sunny Point, North Carolina. That same day,
+UP e-mailed the freight rate specialist the following notice: “UP tender 702073, Tooele AD
+to Sunny Point, was submitted into GFM this morning (5/15). The rate is $17.66 pcwt [per
+hundredweight], with a rate of $9.99 pcwt for excess of 100,000 lbs. The tender is effective
+until August 15, 2007.”
+
+       When UP entered tender number 702073 into the GFM system, it inadvertently
+entered a wrong number in one of the weight columns on the data entry form. The actual
+tender entered stated a rate of $17.66 pcwt, with a rate of $9.99 pcwt for weight in excess of
+one lb., not 100,000 lbs., which UP meant to enter into the GFM system. At this point, UP
+CBCA 1074-RATE                                                                                  3
+
+did not know it had entered incorrect data into the GFM system. UP made seven ammunition
+pick-ups between May 17 and 19, 2007, using tender number 702073. Tender number
+702073 was entered on the commercial bills of lading (CBLs) under which the shipments
+were moving. When UP later billed DOD, it requested payment based upon the rate quoted
+to the freight rate specialist on May 15, 2007. An SDDC auditor advised UP that tender
+number 702073 established the controlling rate, and that rate was $9.99 pcwt for weight in
+excess of one pound. UP told the auditor that UP had mistakenly entered a wrong number
+on the tender data form and that the correct rate was the rate quoted in the May 15, 2007, e-
+mail message. Around the middle of July 2007, UP submitted a request for payment of the
+difference between the rates in tender number 702073 and the rates UP quoted to the freight
+rate specialist, which at that time, for the seven shipments in May, totaled $285,181.01.
+
+        While this dispute was ongoing, UP made attempts to change the incorrect tender in
+the GFM system, but it did not enter the correct date needed for the system to accept the
+change. The governing provisions in MSTIP, Item 500, state: “If a tender increases rates
+or charges, or reduces or cancels a service in that tender, the effective date must allow
+at least 15 days’ advance notice, computed from date of receipt by AMC/SDDC.”
+Because UP did not enter the correct date, the rate change never became effective. In
+August, when DOD needed to make additional shipments, tender number 702073 was still
+an active tender. It was used for shipments on August 14 and 15, 2007. UP again requested
+the difference between the amount due based upon tender number 702073 and the amount
+due using the rate quoted to the freight rate specialist on May 15, 2007. The difference, with
+the later August shipments, now totaled $459,859.46. An audit was subsequently performed
+by GSA, and GSA determined that tender number 702073 was an active tender on the pick­
+up dates in question; that the rate in the tender in effect at the time of pick-up is the
+controlling rate; and that the carrier is responsible for the accuracy of the tender it files into
+the GFM system. GSA issued settlement certificates denying the additional costs claimed
+by UP under the eleven CBLs in question. UP asked us to review GSA’s determination.
+
+                                           Discussion
+
+       UP argues that the Board should apply the Federal Acquisition Regulation applicable
+to mistake in bids, found at 48 CFR 14.407 (2007). UP contends that the May 15, 2007, e-
+mail message to the freight rate specialist established the rate it offered to transport the
+ammunition for DOD, and that the freight rate specialist should have been on constructive
+notice that the tender stated on the CBLs was a mistake, since it did not reflect the rate
+quoted in the e-mail message.
+
+      UP is asking us to apply general principles of contract law. These principles cannot
+overcome, however, the extremely specific, detailed rules established for the situation before
+CBCA 1074-RATE                                                                                 4
+
+us. See Strickland Transportation Co. v. United States, 334 F.2d 172, 178 (5th Cir. 1964)
+(“Whether this makes sense is beside the point. It all depends on what kind of sense is being
+made -- abstract, contractual interpretation sense, or transportation-railroading sense.”).
+
+        In this case, UP entered a voluntary tender or offer into the GFM system, not a
+negotiated tender. The SDDC office does not review voluntary tenders to determine if the
+actual tender reflects a quote provided to a freight rate specialist. A rate quote is not binding
+on either party. Under the voluntary system, a carrier can provide one quote to the freight
+rate specialist and then decide to enter another rate into the GFM system. The tender that the
+carrier actually enters into the GFM system becomes an active tender that applies to
+movement of goods under that tender. A tender is accepted into the GFM system and active
+the next day, unless there is an obvious irregularity, such as a patent ambiguity in the data
+submitted, which the system automatically rejects. When the Government accepts
+transportation services under a particular tender, the tender entered on the CBL establishes
+the contract rate, and that is the rate binding on the parties.
+
+       Although UP made a mistake in the submission of its tender, the submitted data
+created an unambiguous offer. There is no obligation on the part of the SDDC to confirm,
+or even view, voluntary tenders entered into the GFM system. As the General Services
+Board of Contract Appeals explained in Available Shippers, Inc., GSBCA 15071-RATE, 00­
+2 BCA ¶ 30,960, at 152,786:
+
+       It is the carrier’s responsibility in the first instance to prepare an accurate,
+       unambiguous tender. The carrier’s subjective intent does not control the
+       interpretation of the tender; rather, ambiguities are construed against the
+       carrier issuing the rate tender. Consolidated Freightways, Inc., B-226378
+       (Aug. 15, 1988); Tri-State Motor Transit Co., B-192689 (Jan. 24, 1979). . . .
+       Additionally, the carrier is responsible for the content and accuracy of the
+       GBL, even when prepared by the shipper. See C.I. Whitten Transfer Co.,
+       GSBCA 13893-RATE, 97-2 BCA ¶ 29,060.
+
+        UP could have revoked the tender by giving at least a fifteen-day written notice as
+required in the applicable provisions. UP’s attempt to revoke the offer did not comply with
+the notice requirements and, thus, was not effective. This again was due to a mistake on the
+part of UP. Certainly UP should have been aware of the notice requirements since it had
+1700 negotiated tenders and 2000 voluntary tenders in the GFM system at that time. In light
+of the above, we conclude that tender number 702073 used by DOD for shipments under the
+subject CBLs was an active and lawful tender on the pick-up dates and binding on UP.
+CBCA 1074-RATE                                                                       5
+
+                                       Decision
+
+       GSA’s settlement actions on the eleven shipments in question are sustained. UP’s
+claim is denied.
+
+
+
+
+                                        BERYL S. GILMORE
+                                        Board Judge
+

@@ -1,0 +1,212 @@
+                   
+
+
+
+                                                
+
+                             November 4, 1997
+                                                
+
+
+                             GSBCA 14120-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Col. James F. Quinn, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army,
+Falls Church, VA, appearing for Department of Defense.
+
+GOODMAN, Board Judge.
+
+     On June 22, 1993, Government bill of lading (GBL) G-
+0,917,692 was issued to Tri-State Motor Transit Company
+(Tri-State).  This GBL described the freight being transported as
+Rocket Motor, Class B Explosive. 
+
+     The shipper included the following notation on the GBL:
+
+     SHIPPER SEAL(S) APPLIED.  CARRIER MAY REMOVE SEAL(S)
+     AND REPLACE WITH EQUIVALENT SEAL(S) ON PRIOR CONSENT OF
+     CONSIGNOR.  CARRIER MUST ANNOTATE SEAL CHANGES ON GBL. 
+     APPLICATION OF SHIPPER SEAL(S) DOES NOT CONSTITUTE A
+     REQUEST FOR EXCLUSIVE USE OF VEHICLE.
+
+Claimant asserts that this notation on the GBL is a request for
+exclusive use.  Claimant submitted a claim to the General
+Services Administration (GSA) Office of Transportation Audits
+(OTA) for a balance due of $806.25. 
+
+     By settlement certificate dated December 6, 1996, GSA OTA
+disallowed the claim, stating:
+
+     You are claiming exclusive use.  We do not agree. 
+     According to the GBL, no annotation on the GBL
+     request[ed] nor provided exclusive use.  
+
+Claimant requests review of the denial of its claim for $806.25
+for alleged "exclusive use" service.
+
+                                Discussion
+
+     Claimant relies upon the decision in Baggett v. United
+States, 23 Cl. Ct. 263 (1991), aff'd 969 F.2d 1028 (Fed. Cir.
+1992).  As the trial court explained in Baggett, in order to
+apply exclusive use rates, there are two conditions that must be
+met.  First, there must be substantial compliance with the
+requirements of the tariff concerning a request for exclusive
+use.  Second, there must be some evidence to establish that
+exclusive use was actually provided. 
+
+     With regard to the first condition, substantial compliance
+with the requirements of the tariff for exclusive use, the court
+interpreted language on a GBL similar to the "prior consent"
+statement contained in claimant's GBL in conjunction with the
+applicable tariff and determined that such language constituted a
+request for exclusive use.  Accordingly, we must review the
+language in claimant's GBL and applicable tariff.
+
+     The language at issue in the Baggett case reads as follows:
+
+     SHIPPER SEALS APPLIED.  CARRIER MAY REMOVE SEALS AND
+     REPLACE WITH EQUIVALENT SEALS ON PRIOR CONSENT OF
+     CONSIGNOR.  IF SEALS ARE BROKEN IN EMERGENCIES, NOTIFY
+     CONSIGNOR AS SOON AS POSSIBLE.  CARRIER MUST ANNOTATE
+     SEAL CHANGES ON GBL.  APPLICATION OF SHIPPER SEALS DOES
+     NOT CONSTITUTE A REQUEST FOR EXCLUSIVE USE OF VEHICLE/
+     CONTAINER. 
+
+This language is substantially the same as that which appears on
+the GBL at issue, with the addition of the second sentence, which
+does not appear on claimant's GBL.
+
+     In discussing the applicable tariff language in the Baggett
+case, the court stated:
+
+     [T]he tariff states that "[a]ny notation which in any
+     way limits or denies carrier access to the Dromedary or
+     410-Container truck or semi-trailer (as the case may
+     be), shall be deemed by  the carrier to require
+     exclusive use and the charges named in paragraph 1 of
+     this item shall be assessed."  . . . As stated
+     repeatedly, the contractual relationship between
+     carrier and shipper is defined by the tender and
+     incorporated tariff, representing the offer, and the
+     GBL and its  annotations, representing the acceptance. 
+     Starflight, Inc., B-218844, 65 Comp. Gen. 84 (1985). 
+     This court finds that the prior consent statement at
+     least in some way denies the carrier access to the
+     dromedary.  The plain language of the annotation states
+     that the carrier may remove the seals only with the
+     consent of the shipper.  See Fort Vancouver Plywood Co.
+     v. United States, 860 F.2d 409, 413 (Fed. Cir. 1988)
+     (applying the plain language analysis of contract 
+     interpretation); George Hyman Construction Co. v.
+     United States, 832 F.2d 574, 579 (Fed. Cir. 1987)
+     (stating that the words of an unambiguous contract
+     should be "given their plain and ordinary meaning"). 
+     The prior consent statement standing alone does not
+     constitute a request for exclusive use; however, read
+     in conjunction with a tariff stating that an annotation
+     is a request for exclusive use if it in any way denies
+     the carrier access, the prior consent statement
+     reasonably apprises the carrier that exclusive use is
+     requested and constitutes  a request for exclusive use
+     in "substantial compliance" with the terms of the
+     tariffs in the Whitten and Tri-State cases.       
+
+          The government argues, however, that exclusive use
+     was not properly requested on the GBLs as required by
+     41 C.F.R.  101-41.302-6(a), the exclusive provisions 
+     of the GBLs and the MTMR, as well as by Dual Driver
+     Protection Service provisions in effect with respect to
+     many of the shipments.  The government contends that 
+     exclusive use was not requested because it was not
+     explicitly requested on the bill of lading by the
+     shipper.  This court recognizes, however, that "[i]t
+     was not intended that form rather than substance would
+     govern the transaction.  If there appears on the bill
+     of lading some written notation, which reasonably
+     apprises the carrier that the shipper is requesting the
+     exclusive use of its vehicle, we think this is
+     sufficient compliance with the requirement for making
+     the exclusive use rates applicable."  Campbell ["66"
+     Express, Inc. v. United States, 157 Ct. Cl. 365, 302
+     F.2d 270 (1962)], 157 Ct. Cl. at 370-71, 302 F.2d at
+     272.  . . . As in the American Farm Lines[, Inc.,
+     B-203805, et al. (Dec. 24, 1981)] case, where exclusive
+     use was found because of substantial compliance despite
+     the fact that the words "exclusive use of vehicle" did
+     not appear on the GBL, this court holds that the prior
+     consent statement substantially complied with the terms
+     of the tariffs in the Whitten and Tri-State contracts
+     and that exclusive use was requested in those cases.  
+
+23 Cl. Ct. at 273.
+
+     Claimant's tariff contains the following language:
+
+     When a shipper requests exclusive use of an entire
+     Dromedary for a less-than-truckload shipment, charges
+     will be assessed subject to a minimum weight of 5,000
+     pounds or actual weight, if greater at the 5,000 pound
+     rate.
+
+     When a shipper requests exclusive use of an entire 410-
+     container for a less-than-truckload shipment, charges
+     will be assessed subject to a minimum weight of 10,000
+     pounds, or actual weight if greater, at the 10,000
+     pound rate.
+
+     Any notation which in any way limits or denies carrier
+     access to the Dromedary or 410-Container, truck or
+     semi-trailer (as the case may be), shall be deemed by
+     the carrier to require exclusive use and the charges
+     named in paragraph 1 of this item shall be assessed.
+     
+     Thus, in the instant case, the first condition is met.  The
+language in claimant's GBL and tariff are substantially similar
+to that at issue in the Baggett decision.  The court found that
+the "prior consent language," standing alone, did not constitute
+a request for exclusive use, but did so when read in conjunction
+with the tariff stating that an annotation is a request for
+exclusive  use if it in any way denies the carrier access. 
+Accordingly, the language at issue in claimant's GBL denies the
+carrier access, even though it contains the statement,
+"APPLICATION OF SHIPPER SEALS DOES NOT CONSTITUTE A REQUEST FOR
+EXCLUSIVE USE OF VEHICLE/ CONTAINER."  When read in conjunction
+with the tariff, it is a request for exclusive use.
+
+     With regard to the second condition for applying exclusive
+use rates, i.e., that exclusive use was provided, Tri-State has
+provided records that it generates to record information about
+its shipments.  These records show, for example, the route and
+distance traveled by a shipment, the number of the trailer used
+to haul the shipment, the position of a shipment on a trailer,
+the names of the tractor drivers, etc.  These records also show
+whether a container held more than one shipment.  The records
+relevant to this case show that the shipment at issue here was
+transported in its own container.  In other words, this shipment
+had exclusive use of the dromedary, according to Tri-State's
+records.  Tri-State's records establish that it provided
+exclusive use, and so the second condition for applying exclusive
+use rates is met.
+
+     Tri-State is entitled to be paid for providing exclusive use
+for this shipment.
+
+
+
+
+
+                                   _____________________
+                                   ALLAN H. GOODMAN
+                                   BOARD JUDGE

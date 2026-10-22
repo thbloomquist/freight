@@ -1,0 +1,240 @@
+Case 8:19-cv-00467-CEH-AEP Document 12 Filed 04/19/19 Page 1 of 5 PageID 116
+
+
+
+
+                          UNITED STATES DISTRICT COURT
+                           MIDDLE DISTRICT OF FLORIDA
+                                 TAMPA DIVISION
+
+ESTES EXPRESS LINES,
+
+       Plaintiff,
+
+v.                                                                  Case No: 8:19-cv-467-T-36AEP
+
+COVERLEX, INC.,
+
+       Defendant.
+
+
+                                            ORDER
+
+       This cause comes before the Court upon Plaintiff’s Motion for Default Judgment (Doc.
+
+11). Plaintiff’s two-page Motion requests that the Clerk enter judgment against Defendant,
+
+pursuant to Federal Rule of Civil Procedure 55(b)(1), in the sum certain of $1,829,646.64. Upon
+
+review, the Court will deny Plaintiff’s Motion without prejudice.
+
+       Plaintiff filed a two-count Complaint in this Court on February 22, 2019 against Defendant
+
+for breach of contract and quantum meruit. Doc. 1. According to the Complaint, Plaintiff
+
+performed transportation services on behalf of Defendant and, pursuant to an agreement, extended
+
+shipping discounts and preferred pricing to Defendant. Doc. 1 at ¶¶ 5, 7. Defendant tendered
+
+numerous shipments of commercial goods to Plaintiff, and each shipment was delivered to its
+
+respective destination without loss, damage, or delay. Doc. 1 at ¶ 16. Plaintiff invoiced its charges
+
+to Defendant in the amount of $335,575.69, but Defendant refused to pay. Doc. 1 at ¶¶ 18-19.
+
+Plaintiff advised Defendant that further failure to remit payment would result in forfeiture of its
+
+discount and/or a thirty percent penalty of undiscounted freight charges for a total amount due of
+
+$1,833,322.01. Doc. 1 at p. 17.
+Case 8:19-cv-00467-CEH-AEP Document 12 Filed 04/19/19 Page 2 of 5 PageID 117
+
+
+
+
+       Plaintiff served Defendant on March 5, 2019 by serving manager Paul Flores at the
+
+Defendant’s business. Doc. 8-1. On March 29, 2019, Plaintiff filed a motion for default based on
+
+Defendant’s failure to timely respond to the Complaint. Doc. 9. The Clerk entered a default against
+
+Defendant the same day. Doc. 10. On April 2, 2019, Plaintiff filed the instant Motion.
+
+                                        DISCUSSION
+
+       Obtaining default judgment against a defendant entails a two-step process. See Martinez v.
+
+Askins & Miller Orthopaedics, No. 8:17-cv-1923-EAK-TGW, 2018 WL 3391262, at *2 (M.D.
+
+Fla. May 22, 2018). First, when a defendant fails “to plead or otherwise defend, and that failure is
+
+shown by affidavit or otherwise, the clerk must enter the party’s default” upon the plaintiff’s
+
+request. Fed. R. Civ. P. 55(a).
+
+       After the clerk enters the default, the plaintiff may proceed by seeking default judgment
+
+under either Rule 55(b)(1) or (2). See Martinez, 2018 WL 3391262, at *2; Fed. R. Civ. P. 55(b).
+
+If the plaintiff’s claim is “for a sum certain or a sum that can be made certain by computation,” the
+
+plaintiff can request that the clerk enter default judgment for the amount pursuant to Rule 55(b)(1).
+
+Campbell v. Humphries, 353 Fed. Appx. 334, 337 (11th Cir. 2009) (citing Fed. R. Civ. P. 55(b)(1)).
+
+“In all other cases, the party must apply to the court for a default judgment.” Fed. R. Civ. P.
+
+55(b)(2).
+
+       Although Rule 55(b)(1) provides for entry of default judgment by the clerk, courts in this
+
+District have nonetheless found it proper to review such motions and then, only if appropriate,
+
+direct the entry of judgment. See Color Events, BV v. Multi Talent Agency, Inc., No. 6:18-cv-648-
+
+Orl-37DCI, 2018 WL 4762973, at *1 (M.D. Fla. Sept. 17, 2018).
+
+       Default does not automatically warrant the entry of default judgment. Although a defendant
+
+who defaults is deemed to have “admit[ted] the plaintiff’s well-pleaded allegations of fact,”
+
+
+
+                                                 2
+Case 8:19-cv-00467-CEH-AEP Document 12 Filed 04/19/19 Page 3 of 5 PageID 118
+
+
+
+
+Buchanan v. Bowman, 820 F.2d 359, 361 (11th Cir. 1987), “[t]he defendant is not held to admit
+
+facts that are not well-pleaded or to admit conclusions of law.” Nishimatsu Constr. Co., Ltd. v.
+
+Houston Nat’l Bank, 515 F.2d 1200, 1206 (5th Cir. 1975). Similarly, a plaintiff is entitled to only
+
+those damages adequately supported by the record. See Adolph Coors Co. v. Movement Against
+
+Racism and the Klan, 777 F.2d 1538, 1544 (11th Cir. 1985). Therefore, a court must conduct an
+
+analysis to determine whether the well-pleaded factual allegations of the plaintiff’s complaint
+
+provide a sufficient basis for a judgment against the defendant. Nishimatsu Constr. Co., 515 F.2d
+
+at 1206.
+
+       Plaintiff’s Motion seeks default judgment by the Clerk pursuant to Rule 55(b)(1). In
+
+support of the Motion, Plaintiff attaches an affidavit, which Plaintiff states “proves up the debt that
+
+is owed to the Plaintiff in the principal sum of $1,829,646.64.” Doc. 11 at p. 2. That amount
+
+consists of $335,575.69 in original freight charges, $1,493,578.45 in “lost discount charges,” and
+
+$492.50 in court costs. Doc. 11-1 at p. 4.
+
+       Plaintiff’s affidavit references 62 pages of pricing provisions and invoices attached to
+
+Plaintiff’s Complaint. The pricing provisions provide various pricing schedules based on shipment
+
+destination and shipment weight. Doc. 1 at p. 7. The pricing provisions also list discounts,
+
+minimum charges, and refer to “tariff exceptions.” They state that “all shipments moving under
+
+these provisions shall be subject to the rules set forth in Item 1000 of the EXLA 668 Discount
+
+Tariff and the EXLA 105 Rules Tariff in effect at time of shipment” and that “all shipments shall
+
+be subject to the applicable rates and floor minimum charges contained in the EXLA 550 Tariff in
+
+effect at the time of shipment.” Doc. 1 at p. 14. Those statements “indicated that the terms of Estes’
+
+Tariff would apply to all shipments tendered pursuant to” the pricing provisions. Doc. 11-1 at p.
+
+2.
+
+
+
+                                                  3
+Case 8:19-cv-00467-CEH-AEP Document 12 Filed 04/19/19 Page 4 of 5 PageID 119
+
+
+
+
+       The invoices consist of hundreds of line item charges, each of which list a freight bill
+
+number, “FB Date,” reference number, most recent statement number, and the amount due. The
+
+line item charges apparently reflect the cost of each of Plaintiff’s services as owed by Defendant.
+
+       Plaintiff’s Complaint and affidavit do not provide the terms of the tariffs, do not include
+
+information about the shipments—for example, the destination, weight, or rate,—to determine how
+
+the $335,575.69 freight charges were calculated, and do not include sufficient information about
+
+how the discounts were calculated and removed, resulting in higher charges. Plaintiff merely
+
+concludes the amount due without providing sufficient factual material to prove the two main
+
+components of the total damages.
+
+       There is not sufficient information to enter a default judgment based upon the facts Plaintiff
+
+has provided. Moreover, even with additional facts, it is unclear that a Clerk’s default judgment
+
+pursuant to Rule 55(b)(1) would be appropriate in this case given the explanatory information
+
+needed to prove the damages sought.
+
+       Default judgment is also inappropriate at this time because Plaintiff has failed to address
+
+liability and failed to include a memorandum of legal authority with its Motion. As discussed
+
+above, an entry of default does not automatically entitle a plaintiff to default judgment. Moreover,
+
+the Local Rules of the Middle District of Florida (“Local Rules”) provide that “[i]n a motion or
+
+other application for an order, the movant shall include a concise statement of the precise relief
+
+requested, a statement of the basis for the request, and a memorandum of legal authority in support
+
+of the request, all of which the movant shall include in a single document not more than twenty-
+
+five (25) pages.” M.D. Fla. L.R. 3.01(a).
+
+
+
+
+                                                 4
+Case 8:19-cv-00467-CEH-AEP Document 12 Filed 04/19/19 Page 5 of 5 PageID 120
+
+
+
+
+       Plaintiff’s two-page Motion merely points out that the Clerk entered default, cites Rule
+
+55(b)(1), and refers to the attached affidavit. Plaintiff does not include a memorandum of legal
+
+authority in the Motion.
+
+       Accordingly, it is ORDERED:
+
+       1. Plaintiff’s Motion for Default Judgment (Doc. 11) is DENIED without prejudice.
+
+       2. Plaintiff may re-file its Motion for Default Judgment, pursuant to Rule 55(b)(2), and
+
+           include a memorandum of legal authority which complies with the Local Rules.
+
+       DONE AND ORDERED in Tampa, Florida on April 19, 2019.
+
+
+
+
+COPIES TO:
+COUNSEL OF RECORD AND UNREPRESENTED PARTIES, IF ANY
+
+
+
+
+                                                5
+

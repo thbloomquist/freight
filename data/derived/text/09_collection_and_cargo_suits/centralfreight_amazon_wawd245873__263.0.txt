@@ -1,0 +1,611 @@
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+                            UNITED STATES DISTRICT COURT
+                           WESTERN DISTRICT OF WASHINGTON
+ 8
+                                     AT SEATTLE
+ 9
+
+10         CENTRAL FREIGHT LINES, INC.,                  CASE NO. C17-0814JLR
+
+11                              Plaintiff,               ORDER DENYING PLAINTIFF’S
+                  v.                                     FOURTH MOTION IN LIMINE
+12                                                       AND DENYING PLAINTIFF’S
+                                                         MOTION FOR ENTRY OF
+           AMAZON FULFILLMENT
+13                                                       MONETARY JUDGMENT
+           SERVICES, et al.,
+14
+                                Defendants.
+15
+                                    I.       INTRODUCTION
+16
+           Before the court are Plaintiff Central Freight Lines, Inc.’s (“CFL”) motion for
+17
+     entry of monetary judgment (MMJ (Dkt. # 241)) and CFL’s fourth motion in limine (MIL
+18
+     (Dkt. # 216) at 8-9). Defendants filed responses to the motions (MMJ Resp. (Dkt. # 249);
+19
+     MIL Resp. (Dkt. # 229 (sealed)), and CFL filed a reply in support of its motion for entry
+20
+     of monetary judgment (MMJ Reply (Dkt. # 252)). Additionally, the court makes rulings
+21
+     in this order to resolve CFL’s belated arguments that Defendant Amazon Fulfillment
+22
+
+
+     ORDER - 1
+ 1   Services, Inc (“AFS”) is barred from pursuing certain theories at trial. The court has
+
+ 2   considered the motions, the parties’ submissions concerning the motions, the relevant
+
+ 3   portions of the record, and the applicable law. Being fully advised, 1 the court ORDERS
+
+ 4   that AFS is not barred from pursuing certain theories as described below, DENIES CFL’s
+
+ 5   motion for entry of monetary judgment without prejudice to renewing the motion after
+
+ 6   trial, and DENIES CFL’s fourth motion in limine.
+
+ 7                                       II.    BACKGROUND
+
+ 8          On August 12, 2019, CFL filed six motions in limine. (See MIL.) CFL’s fourth
+
+ 9   motion in limine argues that AFS “should be precluded from offering any evidence,
+
+10   testimony or argument that CFL’s outstanding invoices are invalid, improper or
+
+11   untimely.” (Id. at 9.) CFL relies not on a rule of evidence, but rather on the allegation
+
+12   that AFS “changed course during this litigation” to attack a set of invoices CFL issued to
+
+13   AFS for shipments made between Spring 2016, when AFS conducted an audit of CFL
+
+14   invoices, and March 13, 2017. (See id. at 8-9.) CFL refers to these invoices as “Set Off
+
+15   Invoices.” 2 (See id.) CFL also contends that AFS is time-barred from challenging the
+
+16   Set Off Invoices under 49 U.S.C. § 14705, and under the parties’ contract
+
+17   (“Transportation Agreement”). (See id. at 9.) CFL further argues that AFS should be
+
+18   //
+
+19
+            1
+              Neither party requested oral argument on the motions. (See MMJ; MMJ Resp; MIL;
+20   MIL Resp.) The court concludes that oral argument is unnecessary to its disposition of CFL’s
+     motion for entry of monetary judgment, see Local Civil Rules W.D. Wash. LCR 7(b)(4). The
+     court held oral argument on the parties’ motions in limine on September 10, 2019 (see 09/10/19
+21
+     Min. Entry (Dkt. # 237)), and deferred ruling on CFL’s fourth motion in limine.
+22          2
+                The court does the same in this order.
+
+
+     ORDER - 2
+ 1   barred from pursuing its counterclaims and defenses based on the Set Off Invoices
+
+ 2   because AFS failed to raise these theories until “[r]ecently.” (See id. at 9.)
+
+ 3          In response, AFS contends that 49 U.S.C. § 14705 is inapplicable because AFS’s
+
+ 4   theory relating to the Set Off Invoices is not based on an “overcharge,” but rather a
+
+ 5   provision of the Transportation Agreement providing that AFS “has no obligation to pay
+
+ 6   any fees or expenses invoiced more than 6 months after they accrue.” (See MIL Resp. at
+
+ 7   10.) AFS further contends that its challenges to the Set Off Invoices are not time-barred
+
+ 8   because they are relevant to AFS’s defenses to CFL’s alleged damages on CFL’s breach
+
+ 9   of contract claims. (See id.) AFS also points to a number of specific invoice numbers it
+
+10   contends provide evidence that CFL invoiced AFS for shipments “CFL shipped for
+
+11   shippers and/or consignees other than AFS.” (See id. at 11.)
+
+12          On September 26, 2019, CFL filed a motion for entry of monetary judgment
+
+13   pursuant to 28 U.S.C. § 2202. (See MMJ.) CFL contends that based on the court’s order
+
+14   granting CFL summary judgment on its declaratory judgment claim that AFS was not
+
+15   entitled to set off unpaid invoices, the court should enter a monetary judgment equal to
+
+16   the amount AFS set off. (See id. at 1.) CFL argues that a monetary judgment award
+
+17   “will streamline and narrow” the trial currently set to begin on October 21, 2019. (See id.
+
+18   at 4.) In doing so, CFL appears to attempt to foreclose AFS’s ability to challenge the
+
+19   propriety of the Set Off Invoices. In response, AFS argues that “CFL’s motion does
+
+20   nothing to narrow the issues for trial, as the amount claimed to be owed is (a) currently in
+
+21   dispute; (b) not supported by the evidence; and (c) improper given its reliance on
+
+22   //
+
+
+     ORDER - 3
+ 1   prejudgment interest.” (MMJ Resp. at 3.) According to AFS, CFL “seeks to circumvent
+
+ 2   AFS’s contention that CFL seeks compensation it is not due.” (See id. at 5.)
+
+ 3          On September 30, 2019, the parties filed their joint proposed pretrial order. (PTO
+
+ 4   (Dkt. # 242).) In it, CFL contends that AFS is time-barred from arguing at trial its
+
+ 5   counterclaims or defenses relating to (1) whether CFL was required and failed to
+
+ 6   consolidate shipments and provide a single master bill of lading (“MBOL”) for June 2016
+
+ 7   shipments and (2) the Setoff Invoices. (See id. at 5-7.) CFL argues for the first time in
+
+ 8   the pretrial order that “AFS’ answers to discovery foreclosed its attempt to assert claims
+
+ 9   against” the Setoff Invoices. (Id.) AFS responds that “CFL was well aware that AFS
+
+10   asserts these claims after CFL sought damages in excess of the set off amount. These
+
+11   claims were clearly raised during discovery and were explicitly identified in the expert
+
+12   report of William Partin.” (See id. at 7-8 (citing Block Decl. (Dkt. # 158) ¶ 61, Ex. 60
+
+13   (“Partin Report”) (dated May 2, 2019) at 69).) AFS asserts that “[b]ecause CFL was well
+
+14   aware of these damages prior to the discovery cutoff, it cannot now raise an issue that this
+
+15   is an undisclosed claim.” (See id. at 8.)
+
+16          As the court prepared to rule on the parties’ motions in limine at its October 3,
+
+17   2019, pretrial conference—less than three weeks before trial—counsel for CFL filed a
+
+18   letter on the docket on the evening of October 2, 2019. (CFL Ltr. (Dkt. # 245).) CFL’s
+
+19   letter again challenges AFS’s ability to pursue counterclaims and defenses based on
+
+20   MBOL overcharges in May and June 2016, and its ability to challenge the Set Off
+
+21   Invoices. (See id. at 1.) For the first time, CFL presented to the court an AFS
+
+22   interrogatory response in which CFL asked whether Amazon claims “that any of the
+
+
+     ORDER - 4
+ 1   work that was performed by [CFL], for which the invoice amount has not been paid by
+
+ 2   [AFS], was billed improperly or was performed incorrectly.” (CFL Ltr., Ex. 2 at 2.) A
+
+ 3   portion of AFS’s response states: “AFS further objects that such information is irrelevant
+
+ 4   to any claim or defense in this litigation.” (Id.)
+
+ 5          At the pretrial conference, the court questioned the parties about these issues,
+
+ 6   deferred ruling on CFL’s fourth motion in limine in order to provide AFS an opportunity
+
+ 7   to respond to CFL’s letter, and ordered AFS to file that response in writing by Monday,
+
+ 8   October 7, 2019. (See Hearing Tr. (Dkt. # 248) at 33:3-14.) The court asked AFS to
+
+ 9   address in its letter “whether you amended your interrogatory responses, to tell me every
+
+10   circumstance in which you put CFL on notice that you were pursuing counterclaims
+
+11   based on the setoff invoices, what discovery was taken in the trial, and then, finally, just
+
+12   as a catchall, whether anything else was represented to CFL that Amazon would or would
+
+13   not pursue the setoff invoices.” (See id.)
+
+14          AFS timely filed its letter on October 7, 2019. (AFS Ltr. (Dkt. # 247).) In it, AFS
+
+15   concedes that it did not supplement its interrogatory answers, but contends that “CFL’s
+
+16   actual notice, which AFS provided in writing in full satisfaction of Federal Rule of Civil
+
+17   Procedure 26(e)(1)(a), obviated any such supplementation.” (Id. at 2.) AFS contends
+
+18   that Mr. Partin’s expert report, dated May 2, 2019, states that AFS contests the Set Off
+
+19   Invoices’ timeliness and validity, that CFL inquired about this analysis when it deposed
+
+20   Mr. Partin, and that AFS also raised this issue in response to CFL’s summary judgment
+
+21   motion—all within the discovery period. (See id.) With respect to MBOL shipments,
+
+22   AFS contends that it responded appropriately to CFL’s discovery requests, which were
+
+
+     ORDER - 5
+ 1   limited to invoices subject to AFS’s audit, and did not include the June 2016 MBOL
+
+ 2   shipments. (See id. at 1.)
+
+ 3                                       III.    ANALYSIS
+
+ 4          As an initial matter, CFL failed to timely raise its arguments that AFS is barred
+
+ 5   from challenging the Set Off Invoices or the June 2016 shipments. CFL should have
+
+ 6   raised these issues in a discovery motion or through other proper procedural means,
+
+ 7   instead of peppering its arguments through various filings, including the pretrial order,
+
+ 8   leaving the court to clean up the confusion on the eve of trial. (See, e.g., PTO at 5-7,
+
+ 9   12-13.) CFL’s delay in raising these issues suggests a possible strategy to sandbag its
+
+10   objections and spring them on AFS at the last moment. Moreover, aside from its
+
+11   limitations arguments, CFL fails to state the specific grounds on which it argues the court
+
+12   should preclude AFS from pursuing its Set Off Invoices and June 2016 MBOL theories.
+
+13   It is unclear whether CFL seeks a discovery sanction under Federal Rule of Civil
+
+14   Procedure 37, 3 or seeks to preclude AFS’s theories based on judicial estoppel 4 or other
+
+15   grounds. (See, e.g.,, id.; MIL at 8-9; CFL Ltr.)
+
+16          Nevertheless, the court issues this order to put these issues to rest. For the reasons
+
+17   set forth below, the court orders that AFS may pursue its defenses and counterclaims that
+
+18
+            3
+               The court may issue sanctions to a party that fails to follow its discovery obligations,
+19   including “prohibiting the disobedient party from supporting or opposing designated claims or
+     defenses, or from introducing designated matters in evidence,” or “striking pleadings in whole or
+20   in part.” See Fed. R. Civ. P. 47(b)(2)(A)(ii)-(iii).
+            4
+              Judicial estoppel is “an equitable doctrine invoked by a court at its discretion,” that
+21
+     prohibits “parties from deliberately changing positions according to the exigencies of the
+     moment.” New Hampshire v. Maine, 532 U.S. 742, 751 (2001) (quoting Russell v. Rolfs, 893
+22   F.2d 1033, 1037 (9th Cir. 1990); United States v. McCaskey, 9 F.3d 368, 378 (9th Cir. 1993)).
+
+
+     ORDER - 6
+ 1   challenge the Set Off Invoices and the June 2016 MBOL issues as described below.
+
+ 2   Further, the court DENIES CFL’s motion for entry of monetary judgment without
+
+ 3   prejudice to renewing the motion after trial, and DENIES CFL’s fourth motion in limine.
+
+ 4   A.     Whether AFS’s Counterclaims are Time-Barred
+
+ 5          CFL argues that AFS’s claims regarding the Set Off Invoices and the June 2016
+
+ 6   MBOL issue are time-barred by the Transportation Agreement and by statute. The court
+
+ 7   disagrees. Pleadings must be filed to put opposing litigants on notice of the claims
+
+ 8   asserted against them. See Fed. R. Civ. P. 8(a). Rule 8 requires parties to plead “a short
+
+ 9   and plain statement of the claim showing that the pleader is entitled to relief.” See Fed.
+
+10   R. Civ. P. 8(a)(2). Similarly, a party responding to a pleading must “state in short and
+
+11   plain terms its defenses to each claim asserted against it.” See Fed. R. Civ. P. 8(b)(2).
+
+12          AFS’s answer and counterclaims specifically address AFS’s challenges to CFL
+
+13   invoices that CFL now asserts constitute “new” claims. (See, e.g., Countercl. (Dkt. # 48)
+
+14   ¶¶ 39(C) (“Central Freight materially breached the contract by . . . failing to include the
+
+15   required Tender IDs.”), 57 (“Central Freight overcharged AFS by way of Central
+
+16   Freight’s improper billing methodology.”), 41 (“[CFL] materially breached the contract
+
+17   by . . . charging AFS multiple times for single shipments.”).) AFS does not limit the
+
+18   allegations in its counterclaims to any specific time period. (See generally id.)
+
+19   Accordingly, the court concludes that AFS’s counterclaims are not barred by the
+
+20   Transportation Agreement or by 49 U.S.C. § 14705.
+
+21   //
+
+22   //
+
+
+     ORDER - 7
+ 1   B.     Whether CFL is Prejudiced
+
+ 2          As discussed above, it is unclear whether CFL seeks a discovery sanction under
+
+ 3   Federal Rule of Civil Procedure 37, or seeks to preclude AFS’s theories on judicial
+
+ 4   estoppel or other grounds. (See, e.g., id.; MIL at 8-9; CFL Ltr.) The court will not make
+
+ 5   CFL’s argument for it. See United States v. Dunkel, 927 F.2d 955, 956 (7th Cir. 1991)
+
+ 6   (“Judges are not like pigs, hunting for truffles buried in briefs.”). Instead, the court
+
+ 7   analyzes CFL’s arguments based on whether CFL had sufficient notice that AFS intended
+
+ 8   to pursue these theories such that CFL will not be prejudiced at trial. See Coleman v.
+
+ 9   Quaker Oats Co., 232 F.3d 1271, 1292-94 (9th Cir. 2000) (holding plaintiffs could not
+
+10   pursue a distinct theory of liability where the plaintiffs had not (1) pleaded that theory in
+
+11   their complaint or (2) made the theory known during discovery). Here, CFL was
+
+12   sufficiently on notice that AFS intended to pursue its theories based on the Set Off
+
+13   Invoices and the June 2016 shipments because AFS pleaded those theories and put CFL
+
+14   on notice during discovery that AFS intended to pursue them.
+
+15          1.     Set Off Invoices
+
+16          The court concludes that CFL was sufficiently on notice that AFS intended its
+
+17   defenses and counterclaims to include the Set Off Invoices before the May 28, 2019,
+
+18   discovery cutoff. AFS expert William Partin’s May 2, 2019, report provides an analysis
+
+19   of the timeliness and validity of invoices that include the Set Off Invoices. (See Partin
+
+20   Report at 66-69.) Mr. Partin produced the Bates-stamped underlying data that forms the
+
+21   basis of his opinions, indicating that it was produced during discovery. (See id.) CFL
+
+22   deposed Mr. Partin about his opinions on the Set Off Invoices. (See Block Ltr. Ex. 4
+
+
+     ORDER - 8
+ 1   (“Partin Dep.”) at 35:17-37:20 (“As I understand the contract between the parties, there
+
+ 2   has to be an invoice presented within 180 days with a valid tender ID, and it would
+
+ 3   appear that [CFL]’s calculation of the $2.8 million number included items that [AFS]
+
+ 4   would not be required to pay based on the information produced in [CFL]’s analysis
+
+ 5   because the tender ID exceeds 180 days or it had an invalid tender ID.”).)
+
+ 6          Further, CFL challenged Mr. Partin’s report in part on the basis that Mr. Partin
+
+ 7   should not have analyzed the Set Off Invoices. (See MTE Reply (Dkt. # 201) at 3.) CFL
+
+ 8   argued that:
+
+ 9          Amazon seeks to chip away at what it owes CFL and point to other purported
+            deficiencies in CFL’s invoices and pricing that were not the subject of the
+10          original claim and are time-barred. Amazon intends to rely on Partin’s
+            analysis of invoice dates to argue that CFL cannot recover on invoices sent
+11          to Amazon more than 180 days after the ship date and analysis of Tender IDs
+            to argue that CFL is not entitled to payment on certain outstanding invoices.
+12          None of these invoices are the subject of Amazon’s original claim or audit.
+
+13   (Id.) CFL’s briefing shows that CFL was aware that AFS intended to pursue its defenses
+
+14   and counterclaims based on the Set Off invoices as far back as May 2, 2019, when Mr.
+
+15   Partin issued his report. (See Partin Report at 66.)
+
+16          The above notwithstanding, AFS should have supplemented its interrogatory
+
+17   responses to align with the progression of the case and with AFS’s case theories.
+
+18   However, although AFS’s February 2, 2018, interrogatory answers were insufficient, 5
+
+19   //
+
+20
+            5
+               If CFL’s problem is with AFS’s discovery responses, it had roughly 15 months between
+21
+     when it received those responses and the discovery motions deadline to raise those issues with
+     the court. (See Sched. Ord. (Dkt. # 110).) The court will not reward CFL’s strategic decision to
+22   sit on those objections and spring them on the court less than three weeks before trial.
+
+
+     ORDER - 9
+ 1   the court finds that CFL has not been prejudiced because it has been aware that AFS was
+
+ 2   pursuing these theories. 6
+
+ 3          2.     June 2016 MBOL Invoices
+
+ 4          The court finds that the MBOL issue encompasses June 2016 shipments, in
+
+ 5   addition to February, March, and April 2016 shipments. CFL was on notice that AFS
+
+ 6   intended to challenge the June 2016 shipments. AFS deposed CFL witness Doug
+
+ 7   Culbertson on March 11, 2019, and questioned him about the May and June 2016
+
+ 8   shipments and whether AFS was owed a refund based on CFL’s failure to submit
+
+ 9   MBOLs. (See Block Ltr., Ex. 2 (“Culbertson Dep.”) at 234:9-235:20 (“Q: You don’t
+
+10   know why June was not refunded and May was? A: I have no idea what happened.”).)
+
+11   AFS deposed Don Orr on March 7, 2019, and discussed whether Mr. Orr planned for
+
+12   CFL to reimburse AFS for “May and June activity . . . where [Amazon Reference
+
+13   Number]s could be pooled on a master bill of lading.” (See id., Ex. 3 (“Orr Dep.”) at
+
+14   114:3-118:6; 125:23-129:15.)
+
+15          Additionally, AFS specifically identified in its answer to CFL’s first amended
+
+16   complaint that $145,698.94 remains unpaid by CFL based on unconsolidated June 2016
+
+17   shipments. (See Ans. to FAC (Dkt. # 144) ¶ 49 (“AFS admits that CFL agreed to
+
+18   self-audit its multiple BOL shipments occurring in May and June 2016, and agreed to
+
+19   //
+
+20          6
+               CFL also contends that AFS waived any Set Off Invoices arguments because AFS
+     stated that it set off those invoices from money that was “otherwise due” to CFL. (See, e.g.,
+21
+     MMJ Reply at 2.) CFL reads AFS’s statement too broadly. The court does not construe AFS’s
+     statement to waive all defenses and counterclaims on the amounts CFL billed AFS in the Set Off
+22   Invoices.
+
+
+     ORDER - 10
+ 1   repay these amounts, which amounted to $112,203.52 and $145,698.94 respectively.”).)
+
+ 2   AFS filed this answer on April 8, 2019. (See id. at 20.)
+
+ 3          Mr. Partin’s report also made clear that AFS intended to pursue the MBOL issue
+
+ 4   for June 2016 invoices when it stated that AFS “is also disputing” amounts that include
+
+ 5   “$145,698.94,” the exact amount AFS seeks in reimbursement due to CFL’s alleged
+
+ 6   overcharge for unconsolidated June 2016 shipments.
+
+ 7          Finally, CFL seeks reimbursement of the $112,203.52 it paid AFS for
+
+ 8   unconsolidated May 2016 shipments (see PTO at 3-4), which raises no issues different
+
+ 9   than for the June 2016 shipments. CFL does not explain why it should be entitled to
+
+10   pursue the May 2016 invoices while AFS is precluded from pursuing the June 2016
+
+11   invoices. For the reasons stated herein, the court finds that CFL is not prejudiced by AFS
+
+12   challenging the June 2016 shipments at trial.
+
+13   C.     CFL’s Motion for Entry of Monetary Judgment
+
+14          CFL seeks a monetary award under 28 U.S.C. § 2202 of $3,684,938.32,
+
+15   encompassing AFS’s set off amount of $2,856,602.00, plus $828,336.32 in prejudgment
+
+16   interest. (See MMJ at 6.) Section 2202 is part of the Declaratory Judgment Act, which
+
+17   “gave the federal courts competence to make a declaration of rights; it did not impose a
+
+18   duty to do so.” See Lear Siegler, Inc. v. Adkins, 330 F.2d 595, 599 (9th Cir. 1964) (citing
+
+19   Brillhart v. Excess Ins. Co., 316 U.S. 491, 494 (1942)). Courts have “repeatedly
+
+20   characterized the Declaratory Judgment Act as ‘an enabling Act which confers a
+
+21   discretion on the courts rather than an absolute right upon [the] litigant.’” Mercer Int’l,
+
+22   //
+
+
+     ORDER - 11
+ 1   Inc. v. U.S. Fid. & Guar. Co., 938 F. Supp. 680, 682 (W.D. Wash. 1996) (quoting Wilton
+
+ 2   v. Seven Falls Co., 515 U.S. 277, 287 (1995)).
+
+ 3          “Section 2202 of the Declaratory Judgments Act expressly provides for ‘further
+
+ 4   relief.’” Horn & Hardart Co. v. Nat’l R.R. Passenger Corp., 659 F. Supp. 1258, 1261
+
+ 5   (D.D.C. 1987), aff’d sub nom. Horn & Hardart Co. v. Nat’l Rail Passenger Corp., 843
+
+ 6   F.2d 546 (D.C. Cir. 1988) (quoting 28 U.S.C. § 2202). “This provision has been
+
+ 7   interpreted as providing for ‘supplemental’ relief which may be granted in a proceeding
+
+ 8   subsequent to the original.” (Id.) District courts have the power under 28 U.S.C. § 2202
+
+ 9   to award damages to give effect to a declaratory judgment. See Ins. Servs. of Beaufort,
+
+10   Inc. v. Aetna Cas. & Sur. Co., 966 F.2d 847, 852 (4th Cir. 1992).
+
+11          The court concludes that CFL’s motion for entry of monetary judgment is
+
+12   premature and denies it without prejudice on that basis. The court granted CFL summary
+
+13   judgment on its declaratory judgment claim that AFS could not set off invoices by
+
+14   surreptitiously sending CFL more shipments with no intention to pay. (See MSJ Order
+
+15   (Dkt. ## 214 (sealed), 220 (redacted)) at 46-51.) However, as discussed above, that order
+
+16   did not preclude AFS from challenging the timeliness, validity or cost of those invoices
+
+17   via its defenses and counterclaims. (See id.) Those issues remain the subject of factual
+
+18   disputes for trial. The court will not determine the sum that is “necessary and proper” to
+
+19   award CFL prior to trial.
+
+20          Accordingly, the court DENIES CFL’s motion for entry of monetary judgment
+
+21   without prejudice to CFL renewing it after trial. See Horn & Hardart, 659 F. Supp. at
+
+22   1261 (D.D.C. 1987) (explaining that the Declaratory Judgment Act “is broad enough to
+
+
+     ORDER - 12
+ 1   permit the court to grant additional relief long after the declaratory judgment has been
+
+ 2   entered, provided that the party seeking relief is not barred by laches”) (quoting 10A C.
+
+ 3   Wright, A. Miller, & M. Kane, Federal Practice and Procedure § 2771 (2d ed. 1983)).
+
+ 4   D.     CFL’s Fourth Motion in Limine
+
+ 5          CFL’s fourth motion in limine seeks to exclude all evidence, testimony and
+
+ 6   argument regarding the Set Off Invoices. (See MIL at 8-9.) CFL does not cite to a rule
+
+ 7   of evidence but appears to argue that the court should exclude such evidence on relevance
+
+ 8   grounds based on its above-discussed arguments that CFL was not on notice that AFS
+
+ 9   intended to challenge the Set Off Invoices. For the reasons stated above, the court finds
+
+10   that CFL was on sufficient notice and therefore DENIES CFL’s fourth motion in limine.
+
+11                                   IV.     CONCLUSION
+
+12          The court ORDERS that AFS may pursue its defenses and counterclaims relating
+
+13   to the Set Off Invoices and the MBOL issue for June 2016 shipments as described in the
+
+14   pretrial order at Sections II.B.3, II.B.6, III.B.3, and IV.B.5. (See PTO at at 5-7, 12-13.)
+
+15   Further, the court DENIES CFL’s motion for entry of monetary judgment (Dkt. # 241)
+
+16   without prejudice to CFL renewing the motion after trial and DENIES CFL’s fourth
+
+17   motion in limine (Dkt. # 216 at 8-9).
+
+18          Dated this16th day of October, 2019.
+
+19
+
+20                                                     A
+                                                       JAMES L. ROBART
+21
+                                                       United States District Judge
+22
+
+
+     ORDER - 13
+

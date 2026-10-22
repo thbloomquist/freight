@@ -1,0 +1,237 @@
+                                                           Date Issued: January 9, 2019
+
+                                                                  File: SC-2018-002688
+
+                                                                    Type: Small Claims
+
+
+                               Civil Resolution Tribunal
+
+   Indexed as: JPP TRANSPORT LTD v. Rock N Roll Xpress Ltd., 2019 BCCRT 44
+
+
+  BETWEEN:
+
+
+            JPP TRANSPORT LTD
+
+
+                                                                        APPLICANT
+
+
+  AND:
+
+
+            Rock N Roll Xpress Ltd.
+                                                                     RESPONDENT
+
+
+
+                             REASONS FOR DECISION
+
+
+Tribunal Member:                                                        Kate Campbell
+
+
+INTRODUCTION
+
+1. The applicant, JPP TRANSPORT LTD, says the respondent, Rock N Roll Xpress
+   Ltd., failed to pay for a load hauled from Ontario to Alberta. The applicant seeks
+   payment of $4,200, plus contractual interest.
+2. The respondent says it is not obligated to pay because the applicant missed 2
+    delivery appointments.
+
+3. The applicant is represented by an employee, Satpal Girn. The respondent is
+    represented by an employee or principal, Jack Gill.
+
+
+JURISDICTION AND PROCEDURE
+
+4. These are the formal written reasons of the Civil Resolution Tribunal (tribunal). The
+    tribunal has jurisdiction over small claims brought under section 118 of the Civil
+    Resolution Tribunal Act (Act). The tribunal’s mandate is to provide dispute
+    resolution services accessibly, quickly, economically, informally, and flexibly. In
+    resolving disputes, the tribunal must apply principles of law and fairness, and
+    recognize any relationships between parties to a dispute that will likely continue
+    after the dispute resolution process has ended.
+
+5. The tribunal has discretion to decide the format of the hearing, including by writing,
+    telephone, videoconferencing, email, or a combination of these. In the
+    circumstances here, I find that I am properly able to assess and weigh the
+    documentary evidence and submissions before me. Further, bearing in mind the
+    tribunal’s mandate that includes proportionality and a speedy resolution of disputes,
+    I find that an oral hearing is not necessary. I also note that in Yas v. Pope, 2018
+    BCSC 282 at paragraphs 32 to 38, the BC Supreme Court recognized the tribunal’s
+    process and found that oral hearings are not necessarily required where credibility
+    is in issue.
+
+6. The tribunal may accept as evidence information that it considers relevant,
+    necessary and appropriate, whether or not the information would be admissible in a
+    court of law. The tribunal may also ask questions of the parties and witnesses and
+    inform itself in any other way it considers appropriate.
+
+
+
+
+                                             2
+7. Under tribunal rule 126, in resolving this dispute the tribunal may: order a party to
+    do or stop doing something, order a party to pay money, or order any other terms or
+    conditions the tribunal considers appropriate.
+
+ISSUES
+
+8. The issue in this dispute is whether the respondent owes the applicant $4,200 plus
+    interest, for freight hauling.
+
+
+EVIDENCE AND ANALYSIS
+
+9. In a civil claim such as this, the applicant bears the burden of proof, on a balance of
+    probabilities. I have only addressed the evidence and arguments to the extent
+    necessary to explain my decision.
+
+10. The documents in evidence show that the applicant picked up the load on
+    September 29, 2017 in Ontario, and dropped it off in Alberta on October 5, 2017.
+    The load consisted of around 10,000 pounds of “general freight”. The applicant’s
+    invoice and the respondent’s load confirmation form both show that the agreed
+    charge for this service was $4,200.
+
+11. The respondent says it paid $3,047 towards the invoice, and withheld the rest
+    because the applicant missed the agreed delivery date, then missed a second
+    rescheduled delivery date. As discussed below, the parties’ alleged agreed date
+    was not specified. The respondent says it had to pay for extra crane costs, as the
+    unloading crane was rescheduled twice due to these delays.
+
+12. The respondent says $2,306 in crane costs were charged back to it by its client, so
+    it deducted half of the chargeback amount from its payment of the applicant’s bill.
+    However, the respondent did not provide any evidence about the crane costs, such
+    as an invoice, receipt, information from its client, or the name of the client. Since the
+    crane costs are unsubstantiated, I am not persuaded by this argument that the
+    applicant should bear any costs for the crane services.
+
+
+
+                                             3
+13. Ms. Girn, on behalf of the applicant, says she received the respondent’s cheque for
+    $3,047 after the Dispute Notice was filed. The respondent put a stop payment on
+    this cheque, so I find it is not determinative of this dispute.
+
+14. The respondent says the applicant was contractually obligated to deliver the load by
+    a specific date. I do not agree. First, none of the documents before me show what
+    date the load was supposed to be delivered. The respondent’s load confirmation
+    form says the carrier must meet the delivery date specified on the form. However,
+    the form does not specify a delivery date. The space for “delivery date” on the form
+    was left blank. The applicant’s bill of lading also does not specify a delivery date.
+
+15. The bill of lading from Trylon, the original shipper, specifies a delivery date of
+    October 2. However, that document is an agreement between Trylon and the
+    respondent. The applicant is not mentioned on that form, which was created before
+    the applicant picked up the load. I find that Trylon’s bill of lading did not create a
+    contractual obligation for the applicant to deliver the load by October 2.
+
+16. I note that the applicant’s October 2, 2017 email to the respondent admits that the
+    load was delayed, which indicates there was an agreement to deliver the load
+    before October 5. However, I find there is no contractual provision that entitles the
+    respondent to withhold payment of any portion of the applicant’s invoice due to that
+    delay. As previously stated, since there was no delivery date specified on the load
+    confirmation form, so that document does not permit any deduction from payment.
+
+17. The respondent provided a copy of an unsigned, undated contract entitled, “Broker
+    & Carrier Agreement”. The respondent says that under this contract, it can deduct
+    money for being late or missing a crane appointment. However, I find the contract
+    provided by the respondent does not bind the applicant. The contract includes blank
+    spaces for dates, the name and address of the carrier, and signatures from the
+    respondent and the carrier’s authorized representative. Because the contract is
+    blank, the applicant is not named anywhere on it. Thus, the applicant is not a party
+    to that contract. There is no evidence before me to establish that the applicant was
+
+
+
+
+                                              4
+    provided a copy of this contract before the load was carried. For these reasons, I
+    find the respondent’s blank contract is not binding on the applicant.
+
+18. The respondent’s load confirmation form says that the load confirmation terms are
+    subject to the respondent’s “General Terms and Broker Agreement”. However, the
+    contract provided in evidence is not titled “General Terms and Broker Agreement”,
+    and is not drafted as a generic agreement setting out the respondent’s expectations
+    for its carriers. Rather, the respondent’s contract anticipates signatures and specific
+    consent by an authorized representative of each specific carrier. Since no such
+    signatures were provided, I find the applicant is not a party to that contract. While
+    the load confirmation form specifies that it is binding even if unsigned, I find that
+    provision does not apply to the blank contract provided by the respondent. For a
+    contract to be binding, both parties have to understand its content and agree to it.
+    There is no evidence before me indicating that the applicant agreed to the terms set
+    out in the respondent’s blank contract.
+
+19. I agree with the respondent that the engine trouble the applicant used to explain its
+    delay is unconvincing, since the repair invoice it provided showed routine
+    maintenance that could have been provided elsewhere. However, I find the
+    applicant delivered the load as required under the documentation provided in
+    evidence. Based on the evidence before me, I find that a 3 day delay from October
+    2 to October 5 is not, on its own, so unreasonable as to violated an implied term of
+    reasonable delivery. Also, I again note the respondent provided no evidence to
+    substantiate its claim of crane costs, so I find it is not entitled to offset these costs
+    by deducting from the invoice.
+
+20. For all of these reasons, I find the respondent must pay the applicant $4,200 for
+    hauling. The applicant also claims 2% contractual interest. Its October 5, 2017
+    invoice says 2% annual interest will be charged on overdue invoices. I therefore find
+    the applicant is entitled to 2% annual interest from November 5, 2017. This equals
+    $98.96.
+
+
+
+
+                                              5
+21. Under section 49 of the Act, and tribunal rules, the tribunal will generally order an
+    unsuccessful party to reimburse a successful party for tribunal fees and reasonable
+    dispute-related expenses. I see no reason in this case not to follow that general
+    rule. I find the applicant is entitled to reimbursement of $175. The applicant also
+    claims $60 for a company search performed in order to serve the Dispute Notice on
+    the respondent. This amount is reasonable and I order the respondent to reimburse
+    it.
+
+
+ORDERS
+
+22. I order that within 30 days of the date of this decision, the respondent pay the
+    applicant a total of $4,533.96, broken down as follows:
+
+          a. $4,200 for its invoice
+
+          b. $98.96 in contractual interest, and
+
+          c. $235 for tribunal fees and dispute-related expenses.
+
+23. The applicant is entitled to post-judgment interest under the Court Order Interest
+    Act, as applicable.
+
+24. Under section 48 of the Act, the tribunal will not provide the parties with the Order
+    giving final effect to this decision until the time for making a notice of objection
+    under section 56.1(2) has expired and no notice of objection has been made. The
+    time for filing a notice of objection is 28 days after the party receives notice of the
+    tribunal’s final decision.
+
+
+
+
+                                               6
+25. Under section 58.1 of the Act, a validated copy of the tribunal’s order can be
+   enforced through the Provincial Court of British Columbia. A tribunal order can only
+   be enforced if it is an approved consent resolution order, or, if no objection has
+   been made and the time for filing a notice of objection has passed. Once filed, a
+   tribunal order has the same force and effect as an order of the Provincial Court of
+   British Columbia.
+
+
+
+
+                                                     Kate Campbell, Tribunal Member
+
+
+
+
+                                          7
+

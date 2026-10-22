@@ -1,0 +1,178 @@
+ 
+                      
+ 
+                      ____________________________
+ 
+                           December 17, 1997
+                      ____________________________
+ 
+ 
+                            GSBCA 13964-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D.  Norcom, Auditor,  Tri-State  Motor  Transit Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey J.  Thurston,  Director,  Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James  F. Quinn,  Staff Judge  Advocate, Headquarters,
+   Military  Traffic  Management  Command, Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   HYATT, Board Judge.
+ 
+        On   December  1,  1992,  the  Defense  Contract  Management
+   Administrative Office (DCMAO)  in Dayton, Ohio issued  government
+   bill of  lading (GBL) G-0,396,602 to Tri-State Motor Transit Co.,
+   for  the shipment of  Class A explosives from  Piqua, Ohio to the
+   Naval  Weapons Station  in Yorktown,  Virginia.   The  applicable
+   tariff is identified in Block 20 of the GBL as "TSMT 4001."   The
+   GBL stated  that this was  a foreign military sales  shipment and
+   that  dromedary service  was requested,  along  with dual  driver
+   protective service.   In Block 24 of  the GBL, under the  heading
+   "seal numbers," is the annotation "0037, 0038."  The GBL also set
+   forth  the following  annotations,  among  others,  in  block  18
+   (Description of Articles):
+ 
+             FLAME  OR HEAT  PRODUCING TOOLS  WILL NOT  BE
+             USED TO REMOVE SECURITY DEVICES.
+ 
+             SHIPPER SEAL(S)  APPLIED, CARRIER  MAY REMOVE
+             SEAL(S)  AND  REPLACE   WITH  THE  EQUIVALENT
+             SEAL(S). . . . APPLICATION OF SHIPPER SEAL(S)
+             DOES NOT CONSTITUTE  A REQUEST FOR  EXCLUSIVE
+             USE OF VEHICLE.
+   The shipment was  received in Yorktown, Virginia  on February 11,
+   1993.  Tri-State submitted a  voucher for payment on February 16,
+   1993.
+ 
+ 
+        On December 29, 1995, Tri-State filed a supplemental voucher
+   with  the General Services Administration (GSA) for an additional
+   payment of $655.41 for providing exclusive use  of the dromedary.
+   Tri-State also  presented an  alternate  claim in  the amount  of
+   $36.66  to correct  the  charge  for  provision  of  dual  driver
+   protective services.   Tri-State  received payment  of $36.66  on
+   October  18,  1996, but  GSA  denied  the  claim of  $655.41  for
+   "exclusive use" charges.  Tri-State has asked the Board to review
+   GSA's denial of this portion of its claim.
+ 
+                               Discussion
+ 
+        On the date that the  GBL was issued, Tri-State's Tariff ICC
+   TSMT 4001, Item 470-1, paragraph 4, provided as follows:
+ 
+                  The use  of  any  method  of  sealing  a
+             dromedary box  or 410  container, i.e.:  bolt
+             seals,  padlocks,  cable   locks,  ball  type
+             locks, wire twists,  etc., which require  the
+             use of  mechanical means  to break  that seal
+             will be considered as a request for exclusive
+             use irregardless of any  notation on the bill
+             of lading. . . .
+ 
+   A sample of  a such a  lock has been  provided by Tri-State,  but
+   there is no evidence in the record  to show that the type of lock
+   submitted by Tri-State to the Board was in fact used to seal this
+   particular shipment.   To support its contention that  one of the
+   types of seals described in its tariff was applied by the shipper
+   to the  shipment at issue in this case, Tri-State relies upon its
+   submission  to the  Board in GSBCA  13737-RATE.   This submission
+   addressed  the  provisions  of  the  Defense  Traffic  Management
+   Regulation  (DTMR) and  is discussed  at length  in the  decision
+   issued in that  case.  Tri-State Motor Transit  Co., GSBCA 13737-
+   RATE,  97-1 BCA     28,945; accord  Tri-State Motor  Transit Co.,
+   GSBCA 13747-RATE (Oct. 30, 1997). 
+ 
+        As the  Board pointed  out in  Tri-State, GSBCA  13737-RATE,
+   Tables 34-2  and  34-3 of  the DTMR  prescribe minimum  standards
+   applicable  to shipments of  confidential and sensitive material,
+   including   ammunition  and  explosives.    At  a  minimum,  such
+   shipments  require  DOD  constant  surveillance  service.   These
+   shipments  do  not  necessarily  require  exclusive  use  of  the
+   dromedary or vehicle,  however.  Regardless of  whether exclusive
+   use is  required, the  DTMR further states  that confidential  or
+   sensitive  materials will be sealed  by the shipper in accordance
+   with DTMR paragraph 34-10.  97-1 BCA at 114,216.
+ 
+        Paragraph   34-10  of  the   DTMR  makes  clear   that  seal
+   application  by the  shipper does  not  necessarily constitute  a
+   request for  exclusive use,  and refers  to paragraph  34-11 when
+   exclusive use is required.  Paragraph 34-11 provides as follows:
+ 
+ 
+             When exclusive use of a vehicle is  required,
+             or  when exclusive use of a closed and locked
+             compartment on carrier equipment is used  for
+             movement   of   SECRET,    CONFIDENTIAL,   or
+             sensitive material, a serially numbered cable
+             seal lock  (NSN 5340-00-0084-1570),  or other
+             type of specialized  seal that provides equal
+             or better  security or  carload or  truckload
+             shipments,  must  be  applied.    A  serially
+             numbered, ball-type  seal with a  peened bolt
+             and nut (NSN 5340-00-081-3881), or a number 5
+             American  wire gauge  steel  wire twist  (NSN
+             9505-00-244-6550), may  be substituted.   See
+             Figure  32-1, Item  21, Instruction  d(1)(h),
+             for required GBL annotation.
+ 
+        Item 21, Instruction  d(1)(h) of the DTMR  provides, "[w]hen
+   applicable, [annotate the  GBL]: 'Flame  or heat-producing  tools
+   will not be used to  remove security devices.' (See paragraph 34-
+   11)."  As  the Board recognized  in Tri-State, GSBCA  13737-RATE,
+   the DTMR spells out the specific language of the annotations that
+   are required on  GBLs when shippers apply seals  to sensitive and
+   confidential materials.  In addition, the DTMR explains that  for
+   shipments requiring exclusive use, the GBL must be annotated with
+   the words: "Exclusive use of vehicle requested by Government," or
+   language  to  this  effect.    Further,  when  exclusive  use  is
+   requested, the DTMR requires that the GBL contain  an endorsement
+   to  be  signed  by  the  carrier  at  the  freight's  destination
+   certifying that exclusive use was provided.  97-2 BCA at 144,216-
+   17.
+ 
+        Tri-State contends that under the DTMR the annotation "Flame
+   or  heat producing  tools will  not  be used  to remove  security
+   devices" will be  used only when the Department  of Defense (DOD)
+   requests exclusive use.  Therefore, according to Tri-State, since
+   this annotation was used on the GBL, it must be presumed that one
+   of the seals  mentioned in DTMR paragraph 34-11 was used and that
+   such usage constituted  a request for  exclusive use because  the
+   usage  of such  a seal  constitutes a  request for  exclusive use
+   under the terms of Tri-State's tariff.  
+ 
+        GSA  and  the  Military Traffic  Management  Command  (MTMC)
+   contend that to  be entitled to additional  payment for providing
+   exclusive use of the vehicle, Tri-State  must demonstrate that in
+   fact a lock  of the type described  in its tariff was  applied by
+   the shipper.   The mere  use of the aforementioned  annotation is
+   not sufficient to establish  a prima facie case that  a lock like
+   those  delineated in  the tariff  was used  by the shipper.   The
+   Board  asked Tri-State if  it could provide  any documentation to
+   show that the  type of lock  listed in its  tariff was used,  and
+   explained  that the sample lock, absent  a means of linking it to
+   the  shipment  in question,  was  not  enough to  establish  that
+   exclusive use was provided.   Tri-State has not responded to this
+   inquiry either  to produce the  evidence requested or  to explain
+   the seal numbers referenced in block 24.  
+ 
+ 
+        In essence,  Tri-State has done  no more than argue  that it
+   follows from the  DTMR that a lock  of the type described  in its
+   tariff should have  been applied by the  shipper.  As we  held in
+   GSBCA 13737-RATE, however, this is  not enough to prove that such
+   a lock was in fact applied to  this shipment.  In the absence  of
+   specific evidence showing  the seal  applied by  the shipper,  we
+   cannot conclude that DOD requested exclusive use under  the terms
+   of  Tri-State's tariff.   We consequently find  that GSA properly
+   denied this claim.
+   _______________________________
+ 
+                                      CATHERINE B. HYATT
+                                      Board Judge

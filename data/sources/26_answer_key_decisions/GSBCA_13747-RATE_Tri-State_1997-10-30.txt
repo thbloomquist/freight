@@ -1,0 +1,340 @@
+                   
+
+
+
+                                                
+
+                             October 30, 1997
+                                                
+
+
+                             GSBCA 13747-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Col. James F. Quinn, Staff Judge Advocate, Department of the
+Army, Headquarters, Military Traffic Management Command, Falls
+Church, VA, appearing for Department of Defense.
+
+GOODMAN, Board Judge.
+
+     This case involves two shipments.  On July 31, 1991, the
+traffic management office at Dover Air Force Base, Dover,
+Delaware, issued Government bill of lading (GBL) E-2,297,407 to
+Tri-State Motor Transit Co. (Tri-State).  This GBL described the
+freight being transported as electrical instruments.  The GBL
+states that dromedary service was requested.  In block 24, under
+the heading "seal numbers," the GBL contains the annotation
+"0495668/0495669."  The GBL also contains the following
+annotations, among others:
+
+     FLAME OR HEAT PRODUCING TOOLS WILL NOT BE USED TO REMOVE
+     SECURITY DEVICES.
+
+     SHIPPER SEAL(S) APPLIED, CARRIER MAY REMOVE SEAL(S) AND
+     REPLACE WITH EQUIVALENT SEAL(S). . . . APPLICATION OF
+     SHIPPER SEAL(S) DOES NOT CONSTITUTE A REQUEST FOR
+     EXCLUSIVE USE OF VEHICLE.
+
+The GBL also notes that this shipment was a foreign military
+sales shipment.
+
+     Tri-State submitted a freight bill to the Department of
+Defense (DoD) on August 13, 1991, for transporting this shipment. 
+Thereafter, Tri-State claimed that it was owed an additional
+amount of $474.75 because DoD requested, and Tri-State allegedly
+provided, exclusive use of the container that Tri-State used to
+transport the shipment.  On September 7, 1995, the General
+Services Administration (GSA) denied Tri-State's claim stating:
+
+     There is nothing on the GBL to invoke exclusive use
+     provisions.  Notations on the GBL such as "Do not use
+     flame or heat producing tools to break a seal" are
+     safety precautions for the shipment of explosives, and
+     cannot be construed as a limitation or denial of the
+     carrier's right of access to the equipment.  
+
+     The circumstances of the second shipment involved in this
+case are similar.  On July 24, 1991, the Sierra Army Depot in
+Herlong, California, issued Government bill of lading (GBL)
+E-1,132,440 to Tri-State.  This GBL described the freight being
+transported as explosives.  The GBL states that dromedary service
+was requested and furnished.  In block 24, under the heading
+"seal numbers," the GBL contains the annotation "30755,56."  The
+GBL also contains the following annotations, among others:
+
+     FLAME OR HEAT PRODUCING TOOLS WILL NOT BE USED TO REMOVE
+     SECURITY DEVICES.
+
+     DUAL DRIVER PROTECTIVE SERVICE REQUESTED.
+     
+     Tri-State submitted a freight bill to DoD on August 13,
+1991, for transporting this shipment.  Thereafter, Tri-State
+claimed that it was owed an additional amount of $2,525 because
+DoD requested, and Tri-State allegedly provided, exclusive use of
+the container that Tri-State used to transport the shipment.  On
+September 7, 1995, GSA denied Tri-State's claim stating:
+
+     There is nothing on the GBL to invoke exclusive use
+     provisions.  Notations on the GBL such as "Do not use
+     flame or heat producing tools to break a seal" are
+     safety precautions for the shipment of explosives, and
+     cannot be construed as a limitation or denial of the
+     carrier's right of access to his equipment.  
+
+Request for Review
+
+     On November 15, 1995, Tri-State asked the General Accounting
+Office (GAO) to review GSA's decisions with regard to the GBLs at
+issue in this case.  This request for review was originally
+docketed as B-270570.  No action was taken by GAO prior to mid-
+1996, when the authority to review the actions of the
+Administrator of General Services stemming from audits of bills
+presented by carriers or freight forwarders for transporting
+individuals or property for the United States Government was
+transferred from GAO to this Board.  C.I. Whitten Transfer Co.,
+GSBCA 13911-RATE, 97-1 BCA  28,860.
+
+
+                                Discussion
+
+Timeliness
+
+     The Military Traffic Management Command (MTMC) contends that
+the claims are untimely based upon the applicable statutory time
+limits. 
+
+     Section 3726 of title 31, United States Code, imposes one
+time limitation on the filing of carrier claims with GSA, and
+another on the filing of requests for administrative review of
+GSA's decisions on those claims.  As to the claims themselves,
+subsection (a) of the statute provides:
+
+     A claim under this section shall be allowed only if it
+     is  received by the Administrator [of General Services]
+     not later than 3 years (excluding time of war) after
+     the [latest] of the following dates:
+     
+          (1)  accrual of the claim;
+
+          (2)  payment for the transportation is made;
+
+          (3)  refund for an overpayment for the
+          transportation is made; or
+
+          (4)  a deduction under subsection (b) of this
+          section is made.
+
+See also 41 CFR 101-41.602 (1996) (GSA regulations implementing
+this statute).
+
+     In 1975, the statute was amended to include a limitation on
+the time within which administrative review of a GSA audit action
+or determination on a claim may be made.  Pub. L. No. 93-604,
+ 201(3), 88 Stat. 1959, 1960 (1975).  This provision survives,
+in modified form, as 31 U.S.C.  3726(g)(1).  It permits a review
+to be made "if the request [for such review] is received not
+later than 6 months (excluding time of war) after the
+Administrator acts or within the time stated in subsection (a) of
+this section, whichever is later."
+
+     We have held that we will not consider a claim unless it
+meets both of these time requirements -- presentation to GSA
+within three years of the latest of the four events described in
+subsection (a) and filing with us (or GAO, as previously
+required) within six months of the later of the two events
+described in subsection (g)(1).  C.I. Whitten Transfer Co., 97-1
+BCA at 143,987.
+
+     By letter dated October 7, 1997, to this Board, claimant has
+supplied sufficient information to establish that its claims were
+timely filed with GSA within three years of the date that payment
+was made.  The request for review to GAO was timely made within
+six months of the date that GSA rejected the claims.  Thus,
+claimant has complied with the statute of limitations insofar as
+these claims are concerned.
+
+Exclusive Use
+
+     The identical issue raised in this case was discussed at
+length in Tri-State Motor Transit Co., GSBCA 13737-RATE, 97-1 BCA
+ 28,945.  As in that case, on the date that the GBLs were issued
+in the instant case, Tariff ICC TSMT 4000-B, Item 525, paragraph
+4, read as follows:
+
+     The use of any method of sealing a dromedary box or 410
+     container, i.e.:  bolt seals, padlocks, cable locks,
+     ball type locks, wire twists, etc., which require the
+     use of mechanical means to break that seal will be
+     considered as a request for exclusive use irregardless
+     of any notation on the bill of lading . . . . 
+
+     As evidence that one of the types of seals described in its
+tariff was applied by Dover Air Force Base and the Sierra Army
+Depot to the shipments at issue in this case, Tri-State relies
+upon provisions of the Defense Traffic Management Regulation
+(DTMR), paragraphs 34-10 and 34-11.  We addressed this argument
+in Tri-State:
+ 
+          In Tables 34-2 and 34-3, the DTMR sets out minimum
+     standards that apply to shipments of confidential and
+     sensitive material, including ammunition.  Shipments of
+     confidential material require, at a minimum, DoD
+     constant surveillance service, but do not require
+     exclusive use.  The requirements for shipments of
+     sensitive material vary according to the type of
+     material being transported.  The most sensitive
+     material requires protective security service, armed
+     guard surveillance, security escort vehicle service,
+     and exclusive use.  The least sensitive material
+     requires DDPS [dual driver protective service], but
+     does not require exclusive use.  For confidential and
+     sensitive material, regardless of whether exclusive use
+     is required, the DTMR explains that the shipment will
+     be sealed by the shipper in accordance with DTMR
+     paragraph 34-10. 
+
+          DTMR paragraph 34-10 states that shippers will
+     apply seals to shipments of confidential or sensitive
+     material.  Paragraph 34-10 states, "Seal application by
+     shipper does not constitute a request for exclusive use
+     of vehicle.  See paragraph 34-11 when exclusive use of
+     vehicle is required."  Paragraph 34-11 reads as
+     follows:
+
+               When exclusive use of a vehicle is
+          required, or when  exclusive use of a closed
+          and locked compartment on carrier equipment
+          is used for movement of SECRET, CONFIDENTIAL,
+          or sensitive material, a serially numbered
+          cable seal lock (NSN 5340-00-084-1570), or
+          other type of specialized seal that provides
+          equal or better security on carload or
+          truckload shipments, must be applied.  A
+          serially numbered, ball-type seal with a
+          peened bolt and nut (NSN 5340-00-081-3381),
+          or a number 5 American wire gauge steel wire
+          twist (NSN 9505-00-244-6550), may be
+          substituted.  See Figure 32-1, Item 21,
+          Instruction d(1)(h), for required GBL
+          annotation.  
+
+          Item 21, Instruction d(1)(h) of the DTMR provides,
+     "When applicable, [annotate the GBL]: 'Flame or
+     heat-producing tools will not be used to remove
+     security devices.'  (See. para 34-11)."  The DTMR
+     spells out the specific language of the annotations
+     that are required on GBLs when seals are applied by
+     shippers to sensitive and confidential shipments.  The
+     DTMR also explains that, for shipments requiring
+     exclusive use, the GBL must be annotated with the words
+     "Exclusive use of vehicle requested by Government," or
+     similar language.  In addition, when exclusive use is
+     requested, the DTMR says that the GBL must contain an
+     endorsement to be signed by the carrier at the
+     freight's destination, certifying that exclusive use
+     was furnished.  DTMR, Item 21, Instructions d(1)(e),
+     o(2).
+
+Id. at 144,216-17. 
+
+     In the instant case, as in Tri-State, Tri-State reads the
+DTMR to say that the annotation "Flame or heat-producing tools
+will not be used to remove security devices" will be used only
+when DoD requests exclusive use.  Tri-State says that, because
+its GBL includes this annotation, it must presume that the
+shippers applied one of the seals mentioned in paragraph 34-11,
+which describes the seals that are applied when DoD requests
+exclusive use.  According to Tri-State, if one presumes that DoD
+applied a type of seal described in paragraph 34-11, this
+constitutes a request for exclusive use according to Tri-State's
+tariff because the seals described in paragraph 34-11 are
+included within the types of seals mentioned in Tri-State's
+tariff. 
+     
+      GSA's position is that Tri-State has not established that
+the shipments in this case were secured with anything other than
+ordinary seals.  In response, Tri-State has supplied information
+concerning one of the shipments in this case.  Tri-State alleges
+that a document in the record "confirmed that a security device
+as defined in the instructions set forth in [DTMR 34-11] was
+applied to a carrier's equipment" with regard to GBL E-1,132,440. 
+This document is a letter dated June 27, 1996, executed by
+another individual on behalf of the traffic manager at Sierra
+Army Depot, which indicates that a "Serially numbered Tyden Ball
+Seal" was applied.  GSA submitted an affidavit from the traffic
+manager which states:
+
+     The shipment in question . . . did not have, nor did it
+     require a "special security device" applied to the
+     dromedary container in which the shipment was placed
+     into for transport.  What was required and applied to
+     the dromedary container were two each Tyden ball seals
+     . . .  which is an ordinary security seal applied to
+     all dromedary containers or vans departing Sierra Army
+     Depot.
+
+     . . . .
+
+     The individual that signed [the June 27, 1996, letter]
+     was attempting to explain the type seal used, which was
+     nothing more than the standard Tyden ball seal.
+
+Affidavit of Thomas H. Ryan (Nov. 25, 1996).
+     
+     On August 26, 1997, the Board asked Tri-State to submit any
+documentation that would indicate the type of seal placed on the
+carrier's equipment.  Tri-State never provided any documentation. 
+
+     In Tri-State, we stated:
+
+     The DTMR makes it clear that, even if this shipment was
+     confidential or sensitive, not all shipments of
+     confidential or sensitive material require exclusive
+     use, that shipments of these materials will be sealed
+     by the shipper, and that the application of a seal by
+     the shipper does not constitute a request for exclusive
+     use.  The DTMR also makes it clear that, when exclusive
+     use is requested, particular types of seals are
+     required, but there is no evidence that one of these
+     seals was used for this shipment.  The DTMR does not
+     say that the flame or heat-producing tools annotation
+     can be used only when DoD requests exclusive use, or
+     that this annotation amounts to a request for exclusive
+     use.  In fact, the DTMR's explanation of how to
+     annotate a GBL to request exclusive use does not
+     mention flame or heat-producing tools.  The fact that
+     the GBL was annotated to refer to the use of flame or
+     heat-producing tools does not mean that DoD applied one
+     of the types of seals described in Tri-State's tariff
+     and, by doing so, requested exclusive use.
+
+97-1 BCA at 144,217.
+
+     In the instant case, Tri-State has not established that the
+type of seal applied to the two shipments at issue was one of the
+types of seals identified in either Tri-State's tariff or in DTMR
+34-11.  We have no evidence of the type of seal applied to the
+shipment from Dover Air Force Base.  The evidence we have
+concerning the seal applied to the shipment from Sierra Army
+Depot establishes that a serially-numbered Tyden ball seal was
+applied.  Tri-State has not established that the seal could be
+broken only by mechanical means or that the seal had a peened
+bolt and nut.  Without such evidence, we cannot conclude that DoD
+requested exclusive use according to the terms of the tariff.
+
+
+
+
+                                   ____________________
+                                   ALLAN H. GOODMAN
+                                   Board Judge

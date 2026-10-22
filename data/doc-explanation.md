@@ -193,10 +193,11 @@ Read the 210 first when the shipper receives one: its numbers need no reading. T
 | Discount %, fuel % | PDF printed % | 210 text (AAA Cooper, Estes) | Otherwise derive them: discount ÷ gross, fuel ÷ net. ODFL's first bill: $188.00 ÷ $261.11 = 72.0%; $12.79 ÷ $73.11 = 17.5% |
 | Rate unit | none | none | Test weight × rate = charge; never assume. SEFL "60080" × 5.09 cwt = $3,058.07, so $600.80/cwt |
 | Bill type, correction | PDF title plus a changed amount or payer on a known PRO | 210 B3-08 | ODFL titles a re-bill to a new payer "ORIGINAL INVOICE", so the title alone misleads |
-| Carrier's reason for a change | PDF remarks ("PER GOOGLE EARTH …", "W & I REWEIGH …") | 210 K1 or L5 text (Estes) | If neither has it, ask the reviewer |
+| Carrier's reason for a change | PDF remarks ("PER GOOGLE EARTH …", "W & I REWEIGH …") | 210 K1 or L5 text (Estes) | If neither has it, flag the line in its own bucket, "unsupported change, carrier's record requested", counted apart in Test 1 (founders, 2026-10-20) |
 | What the BOL asked for | The PDF's echo of the BOL: special instructions, declared class, quote number | none | The 210 does not carry it |
 | Ship date | 210 B3-12 or G62 | PDF | BOL |
-| Bill date, for the clock | The earliest of: the first 210's B3-06, the PDF bill date, the earliest-dated "PREVIOUSLY INVOICED ON" entry. That list runs newest first and can stop short (UPS Freight's never shows more than four; on 4 of 8 TForce bills its earliest entry falls 133-512 days after shipment), so treat it as a "no later than" date | Statement date, marked late | Otherwise the clock is "unknown", shown as such |
+| Receipt date, for the clock | The date the customer received each bill print: for a 210, its interchange date (ISA-09 / GS-04; 1 to 40 days after the bill date on the real 210s held); for a PDF, the e-mail or portal timestamp; on paper, a received stamp ("FEB 23 REC'D" on an ODFL bill dated 02/18/05, set 21); the payment firm's process date | The bill date (next row), as the earliest the bill could have arrived, marked as a fallback | The 180-day clocks run from receipt (49 U.S.C. 13710(a)(3)); a reprint's date or a re-sent file is never the first receipt. Receipt date first, bill date as the fallback (founders, 2026-10-20) |
+| Bill date, the clock's fallback | The earliest of: the first 210's B3-06, the PDF bill date, the earliest-dated "PREVIOUSLY INVOICED ON" entry. That list runs newest first and can stop short (UPS Freight's never shows more than four; on 4 of 8 TForce bills its earliest entry falls 133-512 days after shipment), so treat it as a "no later than" date | Statement date, marked late | Otherwise the clock is "unknown", shown as such |
 | Delivery date | Not the bill: the delivery receipt or a 214 | 210 only when coded 035 (actual) | ODFL codes its 210 date 017 (estimated) |
 | Payer, terms | 210 B3-04 and bill-to | PDF terms box | Statement |
 | Paid, open balance | Statement | XPO and SEFL balance lines | The shipper's payment export |
@@ -281,15 +282,17 @@ A contract can move the burden: First Brands' requires the carrier to hold the s
 - the contract's;
 - short windows such as XPO's 15 days for a guarantee refund.
 
+Aim inside the earliest. Windows are not always enforced: Yellow approved a claim filed 189 days after pickup against its own form's "180 days of pickup" (`doc-exploration.md` §5.5). So a line up to 10 days past the earliest deadline is still shown, as "late: file now, may be refused". The founders' words (2026-10-20): "Make it noted this isn't ALWAYS enforced. So maybe we have a buffer of 10 days but really try to get it into this 180 day gap." Courts enforce the statute's 180 days (*Southern Furniture*: "not optional"), so the buffer is no reason to plan past it.
+
 Then watch the carrier's clocks after filing: 30 days to acknowledge and 60 to decide (Part 378). Yellow's draft for a real claim is dated 84 days after it received the claim; the approval date is not printed.
 
 **The verdict per line** [our call]:
-- **Flag for dispute:** the difference is above tolerance, the line is inside the window, and the proof is in hand or is a document the carrier must produce (a certificate).
+- **Flag for dispute:** the carrier owes money on the difference, the line is inside the window or no more than 10 days past it, and the proof is in hand or is a document the carrier must produce. When the only thing missing is the carrier's own record (a certificate behind a reweigh, a reason for a change), the flag goes in its own bucket, "unsupported change, carrier's record requested", counted apart in Test 1 (founders, 2026-10-20).
 - **Ask the reviewer:** the trigger is in question. Ask once per consignee, not once per bill.
 - **Not checkable:** name the missing input and who can supply it.
 - **Matches.**
 
-Tolerances are set per charge type in dollars and percent, strict on extras (`software-initial-pitch.md` §6). The values are not set. Flagged lines are grouped by cause and carrier, because one claim may cover many shipments with the same issue (49 CFR 378.3(b)). Each line shows the reviewer three things: the dollars at stake (billed − expected), the earliest deadline and the proof.
+For now there is no tolerance: any difference in the shipper's favour is flagged, whatever its size (founders, 2026-10-20: "For now lets say any difference, so long as there is money that the carrier needs to pay"). Per-charge tolerances in dollars and percent (`software-initial-pitch.md` §6) can come later. Flagged lines are grouped by cause and carrier, because one claim may cover many shipments with the same issue (49 CFR 378.3(b)). Each line shows the reviewer three things: the dollars at stake (billed − expected), the earliest deadline and the proof.
 
 **The claim the pipeline fills.** Part 378.4 requires the claimant's name, its file number if any, the amount sought if known, and (for an overcharge) the freight bill. It allows the rate, class or weight claimed, the tariff authority, the payment details and other documents. The standard form adds the PRO and date, the nature of the error, paid against should-be and, on most carriers' forms, a bond of indemnity.
 

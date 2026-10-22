@@ -1,0 +1,218 @@
+                                       May 14, 2014
+
+
+                                    CBCA 3467-RATE
+
+
+                  In the Matter of TOTAL QUALITY LOGISTICS, LLC
+
+
+       Christopher M. Brown and Shawn C. Emerson, Corporate Counsel of Total Quality
+Logistics, LLC, Milford, OH, appearing for Claimant.
+
+      Joyce Clark, Director, and George Thomas, Jr., Chief, Disputes Resolution Branch,
+Transportation Audits Division, Office of Transportation and Property Management, Federal
+Acquisition Service, General Services Administration, Arlington, VA, appearing for General
+Services Administration.
+
+ZISCHKAU, Board Judge.
+
+       The matter before this Board was brought under 31 U.S.C. § 3726(i)(1) (2012), which
+provides that a carrier or freight forwarder may request the Administrator of the General
+Services Administration (GSA) to review an action taken by the Transportation Audit
+Division of GSA’s Office of Transportation and Property Management. The Administrator
+has delegated the review function to the Civilian Board of Contract Appeals. Rule 301 (48
+CFR 6103.301 (2013)). Total Quality Logistics, LLC (TQYL) performed transportation
+services for GSA, transporting government freight to a GSA distribution center. TQYL
+billed GSA for detention charges when its carriers’ trucks were detained with the freight due
+to the distribution center’s inability timely to accept the drop off of the freight. GSA
+authorized and paid the detention charges but subsequently sought to recoup those charges
+by issuing notices of overcharges.
+
+         TQYL requests that the Board reverse the notices of overcharges. We grant TQYL’s
+claim.
+
+                                        Background
+
+       TQYL is a freight brokerage service headquartered in Milford, Ohio. TQYL
+contracted with GSA for the delivery of government freight originating in either Berkeley,
+CBCA 3467-RATE                                                                             2
+
+Missouri, or Houston, Texas. The destination of each shipment was GSA’s Eastern
+Distribution Center (EDC) in Burlington, New Jersey.
+
+        Beginning in late January 2010, TQYL representatives discussed with representatives
+in GSA’s Office of Transportation and Property Management a recurring issue TQYL had
+experienced with the delivery and acceptance of GSA’s shipments at the EDC. The shippers
+in Missouri and Texas provided fixed dates to TQYL for pick up of the government freight.
+Within one business day of notice of the pick up date, TQYL would contact the EDC to
+receive the earliest delivery drop off date that the EDC would provide. Due to a heavy
+influx of deliveries to its facility, the EDC was unable to accommodate reasonable drop off
+dates based on TQYL’s pick up dates and the actual travel time. The EDC’s failure to book
+timely delivery appointments resulted in trucks of the carriers hired by TQYL arriving
+between one and nine days before the EDC-assigned drop off date, and thus having the
+trailers detained with government freight waiting for the EDC to accept the deliveries on the
+drop off dates. TQYL explored various options to deal with the detention issue, including
+attempts to deliver to the EDC days ahead of the scheduled appointment times. However,
+the EDC refused to accept early deliveries.
+
+        GSA’s proposed solution to this problem was to pay TQYL for the time during which
+it effectively tied up TQYL’s equipment with the government freight. After internal
+discussions between GSA’s traffic manager, the Director of the Center for Transportation
+Management, and GSA prepayment auditors, GSA determined that it would use item 325,
+“Detention - Vehicles with Power Units,” of the GSA Standard Tender of Service (STOS)
+100-D National Rules Tender to cover the detention charges. Item 325 provides in relevant
+part:
+
+       (1) Except as otherwise provided herein, when, due to no disability, fault or
+       negligence on the part of the carrier, the loading or unloading of freight at or
+       on the premises of the consignor or consignee, or at a place designated by
+       consignor or consignee for the receipt or delivery of freight is delayed, the
+       following rules govern:
+
+       A. If the loading or unloading of freight is delayed beyond the free time
+       during normal business hours described in ITEM 30 DEFINITION OF
+       TERMS herein, the charge shown in subparagraph 1 below per vehicle for
+       each 15 minutes or fraction thereof, will be made for the time consumed for
+       such delay:
+
+              1. $10.25
+CBCA 3467-RATE                                                                          3
+
+      B. Free time for loading or unloading of freight will be allowed as follows:
+      [free time ranging from 120 minutes to 420 minutes per vehicle depending on
+      the weight of the vehicle] . . . .
+
+      C. Time consumed in loading or unloading freight shall be computed from
+      time of arrival until departure of the vehicle, including waiting time reaching
+      or leaving loading or unloading location. In computing free time, actual
+      weight loaded or unloaded from vehicle and not billed weight shall govern the
+      computation of free time.
+
+      D. The consignor or consignee will stamp or mark the delivery receipt with
+      time of arrival and departure, or provide a certified statement verifying this
+      time for computation of charges and presentation by the carrier for payment.
+
+       GSA determined that this was the most appropriate procedure for assessing the
+detention charges, which GSA acknowledged followed from the EDC’s inability to book
+timely appointments. In an internal email message between GSA’s transportation division
+and its post-payment auditors dated May 7, 2012, the transportation division explained in
+pertinent part:
+
+      We advised TQL to itemize the charges based on the date TQL received the
+      appointment for delivery and the date the TSP [transportation service
+      provider] was allowed to make the delivery. The significant delays between
+      these two time frames are what accounts for the charges.
+
+      Some background on what happened. The [GSA shipper] insisted on the pick
+      up or tendering of the shipments and then the EDC would not book timely
+      delivery appointments. There was a period of 5-9 days pas[t] the transit time
+      making the delivery date rather illogical. It is not reasonable for GSA to use
+      the TSP’s vans as a storage facility when GSA insists on a pick up date and
+      refuses to accept timely delivery. The closest option within our STOS was
+      item 325 detention because the government was tying up the TSP’s
+      equipment. We understand this first round of several invoices would be very
+      expensive and hope to curb behavior.
+
+      At the time of the discussions with TQL and GSA, there were only 8 or 9
+      shipments. Clearly the poor scheduling of functions took a while to be
+      curbed.
+
+      The overall remedy to this was to get the [GSA shippers] to get contractual
+CBCA 3467-RATE                                                                               4
+
+       modifications to allow for later pick up dates to match with transit time and
+       the EDC accepting timely deliveries. I personally discussed this with the
+       Contracting Office in Region 9 for future shipments. The EDC gets
+       overwhelmed with more trucks than they can schedule for delivery which is
+       why appointments are sometimes 5-9 days after the request for the
+       appointment. However, this is an internal GSA problem and we, as
+       transporters, can’t influence. If we hold the TSP’s equipment as in not
+       accepting delivery, or setting appointments to get the vans offloaded, GSA
+       needs to take responsibility for that.
+
+       Managers in [the transportation office] made the decision to allow this TSP
+       to bill for detention charges because GSA would not accept the loads timely.
+       Yes, we are aware that this is a bit different from how item 325 reads. Yet
+       again the closest applicable service in mind. We were authorizing the billing
+       of detention.
+
+        There were four shipments in 2010 and seventy-five shipments in 2011 for which
+TQYL incurred detention charges, submitted invoices for those charges, and was paid by
+GSA. Under the procedure arranged by GSA, TQYL was to compute its detention charges
+based on the interval between the time it offered delivery to EDC and the time it actually
+offloaded the shipment. TQYL was then to send GSA a bill of lading (BOL) and an
+itemized invoice including dates and hours to support its calculation of detention charges
+pursuant to item 325. The first three shipments for which detention charges were paid by
+GSA occurred in February and March 2010, and payment was made in March and May
+2010. In approximately July 2010, GSA confirmed with TQYL that its invoices should
+reflect charges based upon the arrival time for the attempted delivery and the time of offload.
+The remaining shipments covered the period from October 2010 through October 2011, with
+GSA payments occurring between February and November 2011.
+
+        Beginning in March 2012, GSA’s transportation post-payment audit division began
+serving TQYL with notices of overcharge. In each notice, GSA stated that the detention
+charge was inapplicable and directed TQYL to remit payment for the billed detention
+charge, plus interest, or challenge the notice of overcharge. TQYL challenged the notices
+of overcharges. In an April 18, 2013 letter to TQYL, GSA denied TQYL’s challenges on
+the ground that the EDC had no knowledge of, and had never authorized charges for, any
+detentions billed by TQYL. As an additional basis for denial, GSA stated that TQYL had
+failed to furnish any documentation that would prove that the carriers’ tractors and trailers
+remained attached during the time of the detention. With the exception of the first nine
+invoice payments that GSA’s audit division deemed to be “authorized” charges, GSA
+rejected the challenges to the remaining seventy invoice payments and directed TQYL to
+CBCA 3467-RATE                                                                               5
+
+repay GSA an amount of $339,895.73. By letter of May 1, 2013, TQYL requested that GSA
+reconsider its decision, but GSA declined to reconsider. TQYL seeks review of GSA’s
+actions and reversal of the notice of overcharges.
+
+       The Board has conducted a number of conferences with the parties and their relevant
+representatives, and the parties have submitted supplemental documentation into the record.
+The parties request a decision on the merits based on the record as supplemented.
+
+                                         Discussion
+
+        The record readily demonstrates that GSA’s transportation division authorized TQYL
+to bill for detention under Item 325 for the shipments at issue during the period 2010
+through 2011. Notwithstanding this authorization, GSA argues that the EDC did not
+authorize the detention charges. We see no factual or legal basis for the argument that the
+EDC’s authorization was required. It was the EDC’s inability to schedule a reasonable drop
+off time, when coupled with the assigned pick up date at the GSA shipper, that caused the
+detention problems in this case.
+
+        GSA also argues that the transportation division’s authorization only extended to the
+first nine shipments. This argument is not supported by the record. GSA has not produced
+any communication that advised TQYL to cease making these shipments, to refrain from
+billing detention charges, or in any way giving TQYL direction as to how to prevent its
+carriers’ equipment from being tied up holding government freight while awaiting
+permission to offload its shipments at the EDC. Rather, the record shows that GSA had
+authorized the billing of detention prior to most of the actual shipments, specified how
+TQYL was to invoice for the charges, approved the invoices and supporting documentation
+from TQYL containing the charges, made payment on the invoices, and subsequently
+confirmed that the detention charges under item 325 were authorized.
+
+        GSA’s remaining challenge, coming a year or more after the fact, that TQYL has
+failed to prove for each shipment that its carriers’ tractors and trailers were attached during
+the time of detention, is equally without merit. GSA itself had specified the documentation,
+including the certified bills of lading, that TQYL had to submit for payment of the detention
+charges. The record shows that TQYL submitted the proper documentation specified by
+GSA and that GSA properly paid those detention charges based on the invoices and
+supporting documentation. In addition, TQYL has stated that its carriers were required to
+maintain a sealed shipping environment and that at no time were the tractors not attached
+to the trailers during the detention period.
+CBCA 3467-RATE                                                                          6
+
+                                        Decision
+
+       Having reviewed each of the contentions advanced by GSA, we find that its bases for
+the notices of overcharges are erroneous. Accordingly, the GSA notices of overcharges are
+invalid. We sustain TQYL’s claim that it is not indebted to the Government for the
+$339,895.75 asserted in the Transportation Audit Division’s letter of April 18, 2013.
+
+
+
+                                                _________________________
+                                                JONATHAN D. ZISCHKAU
+                                                Board Judge
+

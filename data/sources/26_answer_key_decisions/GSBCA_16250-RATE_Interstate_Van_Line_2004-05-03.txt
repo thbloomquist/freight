@@ -1,0 +1,266 @@
+ 
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+
+         _______________________________________________
+                                 
+                           May 3, 2004
+         _______________________________________________
+                                 
+
+                         GSBCA 16250-RATE
+                                 
+
+           In the Matter of INTERSTATE VAN LINES, INC.
+
+
+     Alan F. Wohlstetter and Stanley I. Goldman of Denning & Wohlstetter, Washington,
+DC, appearing for Claimant.
+
+     James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service; and Robert Hoff, Office of General Counsel, General
+Services Administration, Washington, DC, appearing for General Services Administration.
+
+     Col. John B. Hoffman, Staff Judge Advocate, Headquarters, Surface Deployment and
+Distribution Command, Department of the Army, Alexandria, VA, appearing for Department
+of Defense.
+
+BORWICK, Board Judge.
+
+     In this matter the General Services Administration's (GSA's) Audit Division ordered
+the Department of Defense (DoD) to withhold $42,718.63 from funds due Interstate Van
+Lines (INVA) to satisfy the debts of carriers Snow Moving and Storage (SMSO) and Blue
+Ribbon Van & Storage (BRQV) arising from the alleged overcharges of those carriers. 
+INVA sought Board review of GSA's withholding order.  
+
+     The Government was not in privity of contract with INVA, but was in privity with
+SMSO and BRQV through government bills of lading (GBLs).  The Government has not
+established that SMSO and BRQV were actually INVA by another name.  To the contrary,
+it appears more likely than not that with respect to the GBLs at issue here, SMSO and
+BRQV were not the agents of INVA; rather, INVA was the agent of SMSO and BRQV. 
+SMSO and BRQV, and not INVA, are consequently responsible for the alleged overcharges. 
+We therefore reverse GSA's action.  
+
+                            Background
+
+     The GBLs in question were for single line-haul rate shipments of household goods
+(HHG), and were issued by DoD to the carriers, SMSO and BRQV.  The Government  paid
+SMSO and BRQV for the services covered by the GBLs.  
+
+     INVA had entered into arrangements with both SMSO and BRQV for common
+administrative control of HHG shipments.  Under the memorandum of understanding with
+BRQV, INVA would perform all traffic management, claims handling and settlement, and
+invoicing and revenue distribution, and would file all rate tenders on behalf of BRQV. 
+BRQV would perform all traffic management, claims handling, invoicing, and revenue
+distribution only on traffic booked, packed, and hauled by BRQV itsel.  INVA, at its
+discretion, would file rate tenders and letters of intent at military installations.  Of gross line-
+haul revenue on all shipments booked by INVA on behalf of BRQV, BRQV retained two
+percent.  Finally, INVA would designate persons to perform and sign necessary documents
+on behalf of BRQV.  INVA entered into a similar memorandum of understanding with
+SMSO, except that as consideration, INVA prepaid $5000 for use of SMSO's carrier
+authority.  From a review of the agreements, it appears that they were the subject of
+negotiation between INVA and the officers of SMSO and BRQV.   
+
+     INVA's executive vice president explains that INVA and other HHG carriers
+participating in the Military Traffic Management Command (MTMC) personal property
+program regularly haul shipments for other carriers. [Foot # 1 ]  The executive vice president
+explains the practice, known as "interlining at origin," is common in the industry and is used
+to maximize vehicle capacity.  Such shipments are transported at the GBL's carrier rate to
+the Government and under the tender of service of the carrier stated on the GBL.  INVA's
+executive vice president considers INVA and other carriers which perform hauling services
+for a carrier stated in the GBL to be subcontractors to the carrier stated in the GBL. 
+
+****************** Footnote Begin **********
+[Foot # 1 ]        The MTMC is now known as the Surface Deployment and Distribution Command. 
+Since all parties refer to the MTMC in their submissions, for ease of reading we use MTMC as well. 
+
+****************** Footnote End ************
+
+
+     On January 10, 1997, SMSO submitted to the MTMC a tender of service signature
+sheet in which SMSO declared itself in common administrative control with INVA as well
+as with five other firms for domestic shipments.  INVA's executive vice president explains
+that INVA has never had any financial interest in SMSO, and that the president of INVA
+was a signatory on a tender of service sheet for SMSO for the purpose of authorizing him
+to sign documents on behalf of SMSO.  A document in the record shows that BRQV has
+such arrangement with several carriers in addition to INVA.  
+
+     GSA concedes that the arrangements that SMSO and BRQV made with INVA were
+allowed by MTMC rules for domestic shipments of household goods.  
+
+     On or about March 25, 2003, SMSO told GSA that it had reviewed  a preliminary list
+of possible overcharges on SMSO's shipment of HHG and had determined that INVA "was
+operating under SMSO authority at one time."  SMSO questioned its responsibility for any
+assessed overcharges for shipments that it considered INVA's responsibility.  On March 27,
+2003, SMSO advised GSA that it had reviewed GSA's listing and had determined "which
+overcharges belonged to SMSO and which belonged to INVA."  
+
+     GSA says that it established that payments for transportation services were being
+forwarded to SMSO and BRQV at INVA's address in Virginia and that INVA was
+responding to notices of overcharges issued to both transportation service providers.  GSA
+concluded that there was common financial and administrative control or an agency
+relationship between SMSO or BRQV and INVA.  
+
+     GSA says that on or about April 16, 2003, GSA requested the Defense Finance and
+Accounting Service (DFAS) to withhold $200,000 from amounts otherwise due INVA to
+satisfy the debts owed by SMSO and BRQV. 
+
+     On May 12, 2003, GSA issued notices of overcharges to SMSO and to BRQV
+concerning shipments under GBLs to those respective carriers.  
+     
+     On or about May 20, 2003, GSA met with officers of INVA to identify shipments that
+were tendered to SMSO or BRQV but that were transported by INVA.  GSA and INVA  met
+again on July 2.   
+
+     On July 14, 2003, the Director of GSA's Audit Division wrote INVA:
+
+     Thank you for meeting with me on July 2, 2003, concerning the General
+     Services Administration's (GSA) efforts to collect excess transportation
+     charges from Snow Moving and Storage (SMSO) and Blue Ribbon Van &
+     Storage (BRQV).  
+
+     GSA asked [the] Defense Finance and Accounting Service (DFAS),
+     Indianapolis, [Indiana], to initiate setoff procedure[s] to collect $200,000 from
+     payments due Interstate Van Lines (INVA).  The basis for this request was
+     that SMSO had advised that you provided line[-]haul services for several of
+     the shipments on which Notices of Overcharges had been issued.  Upon
+     further investigation, GSA discovered that payments to SMSO and BRQV
+     were forwarded to your address in Merrifield, Virginia.  GSA concluded that
+     there was an affiliation between you and the two companies.  
+
+     You contend that your role is limited to providing billing and other
+     transportation management services to SMSO and BRQV.  However, in both
+     instances, you have also admitted to providing line-haul services.  You have
+     not clearly defined the relationship between you and the subject carriers, nor
+     have you provided any supportive documentation.  Based on the evidence,
+     including your actions, we conclude that you are liable for the debts of SMSO
+     and BRQV.  
+
+     GSA's determination is based on Comptroller General Decision B-181623
+     [(Aug. 5, 1975)], in which the Comptroller decided that 49 U.S.C.   14706
+     applies to overpayments, in conformance with Atlantic Coast Line Rail Co.
+     v. Smith Bros. Inc., 63 F.2d 747, 748 (5th Cir. 1933).  
+
+     Consequently, GSA's position in this matter remains the same regarding your
+     liability.  GSA has applied $42,718.63 to the debts of both carriers, and is
+     refunding the balance of $157,281.37 to INVA.
+
+INVA appealed that determination to the Board.
+
+                            Discussion
+
+     GSA argues that INVA is jointly and severally liable with SMSO and BRQV for
+SMSO's and BRQV's alleged overcharges.  The Government argues that INVA's liability
+is established by statute, 49 U.S.C.   14706 (2000), popularly known as the Carmack
+Amendment to the Interstate Commerce Commission Act, and that INVA's liability is
+confirmed by Merchants Fast Motor Lines, Inc., B-181623 (Aug. 5, 1975).  GSA also argues
+that the Comptroller General's  decision is consistent with a court decision that holds that 41
+U.S.C.   14706 is not limited to situations involving loss or damage to property--Atlantic
+Coast Line R.R. v. Smith Bros. Inc., 63 F.2d 747 (5th Cir. 1933).  
+
+     INVA argues that the Government has misread 41 U.S.C.   14706.  INVA argues that
+the statute places joint and several liability only for the loss or damage to property.  INVA
+notes that the Government seeks to recover by set-off for overcharges on SMSO's shipments,
+and that loss or damage to property is not at issue.  INVA notes that the Atlantic Coast Line
+case did not construe the Carmack Amendment, but provisions of the Interstate Commerce
+Commission Act that make participating carriers liable for unreasonable joint through rates. 
+INVA notes that the GBLs here were for single-line rates with individual carriers, either
+SMSO or BRQV.  
+
+     INVA argues that the set-off of $42,718.63 was improper because INVA is not liable
+for the debts of SMSO or BRQV.  INVA maintains that for the allegedly overcharged
+shipments, it acted as a subcontractor to SMSO and BRQV, and that the Government lacks
+privity of contract with INVA.  
+
+     A GBL is a contract between the Government and a carrier, here between the
+Government and SMSO or BRQV.  Dalton v. Sherwood Van Lines Inc., 50 F.3d 1014, 1015
+(Fed. Cir. 1995); Intercoastal Xpress Inc., GSBCA 14576-RATE, 99-1 BCA   30,370
+(relationship between Government and carrier wholly contractual).  As such, the GBL
+establishes privity between the carrier and the Government.  Regardless of SMSO's or
+BRQV's use of INVA as its agent to perform the services, if SMSO and BRQV were
+independent entities from INVA, only SMSO and BRQV are responsible for overcharges. 
+Cf. Interstate Van Lines Inc., B-194029 (June 18, 1979) (As named party on GBL, carrier
+responsible for billing and receiving payment.  Carrier may not limit its liability for
+overpayment to instances where billing for storage services tendered directly to carrier.) 
+
+     In one case reviewed by the General Accounting Office (GAO), DoD entered into a
+contract with Roadair Feeder Service, an authorized shipper's agent.  Roadair then
+subcontracted with Trism Specialized Carriers, but failed to pay Trism.  Trism sought
+recovery against the Government, but GAO held that Trism had no recourse against the
+Government, since, among other reasons, Trism was not a party to the GBL. [Foot # 2 ] 
+Trism Specialized Carriers, B-260604 (Apr. 18, 1996).  Similarly, a warehouseman not in 
+privity with the Government through a GBL may not recover against the Government even
+though the warehouseman performed services as a subcontractor for the bankrupt line-haul
+carrier that was a party to the GBL.  Universal Storage Warehouses, 43 Comp. Gen. 290
+(1963).  
+
+****************** Footnote Begin **********
+[Foot # 2 ]        GAO also held that Roadair was not acting as the Government's agent in contracting
+with Trism since Roadair did not act under the Government's instruction when it made the separate
+arrangement with Trism.  
+****************** Footnote End ************
+
+     Here, the Government was not in privity with INVA; it was in privity with SMSO and
+BRQV.  INVA was not a party to the GBLs.  Instead, SMSO and BRQV entered into sub-
+contracting arrangements with INVA, as the Government concedes they were allowed to do
+under MTMC regulations.  GSA stated in its submission to the Board that GSA paid SMSO
+and BRQV directly and has no knowledge of the revenue distribution agreement between
+SMSO, BRQV, and INVA.  
+
+     The wall of privity might not matter if there were evidence that BRQV or SMSO was
+really INVA.  The record does not establish GSA's contention that either SMSO or BRQV
+were corporate subsidiaries of INVA, or that SMSO or BRQV was INVA by another name. 
+GSA did not rebut the affidavit of INVA's executive vice president that INVA had no
+financial interest in SMSO.  From the tender of service sheet filed by BRQV, it is evident
+that BRQV had entered into common administrative control arrangements with a number
+of moving firms.  GSA has not shown that the tender of service agreement between BRQV
+and INVA is proof that BRQV is really INVA.  The service agreements between INVA and
+SMSO and INVA and BRQV appear to be agreements arrived at by independent entities
+after negotiations.  In fact, under the arrangements INVA made with SMSO and BRQV,
+INVA was the agent and SMSO and BRQV were the principals.  
+
+     The statutes and cases relied upon by GSA for INVA's liability do not help the
+agency's case.  49 U.S.C.   14706 provides in pertinent part:
+
+     A carrier providing transportation or service subject to jurisdiction under
+     subchapter I or III of chapter 135 shall issue a receipt or bill of lading for
+     property it receives for transportation under this part.  That carrier and any
+     other carrier that delivers the property and is providing transportation and
+     service subject to jurisdiction under subchapter I or III of chapter 135 or
+     chapter 105 are liable to the person entitled to recover under the receipt or bill
+     of lading.  The liability imposed under this paragraph is for the actual loss or
+     injury to the property caused by (A) the receiving carrier, (B) the delivering
+     carrier, or (C) another carrier over whose lines or routes the property is
+     transported in the United States.
+
+49 U.S.C.   14706(a).  The purpose of the Carmack Amendment is to pre-empt a shipper's
+common law or state law claims against carriers for loss or damage to property and subject
+such claims to the exclusive federal statutory remedy.  Hughes v. United Van Lines, 829
+F.2d 1407, 1412-14 (7th Cir. 1987), cert. denied, 485 U.S. 913 (1988); Nichols v.
+Mayflower Transit, LLC, No. CV-S-03-0273-JCM, 2003 WL 21981994, at 3-4 (D. Nev.
+June 19, 2003).  The Government does not claim loss or damage to property here. 
+
+     The Atlantic Coast Line case and Merchants Fast Motor Line do not help GSA either. 
+Atlantic Coast Line applied an Interstate Commerce Commission (ICC) rule that when the
+ICC finds a joint through rate unreasonable a reparation order runs collectively against the
+carriers that participated in the transportation.  Atlantic Coast Line, 63 F.2d at 748. 
+Merchants Fast Motor Lines restates that rule.  Here, joint through rates were not involved.
+The GBLs were for single line haul rate shipments. 
+
+     The statutes at 49 U.S.C.    13907 and 14911 make corporations liable for the acts of
+their employees, officers, and agents; the statutes do not change the relationship of INVA
+to SMSO or to BRQV.  To the contrary, those statutes support the proposition that SMSO
+and BRQV would be liable if INVA's actions resulted in the alleged overcharges.  
+
+     The Board reverses the action of GSA's Audit Division in ordering withholding of
+$42,718.63 against INVA.
+
+
+
+
+                                   ____________________________
+                                   ANTHONY S. BORWICK
+                                   Board Judge
+     

@@ -1,0 +1,206 @@
+ 
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+
+
+                                                 
+
+                        December 12, 2002
+                                                 
+
+
+                         GSBCA 15967-RATE
+
+
+         In the Matter of AMERICAN VANPAC CARRIERS, INC.
+
+
+     Chris Freeman, Controller, American Vanpac Carriers, Inc., Martinez, CA, appearing
+for Claimant.
+
+     James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Col. John B. Hoffman, Staff Judge Advocate, Headquarters, Military Traffic
+Management Command, Department of the Army, Alexandria, VA; and Robert N. Cook,
+Vendor Pay Site Manager, Defense Finance and Accounting Service - Norfolk, Norfolk, VA,
+appearing for Department of Defense.
+
+DANIELS, Board Judge (Chairman).
+
+     The Prompt Payment Act, 31 U.S.C.   3901-07 (2000), applies to bills from a carrier
+or freight forwarder for transporting an individual or property for the United States
+Government.
+
+                            Background
+
+     In June 2001, the Department of Defense issued a Government bill of lading (GBL)
+to American Vanpac Carriers, Inc. (Vanpac), for the shipment of goods from Indonesia to
+a location in the United States.  The carrier delivered the goods in July 2001.
+
+     In August 2001, Vanpac sent to the Defense Finance and Accounting Service -
+Norfolk (DFAS-Norfolk) an invoice in the amount of $8,034.72 requesting payment for its
+services.  DFAS-Norfolk received the invoice on August 28.  It returned the invoice to the
+carrier on September 25, asserting that  the GBL number on the invoice did not match the
+number of the referenced GBL.
+
+     In February 2002, Vanpac sent to DFAS-Norfolk a rebuttal to the agency's assertion
+and a corrected invoice.  It asked that if DFAS-Norfolk did not make payment in full within
+nine days of the agency's receipt of this transmission, it also pay interest on the amount of the
+invoice.  DFAS-Norfolk received the transmission on March 5.
+
+     DFAS-Norfolk sent Vanpac's transmission to its transportation audit contractor,
+National Traffic Service, Inc. (NTS), for review.  NTS agreed with the carrier's challenge and
+approved for payment the full amount shown on the invoice.  There is no indication in the
+record that NTS, DFAS-Norfolk, or anyone else associated with the Government has ever
+disputed the validity of Vanpac's February 2002 invoice.  DFAS-Norfolk cut a check to
+Vanpac in the amount requested on that invoice, $8,034.72, on June 10, 2002.  Vanpac
+received the check on June 13.
+
+     On July 16, 2002, Vanpac submitted another invoice to DFAS-Norfolk, requesting
+payment of interest on the $8,034.72 previously paid, as well as an additional penalty. 
+DFAS-Norfolk refused to pay these amounts.
+
+     The General Services Administration (GSA) believes that interest is due, but that it
+has no authority to compel payment; it defers, regarding settlement of the interest claim, to
+the Defense Department's Military Traffic Management Command (MTMC).  MTMC says
+merely that it will advise DFAS-Norfolk that GSA has concluded that interest is payable. 
+DFAS-Norfolk continues to deny payment, on the ground that "rebuttals filed by carriers are
+not subject to the Prompt Payment Act."
+
+                            Discussion
+
+     The Prompt Payment Act was enacted to "provide incentives for the Federal
+Government to pay its bills on time" to "[t]hose suppliers of goods and services who do
+business with the Government."  H. Rep. No. 97-461, at 1 (1982).  To accomplish this goal,
+the Act requires that under regulations issued by the Director of the Office of Management
+and Budget, "the head of an agency acquiring property or service from a business concern,
+who does not pay the concern for each complete delivered item of property or service by the
+required payment date, shall pay an interest penalty to the concern on the amount of the
+payment due."  31 U.S.C.   3902(a).
+
+     The legislature's objective in enacting the Act and the language of the Act itself are
+both very broad.  Application is to every agency's acquisition of any property or service from
+any business concern.  GSA has recognized, in promulgating regulations regarding agencies'
+payment for transportation services, that the acquisition of such services are subject to the
+Act.  41 CFR 102-118.165, .330, .475 (2001); see also Howard's Van Lines, Inc., GSBCA
+15646-RATE, 01-2 BCA   31,638, at 156,290 n.2 (regarding previous version of regulation). 
+The Court of Federal Claims has similarly recognized that "interest is mandated by the Act"
+when a transportation service provider submits an undisputed voucher to an agency. 
+Arkansas Best Freight System, Inc. v. United States, 20 Cl. Ct. 776, 777 (1990); see also
+Cargo Carriers, Inc. v. United States, 34 Fed. Cl. 634, 645 (1995), aff'd, 135 F.3d 775 (Fed.
+Cir. 1998) (table).  The Court of Appeals for the Federal Circuit has held that contracts for
+transportation services are unique in that disputes regarding proper payment under these
+contracts are governed by 31 U.S.C.   3726, rather than the Contract Disputes Act of 1978,
+41 U.S.C.    601-13.  [Foot # 1 ]  Inter-Coastal Xpress, Inc. v. United States, 296 F.3d 1357
+(Fed. Cir. 2002); Dalton v. Sherwood Van Lines, Inc., 50 F.3d 1014 (Fed. Cir. 1995) (also
+holding that issuance and acceptance of a GBL constitute a contract).  We are aware of no
+authority, however, that suggests that these contracts are not governed by the Prompt
+Payment Act.
+
+     
+****************** Footnote Begin **********
+[Foot # 1 ]       In compliance with this holding, we consider Vanpac's claim under authority
+vested in us by 31 U.S.C.   3726(i) and a delegation of authority from the Administrator of
+General Services, rather than under authority vested in us by the Contract Disputes Act.
+****************** Footnote End ************
+
+ Under the Prompt Payment Act, the date by which a proper invoice must be paid is generally
+thirty days after the date on which an agency receives the invoice.  31 U.S.C.   3903(a)(1);
+see also 5 CFR 1315.4(f), (g)(1)(iv) (Office of Management and Budget regulations
+implementing Act).  If an agency makes payment after the required due date, it must also pay
+interest on the sum owed, regardless of whether the business concern requests payment of
+interest.  31 U.S.C.   3902(c)(1); 5 CFR 1315.4(i), .10(b)(2).  Interest is calculated from the
+day after the due date until the day on which the debt is paid, at a rate prescribed by the
+Secretary of the Treasury in accordance with statute, compounded every thirty days.  31
+U.S.C.   3902(a), (b), (e); 5 CFR 1315.10(a).  It runs until payment is made, a Contract
+Disputes Act claim is filed, or a year passes, whichever occurs first.  31 U.S.C.   3907(b)(1);
+5 CFR 1315.10(a)(5), .16(a)(2).
+
+     If a business concern receives a payment after the required due date, and the agency
+does not include interest with that payment or pay interest within the next ten days, the
+concern may request that the agency pay an additional penalty.  If the request is made within
+forty days after payment was made, the concern is entitled to an additional penalty equal to
+the sum of the late payment interest penalty (but not less than $25 or more than $5,000).  31
+U.S.C.   3902(c)(3); 5 CFR 1315.11(a)-(d).
+
+     The rules discussed in the previous two paragraphs pertain to proper invoices.  The
+Prompt Payment Act "does not require an interest penalty on a payment that is not made
+because of a dispute between the head of an agency and a business concern over the amount
+of payment or compliance with the contract."  31 U.S.C.   3907(c); see also 5 CFR
+1315.16(a)(3).  The Act does mandate, however, that agencies determine promptly whether
+an invoice is proper or not.  The determination must be made within seven days of the
+agency's receipt of an invoice.  If it is not, the number of days available for payment of the
+invoice without interest penalty, when that invoice is resubmitted in proper form, shall be
+reduced by one day for every day in excess of seven the agency takes to inform the business
+concern that the original invoice is not proper.  31 U.S.C.   3903(a)(7); 5 CFR 1315.4(g)(5);
+see also 41 CFR 102-118.165.
+
+     How do these rules apply to the claim now before us?  DFAS-Norfolk received
+Vanpac's original, allegedly improper invoice on August 28, 2001.  The agency did not
+inform Vanpac of the alleged error in the invoice until September 25, twenty-eight days later. 
+Because DFAS-Norfolk took twenty-one days more than the seven allowed to make this
+determination, the number of days the agency had to pay the invoice, when it was
+resubmitted in proper form, was reduced by twenty-one   from thirty to nine.
+
+     Vanpac's invoice was resubmitted in proper form on March 5, 2002.  Because of
+DFAS-Norfolk's previous delay, the date by which payment on this invoice had to be made
+without imposition of an interest penalty was nine days after March 5, or March 14.  DFAS-
+Norfolk did not actually make payment until June 10, eighty-eight days after March 14. 
+Thus, DFAS-Norfolk owes Vanpac interest on the amount of the invoice, $8,034.72, for
+those eighty-eight days.  The prescribed rate of interest at the time the obligation to pay this
+interest accrued was 5.5%.  31 U.S.C.   3902(a); 5 CFR 1315.2(d); 66 Fed. Reg. 67,366 (Dec.
+28, 2001).  For the thirty-day period beginning on March 15 and ending on April 13, interest
+in the amount of $36.83 accrued on DFAS-Norfolk's debt to Vanpac, making the total
+amount due at the end of that period $8,071.55.  For the thirty-day period beginning on April
+14 and ending on May 13, interest of $36.99 accrued on $8,071.55, making the total due at
+the end of that period $8,108.54.  For the remaining twenty-eight days during which payment
+was due (May 14 to June 10), interest of $34.69 accrued on $8,108.54, making the total due 
+$8,143.23.  Thus, the total amount of interest due is $108.51.
+
+     Vanpac received the payment of $8,034.72 on June 13, but did not receive any interest
+within ten days of that date.  The carrier was therefore entitled to an additional penalty, equal
+to the interest due, if it requested payment of that penalty within forty days of the date
+payment was made, June 10.  Vanpac made a timely request on July 16.  It is therefore
+entitled to an additional penalty of $108.51.
+
+     Does GSA have the authority to direct DFAS-Norfolk to make this payment?  Section
+3726 of title 31, United States Code, requires the Administrator of General Services (who
+heads GSA) to issue regulations under which agencies that receive bills from carriers or
+freight forwarders for transporting individuals or property for the United States Government
+shall verify the correctness of those bills.  This statute also requires the Administrator to
+adjudicate claims regarding payment of those bills which cannot be resolved by the agency
+procuring the transportation services.  GSA's regulations, which apply to all agencies, 41
+CFR 102-118.20, require that agencies establish procedures for payment of transportation
+services which assure that "[a]ll payments are subject to applicable statutory limitations." 
+Id. -118.55(f).  One of those statutory limitations is the Prompt Payment Act.  Id.
+-118.330(b).  A transportation service provider, under the regulations, may file a claim for
+any amount "owed but not included in the original billing."  Id. -118.450(a).  It may also file
+a supplemental claim which "cover[s] charges relating to" a "paid transportation document." 
+Id. -118.555.  If a transportation service provider disagrees with the determination of the
+relevant agency on one of these claims, GSA will review the determination and make a
+decision on it, and that decision is binding on the agency.  Id. -118.570, .575, .590.  
+
+     Vanpac's claim for Prompt Payment Act interest is for an amount owed, in accordance
+with statute, which was not included in the original billing.  Vanpac's supplemental claim for
+an additional penalty, pursuant to the Prompt Payment Act, covers charges relating to the
+paid invoice.  DFAS-Norfolk has made a determination with regard to these claims, and
+Vanpac disagrees with that determination and has asked GSA to review it.  We find ample
+authority within GSA's regulations for GSA to review DFAS-Norfolk's determination and
+to make a decision on it which binds DFAS-Norfolk (although that decision may be appealed
+to us by the carrier, id. -118.580).
+
+                             Decision
+
+     DFAS-Norfolk must pay to Vanpac interest on the undisputed invoice, plus an
+additional penalty equal in amount to that interest.  The total amount due is $217.02.
+
+
+
+
+                                   __________________________
+                                   STEPHEN M. DANIELS
+                                   Board Judge

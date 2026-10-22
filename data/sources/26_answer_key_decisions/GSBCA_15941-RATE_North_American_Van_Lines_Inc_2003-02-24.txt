@@ -1,0 +1,156 @@
+ 
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+               ___________________________________________
+                                 
+                        February 24, 2003
+               ___________________________________________
+
+
+
+                         GSBCA 15941-RATE
+                                 
+
+         In the Matter of NORTH AMERICAN VAN LINES, INC. 
+
+                              
+     Carol Ford, Senior Credit Administrator of North American Van Lines, Inc., Ft.
+Wayne, IN, appearing for Claimant.
+
+     James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Col. John B. Hoffman, Staff Judge Advocate, Headquarters, Military Traffic
+Management Command, Department of the Army, Alexandria, VA, appearing for
+Department of Defense.
+     
+BORWICK, Board Judge.
+
+     In this matter North American Van Lines, Inc. (North American) disputes the
+settlement certificate issued by the General Services Administration (GSA) denying payment
+of a freight invoice because the invoice was submitted more than three years after the accrual
+of the claim.  Here, the shipped goods remained in storage about four years after the end of
+the storage in transit (SIT) period, at the expense of Mr. Lawrence Sabia (the owner).  Under
+those circumstances the cause of action accrued upon the expiration of the SIT period, not
+upon the delivery of the goods to the owner's residence four years later.  GSA acted properly
+in denying payment as North American submitted its claim well beyond the three-year statute
+of limitations.  
+
+     On June 6, 1994, under Government Bill of Lading (GBL) SP035771, North
+American was tendered the household goods shipment belonging to the owner.  That GBL
+required North American to pick up the owner's shipment at his residence in Lubbock, Texas,
+and deliver the shipment to Oil City, Pennsylvania.  According to the Statement of Accessorial
+Services Performed (DD 619-1), the shipment was picked up on June 28, 1994, in Lubbock,
+Texas, and delivered into SIT at the destination on July 8, 1994.  The shipment remained in
+storage at Government expense until July 2, 1995, a total of 360 days, the period of storage
+that had been authorized by the Government.  After more than four additional years of
+storage at the owner's expense, the shipment was finally delivered out of storage and to the
+owner's residence on October 7, 1999.
+
+     On January 12, 2000, three months after delivery to the owner's residence, North
+American submitted an invoice in the amount of $2899 to the Defense Finance and
+Accounting Service (DFAS), Norfolk, Virginia.  The invoice charged for 360 days of SIT
+for the period July 8, 1994, through July 2, 1995; added valuation; and SIT handling.  During
+pre-payment audit, DFAS-Norfolk noted that the claim for SIT services was submitted more
+than three years after the services were provided.  Accordingly, on November 15, 2000,
+DFAS-Norfolk referred the claim to GSA as a "doubtful" claim in accordance with 41 CFR
+101-41.604.2(b)(3) and the carrier was so advised.  Upon its review, GSA found that the
+claim was "time barred" by the three-year statute of limitations found at 31 US.C.   3726, and
+issued settlement certificates on May 11, 2001, to that effect.  [Foot # 1 ]  
+
+     
+****************** Footnote Begin **********
+[Foot # 1 ]        Apparently, North American submitted one invoice.  GSA, however, issued
+two settlement certificates, one containing an incorrect statement of the amount North
+American had charged and another containing the correct amount North American was
+seeking.  The reasons for denying both settlement certificates were the same. 
+****************** Footnote End ************
+
+The shipping contract provided that the SIT services provided would be for a period not to
+exceed 180 days, unless additional storage was authorized by the personal property shipping
+office (PPSO) in accordance with the Joint Travel Regulations (JTR).  The contract provided
+that if the shipment was not removed from SIT by the end of the period, "liability of the
+carrier shall terminate at midnight of the last day of the SIT period, the through Government
+Bill of Lading character of the shipment shall cease, [and] the warehouse shall be considered
+the final destination point of the shipment."  The contract further provided that the
+warehouseman would become the agent of the property owner or shipper at that time.  
+
+     The contract also stated that:
+
+     All claims . . . for recovery of [the carrier's] charges . . . will be filed within
+     three years . . . from the date of (1) Final delivery of the property, (2) Payment
+     of the transportation charges thereon, (3) Subsequent refund of excess charges,
+     or (4) Deduction of such excess charges from the carrier's account, whichever
+     is later.  
+
+     Statute provides that a claim by a carrier for shipment of personal property will be
+allowed only if the claim is filed not more than three years from the latest of the following
+dates:  (1) the date the claim has accrued; (2) the date payment for the transportation is made;
+(3) the date refund for an overpayment for the transportation is made; or (4) the date a
+deduction under another subsection of section 3726 is made.  31 U.S.C.   3726 (c)(2) (2000). 
+Items two through four are not applicable here; thus, we discuss only the first item--the
+accrual of the claim.  
+
+     The Government argues that, based upon 31 U.S.C.   3726 (c)(2), North American had
+three years from the end of the SIT period, July 2, 1995, to present its claim.  North
+American argues that, under the contract, North American had three years from final delivery
+of the owner's property to his residence on October 7, 1999 to present its claim.  Since North
+American submitted its invoice on January 12, 2000, three months after the delivery of the
+owner's property, North American views the claim as timely.  North American sees an
+inconsistency between the limitation of time in the statute and the limitation stated in the
+contract. 
+
+     As noted above, 31 U.S.C.   3726 requires that claims of this type be filed no more
+than three years after the "accrual of the cause of action."  A right to demand payment for
+freight accrues when the services are rendered.  Baggett Transportation Co. v. United States,
+319 F.2d 864, 868 (Ct. Cl. 1963); American Stitching & Box, Inc., GSBCA 14615-RATE,
+99-1 BCA   30,369.  Here, the service that was rendered under the contract between the
+Government and North American was the provision of the SIT service only.  When, as here,
+the shipment was not removed from SIT by the end of the period, the liability of the carrier
+terminated at midnight of the last day of the SIT period, the GBL character of the shipment
+ceased and the warehouse became the final destination of the shipment.  Furthermore, the
+warehouseman became the agent of the property owner or shipper.  
+
+     In short, under the circumstances presented here, at the end of the SIT period, the
+contract between the Government and North American came to an end.  Consequently,
+delivery services to the owner's residence was not covered under North American's contract
+with the Government.  Admittedly, the contract provision requiring all claims for recovery
+to be filed within three years from the date of the final delivery of the property is a narrow
+implementation of 31 U.S.C.   3726.  That provision cannot apply, however, because delivery
+to the owner's residence was not a service provided under the contract between North
+American and the Government.  North American was obliged to file its claim for delivery
+services within three years of July 2, 1995.  [Foot # 2 ]  North American did not do so and
+its claim is barred by the statute of limitations.  [Foot # 3 ]  See Park Cities Van Lines Inc.,
+B-181333 (Mar. 26, 1975) (statute of limitations barred claim for SIT services when claim
+not filed within three years after SIT services came to an end.)  
+
+     
+
+****************** Footnote Begin **********
+[Foot # 3 ]        This matter involves the contractual relationship between the Government
+and the carrier.  We do not decide whether under the Federal Travel Regulation or the JTR
+the owner would be entitled to have his goods delivered to his home by the Government or
+to be reimbursed for the cost of such home delivery.  
+****************** Footnote End ************
+
+****************** Footnote Begin **********
+[Foot # 2 ]        According to North American's invoice, the SIT of the owner's goods
+commenced on July 8, 1994.  On December 28, 1994, the Department of the Army (Army)
+approved the owner's request that SIT be extended an additional 180 days to and including
+the three hundred and sixtieth day.  In its approval letter, the Army calculated the expiration
+date as June 30, 1995, the date GSA accepts.  However, 360 days from July 8, 1994, is July
+2, 1995, the date the Army in its submission to the Board says the SIT period expired.  We
+need not resolve this discrepancy since it has no bearing on the result we reach here.  
+****************** Footnote End ************
+
+The Board sustains GSA's denial of the claim.  
+
+
+
+
+                              _________________________________
+                              ANTHONY S. BORWICK
+                              Board Judge

@@ -1,0 +1,710 @@
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+                            UNITED STATES DISTRICT COURT
+                           WESTERN DISTRICT OF WASHINGTON
+ 8
+                                     AT SEATTLE
+ 9
+
+10         CENTRAL FREIGHT LINES, INC.,                  CASE NO. C17-0814JLR
+
+11                              Plaintiff,               ORDER DENYING MOTION
+                  v.                                     FOR JUDGMENT ON THE
+12                                                       PLEADINGS
+           AMAZON FULFILLMENT
+13
+           SERVICES, INC., et al.,
+14
+                                Defendants.
+15
+
+16                                   I.      INTRODUCTION
+
+17         Before the court is Plaintiff Central Freight Lines, Inc.’s (“Central Freight”)
+
+18   motion for partial judgment on the pleadings. (MJOP (Dkt. # 51).) Defendant Amazon
+
+19   Fulfillment Services, Inc., opposes the motion. (MJOP Resp. (Dkt. # 54).) The court has
+
+20   considered the motion, the parties’ submissions in support of and in opposition to the
+
+21   //
+
+22   //
+
+
+     ORDER - 1
+ 1   motion, the relevant portions of the record, and the applicable law. Being fully advised,1
+
+ 2   the court DENIES the motion for the reasons set forth below.
+
+ 3                                    II.    BACKGROUND
+
+ 4          This case arises from a contract dispute between Central Freight, a freight carrier,
+
+ 5   and Amazon Fulfillment Services, Inc. (“Amazon”), a subsidiary of the online retailer
+
+ 6   Amazon.com. (See generally Compl. (Dkt. # 1).) Central Freight is a
+
+ 7   “less-than-truckload (‘LTL’) freight carrier” that provided shipping services to Amazon
+
+ 8   pursuant to a Transportation Agreement (“the Agreement”) executed on July 7, 2011.
+
+ 9   (Id. ¶¶ 2, 10-11, Ex. A (“Agreement”).) The Agreement details the services Central
+
+10   Freight provided to Amazon, including “receiving, loading, storing, transporting, [and]
+
+11   unloading” freight. (Id. ¶¶ 13-14.) Amazon agreed to pay Central Freight for those
+
+12   services pursuant to a rate chart incorporated into the Agreement “or as mutually agreed
+
+13   to by the parties (which may include email).” (Agreement § 2.1; see also id. Ex. B-1, Ex.
+
+14   B-2.) The parties further agreed that the “rate structure will not be modified during the
+
+15   term of th[e] Agreement, except upon mutual agreement of the parties (which may
+
+16   include email).” (Agreement § 2.1.) The Agreement also contains an integration clause
+
+17   and a provision precluding modification “unless it is in writing and signed by Amazon
+
+18   and [Central Freight].” (Id. § 11.8.)
+
+19          The Agreement further provides that Amazon may “conduct a performance audit”
+
+20   to determine whether Central Freight is meeting its obligations under the Agreement. (Id.
+
+21
+            1
+              Neither party requests oral argument, and the court concludes that oral argument would
+22   not be helpful to its disposition of the motion. Local Rules W.D. Wash. LCR 7(b)(4).
+
+
+     ORDER - 2
+ 1   § 1.2.) The provision also allows Amazon to seek reimbursement “for the full amount of
+
+ 2   any overcharge identified in the audit.” (Id.) The Agreement also includes an “Invoices”
+
+ 3   section that states that “[a]ll claims filed by Amazon for overcharge . . . must be filed
+
+ 4   within 18 month[s] of the original invoice” (id. ¶ 2.2), which Central Freight
+
+ 5   characterizes as a “look-back” period (MJOP at 7).
+
+ 6          In mid-2016, Amazon audited Central Freight’s services and concluded that it had
+
+ 7   overpaid Central Freight under the Agreement. (Compl. ¶ 35; see id., Ex. D (“Demand
+
+ 8   Letter”).) Amazon concluded that Central Freight had overcharged in three ways: (1) by
+
+ 9   failing to apply a 30 percent discount to shipments of eight or more pallets (“8-pallet
+
+10   shipments”) (Demand Letter at 3); (2) by improperly double-counting shipments from the
+
+11   same origin to the same destination on the same day (id. at 2-3); and (3) by supplying
+
+12   Amazon the incorrect Tender ID, which Amazon uses to identify the shipment for
+
+13   notification and transportation purposes (id. at 3). Based on those asserted errors,
+
+14   Amazon demanded that Central Freight reimburse Amazon $2,856,602.00 no later than
+
+15   September 15, 2016.2 (Id. at 2.)
+
+16          Central Freight disputes Amazon’s contentions. It alleges that in early 2012, the
+
+17   parties orally modified the Agreement’s pricing for 8-pallet shipments, and that its
+
+18   subsequent billing had been consistent with that oral modification and subsequent
+
+19   dealings with Amazon. (See Compl. ¶¶ 26-27.) In 2014, Central Freight prepared a
+
+20
+
+21          2
+             Amazon subsequently reduced its demand to $1,302,440.00. (See Compl. ¶ 36.)
+     According to Central Freight, Amazon reduced the demand in response to the Agreement’s
+22   18-month limitations period. (Id.)
+
+
+     ORDER - 3
+ 1   written addendum memorializing those oral modifications, but Amazon never signed the
+
+ 2   addendum. (Id. ¶¶ 31-32.) Central Freight disputes Amazon’s double-counting and
+
+ 3   Tender ID allegations, which according to Central Freight are based on Amazon’s
+
+ 4   unenforceable attempt to unilaterally amend the Agreement. (Id. ¶¶ 37-63.) Based on
+
+ 5   these disputes, Central Freight declined to reimburse any of the money that Amazon
+
+ 6   demanded. (Id. ¶¶ 37, 49, 63, 68.)
+
+ 7          In response, an Amazon “affiliate”—Amazon Truckload Services—withheld
+
+ 8   payment from Central Freight for other services performed.3 (Id. ¶ 76.) The Amazon
+
+ 9   affiliate indicated that it was “setting off funds owed by Central Freight” and would “start
+
+10   to pay any outstanding funds once the funds owed to Amazon have been recouped as part
+
+11   of this process.” (Id. ¶ 87, Ex. F.)
+
+12          Central Freight contends that Amazon wrongfully withheld the alleged
+
+13   overcharges. (Id. ¶ 16.) Central Freight asserts the following claims: declaratory
+
+14   judgment (1) that Amazon breached the Agreement by (a) “back-charging Central Freight
+
+15   a 30 percent discount for shipments of 8 pallets or more,” (b) “back-charging Central
+
+16   Freight for separately invoicing Amazon for shipments from the same origin to the same
+
+17   destination on the same day,” and (c) “back-charging Central Freight for the Tender ID
+
+18   [i]ssue,” and (2) that Amazon “wrongfully withheld payments as purported set-off to the
+
+19
+
+20          3
+               Central Freight alleges that “Amazon, through its affiliate, Amazon Truckload Services,
+     represented to Central Freight that it would pay to Central Freight a specified bid price for
+21
+     performing freight services for Amazon Truckload Services.” (Id. ¶ 77.) Central Freight further
+     asserts that “Amazon does not have a right to set[]off funds owed for different services provided
+22   to a different Amazon entity.” (Id. ¶ 88.)
+
+
+     ORDER - 4
+ 1   amounts it wrongfully claimed it overpaid” (id. ¶¶ 90-92); breach of contract (id.
+
+ 2   ¶¶ 93-98); violation of the Washington Consumer Protection Act (“CPA”), RCW
+
+ 3   19.86, et seq.; and the California Unfair Competition Law, Cal. Bus. & Prof. Code
+
+ 4   § 17200, et seq. (id. ¶¶ 99-110); and fraud (id. ¶¶ 111-19).
+
+ 5          Amazon brings a number of counterclaims against Central Freight: (1) declaratory
+
+ 6   judgment that (a) Amazon did not breach the Agreement, (b) the parties did not orally
+
+ 7   modify the Agreement, (c) Central Freight materially breached the Agreement by failing
+
+ 8   to charge the contractual rate, failing to include the Tender IDs, and invoicing Amazon
+
+ 9   multiple times for the same shipment, and (d) Amazon had a right to set off the alleged
+
+10   overcharges (Countercl. (Dkt. # 48) ¶¶ 37-39)4; (2) breach of contract (id. ¶¶ 40-45); (3)
+
+11   recoupment and setoff (id. ¶¶ 46-49); (4) violation of the CPA (id. ¶¶ 50-55); and (5)
+
+12   unjust enrichment (id. ¶¶ 56-59). Amazon alleges that the parties never modified the rate
+
+13   structure for the 8-pallet shipments. (Id. ¶ 10.) Instead, Amazon contends that beginning
+
+14   in or about January 2012, Central Freight stopped charging Amazon pursuant to the rate
+
+15   structure in the Agreement and instead started issuing “spot quotes” based on the size and
+
+16   locations of shipments. (Id. ¶ 11.) Amazon further alleges that “[p]ursuant to ordinary
+
+17   and expected commercial practice between sophisticated contracting parties, and as
+
+18   allowed by Washington law, [Amazon] set off the amount it overpaid Central Freight
+
+19
+
+20          4
+              Amazon’s counterclaims are alleged in the same document that answers Central
+     Freight’s complaint. (See generally id.) After answering Central Freight’s complaint, Amazon’s
+21
+     counterclaims begin anew with Paragraph 1. (See id.) Accordingly, the court cites the
+     counterclaims and answer separately even though they are contained within the same document.
+22   (Compare Countercl., with Answer (Dkt. # 48).)
+
+
+     ORDER - 5
+ 1   from sums it otherwise owed Central Freight.” (Id. ¶ 35.) Once it had “recouped” the
+
+ 2   overcharges, Amazon asserts that it “ceased setting off funds.” (Id. ¶ 36.)
+
+ 3          On July 20, 2017, Central Freight moved for partial judgment on the pleadings for
+
+ 4   its declaratory judgment and breach of contract claims.5 (See MJOP at 1.) Amazon
+
+ 5   opposes the motion. (See MJOP Resp.) The court now addresses the motion.
+
+ 6                                       III.   ANALYSIS
+
+ 7   A.     Legal Standard
+
+ 8          Federal Rule of Civil Procedure 12(c) provides that “[a]fter the pleadings are
+
+ 9   closed but within such time as not to delay the trial, any party may move for judgment on
+
+10   the pleadings.” Fed. R. Civ. P. 12(c). The same legal standard applies to a motion for
+
+11   judgment on the pleadings as to a motion to dismiss for failure to state a claim. Cafasso
+
+12   v. Gen. Dynamics C4 Sys., Inc., 637 F.3d 1047, 1055 n.4 (9th Cir. 2011). The court must
+
+13   accept as true all material facts alleged in the pleadings and draw all reasonable
+
+14   inferences in favor of the nonmoving party. See Fleming v. Pickard, 581 F.3d 922, 925
+
+15   (9th Cir. 2009). “Judgment on the pleadings is proper when the moving party clearly
+
+16   establishes on the face of the pleadings that no material issue of fact remains to be
+
+17   resolved and that it is entitled to judgment as a matter of law.” Hal Roach Studios v.
+
+18   Richard Feiner & Co., 896 F.2d 1542, 1550 (9th Cir. 1990). The court may consider
+
+19
+
+20          5
+               After this case was transferred from the Central District of California to the Western
+     District of Washington, the court denied Central Freight’s motion for a temporary restraining
+21
+     order. (See Transfer Order (Dkt. # 28); Redacted TRO Order (Dkt. # 47).) The court concluded
+     that Central Freight failed to demonstrate irreparable harm from Amazon’s alleged wrongful
+22   withholding of funds. (Redacted TRO Order at 6.)
+
+
+     ORDER - 6
+ 1   materials attached to or incorporated by reference in the pleadings.6 See Knievel v.
+
+ 2   ESPN, 393 F.3d 1068, 1076 (9th Cir. 2005); World Trading 23, Inc. v. Edo Trading, Inc.,
+
+ 3   No. 2:12-cv-10886-ODW(PJWx), 2013 WL 1210147, at *1 (C.D. Cal. Apr. 11, 2013).
+
+ 4   B.     Central Freight’s Motion
+
+ 5          Central Freight argues that partial judgment on the pleadings for its declaratory
+
+ 6   judgment and breach of contract claims is warranted because Amazon has no contractual
+
+ 7   right to setoff, and no legal authority justifies Amazon to withhold payment before a
+
+ 8   court determination on the issue. (MJOP at 4-7.) At this time, Central Freight seeks a
+
+ 9   declaratory judgment that “Amazon wrongfully withheld payments as purported set-off to
+
+10   the amounts it wrongfully claimed it overpaid” (Compl. ¶ 92) and a judgment that
+
+11   Amazon breached the Agreement by doing the same (id. ¶ 97). In the alternative, Central
+
+12   Freight requests judgment in the amount Amazon withheld for invoices predating the
+
+13   18-month contractual “look-back” period. (Id. at 7.)
+
+14          Amazon opposes judgment on the pleadings because (1) the parties dispute
+
+15   whether there was an oral modification to the Agreement; (2) Amazon has pleaded a
+
+16   plausible counterclaim that Central Freight overcharged it by approximately $3 million;
+
+17   (3) the Agreement allows Amazon to audit Central Freight’s billing practices to
+
+18   determine whether overcharges occurred and if Amazon identified overcharges, to
+
+19   //
+
+20
+            6
+              If a party moves for judgment on the pleadings and presents “matters outside the
+21
+     pleadings,” “the motion must be treated as one for summary judgment under Rule 56.” Fed. R.
+     Civ. P. 12(d). For this reason, the court does not consider any material outside of the pleadings
+22   or not incorporated therein.
+
+
+     ORDER - 7
+ 1   require Central Freight to repay them; and (4) Amazon’s right to reimbursement and
+
+ 2   setoff claim are not untimely under the 18-month contractual period. (MJOP Resp. at
+
+ 3   3-4.)
+
+ 4           1. Pre-litigation Setoff
+
+ 5           Central Freight first argues that the Agreement itself does not provide for any
+
+ 6   setoff outside of a judicial proceeding.7 (MJOP at 4.) Amazon does not dispute that the
+
+ 7   contract is silent as to setoff specifically. (See generally MJOP Resp.) Instead, Amazon
+
+ 8   argues that its right to reimbursement under the Agreement makes judgment on the
+
+ 9   pleadings inappropriate.8 (Id. at 15-16.)
+
+10           The court agrees that the Agreement does not expressly reference setoff. (See
+
+11   generally Agreement.) Rather, the Agreement states that Central Freight will “reimburse
+
+12   Amazon for the full amount of any overcharge identified in the audit within 10 days from
+
+13   receipt of the audit results.” (Id. § 1.2.) The only other reference to overcharges provides
+
+14   that “[a]ll claims filed by Amazon for overcharge . . . must be filed within 18 month[s] of
+
+15   the original invoice.” (Id. § 2.2.) Thus, the contract does not expressly establish a right
+
+16
+
+17           7
+               The court notes that Central Freight’s briefing and legal arguments implicate “setoff” as
+     a term of art defined in case law. (See MJOP at 3-7.) The term of art appears to be distinct from
+18   Amazon’s invocation of the phrase when Amazon informed Central Freight that one of its
+     affiliates would withhold allegedly overcharged funds until Amazon had recouped the
+19   overcharges. (See Compl. ¶ 87, Ex. F (stating that Amazon was “setting off funds owed by
+     Central Freight” and would “start to pay any outstanding funds once the funds owed to Amazon
+20   have been recouped as part of this process”).) The court thus analyzes the motion based on
+     Central Freight’s utilization of “setoff” as a term of art.
+21           8
+               Amazon also argues that the alleged oral modification to the Agreement precludes
+     judgment on the pleadings. (MJOP Resp. at 11-12.) However, that question does not bear
+22   directly on the legal issue Central Freight raises—entitlement to pre-litigation setoff.
+
+
+     ORDER - 8
+ 1   to pre-litigation setoff as Central Freight uses that phrase in its briefing or as case law
+
+ 2   defines setoff. (See MJOP at 1-2 (“[T]here is no provision in any contract between
+
+ 3   Amazon and Central Freight that gives Amazon a right to set off or attach funds
+
+ 4   generated for freight services to satisfy previously paid amounts that Amazon now
+
+ 5   disputes . . . .”)); In re Harmon, 188 B.R. 421, 424 (B.A.P. 9th Cir. 1995) (describing
+
+ 6   setoff as a mechanism that “allow[s] creditors to offset mutual and reciprocal debts with
+
+ 7   the debtor”).
+
+ 8          However, in the light most favorable to Amazon and construing all well-pleaded
+
+ 9   facts in its favor, there are disputes regarding whether Central Freight overcharged
+
+10   Amazon, whether Amazon is entitled under the Agreement to reimbursement for those
+
+11   overcharges, and what the parties intended reimbursement to entail.9 (Compare Compl.
+
+12   ¶¶ 49, 63, 68, with Countercl. ¶¶ 29-35.) The Agreement expressly provides for
+
+13   reimbursement of overcharges, and the court must therefore interpret the contract to
+
+14   ascertain the parties’ intent regarding reimbursement, which “involves a question of
+
+15   fact.” Burgeson v. Columbia Producers, Inc., 803 P.2d 838, 840 (Wash. Ct. App. 1991);
+
+16   see also In re Marriage of Schweitzer, 937 P.2d 1062, 1066 (Wash. 1997) (stating that
+
+17   Washington applies the context rule, which authorizes the use of extrinsic evidence to
+
+18   “elucidate the meaning of the words of a contract, and not for the purpose of showing
+
+19   intention independent of the instrument”) (internal quotation marks omitted); 25 Wash.
+
+20
+            9
+               In this regard, the court disagrees that “the right to pre-litigation setoff is an issue
+21
+     entirely independent from the merits of the billing dispute.” (MJOP Reply (Dkt. # 55) at 2.)
+     Indeed, Central Freight’s reply brief arguments demonstrate a fact-bound dispute. (See id. at
+22   4-6.)
+
+
+     ORDER - 9
+ 1   Prac., Contract Law & Practice § 5:7 (3d ed. 2014) (“[T]he courts which are asked to
+
+ 2   interpret or construe a written agreement must consider not only the writing itself but also
+
+ 3   the context in which it was executed.”). For example, Amazon asserts that “industry and
+
+ 4   custom . . . allow large commercial entities to offset debts from liabilities,” which may
+
+ 5   explain what the parties intended reimbursement to mean under the contract.10 (MJOP
+
+ 6   Resp. at 12); see Stender v. Twin City Foods, Inc., 510 P.2d 221, 225 (Wash. 1973)
+
+ 7   (“Once a contract is established, usage and custom are admissible into evidence to
+
+ 8   explain the terms of a contract.”); but see S.L. Rowland Constr. Co. v. Beall Pipe & Tank
+
+ 9   Corp., 540 P.2d 912, 920 (Wash. Ct. App. 1975) (“Evidence of custom or usage is not
+
+10   admissible where its purpose or effect is to contradict, vary, or qualify the plain
+
+11   unambiguous terms of a contract . . . [or] to add new conditions or elements to a plain and
+
+12   unambiguous agreement which on its face is complete.”). Moreover, Amazon has
+
+13   pleaded counterclaims for breach of contract and setoff and recoupment, involving the
+
+14   same issues. (Countercl. ¶¶ 40-49.) The court cannot decide these disputed issues in the
+
+15   context of a motion for judgment on the pleadings. See Fleming, 581 F.3d at 925; Hal
+
+16   Roach Studios, 896 F.2d at 1550.
+
+17          Furthermore, even if the court determined that Amazon improperly withheld the
+
+18   funds, the court cannot conclude on this record that the improper action constituted a
+
+19   breach of the Agreement. As an initial matter, Central Freight cites no specific
+
+20
+            10
+                 Central Freight takes issue with the fact that Amazon makes only a “passing reference”
+21
+     to industry and custom. (MJOP Reply at 9.) However, Central Freight has not met its burden in
+     the first instance of demonstrating that judgment on the pleadings is appropriate.
+22
+
+
+     ORDER - 10
+ 1   contractual provision that Amazon allegedly violated by withholding the funds. (See
+
+ 2   generally Compl.; MJOP.) More importantly, because Amazon apparently withheld
+
+ 3   funds from another Amazon affiliate pursuant to another agreement, the court cannot
+
+ 4   determine that Amazon’s action constituted a breach without referring to that agreement.
+
+ 5   (See Compl. ¶¶ 77 (stating that “after Amazon terminated Central Freight’s LTL
+
+ 6   business, Amazon, through its affiliate, Amazon Truckload Services, represented to
+
+ 7   Central Freight that it would pay to Central Freight a specified bid price for performing
+
+ 8   freight services for Amazon Truckload Services”), 80-84 (alleging that Amazon
+
+ 9   representatives made certain representations about freight services for Amazon Truckload
+
+10   Services); MJOP Reply at 3-4 (describing other services provided to Amazon Truckload
+
+11   Services).) Accordingly, Central Freight has not met its burden of showing that no issues
+
+12   remain for resolution.
+
+13          The parties also dispute whether Amazon had a legal right to set off—before
+
+14   litigation and of its own accord—the amount it alleges Central Freight overcharged.
+
+15   Central Freight contends that setoff can be invoked only pursuant to a contract or in a
+
+16   judicial proceeding. (MJOP at 5.) Amazon, on the other hand, argues that “the law, as
+
+17   well as industry standard and custom, allow large commercial entities to offset debts from
+
+18   liabilities without judicial intervention so as to avoid burdening courts with every claim
+
+19   of over- or underpayment.” (MJOP Resp. at 12.) Neither party provides definitive
+
+20   //
+
+21   //
+
+22   //
+
+
+     ORDER - 11
+ 1   authority on the question (see MJOP; MJOP Resp.), so the court begins its analysis of the
+
+ 2   issue by discussing the general treatment of setoff.11
+
+ 3          “Setoff and recoupment originated as equitable rules of joinder to expand the strict
+
+ 4   rules of pleading under the common law, allowing creditors to offset mutual and
+
+ 5   reciprocal debts with the debtor.” In re Harmon, 188 B.R. at 424; see also Green v.
+
+ 6   Wachovia Mortg. FSB, No. C11-3047RMP, 2012 WL 993586, at *8 (E.D. Wash. Mar.
+
+ 7   22, 2012) (“Generally, ‘recoupment’ refers to an equitable affirmative defense or
+
+ 8   counterclaim.” (citing Newbery Corp. v. Fireman’s Fund Ins. Co., 95 F.3d 1392, 1399
+
+ 9   (9th Cir. 1996)); Crowley Marine Servs., Inc. v. Vigor Marine LLC, 17 F. Supp. 3d 1091,
+
+10   1098 (W.D. Wash. 2014) (stating that setoff “require[s] mutuality: debts in the same right
+
+11   and between the same parties, standing in the same capacity”); 20 Am. Jur. 2d
+
+12   Counterclaim, Recoupment § 7 (2d ed. 1965) (“The remedy of setoff is similar to a
+
+13   counterclaim in having the nature and effect of an independent action by the defendant
+
+14   against the plaintiff.”). Whether “mutual judgments may be satisfied by being set off
+
+15   against each other rests largely within the court’s discretion.” Rapid Settlements, Ltd’s
+
+16   App. for Approval of Transfer of Structured Settlement Payment Rights, 271 P.3d 925,
+
+17   931 (Wash. Ct. App. 2012) (quoting Reichlin v. First Nat’l Bank, 51 P.2d 380, 384
+
+18   (Wash. 1935)). Because setoff and recoupment invoke principles of equity, the remedies
+
+19   may not be “necessary or appropriate” when “contract remedies address the concerns of
+
+20
+
+21          11
+               Amazon has alleged setoff and recoupment as a counterclaim (see Countercl.
+     ¶¶ 46-49), so the court cites case law involving both doctrines even though the doctrines are
+22   analytically distinct.
+
+
+     ORDER - 12
+ 1   the [p]arties.” Crowley Marine, 17 F. Supp. at 1098. “The right of setoff . . . allows
+
+ 2   entities that owe each other money to apply their mutual debts against each other, thereby
+
+ 3   avoiding ‘the absurdity of making A pay B when B owes A.’” Citizens Bank of Md. v.
+
+ 4   Strumpf, 516 U.S. 16, 18 (1995). Thus, the case law supports Central Freight’s position
+
+ 5   that setoff is generally treated as a judicial doctrine pursuant to which the court may grant
+
+ 6   a remedy—not a pre-litigation mechanism parties may invoke on their own outside of a
+
+ 7   contractual provision.
+
+ 8          However, as the court discussed above, the Agreement provides a right of
+
+ 9   reimbursement in Amazon’s favor for overcharges, leaving open questions of fact and
+
+10   making judgment on the pleadings inappropriate at this time. In addition, the relief
+
+11   Central Freight seeks—judgment in its favor, a ruling that “Amazon must pay Central
+
+12   Freight the monies that it is wrongfully withholding,” and then “a determination on the
+
+13   merits as to whether Central Freight properly billed Amazon for its services” (MJOP at
+
+14   7)—could lead to the kind of absurd result the setoff doctrine guards against if Amazon
+
+15   ultimately prevails on its setoff counterclaim, Strumpf, 516 U.S. at 18; (see also
+
+16   Countercl. ¶¶ 46-49 (asserting setoff and recoupment)). Therefore, the court denies
+
+17   Central Freight’s motion for partial judgment on the pleadings.
+
+18          2. 18-Month Contractual Period
+
+19          Central Freight contends that the court should conclude in the alternative that
+
+20   Amazon has no right to reimbursement for the entire contractual period because of the
+
+21   Agreement’s 18-month “look back” provision. (MJOP at 7; see also MJOP Reply at 10.)
+
+22   Central Freight argues that the provision is “unambiguous” because it states that “‘[a]ll
+
+
+     ORDER - 13
+ 1   claims filed by Amazon for [over]charge . . . must be filed within 18 month[s] of the
+
+ 2   original invoice.’” (MJOP at 7 (first alteration in motion) (quoting Agreement § 2.2).)
+
+ 3   Amazon argues that the provision applies only to the payment of individual invoices—
+
+ 4   not to the auditing and reimbursement process. (MJOP Resp. at 15-16.)
+
+ 5          As with Central Freight’s setoff argument, the 18-month period referenced in the
+
+ 6   Agreement provides an insufficient basis for granting judgment on the pleadings.
+
+ 7   Viewing the Agreement in the light most favorable to Amazon and construing all
+
+ 8   well-pleaded facts in its favor, the court can reasonably view the 18-month period as not
+
+ 9   applying to the auditing and reimbursement provision of the Agreement. See Burgeson,
+
+10   803 P.2d at 840; Sales Creators, Inc. v. Little Loan Shoppe, LLC, 208 P.3d 1133, 1135
+
+11   (Wash. Ct. App. 2009) (“A reviewing court ascertains the parties’ intent from reading the
+
+12   contract as a whole . . . .”). As discussed above, the Agreement allows Amazon to
+
+13   conduct a performance audit and requires Central Freight to “reimburse Amazon for the
+
+14   full amount of any overcharge identified in the audit.” (Agreement § 1.2.) Although the
+
+15   section of the Agreement detailing this process does not state for what period of time
+
+16   Amazon may audit Central Freight’s performance and seek reimbursement, the section
+
+17   provides that Central Freight must “keep all books and records relating to the Services”
+
+18   for the period of the Agreement and for three years after. (Id.) Thus, that provision
+
+19   suggests that the right to audit and seek reimbursement covers a period longer than 18
+
+20   months.
+
+21          In contrast, the 18-month “look back” period is contained in the “Invoices” section
+
+22   of the Agreement. (See id. § 2.2.) That section requires Central Freight to “provide
+
+
+     ORDER - 14
+ 1   weekly electronic invoices that include fees for the prior week” and Amazon “to pay
+
+ 2   undisputed portions of [Central Freight’s] properly submitted invoices within 60 days of
+
+ 3   receipt.” (Id.) Given the structure of the contract and the section’s reference to weekly
+
+ 4   invoicing, the 18-month period could be read to apply only to claims for overcharge as to
+
+ 5   individual invoices, rather than to overcharges identified as part of the auditing process.
+
+ 6   (Compare id., with § 1.2.) Thus, Central Freight has not shown that “the only
+
+ 7   interpretation that gives meaning to the terms of the contract as a whole is that Amazon’s
+
+ 8   right to reimbursement of ‘overcharges’ after an audit is limited by an 18-month look
+
+ 9   back period for filing all ‘claims’ for ‘overcharges.’” (MJOP Reply at 10.) The court
+
+10   therefore also denies Central Freight’s motion for judgment on the pleadings on this
+
+11   alternative basis.12
+
+12                                     IV.    CONCLUSION
+
+13          For the foregoing reasons, the court DENIES Central Freight’s motion for partial
+
+14   judgment on the pleadings (Dkt. # 51).
+
+15          Dated this 7th day of November, 2017.
+
+16
+
+17                                                       A
+                                                         JAMES L. ROBART
+18
+                                                         United States District Judge
+19
+
+20
+
+21          12
+               The court emphasizes that it only denies Central Freight’s motion for partial judgment
+     on the pleadings and makes no rulings on the merits of any of the parties’ claims. Such rulings
+22   are properly reserved for later stages of litigation.
+
+
+     ORDER - 15
+

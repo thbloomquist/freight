@@ -1,0 +1,581 @@
+                      UNITED STATES DISTRICT COURT
+                      EASTERN DISTRICT OF MICHIGAN
+                           SOUTHERN DIVISION
+
+TRANSPORT SYSTEMS, LLC,
+
+                    Plaintiff,
+                                               CASE NO. 18-CV-11286
+             v.                                HON. GEORGE CARAM STEEH
+
+AMAZON and U.S. EXPRESS, INC.,
+
+                    Defendants.
+                                           /
+
+                   ORDER GRANTING DEFENDANT
+          U.S. EXPRESS, INC.’S MOTION TO DISMISS (Doc. 11)1
+
+      This diversity suit raises state law claims of breach of contract, claim
+
+and delivery, conversion, and unjust enrichment arising out of an
+
+agreement between Plaintiff Transport Systems, LLC (“Transport”) and
+
+Defendant U.S. Express Inc. (“USX”). Amazon is also a named Defendant.
+
+Now before the court is USX’s motion to enforce a forum-selection clause,
+
+and to dismiss on that basis, pursuant to Federal Rule of Civil Procedure
+
+12(b)(6). For the reasons set forth below, USX’s motion to enforce the
+
+forum-selection clause and to dismiss shall be granted.
+
+
+
+
+1
+ Although Defendant captions its motion as a motion for summary judgment, in its brief,
+Defendant moves to dismiss under Federal Rule of Civil Procedure 12(b)(6). Thus, the
+court treats the motion as a motion to dismiss.
+
+                                         -1-
+                                I. Background
+
+      Plaintiff is in the business of providing trucks and trailers for hire in
+
+the trucking industry. Defendant USX is a broker licensed by the Federal
+
+Motor Carrier Safety Administration. On October 17, 2017, Plaintiff and
+
+Defendant USX agreed to a drop and hook shipment pursuant to a Load
+
+Tender and Rate Agreement Sheet, which is attached to the Complaint as
+
+Exhibit A. The Load Tender and Rate Agreement Sheet sets forth a
+
+mandatory forum-selection clause:
+
+      This written Agreement contains the entire Agreement
+      between the parties and may only be modified by signed
+      written Agreement. If there is a signed Broker/Carrier
+      Agreement or signed accessorial Agreement in effect
+      between Broker and Carrier, any terms of such
+      Agreement that conflict with this Agreement shall take
+      precedence over this Agreement. Tennessee law,
+      venue and jurisdiction shall apply.
+
+(Doc. 11-2 at PgID 86) (emphasis added).
+
+      On October 20, 2017, Plaintiff and USX entered into a general
+
+Broker/Carrier Agreement which is attached to the Complaint as Exhibit B.
+
+The agreement contemplated regular shipments. One such shipment was
+
+on behalf of Defendant Amazon using Plaintiff’s 2016 Vanguard trailer
+
+#4029. According to the Complaint, USX began using trailer #4029 for
+
+other carriers without Plaintiff’s permission and that trailer is now missing.
+
+
+
+                                       -2-
+Plaintiff filed suit in Wayne County Circuit Court, and Defendants removed
+
+on the basis of diversity jurisdiction. Defendant USX now moves to enforce
+
+the forum-selection clause and to dismiss.
+
+                              I. Standard of Law
+
+      USX moves to dismiss under Federal Rule of Civil Procedure
+
+12(b)(6). The first question for the court is whether Rule 12(b)(6) is the
+
+appropriate method to seek enforcement of a forum-selection clause. In
+
+Atlantic Marine Constr. Co., Inc. v. U.S. District Court for the W. Dist. Of
+
+Texas, 571 U.S 49, 60 (2013), the Court held that the appropriate way to
+
+enforce a forum-selection clause pointing to a state or foreign forum is
+
+through the doctrine of forum non conveniens and held that such a motion
+
+was not proper under Rule 12(b)(3) or 28 U.S.C. § 1406. The Supreme
+
+Court did not reach the question, however, whether such a motion could be
+
+brought under Rule 12(b)(6). Atlantic Marine, 571 U.S. at 61. Since
+
+Atlantic Marine was decided, the Sixth Circuit has recognized that Rule
+
+12(b)(6) remains a viable mechanism to enforce a forum-selection clause.
+
+Smith v. Aegon Co. Pension Plan, 769 F.3d 922, 934 (6th Cir. 2014). Also,
+
+in cases decided before Atlantic Marine, the Sixth Circuit suggested that
+
+the proper mechanism for enforcing a forum-selection clause is a motion to
+
+dismiss premised pursuant to Rule 12(b)(6) or a motion to dismiss for
+
+
+                                      -3-
+forum non conveniens. See Wong v. PartyGaming Ltd., 589 F.3d 821,
+
+824, 830 (6th Cir. 2009) (denying the defendants' Rule 12(b)(3) motion to
+
+dismiss based on a forum-selection clause, and instead, dismissing the
+
+action sua sponte on forum non conveniens grounds); Langley v.
+
+Prudential Mortg. Capitol Co., 546 F.3d 365, 366 (6th Cir. 2008)
+
+(remanding for consideration of whether forum-selection clause
+
+enforceable as part of a motion to dismiss pursuant to Rule 12(b)(6));
+
+Bracken v. DASCO Home Med. Equip., Inc., 954 F. Supp. 2d 686, 693-94
+
+(E.D. Mich. 2013) (recognizing that Sixth Circuit permits motions to enforce
+
+a forum-selection clause under Rule 16(b)(6) or forum non conveniens
+
+grounds).2
+
+       Since Atlantic Marine was decided, district courts in the Sixth Circuit
+
+have considered motions to enforce a forum-selection clause under both
+
+Rule 12(b)(6) and under the doctrine of forum non conveniens. See
+
+Branch v. Mays, 265 F. Supp. 3d 801, 807 (E.D. Tenn. 2017) (applying
+
+forum non conveniens analysis sua sponte even though defendant moved
+
+to dismiss under Rule 12(b)(6)); Ingenium Tech. Corp. v. Beaver
+
+
+
+
+2
+ See also Security Watch, Inc. v. Sentinel Sys., Inc., 176 F.3d 369, 371, 374-76 (6th
+Cir. 1999) (affirming district court’s dismissal pursuant to an unspecified subsection of
+Federal Rule of Civil Procedure 12(b) to enforce a forum-selection clause).
+
+                                           -4-
+Aerospace & Defense, Inc., 122 F. Supp. 3d 683, 689 (E.D. Mich. 2015)
+
+(applying forum non conveniens standard); Kelly v. Liberty Life Assurance
+
+Co. of Boston, No. 17-139-DLB, 2018 WL 558643, at *3 (E.D. Ky. Jan. 25,
+
+2018) (recognizing Rule 12(b)(6) remains permitted, but not required,
+
+procedural mechanism to enforce a forum-selection clause). Given the
+
+uncertainty in the law as to whether dismissal under Rule 12(b)(6) is the
+
+proper mechanism to enforce a forum-selection clause calling for bringing
+
+suit in a state forum, or whether the court should analyze such a claim
+
+under the doctrine of forum non conveniens, the court shall undertake both
+
+analyses here. In doing so, the court notes that Plaintiff has addressed the
+
+doctrine of forum non conveniens in its opposition brief, but USX denies
+
+that doctrine is relevant to the court’s consideration. Because the court is
+
+ruling in USX’s favor, there is no prejudice to USX for not moving to
+
+dismiss on the grounds of forum non conveniens.
+
+      “On a motion pursuant to Rule 12(b)(6), the court only needs to
+
+determine whether the forum selection clause is enforceable and
+
+applicable; if it is, then the suit should be dismissed.” Bracken, 954 F.
+
+Supp. 2d at 694. Here, the parties have not submitted any evidence
+
+outside the pleadings regarding the convenience of the forum; thus, it is
+
+appropriate to conduct review pursuant to Rule 12(b)(6). Here, the forum-
+
+
+                                     -5-
+selection clause is set forth in the Load and Tender Rate Agreement which
+
+is attached as Exhibit A to Plaintiff’s Complaint. Thus, it is appropriate for
+
+the court to consider it in the context of USX’s motion to enforce the forum-
+
+selection clause and to dismiss this action.
+
+                                   II. Analysis
+
+      Plaintiff opposes USX’s motion to dismiss for two reasons: (1) the
+
+forum-selection clause is allegedly permissive, not mandatory, and thus
+
+unenforceable; and (2) Tennessee is an inconvenient forum. Plaintiff’s
+
+arguments are insufficient to overcome the presumption in favor of
+
+enforcement of a forum-selection clause.
+
+      A.    Forum-Selection Clause is Mandatory
+
+      First, the forum-selection clause: “Tennessee law, venue and
+
+jurisdiction shall apply” is mandatory. Courts have found that the use of the
+
+term “shall,” as opposed to discretionary terms like “may” or “should,” when
+
+used in forum-selection clauses make the requirement of a certain forum
+
+mandatory, not permissive. See Gen. Elec. Co. v. G. Siempelkamp GmbH
+
+& Co., 29 F.3d 1095, 1099 (6th Cir. 1994) (“Because the clause states that
+
+“all” disputes “shall” be at [Defendant’s] principal place of business, it
+
+selects German court jurisdiction exclusively and is mandatory”); Florida St.
+
+Bd. of Admin. v. Law Eng’g & Env. Serv., Inc., 262 F. Supp. 2d 1004, 1009
+
+
+                                      -6-
+(D. Minn. 2003) (“Generally, courts have found that use of the words ‘may’
+
+and ‘should’ signify permissive clauses, while use of the words ‘shall,’ ‘will,’
+
+or ‘must’ signify mandatory clauses”).
+
+      B.    Validity and Enforceability of Forum-Selection Clause
+
+      Having found that the forum-selection clause is mandatory, the court
+
+next turns to the question of whether it is enforceable. The “enforcement of
+
+valid forum-selection clauses, bargained for by the parties, protects their
+
+legitimate expectations and furthers vital interests of the justice system.”
+
+Atlantic Marine, 571 U.S. at 63. (internal quotation marks and citation
+
+omitted). As a result, “a valid forum-selection clause [should be] given
+
+controlling weight in all but the most exceptional cases.” Id. Such clauses
+
+are “prima facie valid” and “should be upheld absent a strong showing that
+
+[they] should be set aside.” M/S Bremen v. Zapata Off-Shore Co., 407
+
+U.S. 1, 10 (1972).
+
+      In a diversity suit like this one, “the enforceability of the forum
+
+selection clause is governed by federal law.” Wong, 589 F.3d at 828. The
+
+Sixth Circuit has established a three-part test for determining whether a
+
+forum-selection clause is enforceable. The court considers the following
+
+factors: “(1) whether the clause was obtained by fraud, duress, or other
+
+unconscionable means; (2) whether the designated forum would
+
+
+                                       -7-
+ineffectively or unfairly handle the suit; and (3) whether the designated
+
+forum would be so seriously inconvenient such that requiring the plaintiff to
+
+bring suit there would be unjust.” Id. Also, it is presumed that the clause is
+
+enforceable, and “the party opposing the forum-selection clause bears the
+
+burden of showing that the clause should not be enforced.” Id.
+
+      Consideration of all three factors supports the conclusion that the
+
+forum-selection clause here should be enforced. Plaintiff does not
+
+challenge enforcement of the forum-selection clause based on the first two
+
+factors. Indeed, there is no allegation that the clause was obtained by
+
+fraud, duress, or other unconscionable means. In fact, the agreement was
+
+reached by two sophisticated business entities. Also, Plaintiff does not
+
+argue that Tennessee federal or state courts would ineffectively or unfairly
+
+handle the suit. In fact, they are well equipped to handle this suit which is
+
+governed by Tennessee law.
+
+      Plaintiff relies solely on the third factor and argues that Tennessee is
+
+an inconvenient forum because Plaintiff is a local, solely owned motor
+
+carrier; all of the routes run for USX, including the relevant route in this
+
+case, were run in Michigan; Plaintiff’s books and records are in Michigan;
+
+and the witnesses are located in Michigan. Plaintiff also points to the fact
+
+that USX has greater resources than Plaintiff, does business in Michigan,
+
+
+                                      -8-
+and has counsel located in Michigan as factors suggesting that Michigan
+
+would not be an inconvenient forum for USX.
+
+      Plaintiff has not met the third factor either. The Sixth Circuit has held
+
+that in order to satisfy the third factor, “the plaintiff must show that
+
+enforcement of the clause would be so inconvenient such that its
+
+enforcement would be unjust or unreasonable.” Wong, 589 F.3d at 829.
+
+This is a heavy burden that is not met by showing mere inconvenience. Id.
+
+In Wong, plaintiffs were Ohio consumers, not sophisticated business
+
+entities, who sought to avoid enforcement of a forum-selection clause set
+
+forth in a non-negotiated consumer contract requiring any suit to be filed in
+
+Gibraltar. Id. Plaintiffs argued enforcement of the clause would be
+
+unreasonable because they were not entitled to a jury trial in Gibraltar, nor
+
+could they bring class action claims there. Id. at 829. The Sixth Circuit
+
+affirmed the district court’s decision that the forum-selection clause was
+
+enforceable, finding that even requiring plaintiffs to litigate in a foreign
+
+country without the benefits afforded in the United States legal system
+
+would not be so inconvenient as to render it unjust or unreasonable. Id.
+
+      District courts have found that parties opposing enforcement of
+
+forum-selection clauses have failed to show that the chosen jurisdiction is
+
+inconvenient in circumstances similar to those presented here. See, e.g.,
+
+
+                                       -9-
+United American Healthcare Corp. v. Backs, 997 F. Supp. 2d 741, 747-48
+
+(E.D. Mich. 2014) (rejecting argument Michigan inconvenient forum even
+
+where party opposing enforcement of forum-selection clause had never
+
+been to Michigan, the sale of stock took place in California, all documents
+
+and witnesses were in California, and party seeking to enforce clause no
+
+longer headquartered in Michigan); Ferris & Salter P.C. v. Thomson
+
+Reuters Corp., 819 F. Supp. 2d 667, 668, 671-72 (E.D. Mich. 2011)
+
+(enforcing forum-selection clause in which Canadian corporation with
+
+principal place of business in New York and Michigan law firm agreed to
+
+resolve disputes in Minnesota). Based on the above discussion, Plaintiff
+
+has not overcome the presumption that the forum-selection clause should
+
+control. Thus, the clause is enforceable.
+
+      C.    Forum Non Conveniens Analysis
+
+      The court now considers whether the forum-selection clause should
+
+be enforced via the forum non conveniens doctrine. Under that doctrine,
+
+the district court weighs several factors, but the analysis is markedly
+
+different when a forum-selection clause is in play. In a case in which there
+
+is no forum-selection clause, the Sixth Circuit has held that the district court
+
+must establish an adequate alternative forum, must weigh the relevant
+
+public and private interests, and give deference to the plaintiff’s choice of
+
+
+                                     - 10 -
+home forum. Wong, 589 F.3d at 830. However, where a forum-selection
+
+clause is present, the forum non conveniens analysis changes in several
+
+important respects, two of which are germane here: (1) the plaintiff’s choice
+
+of forum merits little weight, and (2) the court must not consider the parties’
+
+private interests but deems those interests to weigh entirely in favor of the
+
+preselected forum. Atlantic Marine, 571 U.S. at 63.
+
+      Under the above factors, the court finds that enforcement of the
+
+forum-selection clause here is appropriate. There is no dispute that
+
+Tennessee courts are an adequate alternative forum. Indeed, they are in a
+
+better position than this court to adjudicate the present dispute which sets
+
+forth state law claims only, as the parties’ agreement contains a choice-of-
+
+law provision which calls for the application of Tennessee law. There is no
+
+dispute that Plaintiff is amenable to process in Tennessee as Plaintiff
+
+consented to submit itself to the jurisdiction of Tennessee with the forum-
+
+selection clause. Wong, 589 F.3d at 831. Also, as the Atlantic Marine
+
+Court instructs, the court gives little weight to Plaintiff’s choice of forum,
+
+571 U.S. at 63, or to its private interests as Plaintiff contractually agreed to
+
+litigate in Tennessee, and thus, any inconvenience was clearly foreseeable
+
+at the time of contracting. 571 U.S. at 64.
+
+
+
+
+                                      - 11 -
+      This leaves for the court to consider only the public interest factors
+
+impacted by the forum-selection clause. The Supreme Court has
+
+recognized that inquiry involves analysis of the following factors: “the
+
+administrative difficulties flowing from court congestion; the local interest in
+
+having localized controversies decided at home; [and] the interest in having
+
+the trial of a diversity case in a forum that is at home with the law. The
+
+Court must also give some weight to the plaintiffs' choice of forum.” Id. at
+
+62 n.6 (internal quotation marks and citation omitted)). The Sixth Circuit
+
+has also identified as additional factors avoidance of conflict-of-law
+
+problems or application of foreign law, and unfairness in burdening local
+
+citizens with jury duty. Wong, 589 F.3d at 832.
+
+      Consideration of these factors weighs in favor of adjudication in
+
+Tennessee. There has been no suggestion of court congestion in
+
+Tennessee courts. There is no compelling local interest in having a breach
+
+of contract case decided in Michigan as the parties, two sophisticated
+
+business entities, agreed to try any dispute in Tennessee. Although the
+
+court gives some weight to Plaintiff’s choice of forum, that weight is
+
+overcome by the public’s interest in having a forum that is at home with the
+
+law. As Tennessee law governs the instant dispute, the public interest is
+
+served by having the matter litigated in Tennessee. A choice-of-law
+
+
+                                      - 12 -
+provision will usually be given effect unless it would be contrary to a
+
+fundamental policy of a state with a materially greater interest in the issue.
+
+Wong, 589 F.3d at 832. There has been no suggestion that Michigan has
+
+a fundamental policy with a materially greater interest in a garden variety
+
+breach of contract action. Also, there are no conflict-of-law problems to
+
+consider, nor any possibility of the application of foreign law. Finally,
+
+Plaintiff argues that this is a straight forward collection case, and thus, this
+
+court has a strong interest in presiding over matters concerning persons
+
+and entities domiciled in this district. Plaintiff’s argument is insufficient to
+
+overcome the Supreme Court’s admonition that “a valid forum-selection
+
+clause should control except in unusual cases.” Atlantic Marine, 571 U.S.
+
+at 582.
+
+      Plaintiff relies on a number of cases, (Doc. 16 at PgID 141-42),
+
+including Servo Kinetic’s, Inc. v. Tokyo Precision Instruments Co., Ltd., 352
+
+F. Supp. 2d 787 (E.D. Mich. 2004), for the proposition that dismissal is not
+
+warranted under the doctrine of forum non conveniens based on deference
+
+owed to Plaintiff’s choice of forum, and a careful weighing of public and
+
+private interests. Those cases are not persuasive as they do not involve
+
+forum-selection clauses which change the calculus for analysis under the
+
+
+
+
+                                       - 13 -
+forum non conveniens doctrine by affording little weight to the plaintiff’s
+
+choice of forum or private interests. Atlantic Marine, 571 U.S. at 63.
+
+                                       IV. Conclusion
+
+      Having found that the forum-selection clause is enforceable and that
+
+dismissal is warranted under Rule 12(b)(6) and the doctrine of forum non
+
+conveniens, USX’s motion to dismiss (Doc. 11) is GRANTED.
+
+      IT IS SO ORDERED.
+
+Dated: October 16, 2018
+                                          s/George Caram Steeh
+                                          GEORGE CARAM STEEH
+                                          UNITED STATES DISTRICT JUDGE
+
+
+                               CERTIFICATE OF SERVICE
+
+                Copies of this Order were served upon attorneys of record on
+                   October 16, 2018, by electronic and/or ordinary mail.
+
+                                   s/Marcia Beauchemin
+                                       Deputy Clerk
+
+
+
+
+                                          - 14 -
+

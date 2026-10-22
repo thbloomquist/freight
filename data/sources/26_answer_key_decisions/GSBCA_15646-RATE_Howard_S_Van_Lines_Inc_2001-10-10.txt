@@ -1,0 +1,194 @@
+ 
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+
+
+                                                 
+
+                         October 10, 2001
+                                                 
+
+
+                         GSBCA 15646-RATE
+
+
+            In the Matter of HOWARD'S VAN LINES, INC.
+
+
+     Becky J. Cronister, President of Action Capital Corporation, Atlanta, GA, appearing
+for Claimant.
+
+     James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, Washington, DC, appearing for General Services
+Administration.
+
+     Colonel Harry L. Dorsey, Staff Judge Advocate, Headquarters, Military Traffic
+Management Command, Department of the Army, Alexandria, VA, appearing for
+Department of Defense.
+
+DANIELS, Board Judge (Chairman).
+
+     Howard's Van Lines, Inc. (Howard) stored household goods for the Department of the
+Navy, pursuant to a Government bill of lading (GBL), during 1997.  Howard billed the Navy
+for its services.  The Navy did not pay Howard, however; instead, it paid the line-haul carrier
+for which Howard was an agent.  Howard complained to the General Services Administration
+(GSA), which audits Government payments to carriers and freight forwarders.  GSA
+determined that the Navy had acted permissibly in paying the carrier.  At Howard's request,
+we review GSA's determination.  31 U.S.C.A.   3726(i) (West Supp. 2001).
+
+                            Background
+
+     On January 13, 1998, Howard submitted to the Navy an invoice in the amount of
+$4,957.54 for storage and associated services involving household goods which had been
+shipped under a GBL.  The invoice listed the payee as "Global Worldwide, c/o Howard's Van
+Lines, Inc., P.O. Box 56346, Atlanta, GA 30343."
+
+     Howard has provided an explanation regarding this invoice.  The explanation has not
+been contested by either the Military Traffic Management Command (MTMC) (which is
+representing the Department of Defense in this proceeding) or by GSA, so we accept it as
+accurate.  The invoice was a "waivered supplemental household goods storage invoice." 
+"Global Van Lines Inc. [ ] [Foot # 1 ]  issued the waiver to allow [Howard] to bill and collect
+the charges on the storage invoice directly from the Navy, which was common practice at
+that time.  Action Capital Corporation factored the invoice for [Howard] and paid [Howard]
+the full amount of the invoice less [Action Capital's] small fee.  Action Capital's address was
+on the invoice."
+
+     
+****************** Footnote Begin **********
+[Foot # 1 ]       Although the invoice shows the carrier as "Global Worldwide," the
+explanation calls the carrier "Global Van Lines Inc."  From GSA's filing, we gather that
+Global Worldwide and Global Van Lines may be or have been two separate entities. 
+Whether the two Globals are or were separate, or one and the same, is not important to our
+decision.
+****************** Footnote End ************
+
+ On September 11, 1998, Action Capital, on behalf of Howard, told the Defense Finance and
+Accounting Service (DFAS) that it had not received payment on its invoice.  (Howard has
+since confirmed that it did not receive payment, either.)  Action Capital asked DFAS to stop
+payment on the check which had been written and issue a replacement check.  Having
+received no response, Action Capital on behalf of Howard asked for a check again in
+February 2000, and yet again in March 2001.
+
+     Meanwhile, unbeknownst to Action Capital or Howard, events relevant to this matter
+had been occurring.  A check dated July 7, 1998, was issued from the United States Treasury,
+made payable to "Global Wordwide [sic] or Howard's Van Line [sic]" in the amount of
+$5,082.53.  GSA suspects that the amount of the check is greater than the amount of the
+invoice because Prompt Payment Act interest was included in the check.  The check was
+cashed on October 5, 1998.  The check was received and cashed by Global Van Lines.
+
+     In early 2000   January, according to GSA, or February, according to Howard   
+Global Van Lines filed for bankruptcy.  Shortly thereafter, a DFAS employee indicated to
+Action Capital that payment for Howard's storage services had been made to Global Van
+Lines.  Action Capital later asked Global Van Lines for confirmation that it had received the
+payment.  Global Van Lines performed an incomplete search of its records and said that it
+could not confirm receipt.
+
+     In April 2001, DFAS finally provided to Action Capital a copy of the canceled check. 
+Action Capital and Howard then began the series of correspondence which has ended with
+the request for review by this Board.
+
+                            Discussion
+
+     Federal Property Management Regulations issued by GSA govern the situation at
+issue here.  Two provisions of those regulations are especially important.  Section
+101-41.302-3(a) of title 41, Code of Federal Regulations (1997) provides that a voucher for
+payment for services performed under a GBL "shall be presented to the paying office
+indicated in the 'Bill Charges To' section on the face of the GBL for payment to" any of four
+specified entities.  One of these entities is 
+
+     [a] carrier [in privity with the contract of carriage as evidenced by the covering
+     GBL] or its properly designated warehouse agent billing in the name of the
+     carrier as authorized in   101-41.309-2 dealing with certification of shipments
+     in storage.
+
+Id. 101-41.302-3(a)(3) (emphasis added).
+
+     Subsection (b)(3) of 41 CFR 101-41.309-2, the provision referenced above, says that
+the carrier's certification   
+
+     may include a statement designating the warehouseman as an agent of the
+     carrier with authority to receive payment in the name of the line-haul carrier
+     for all storage-in-transit, delivery-out, and other applicable charges.  A signed
+     copy of the certificate shall be attached to the supplemental bill for such
+     authorized billing.
+
+     MTMC correctly notes that these regulatory provisions no longer exist.  Under the
+current Federal Management Regulation, the applicable provision reads as follows:
+
+     May my agency pay an agent functioning as a warehouseman for the TSP
+     [transportation service provider] functioning as a warehouseman for the TSP
+     providing service under the bill of lading?
+
+     No, your agency may only pay the TSP with whom it has a contract.  The bill
+     of lading will list the TSP with whom the Government has a contract.
+
+41 CFR 102-118.205 (2000).  This provision has been in effect only since April 20, 2000,
+however.  65 Fed. Reg. 24,567, 24,568, 24,575 (Apr. 26, 2000).  Thus, it cannot apply to the 
+voucher at issue in this case.  We apply the regulatory provisions which were in effect at the
+time the voucher was submitted.
+
+     The parties to this case do not contest each other's recitations of facts relevant to the
+dispute.  We draw the following conclusions from those recitations:
+
+     1.   From the fact that in response to Howard's voucher, the Navy issued a check
+     listing Howard as an alternate payee, we find that the agency considered that the line-
+     haul carrier in privity of contract with the Government had designated Howard, its
+     warehouseman, as having authority to receive payment in the name of that carrier for
+     the storage and related services Howard had provided.
+
+     2.   From the facts that the check appears to have included Prompt Payment Act
+     interest, and that the Prompt Payment Act requires that interest begins to run only
+     after an agency receives a proper invoice, see 31 U.S.C.   3901(a)(3), (4) (1994), 
+     [Foot # 2 ] we find that the Navy considered Howard's voucher to be a proper invoice.
+
+     
+****************** Footnote Begin **********
+[Foot # 2 ]       By regulation, GSA has made clear that the Prompt Payment Act's provisions
+apply to carrier bills.  41 CFR 101-41.401(e); see also id. 101-41.103(h).
+****************** Footnote End ************
+
+ 3.  The voucher stated that payment should be made to the address of Action Capital,
+Howard's factor.
+     
+     4.   After the check was issued, but nearly a month before it was cashed, Action
+     Capital, on behalf of Howard, (a) put the Government on notice that the check had not
+     been received by the entity to which payment should have been made and (b) asked
+     that payment be refused on that check and a replacement check issued.
+
+     5.   The Government failed to comply with this request.  The check remained
+     outstanding until Global Van Lines cashed it.
+
+     6.   The Government continued to be unhelpful in responding to Action Capital's
+     entreaties until, more than a year later, a DFAS employee indicated that the check had
+     been received by Global Van Lines.
+
+     From these facts, the conclusion is inescapable that the Government made two
+fundamental errors with regard to Howard's voucher.  First, it mailed the check containing
+payment to an address other than the one which was noted on the voucher as the one and only
+appropriate address for payment.  Second, when told that the check had not been received,
+the Government failed to take any action which would have ensured that the appropriate
+recipient of the funds, as designated by the carrier in privity of contract with the Government,
+became the actual recipient.  In short, because the Navy and DFAS bungled this transaction,
+someone other than the appropriate recipient of the funds ended up with the money.
+
+     GSA and MTMC suggest that the solution to this predicament is that Howard should
+seek the money from Global Van Lines, which cashed the check.  Howard protests that this
+proposed resolution is impossible, since Global Van Lines is now operating under protection
+of the bankruptcy laws.  We hold that whether it is possible for Howard to get the money
+from Global is irrelevant.  GSA's regulations regarding payments for transportation services
+are binding on all agencies.  41 CFR 101-41.100.  The Navy and DFAS are obligated, under
+those regulations, to pay Howard for the storage services it provided.  That obligation must
+be met now, whether payment has improperly been made to a Global entity or not.  It is the
+Government, not Howard, which should be pursuing recovery of the improper payment made
+to Global.  See Interstate Van Lines, Inc., B-194029 (June 18, 1979), aff'd on reconsideration
+(Oct. 22, 1979).
+
+
+
+
+
+                                   __________________________
+                                   STEPHEN M. DANIELS
+                                   Board Judge

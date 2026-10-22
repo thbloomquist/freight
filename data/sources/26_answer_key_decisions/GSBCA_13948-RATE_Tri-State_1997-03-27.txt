@@ -1,0 +1,163 @@
+                   
+
+
+
+
+
+                          ______________________
+
+                              March 27, 1997
+                          ______________________
+
+
+
+                             GSBCA 13948-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC, appearing
+for General Services Administration.
+
+     Col. David A. Shull, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+DeGRAFF, Board Judge.
+
+     On February 5, 1993, the Naval Weapons Station in Yorktown,
+Virginia issued government bill of lading (GBL) G-1,034,693 to Tri-
+State Motor Transit Co. (Tri-State).  In GBL Block 24, under the
+heading "Seal Numbers," is the notation "US DISC. 0790149,150." 
+The GBL requested two types of protective services for this
+shipment, dual driver protective service and motor surveillance
+service.  Tri-State carried the shipment and sent a voucher for
+$415 to the Department of Defense (DoD).
+
+     In January 1996, Tri-State sent a supplemental voucher to DoD. 
+According to Tri-State, DoD owed an additional amount because DoD
+requested exclusive use of the vehicle that Tri-State used to carry
+the shipment.  In support of its supplemental voucher, Tri-State
+said:
+
+     Shipper applied a security device (other than an ordinary
+     seal) which required the use of mechanical means to break
+     and which requires exclusive use as provided in Item 470-
+     1(4), Trism, Inc., Agent, Tariff 4001, which provides:
+
+          The use of any method of sealing a dromedary
+          box or 410 container, ie: bolt seals,
+          padlocks, cable locks, ball type locks, wire
+          twists, etc., which require the use of
+          mechanical means to break that seal will be
+          considered as a request for exclusive use
+          irregardless (sic) of any notation on the bill
+          of lading and the charges named in paragraph 1
+          will apply.
+
+     As evidence that such a security device was applied to
+     carrier's equipment: . . . "U.S. D.I.S.C." appearing
+     before the seal number in Block 24 of the GBL is the
+     prefix for a Cable Lock Seal used by the Dept. of
+     Defense.
+
+A Tri-State employee states in an affidavit that he does not recall
+ever observing the prefix "U.S.D.I.S.C." on an ordinary seal or
+lock.  Instead, he says, this prefix is used for cable locks.  He
+also states that he has never known DoD to request a protective
+security service without also using a security device other than an
+ordinary seal on the container, and that such security devices can
+be compromised only with a heavy-duty bolt cutter.
+
+     DoD's Military Traffic Management Command (MTMC) issues
+Freight Traffic Rules Publication No. 1A (MFTRP 1A), which governs
+freight services provided by motor freight carriers doing business
+with DoD.  MFTRP 1A is used "solely in conjunction with the DOD
+Standard Tender of Freight Services, MT Form 364-R."  MFTRP 1A,
+Item 10. 
+
+     The Defense Traffic Management Regulation (DTMR) explains that
+the application of a seal by a shipper does not constitute a
+request for exclusive use.  DTMR, DLAR 4500.3, Item 34-10.  When
+exclusive use is requested, the DTMR lists the types of locks that
+can be used to seal the shipment:
+
+     [A] serially numbered cable seal lock (NSN 5340-00-084-
+     1570), or other type of specialized seal that provides
+     equal or better security on carload or truckload
+     shipments, must be applied.  A serially numbered, ball-
+     type seal with a peened bolt and nut (NSN 5340-00-081-
+     3381), or a number 5 American wire gauge steel wire twist
+     (NSN 9505-00-244-7550), may be substituted.
+
+DTMR, DLAR 4500.3, Item 34-11.
+
+     DoD referred Tri-State's claim to the General Services
+Administration (GSA).  GSA allowed part of the claim and denied the
+part of the claim that concerns exclusive use.  Tri-State asked us
+to review GSA's partial disallowance of the claim.
+
+                                Discussion
+
+     Tri-State says that the application of a cable seal to the
+shipment constitutes a request for exclusive use according to Trism
+Tariff 4001, Item 470-1(4), quoted above.  Tri-State says that a
+cable lock is commonly used by DoD agencies as a security device,
+and that the prefix "U.S.D.I.S.C.," which is found on the face of
+the GBL in this case, identifies a cable lock.  Tri-State also
+notes that DoD requested two types of protective security services
+for this shipment, and that DoD always applies a security device
+that can be broken only by mechanical means when it requests a
+protective security service.
+
+     GSA's position is that Tri-State has not supported its claim
+that it is owed an additional amount for the exclusive use of a
+vehicle.  GSA states that there is no evidence that this shipment
+was secured with the type of seal identified in Trism Tariff 4001,
+Item 470-1(4), which mentions a bolt seal, padlock, cable lock,
+ball type lock, wire twists, or other seal that must be broken by
+mechanical means.  GSA notes that Tri-State did not provide the
+national stock number of the locks that it says were used on this
+shipment, so GSA is not able to confirm that the type of seal used
+is consistent with a seal that is used when an agency requests
+exclusive use, as explained in the DTMR.
+
+     MTMC's position is that the Naval Weapons Station did not
+request exclusive use in accordance with MFTRP 1A.  MTMC also
+asserts that laches should bar Tri-State's claim because Tri-
+State's delay in presenting its claim "inevitably prejudices" MTMC. 
+MTMC states, "Sometimes, records have been destroyed and are not
+recoverable.  Sometimes, individuals have moved, retire, or become
+unavailable for other reasons."  
+
+     We reject GSA's position because Tri-State came forward with 
+an affidavit to establish that the shipment was secured with the
+type of seal identified in the Trism tariff, and neither GSA nor
+MTMC came forward with anything to counter Tri-State's affidavit. 
+If a lock with the prefix "U.S.D.I.S.C." is not a cable lock that
+must be broken by mechanical means, we would have expected MTMC to
+come forward and contradict Tri-State's affidavit.  
+
+     We reject MTMC's position because MFTRP 1A applies to tenders,
+and not to tariffs.  Also, MTMC has not established that it was
+prejudiced in this case, which is an essential element of laches. 
+Cornetta v. United States, 851 F.2d 1372 (Fed. Cir. 1988) (en
+banc).  
+
+     Tri-State has adequately supported its position.  The shipper
+applied a cable lock that could be broken only by mechanical means. 
+According to the terms of Trism Tariff 4001, Item 470-1(4), this
+constitutes a request for exclusive use and Tri-State is entitled
+to be paid for providing exclusive use of a vehicle.
+
+
+
+
+                                   ______________________________
+                                   MARTHA H. DeGRAFF
+                                   Board Judge

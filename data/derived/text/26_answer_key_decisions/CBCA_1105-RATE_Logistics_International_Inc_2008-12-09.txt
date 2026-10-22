@@ -1,0 +1,206 @@
+                                     December 9, 2008
+
+
+                                     CBCA 1105-RATE
+
+
+                 In the Matter of LOGISTICS INTERNATIONAL, INC.,
+
+
+      Alan F. Wohlstetter of Denning & Wohlstetter, Washington, DC, counsel for
+Claimant.
+
+      James F. Fitzgerald, Director, Audits Division, Office of Transportation and Property
+Management, General Services Administration, Arlington, VA; and Aaron J. Pound, Office
+of General Counsel, General Services Administration, Washington, DC, appearing for
+General Services Administration.
+
+      Bruce D. Ensor, Surface Deployment and Distribution Command, Office of the Staff
+Judge Advocate, Scott Air Force Base, IL, appearing for Department of the Air Force.
+
+GOODMAN, Board Judge.
+
+        Claimant Logistics International, Inc. has asked this Board to review the determination
+of the Transportation Audit Division of the General Services Administration (GSA) to offset
+$115,721.76 from funds due claimant.
+
+                                    Factual Background
+
+        Claimant is a Transportation Service Provider (TSP) participating in the International
+Through Government Bill of Lading (ITGBL) procurement of the Surface Deployment and
+Distribution Command (SDDC) of the Department of the Army. Claimant submitted a bid
+in response to the SDDC’s International Personal Property Rate Solicitation I-16 (the
+solicitation) which sought One Time Only (OTO) rates for the shipments at issue.
+CBCA 1105-RATE                                                                                 2
+
+       The solicitation contained the following bid evaluation criteria:
+
+       SDDC will evaluate all competitive bid offers received from Transportation
+       Service Providers as well as alternative shipping methods. When the OTO
+       method is selected, the Transportation Service Provider offering the lowest
+       overall responsive bid will be notified of the shipment award.
+
+Solicitation, Item 702.f.
+
+        The awardee was to provide door-to-door transportation of household goods (Code
+6 of the solicitation) and unaccompanied baggage (Code 8 of the solicitation) between points
+in the Middle East, and other overseas points and points in the United States. As explained
+by claimant, under both Codes 6 and 8, TSPs bid single-factor door-to-door rates expressed
+in dollars and cents per hundredweight. Pursuant to the solicitation the qualified TSP with
+the lowest code rates was awarded the shipments. In addition to being paid its single-factor
+rate for each shipment, the TSP was reimbursed by the Government the actual costs, without
+additional mark-up, for war risk and fuel surcharges assessed by the commercial airlines on
+shipments outbound from origin points in the Middle East.
+
+       Claimant was the low bidder and selected for award for the shipments at issue.
+Claimant states that it contracted with three companies -- Swift International, Inc., of Doha,
+Qatar, Al Sawan of Kuwait City, Kuwait, and Gulf Express of Kuwait (referred to by
+claimant collectively as its origin agent) -- to act as an agent in the performance of origin and
+destination services on the shipments. The companies comprising the origin agent are all
+owned by the same individual (the owner).
+
+       After a post-payment audit, GSA determined that claimant was not entitled to its full
+OTO rate and surcharges because the invoices from the origin agent included amounts
+designated as “discount for prompt payment.” Because GSA believed that the inclusion of
+these charges on the invoices reduced the costs paid by claimant for services of the origin
+agent and reimbursable surcharges, GSA concluded that claimant was contractually obligated
+to repay these sums to the Government as the Government should receive the benefit of the
+contractor’s reduced costs to perform. GSA therefore withheld $115,721.76 from funds due
+claimant.
+
+       Claimant denies that any discount was taken by its origin agent and that the origin
+agent’s invoices were paid in full without reduction. Claimant submitted affidavits from its
+Vice President who explained that the origin agent billed claimant by itemized invoices
+which included the charges for the agent’s origin or destination service and other charges
+where applicable, such as prepaid air freight charges, war risk, and fuel charges. These
+CBCA 1105-RATE                                                                               3
+
+charges were totaled, and after this total each invoice included an amount designated on the
+invoice as a “discount for prompt payment.” Claimant states that the owner of the origin
+agent directed claimant by written instruction to pay the amounts designated as “discount for
+prompt payment” directly to a bank account that was held in his name and to pay the
+remainder of the total billed amount to the origin agent.1 Thus, claimant asserts that for each
+invoice the two payments -- one to the origin agent and the other to the origin agent’s owner
+-- equaled the total billed without reduction. As for the war risk and fuel surcharges, which
+were included in the total amount billed, claimant paid the origin agent for these charges (as
+they were included in the total billed) and then submitted these charges without markup to
+the Government for reimbursement.
+
+                                         Discussion
+
+        GSA initially asserted that its offsets of funds were justified because the amounts
+designated as “discount for prompt payment” on the invoices of claimant’s origin agent were
+discounts which reduced claimant’s cost of performance for which the Government is
+entitled to receive the benefit. Claimant asserts that it did not receive a discount for any
+shipment from its origin agent and the two payments that claimant made for each invoice
+equaled the total amount of the invoice without reduction, despite the designation of a
+component of the total amount of the invoice as a “discount for prompt payment.”
+Additionally, claimant asserts that even if claimant had paid less than the total invoiced
+amount to its origin agent, as a matter of law GSA is not entitled to an offset as claimant was
+to be paid its bid rate regardless of its actual cost of performance.
+
+        GSA’s initial position in this case was based upon its post-performance review of
+what it considers to be the claimant’s cost of performance, its apparent determination that the
+procurement was governed by the Federal Acquisition Regulations (FAR) that governed cost-
+reimbursement contracts, and its implication that it evaluated the bids using cost analysis.
+GSA stated in its initial response to claimant’s request for review at this Board:
+
+       GSA contends that the original cost assessed for moving these shipments did
+       not account for prompt payment discounts, and the credit should be reflected
+       in the billing of the Government . . . .
+
+       ....
+
+
+
+
+       1
+        Declaration of Desmond M. Allum (Aug. 21, 2008), Attachment 2 (origin agent
+owner’s Letter of Instruction, dated April 4, 2005).
+CBCA 1105-RATE                                                                                 4
+
+       The single factor rate includes all land, water and air transportation as defined
+       in the SDDC International Rate Solicitation 1-16 (1-16). When any factor of
+       cost changes, the single factor rate should change similarly.
+
+       ....
+
+       Once [claimant] accepted a prompt payment discount, the actual cost of
+       shipment was lowered. Therefore, a credit is due to the Government.
+
+       [Claimant] states that there is no statute or procurement regulation that
+       authorizes the Government to offset discounts paid to a TSP by its agent. FAR
+       31.201-5 states that, “[t]he applicable portion of any income, rebate, allowance
+       or other credit relating to an allowable cost and received by or accruing to the
+       contractor shall be credited to the Government either as a cost reduction or a
+       cash refund.” Although the FAR provides for shipments procured by contracts
+       other than bill of lading type, this provision is relevant guidance demonstrating
+       the intent of the Government regarding the administration of contracts.
+
+        After the claimant’s claim and GSA’s reply in this case, the Board directed the parties
+to supplement the record on various issues. Board Order (Jul. 25, 2008). In response to the
+Board’s inquiry, claimant submitted information which it contended supports its position that
+it paid the origin agent’s invoices in full without taking a discount. GSA acknowledged that
+the bids for this procurement were lump sum bids without any itemization of the bidders cost
+elements, that no cost analysis of the bid as defined in FAR 15.404-1(c)2 was performed prior
+to award, and that no determination was made by the Government that this procurement was
+subject to FAR or FAR Part 31.
+
+       Thereafter the Board directed GSA to review claimant’s supplemental information
+and state whether the information was sufficient for the Government to conclude that
+discounts were not taken by claimant. Board Order (Oct. 3, 2008). GSA concluded that the
+information did support “total payment of the Debit invoice. However the payment to the
+owner is suspected to be a rebate.”
+
+
+
+
+       2
+         This regulation reads in relevant part: “Cost analysis is the review and evaluation
+of the separate cost elements and profit in an offeror’s . . . proposal . . . and the application
+of judgment to determine how well the proposed costs represent what the cost of the contract
+should be, assuming reasonable economy and efficiency.”
+CBCA 1105-RATE                                                                                  5
+
+        GSA’s position in this case is inconsistent with its method of bid evaluation and the
+terms of the solicitation. The solicitation in this procurement did not require bidders to
+submit information concerning anticipated costs to perform the contract if awarded nor is
+there any provision in the solicitation that would allow GSA to adjust the contract price based
+upon the costs of performance. Bidders were only required to submit a bid price, and award
+was made to the bidder who submitted the lowest responsive bid. GSA had no information
+as to “any factor or cost” prior to award and therefore could not have assessed the “original
+cost” for making the shipments as it alleges. For GSA to assert that it had evaluated an
+“original assessed cost” and that it had an expectation of reducing the contract price when
+a “factor of cost changes” is contrary to its method of bid evaluation and the terms of the
+solicitation.
+
+        Claimant’s contractual arrangement with its origin agent was an element of claimant’s
+cost to perform and was not a factor to be evaluated by GSA when it received claimant’s bid.
+GSA therefore could not have had any expectation as to what claimant’s costs from this
+arrangement might be. Whether claimant paid its origin agent the full amount of its invoices
+or less than the full amount3 has no affect on claimant’s entitlement to be paid the OTO rate
+it was awarded for the shipments at issue and to be reimbursed surcharges incurred.
+
+                                            Decision
+
+       The claim is granted. Claimant is entitled to be paid the $115,721.76 withheld by
+GSA.
+
+
+                                                    __________________________________
+                                                    ALLAN H. GOODMAN
+                                                    Board Judge
+
+
+       3
+         After reviewing claimant’s supplemental documentation, GSA concluded that the
+documentation did support a “total payment” of the invoices but makes an alternative
+argument that “payment to the owner is suspected of being a rebate.” GSA had previously
+cited several FAR provisions that refer to rebates but thereafter acknowledged that the
+procurement is not governed by FAR. GSA has also asserted claimant is liable pursuant to
+49 U.S.C. §14902 which also refers to rebates but has no application to a TSP’s payment
+relationship with its origin agent. GSA’s assertion that claimant’s payment to the owner of
+the origin agent is “suspected” of being a rebate, without any evidence that it was a rebate
+or discussion of a valid legal basis for liability if this were proven, is insufficient to support
+GSA’s offset of funds in this case.
+

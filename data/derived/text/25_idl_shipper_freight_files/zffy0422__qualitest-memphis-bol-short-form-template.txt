@@ -1,0 +1,85 @@
+    Date [AutoDate]                                BILL OF LADING - SHORT FORM - NOT NEGOTIABLE                                                                                        Page 1 of 2
+                                              SHIP FROM                                                     Bill of Lading Number:
+    Qualitest Pharmaceuticals
+    150 Vintage Drive
+    Huntsville, AL 35811
+                                                                                                                                                041913001
+    SID No.:
+                                                SHIP TO                                                     Carrier Name:
+    Qualitest Pharmaceuticals c/o UPS Supply Chain Solutions                                                Trailer number: 5311
+    1910 Danielson Place
+    Memphis, TN 38114                                                                                       Seal number(s): SSC177634
+    CID No.:
+                      THIRD PARTY FREIGHT CHARGES BILL TO                                                   SCAC:
+    [Name]                                                                                                  Pro Number:
+    [Street Address]
+    [City, ST ZIP Code]
+
+
+    Special Instructions:                                                                                   Freight Charge Terms (Freight charges are prepaid unless marked otherwise):
+                                                                                                            Prepaid ❑ Collect ❑ 3rd Party ❑
+
+                                                                                                             ❑ Master bill of lading with attached underlying bills of lading.
+
+                                                                                  CUSTOMER ORDER INFORMATION
+                                                                                                                             Pallet/Slip
+    Customer Order No.                                                                # of Packages          Weight                             Additional Shipper Information
+                                                                                                                             circle one)
+    X028685                                                                          15 SKIDS               6750                        N
+
+                                                                                                                             Y          N
+
+                                                                                                                             Y          N
+
+                                                                                                                             Y          N
+
+    Grand Total                                                                                             6750
+
+                                                                                         CARRIER INFORMATION
+
+    Handling Unit                  Package                                                                                                                                          LTL Only
+     Qty         Type           Qty         Type         Weight       HM (X)       Commodity Description                                                                       NMFC No.     Class
+                                                                                   Commodities requiring special or additional care or attention in handling or stowing must
+                                                                                   be so marked and packaged as to ensure safe transportation with ordinary care. See
+                                                                                   Section 2(e) of NMFC item 360
+
+      15         Skids                                    6750                     Controlled Pharmaceuticals
+
+
+
+
+    Where the rate is dependent on value, shippers are required to state specifically in writing the agreed or       COD Amount: $
+    declared value of the property as follows: "The agreed or declared value of the property is specifically
+    stated by the shipper to be not exceeding                     per                                                Fee terms: Collect ❑            Prepaid ❑          Customer check acceptable ❑
+
+                Note: Liability limitation for loss or damage in this shipment may be applicable. See 49 USC § 14706(c)(1)(A) and (B).
+
+    Received, subject to individually determined rates or contracts that have been agreed       The carrier shall not make delivery of this shipment without payment of charges and
+    upon in writing between the carrier and shipper, if applicable, otherwise to the rates,
+    classifications, and rules that have been established by the carrier and are available to
+                                                                                                all other lawful fees.
+    the shipper, on request, and to all applicable state and federal regulations.               Shipper Signature
+
+
+
+
+                   Source:
+CONFIDENTIAL-SUBJECT       https://www.industrydocuments.ucsf.edu/docs/zffy0422
+                     TO PROTECTIVE   ORDER                                      ENDO_FLAG-01225943
+    Shipper Signature/Date                                        Trailer Loaded:   Freight Counted:                      Carrier Signature/Pickup Date
+                                                                  El By shipper     El By shipper
+                                                                  ❑ By driver       ❑ By driver/pallets said to contain
+    This is to certify that the above named materials are                                                                 Carrier acknowledges receipt of packages and required
+    properly classified, packaged, marked, and labeled, and are                     ❑ By driver/pieces                    placards. Carrier certifies emergency response information
+    in proper condition for transportation according to the                                                               was made available and/or carrier has the DOT emergency
+    applicable regulations of the DOT.                                                                                    response guidebook or equivalent documentation in the
+                                                                                                                          vehicle. Property described above is received in good order,
+                                                                                                                          except as noted.
+
+
+
+
+                   Source:
+CONFIDENTIAL-SUBJECT       https://www.industrydocuments.ucsf.edu/docs/zffy0422
+                     TO PROTECTIVE   ORDER                                      ENDO_FLAG-01225944
+

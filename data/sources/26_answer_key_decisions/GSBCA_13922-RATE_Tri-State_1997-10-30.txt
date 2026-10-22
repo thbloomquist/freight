@@ -1,0 +1,206 @@
+                   
+
+
+
+                                                
+
+                             October 30, 1997
+                                                
+
+
+                             GSBCA 13922-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Col. James F. Quinn, Staff Judge Advocate, Department of the
+Army, Headquarters, Military Traffic Management Command, Falls
+Church, VA, appearing for Department of Defense.
+
+GOODMAN, Board Judge.
+
+     On May 27, 1993, Government bill of lading (GBL) G-2,945,917
+was issued to Tri-State Motor Transit Co. (Tri-State).  This GBL
+described the freight being transported as "powder, smokeless"
+and "ammo/explo/firewks."  In block 24, under the heading "seal
+numbers," the GBL contains the annotation "0750504/075012."  The
+GBL also contains the following annotation, among others:
+
+     FLAME OR HEAT PRODUCING TOOLS WILL NOT BE USED TO REMOVE
+     SECURITY DEVICES.
+
+The GBL also notes that this shipment was a foreign military
+sales shipment.
+
+     The GBL contained the annotation "Dual driver protection
+service (DD) requested.  Signature and tally record (DD Form
+1907) furnished to carrier."  Block 2 of the Signature and Tally
+Record,  entitled Protective Service Requested, contains the
+typewritten annotation "dual driver protective service."
+
+     Tri-State submitted a freight bill to the Department of
+Defense (DoD) on June 2, 1993, for transporting this shipment. 
+Thereafter, Tri-State claimed that it was owed an additional
+amount of $460.39 because it furnished and was not paid for dual
+driver protection service and because DoD requested, and Tri-
+State allegedly provided, exclusive use of the container that
+Tri-State used to transport the shipment.  The claim for dual
+driver protection service was $57.42; the claim for exclusive use
+was $402.97. 
+
+     On October 2, 1996, the General Services Administration
+(GSA) denied Tri-State's claim in its entirety, stating on the
+Settlement Certificate:
+
+     The statement "Flame or Heat Producing Tools will not
+     be used to remove security devices" does not constitute
+     a request for exclusive use.
+
+     On October 16, 1996, Tri-State requested this Board to
+review GSA's denial of its claim. In its request to the Board,
+Tri-State stated:
+
+          Firstly, claimant stated as its Basis for Claim:
+     "To correct DD (MTMC [Military Traffic Management
+     Command] abbreviation for Dual Driver Service) charge. 
+     GSA's Settlement Certificate did not address this Basis
+     for Claim.
+
+          Additionally . . . GSA alleges that no specific
+     request for exclusive use was made by the shipper. . .
+     . Claimant hereby adopts the same presentation to
+     counter GSA's statement as presented in GSBCA 13747-
+     RATE as regards the notation "Flame or heat producing
+     tools will not be used to remove security devices,"
+     related to the terms of claimant's tariff provisions.
+
+                                Discussion
+
+Dual Driver Service
+
+     GSA does not address claimant's claim for dual driver
+protective service in its settlement certificate.  On the face of
+the GBL and supporting documentation, there is clear indication
+that such service was provided, and no rebuttal was offered by
+GSA.  Accordingly, the claim in the amount of $57.42 for this
+service is granted.
+
+Exclusive Use
+     
+     The identical issue raised in this case was discussed at
+length in this Board's decisions in Tri-State Motor Transit Co.,
+GSBCA 13737-RATE, 97-1 BCA  28,945, and Tri-State Motor Transit
+Co., GSBCA 13747-RATE (Oct. 30, 1997).  The latter decision is
+being issued concurrently with this decision.  We will not repeat
+the discussion contained in those decisions as to the applicable
+regulatory provisions. 
+
+     The applicable tariff in this case, Tariff ICC TRM 4001,
+contained the following language in Item 470-1, paragraph 4,
+identical to the applicable tariff language in Tri-State Motor
+Transit Co., GSBCA 13747-RATE:
+
+     The use of any method of sealing a dromedary box or 410
+     container, i.e.:  bolt seals, padlocks, cable locks,
+     ball type locks, wire twists, etc., which require the
+     use of mechanical means to break that seal will be
+     considered as a request for exclusive use irregardless
+     of any notation on the bill of lading . . . . 
+
+     Claimant has submitted evidence that a cable lock was used
+to seal the dromedary box, and GSA does not dispute this. 
+However, GSA contends that exclusive use was not requested, as
+evidenced by the fact that the GBL contains a notation "LTL,"
+less than truckload, and that there is "no specific statement on
+the face of the contract requesting exclusive use."  GSA further
+alleges:
+
+     When the Government accepted the tariff, it was subject
+     to a clear notation on the GBL.  Thus to read the two
+     provisions of the carrier's cited tariff and the GBL
+     together, it is clear that if a cable lock is used, it
+     must be accompanied by a written annotation on the GBL
+     requesting exclusive use.  This is the ruling in
+     Baggett Transportation Co. v. U.S., 969 F.2d 1028, 1033
+     ([Fed.Cir.] 1992),
+
+          . . . the application of seals, cable lock
+          seals or other locks, unaccompanied by a
+          written notation which reasonably apprises
+          the carrier that the shipper is requesting
+          exclusive use, does not constitute exclusive
+          use.
+
+     The fact that the shipper designated the shipment as "LTL,"
+less than a truckload, is not an explicit rejection of exclusive
+use.  It is merely an indication that the contents will not
+occupy an entire truckload. 
+
+     GSA also misreads the Baggett decision, and the underlying
+decision by the Court of Claims, Baggett v. United States, 23 Cl.
+Ct. 263 (1991).  As the trial court explained in Baggett, in
+order to apply exclusive use rates, there are two conditions that
+must be met.  First, there must be substantial compliance with
+the requirements of the tariff concerning a request for exclusive
+use.  Second, there must be some evidence to establish that
+exclusive use was actually provided.
+ 
+     The underlying claims dealt with contractual agreements that
+required, when a cable lock was used, a written annotation on the
+GBL requesting exclusive use, hence the ruling that a "written
+annotation" was required.  The decision was based upon
+interpretation of the contractual agreement between the parties. 
+In the instant case, the clear and unambiguous language of the
+tariff states that the application of the type of lock which was
+applied here "will be considered as a request for exclusive use
+irregardless of any notation on the bill of lading."  
+
+     Claimant emphasizes that the language in its tariff was
+
+     purposely added . . . to overcome the decision in the
+     Baggett case and to clearly establish by tariff rule
+     that the act of applying a lock or security device
+     (other than an ordinary seal) to carrier's equipment
+     would constitute a request for exclusive use
+     "irregardless of any notation on the bill of lading"
+     and to unambiguously and clearly put to rest any
+     further legal question in that regard.
+     
+     As there is no dispute that a cable lock was provided, based
+upon the requirement of the tariff, the use of the cable lock
+constitutes a request for exclusive use.  Therefore, the first
+condition for applying exclusive use rates is met.  With regard
+to the second condition for applying exclusive use rates, i.e.,
+that exclusive use was provided,  Tri-State has provided records
+that it generates to record information about its shipments. 
+These records show, for example, the route and distance traveled
+by a shipment, the number of the trailer used to haul the
+shipment, the position of a shipment on a trailer, the names of
+the tractor drivers, etc.  These records also show whether a
+container held more than one shipment.  The records relevant to
+this case show that the shipment at issue here was transported in
+its own container.  In other words, this shipment had exclusive
+use of the dromedary, according to Tri-State's records. 
+Tri-State's records establish that it provided exclusive use, and
+so the second condition for applying exclusive use rates is met.
+
+     Tri-State is entitled to be paid for providing exclusive use
+for this shipment.
+
+
+
+
+
+
+                                   ___________________
+                                   ALLAN H. GOODMAN
+                                   Board Judge
+

@@ -1,0 +1,276 @@
+ 
+                     
+ 
+                     
+ 
+     
+ 
+                           __________________
+ 
+                           December 22, 1997
+                           __________________
+ 
+ 
+                            GSBCA 13869-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D. Norcom,  Auditor,  Tri-State  Motor Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey  J.  Thurston,  Director, Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James F.  Quinn, Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense. 
+ 
+   NEILL, Board Judge.
+ 
+        In  this   case  claimant,  Tri-State   Motor  Transit   Co.
+   (Tri-State), asks  that we  review the denial  of payment  on six
+   supplemental   freight   bills.[foot #] 1     The   claims   were
+   denied  by the  Office  of  Transportation  Audits (OTA)  of  the
+   General  Services Administration.   Tri-State  contends  that the
+   shipments in question did not  involve the items described in the
+   Government bills of  lading (GBLs) and that the  rates applied in
+   preparing  the original  bills were,  therefore,  incorrect.   To
+   correct these errors,  Tri-State issued supplemental bills.   The
+   OTA, however, has  denied these requests for  additional payment.
+   For the  reasons stated  herein, we conclude  that the  claims in
+   question should be paid.    
+        Tri-State  believes  that  a  decision  of  the  Comptroller
+   General, Tri-State Motor  Transit Co., B-259756 (Aug.  18, 1995),
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1   This  case,  as  originally  presented  to  us,
+   included claims relating to four  additional supplemental freight
+   bills  involving the  following Government  bills  of lading:  C-
+   1,189,889;  D-0,083,845; E-0,764,119; and  D-1,002,331.   We have
+   since been  informed that  Tri-State s claims  relating to  these
+   shipments  have been  certified for  payment in  full and  are no
+   longer subject to dispute.  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   is  dispositive  of  each  of the  six  claims.    In that  case,
+   Tri-State sought additional  payment based upon  the fact that  a
+   shipment had  been incorrectly  identified as  "ROCKET AMMUNITION
+   WITH EXPLOSIVE PROJECTILE, CLASS A EXPLOSIVE" when, in fact, what
+   had  been tendered  for  shipment  was a  guided  missile with  a
+   warhead.   The Comptroller  General concluded that  Tri-State was
+   entitled to payment  in accordance with the rate  applicable to a
+   guided missile provided the carrier  could prove that the item in
+   question had been misdescribed and  was in fact a guided missile.
+ 
+ 
+ 
+        We  have previously  held  that we  adhere to  the principle
+   under which  the Comptroller  General resolved that  case.   Tri-
+   State Motor Transit Co., GSBCA 13743-RATE, 97-2 BCA   29,068.  In
+   so stating, we  have likewise affirmed that it  is incumbent upon
+   the carrier to prove the true identity of the goods shipped. 
+ 
+        Tri-State  contends  that  during  the  investigative  audit
+   process it has scrutinized the  six GBLs themselves and consulted
+   various Department of  Defense (DOD) technical publications.   In
+   addition,  it claims  to have  obtained  and reviewed  Government
+   documentation  relating to the shipments themselves which was not
+   available to Tri-State s rate clerks  at the time of the original
+   billing.
+ 
+        The six GBLs and the adjustment sought by Tri-State for each
+   one are as follows: 
+ 
+                  1) C-8,774,764      $1,408.11
+                  2) C-6,603,998         787.32
+                  3) E-1,049,368       1,697.65
+                  4) C-9,155,703         671.60
+                  5) E-0,869,780         851.18
+                  6) D-0,083,845         821.33
+ 
+   The  earliest of  these shipments  was made  in July  1990.   The
+   latest  occurred in  August  1991.   With  the  exception of  GBL
+   E-1,049,368, all  of the  GBLs expressly  identify the  commodity
+   being   shipped    as    ROCKET    AMMUNITION   WITH    EXPLOSIVE
+   PROJECTILES[[foot #] 2]    CLASS    A     EXPLOSIVES.         The
+   terminology  used   for  E-1,049,368   reads:   AMMUNITION   WITH
+   EXPLOSIVE PROJECTILES CLASS  A EXPLOSIVES.   Each  GBL also bears
+   the DOD  unique commodity (DODUC)  Code 064200 Sub 01,  which the
+   Military  Traffic Management  Command  (MTMC)  informs  us  is  a
+   designation for   ammunition, explosives,  fireworks or  chemical
+   munitions, NOBIN,  Class A.    MTMC also explains that  the DODUC
+   Code for  missiles or rockets guided with warheads  is 064300 Sub
+   04.   Each  GBL  calls  for armed  guard  surveillance  services,
+   exclusive use of the vehicle, and satellite motor surveillance.  
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2   The language  on the  GBLs  varies slightly  on
+   whether the cargo consists of "EXPLOSIVES PROJECTILE," "EXPLOSIVE
+   PROJECTILES" or "EXPLOSIVE PROJECTILE."
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        On   two  of   the  six   GBLs   (namely:  C-8,774,764   and
+   C-9,155,703)  Tri-State's  auditor   found,  amid  the   detailed
+   descriptions  of the  items  shipped, references  to "PL23."   On
+   another, E-0,869,780,  is a  reference to "PL93."   Claimant  has
+   demonstrated through  an excerpt  from a  U.S. Army  publication,
+   Hazard  Classification of  United States Military  Explosives and
+   Munitions, that the notations PL23 and PL93 involve Department of
+   Defense Ammunition Code (DODAC)  nomenclature according to  which
+   the PL23 classification  is said to be indicative  of "GM [guided
+   missile],  W/LNCHR [with  launcher]  SURF  [surface] ATTACK  M222
+   (DRAGON)" and PL93 is said to indicate "GM[guided missile] INTER-
+   AERIAL FIM 92A (STINGER BASIC)."    
+ 
+        For the shipment described in GBL C-6,603,998, Tri-State has
+   provided  a DOD  line  item  release/receipt  document  (DD  Form
+   1348-1) which  expressly references  this GBL  but describes  the
+   item shipped as "GUIDED MISSILE ROUND (STINGER)."  
+ 
+        For  the  shipment  described  in  GBL  D-0,083,845,  a  DOD
+   material inspection and receiving report (DD Form 250) references
+   this  same GBL  but describes  the  item shipped  as "GM  [guided
+   missile] SUB SYSTEM INTERCEPT AERIAL." 
+ 
+        For the shipment described in GBL E-1,049,368, Tri-State has
+   produced a work  order which was filled out  based on information
+   initially  provided by  the shipper when  ordering pickup  of the
+   item.    The  order indicates  that  the  shipper  identified the
+   commodity  to be  shipped  as  a Red  Eye  Missile.   Tri-State's
+   auditor  has subsequently  determined  that  according  to  DODAC
+   nomenclature, the  "Red Eye" is  considered a  guided missile  to
+   which  two DODAC numbers have been assigned, namely 1425-PJ01 and
+   1425-PJ05.
+ 
+        Notwithstanding  the  evidence  provided by  Tri-State,  OTA
+   continues to maintain  that, with the  exception of the  shipment
+   covered by GBL C-9,155,703, none of the shipments in dispute here
+   involved  guided missiles.  MTMC, however, is apparently prepared
+   to  admit that  the shipments  did involve  guided missiles.   It
+   argues that  claimant was on  notice that  the commodities  being
+   shipped  were  guided missiles.    MTMC  contends  that this  was
+   apparent from the descriptions on the GBLs and their continuation
+   sheets, the DD Form 250s, and Tri-State's own work sheets.  
+ 
+        Tri-State takes issue  with MTMC's statement and  points out
+   that the DD 250s were not  available at the time of shipment  and
+   that its own worksheets were  prepared after shipment and initial
+   payment  and  were  based  upon  what was  uncovered  during  the
+   postpayment audit investigation.   We accept  these explanations.
+   MTMC's  contention,  however,  that the  actual  contents  of the
+   shipments   were  obvious  from  the  descriptions  in  the  GBLs
+   themselves requires closer scrutiny.  
+ 
+        On none  of the  six GBLs  can we  find a  reference to  the
+   correct DODUC  code for guided  missiles, namely, 064300  Sub 04.
+   Furthermore,  on three  of  the  six  GBLs  (namely  C-6,603,998;
+   E-1,049,368; and D-0,083,845),  we can  find no  evidence on  the
+   face   of  the  GBL  of  any   conflicting  terms  regarding  the
+   description of  what was said  to be shipped.   Indeed, Tri-State
+   itself, in  demonstrating that  the items  actually consisted  of
+   guided  missiles rather than  rocket ammunition, has  relied upon
+   documentation  extraneous to the  GBLs.  For  the remaining three
+   GBLs, however,  there is on  the face of these  documents passing
+   reference to PL23  and PL93.   Arguably, for  one well versed  in
+   DODAC nomenclature  and identifiers these references  represent a
+   conflict in the descriptions of the shipped items.  
+ 
+ 
+        It  is well established that, although a shipper may prepare
+   a  bill  of lading,  the  carrier is  ultimately  responsible for
+   issuing the bill and should not execute the bill if it is obvious
+   that the it  contains conflicting terms.   In the event  that the
+   carrier executes  the bill notwithstanding the  obvious conflict,
+   it cannot later benefit  from corrections or clarifications.   In
+   the past  we have discussed the law on  this point and noted that
+   it  is unquestionably applicable in situations where the carrier,
+   upon  reviewing the  bill  of lading,  should have  realized that
+   there was a problem with it.  Tri-State Motor Transit Co.,  GSBCA
+   13763-RATE,  97-2 BCA   29,098;  C.I. Whitten Transfer Co., GSBCA
+   13893-RATE, 97-1 BCA   29,060.  
+ 
+        Nothing  in the  record  before  us  convinces us  that  the
+   conflict in terms created by passing reference to PL23 or PL93 in
+   three of the  GBLs at issue here  was enough to put  Tri-State on
+   notice at the  time of shipment that  the item to be  shipped was
+   not  AMMUNITION WITH EXPLOSIVE  PROJECTILES CLASS  A EXPLOSIVES, 
+   i.e., DODUC code 064200 Sub 01.  We, therefore conclude that this
+   less than obvious conflict in descriptive terms does not preclude
+   Tri-State  from   demanding  corrected  payment  for   the  three
+   shipments.   We  likewise conclude  that,  based upon  this  same
+   record, Tri-State has met its burden of demonstrating that  these
+   three and the  remaining three shipments in question  here did in
+   fact involve guided missiles.   
+ 
+        In preparing  the original bills  for the  six shipments  in
+   dispute   here,   Tri-State   used  rates   applicable   to   the
+   transportation  of  DODUC   code  064200  Sub  01   items  (i.e.,
+    ammunition, explosives, fireworks or chemical munitions,  NOBIN,
+   Class A. ).  After concluding that the  shipments involved guided
+   missiles, Tri-State submitted supplemental invoices.  The charges
+   set out  in these  supplemental freight bills  are based  on TSMT
+   Tariff 4006F and on item 812-3 of TSMT Tariff 100A, which governs
+   truckload rates published in TSMT Tariff 4006F.  
+ 
+        In  reviewing  Tri-State's  supplemental invoices,  OTA  has
+   issued settlement certificates providing  for partial payment  of
+   Tri-State s  supplemental   invoices  based,   however,  on   the
+   application of container rates found in TSMT  Tariff 4000B rather
+   than on the truck rates found in TSMT Tariff 4006F. 
+ 
+        Tri-State strongly objects to OTA's use of TSMT Tariff 4000B
+   and  the container rates included therein.  Tri-State s objection
+   is based upon the fact that, at the time of shipment, this tariff
+   did  not offer satellite  motor surveillance service.   Since the
+   shipments  in  question  all   involve  this  service,  Tri-State
+   contends that  these rates are  inapplicable to the  shipments in
+   question.  
+ 
+        OTA  recognizes that Tariff 4000B does not provide satellite
+   motor   surveillance  but  observes  that  the  GBLs  called  for
+   container service  and that  container rather  than truck  rates,
+   therefore,  should  be used.    For  this  reason it  has  issued
+   settlement  certificates based  on the  container  rates in  TSMT
+   4000B.   As  for charges  for satellite  motor  surveillance, OTA
+   provides in its  settlement certificates for payment  at the rate
+   of ninety-five cents  per mile which, it explains,  is the amount
+   applicable to  truckload rates  published in  TSMT Tariff  4006F.
+   This, according to OTA,  provides Tri-State, on a quantum  meruit
+   basis,   with  a  reasonable   value  for  the   satellite  motor
+   surveillance   services   rendered  and   likewise   permits  the
+   Government  to  continue  to  pay  the  container  rate  for  the
+   dromedary services  requested in  the various GBLs.   In  further
+   support for  this approach,  OTA notes  that the satellite  motor
+   surveillance  charge   it  has   authorized  in   the  settlement
+   certificates was in fact added to TSMT 4000B on November 4, 1991.
+ 
+        We  find OTA's  utilization of  container rates in  the TSMT
+   Tariff  4000B  and   the  satellite  motor  surveillance   charge
+   applicable to TSMT  Tariff 4006F unjustified.  This  "a la carte"
+   approach  flies  in  the  face  of  traditional  contracting  for
+   transportation  services.   As noted  earlier,  the shipments  in
+   question were all made prior to November 4, 1991.  TSMT 4000B did
+   not,  therefore,  at that  time  represent  a standing  offer  to
+   provide the combination  of services which in fact  was sought on
+   the six GBLs in issue here.  TSMT 4006F did offer the services --
+   albeit  at  rates  which, in  retrospect,  are  considerably less
+   desirable  to the  Government  than those  found  in TSMT  4000B.
+   OTA's  attempt to compromise  Tri-State's claim by  rewriting the
+   transportation contract or imposing a contract implied in  law is
+   unacceptable.   Tri-State  should be  paid  for its  services  in
+   accordance with the tariff applicable at the time.     
+ 
+ 
+                                           _____________________
+                                           EDWIN B. NEILL
+                                           Board Judge

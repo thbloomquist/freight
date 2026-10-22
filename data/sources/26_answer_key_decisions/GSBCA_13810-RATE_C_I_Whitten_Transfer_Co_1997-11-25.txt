@@ -1,0 +1,281 @@
+ 
+                     ______________________________
+ 
+                           November 25, 1997
+                     ______________________________
+ 
+ 
+                            GSBCA 13810-RATE
+ 
+ 
+              In the Matter of C. I. WHITTEN TRANSFER CO.
+ 
+ 
+        Robert  D.  Norcom,  Auditor, C.  I.  Whitten  Transfer Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey J.  Thurston,  Director,  Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James F.  Quinn,  Staff Judge  Advocate, Headquarters,
+   Military  Traffic Management  Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   WILLIAMS, Board Judge.
+ 
+        Claimant C. I.  Whitten Transfer Co. (WITT) seeks  review of
+   the  Defense Finance and  Accounting Service's (DFAS')  denial of
+   its  $85  claim  for  one additional  day  of  detention  charges
+   relating  to government bill  of lading (GBL)  C-7,968,730.  WITT
+   claims  that it  erroneously  billed  DFAS for  only  one day  of
+   detention instead of two,  and DFAS, therefore, underpaid in  the
+   amount  of $85 for  this service.  Because  neither WITT nor DFAS
+   presented  this claim  to the  General Services  Administration s
+   (GSA s)  Office of Transportation  Audits (OTA) for  a prepayment
+   audit, we  deem the  claim premature and,  therefore, dismiss  it
+   without prejudice.
+ 
+                               Background
+ 
+        Government  bill   of  lading  C-7,968,730  was   issued  on
+   February 2,  1993, authorizing  a  shipment  of  goods  from  the
+   Letterkenny  Army Depot  in  Chambersburg,  Pennsylvania, to  the
+   Naval Weapons Station in Concord, California.
+ 
+        In a letter dated March 25, 1993, WITT advised DFAS that the
+   shipment had accrued detention charges because the receiving ship
+   had  been  delayed.    The  shipment  arrived  in  California  on
+   February 8, 1993, at 8:00 a.m.,  but the trailer was not unloaded
+   until February 11,  1993, at 10:20 a.m.   February 8, 1993, was a
+   Monday.
+ 
+ 
+        The detention certificate stated:
+ 
+        Total Number of Days Trailer Spotted 3, Chargeable Days
+        1, total Charge $85. . .  . 24 hours free time  allowed
+        plus the first weekend if any part of the 24 hours runs
+        into the  weekend.  The  charge for the first  two days
+        $85 each, next two days  $90 each, fifth day and beyond
+        $95.
+ 
+        According  to  voucher  number  625322,  the  $85  for  this
+   detention charge was paid to WITT on April 22, 1993.
+ 
+        On January 31,  1996,  WITT submitted  a supplemental  claim
+   under GBL C-7,968,730 seeking an additional $85 for the extra day
+   of detention.  In its supplemental bill, WITT stated:  "Free time
+   ends 2-9-93 8:00;  chargeable days 2-10-93 and  2-11-93, two days
+   $85/day."   Under  basis for  claim,  WITT stated:   "To  correct
+   chargeable days."
+ 
+        On  May 2, 1996, DFAS  returned WITT's supplemental  bill to
+   WITT  declining payment  because the  charges on  Bill of  Lading
+   number  C-7,968,730 had  been paid  on April 22,  1993, to  C. I.
+   Whitten Transfer Co.
+ 
+        On July 11, 1996,  WITT requested review by  the Comptroller
+   General (GAO) of  the denial  of its  supplemental carrier  bill.
+   WITT  informed GAO  that  the original  detention charges  in the
+   amount of $85 were  paid but that these charges should  have been
+   for two days  at $85 instead of one day as originally billed.  On
+   August 15, 1996, this claim was transferred to this Board. 
+ 
+                               Discussion
+ 
+        As a  threshold matter, GSA's  OTA states that WITT  has not
+   filed  a claim  with OTA  and, therefore,  has not  exhausted its
+   administrative remedies, citing 41 CFR 101-41.600.  We agree that
+   because this claim was not reviewed by OTA, the claim is not ripe
+   for review by this Board.
+ 
+        In Section 322 of the Transportation Act of 1940, as amended
+   (now codified at 31 U.S.C.   3726),  Congress set up a system for
+   paying carriers for providing transportation services to agencies
+   of  the  Federal  Government.    The statute  also  set  forth  a
+   mechanism for resolving disputes arising from those transactions.
+   See Dalton v. Sherwood Van Lines, Inc., 50  F.3d 1014, 1016 (Fed.
+   Cir. 1995).   As  our appellate authority  has recognized,  under
+   this statutory  scheme,   "[a] carrier must  present a  claim for
+   payment to  the General  Services Administration  (GSA) or  other
+   designated  agency within three  years of  accrual.     3726(a)."
+   Id.  Effective in 1996,  if dissatisfied with the agency's action
+   on the  claim, the carrier may  request review by  this Board. 31
+   U.S.C.   3726(g)(1).[foot #] 1
+ 
+ 
+        In the instant case, WITT  contends that it was not required
+   to present  its claim to GSA but  properly submitted its claim to
+   the designated agency under the regulations, i.e., the agency out
+   of  whose  activities  the  claim  arose.    WITT  cites  41  CFR
+   101-41.604-1, which provides:
+ 
+        Unless GSA's Office of Transportation Audits determines
+        that  a  prepayment  audit is  necessary  under  41 CFR
+        101-41.103(i), each agency or  department shall pay any
+        properly  documented   bill  (claim)  for   freight  or
+        passenger transportation charges  that is not  excepted
+        by the provisions of 101-41.604-2.
+ 
+   WITT further  contends that its invoice was  not "excepted" under
+   the provisions of Section 604-2.
+ 
+        In this regard, WITT is incorrect.   41 CFR 101-41.604-2(b),
+   "Transportation Claims not  Payable by Agencies," delineates  the
+   types of claims  which agencies shall not pay.   Included in that
+   litany is:
+ 
+        (4),  any   pricing  adjustment  claims   for  services
+        previously billed and paid . . . .
+ 
+   WITT's  supplemental $85  claim for  the extra  day of  detention
+   falls squarely within this  paragraph since WITT seeks  an upward
+   adjustment  on its  invoice for  services  previously billed  and
+   paid.   As such,  the regulation prohibits  DFAS from  paying the
+   claim and requires  instead that the  claim undergo a  prepayment
+   audit by GSA.  Subparagraph 5 of Section 2(b) of this  regulation
+   specifies:   "Claims described  in paragraph (b)  of this section
+   are subject to GSA prepayment audit. 
+ 
+        Subparagraph  (c)  of  41  CFR  101-41.604-2  clarifies  the
+   requirement that  the claims  enumerated in  subparagraph (b)  be
+   presented to  GSA:   "Claims described in  paragraph (b)  of this
+   section will  be handled by  GSA under the provisions  of Section
+   101-41.605 of this subpart and shall be forwarded separately from
+   other types of  transportation documents to the  General Services
+   Administration (BWCA), Washington, D.C. 20405."
+ 
+        As this Board recently recognized in Tri-State Motor Transit
+   Co., GSBCA 13896-RATE, 97-1 BCA   28,873:
+ 
+        The   various  provisions  found  in  41  CFR  101-41.6
+        describe  a  regulatory  scheme for  the  presentation,
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1     Previously,  carriers sought  review of  such
+   agency decisions from the Comptroller General.  See generally, C.
+   I. Whitten Transfer Co., GSBCA 13911-RATE, 97-1 BCA   28,860.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        settlement,    reconsideration,    and     review    of
+        transportation   claims   against   the  United States.
+        Claims are normally to be submitted to GSA's "designee"
+        which, in this  case is defined as: "the  agency out of
+        whose  activities the  claim  arose."   The  regulation
+        authorizes  the  designee  agencies  to  pay   properly
+        documented   claims  without   any  prepayment   audit.
+        Certain  claims,  however,  are singled  out  under the
+        regulations as "not payable" by the agencies.
+ 
+   Id. at 144,008.  In Tri-State, the  claim found to be not payable
+   by the agency and subject to a GSA prepayment audit was addressed
+   in subparagraph (3) of  paragraph 604-2(b) dealing with "doubtful
+   claims."    The   Board s  rationale  in  Tri-State   is  equally
+   applicable  to  the  pricing   adjustment  claims  described   in
+   subparagraph (b)(4).
+ 
+        The Board in Tri-State explained its rationale for requiring
+   submission of such  a claim to OTA before considering  it in this
+   forum:
+ 
+        Under . .  . 41 CFR 101-41.6, a  claim, once designated
+        as "doubtful," must  be referred to  GSA for audit  and
+        final  administrative action.  Only then, after GSA has
+        audited the claim and made its final determination, are
+        we in a position to review that audit determination  on
+        behalf  of the Administrator.  Accordingly, we conclude
+        that  any  right  of a  carrier  to  reconsideration or
+        review of a  payment office's action must  be exercised
+        in the  context of GSA's  audit and  settlement of  the
+        claim   in  question.     In   the   absence  of   this
+        determination, the  action of the  agency paying office
+        is not yet ripe for review by this Board.
+ 
+   Id. at 144,008.
+ 
+        Applying this  rationale,  we conclude  that  under  Section
+   101-41.604-2(b)(4)  a  pricing  adjustment   claim  for  services
+   previously billed and paid,  such as that at issue  here, may not
+   be considered by this Board until OTA has reviewed it.
+ 
+        This  conclusion does  not, however,  end the  matter.   The
+   Military  Traffic Management  Command  (MTMC)  also  argued  that
+   WITT's  claim   was  barred   under  the   doctrine  of   laches.
+   Specifically,  MTMC argues that WITT submitted its original claim
+   on March 25, 1993,  but that not until almost  three years later,
+   on January 31, 1996, did  WITT submit a supplemental  voucher for
+   transportation charges to DFAS claiming the additional $85.
+ 
+        MTMC has not met its burden of proving that laches should be
+   applied here.   As  the proponent of  this defense, MTMC  has the
+   burden  of proving both  (a) unreasonable and unexcused  delay by
+   the  claimant  in bringing  the  claim and  (b) prejudice  to the
+   respondent because  of that delay.   Whitten, 97-1 BCA    28,860,
+   (citing  Costello v.  United States,  365 U.S.  265, 282  (1961);
+   Cornetta  v. United States,  851 F.2d  1372,  1377-78 (Fed.  Cir.
+   1988)  (en banc);  P.A.L. Systems  Co., GSBCA  10858, 91-3  BCA  
+   24,259, at 121,287).  In considering whether claimant's delay was
+   unreasonable and unexcused,  we note that  claimant did file  its
+   claim within the statute of limitations.  The applicable statute,
+   31 U.S.C.    3726, imposes a three-year limitation  on the filing
+   of  claims with  GSA or  its designee  (the agency  out of  whose
+   activities the claim arose).  The three  years begins to run from
+   the  latest of the following dates:   (1) accrual of the cause of
+   action; (2) payment  of charges for  the transportation involved;
+   (3) refund for overpayment of such charges; or (4) deduction made
+   under 31 U.S.C.   3726, whichever is earliest.  WITT's claim with
+   DFAS was  filed on  January 31, 1996, within  three years  of the
+   date of  DFAS' original  payment, April 22, 1993.   As  such, its
+   claim is not barred by  the statute of limitations.  Nonetheless,
+   our appellate authority  has ruled that  laches can apply  within
+   the statutory limitation period.  A. C. Aukerman v. R. L. Chaides
+   Construction Co., 960 F.2d 1020, 1030 (Fed. Cir. 1992) (en banc).
+   However, as we  recognized in Whitten,  because the Congress  has
+   established a three-year statutory limitation:
+ 
+ 
+        we   will  exercise  caution   in  intruding   on  this
+        legislative judgment as to when a claim is too stale to
+        pursue against the  Government.  Cornetta, 851  F.2d at
+        1380  n.2,  1381; see  also  id. at  1384  (Michel, J.,
+        concurring:   "Generally  an action brought  within the
+        time period for the applicable statute of limitations .
+        . . will not be considered unreasonably delayed, except
+        upon  a showing  of  special  facts  making  the  delay
+        culpable."); Advanced  Cardiovascular Systems,  Inc. v.
+        Scimed  Life Systems, Inc.,  988 F.2d 1157,  1161 (Fed.
+        Cir. 1993).
+ 
+   97-1 BCA at 143,988.
+ 
+        MTMC  has not articulated any facts establishing that WITT's
+   delay in submitting its supplemental voucher was culpable. 
+ 
+        Nor has  MTMC established prejudice.   Prejudice encompasses
+   both the  inability to mount  a defense  (which may be  caused by
+   loss of  records, destruction  of evidence,  fading memories,  or
+   unavailability of  witnesses) and  economic prejudice.   Whitten,
+   97-1 BCA at 143,988, (citing Cornetta, 851 F.2d at 1378).   While
+   MTMC  has  generally  stated that  "the  Government's  ability to
+   recreate  the events  surrounding  the shipment  is significantly
+   impaired  by the  passage of  time,"  the agency  has offered  no
+   specific impediment to defending this claim.
+ 
+        We do not accept MTMC's  assertion that the $85 claim should
+   be regarded  as de  minimis given the  lack of  timeliness, since
+   MTMC  has proffered no  specific evidence  of increased  costs in
+   defending this claim due to the passage of time.
+ 
+                                Decision
+ 
+        This case is dismissed without prejudice.
+ 
+                                      __________________________
+                                      MARY ELLEN COSTER WILLIAMS
+                                      Board Judge
+

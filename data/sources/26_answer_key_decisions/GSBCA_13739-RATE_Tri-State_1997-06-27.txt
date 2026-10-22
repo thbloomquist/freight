@@ -1,0 +1,184 @@
+                   
+
+
+
+
+                           _____________________
+
+                               June 27, 1997
+                           _____________________
+
+
+                             GSBCA 13739-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC, appearing
+for General Services Administration.
+
+     Col. James F. Quinn, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, counsel for Department of Defense.
+
+HYATT, Board Judge.
+
+     On January 15, 1991, the Defense Contract Management Agency
+Office (DCMAO) in Birmingham, Alabama, issued  government bill of
+lading (GBL) D-1,500,980 to Tri-State Motor Transit Co. (Tri-State)
+for the shipment of two pallets of cartridges, class "C"
+explosives, from  Cordova, Tennessee to Colt's Neck, New Jersey. 
+Shipment was authorized pursuant to Tri-State's tender number 408. 
+Block 16 of the GBL requests, among other things, dromedary
+service.  On the second page of the GBL, under the continuation of
+Block 16, the following notation is made:
+
+          DO NOT BREAK SEALS EXCEPT IN CASE OF EMERGENCY
+          OR UPON PRIOR AUTHORITY OF THE CONSIGNOR OR
+          CONSIGNEES.  IF FOUND BROKEN OR IF BROKEN INTO
+          FOR EMERGENCY REASONS, APPLY CARRIER'S SEALS
+          AS SOON AS POSSIBLE AND IMMEDIATELY NOTIFY
+          BOTH THE CONSIGNOR AND THE CONSIGNEE.
+
+     Tri-State transported the freight and sent an invoice for
+$647.27 to DCMAO.  This amount was paid.  Later, Tri-State sent a
+supplemental invoice, seeking an additional $493.29 based on the
+provision of exclusive use of the dromedary.  On August 24, 1995,
+the General Services Administration (GSA) issued a settlement
+certificate stating that Tri-State was not entitled to any further
+payment.  On September 18, 1995, Tri-State asked the General
+Accounting Office (GAO) to review this claim and others of a
+similar nature.  This matter was transferred to the Board on July
+17, 1996.  In support of its claim, Tri-State has provided a
+tractor continuity report showing that exclusive use of a dromedary
+container was in fact provided for this shipment.
+
+                                Discussion
+
+     Transactions involving individual carrier tenders for the
+provision of motor freight services are generally governed by the
+Military Traffic Management Command's (MTMC's) Freight Traffic
+Rules Publication 1A (MFTRP 1A).  Item 5, paragraph 2 of MFTRP 1A
+states that an individual carrier's tender "may not be made subject
+to any other publications for application of the rates and charges
+therein."  Thus, to the extent that a tender is the basis for
+determining the applicable freight rate, as is the case here,
+recovery is controlled by the language of the MFTRP and the GBL as
+annotated.  See Tri-State Motor Transit Co., B-256083 (June 10,
+1994). 
+
+     Items 105, 205 and 325 of MFTRP 1A contain a comprehensive
+scheme for determining when a GBL annotation related to the sealing
+of an ordinary dromedary would constitute a request for exclusive
+use.  In this case, the controlling MFTRP provisions are those 
+that were in effect on June 1, 1989.  Item 205 sets forth the
+conditions which will establish a request for exclusive use of a
+vehicle:
+
+          1.  Except as to shipments for which the
+          Government bill of lading (GBL) is annotated,
+          "EXCLUSIVE USE OF VEHICLE REQUESTED BY THE
+          GOVERNMENT" or in the following manner:  "DO
+          NOT BREAK SEALS EXCEPT IN CASE OF EMERGENCY OR
+          UPON PRIOR AUTHORITY OF THE CONSIGNOR OR
+          CONSIGNEE. IF FOUND BROKEN FOR EMERGENCY
+          REASONS APPLY CARRIER SEALS AS SOON AS
+          POSSIBLE AND IMMEDIATELY NOTIFY THE CONSIGNOR
+          AND THE CONSIGNEE," the application of
+          seals/locks and the recording of seal numbers
+          in the block provided on the GBL will not, in
+          itself, require exclusive use of the vehicle.
+
+A note under item 205 states that this rule is also applicable to
+dromedary service (Item 325).  Item 325 provides that the shipper
+will request exclusive use by annotating "Exclusive us[e] of
+Dromedary Service requested by the Government," or similar
+provision, on the bill of lading.  Reading the two items together,
+we conclude that a GBL annotation that is substantially equivalent
+to the alternative language in item 205 would suffice to request
+exclusive use of a dromedary container as well.  In addition, item
+325 provides that an endorsement will be noted on the bill of
+lading, for the carrier's signature, certifying that exclusive use
+was furnished. 
+
+     Tri-State contends that the annotation on GBL D-1,500,980 is
+on all fours with the alternate language contained in Item 205 of
+the MFTRP, thus entitling it to recovery of an additional charge
+for providing exclusive use of a dromedary container.  GSA has
+rejected Tri-State's claim, citing to Tri-State Motor Transit Co.,
+B-256083 (June 10, 1994).  In that case, however, the shipper
+argued that its tariff was controlling and relied upon the decision
+in Baggett Transportation Co. v. United States, 23 Cl. Ct. 263
+(1991), aff'd, 969 F.2d 1028 (Fed. Cir. 1992), in which language
+similar to that on its GBL had been deemed to constitute a request
+for exclusive use under the terms of the carrier's tariff.  Noting
+that the MFTRP was amended subsequent to the shipments at issue in
+Baggett, and that shipments provided under a carrier tender and the
+MFTRP were no longer subject to varying terms of a carrier tariff,
+GAO ruled that the carrier was not entitled to recover for the
+provision of exclusive use of a dromedary unit.  
+
+     In a subsequent decision, relied upon by Tri-State, GAO
+addressed circumstances closely akin to the facts presented here. 
+In Tri-State Motor Transit Co., B-259719 (June 27, 1995), GAO,
+reviewing a transaction governed by the carrier's tender, the terms
+of the GBL, and the MFTRP, analyzed language identical to that
+contained on GBL D-1,500,980 and compared it to the alternate
+language of the MFTRP to conclude that a request for exclusive
+service had indeed been made.  As such, since GBL D-1,500,908
+requests dromedary service and is annotated with language which is
+substantially the equivalent of the alternative annotation set
+forth under item 205 of the MFTRP, we conclude that exclusive use
+was requested.  
+
+     MTMC, in its response addressing the merits of this claim,
+raises several arguments not raised by GSA.  First, MTMC questions
+whether Tri-State's claim is timely filed under the statute
+requiring that such claims be presented within three years after
+accrual.  MTMC points out that its copy of the request for payment
+is undated and hypothesizes that, given the 1991 shipment date, the
+claim may have been filed with GSA more than three years after
+payment for the transportation was made.  31 U.S.C.  3726 (1994);
+C.I. Whitten Transfer Co., GSBCA 13911-RATE (Feb. 21, 1997). 
+Because of the length of time that has elapsed, not all of the
+records are readily available.  Nonetheless, Tri-State and GSA have
+confirmed that Tri-State's initial invoice was dated March 7, 1991,
+and agree that it is likely the invoice would have been paid about
+thirty days after that date.  The claim for exclusive use was
+mailed to GSA by Tri-State on March 8, 1994, and received by GSA on
+March 11, 1994.  Given these circumstances, GSA does not contest
+the timeliness of the claim and the Board finds that it was timely
+filed within three years of receipt of payment of the original
+invoice.   
+
+     In addition, MTMC argues that Item 325 of the MFTRP,
+applicable to the provision of dromedary service, requires that the
+GBL be annotated with an endorsement, completed by the carrier's
+agent at destination, certifying that exclusive use was in fact
+furnished with respect to the particular shipment.   This
+endorsement was not provided in GBL D-1,500,980.  We construe this
+requirement to intend that appropriate proof of the provision of
+exclusive use services be submitted by the carrier.  Although no
+endorsement is in fact set forth on the face of the GBL, Tri-State
+has nonetheless furnished proof that exclusive use was provided
+under this GBL.  See Tri-State Motor Transit Co., GSBCA 13826-RATE
+(June 13, 1997).  Neither MTMC nor GSA has contested the adequacy
+of this evidence.   
+
+     Accordingly, we find that Tri-State is entitled to recover the
+amount claimed for the provision of exclusive use services under
+GBL D-1,500,980.
+
+
+
+
+                                        ________________________
+                                        CATHERINE B. HYATT
+                                        Board Judge
+
+

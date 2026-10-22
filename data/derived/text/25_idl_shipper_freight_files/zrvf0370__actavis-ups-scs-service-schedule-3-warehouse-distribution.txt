@@ -1,0 +1,1200 @@
+                                                                                                                  TGOS_VA4_MDL_12246715
+
+
+                                                                    q07o _ soatea.h_3
+                                                                                                              Confidential & Proprietary
+
+                            SERVICE SCHEDULE NO. 3 - WAREHOUSE DISTRIBUTION SERVICES
+
+                    This Service Schedule No. 3 for Warehouse Distribution Services ("Schedule") is entered into this 6th day of
+          November (the "Effective Date") and is attached to and made part of that certain Master Services Agreement dated November
+          6, 2006 (the "MSA") by and between UPS Supply Chain Solutions, Inc. ("SCS") and Actavis, Inc., ("Client"). In the event of
+          a conflict between any of the documents specified below and this Schedule, this Schedule will control.
+
+          1.       Structure of this Service Schedule. SCS will perform for Client the warehouse distribution services specified in this
+          Schedule (the "Services"), at one or more facilities listed in Exhibit C (each a "Facility"), in accordance with this Schedule and
+          its Exhibits and the documents specified below, each of which is incorporated into this Schedule by reference.
+
+                 Exhibit A — Statement of Work
+                 Exhibit B — Fees
+                 Exhibit C — Operating Parameters
+                 Exhibit D — Termination Costs
+                 Exhibit E — Product List
+                 Exhibit F — Key Performance Indicators
+
+          2.       Term and Termination.
+
+                   2.1        Tenn. The Initial Term of this Schedule shall commence on the Effective Date and shall continue up to and
+          including November 5, 2009 ("Initial Term"), unless earlier terminated in accordance with the MSA. Thereafter, this Schedule
+          will automatically renew for successive one-year renewal terms, unless either Party gives the other Party written notice of non-
+          renewal at least one hundred twenty (120)days prior to the expiration of the then-current term. Notwithstanding the foregoing,
+          in the event that SCS continues to provide the Services to Client following the expiration or termination of this Schedule, and
+          the Parties fail to enter into a written extension of this Schedule, then this Schedule (except that the Fees may be adjusted by
+          SCS in its sole discretion) shall remain in effect on a month-to-month basis after the expiration or termination date until
+          terminated in writing by either Party upon thirty (30) days prior written notice.
+
+                  2.2      Termination Costs. If this Schedule is terminated (i) by SCS due to Client's breach, failure to make
+         payments when due, or insolvency or (ii) by Client for its convenience, Client shall pay SCS the termination costs, if any,
+         specified in Exhibit D.
+
+                  2.3       Transition Assistance. In connection with the termination or expiration of this Schedule, the Parties will
+         mutually agree in advance with respect to the actions that SCS will undertake as part of the termination assistance and agree
+         that SCS will undertake all such actions at Client's sole expense. Transition Assistance includes, but may not be limited to, (i)
+         performance of a complete physical inventory of all Products and other Client-owned materials and equipment, if any, (ii)
+         packaging such Products and other Client-owned materials and equipment, and (iii) making such Products and other Client-
+         owned materials and equipment available on the Facility's shipping dock for Client's handling, pickup and transportation at
+         Client's sole expense. Client shall remain liable for all storage charges accrued up until such time as the Products are removed
+         from the Facility.
+
+         3.       Fees.
+
+                 3.1       Payment Terms. Fees will be as set forth in Exhibit B and will be administered in accordance with Exhibit
+         B. Client shall pay all invoices within fifteen (15) days from date of the invoice.
+
+                   3.2       Annual Fees Adjustment. After the Initial Term has expired and thereafter on the anniversary of the renewal
+         term, all Fees shall be subject to an annual adjustment equal to the greater of three percent or the same percentage increase as
+         reflected in the most recent publication of the Half-Year Consumer Price Index for All Urban Consumers, U.S. All Items, Not
+         Seasonally Adjusted (using 1982-1984 base period) ("CPI-U"), as published by the United States Department of Labor, Bureau
+         of Labor Statistics, which may be viewed at <http://stats.b1s.e.ov/epi/home.htm>. In the event the CPI-U is discontinued, SCS
+         may designate another index for purposes of adjustments, provided that such substitute index shall not produce adjustments
+         substantially different from those that were produced under the CPI-U. SCS will notify Client in writing of adjustments to the
+         Fees at least thirty (30) days prior to implementing the adjusted Fees.
+
+         4.       Liability for Loss or Damage to Products Stored by SCS.
+
+
+
+         Actavis, Inc. 11-06-2006                                                                               Page 1
+
+
+Highly Confidential                                                                    Acquired_Actavis_01545034
+                             Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                  TGOS_VA4_MDL_12246716
+
+
+
+
+                                                                                                              Confidential & Proprietary
+
+                   4.1      Definitions.
+
+                           4.1.1   "Throughput" shall mean the number of Products received and shipped divided by two (2), between
+          successive Determination Dates, or if within the first year of the Effective Date, then such first year.
+
+                             4.1.2     "Replacement Cost" shall mean Client's actual cost to replace a Lost Product, i.e., the reasonable
+          and customary cost incurred by Client to purchase and transport the Product from its supplier to the Facility; provided,
+          however, that the Replacement Cost shall not include margin, markup or storage fees. Within thirty (30) days of the Effective
+          Date and at least quarterly thereafter, Client shall provide to SCS appropriate documentation verifying the Replacement Cost of
+          each Product.
+
+                            4.1.3     "Average Replacement Cost" shall mean the weighted average of the Replacement Costs of all Lost
+          Products.
+
+                             4.1.4     "Determination Date" shall mean the yearly anniversary of the Effective Date upon which SCS's
+          liability to Client, if any, for Lost Products and Damaged Products is determined; provided however, that if this Schedule
+          expires or is terminated prior to such Determination Date, the revised Determination Date shall be the date of termination or
+          expiration of this Schedule.
+
+                             4.1.5  "Shrinkage Allowance" shall mean 0.2% of Throughput as of the Determination Date. The Parties
+          have agreed to a Shrinkage Allowance because both Parties recognize that it is inevitable that a certain amount of Products will
+          be lost or damaged in the course of storage and handling whether the Products are stored by SCS or by the Client at its own
+          locations using its own employees.
+
+                            4.1.6    "Lost Products" shall mean those Products, except for controlled substances, that should be
+          warehoused on the Determination Date according to the Book Inventory Report, but that have been lost due to SCS's
+          negligence or are otherwise unable to be located. Lost Products shall not include Damaged Products, concealed shortages, or
+          Products shipped in error to Client's location or to a location designated by Client.
+
+                           4.1.7   "Damaged Products" shall mean those Products warehoused on the Determination Date that are
+          destroyed or damaged due to SCS's negligence such that they cannot be sold.
+
+                             4.1.8    "Book Inventory Report" shall mean the report of those Products that should be warehoused as of
+          the Determination Date based on (i) Beginning Inventory, i.e. the Products that were warehoused based on the Book Inventory
+          Report as of the previous Determination Date or, if during the first year, then the Effective Date, plus (ii) Products received as
+          evidenced by an authorized signature on the transportation carrier's waybill, since previous Determination Date or, if during
+          the first year, then the Effective Date, less (iii) Products shipped since the previous Determination Date or, if during the first
+          year, then the Effective Date. The Book Inventory Report will be generated by SCS using its warehouse inventory
+          management systems, regardless of whether Client's inventory system is also used in connection with the Services.
+
+                          4.1.9   "Repair Cost" shall mean the lesser of the cost to repair the Damaged Product or the Replacement
+          Cost of the Damaged Product.
+
+                            4.1.10 "Net Value of Inventory Adjustments" shall mean as of a Determination Date the sum of all the
+          inventory adjustments for unaccounted for Products, based on the number of units, that are made by SCS in all Facilities during
+          its cycle count process between successive Determination Dates or, if during the first year of the Effective Date, then during
+          such first year. SCS will maintain a cumulative record of inventory adjustments completed.
+
+                            4.1.11   "Excess Loss" shall mean the number of Lost Products multiplied by the Average Replacement
+          Cost.
+
+                            4.1.12 "Physical Inventory" shall mean a physical inventory of the Products. Any Physical Inventory will
+          be conducted in a manner mutually acceptable to the Parties. If Client requests SCS to conduct such a Physical Inventory, SCS
+          will perform the Physical Inventory at Client's sole expense.
+
+                  4.2       Calculation of Liability for Lost Products and Damaged Products.
+
+
+
+
+          Actavis, Inc. 11-06-2006                                                                              Page 2
+
+Highly Confidential                                                                    Acquired_Actavis_01545035
+                             Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                 TGOS_VA4_MDL_12246717
+
+
+
+
+                                                                                                              Confidential & Proprietary
+
+                            4.2.1    SCS shall be liable for Lost Products or Damaged Products in excess of the Shrinkage Allowance
+         while the Products are in its care, custody and control due to its negligent acts or omissions, except that which is (i) below
+                                                                                                                                         the
+         Shrinkage Allowance; (ii) caused by any defects in the packaging or manufacture of such Products; (iii) attributable to carriers
+         (contract or otherwise) failing to deliver the full shipment of expected Products to SCS or otherwise caused by the
+                                                                                                                                     acts or
+         omissions of such carriers; (iv) delivered to SCS in damaged condition and such damage was reported to Client; (v) attributable
+         to concealed damage; (vi) a result of the negligence or intentional misconduct of Client or any of its employees, agents or
+         subcontractors, (vii) due to third-party theft; unless SCS has not employed current, industry standard security measures,
+                                                                                                                                          or
+         (viii) caused by an event of Force Majeure.
+
+                           4.2.2     On or about the Determination Date, SCS will calculate the Net Value of Inventory Adjustments.
+
+                          4.2.3    If the Net Value of Inventory Adjustments is greater than the Shrinkage Allowance, then SCS, in
+         accordance with this Schedule, will pay Client, subject to an annual limitation of $500,000, the Excess Loss for Lost Products
+         and an amount equal to the Repair Cost for each Damaged Product, as appropriate, within thirty (30) days of mutual
+         agreement.
+
+                   4.3    Lost Products Later Found. If any Lost Products for which a payment has been made to Client are found or
+         otherwise accounted for, Client shall promptly refund to SCS the amount of any such payment upon written notice from SCS,
+         and SCS will return such Products to the Client, unless such Lost Products have gone into short date, have expired, or are not
+         saleable.
+
+         5.       Notice of Loss or Damage. SCS will promptly notify Client of any loss or damage to Goods that are delivered to the
+         Facility after discovery of same by SCS and will provide reasonable cooperation to Client to address the disposition of such
+         Goods.
+
+         6.      Waiver of Subrogation. Client waives its rights of subrogation on behalf of its insurers for any loss or damage to
+         Products in excess of the liability limits set forth in Section 4.
+
+         7.       Work Instructions ("WI"). Client specific Work Instructions will be developed to outline further mutually agreed
+         upon processes and service standards on or before January 1, 2007, and approved in writing by Client's Quality Assurance and
+         a Quality Assurance Representative from SCS. In the event of a conflict between this Schedule and the WI, the terms of
+                                                                                                                                  this
+         Schedule shall control.
+
+         S.        Client's Customers. Client will communicate to their customers that SCS will verify the license of Client's customer
+         prior to Product shipment.
+
+         9.       Products. Descriptions of the Products to be handled are listed on Exhibit E. The attached Exhibit E shall be updated
+         as appropriate to reflect any change in Products. SCS shall not receive any new product for storage until an amended Exhibit
+                                                                                                                                      E
+         has been signed by the Parties and is attached to this Schedule.
+
+                  9.1     Client is responsible for all product testing and control over Quality Assurance ("QA") hold and release of
+         Product. Product received in a Quarantined status from Client, may only be released from SCS inventory with a Certificate of
+         Release from the Client's designated Quality Assurance Representative.
+
+                   9.2      Client is fully and solely responsible for ensuring that the Products comply with all federal, state, local and
+         other laws and regulations with respect to safety, labeling, quality assurance and advertising. Client is responsible for
+         notification to the FDA of any changes concerning the storage and distribution of the product.
+
+                  9.3      Client is responsible for specifying and validating temperature sensitive packaging and other storage
+         conditions as well as packaging protocols as necessary.
+
+         10.      Recall Responsibilities. Client will handle all discussions with regulatory agencies regarding manufacturing defects
+         or safety issues related to any Product and will be solely responsible for deciding the necessity, scope, and procedures for any
+         Product recall. SCS will support Product recalls based on the Ad-Hoc rates stated in Exhibit B.
+
+                 10.1    Client will be responsible for notifying SCS of any recalls or market withdrawals of their products to be
+         handled by SCS.
+
+
+
+         Actavis, Inc. 11-06-2006                                                                               Page 3
+
+Highly Confidential          Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                       Acquired_Actavis_O1545036
+                                                                                                                 TGOS_VA4_MDL_12246718
+
+
+
+
+                                                                                                            Confidential & Proprietary
+
+                   10.2      Client will be responsible for drafting product recall customer communications. Client is responsible for all
+          recall communications to customer. Client can request in writing for SCS to perform the recall customer communications, and
+          negotiate the service fee based on handling requirements. No amendment to this schedule is required for this service.
+
+         11.      Client Information Systems (IT). If the Services under this Schedule require SCS to use Client's system and it is a
+         system requiring validation, i.) Client will provide SCS a copy of the system's Validation Report, and ii.) At Client's expense,
+         Client will provide verification of the use of that system in any SCS Facility.
+
+         12.       Notices. In addition to the requirements of the Notices provision in the MSA, any notice required under this Schedule
+         shall be directed to the following individuals:
+
+                   To SCS:              UPS Supply Chain Solutions, Inc.
+                                Attn:
+
+
+
+                   To Client:           Actavis, Inc.
+                                Attn:
+
+
+
+
+         13.      Survival. The following provisions of this Schedule will survive its expiration or termination: Termination Costs,
+         Transition Assistance, Liability for Loss or Damage to Products Stored by SCS, Notice of Loss or Damage, and Waiver of
+         Subrogation.
+
+
+                  IN WITNESS WHEREOF, the Parties hereto have caused this Schedule to be executed by their duly authorized
+         representatives as of the Effective Date.
+
+         UPS SUPPLY CHAIN SOLUTIONS, INC.                                        ACTAVIS, INC.
+         "SCS"                                                                   "CLIENT"
+
+
+         Sign                                                                    Si natur
+                                                                                               /we A-7
+         Printed Name                                                            Printed Name
+                                                                                 GreGceir-e V/Lerctliae ,               i
+         Titre                                                                   Title
+                        d4-                                                                eei44her-          2ez,
+         Date                                                                    Date
+
+
+
+
+         Actavis, Inc. 11-06-2006                                                                              Page 4
+
+Highly Confidential                                                                       Acquired_Actavis_O1545037
+                                Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                 TGOS_VA4_MDL_12246719
+
+
+
+
+                                                                                                                Confidential & Proprietary
+
+                                            EXHIBIT A - STATEMENT OF WORK
+                             TO SERVICE SCHEDULE NO. 3 - WAREHOUSE DISTRIBUTION SERVICES
+
+      1.        Products
+
+                 Products to be stored and handled pursuant to this Schedule are indicated in Exhibit E.
+
+      2.      Specialized Handling. Hazardous Materials or Other Regulated Products will not be accepted for handling and
+                                                                                                                          storage under
+      this SOW unless a separate service schedule expressly authorizing such has been executed by the Parties.
+
+                 Unless specified in this Exhibit or the Operating Parameters, SCS shall not be required to store Products requiring a
+                                                                                                                                       special
+       environment, including but not limited to air-conditioned, cool, chilled, or frozen environments, or high value cages.
+                                                                                                                              Products will be
+       stored in the general storage area in ambient, (59-86 degrees Fahrenheit), warehouse temperatures.
+
+      3.        Training. SCS shall train its personnel to perform standard warehouse logistics Services with respect to the Products.
+      Customer shall provide SCS with training materials and applicable reference manuals relating to any specialized
+                                                                                                                      training for processes
+      or systems to be provided to Customer under this Statement of Work (SOW) which are different from standard
+                                                                                                                        warehouse logistics
+      services.
+
+      4.      Operating Parameters. As of the Effective Date, the Facilities and warehouse space are those as listed on
+                                                                                                                           Exhibit C. The
+      warehouse space within a Facility available to Customer from time to time for the storage of the Products shall be
+                                                                                                                         referred to as the
+      "Storage Area."
+
+      5.       Hours of Operation. Facility hours of Operation for warehouse Services are defined in the Operating Parameters.
+                                                                                                                                 Business
+      Day is defined as Monday through Friday, excluding Holidays ("Business Day"). US Holidays are: Memorial Day,
+                                                                                                                       4th of July, Labor
+      Day, Thanksgiving, Day after Thanksgiving, Christmas Day, New Year's Eve, New Year's Day ("Holidays").
+
+      6.       Access to Storage Area. Only individuals authorized by SCS or Customer shall be permitted access to the Storage
+                                                                                                                                    Areas,
+      provided however, that Customer must provide SCS reasonable advance notice prior to such access, and provided further,
+                                                                                                                             that any such
+      individual must agree to comply with the security provisions applicable to such Facility. Authorization by Customer for
+                                                                                                                                 Customer
+      personnel shall be controlled through an approved access list provided to SCS by Customer.
+
+      7.       Customer Designated Contact. Customer will provide the name, job title, and contact information, to include
+                                                                                                                                 telephone
+      numbers (business, cell phones, facsimile, pager numbers, etc.) of a designated manager within Client's
+                                                                                                                  organization to serve as
+      continuously available liaison with SCS for communication of all reporting and issue escalation to Customer.
+                                                                                                                   ("Customer Designated
+      Contact"). If there is any change in the Designated Contact, Customer shall promptly submit the above information
+                                                                                                                                to SCS by
+      facsimile or e-mail.
+
+      8.        Equipment. SCS will provide all required general purpose equipment necessary to perform the Services, except
+                                                                                                                               that any
+      special, customized or unique equipment needed to perform the Services shall be provided by Customer and
+                                                                                                               maintained at Customer's
+      sole expense.
+
+     9.       Products Master File. The inventory system will be SCS's Warehouse Management System ("WMS"). Prior
+                                                                                                                                to the initial
+     shipment of any Products to a Facility, Customer will provide SCS with a master list of all Products that are to be
+                                                                                                                         handled pursuant to
+     this SOW. SCS will keep the information contained on such list in a file in its WMS (the "Master File"). Customer
+                                                                                                                           will provide SCS
+     with the information needed to update the Master File, including all new additions to the Products to be handled
+                                                                                                                       pursuant to this SOW
+     and any changes to information relating to Products on the Master File by a mutually agreed upon method.
+
+     10.      Incoming Product Quality Assurance ("QA"). Client is responsible for all control over QA hold and release
+                                                                                                                        of Product.
+     Client will provide electronic pedigree documents with inbound receipts if required by regulations.
+
+     11.       Information System. SCS will use the Warehouse Management System ("WMS") for inventory management and
+                                                                                                                                      Client
+     customer Services. On request, SCS has the ability to forward reports via e-mail. If e-mail reporting is requested,
+                                                                                                                           any manipulation
+     of the report data by Client, and subsequent reporting discrepancies caused thereby, are the responsibility of
+                                                                                                                    Client. EDI interfaces
+     included in pricing are defined in Exhibit C of Service Schedule 3. If requested, SCS can provide additional EDI
+                                                                                                                      interface capability to
+     Client's systems or to the Client's customers at the Information Services rates set forth in Exhibit B. The cost
+                                                                                                                      to develop additional
+     EDI will be quoted by SCS on request. Client will receive standard WMS reporting. If requested, report modification
+                                                                                                                            s or new reports
+     can be provided by SCS, subject to the Information Services rates set forth in Exhibit B.
+                                                                      Page 1
+      Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential              Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                           Acquired_Actavis_01545038
+                                                                                                                      TGOS_VA4_MDL_12246720
+
+
+
+
+                                                                                                                     Confidential & Proprietary
+
+      12.      Client Service Support. SCS will provide support to Client's warehouse operations as needed to facilitate the Services. For
+      regulated products, SCS will maintain a name and address database of all Clients' customers. SCS client service support will provide
+      reporting to Client.
+
+      13.      Product Delivery Requirements. Client shall arrange for Products to be delivered to the Facility in a segregated manner,
+      free from contamination, properly marked and packaged for handling. Any special delivery requirements are set forth in the Work
+      Instructions ("WI"s).    At or prior to delivery of the Products to any Facility, Client shall provide to SCS a manifest indicating the
+      Products to be tendered for storage, with any special instructions, including but not limited to the applicable material safety data sheets
+      (MSDS), concerning storage, services, accounting, segregation or any other requirements relating to the Products.
+
+      14.       Warehouse Services. Services to be performed pursuant to this Schedule are as follows:
+
+                 14.1Product Receipt. SCS will receive all delivered Products, including stock from Client's manufacturer.
+                        14.1.1     Unloading, counting, checking and putting away of stock.
+                        14.1.2     Recording products, quantities, lot numbers received and expiration dates noting visual damages, shortages
+                                   and overages.
+                        14.1.3     Data entry of warehouse receipts into computer system.
+                        14.1.4     Special handling such as receiving unmarked cartons or breaking down pallets or cartons on receipt is subject
+                                   to an assessorial labor charge.
+                        14.1.5     Transmission of receipt transaction to Client and stock putaway in accordance with date expiration
+                                   methodologies
+                        14.1.6     The initial receipt and putaway of Products received at the start-up will be billed per the accessorial labor
+                                   rates of Exhibit B section 6.1.
+                 14.2Product Storage. SCS will provide storage as required in accordance with Client's WI.
+                        14.2.1     Controlled ambient storage will be provided.
+                        14.2.2     SCS will track product by lot number and expiration date.
+                 14.3 Inventory Management.
+                        14.3.1     SCS will maintain a cycle count program in accordance with SCS's standard practice. SCS will maintain
+                                   records of all counts taken and, if requested, provide monthly reporting to Client on results achieved.
+                        14.3.2     SCS will track lot number and expiration date, and identify product receipts and orders by lot number and
+                                   expiry date where applicable.
+                        14.3.3     SCS will support Client's product recall procedures and subject to an assessorial labor charge.
+                        14.3.4     SCS can provide automatic lot selection, e.g. FEFO, shortest expiry date, specific lot selection, as requested.
+                        14.3.5     SCS will perform physical inventory at Client's request: Forty-eight (48) hour advanced notice is required
+                                   and Client will be billed for the labor hours.
+                 14.4Damaged or Expired Products. Client will be notified of damaged or expired Product. Damaged or expired Product will
+                  be returned to manufacturer or sent out to an authorized destruction company. The agreement with the authorized
+                  destruction company will be between Client and the destruction company.
+                 14.5Order Processing. SCS will provide pick, pack and shipping package labeling Services.
+                        14.5.1     Excluding rush or emergency orders, orders will typically be received 24 hours in advance of required ship
+                                   date.
+                        14.5.2     All orders will be received electronically except when shipping DEA Controlled II products., Upon receipt of
+                                   the DEA 222 form, orders for the DEA Controlled II product will be entered manually.
+                        14.5.3     SCS will pick and pack carton quantities, and include bill of lading.
+                 14.6Product Shipment.
+
+
+
+                                                                          Page 2
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545039
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                   TGOS_VA4_MDL_1 2246721
+
+
+
+
+                                                                                                                   Confidential & Proprietary
+
+                         14.6.1    Client orders are made available to the warehouse on a daily basis.
+                         14.6.2    Orders are prepared according to WI.
+                  14.7Routing. SCS will route shipment using the default carriers per Exhibit C.
+                  14.8Backorders.
+                         14.8.1    Client will not send SCS orders with a known backorder condition.
+                         14.8.2    Orders cancelled by SCS will be transmitted to Client as a voided order shipment confirmation
+                  14.9Returns. SCS will provide the management of returned Product, according to Client's WI. SCS will:
+                         14.9.1    Receive returned Product into segregated area.
+                         14.9.2    Provide visual inspection of incoming returns for quantity discrepancies or damage.
+                         14.9.3    Transfer of returned Product back to Client.
+                         14.9.4    Contact Client to obtain disposition instructions, and if requested by Client, arranging the destruction of
+                                   returned Product with Clients' written authorization at Clients sole expense.
+                        14.9.5     Store Product destined for destruction, subject to storage Fee.
+                        14.9.6     Process returns which were not originally shipped by SCS, subject to assessorial labor Fee.
+                 14.10 Packaging. Should Client require SCS to purchase packaging supplies, Client will identify the components required
+                  and packing specifications. Client is responsible for validation of packaging specifications. SCS will bill Client monthly
+                  for all packaging supplies utilized.
+       15.      Transition Assistance. In connection with the termination or expiration of this SOW, SCS will:
+
+                 15.1 Return Client's customer information database to Client.
+                 15.2 Perform a complete physical inventory of all Client's Product. SCS's standard physical inventory Fee applies to such
+                  physical inventory.
+                 15.3 Package the Product and other materials of Client and make same available on the shipping dock for pickup. The
+                  outbound transaction Fee applies on all Products to be removed from the Facility.
+                 15.4 Client will arrange for pickup and transportation of all such Product and materials, in accordance with Section 2 of
+                  Service Schedule No. 1 by the date of such termination or expiration.
+                 15.5 Provide Transition assistance in accordance with Section 2 of Service Schedule No. 1.
+                 15.6 SCS will retain records as required by regulatory agencies.
+
+
+
+       16.      Customer Information Database. SCS will maintain a name and address database of all Clients' customers. Special
+       projects for extraordinary changes to customer database information, or other request outside the scope of the standard database
+       maintenance Services, are subject to an assessorial Fee for the required labor hours.
+
+
+
+
+                                                                          Page 3
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545040
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                     TGOS_VA4_M DL1 2246722
+
+
+
+
+                                                                                                                    Confidential & Proprietary
+
+                                                      EXHIBIT B - FEES
+                                TO SERVICE SCHEDULE NO. 3 - WAREHOUSE DISTRIBUTION SERVICES
+
+       1.       Upfront Fee $83,783.00
+
+                    SCS will invoice Client and Client shall pay the Upfront Fee in accordance with Section 3 of this Schedule.
+
+                    Travel expenses related to service implementation are not included in this Fee and will be invoice as incurred. Travel
+                    expense is charged back at cost.
+
+       2.       Fixed Monthly Charge.
+
+                    The monthly charge during the term of this Schedule is $51,667.00 fixed Fees per month.
+
+      3.        Variable Charges.
+
+              3.1       Inbound Handling Charge
+                        3.1.1   DEA C-II controlled substance products will be billed at $0.40 per carton
+                        3.1.2     Non-C-II products will be billed at $12.00 per pallet
+              3.2       Storage Charge
+                        3.2.1   DEA C-II controlled substance products will be billed at $85.00 per pallet per month.
+                        3.2.2     DEA C-III, C-IV and C-V controlled substance products will be billed at $19.00 per pallet per month
+                        3.2.3     Non-controlled substance products will be billed at $17.00 per pallet per month
+              3.3       Customer Service Charge
+                        3.3.1  EDI Order will be billed at $0.08 per order line.
+                        3.3.2     Manual Orders will be billed at $1.76 per order line.
+              3.4       Outbound Handling Charge
+                        3.4.1  DEA C-II controlled substance products will be billed at $0.72 per carton.
+                        3.4.2     DEA C-III, C-TV and C-V controlled substance and non-controlled products will be billed at
+                                    $0.65 per carton
+                                    $8.60 per single SKU, full pallet
+
+              3.5       The minimum Expected Fees, which include all variable charges per Section 3 above, are forecast based on the
+                        Operating Parameters per Exhibit C of this Schedule. The Expected Fees are based on 75% of the inbound and outbound
+                        volume and 80% of the storage volume plus the fixed monthly charge.
+              3.6       If the actual quarterly throughput for a given quarter falls below 75% of the inbound and outbound volumes and 80% of
+                        the storage volume as determined in Exhibit C of this schedule for a quarter, a minimum quarterly variable charge, equal
+                        to 75% of the projected inbound and outbound volumes and 80% of the projected storage volume at the variable rates
+                        will be assessed.
+                        Minimum Expected Variable Fees
+
+                         Inbound Cases:
+
+                         The expected monthly inbound cases of DEA C-II controlled substance products for Year 1 is 18,285.
+                         18,285 cases/month x $0.40 /case x 75% = $5,486
+
+                         The expected monthly inbound pallets of DEA C-III, C-IV and C-V controlled substance and non-controlled products
+                         for Year 1 is 1,255.
+                         1,255 pallets/month x $12.00 /case x 75% = $11,292
+
+
+                                                                            Page 4
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545041
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                   TGOS_VA4_MDL_12246723
+
+
+
+
+                                                                                                                   Confidential & Proprietary
+
+                         Customer Service:
+
+                         The expected monthly manually entered order lines is of DEA C-II controlled substance products for Year 1 is 1,642.
+                         1,642 lines/month x $1.76 /line x 75% = $2,168
+
+                         The expected monthly EDI order lines is of DEA C-III, C-IV and C-V controlled substance and non-controlled
+                         products for Year 1 is 29,508
+                         29,508 lines/month x $0.08 /line x 75% = $1,770
+
+                         Outbound Cases:
+
+                         The expected monthly outbound cases of DEA C-II controlled substance products for Year 1 is 18,285.
+                         18,285 cases/month x $0.72 /case x 75% = $9,784
+
+                         The expected monthly outbound cases of DEA C-III, C-IV and C-V controlled substance and non-controlled products
+                         for Year 1 is 1 258,766
+                         258,766 cases/month x $0.52 /case x 75% = $126,148
+
+                         The expected monthly outbound pallets of non-controlled products for Year 1 is 447
+                         447 pallets/month x $8.60 /pallet x 75% = $2,886
+
+                         Pallet Storage:
+
+                         The expected monthly stored pallets of DEA C-II controlled substance products for Year 1 is 76
+                         76 pallets/month x $85.00 /pallet x 80% = $5,168
+
+                         The expected monthly stored pallets DEA C-III, C-IV and C-V controlled substance products for Year 1 is 752
+                         752 pallets/month x $19.00 /pallet x 80% = $11,430
+
+                         The expected monthly stored pallets of Non-controlled substance products for Year 1 is 5,013
+                         5,013 pallets/month x $17.00 /pallet x 80% = $68,177
+
+                         Total Minimum Variable Expected fees are $244,460 per month
+
+
+
+      4.         Value Added Network ("VAN") Charges:
+
+                 Client is responsible for their VAN charges. VAN charges for orders is a variable monthly charge based on all VAN order
+                 volume.
+
+      5.        Labor Rates.
+
+               5.1     Accessorial labor for a full physical inventory on request, visual inspection, and special projects or additional work or
+                        special handling that is not within the scope of Services: All value added services can be performed at ad-hoc rates and
+                        must be agreed upon by both parties prior to activity. Labor rates during normal working hours are
+                      5.1.1       Warehouse Labor
+                                   Weekdays: $23.05 per hour
+                                   Operation Supervisor: $50.00 per hour
+                                   Initial inventory movement into SCS Facility $22.40 per hour
+
+                      5.1.2       Administrative Labor
+                                    Clerical labor: $26.87 per hour
+
+
+
+
+                                                                          Page 5
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                          Acquired_Actavis_01545042
+                                   Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                    TGOS_VA4_M DL1 2246724
+
+
+
+
+                                                                                                                    Confidential & Proprietary
+
+                  5.2 Accessorial labor will be billed at the negotiated rate during regular time, overtime will be billed at one and a half (1.5)
+                    times the hourly rates and Sundays and Holidays at two (2) times the hourly rates. Weekend and Holiday rates will be billed
+                    at a 4 hour minimum.
+       6.       Product Transfer between Facilities at Client Request.
+
+                  6.1 SCS's standard physical inventory Fee applies to physical inventory prior to transfer.
+                 6.2 The outbound handling charge would apply to all Product removed from the former facility
+                 6.3 The inbound handling charge would apply to all Product received at the new facility.
+                 6.4 If SCS arranges the transportation of the Product, Client will be charged cost plus 5%.
+
+
+       7.       Assessorial Charges.
+
+                 7.1 Communication expenses: Telephone, facsimile: at cost plus 15%.
+                 7.2 Returns are handled at per the accessorial labor rates.
+                 7.3 Packaging materials, office and operational supplies: SCS cost plus 15%.
+                 7.4 Travel and related expenses: At cost.
+                 7.5 Customer adds and changes : $10.00 per change. Not subject to initial Customer file upload.
+                 7.6 Product adds and changes: $10.00 per change. Not subject to initial Product file upload.
+      8.        Information Systems Development Rates.
+
+                            I.T.Labor: $250.00 per hour
+
+      9.        Early Termination Costs.
+
+                      Early Termination Costs are listed in Exhibit D
+
+      10.       Billing administration of Services
+
+               10.1 SCS will submit documented invoices under a single account number for the Services provided under this SOW
+                    to Client's designated Accounts Payable location.
+               10.2 Client shall pay to SCS all undisputed charges on an invoice, and any dispute as to any portion of the amount of the
+                    invoice shall be promptly resolved by the parties as commercially reasonable.
+               10.3 SCS billing cycle is to be structured to allow transmission of invoices as follows:
+                      10.3.1       SCS will invoice Fixed Fees in advance on a monthly calendar basis at the beginning of each month.
+                      10.3.2       SCS will invoice Variable Fees at the end of each month.
+
+
+
+
+                                                                         Page 6
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545043
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                                TGOS_VA4_M DL1 2246725
+
+
+
+
+                                                                                                                                Confidential & Proprietary
+
+
+                                                   EXHIBIT C - OPERATING PARAMETERS
+                                     TO SERVICE SCHEDULE NO. 3 - WAREHOUSE DISTRIBUTION SERVICES
+
+
+           Based on the data supplied by Client, SCS anticipates the following Operating Parameters for the Initial Term of this Schedule.
+           Operating parameters will be periodically reviewed, and subject to the Changes in Operating Parameters or Conditions Section
+                                                                                                                                           of the
+           MSA.
+
+       1.            Facilities:
+                      1.1 Louisville, KY, 63,400 sq ft.
+                      1.2 Newark, DE, 2,190 sq ft.
+                      1.3 SCS standard security will be provided except for high security required for DEA controlled substances.
+                      1.4 Unit of measure of throughput for the distribution Facility is a carton.
+
+       2.            Service Requirements Hours:
+               2.1           One 8 hour shift per day, 52 weeks per year, excluding weekends.
+               2.2           Service requirements exclude:
+                          ■ transportation for inbound or outbound Product.
+                          ■ hazardous materials handling or storage.
+                          ■ International shipments.
+       3.            Inbound
+                      3.1     Inbound units equal outbound units
+                      3.2     Inbound Pallets
+                                3.2.1      Louisville 15,055 per year or 60 per day. There is an average of 26 pallets per receipt/
+                                3.2.2      Newark 877 per year or 3.5.per day. There is an average of 26 pallets per receipt.
+                        3.3 There is 10% growth for years 2 and 3.
+                        3.4         100% of the inbound product is full pallets with a single SKU and single lot per pallet.
+                        3.5         There is an average of 250 cases per pallet.
+                               3.5.1       Liquids average 100 cases per pallet (25% of volume)
+                               3.5.2       Solids average 300 cases per pallet (75% of volume).
+                        3.6 100% of the inbound shipments received by truckload (TL) or less-than-truckload (LTL)
+                        3.7 100% of product is received with Advanced Ship Notice (ASN). There is 1 ASN per receipt.
+                        3.8 All products are bar coded.
+                        3.9 Pallet dimensions are 40" wide x 48" deep x 54" maximum height.
+                        3.10Visual inspection for over, short and external package damage only. Overages and shortages of DEA Controlled
+                             substances will be handled in accordance with 21CFR Part 1300.
+
+      4.         Inventory and Storage
+                  4.1 There are 550 SKUs.
+                            4.1.1         There are 15 C-II SKUs
+                            4.1.2         There are 20 C-III, C-IV and C-V SKUs.
+                     4.2 The storage capacity is
+                              4.2.1       Louisville 752 DEA C-III, C-IV and C-V controlled pallets; 5,013 non-controlled pallets
+                              4.2.2       Newark 76 DEA C-H controlled substance pallets.
+                  4.3 SCS will receive, warehouse and pick/pack pallets/cartons and manage inventory down to the carton level.
+
+
+                                                                                 Page 7
+      Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                      Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                   Acqui red_Actavis_01545044
+                                                                                                                     TGOS_VA4_MDL_1 2246726
+
+
+
+
+                                                                                                                     Confidential & Proprietary
+
+       5.        Order Profile
+                  5.1 All orders will be picked at the full carton or full pallet level, there is no unit picking.
+                            5.1.1 Louisville. 82% of the cartons are picked at the full case level and 18% percent of the product is picked at the
+                             full pallet level.
+                            5.1.2 Newark: 100% of the cartons are picked at the full case level.
+                  5.2 100% of orders ship in the original vendor carton.
+                  5.3 The average order, line and case volume is
+                                5.3.1 Louisville
+
+                                                UOM           Year 1       Year 2       Year 3
+                                    Daily      Orders              278          305          336
+                                    Daily      Lines             1,405        1,546        1,700
+                                    Daily      Cartons          14,936       16,430       18,073
+                                    Monthly    Orders            5,828        6,411        7,052
+                                    Monthly    Lines            29,508       32,458       35,704
+                                    Monthly    Cartons         313,665      345,031      379,535
+                                    Annual     Orders           69,940       76,934       84,627
+                                    Annual     Lines           354,090      389,499      428,449
+                                    Annual     Cartons       3,763,979    4,140,377    4,554,414
+
+                                  There is an average of 5.1 lines and 54 cartons per order.
+
+                              5.3.2 Newark..
+
+                                                   UOM         Year 1        Year 2        Year 3
+                                    Daily          Orders            35           38            42
+                                    Daily          Lines             78            86           95
+                                    Daily          Cartons          871          958         1,054
+                                    Monthly        Orders           726          798           878
+                                    Monthly        Lines          1,642        1,807         1,987
+                                    Monthly        Cartons       18,285       20,114        22,125
+                                    Annual         Orders         8,707        9,578        10,535
+                                    Annual         Lines         19,709       21,680        23,848
+                                    Annual         Cartons      219,421      241,363       265,499
+
+                                  There is an average of 2.3 lines and 25 cartons per order.
+
+                 5.4 Special labeling is not required.
+                 5.5 The labor associated with creating outbound ASN's, cartonization and associated labels to support trading partner
+                     requirements will be charged at the Ad Hoc labor rates.
+                 5.6 Shipping of C-II product will not occur when month end cage/vault inventories are being performed in Newark DC.
+                 5.7 Order Cut-off Times
+                        5.7.1     All orders received at the warehouse by 3:00 PM LWT and shipped as a small parcel will be shipped the same
+                                  business day, provided however, that 80% of daily orders shall be received by 2:00 PM LWT and 100% of daily
+                                  orders shall be received by 3:00 PM LWT
+                        5.7.2     All LTL and TL orders received at the warehouse by 4:00 PM LWT will be shipped by the end of the next
+                                  business day.
+
+
+
+      6.        Shipping Profile
+                 6.1 The orders will ship small parcel and TL/LTL
+
+
+                                                                              Page 8
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545045
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                     TGOS_VA4_M DL1 2246727
+
+
+
+
+                                                                                                                    Confidential & Proprietary
+
+                          6.1.1    Louisville 20% small parcel and 80% LTL or TL.
+                          6.1.2    Newark 100% of the C-II products will ship as a small parcel.
+                  6.2 The preferred small package carrier is UPS.
+                 6.3 SCS will select the transportation carrier only for shipments that Client does not identify the carrier.
+                 6.4 Multiple service levels may be used, if required by Client.
+                 6.5 All shipping documentation will be electronically generated.
+                 6.6 Client will provide product packaging and safeguards required for requested transportation method.
+                 6.7 Shipments are domestic U.S. including Puerto Rico.
+                 6.8 International Order pricing is not included but may be performed at Ad Hoc rates.
+                 6.9 Additional activities required to meet state Pedigree regulations will be invoiced at Accessorial Labor Rates. These
+                   activities include, but are not limited to, creating outbound ASNs, special package labeling, and manual data entry.
+
+
+       7.       Returns
+                 7.1 Returns are undeliverable shipments.
+                  7.2 Returned product will be held per SCS SOPS pending disposition instructions by Client.
+
+
+       8.       Customer Support.
+
+               8.1     Hours of operation are 9am - 5:30pm EST
+               8.2     100% of DEA non-C-II controlled substance product orders will arrive via EDI into the OMS system.
+               8.3     100% of DEA C-II controlled substance product orders to be entered manually into the OMS system
+               8.4     Approximately 2% of received EDI order lines will require manual intervention.
+               8.5     There will be approximately 1,000 ship-to locations.
+                8.6   SCS is listed as a Central Reporter with the DEA and will perform all necessary monthly or quarterly state and/or DEA
+                       ARCOS reporting regarding all transactions processed for each warehouse.
+               8.7     Samples distribution is not included.
+               8.8    Both the ship-to locations and the SKUs will be loaded systematically into the WMS system.
+               8.9    SCS will train twenty users on WMS inquiry.
+               8.10 SCS will perform licensure verification for all orders.
+               8.11 SCS and Client will mediate any orders that are in error in the system.
+               8.12 Standard Cognos reports will be provided.
+
+
+      9.        Information System
+               9.1    SCS will use an Order Management System (OMS) for order processing and a WMS to manage warehouse receiving,
+                      storage, picking, packing, shipping, and inventory.
+               9.2    Client does not require any customization to the system. Prior to any necessary customization, modification, or
+                      enhancement to the system, Client will approve in writing both the functional design change and cost of the change.
+               9.3    The WMS accommodates two warehouses for Client. Additional locations will incur appropriate implementation costs.
+               9.4    The Food & Drug Administration regulates Client products. The WMS is required to perform necessary lot/serial
+                      tracking.
+               9.5    One Client ID will be established for trade distribution. Inventory for all business units (PurePac, Amide, Alpharma and
+                      Branded/Label) will be maintained in one Client ID.
+
+                                                                         Page 9
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545046
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                    TGOS_VA4_M DL_1 2246728
+
+
+
+
+                                                                                                                    Confidential & Proprietary
+
+                9.6    The inventory parts master will begin with approximately 550 SKUs. Client does not re-utilize stock numbers.
+                9.7    The inventory parts master will be loaded automatically using the SCS standard Excel spreadsheet format. Client will
+                       provide a clean inventory parts master file. Additions to the inventory parts master will be performed manually.
+                       Extensive changes or additions to the inventory parts master may be communicated electronically at an additional cost.
+                9.8    Inventory rotation strategy is First Expire, First Out (FEFO)
+                9.9    Lot tracking is required.
+                9.10 The SCS WMS will be the inventory of record. SCS will transmit inventory balances and provide an inventory report by
+                     SKU to Client on a daily basis.
+                9.11 Product received from Client suppliers or manufacturing facilities will be bar-coded and clearly marked with the Client
+                     part number. Client will provide copies of labels prior to implementation.
+                9.12 A customer master will be maintained for customer licensure verification.
+                9.13 The customer master consists of approximately 1000 records and will be loaded automatically using the SCS standard
+                     Excel spreadsheet format. Client will provide a clean customer master file. Additions to the customer master will be
+                     performed manually. Extensive changes or additions to the customer master may be conamunicated electronically at an
+                     additional cost.
+                9.14 Each ship-to location may have more than one customer / account number for Client which is unique to each Client
+                     business unit. Therefore, one ship-to location may be established up to four times in the customer master for the same
+                     address.
+                9.15 The Client customer number sequence will be used and is within the OMS parameters. Client will pass the customer
+                     number for all electronic orders.
+               9.16 Client will provide electronic EDI Advanced Ship Notifications (ASN) for all orders shipped to the warehouse prior to
+                    receipt of goods and will include SKU level detail.
+               9.17 Client does require inbound auditing for damage, shipment overage, and shipment shortage. Discrepant or damaged
+                    items will be placed on a "hold" status until Client provides further disposition instructions.
+               9.18 Client may require some product to be received into quarantine upon receipt. Auto disposition functionality may be
+                    utilized. However, the auto disposition can not be set in the system by the inbound ASN and the disposition status must
+                    be set by warehouse operations prior to receipt of goods for a particular SKU or SKU/lot combination.
+               9.19 Cycle counts will be executed based on WI requirements.
+               9.20 The following standard electronic transactions are included in pricing between Client' host system and SCS. Additional
+                    or customized transactions will incur appropriate costs.
+                       Client to SCS
+                       ASN
+                       Sales Order
+                       Inventory Adjustment
+                       SCS to Client
+                      Inventory Snapshot
+                      Receiving Advice
+                      Warehouse Shipping Confirmation
+                      Warehouse Inventory Adjustment
+
+
+               9.21 Electronic interfaces to and from SCS will originate and terminate with a single Client host system.
+               9.22    Data will be exchanged with Client' host system via EDI X.12 format via AS2.
+               9.23    Client will utilize SCS file formats for transactions to/from the OMS. Six (6) total weeks of unit, integration testing and
+                      acceptance testing (2 weeks a piece) is included in pricing.
+                                                                         Page 10
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545047
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                    TGOS_VA4_MDL_12246729
+
+
+
+
+                                                                                                                    Confidential & Proprietary
+
+                9.24    Client will provide test plan and test script.
+                9.25 A separate test environment is not included in pricing. If a separate test environment is required, additional hardware and
+                     labor costs for configuration and maintenance for a separate test environment will be incurred
+                9.26 Trading Partner integration is included for the outbound Advance Shipment Notification (ASN) 856 for the following
+                     customers
+                       McKesson                Walgreen                            Kinray                              Capital Wholesale
+                       Cardinal                Wal-mart                            Dik Drug                            Target
+                       Amerisource             Morris Dickson                      Rite Aid                           K-mart.
+
+                9.27 SCS will pass all ASN's directly to the trading partner via the Value Added Network (VAN) with the exception of
+                     Walmart. Walmart's ASN's will be passed to Client to send to the customer. Walmart does not integrate with 3PL's.
+                9.28 Client is responsible for their VAN charges.
+                9.29 Client Trade Relations Manager will provide contact information and ASN specifications for partners not currently
+                     serviced by SCS.
+                9.30 Trading partners that do not respond to test requests in a timely manner will be escalated to the Client Trade Relations
+                     Manager for resolution. Trading partners that are not certified may fine Client for non-compliance. Client is responsible
+                     for any fines the trading partner's impose..
+                9.31 No other customer / trading partner is included. Additional partners or transaction sets will incur additional costs.
+                9.32 All orders will be received electronically from Client host system with the exception of CII controlled substance orders.
+                9.33 CII orders will have the narcotic blanks mailed to the distribution center for manual entry. Electronic CII order
+                     processing is not included.
+                9.34 Standard order validation rules will apply. Orders that do not pass validation criteria will go on hold until resolved.
+                9.35 Part number substitutions/alternative parts will be managed by Client.
+                9.36 The lot number will be automatically assigned by the WMS in most cases. Client may pass the lot and hold status to
+                     override the normal FEFO rotation for some orders based on customer requests.
+               9.37 Co-mingling of like SKU's is permitted in outbound shipments. Since Client has a diverse SKU profile, Client will pass
+                    controlled substances on separate orders from non-controlled items.
+               9.38 Order cancellations are handled manually.
+               9.39 All orders will use the SCS carrier codes.
+               9.40 Packing instructions may be entered on the sales order and will print on the packing list.
+               9.41 Order consolidation is not included.
+               9.42 Client does not require SCS to perform product kitting.
+               9.43 Co-mingling of SKU's is permitted in outbound shipments.
+               9.44 A standard packing list with a black and white Client logo is included. The pack list does not vary by business unit.
+                    Customization of the packing list may incur additional costs.
+               9.45 The default outbound parcel carrier and service level is UPS ground only for shipments that Client does not identify the
+                    carrier and the service level
+               9.46 Removed .since it is covered in Shipping profile 6.3
+               9.47 100% of orders are domestic with a small amount of orders shipping to Puerto Rico.
+               9.48 The WMS interfaces with UPS Worldship and will auto-populate the customer name, address, carrier and service level to
+                    the shipping station. Bill of Lading or tracking numbers from other carriers will be manually entered by operations.
+               9.49 Bill of ladings for TL/LTL orders will be created using Express Works. Express Works is not integrated to the WMS.
+                    Client will provide necessary data to create Bill of Lading.
+
+                                                                         Page 11
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545048
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                     TGOS_VA4_MDL_12246730
+
+
+
+
+                                                                                                                     Confidential & Proprietary
+
+                9.50 Standard shipping labels is available for outbound shipments. Shipping label customization may incur additional costs.
+                9.51 The following trading partners require outer shipping carton retail labeling and are included in the scope: McKesson,
+                     Cardinal, Amerisource, Walgreens, Wal-mart, Target & K-Mart. New partners with outer carton retail label or custom
+                     label requirements will incur additional cost.
+                9.52 Client will provide the outer shipping carton retail label specifications for any partner not currently serviced by SCS.
+                9.53 Any partner that is serviced today by SCS will accept the current outer shipping carton retail compliance label format
+                     with no changes.
+                9.54 Client Trade Relations Manager will act as a liaison to the trading partner for label certification.
+                9.55 Client does not require SCS to place retail-compliant labels on products.
+                9.56 Standard COGNOS reports are available by email to Client within specified pricing. Report customization will incur
+                     additional costs.
+                9.57 Client does require return functionality. A standard return module is included.
+                9.58    Electronic / system driven E-Pedigree compliance is not included at this time. Additional costs will apply.
+                9.59 Accounts Receivable, Chargeback processing and invoicing is not included.
+               9.60 System OMS visibility is included for 20 Client named users. Training will be conducted by Client Services.
+               9.61 A Frame Relay Circuit will be used to access the OMS for visibility. The circuit will take 6 — 8 weeks to install.
+                    Expedited install will incur additional costs.
+               9.62 Invoicing of services to Client is manual and in U. S. dollars.
+               9.63 IT hardware such as workstations, printers, scanners, etc. is included in pricing.
+               IT Implementation
+               9.64 IT pricing is based on documented assumptions and is directional until a detailed scope of work is defined and agreed-
+                    upon by Client and SCS.
+               9.65 A detailed design meeting will be held upon award of business. Additional requirements identified may impact cost and
+                    timeline for delivery of IT components. Client will provide written approval for any changes in scope that impact cost
+                    and timeline as discovered at detail design.
+               9.66 Systems will be operational within approximately 16 weeks of validated business requirements; estimate is based on
+                    mutual resource coordination.
+               9.67 SCS and Client will agree upon final timeline for deliver of systems after the detailed design meeting and business
+                    requirements validation.
+
+
+
+
+                                                                         Page 12
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545049
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                                 TGOS_VA4_MDL_12246731
+
+
+
+
+                                                                                                                Confidential & Proprietary
+
+                                             EXHIBIT I) - TERMINATION FEES
+                             TO SERVICE SCHEDULE NO. 3 - WAREHOUSE DISTRIBUTION SERVICES
+
+
+
+            In accordance with section 2.2 of Service Schedule No.3, the Client is required to pay the following Termination Costs:
+
+
+
+                                 $853,602                  $727,082                     $596,436
+                     Feb-07                   Feb-08                      Feb-09
+                                 $844,061                  $715,023                     $584,619
+                    Mar-07                   Mar-08                      Mar-09
+                                 $838,553                  $702,964                     $572,328
+                    Apr-07                   Apr-08                       Apr-09
+                                 $826,494                  $690,906                    $560,036
+                   May-07                    May-08                      May-09
+                                                                  $
+                                 $814,435                  $678,846                    $547,745
+                     Jun-07                   Jun-08                      Jun-09
+                                 $802,376                  $666,787                    $535,453
+                     Jul-07                   Jul-08                      Jul-09
+                                 $790,317                  $654,728                    $523,162
+                    Aug-07                   Aug-08                      Aug-09
+                                 $778,258                  $642,669                    $510,870
+                    Sep-07                   Sep-08                      Sep-09
+                                 $766,200                  $631,477                    $498,579
+                    Oct-07                   Oct-08                       Oct-09
+                                 $754,354                  $620,527                    $486,287
+                   Nov-07                    Nov-08                      Nov-09
+                                 $745,263                  $612,412                    $327,896
+                    Dec-07                   Dec-08                      Dec-09
+                                 $736,172                  $604,298                    $169,506
+                     Jan-08                   Jan-09                      Jan-10
+
+
+
+
+                                                                      Page 13
+      Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                        Acqui red_Actavis_01545050
+                                 Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                          TGOS_VA4_MDL_1 2246732
+
+
+
+
+                                                                                                          Confidential & Proprietary
+
+                                               EXHIBIT E - PRODUCT LIST
+                             TO SERVICE SCHEDULE NO. 3 - WAREHOUSE DISTRIBUTION SERVICES
+
+                                                        DEA Controlled Substances C-II
+       Hydromorphone                       Meperidine                     Oxycodone and Oxycodone APAP        Morphine Sulfate
+       Mepergan Fortis
+                                              DEA Controlled Substances C-III, C-IV and C-V
+       Alprazolam and Alprazolam Er        Amphet Xr                    Apap Codeine                        Butab w/Aspir & Caff
+                                                                                                            Hydrocodone Bitart &
+       CarisoprodoUAspirin & Codeine       Clonazepam                       Guaifenesin                     Homa Methyl
+       Hydromet Syrup                      Hydroxyzine                      Lorazepam                       Oxazepam
+       Paregoric                           Pentazocine & Apap               Pentazocine & Naloxone          Phenobarbital
+       Phentermine                         Prometh Vc W/Cod                 Prometh W/Cod                   Temazepam
+       Midrin                              Fiorinal                         Soma compound with Codeine      Brontex
+       Hycodan                             Hycodan syrup
+                                               Prescription and non-Prescription Pharmaceuticals
+       A & D Ointment                      Acetasol He                      Acyclovir Susp                 Albuterol Sulf
+       Allergy Cr w/Zinc                   Amantadine                       Amigesic (Salsalate)           Apap Drops
+       Aveeno Hydro/Aloe                   Baci Zinc Oint                   Bellamine-S                    Beta Augment
+       Beta Dip                            Beta Val                         Betaxolol                      Buspirone
+       C.M.T.                              Carbamazepine                    Carbi/Levo                     Carisoprodol
+       Chlordiazepoxide w/Clidinium
+       Bromide                            Chlorzoxazone                     Cilostazol                      Clonidine
+       Clonidine Hcl                      Clotrim Beta Dip                  Clotrimazole                    Constulose
+       Cyclobenzaprine                    Cyproheptadine Syr                Dantrolene Sodium               Dbl Anti Oint
+       Dbl w/Pramoxine                    Desipramine Hcl                 _ Dexchlorpheniramine Maleate     Diaper Rash Ointment
+       Diclofenac Dr                      Diclofenac Er                     Diltiazem                       Diltiazem Er
+       Diltiazem Hcl                      Dipyridamole                      Enulose                         Etodolac
+       Feverall Supps                     Gabapentin                        Glyb/Met                        GlybiMetfrm
+       Glyburide (Micronized)             Guanfacine                        Halobetasol Ot                  Hctz
+       Hem He Supp                        Hydro                             Hydro Aloe                      Hydro Rx
+       Hydrochlorothz                     Hydroxyzine                     _ Hyoscyamine                     Ibpro Otc
+       Ibuprofen Otc                      Ibuprofen Rx                      Indapamide                      Isosorb. Mono
+       Lactulose                          Lovastatin                        Loxapine Succinate              Lubricating Jelly
+       Meclizine                          Meloxicam                         Metfonnin Er                  _ Methenamine Mandelate
+       Metoclopramide                     Micon Cr                          Micon Vag                       Miconazole Supp
+       Miconazole Vag Cr                  Minoxidil                         Mirtazapine                     Monistat Intimate Cr
+       Multi Vita-Bets w/Fluoride         Multi-Ret Folic                   M-Zole 3                        Naltrexone
+       Nifedipine                         Nystatin                          Nystatin Susp                   Nystn/Triam Acet
+       Orphenadrine Citrate               Paroxetine                        Permethrin                      Phenazopyridine
+       Phenytoin                          Pilocarpine                       Prenatal Formula                Prenatal Plus
+       Prenatal Rx New Formula            Prometh Vc Plain                  Prometh w/Dm                    Propylthiouracil
+       Quinaretic                         Ranitidine Pts                    Rifampin                        Sertraline Hcl
+       Sodium Fluoride                    Spironola                         Spironolac                      Spironolactone
+       Sulfatrim Ped                      Terbinafme                      _ Tizanidine                      Tolnaftate Cr
+       Tretinoin Cr                       Tri Vita Bets w/Fluoride          Triam Acet                      Trimethobenzamide
+       Trimipramine Maleate               Triple Anti Ms Oint               Triple Anti Oint                Triple w/Pram
+       Triple w/Pramoxine                 Ursodiol                          Vitacon Forte                   Vitaplex
+       Vitaplex Plus                      Zinc Oxide Ointment               Humibid DM                      Diprosone
+       Valisone                           Tussi                             Sinemet                         Soma compound
+       Soma                               Trilisate                         Klonopin                        Lotrisone
+       Gyne-Lotrimin                      Cardura                           Aquatab                         Hydrodiunik
+
+                                                                     Page 14
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545051
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                           TGOS_VA4_MDL_12246733
+
+
+
+
+                                                                                           Confidential & Proprietary
+
+        Cortaid                            Cephulac                     Ativan               New Entex LA
+        Talacen                            Zanaflex                     KenaIog              Yocon
+        Infants Tylenol drops
+
+
+
+
+                                                              Page 15
+       Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                         Acquired_Actavis_01545052
+                                  Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+                                                                                                              TG0S_VA4_MDL_12246734
+
+
+
+
+                                                                                                              Confidential & Proprietary
+
+
+                                       EXHIBIT F - KEY PERFORMANCE INDICATORS
+                             TO SERVICE SCHEDULE NO. 3 - WAREHOUSE DISTRIBUTION SERVICES
+
+
+
+        I. A Risk/Reward Program including KPIs will be mutually agreed upon by both Parties after the first 90 days.
+
+
+
+
+                                                                    Page 16
+      Actavis, Inc. 11-06-2006
+
+
+
+Highly Confidential                                                                        Acq u i red_Actavis_01545053
+                                 Source: https://www.industrydocuments.ucsf.edu/docs/zrvf0370
+

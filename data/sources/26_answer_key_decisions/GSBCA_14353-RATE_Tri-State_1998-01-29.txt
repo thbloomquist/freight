@@ -1,0 +1,140 @@
+ 
+                     
+ 
+                     
+ 
+ 
+                     ______________________________
+ 
+                            January 29, 1998
+                     ______________________________
+ 
+ 
+                            GSBCA 14353-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D. Norcom,  Auditor,  Tri-State Motor  Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey J.  Thurston,  Director,  Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+ 
+        Col.  James F.  Quinn,  Staff Judge  Advocate, Headquarters,
+   Military  Traffic Management  Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   DeGRAFF, Board Judge.
+ 
+        There  are  nineteen  government   bills  of  lading  (GBLs)
+   involved in  this claim,  all of which  were issued  to Tri-State
+   Motor Transit Co. (Tri-State)  in 1993.   We dismiss the part  of
+   the  claim that  relates  to  one  of  the  GBLs  because  it  is
+   premature.   As for  the  remaining eighteen  GBLs, according  to
+   Military  Freight  Traffic  Rules Publication  1A  (MFTRP  1A) in
+   effect when  the shipments  were made,  Tri-State is  entitled to
+   collect excess value charges  because the declared values  of the
+   shipments  exceeded the default released values applicable to the
+   shipments. 
+ 
+        GSA's  Office of Transportation  Audits (OTA) has  not taken
+   any action  upon  one of  the GBLs  (D-1,121,885) that  Tri-State
+   included in its claim.  Because we are only authorized to  review
+   actions of  OTA, and  because OTA  has not yet  taken any  action
+   concerning this GBL, we dismiss  as premature the portion of Tri-
+   State's claim  that concerns  GBL D-1,121,885.   Tri-State  Motor
+   Transit Co., GSBCA 14352-RATE (Jan. 6, 1998).
+ 
+        The  remaining  eighteen  GBLs   are  numbered  G-2,538,168;
+   G-2,823,865; D-2,121,856; D-2,121,853;  D-2,121,881; D-2,121,886;
+   D-2,121,887; D-2,121,874; D-2,161,993;  D-2,121,884; G-2,644,349;
+   G-3,372,155; G-3,372,156; G-3,372,157;  G-3,372,158; G-3,372,159;
+   G-0,856,853;  and G-0,856,855.   Under  each of these  GBLs, Tri-
+   State transported  a vehicle for  the Department of Defense.   On
+   the face of each  GBL, the shipper declared  a released value  of
+   not to exceed $2.50 per pound.   Tri-State claims that it is  due
+   an  excess value charge for these shipments, because the declared
+   value of each shipment ($2.50  per pound multiplied by the weight
+   of the  vehicle shipped)  exceeded the  $20,000 default  released
+   value set out  in MFTRP 1A.   OTA denied the claim  and Tri-State
+   asks for our review of OTA's decision.
+ 
+ 
+        As  OTA recognizes, the  General Accounting Office  and this
+   Board have considered  released value claims  similar to the  one
+   presented here  and have  resolved those claims  in favor  of the
+   carriers.  Tri-State Motor Transit Co., GSBCA 14352-RATE (Jan. 6,
+   1998);  Tri-State Motor Transit  Co., GSBCA 14245-RATE  (Nov. 26,
+   1997);  Tri-State Motor Transit  Co., GSBCA 13735-RATE  (Nov. 18,
+   1997);  Tri-State Motor Transit  Co., GSBCA 14251-RATE  (Nov. 13,
+   1997); Tri-State  Motor Transit  Co., GSBCA  14243-RATE (Nov.  4,
+   1997);  McGil Specialized  Carriers,  GSBCA 14127-RATE,  97-2 BCA
+     29,295; Tri-State Motor Transit Co., GSBCA 13839-RATE, 97-1 BCA
+     28,953; Tri-State Motor Transit Co., B-254378, et al. (Feb. 16,
+   1994), aff'd on reconsideration (July  5, 1995).  As we explained
+   in our decisions, MFTRP 1A provides that a carrier is entitled to
+   collect an excess value charge  if a shipper declares a  value in
+   excess of the default  released value of $20,000 per vehicle.  We
+   concluded that when a shipper states on a GBL that a shipment has
+   a value not exceeding $2.50 per pound, the shipper has declared a
+   value equal to  $2.50 per pound  multiplied by the weight  of the
+   shipment.
+ 
+        OTA says  that  it  denied  the present  claim  because  the
+   decisions cited above   are restricted by a  limited presentation
+   of facts relative  to each case,  and consequently, have  limited
+   application.    We  agree with  OTA  that each  claim presents  a
+   unique set of  facts.  Factual differences between  one claim and
+   another  are  legally   significant,  however,   only  if   those
+   differences lead to two different  results when we apply the same
+   legal  principles to the  two claims.  OTA  does not suggest that
+   there is  any legally  significant difference  between the  facts
+   presented in this  claim and the facts presented  in the released
+   value claims that  we and GAO considered previously.  OTA has not
+   given us  any reason  to reach  a result  in this  claim that  is
+   different from the results we reached in prior claims.  
+ 
+        The Military Traffic Management Command (MTMC)  asserts that
+   Tri-State s  claim should  be denied  because the amount  of each
+   claim is, in MTMC s  view, de minimis.   We are not aware  of any
+   statute, regulation, or other rule of law that permits us to deny
+   a  claim based  upon its  amount.   Tri-State Motor  Transit Co.,
+   GSBCA 14352-RATE (Jan. 6, 1998).  
+ 
+        MTMC  notes  that the  vehicle  weight  stated on  two  GBLs
+   (D-1,121,884 and D-1,121,886) is 41,800 pounds per  vehicle.  The
+   Ordnance Materiel  Handbook issued by the Department  of the Army
+   states that  a vehicle of  the type shipped under  these two GBLs
+   weighs  only 38,800  pounds.   Based upon  this difference,  MTMC
+   concludes that the  vehicles shipped weighed only  38,800 pounds.
+   We do  not agree  with MTMC s conclusion  because there  could be
+   differences between the typical vehicle described in the handbook
+   and the vehicles  actually shipped under the GBLs.   For example,
+   if  the weight stated in the handbook is for an unloaded vehicle,
+   perhaps the vehicles shipped were partially loaded.  Also, if the
+   weight stated in  the handbook is for  a vehicle with a  dry fuel
+   tank, perhaps the vehicles shipped contained fuel in their tanks.
+   Although there is  a difference between the weight  listed on the
+   GBLs and the weight listed in the handbook, the GBLs describe the
+   actual vehicles being shipped.   The GBLs, therefore, and not the
+   handbook,  provide the better basis for determining the weight of
+   the vehicles shipped.  
+ 
+ 
+        Finally,  MTMC  states  that we  cannot  resolve  this claim
+   without  examining  the  tenders  applicable  to  each  GBL.   We
+   disagree.   MFTRP 1A provides  that the $20,000  default released
+   value applicable to  vehicles takes precedence over  all released
+   values inserted by carriers in their tenders.  We agree with Tri-
+   State  that  the  released  values  stated  in  its  tenders  are
+   irrelevant to resolving this claim.
+ 
+        Tri-State s  claim  is  granted  as  to  eighteen  GBLs  and
+   dismissed as to one GBL, as explained above.
+   _______________________________
+ 
+                                      MARTHA H. DeGRAFF
+                                      Board Judge

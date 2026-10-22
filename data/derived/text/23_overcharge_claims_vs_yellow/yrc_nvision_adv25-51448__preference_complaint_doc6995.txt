@@ -1,0 +1,807 @@
+                Case 23-11069-CTG            Doc 6995        Filed 07/31/25      Page 1 of 16
+
+
+
+
+                         IN THE UNITED STATES BANKRUPTCY COURT
+                              FOR THE DISTRICT OF DELAWARE
+
+In re:
+                                                             Chapter 11
+YELLOW CORPORATION, et al.,
+                                                             Case No. 23-11069 (CTG)
+                                                         1
+                                              Debtors.
+                                                             (Jointly Administered)
+
+
+YRC Inc.,
+                                            Plaintiff,
+vs.
+                                                             Adv. No. Refer to Summons
+nVision Global Technology Solutions, Inc.,
+                                  Defendant.
+
+    COMPLAINT TO AVOID AND RECOVER TRANSFERS PURSUANT TO 11 U.S.C. §§
+     547, 548, AND 550 AND TO DISALLOW CLAIMS PURSUANT TO 11 U.S.C. § 502
+
+          YRC Inc. (the “Plaintiff” or “Debtor”), one of the debtors and debtors in possession
+
+(collectively, the “Debtors”) in the above-captioned chapter 11 cases, by and through its
+
+undersigned counsel, files this complaint (the “Complaint”) to avoid and recover transfers against
+
+nVision Global Technology Solutions, Inc. (the “Defendant”) and to disallow any claims held by
+
+Defendant. In support of this Complaint, Plaintiff alleges upon information and belief that:
+
+                                         NATURE OF THE CASE
+
+          1.     Plaintiff seeks to avoid and recover from Defendant, or from any other person or
+
+entity for whose benefit the transfers were made, all (a) preferential transfers of property of the
+
+Debtors that occurred during the ninety (90) day period prior to the commencement of the
+
+
+
+
+1
+      A complete list of each of the Debtors in these Chapter 11 Cases may be obtained on the website of the
+      Debtors’ claims and noticing agent at https://dm.epiq11.com/YellowCorporation. The location of the
+      Debtors’ principal place of business and the Debtors’ service address in these Chapter 11 Cases is: 11500
+      Outlook Street, Suite 400, Overland Park, Kansas 66211.
+
+                                                         1
+             Case 23-11069-CTG          Doc 6995      Filed 07/31/25      Page 2 of 16
+
+
+
+
+bankruptcy proceedings of the Debtors pursuant to sections 547 and 550 of chapter 5 of title 11 of
+
+the United States Code (the “Bankruptcy Code”) and, subject to proof, (b) transfers that may have
+
+been fraudulent conveyances pursuant to sections 548 and 550 of the Bankruptcy Code.
+
+       2.      In addition, Plaintiff seeks to disallow, pursuant to sections 502(d) and (j) of the
+
+Bankruptcy Code, any claim that Defendant has filed or asserted against the Debtors or that has
+
+been scheduled for Defendant. Plaintiff does not waive but hereby reserves all of its rights and
+
+the rights of all of the Debtors to object to any such claim for any reason, including, but not limited
+
+to, any reason set forth in sections 502(a) through (j) of the Bankruptcy Code.
+
+                                 JURISDICTION AND VENUE
+
+       3.      The district court has jurisdiction over this adversary proceeding pursuant to 28
+
+U.S.C. § 1334, which was referred to this Court under 28 U.S.C. § 157 pursuant to the Amended
+
+Standing Order of Reference from the United States District Court for the District of Delaware,
+
+dated February 29, 2012.The underlying chapter 11 bankruptcy cases are captioned In re: Yellow
+
+Corporation, et al., Case No. 23-11069 (CTG).
+
+       4.      This adversary proceeding is a “core” proceeding to be heard and determined by
+
+the Court pursuant to 28 U.S.C. § 157(b)(2), and the Court may enter final orders for matters
+
+contained herein.
+
+       5.      Venue is proper in the District of Delaware pursuant to 28 U.S.C. § 1409(a).
+
+       6.      The statutory and legal predicates for the relief sought herein are sections 502, 547,
+
+548, and 550 of the Bankruptcy Code and Rules 3007 and 7001 of the Federal Rules of Bankruptcy
+
+Procedure (the “Bankruptcy Rules”).
+
+       7.      Pursuant to Local Bankruptcy Rule 7008-1, Plaintiff states that it does consent to
+
+the entry of final orders or judgments by the Court if it is determined that the Court, absent consent
+
+
+
+                                                  2
+                Case 23-11069-CTG        Doc 6995      Filed 07/31/25     Page 3 of 16
+
+
+
+
+of the parties, cannot enter final orders or judgments consistent with Article III of the United States
+
+Constitution.
+
+                                 PROCEDURAL BACKGROUND
+
+          8.      On August 6, 2023 and continuing on August 7, 2023 (together, the “Petition
+
+Date”), the Debtors filed voluntary petitions for relief under chapter 11 of the Bankruptcy Code.
+
+These chapter 11 cases (the “Chapter 11 Cases”) have been consolidated for procedural purposes
+
+only and are being jointly administered pursuant to Bankruptcy Rule 1015(b).2
+
+          9.      The Debtors continue to operate their businesses and manage their properties as
+
+debtors and debtors-in-possession pursuant to Bankruptcy Code sections 1107(a) and 1108. No
+
+request has been made for the appointment of a trustee or an examiner.
+
+          10.     On August 16, 2023, the Office of the United States Trustee for Region 3 (the “U.S.
+
+Trustee”) appointed an official committee of unsecured creditors pursuant to section 1102 of the
+
+Bankruptcy Code (the “Committee”).3 An amended notice of appointment was filed on May 20,
+
+2024.4 A second amended notice of appointment was filed on February 5, 2025.5
+
+                                            THE PARTIES
+
+          11.     As more fully discussed in the Third Amended Disclosure Statement for Third
+
+Amended Joint Chapter 11 Plan of Yellow Corporation and Its Debtor Affiliates Pursuant to
+
+Chapter 11 of the Bankruptcy Code Proposed By The Debtors and the Official Committee of
+
+Unsecured Creditors (the “Disclosure Statement”),6 the Debtors were a leading trucking and
+
+
+2
+    Docket No. 169.
+3
+    Docket No. 269.
+4
+    Docket No. 3430.
+5
+    Docket No. 5615.
+6
+    Docket No. 5996.
+                                                   3
+               Case 23-11069-CTG         Doc 6995      Filed 07/31/25   Page 4 of 16
+
+
+
+
+logistics company, boasting one of the largest LTL networks in North America that enabled the
+
+Debtors to provide customers with regional, national, and international shipping services of
+
+transportation logistics and LTL services. Entering 2023, the Debtors were the largest unionized
+
+LTL carrier in the United States, in addition to being the third largest LTL freight carrier and the
+
+fifth largest transportation company in North America. As of July 27, 2023, the Debtors employed
+
+nearly 30,000 people. The Debtors operated service terminals in 300 communities, with employees
+
+in all fifty states.
+
+        12.      Pursuant to Bankruptcy Code sections 547, 548, 550, 704(a), 1106, and 1107,
+
+ Plaintiff is authorized and has standing to investigate, pursue, commence, prosecute, compromise,
+
+ settle, or otherwise resolve certain causes of action under chapter 5 of the Bankruptcy Code,
+
+ including the instant avoidance action.
+
+        13.      Upon information and belief, Defendant was, at all relevant times, a vendor or
+
+creditor that was a freight audit and payment company to or for the Debtors. Upon further
+
+information and belief, at all relevant times, Defendant’s principal place of business is located at
+
+1900 Brannan Road Suite 300, McDonough, Georgia 30253-4310. Plaintiff is informed and
+
+believes and on that basis alleges that Defendant is a corporation residing in and subject to the
+
+laws of the State of Georgia.
+
+                                   FACTUAL BACKGROUND
+
+        14.      Prior to the Petition Date, the Debtors, as a trucking and logistics company,
+
+maintained business relationships with various business entities, through which the Debtors
+
+regularly purchased, sold, received, and/or delivered goods and services. The Debtors also
+
+regularly paid for services used to facilitate its business.
+
+
+
+
+                                                   4
+                 Case 23-11069-CTG           Doc 6995        Filed 07/31/25         Page 5 of 16
+
+
+
+
+           15.    The Debtors’ financial difficulties that led to the decision to file the voluntary
+
+petitions are attributable to a combination of factors, all of which placed significant stress on the
+
+Debtors’ liquidity position in the months leading up to the Petition Date. A summary of the
+
+Debtors’ prepetition operations, debt structure, and factors that led to the Bankruptcy Case are set
+
+forth in Article 5.C through 6.F of the Disclosure Statement and are incorporated herein by
+
+reference.
+
+           16.    As described in Article 3.E of the Disclosure Statement and Section 3.A of the
+
+Third Amended Joint Chapter 11 Plan of Yellow Corporation and Its Debtor Affiliates Pursuant
+
+to Chapter 11 of the Bankruptcy Code Proposed By The Debtors and the Official Committee of
+
+Unsecured Creditors (the “Plan”),7 General Unsecured Claims compromise an impaired class of
+
+creditors and are not expected to be paid in full.
+
+           17.    As of the Petition Date, the Debtors utilized two separate cash management systems
+
+(the “USA Cash Management System” and the “Canada Cash Management System,” collectively,
+
+the “Cash Management Systems”), and used these Cash Management Systems to collect, transfer,
+
+and disburse funds and to facilitate cash monitoring, forecasting, and reporting .8 As of the Petition
+
+Date, the Cash Management Systems consisted of 59 bank accounts (the “Bank Accounts”)
+
+maintained at several financial institutions including JPMorgan Chase Bank, N.A. (“JPMorgan”),
+
+Citizens Bank, and Bank of Nova Scotia (“BNS”).
+
+           18.    Among these Bank Accounts, disbursements to the Debtors’ vendors were made
+
+from the following accounts: accounts ending 0830, 4201, and 4599 held at JPMorgan by Yellow
+
+
+
+7
+    D.I. 5995.
+8
+  See Motion of Debtors for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Continue to Operate
+Their Cash Management System, (B) Honor Certain Prepetition Obligations Related Thereto, (C) Maintain Existing
+Business Forms, and (D) Perform Intercompany Transactions and (II) Granting Related Relief, incorporated here by
+reference (the “Cash Management Motion”) [D.I. 10].
+
+                                                         5
+             Case 23-11069-CTG          Doc 6995      Filed 07/31/25      Page 6 of 16
+
+
+
+
+Corporation and accounts ending 5117 and 5214 held at BNS by Yellow Corporation; account
+
+ending 4250 held at JPMorgan by YRC Inc.; and accounts ending 4510, 3512, and 8114 held at
+
+BNS by YRC Freight Canada Company. Yellow Corporation also made disbursements via credit
+
+cards maintained with Citizens Bank (such credit card payments, collectively with the Bank
+
+Accounts from which disbursements were made, the “Disbursement Accounts”). [See D.I. 10].
+
+       19.     The Debtors drew upon the Disbursement Accounts to pay for its operational costs,
+
+including payment to its vendors, suppliers, distributors, and other creditors, including Defendant.
+
+       20.     During the ninety (90) days before the Petition Date, that is between May 8, 2023
+
+and August 6, 2023 (the “Preference Period”), the Debtors continued to operate their business
+
+affairs, including the transfer of property, either by checks, cashier checks, wire transfers, ACH
+
+transfers, direct deposits, credit card payment, or otherwise to various entities.
+
+       21.     Upon information and belief, during the course of their relationship, Plaintiff and
+
+Defendant entered into agreements, which are evidenced by invoices, communications and other
+
+documents (collectively, the “Agreements”). The Agreements concerned and related to the goods
+
+and/or services provided by Defendant to Plaintiff as described in the “Parties” section of this
+
+Complaint. The payments to the Defendant in respect of the Agreements during the Preference
+
+Period are set forth on the Statement of Account, which is attached hereto and incorporated by
+
+reference as Exhibit A. Such details include “Invoice Number,” “Invoice Date,” and “Invoice
+
+Amount.”
+
+       22.     Plaintiff made transfer(s) of an interest of Plaintiff’s property to or for the benefit
+
+of Defendant during the Preference Period through payments aggregating to an amount not less
+
+than $61,944.55 (the “Transfer” or “Transfers”). The details of each Transfer are set forth on
+
+
+
+
+                                                  6
+             Case 23-11069-CTG          Doc 6995      Filed 07/31/25       Page 7 of 16
+
+
+
+
+Exhibit A attached hereto and incorporated by reference. Such details include “Transfer Number,”
+
+“Transfer Amount,” “Transfer Clear Date,” and “Debtor Transferor(s).”
+
+       23.     Plaintiff is seeking to avoid all of the transfers of an interest of Plaintiff’s property
+
+made by Plaintiff to Defendant within the Preference Period.
+
+       24.     On or about June 24, 2025, Plaintiff, through counsel, sent one or more demand
+
+letters (collectively, the “Demand Letter”) to Defendant, seeking a return of the Transfer(s). The
+
+Demand Letter indicated the potential statutory defenses available to Defendant pursuant to section
+
+547(c) of the Bankruptcy Code and requested that if Defendant had evidence to support any
+
+affirmative defenses, it provide this evidence so Plaintiff could review the same.
+
+       25.     Plaintiff also performed Plaintiff’s own due diligence evaluation of the reasonably
+
+knowable affirmative defenses available to Defendant. As part of Plaintiff’s due diligence, Plaintiff
+
+reviewed the books and records in Plaintiff’s possession and identified that Defendant potentially
+
+has $ .00 in invoices qualifying for the subsequent new value defense under section 547(c)(4) of
+
+the Bankruptcy Code. However, the subsequent new value defense is an affirmative defense for
+
+which Defendant bears the burden of proof under section 547(g). The potential new value is based
+
+on the invoice date in the books and records. As the dates for new value are often based on the
+
+shipping dates for goods and the actual dates of service for services, this new value is subject to
+
+adjustment. Additionally, section 547(c)(4)(B) provides that any potential new value must not be
+
+paid for by “an otherwise unavoidable transfer.” To the extent that i) there are any prepayments in
+
+the Preference Period paying such new value that are not subject to avoidance by Plaintiff, or ii)
+
+Defendant successfully asserts affirmative defenses, including but not limited to the ordinary
+
+course of business defense or the contemporaneous exchange for new value defense, certain
+
+invoices may no longer be available for new value and the new value amount may be subject to
+
+
+
+                                                  7
+             Case 23-11069-CTG           Doc 6995      Filed 07/31/25      Page 8 of 16
+
+
+
+
+reduction.
+
+       26.      Additionally, Plaintiff reviewed the books and records in Plaintiff’s possession to
+
+examine whether historical payment records exist that may be used to analyze whether, and to
+
+what extent, Defendant may be able to assert the subjective ordinary course of business affirmative
+
+defense. However, the subjective ordinary course of business defense is an inherently factual
+
+endeavor, and payment history is only one factor. The presence of collection pressure, tightening
+
+of credit terms, a creditor’s loss of credit insurance, and threats to stop shipments without payment,
+
+can make even statistically ordinary payments unordinary. Certain information related to these
+
+factors may only be in Defendant’s possession, which Plaintiff is entitled request during discovery.
+
+Accordingly, Plaintiff puts Defendant to its burden of proof to establish it is entitled to the ordinary
+
+course of business affirmative defense.
+
+       27.     Based upon Plaintiff’s review of the information, if any, provided by Defendant
+
+prior to filing this Complaint, and after performing Plaintiff’s own due diligence evaluation of the
+
+reasonably knowable affirmative defenses to avoidance of the Transfer(s), Plaintiff has determined
+
+that Plaintiff may avoid some or all of the Transfers even after taking into account Defendant’s
+
+alleged affirmative defenses.
+
+       28.     During the course of this proceeding, Plaintiff may learn (through discovery or
+
+otherwise) of additional transfers made to Defendant during the Preference Period. It is Plaintiff’s
+
+intention to avoid and recover all transfers made by the Debtors of an interest of the Debtors in
+
+property and to or for the benefit of Defendant or any other transferee. Plaintiff reserves its right
+
+to amend this original Complaint to include: (i) further information regarding the Transfer(s), (ii)
+
+additional transfers, (iii) modifications of and/or revision to Defendant’s name, (iv) additional
+
+defendants, and/or (v) additional causes of action, if applicable (collectively, the “Amendments”),
+
+
+
+                                                   8
+             Case 23-11069-CTG          Doc 6995       Filed 07/31/25       Page 9 of 16
+
+
+
+
+that may become known to Plaintiff at any time during this adversary proceeding, through formal
+
+discovery or otherwise, and for the Amendments to relate back to this original Complaint.
+
+                                         CLAIMS FOR RELIEF
+
+                                              COUNT I
+                     (Avoidance of Preference Period Transfers – 11 U.S.C. § 547)
+
+       29.     Plaintiff incorporates all preceding paragraphs as if fully re-alleged herein, to the
+
+extent they are not inconsistent with allegations contained in this First Claim for Relief.
+
+       30.     As more particularly described on Exhibit A attached hereto and incorporated
+
+herein, during the Preference Period, Plaintiff made Transfers to or for the benefit of Defendant in
+
+an aggregate amount not less than $61,944.55.
+
+       31.     Each Transfer was made from one or more of the Disbursement Accounts described
+
+supra, and constituted transfers of an interest in property of Plaintiff.
+
+       32.     Defendant was a creditor of Plaintiff at the time of each Transfer by virtue of
+
+supplying the goods and/or services identified in this Complaint and in the Agreements to Plaintiff,
+
+as more fully set forth on Exhibit A hereto, for which Plaintiff was obligated to pay following
+
+delivery in accordance with the Agreements. See Exhibit A.
+
+       33.     Each Transfer was to or for the benefit of a creditor within the meaning of section
+
+§ 547(b)(1) of the Bankruptcy Code because each Transfer either reduced or fully satisfied a debt
+
+or debts then owed by Plaintiff to Defendant.
+
+       34.     Each Transfer was made for, or on account of, an antecedent debt or debts owed by
+
+Plaintiff to Defendant before such Transfers were made, as asserted by Defendant and
+
+memorialized in the Agreements, each of which constituted a “debt” or “claim” (as those terms
+
+are defined in the Bankruptcy Code) of Defendant prior to being paid by Plaintiff as set forth on
+
+Exhibit A hereto.
+
+                                                   9
+                Case 23-11069-CTG       Doc 6995       Filed 07/31/25     Page 10 of 16
+
+
+
+
+          35.     Each Transfer was made while Plaintiff was insolvent. Plaintiff is entitled to the
+
+presumption of insolvency for each Transfer made during the Preference Period pursuant to section
+
+547(f) of the Bankruptcy Code.
+
+          36.     Each Transfer was made during the Preference Period, as set forth on Exhibit A.
+
+          37.     As a result of each Transfer, Defendant received more than Defendant would have
+
+received if: (i) Plaintiff’s case was under chapter 7 of the Bankruptcy Code; (ii) the Transfers had
+
+not been made; and (iii) Defendant received payments of its debts under the provisions of the
+
+Bankruptcy Code. As evidenced by the Debtors’ schedules filed in the underlying bankruptcy case
+
+as well as the proofs of claim that have been received to date, the Debtors’ and Plaintiff’s liabilities
+
+exceed their assets to the point that unsecured creditors will not receive a full payout of their claims
+
+from the Debtors’ bankruptcy estates.
+
+          38.     In accordance with the foregoing, each Transfer is avoidable pursuant to section
+
+547(b) of the Bankruptcy Code.
+
+                                              COUNT II
+                    (Avoidance of Fraudulent Conveyances – 11 U.S.C. § 548(a)(1)(B))
+
+          39.     Plaintiff hereby incorporates all previous allegations as though fully set forth
+
+herein, to the extent they are not inconsistent with allegations contained in this Second Claim for
+
+Relief.
+
+          40.     To the extent one or more of the Transfers identified on Exhibit A was not made
+
+on account of an antecedent debt, was a prepayment for goods and/or services subsequently
+
+received, or was incurred by another Debtor but paid for by Plaintiff without a corresponding
+
+intercompany receivable recorded by the Debtor incurring the debt, Plaintiff pleads in the
+
+alternative that the Debtor(s) making such transfer(s) did not receive reasonably equivalent value
+
+in exchange for such transfer(s) (the “Potentially Fraudulent Transfers”); and
+
+                                                  10
+              Case 23-11069-CTG        Doc 6995       Filed 07/31/25    Page 11 of 16
+
+
+
+
+        A.      The Debtors were insolvent as of the date of the Transfer(s), or became insolvent
+
+ as a result of the Transfer(s); or
+
+        B.      The Debtors were engaged, or about to engage, in business or a transaction for
+
+ which any property remaining with the Debtors was an unreasonably small capital; or
+
+        C.      The Debtors intended to incur, or believed they would incur, debts beyond their
+
+ ability to pay upon maturity.
+
+        41.     Based upon the foregoing, the Potentially Fraudulent Transfers are avoidable
+
+pursuant to section 548(a)(1)(B) of the Bankruptcy Code.
+
+
+                                          COUNT III
+                            (Recovery of Avoided Transfers – 11 U.S.C. § 550)
+
+        42.     Plaintiff incorporates all preceding paragraphs as if fully re-alleged herein, to the
+
+extent they are not inconsistent with allegations contained in this Third Claim for Relief.
+
+        43.     Plaintiff is entitled to avoid the Transfer(s) pursuant to section 547(b) of the
+
+Bankruptcy Code and any Potentially Fraudulent Transfers pursuant to section 548 of the
+
+Bankruptcy Code (collectively, the “Avoidable Transfers”).
+
+        44.      Defendant was the initial transferee of the Avoidable Transfer(s) or the immediate
+
+or mediate transferee of such initial transferee or the person for whose benefit the Avoidable
+
+Transfer(s) were made.
+
+        45.     Pursuant to section 550(a) of the Bankruptcy Code, Plaintiff is entitled to recover
+
+from Defendant the Avoidable Transfer(s), plus interest thereon to the date of payment and the
+
+costs of this action.
+
+
+
+
+                                                 11
+             Case 23-11069-CTG        Doc 6995       Filed 07/31/25    Page 12 of 16
+
+
+
+
+                                             COUNT IV
+                       (Disallowance of all Claims – 11 U.S.C. § 502(d) and (j))
+
+       46.     Plaintiff incorporates all preceding paragraphs as if fully re-alleged herein, to the
+
+extent they are not inconsistent with allegations contained in this Fourth Claim for Relief.
+
+       47.     Defendant is a transferee of transfers avoidable under sections 547 and/or 548 of
+
+the Bankruptcy Code, which property is recoverable under section 550 of the Bankruptcy Code.
+
+       48.     Defendant has not paid the amount of the Avoidable Transfer(s), or turned over
+
+such property, for which Defendant is liable under section 550 of the Bankruptcy Code.
+
+       49.     Pursuant to section 502(d) of the Bankruptcy Code, any and all Claims of
+
+Defendant and/or its assignee, against the Debtors’ chapter 11 estates or Plaintiff must be
+
+disallowed until such time as Defendant pays to Plaintiff an amount equal to the aggregate amount
+
+of the Avoidable Transfer(s), plus interest thereon and costs.
+
+       50.     Pursuant to section 502(j) of the Bankruptcy Code, any and all Claims of
+
+Defendant, and/or its assignee, against the Debtors’ chapter 11 estates or Plaintiff previously
+
+allowed by the Debtors or by Plaintiff, must be reconsidered and disallowed until such time as
+
+Defendant pays to Plaintiff an amount equal to the aggregate amount of the Avoidable Transfer(s).
+
+                                    PRAYER FOR RELIEF
+
+       WHEREFORE, Plaintiff requests that this Court grant the following relief against
+
+Defendant:
+
+       A.      On Plaintiff’s First, Second, and Third Claims for Relief, judgment in favor of
+
+Plaintiff and against Defendant, avoiding all of the Avoidable Transfers and directing Defendant
+
+to return to Plaintiff the amount of the Avoidable Transfers pursuant to sections 547(b), 548, and
+
+550(a) of the Bankruptcy Code, plus interest from the date of demand at the maximum legal rate
+
+
+
+
+                                                12
+               Case 23-11069-CTG       Doc 6995        Filed 07/31/25   Page 13 of 16
+
+
+
+
+and to the fullest extent allowed by applicable law, together with the costs and expenses of this
+
+action including, without limitation, attorneys’ fees;
+
+          B.     On Plaintiff’s Fourth Claim for Relief, judgment in favor of Plaintiff and against
+
+Defendant disallowing any claims held or filed by Defendant against the Debtors until Defendant
+
+returns the Avoidable Transfers to Plaintiff pursuant to sections 502(d) and (j) of the Bankruptcy
+
+Code; and
+
+          C.     Granting Plaintiff such other and further relief as this Court may deem just and
+
+proper.
+
+
+Dated: July 31, 2025
+                                          /s/ Peter J. Keane_______________
+                                          Laura Davis Jones (DE Bar No. 2436)
+                                          Timothy P. Cairns (DE Bar No. 4228)
+                                          Peter J. Keane (DE Bar No. 5503)
+                                          Edward Corma (DE Bar No. 6718)
+                                          PACHULSKI STANG ZIEHL & JONES LLP
+                                          919 North Market Street, 17th Floor
+                                          P.O. Box 8705
+                                          Wilmington, Delaware 19801
+                                          Telephone: (302) 652-4100
+                                          Facsimile: (302) 652-4400
+                                          Email: ljones@pszjlaw.com
+                                          tcairns@pszjlaw.com
+                                          pkeane@pszjlaw.com
+                                          ecorma@pszjlaw.com
+
+                                          -and-
+
+                                          Joseph L. Steinfeld, Jr., Esq. MN SBN 0266292
+                                          Gary Underdahl, Esq. MN SBN 0301693
+                                          ASK LLP
+                                          2600 Eagan Woods Drive, Suite 400
+                                          St. Paul, MN 55121
+                                          Telephone: 651-289-3857
+                                          Fax: (651) 406-9676
+                                          Email: gunderdahl@askllp.com
+
+                                          -and-
+
+                                                  13
+Case 23-11069-CTG   Doc 6995     Filed 07/31/25       Page 14 of 16
+
+
+
+
+                      Edward E. Neiger, Esq.
+                      60 East 42nd Street, 46th Fl.
+                      New York, NY 10165
+                      Telephone: (212) 267-7342
+                      Fax: (212) 918-3427
+
+                      Counsel for Plaintiff
+
+
+
+
+                            14
+                                Case 23-11069-CTG                 Doc 6995        Filed 07/31/25     Page 15 of 16
+Defendant:                     nVision Global Technology Solutions, Inc.
+Bankruptcy Case:               Yellow Corporation
+Preference Period:             May 8, 2023 - Aug 6, 2023
+
+                                                           Transfers During Preference Period
+
+                          Debtor(s) Incurring
+Debtor Transferor(s)       Antecedent Debt      Transfer Number Transfer Amount    Clear Date   Invoice Number   Invoice Date   Invoice Amount
+YRC Inc.                        YRC Inc.              1378872       $1,105.10      6/1/2023      O/A:1378872                        $1,105.10
+YRC Inc.                        YRC Inc.              1378871       $576.25        6/1/2023      O/A:1378871                          $576.25
+YRC Inc.                        YRC Inc.              1380656       $715.95        6/5/2023      O/A:1380656                          $715.95
+YRC Inc.                        YRC Inc.              1379344      $14,167.20      6/5/2023      O/A:1379344                       $14,167.20
+YRC Inc.                        YRC Inc.              1382299       $865.17        6/14/2023     O/A:1382299                          $865.17
+YRC Inc.                        YRC Inc.              1383348       $3,061.26      6/22/2023     O/A:1383348                        $3,061.26
+YRC Inc.                        YRC Inc.              1382434       $472.51        6/22/2023     O/A:1382434                          $472.51
+YRC Inc.                        YRC Inc.              1384382       $1,437.01      6/27/2023     O/A:1384382                        $1,437.01
+YRC Inc.                        YRC Inc.              1386578       $2,176.63      7/5/2023      O/A:1386578                        $2,176.63
+YRC Inc.                        YRC Inc.              1386313       $1,217.30      7/5/2023      O/A:1386313                        $1,217.30
+YRC Inc.                        YRC Inc.              1384598      $36,150.17      7/14/2023     O/A:1384598                       $36,150.17
+
+       Totals:         11 transfer(s),   $61,944.55
+
+
+
+
+nVision Global Technology Solutions, Inc. (2303428)
+Bankruptcy Case: Yellow Corporation
+Jul 29, 2025                                                              Exhibit A                                                   P. 1
+             Case 23-11069-CTG             Doc 6995        Filed 07/31/25       Page 16 of 16
+
+
+
+
+                       IN THE UNITED STATES BANKRUPTCY COURT
+                            FOR THE DISTRICT OF DELAWARE
+
+   In re                                              Chapter 11
+
+   YELLOW CORPORATION, et al.,                        Case No.: 23-11069 (CTG)
+
+                                         Debtors.     (Jointly Administered)
+
+
+   YRC Inc.,
+
+                                         Plaintiff,
+   vs.
+                                                      Adv. No. Refer to Summons
+   nVision Global Technology Solutions, Inc.,
+                                Defendant(s).
+
+                      NOTICE OF DISPUTE RESOLUTION ALTERNATIVES
+
+        As party to litigation you have a right to adjudication of your matter by a judge of this Court.
+Settlement of your case, however, can often produce a resolution more quickly than appearing before a
+judge. Additionally, settlement can also reduce the expense, inconvenience, and uncertainty of litigation.
+
+         There are dispute resolution structures, other than litigation, that can lead to resolving your case.
+Alternative Dispute Resolution (ADR) is offered through a program established by this Court. The use of
+these services are often productive and effective in settling disputes. The purpose of this Notice is to furnish
+general information about ADR.
+
+        The ADR structures used most often are mediation, early-neutral evaluation, mediation/arbitration
+and arbitration. In each, the process is presided over by an impartial third party, called the “neutral.”
+
+        In mediation and early neutral evaluation, an experienced neutral has no power to impose a
+settlement on you. It fosters an environment where offers can be discussed and exchanged. In the process,
+together, you and your attorney will be involved in weighing settlement proposals and crafting a settlement.
+The Court in its Local Rules requires all ADR processes, except threat of a potential criminal action, to be
+confidential. You will not be prejudiced in the event a settlement is not achieved because the presiding
+judge will not be advised of the content of any of your settlement discussions.
+
+         Mediation/arbitration is a process where you submit to mediation and, if it is unsuccessful, agree
+that the mediator will act as an arbitrator. At that point, the process is the same as arbitration. You, through
+your counsel, will present evidence to a neutral, who issues a decision. If the matter in controversy arises
+in the main bankruptcy case or arises from a subsidiary issue in an adversary proceeding, the arbitration,
+though voluntary, may be binding. If a party requests de novo review of an arbitration award, the judge
+will rehear the case.
+
+      Your attorney can provide you with additional information about ADR and advise you as to
+whether and when ADR might be helpful in your case.
+
+Dated: 7/31/2025                                                      /s/ Stephen L. Grant, Sr.
+                                                                         Clerk of Court
+
+
+
+
+                                              -1-              NOTICE OF DISPUTE RESOLUTION ALTERNATIVES
+                                                                                                  \5Nov10, 0:05
+

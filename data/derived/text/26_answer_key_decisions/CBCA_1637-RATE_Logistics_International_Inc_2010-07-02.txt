@@ -1,0 +1,219 @@
+                                         July 2, 2010
+
+
+                                     CBCA 1637-RATE
+
+
+                  In the Matter of LOGISTICS INTERNATIONAL, INC.
+
+
+       Alan F. Wohlstetter, Gwynedd, PA; and Stanley I. Goldman, Potomac, MD, appearing
+for Claimant.
+
+      Mary C. Bates, Director, Audits Division, Office of Travel and Transportation Services,
+Federal Acquisition Service, General Services Administration, Arlington, VA, appearing for
+General Services Administration.
+
+      Lt. Col. Sheila McDonald, Staff Judge Advocate, Surface Deployment and Distribution
+Command, Department of the Air Force, Scott Air Force Base, IL, appearing for Department
+of Defense.
+
+KULLBERG, Board Judge.
+
+        The matter before this Board was brought by Logistics International, Inc. (LII) under
+31 U.S.C. § 3726(i)(1) (2006), which provides that a freight forwarder may request review
+of an action taken by the Audits Division of the General Services Administration’s (GSA’s)
+Office of Travel and Transportation and Services. LII contends that GSA took deductions for
+overcharges beyond the three-year period allowed under 31 U.S.C. § 3726(d) and seeks a
+refund of those deductions that total $12,216.83. GSA contends that its rights as a creditor are
+not extinguished by the three-year limitations period. In light of the Board’s decision in Union
+Pacific Railroad, CBCA 1317-RATE, 10-1 BCA ¶ 34,312 (2009), motion for reconsideration
+denied, 10-1 BCA ¶ 34,435, the Board finds that GSA improperly took deductions beyond the
+three-year limitations period and those deductions must be refunded.
+CBCA 1637-RATE                                                                               2
+
+                                        Background
+
+        GSA issued notices of overcharges (NOCs) during 2004 for payments made to LII on
+thirty-one government bills of lading (GBLs). Payments to LII on the GBLs, which were
+issued by the Department of the Army, were made on various dates during 2002 and 2003.
+During February 2008, GSA deducted overcharges on the GBLs that totaled $12,216.83. The
+relevant information, including the GBL number, the date of payment, the amount paid, and the
+amount of each deduction, is summarized as follows:
+
+
+ GBL No.                 Date Paid      Amount Paid       Date of Offset        Amount of
+                                                                                   Offset
+
+ GQ100391                   4/1/03          $2222.94            2/15/08            $568.65
+
+ GQ100330                  1/23/03           $553.19            2/15/08            $158.80
+
+ GQ100396                  2/13/03          $6371.29            2/15/08           $1508.18
+
+ C5969538                  5/15/02        $17,482.75            2/15/08            $223.72
+
+ GQ100307                  1/23/03           $930.90            2/15/08            $241.38
+
+ GQl00301                  1/23/03           $315.54            2/15/08             $45.40
+
+ GQ098091A                 1/13/03           $823.24            2/22/08            $220.27
+
+ GQ100331                  1/23/03           $669.45            2/15/08            $210.29
+
+ GQ100434                   4/1/03          $2128.91            2/15/08            $978.46
+
+ GQ098100                  1/23/03           $459.46            2/15/08             $55.41
+
+ GQ100238                  1/23/03           $218.22            2/15/08             $25.60
+
+ GQ100312                  1/23/03           $266.35            2/15/08             $96.83
+
+ GQ100442                  4/11/03          $8136.96            2/22/08           $2823.72
+
+ GQ098074                  1/23/03           $353.01            2/15/08             $42.84
+
+ GQ098074A                 1/23/03           $353.01            2/15/08             $44.34
+
+ GQ100329                  1/23/03           $724.40            2/15/08            $114.21
+
+ GQ100306                  1/23/03           $903.06            2/15/08            $121.99
+
+ GQ100311                  12/9/02          $1449.06            2/15/08            $395.68
+CBCA 1637-RATE                                                                                  3
+
+ GBL No.                 Date Paid       Amount Paid      Date of Offset           Amount of
+                                                                                      Offset
+
+ GQ098096                  12/6/02            $853.35            2/15/08             $362.68
+
+ GQ098061                  12/6/02            $672.13            2/15/08             $241.81
+
+ GQ097806                  7/17/02          $6552.36             2/15/08             $433.45
+
+ GQ100316                  1/23/03            $556.01            2/15/08             $166.11
+
+ GQ098296                   4/1/03          $2176.44             2/22/08             $159.98
+
+ GQ100437                   4/1/03          $2212.80             2/15/08             $570.22
+
+ GQ098093                  1/23/03            $908.80            2/22/08             $704.78
+
+ GQ100320                  1/23/03            $634.49            2/15/08             $178.96
+
+ GQ100376                  2/21/03            $439.63            2/22/08             $391.31
+
+ GQ098077                  12/6/02          $2057.93             2/15/08             $676.66
+
+ JP581072                  1/15/03          $1197.04             2/15/08             $380.96
+
+ GQ100302                  1/23/03            $244.55            2/15/08              $28.74
+
+ GQ098081                  1/23/03            $315.32            2/15/08              $45.40
+
+                                                                   Total:          $12,216.83
+
+       GSA issued settlement certificates with regard to each of the above listed deductions
+on June 18, 2009. Each settlement certificate had the following language:
+
+              The Government has the same right “which belongs to every
+              creditor, to apply the unappropriated moneys of his debtor, in his
+              hands, in extinguishment of the debts due him.” United
+              States v. Muns[e]y Trust of Washington, 332 U.S. 234, 238
+              (1947). Statutory authority for GSA’s offset procedure based on
+              this right is granted in the Federal Claims Collection Act. The
+              rights under the act are not extinguished by 31 U.S.C. 3726(d)[.]
+              Burlington Northern v. United States, 462 F.2d 526, 529
+              (Ct. Cl. 1972).
+CBCA 1637-RATE                                                                               4
+
+On July 2, 2009, LII brought its claim for a refund of all of the amounts offset.1
+
+                                          Discussion
+
+        The parties do not dispute that a period of more than three years passed between the
+date of payment and the date that a deduction was taken for overpayment for each of the GBLs
+that is at issue in this matter. LII contends that “it is entitled to recover the monies offset
+because GSA is time-barred from offsetting overcharges more than three years after the date
+of payment by 31 U.S.C. § 3726(d).” Claimant’s Response at 1. GSA contends that “[u]nder
+31 U.S.C. § 3716, the Government is authorized to effect administrative offset using common-
+law precedents separately and distinctly from any limitations in other statutes. This includes
+31 U.S.C. § 3726 which clearly limits the narrowly defined ‘deduction action.’” Government’s
+Response at 5.
+
+       Under 31 U.S.C. § 3726, the Administrator of GSA has the authority to conduct audits
+of payments previously made to freight forwarders and deduct the amount of any overpayment
+from subsequent payments. That statute, however, also provides that “[n]ot later than 3 three
+years (excluding time of war) after the a bill is paid, the Government may deduct from an
+amount subsequently due a carrier or freight forwarder an amount paid on the bill that was
+greater than the rate allowed.” Id. § 3726(d). The applicable regulation, 41 CFR 102­
+118.640(b) (2007), states that “[a] 3-year limitation applies on the deduction of overcharges
+from amounts due a [transportation service provider] (31 U.S.C. [§] 3726).”
+
+       This matter involves the same issue that the Board decided in Union Pacific Railroad,
+in which the Board discussed in detail and rejected GSA’s contention that it has the authority
+to collect overcharges beyond the three-year limitations period set forth in
+31 U.S.C. § 3726(d). The Board stated the following:
+
+              The three-year deduction limitation for overcharges under
+              31 U.S.C. 3726(d) is clear and unambiguous. Although the issue
+              of whether the Government can deduct the alleged debt once the
+              three-year period has run is one of first impression for this Board,
+              the Comptroller General, who decided these claims prior to the
+              GSA Board of Contract Appeals and this Board, addressed this
+
+
+       1
+                LII’s previous claim before the Board was filed before GSA issued settlement
+certificates, and the Board dismissed the claim as premature. Logistics International, Inc.,
+CBCA 1255-RATE, 09-1 BCA ¶ 34,091 (2008), motion for reconsideration denied,
+09-1 BCA ¶ 34,123.
+CBCA 1637-RATE                                                                                 5
+
+              issue in a number of reviews under the same statute. The
+              Comptroller General concluded that the three-year statute of
+              limitations for overcharges precludes the Government from
+              deducting the overcharged amount once the three-year period has
+              run. Double M Transport, B-236378 (Feb. 6, 1991) (statute
+              precludes deduction of overcharges after three years but does not
+              apply to loss or damage claims); Mike Meadors Trucking, B­
+              225138 (May 22, 1987) (Government in error in deducting
+              carrier’s debt three years after payment); Trans Country Van
+              Lines, Inc., B-188647 (Dec. 28, 1977) (deduction not authorized
+              after three years is a nullity).
+
+10-1 BCA at 169,492. It was recognized by the Board that the clear intent of Congress in
+enacting the statute now codified at 31 U.S.C. § 3726(d) was to “treat the Government’s
+collection of transportation ‘overcharges’ in a specific and distinctive manner.” Id. at 169,493.
+Consequently, the Board rejected GSA’s argument that it could collect by offset overcharges
+under 31 U.S.C. § 3716, which has a ten-year limitations period, in that doing so “makes the
+three-year limitation in 31 U.S.C. § 3726 meaningless.” Id. The Board ruled that GSA had
+improperly deducted overcharges beyond the three-year limitations period set forth under
+31 U.S.C. § 3726(d). Id.
+
+        As was the case in Union Pacific Railroad, GSA contends in this matter that it has the
+right to collect overcharges by means of an offset more than three years after payment. This
+Board recognized in Union Pacific Railroad that deducting an overcharge beyond the three-
+year limitation period is a “nullity.” 10-1 BCA at 169,492 (citing Trans Country Van Lines,
+Inc., B-188647 (Dec. 28, 1977)). A nullity is “a cause which the opposite party may treat as
+though it had not taken place, or which has absolutely no legal force or effect.” Black’s Law
+Dictionary 963 (5 th ed. 1979). Although GSA attempts to justify deducting overcharges
+beyond the three-year limitations period under 31 U.S.C. § 3726(d) by calling an overcharge
+a “debt” and the deduction an “offset,” GSA’s action is a nullity with no legal force or effect.
+LII, consequently, has met its burden of proof in this matter in that it has been shown without
+dispute that the deductions made in connection with all thirty-one GBLs were beyond the three-
+year period allowed under 31 U.S.C. § 3726(d).
+CBCA 1637-RATE                                                                       6
+
+                                       Decision
+
+        The Board finds that GSA improperly deducted overcharges totaling $12,093.71 on
+thirty-one GBLs, and GSA must refund that amount.
+
+
+
+
+                                        ______________________
+                                        H. CHUCK KULLBERG
+                                        Board Judge
+

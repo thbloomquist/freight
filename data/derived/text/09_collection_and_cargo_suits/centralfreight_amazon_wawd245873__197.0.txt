@@ -1,0 +1,693 @@
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 1 of 11
+
+
+
+ 1                                                              The Honorable James L. Robart
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7                               UNITED STATES DISTRICT COURT
+                                WESTERN DISTRICT OF WASHINGTON
+ 8                                        AT SEATTLE
+
+ 9   CENTRAL FREIGHT LINES, INC., a Texas
+     corporation,
+10                                                    No. 2:17-cv-00814-JLR
+                                        Plaintiff,
+11                                                    DEFENDANT’S OPPOSITION TO
+                  v.                                  PLAINTIFF’S MOTION TO EXCLUDE
+12                                                    CERTAIN EXPERT ANALYSIS AND
+     AMAZON FULFILLMENT SERVICES, a                   TESTIMONY OF WILLIAM E. PARTIN
+13   Delaware corporation, and DOES 1 through 25,
+     inclusive,                                       NOTE ON MOTION CALENDAR:
+14                                                    July 12, 2019
+                                      Defendant.
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                  FOSTER PEPPER PLLC
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN                    1111 THIRD AVENUE, SUITE 3400
+
+     Case No. 2:17-cv-00814-JLR                                   SEATTLE, WASHINGTON 98101-3299
+                                                                PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 2 of 11
+
+
+
+ 1                                             I. INTRODUCTION
+ 2                Defendant Amazon Fulfillment Services (“AFS”) responds to Plaintiff Central Freight
+
+ 3   Lines, Inc.’s (“CFL”) Motion to Exclude Certain Expert Analysis and Testimony of William E.
+
+ 4   Partin (“Motion”) (Dkt. No. 184). CFL does not dispute that Partin is qualified to give the
+
+ 5   opinions he rendered. Instead, it avers that (1) his “methods and analysis do not comport with
+
+ 6   the legal requires of an expert witness and some of his conclusions are misleading”; and (2) he
+
+ 7   “misapprehends the data he relied upon in conducting his analysis and failed to review and
+
+ 8   analyze data in Amazon’s possession that is relevant to his analysis.” Motion at 1.
+
+ 9                As the bases of CFL’s motion to exclude Partin are legally insufficient under standards
+
+10   set forth in Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579 (1993), the Court should deny
+
+11   this motion. CFL’s concerns do not concern his credentials or methodology, but instead speak to
+
+12   challenges they might have to his opinion. These challenges, at most, might impact the weight
+
+13   and/or credibility of his analysis as revealed in cross examination, which are issues to be decided
+
+14   by the jury. Significantly, CFL faults Partin for relying on the accuracy of data CFL itself
+
+15   produced to AFS during discovery.
+
+16                                           II. LEGAL ARGUMENT
+17   A.           Applicable Legal Standard
+18                Under Daubert, the Court’s gatekeeping obligation is to ensure that the proffered expert
+
+19   testimony is relevant and based on reliable methods. See Daubert, 509 U.S. at 589. Courts
+
+20   should not weigh evidence or draw conclusions about the strength of any particular piece of
+
+21   evidence; in the Ninth Circuit, the Court’s focus “‘must be solely on principles and methodology,
+
+22   not on the conclusions that they generate.’” Wendell v. GlaxoSmithKline LLC, 858 F.3d 1227,
+
+23   1232 (9th Cir. 2017) (emphasis added) (quoting Daubert, 509 U.S. at 595). In other words,
+
+24   although the mere unproven statement of an expert is inadmissible, it is not the Court’s task to
+
+25   decide whether an expert’s conclusions are correct. See Gen. Elec. Co. v. Joiner, 522 U.S. 136,
+
+26   146 (1997); Daubert v. Merrell Dow Pharm., Inc., 43 F.3d 1311, 1318 (9th Cir. 1995) (the
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                              FOSTER PEPPER PLLC
+                                                                                1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 1
+                                                                              SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                            PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 3 of 11
+
+
+
+ 1   Daubert test “is not the correctness of the expert’s conclusions but the soundness of his
+
+ 2   methodology.”). Instead, a party offering expert testimony must demonstrate that “the expert’s
+
+ 3   conclusion has been arrived at in a scientifically sound and methodologically reliable fashion.”
+
+ 4   Milward v. Acuity Specialty Products Group, Inc., 639 F.3d 11, 15 (1st Cir. 2011). However,
+
+ 5   disputes regarding the validity of the underlying facts are not valid bases to exclude expert
+
+ 6   testimony. ActiveVideo Networks, Inc. v. Verizon Communs., Inc., 694 F.3d 1312, 1333 (Fed.
+
+ 7   Cir. 2012) (“At their core, however, Verizon’s disagreements are with the conclusions reached
+
+ 8   by ActiveVideo’s expert and the factual assumptions and considerations underlying those
+
+ 9   conclusions, not his methodology. These disagreements go to the weight to be afforded the
+
+10   testimony and not its admissibility.”); Smith v. Ford Motor Co., 215 F.3d 713, 718 (7th Cir.
+
+11   2000) (“The soundness of the factual underpinnings of the expert’s analysis and the correctness
+
+12   of the expert’s conclusions based on that analysis are factual matters to be determined by the trier
+
+13   of fact, or, where appropriate, on summary judgment.”).
+
+14                The Court’s Daubert inquiry is “flexible” and “Rule 702 should be applied with a ‘liberal
+
+15   thrust’ favoring admission.” Wendell, 858 F.3d at 1232. Exclusion of expert testimony is
+
+16   appropriate only when such testimony is irrelevant or unreliable “junk science.” Id. at 1237.
+
+17   Otherwise, a court should cede complex issues to the jury and rely on the traditional safeguards
+
+18   of the adversary system— cross-examination, presentation of contrary evidence, and instruction
+
+19   on the burden of proof—to test and evaluate weak but otherwise admissible evidence. Daubert,
+
+20   509 U.S. at 596; Wendell, 858 F.3d at 1232; see also Milward, 639 F.3d at 13 (“So long as an
+
+21   expert’s scientific testimony rests upon ‘good grounds, based on what is known,’ it should be
+
+22   tested by the adversarial process, rather than excluded for fear that jurors will not be able to
+
+23   handle the scientific complexities.” (quoting Daubert, 509 U.S. at 590, 596)). “[T]he interests of
+
+24   justice favor leaving difficult issues in the hands of the jury and relying on the safeguards of the
+
+25   adversary system.” Wendell, 858 F.3d at 1237 (internal citations omitted).
+
+26
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                              FOSTER PEPPER PLLC
+                                                                                1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 2
+                                                                              SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                            PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 4 of 11
+
+
+
+ 1   B.           Whether Partin Properly Relied on CFL’s Data is a Jury Question
+ 2                CFL avers that the Court should exclude portions of Partin’s testimony on the ground he
+
+ 3   relied on CFL’s factually inaccurate data, i.e., because the “Invoice Dates” indicated on CFL’s
+
+ 4   account receivables spreadsheet are not the actual invoice dates. See Motion at 3-5.
+
+ 5                At issue is whether CFL submitted to AFS certain invoices within the contractually
+
+ 6   agreed 180-day time limit. Motion at 2. Partin’s methodology in analyzing the number of days
+
+ 7   stated in shipment data and invoice dates via Excel calculations is sound, and CFL raises no
+
+ 8   objection to his actual methodology. Thus, there is no basis to exclude his testimony.
+
+ 9                Instead, CFL asserts Partin relied on inaccurate data because “he assumes that the
+
+10   ‘Invoice Date’ in Column G of CFL_052072-Confidential.xlsx indicates the date of the first
+
+11   invoice sent to Amazon.” Motion at 4. Whether the data Partin relied on are accurate is a factual
+
+12   question for the jury. “Challenges that go to the weight of the evidence are within the province
+
+13   of a fact finder, not a trial court judge.” City of Pomona v. SQM N. Am. Corp., 750 F.3d 1036,
+
+14   1044 (9th Cir. 2014). Any issues regarding the reliability of the underlying facts on which Partin
+
+15   relied upon are subjects for cross-examination, and potential recalculation on the stand.
+
+16   ActiveVideo., 694 F.3d at 1333; Smith, 215 F.3d at 718; United States ex rel. Poong Lim/Pert
+
+17   Joint Venture v. Dick Pac./Ghemm Joint Venture, Nos. 3:03-cv-00290-JWS, 2006 U.S. Dist.
+
+18   LEXIS 19281, at *8-9 (D. Alaska Mar. 2, 2006) (“Indeed, it would be error for the court to
+19   exclude the testimony of an expert on the grounds that it is based upon one version of disputed
+
+20   facts. That an expert relied upon a particular source for his opinion is not evidence of the truth of
+
+21   that source.”); FRE 702, Adv. Comm. Notes (2000) (explaining that “[w]hen facts are in dispute,
+
+22   experts sometimes reach different conclusions” and a trial court is not “authorize[d] . . . to
+
+23   exclude an expert’s testimony on the ground that the court believes one version of the facts and
+
+24   not the other”); see also Gatti v. Cmty. Action Agency of Greene Cty., Inc., 263 F. Supp. 2d 496,
+
+25   509 n.8 (N.D.N.Y. 2003) (“Significant reductions to this initial amount, inter alia, were due to
+
+26   the economist’s erroneous assumptions, which the Defendants, during cross examination, made
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                               FOSTER PEPPER PLLC
+                                                                                 1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 3
+                                                                               SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                             PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 5 of 11
+
+
+
+ 1   the expert painfully aware of those mistakes. Defendants’ counsel had Blanchfield re-calculate
+
+ 2   the amount of damages during the course of cross examination thus arriving at a lower amount
+
+ 3   for damages which was presented to the jury.”). CFL’s reliance on General Electric v. Joiner,
+
+ 4   522 U.S. 136 (1997) is misplaced, as the exclusion was based on the reliability of scientific
+
+ 5   studies—a true Daubert issue—and not the reliability of the facts produced by the opposing
+
+ 6   party. Id. at 146-47.
+
+ 7                CFL’s contention Partin had no basis to conclude that the “Invoice Dates” represented on
+
+ 8   CFL’s accounts receivables spreadsheet is that the actual invoice date is incorrect. However, an
+
+ 9   invoice date on aging statements, absent a date to the contrary, means the first invoice date as
+
+10   understood in the field. See Dkt. No. 193, (“Partin Decl.”), ¶ 8. Additionally, CFL’s FRCP
+
+11   30(b)(6) designee, CFO Allen Parrott, testified that Column G on its aging spreadsheet was the
+
+12   invoice date. Declaration of Steven Block (“Block Decl.”), Ex. A, 51:21-52:14. When asked
+
+13   how he determined whether an invoice was past due, Parrot testified that the basis for CFL’s
+
+14   representations to the Court regarding the age of the unpaid invoices was the dates stated on the
+
+15   accounts receivable spreadsheet, i.e., dates CFL now claims are inaccurate. Id., 27:24-29:17. In
+
+16   other words, Partin used the same data CFL used to make certain representations about the age of
+
+17   the invoices, data which it now claims is inaccurate.
+
+18                Finally, it is common practice for auditors to assume “invoice dates” to be the dates when
+
+19   they were first issued unless other dates are provided. Partin Decl., ¶ 8. Absent such
+
+20   information, the accuracy of an aging invoice is questionable. Id. CFL claims Partin ignored
+
+21   contrary data. See Motion at 5-6. While this might be a point for cross examination, Partin did,
+
+22   in fact, conduct an identical analysis using AFS’s data, as indicated in spreadsheet columns CFL
+
+23   hid in the version it filed in support of this motion. Block Decl., Ex. B. However, AFS’s data
+
+24   also show that AFS paid some of these invoices in full. See, e.g., Block Decl., Exs. B-C
+
+25   (showing that CFL initially invoiced AFS $107.25 for shipment No. 770635688, which it paid,
+
+26   yet CFL is asking for the Court to award an additional $13.63 for that shipment). Because the
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                               FOSTER PEPPER PLLC
+                                                                                 1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 4
+                                                                               SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                             PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 6 of 11
+
+
+
+ 1   first invoice date often includes an invoice AFS paid in full, the actual date CFL submitted
+
+ 2   invoices for payment is disputed and not appropriate to decide on a Daubert motion.
+
+ 3                Finally, AFS requested in discovery that CFL produce the invoices it submitted to AFS.
+
+ 4   Block Decl., Ex. D (Request for Production No. 17). CFL agreed to produce all invoices related
+
+ 5   to “Amazon’s purported set off of funds.” Id. The invoices CFL produced related to “Amazon’s
+
+ 6   purported set off of funds” were generated in 2019. See, e.g., Block Decl., Ex. C. Thus, it
+
+ 7   appears CFL has failed to comply with its FRCP 26 discovery obligations and is trying to
+
+ 8   leverage that failure to its own benefit by asking the Court to exclude expert testimony based on
+
+ 9   the information CFL did provide.
+
+10                Whether specific invoices were properly submitted within the appropriate timeline is an
+
+11   issue for the trier of fact. It is relevant to the damages analysis, as AFS’s documentation shows it
+
+12   withheld significantly less than CFL claims. Dkt. No. 158, Ex. 60, at 4 n.7.
+
+13                CFL’s argument is based entirely on a factual dispute involving the reliability and
+
+14   accuracy of data it produced itself. As these factual issues derive from the accuracy and
+
+15   reliability of CFL’s own data, expert testimony exclusion would be improper.
+
+16   C.           Whether CFL Spot Quoted Shipments of One to Seven Pallets is Relevant to this
+                  Dispute
+17
+                  This case primarily concerns whether CFL overcharged AFS on certain shipments that
+18
+     CFL always claimed were subject to the oral modification for 8+ Pallets. CFL avers that Partin’s
+19
+     analysis of shipments containing between one and seven pallets is irrelevant. Motion at 6. In
+20
+     arguing this, CFL claims for the first time that these invoices are all for “minimum charge”
+21
+     shipments, and thus concedes they are not subject to the alleged spot quote agreement. Id. at 7.
+22
+     However, CFL provides no explanation why all of these shipments were actually charged at
+23
+     neither minimum charge rates nor contractual discount rates. Partin Decl., ¶ 7. Instead, it merely
+24
+     points to a portion of AFS’s analysis wherein AFS determined CFL should receive a credit
+25
+
+26
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                               FOSTER PEPPER PLLC
+                                                                                 1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 5
+                                                                               SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                             PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 7 of 11
+
+
+
+ 1   because CFL undercharged AFS. See Partin Decl., ¶ 4 (credit indicated by a parenthesis around
+
+ 2   the number).
+
+ 3                Partin’s calculation of overcharges for these shipments, using CFL’s own data, is relevant
+
+ 4   and reliable, as CFL overcharged AFS for them, regardless of whether they were minimum
+
+ 5   charge shipments. See Partin Decl., ¶¶ 5-6. His calculation is based on CFL’s determination of
+
+ 6   Contract CzarLite rates, according to CFL’s data. Id. ¶ 4; see also Motion at 9. He then
+
+ 7   subtracted contractual discounts from the CzarLite rate. Partin Decl., ¶ 4. If that discounted rate
+
+ 8   was less than the contractual minimum charge, he used the minimum charge rather than the
+
+ 9   discounted rate. Id. He subtracted contractual discount/minimum charge rates from what CFL
+
+10   charged to determine the amount of overcharges. Id. This is the process CFL claims AFS
+
+11   should have undertaken. Dkt. No. 101. If rates CFL charged were less than contractual
+
+12   minimum charges, credits were applied to the overcharged amounts. Partin Decl., ¶ 4.
+
+13   Regardless of whether these shipments were spot quoted, CFL still overcharged AFS by at least
+
+14   $75,000 (excluding the 19 shipments it now claims were 8 pallets or more). Id. ¶ 5.
+
+15                CFL claims that AFS erroneously conducted its 8+ pallet audit because it audited all
+
+16   shipments that did not indicate a contractual discount. Motion at 6. AFS did conduct a 0%
+
+17   discount audit because all shipments (even minimum charge shipments) were required to state
+
+18   the contractual discount. AFS’s demand letter for repayment of this amount stated that a 0%
+
+19   discount audit was performed. Dkt. No. 139-1, Ex. B (“Demand Letter) (“The table below
+
+20   summarizes the Funds demand and the reasons for overpayment ... 0% discount applied on
+
+21   shipments[:] $2,389,538.”). Confusion arose because, to justify charging non-contractual rates,
+
+22   CFL always claimed these shipments were volume quoted. See Dkt. No. 158, Ex. 19 (Request
+
+23   for Admission No. 3) (admitting during this discovery that “each invoice identified in
+
+24   AFS_CFL_00001597, AFS had approved the process of applying a volume rate to large volume
+
+25   shipments....”); Block Decl., Ex. E (CFL justified the lack of a contractual discount because the
+
+26   shipments were subject to Addendum 4). AFS accepted CFL’s rationale, because CFL did not
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                              FOSTER PEPPER PLLC
+                                                                                1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 6
+                                                                              SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                            PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 8 of 11
+
+
+
+ 1   submit pallet counts on its in invoices, such that AFS could not verify the number of pallets each
+
+ 2   shipment contained until well into this litigation. See, e.g., Block Decl., Ex. C.
+
+ 3                Additionally, attempting to show AFS should have known these shipments were spot
+
+ 4   quoted, CFL claims these shipments did not have a contractual discount applied to it. 1 Dkt. No.
+
+ 5   145 at 10, 21 (asserting in its motion for summary judgment that “CFL’s invoicing of the 8+
+
+ 6   Pallet Shipments was obvious to Amazon because for these shipments, unlike a typical LTL
+
+ 7   shipment where the contractual discount was displayed, there was no contractual discount
+
+ 8   entered.”); see also Dkt. No. 139, (First Amended Complaint), ¶ 88 (“Moreover, Central
+
+ 9   Freight’s Volume Billing of 8+ Pallet Shipments was obvious. Central Freight submitted
+
+10   invoices to Amazon electronically, pursuant to Amazon’s billing instructions. Whereas the
+
+11   invoice for a typical LTL shipment for Amazon specifically enumerated the contractual discount,
+
+12   8+ Pallet Shipments (and some other types of movements) indicated that no discount applied.”).
+
+13                None of the shipments were billed at contractual minimum charge rates. Partin Decl., ¶
+
+14   7. Moreover, contrary to CFL’s position, CzarLite and discounted rates are required on all
+
+15   invoices, even minimum charge shipments, with the minimum charge identified by an
+
+16   accessorial code. Block Decl., Exs. F-G (minimum charge indicated by an accessorial
+
+17   designation of “AMC”), H (“Beavers 30(b)(6) Dep.”), 67:18-68:18 (“[T]he minimum charge was
+
+18   transmitted as a separate field within the EDI template, and so you would see a base rate, a
+
+19   discount and a minimum charge, and then a total computed price.”).
+
+20                This issues concerns whether AFS overpaid CFL more than 6,000 shipments. For these
+
+21   2,901 shipments, CFL did not bill them at either the contractual discounted rate or the minimum
+
+22
+
+23
+
+24
+
+25
+     1
+26    If nearly 50% of undiscounted invoices were not spot quoted shipments, CFL’s claims that AFS
+     should have known CFL applied spot quotes to certain shipments must fail.
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                             FOSTER PEPPER PLLC
+                                                                               1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 7
+                                                                             SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                           PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                   Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 9 of 11
+
+
+
+ 1   charge rate. CFL now concedes, they were not subject to the “spot quote addendum.” Thus,
+
+ 2   Partin’s analysis is relevant to determine the correct sums CFL undisputedly overcharged AFS. 2
+
+ 3   D.            Partin’s Tender ID Analysis is Relevant
+ 4                Partin’s tender ID analysis provides his overcharge calculations based on when Tender
+
+ 5   ID spaces are blank or contain the reference “LN 999999999.” Partin Decl., ¶ 9. He does not
+
+ 6   opine that shipments actually contained incorrect tender IDs. Contrary to CFL’s assertion that
+
+ 7   Partin relied on AFS’s data, this information was analyzed based on CFL’s aging statement,
+
+ 8   produced as CFL_052072. As noted in previous filings, AFS required a valid Tender ID in
+
+ 9   order to process shipments for payment. Thus, a calculation of these amounts is relevant. See
+
+10   Dkt. No. 156, at 13-14; Block Decl., Ex. J. CFL asserts AFS cannot claim it was invoiced
+
+11   improperly based on expiration of the 18-month period has expired. However, AFS had already
+
+12   informed CFL that many of these shipments were improperly billed, and requested that they be
+
+13   re-invoiced with correct information. See, e.g., Block Decl., Ex. I. CFL seeks compensation for
+
+14   improperly issued invoices. Per the Contract, AFS is not required to pay them.
+
+15                This analysis is entirely relevant to CFL’s alleged damages. Absent a valid tender ID,
+
+16   AFS cannot link an invoice with a shipment for which AFS agreed to pay. Dkt. No. 158., Ex. 39,
+
+17   211:8-14; Block Decl., Ex. J, 217:5-18. The inquiry of whether these invoices were in fact
+
+18   properly invoiced is for the trier of fact.
+
+19   E.           The Court Should Bar Any Testimony From David Wade
+20                Lastly, CFL’s Motion relies on the Declaration of David Wade. Wade was not disclosed
+
+21   as a fact witness during discovery. Block Decl., Exs. K-L. Thus, any testimony from him
+
+22   should be barred. FRCP 37.
+
+23
+
+24
+
+25   2
+       Upon exclusion of the 19 shipments potentially occupying at least 8 pallet spaces, CFL still
+26   overcharged AFS by over $75,000. This amount also includes credits to CFL when CFL charges
+     less than the minimum charge amount. Partin Decl., ¶¶ 4-7.
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                              FOSTER PEPPER PLLC
+                                                                                1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 8
+                                                                              SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                            PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                  Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 10 of 11
+
+
+
+ 1                                               III. CONCLUSION
+ 2                As CFL raises issues that relate only to the credibility and/or weight of Partin’s
+
+ 3   testimony, the Court should deny CFL’s motion.
+
+ 4
+
+ 5                DATED this 8th day of July, 2019.
+
+ 6
+                                                              FOSTER PEPPER PLLC
+ 7
+
+ 8                                                            /s/ Steven W. Block
+                                                              Steven W. Block, WSBA No. 24299
+ 9                                                            Christopher A. Rogers, WSBA No. 49634
+                                                              1111 Third Avenue, Suite 3000
+10                                                            Seattle, Washington 98101-3299
+                                                              Telephone: (206) 447-4400
+11                                                            Facsimile: (206) 447-9700
+                                                              Email: steve.block@foster.com
+12                                                            Email: christopher.rogers@foster.com
+
+13                                                            Attorneys for Defendant Amazon Fulfillment
+                                                              Services
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                                FOSTER PEPPER PLLC
+                                                                                  1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 9
+                                                                                SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                              PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+                  Case 2:17-cv-00814-JLR Document 197 Filed 07/08/19 Page 11 of 11
+
+
+
+ 1                                         CERTIFICATE OF SERVICE
+
+ 2                I certify that on July 8, 2019, I electronically filed the foregoing document with the Clerk
+ 3   of the Court via CM/ECF which will notify all parties in this matter who are registered with the
+ 4   Court’s CM/ECF filing system of such filing.
+ 5                Executed in Seattle, Washington this 8th day of July, 2019.
+ 6
+
+ 7
+                                                        s/Michelle Stark
+ 8                                                      Michelle Stark, Legal Assistant
+ 9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+     DEFENDANT’S OPPOSITION TO PLAINTIFF’S MOTION TO                                FOSTER PEPPER PLLC
+                                                                                  1111 THIRD AVENUE, SUITE 3400
+     EXCLUDE CERTAIN TESTIMONY OF WILLIAM PARTIN - 10
+                                                                                SEATTLE, WASHINGTON 98101-3299
+     Case No. 2:17-cv-00814-JLR
+                                                                              PHONE (206) 447-4400 FAX (206) 447-9700
+
+     53430696.2
+

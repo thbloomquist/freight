@@ -1,0 +1,375 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+                                                                  
+ 
+                   
+                                                          
+                            _________________
+ 
+                              May 26, 2000
+                             _________________
+ 
+ 
+                            GSBCA 15071-RATE
+ 
+ 
+               In the Matter of AVAILABLE SHIPPERS, INC.
+ 
+ 
+        Arnold D. Woo, Hill, Farrer & Burrill LLP, Los  Angeles,
+CA,
+   appearing for Claimant.
+ 
+        James   F.  Fitzgerald,   Director,  Transportation  
+Audits
+   Division,  Office  of  Transportation  and  Property 
+Management,
+   General  Services Administration, appearing  for General
+Services
+   Administration.
+ 
+        Col.  James  F. Quinn,  Staff Judge  Advocate,
+Headquarters,
+   Military  Traffic  Management  Command, Department  of  the
+Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   HYATT, Board Judge.
+ 
+        Available  Shippers,  Inc.  (Available)  has  requested 
+the
+   Board's review of  the General Services Administration's 
+(GSA's)
+   disallowance  of  its  claims  for  supplemental  payments 
+under
+   Government  Bills of Lading  (GBLs) G-6,781,767; G-6,781,779;
+and
+   G-6,781,799.  Specifically, Available contends that it
+mistakenly
+   undercharged the  Military Traffic Management  Command (MTMC)
+for
+   transportation  services provided  under these  GBLs.  
+Available
+   seeks supplemental payments in the amount of $55,900.
+ 
+                               Background
+ 
+        In August 1998,  the subject GBLs  were issued by  the
+Fleet
+   Hospital  Support   Office   in  Alameda,   California  for  
+the
+   transportation of freight all kinds (FAK) from the Fleet
+Hospital
+   Support Office  in  Stockton, California  to  the Fleet 
+Hospital
+   Support Office at Cheatham Annex in  Williamsburg, Virginia. 
+The
+   Standard   Point   Location   Code   (SPLC)[foot #] 1   for  
+the
+   place of origin was designated as 875640290.  Each GBL was
+issued
+   to Available citing Available's Department of  Defense (DOD)
+rate
+   tender 000637.  This rate tender was a territorial  rate
+offering
+   prices for transport between  California and Virginia.  
+Although
+   tender 000637 had been canceled in May 1998, Available 
+continued
+   to  offer territorial  rates between  California and  Virginia
+in
+   tender number 000680.  
+ 
+        Available transported the goods  and submitted its bills 
+in
+   August  and early September 1998.  Available's bills charged
+MTMC
+   under tender 000680 for 2888 miles at a rate of seventy-two
+cents
+   per mile per  trailer.  Under  GBL  G-6,781,767, using this
+rate,
+   the total bill, for the  27 trailers used, came to $55,350.  
+For
+   GBL G-6,781,779, the total bill was $26,650; for GBL
+G-6,781,799,
+   the bill  came to $51,250.  The bills  were paid in early to
+mid-
+   October 1998.  
+ 
+        In late  September, Available submitted  supplemental
+bills,
+   contending that the services were actually covered by a
+point-to-
+   point tender.  According to Available,  the point-to-point
+tender
+   that  was  applicable  to  this  transaction  was "Department 
+of
+   Defense Standard Tender of  Freight Services" tender number 
+APPR
+   000688, which Available contends applies to  shipments from
+Rough
+   & Ready  Island,  California  to various  destinations.   
+Tender
+   000688 was submitted to  DOD in June 1998.  This tender
+specifies
+   a  flat rate of $2910 per vehicle.   Using GBL G-6,781,767 as
+the
+   example, that  rate, applied to  27 trailers,  generates a 
+total
+   amount  due  of  $78,220.    Available  claims  it  is  owed 
+the
+   difference of $23,220.  Recalculating charges under the other
+two
+   GBLs, using  the point-to-point tariff, yields additional
+amounts
+ 
+ 
+                                                                  
+ 
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 The  Continental  Directory   of  Standard 
+Point
+   Location Codes (SPLC) is published by the National Motor 
+Freight
+   Traffic  Association, Inc.   Motor carrier points  are
+identified
+   generally by  a six-digit number.   The first digit 
+identifies a
+   region; the first  and second digits  together identify a 
+state;
+   the  third  and  fourth  digits  identify  a  county   or 
+county
+   equivalent within  the  state; and  the  fifth and  sixth 
+digits
+   identify a  point within  the area identified  by the  first
+four
+   digits.   For  further  refinement of  carrier  points, the 
+SPLC
+   contains  three-digit  sub-codes.   Sub-codes  240-299  apply 
+to
+   military  locations.   Sub-codes 290-299  are  reserved for 
+Navy
+   installations.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   due of $11,180 (GBL  G-6,781,779) and $21,500 (GBL 
+G-6,781,799),
+   for a total claimed additional amount of $55,900. 
+ 
+ 
+        The three GBLs identify origin points as follows:
+ 
+        G-6,781,767         Fleet Hospital Support Office
+                       BLDG 609/Rough & Ready Island
+                       Stockton, CA  95203
+ 
+        G-6,781,779         Fleet Hospital Support Office
+                       NAVCOMSTA Stockton, BLDG 609
+                       Stockton, CA
+ 
+        G-6,781,799         Fleet Hospital Support Office
+                       NAVCOMSTA BLDG 609
+                       Stockton, CA
+ 
+   Although there  are  slight variations  in  the addresses, 
+these
+   appear to be the same point of origin -- the Naval
+Communications
+   Station's Fleet Hospital Support  Office in Stockton,
+California.
+   A Transportation Facilities Guide  issued by the Navy 
+identifies
+   this facility as the Naval Communications Station, San
+Francisco,
+   located  in Stockton, California,  San Joaquin  County, Rough
+and
+   Ready Island.  The  Guide  further provides  that  this 
+location
+   should be  designated as Stockton on GBLs  for freight shipped
+by
+   motor carrier.  
+ 
+        The  SPLC  for the  Naval  facility  in  Stockton, which 
+is
+   situated on Rough & Ready Island, is 875640290, which is the
+code
+   used  in  the GBLs.   Available's   tender  000688, on  its
+face,
+   refers  to  SPLC  876430291,  with  the  location  stated  to 
+be
+   "FltSptOffR&RIsld,  CA."   The SPLC  specified in  tender
+000688,
+   however, is for shipments originating in Oakland, California,
+not
+   Stockton.  MTMC states that it keyed the tender into its
+computer
+   data  base using  the  SPLC  number  provided by  the 
+carrier.  
+   Although there is an SPLC number applicable to the Naval
+facility
+   on Rough  & Ready  Island,  this number  is listed  as 
+Stockton.
+   There  is no  SPLC number  that specifically  references 
+Rough &
+   Ready      Island     within      the     city      limits    
+of
+   Stockton.[foot #] 2  
+ 
+        The  firm  that  prepared  Available's  tender  000688  
+has
+   provided  a  letter explaining  that  the  SPLC number  used 
+was
+   provided by Available  under the belief  that the number  was
+for
+   the  Fleet Support Office in Stockton.   Available contacted
+this
+   firm  after its claims for supplemental payments were rejected
+by
+   MTMC and GSA.  The tender preparer states that in response to
+the
+   rejections of claims for  supplemental payments she initiated 
+an
+   inquiry   with the National Motor Freight Traffic Association
+and
+ 
+                                                                  
+ 
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2 There  is an  SPLC number  for  Rough and 
+Ready,
+   California,  but  this is  for  a totally  different  location
+in
+   Nevada County.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   was told that the  shipper should have applied  for an SPLC 
+Code
+   for Rough & Ready Island.  
+ 
+ 
+                               Discussion
+ 
+        Military Management Traffic Command Item 60, "Alternation
+of
+   Rates - DOD Tenders," provides that specific point-to-point
+rates
+   will  not alternate  with  territorial  or state-to-state 
+rates.
+   Available, GSA, and MTMC all agree that a point-to-point rate,
+if
+   applicable,  would take precedence over a territorial rate. 
+What
+   they disagree about is whether the  point-to-point rate
+specified
+   in tender 000688 is applicable.  
+ 
+        Tender 000688  provides a point-to-point  rate for
+shipments
+   originating from SPLC 876430291, which is  described by
+Available
+   as "FltSptOffR&RIsld, CA," to  SPLC 256730290, described as 
+"NSC
+   Cheatham Annex, VA."  The tender information in MTMC's data
+base,
+   however,  generated  by  use  of  the  SPLC  code, describes 
+the
+   originating location for tender  000688 as Oakland, not 
+Stockton
+   or  Rough and Ready Island.   GSA  and MTMC both argue that
+since
+   the  SPLC code  for  this tender  specified  Oakland, the 
+tender
+   cannot, with  benefit  of hindsight,  be applied  to the 
+subject
+   shipments.    There  was   no  way  the  transportation  
+officer
+   responsible for arranging shipments from this facility would
+have
+   realized  that Available  intended tender  000688 to 
+establish a
+   point-to-point rate for the  Naval Fleet Hospital Support 
+Office
+   in Stockton.  
+ 
+        Available argues that the location descriptor  in its
+tender
+   000688 should  have alerted  MTMC  that the  SPLC code  used 
+was
+   erroneous and  thus should have caused MTMC  either to reject
+the
+   tender or to  apply for an  SPLC code for  Rough & Ready 
+Island.
+   This argument  misses the mark.   There was  no need for  MTMC
+to
+   apply for  a new  SPLC code  for this  location -- there 
+already
+   existed an SPLC code applicable to the Naval facility in
+Stockton
+   where  the shipments originated.   That was the  code used in
+the
+   GBLs executed by Available.  
+        Nor was MTMC necessarily required to reject the tender.  
+At
+   best,  Available's   point-to-point  tender  contains   a 
+latent
+   ambiguity.    The  SPLC  used  was  for  Oakland.    The
+location
+   descriptor  does  not  mention  Stockton,  California  so  as 
+to
+   potentially  alert MTMC  to an error.   There  already existed
+an
+   applicable  SPLC code  for this  facility.   It is  the
+carrier's
+   responsibility in  the  first instance  to  prepare an 
+accurate,
+   unambiguous  tender.   The carrier's  subjective intent  does
+not
+   control the interpretation of the tender; rather, ambiguities
+are
+   construed  against   the   carrier  issuing   the  rate  
+tender.
+   Consolidated Freightways, Inc., B-226378   (Aug. 15, 1988); 
+Tri-
+   State  Motor Transit Co.,  B-192689 (Jan.  24, 1979).  
+Available
+   could  have  avoided this  problem  by using  the  SPLC  code
+for
+   Stockton  in submitting its point-to-point tender. 
+Additionally,
+   the carrier is  responsible for the  content and accuracy  of
+the
+   GBL,  even when  prepared  by the  shipper.   See  C. I. 
+Whitten
+   Transfer Co., GSBCA 13893-RATE, 97-2 BCA   29,031.  To the
+extent
+   that Available contends the territorial rates used for these
+GBLs
+   were in error, Available, having recently filed a tender  that
+it
+   apparently intended to establish  a point-to-point rate for 
+this
+   location, was in the best position, in reviewing the terms of
+the
+   GBL, to recognize this potential error.
+ 
+ 
+        Available has  not established that  its point-to-point
+rate
+   tender  000688  was applicable  to  this transaction.    GSA
+thus
+   properly disallowed the claims for supplemental payments.
+   _________________________________
+ 
+                                      CATHERINE B. HYATT
+                                      Board Judge
+    
+

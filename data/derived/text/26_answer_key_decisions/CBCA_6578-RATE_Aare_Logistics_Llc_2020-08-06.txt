@@ -1,0 +1,215 @@
+                                      August 6, 2020
+
+
+                                   CBCA 6578-RATE
+
+
+                        In the Matter of AARE LOGISTICS, LLC
+
+
+      Robert J. Henry of Scopelitis, Garvin, Light, Hanson & Feary, P.C., Chicago, IL,
+appearing for Claimant.
+
+     George J. Thomas, Jr., Director, Transportation Audits Division, Office of Travel,
+Employee Relocation and Transportation, Federal Acquisition Service, General Services
+Administration, Washington, DC, appearing for General Services Administration.
+
+    Todd P. Federici, Office of the Staff Judge Advocate, United States Transportation
+Command, Scott Air Force Base, IL, appearing for Department of Defense.
+
+SULLIVAN, Board Judge.
+
+        AARE Logistics, LLC (AARE) seeks review of its claim for reimbursement of monies
+that it paid in response to seven notices of overcharge issued by the General Services
+Administration’s (GSA) Transportation Audits Division, Office of Travel, Employee
+Relocation and Transportation. GSA issued the notices following an audit that found that
+AARE charged interstate rates for transportation services provided to the Military Surface
+Deployment and Distribution Command (SDDC). Because SDDC selected AARE to provide
+transportation services based upon valid tenders, we find no basis for the overcharges
+assessed by GSA.
+
+                                       Background
+
+       AARE, as a transportation service provider (TSP), participated in the Freight Carrier
+Registration Program, administered by SDDC. The governing regulations are contained in
+the Military Freight Traffic Unified Rules Publication–1 (MFTURP-1). SDDC maintained
+CBCA 6578-RATE                                                                              2
+
+two databases to manage the transportation services that AARE and other TSPs provide—the
+Global Freight Management (GFM) system and the electronic Transportation Operational
+Personal Property System (eTOPS). AARE submitted tenders identifying the routes on
+which it would transport freight and the rates for that transportation to SDDC that were
+accepted into the GFM system, which screens the tenders for compliance with the
+MFTURP-1.1 The personal property shipping office (PPSO) used the eTOPS system to issue
+the government bills of lading (GBLs) to TSPs for shipment of household goods as freight.
+Because the GFM system and the eTOPS system were not linked, AARE provided the
+tenders that had been accepted into the GFM system directly to the PPSO that arranged the
+shipments at issue in this matter.
+
+       GSA issued overcharge notices on seven shipments that AARE transported between
+warehouses in California in 2014. The shipments were household goods of U.S. service
+members that had been in long-term storage while the service members were stationed
+overseas. According to the agencies, for these seven shipments, the service members were
+relocating to duty stations in California.
+
+        The tenders AARE supplied for the shipments at issue in this case all specified that
+AARE was offering to provide “interstate only” transportation and included routes that
+originated and concluded in California as well as many other states. These tenders were
+accepted into the GFM system. To arrange for the shipments, the PPSO identified AARE
+in the eTOPS system as providing the best value to the Government. The PPSO sent AARE
+an “advance notice” that identified the destination warehouse for the shipments; the origin
+for the shipments was the PPSO warehouse.2 The PPSO required AARE to accept the
+offered shipment within two hours of receiving the advance notice. Under the MFTURP-1,
+AARE faced a penalty if it refused shipments. Upon AARE’s acceptance, the PPSO issued
+the GBL.
+
+        The agencies contend that AARE should have known that the shipments were
+intrastate based upon the locations of the origin and destination warehouses set forth in both
+
+       1
+             According to the agencies, “it was recently discovered that” the GFM system
+“did not prevent TSPs from submitting intrastate combinations . . . when interstate was
+selected.” Also, the eTOPS system “does not distinguish between intrastate and interstate
+tenders.” GSA and SDDC (collectively, “agencies”) Response at 2, 5 (July 2, 2020).
+       2
+               The PPSO was the same for all seven shipments and was the owner of the
+warehouse where the service members’ household goods had been held in long-term storage.
+AARE transported the goods from this warehouse to another warehouse. AARE was not told
+the final destination for the freight.
+CBCA 6578-RATE                                                                                3
+
+the advance sheets and the GBLs, but acknowledge that AARE had no responsibility for
+transporting the freight to its final destination. The agencies acknowledge that there is no
+requirement in regulation for AARE to confirm that the shipments were interstate when it
+received an advance sheet based upon its interstate tender.
+
+       Following payment of the invoices for these shipments and others, GSA audited the
+shipments and determined that AARE’s tenders for these shipments were invalid because
+AARE offered transportation between points in the same state. Although AARE marked the
+tenders as “interstate only,” the agencies thought that the inclusion of these routes within the
+same state indicated that the tenders contained intrastate rates, which was not permitted by
+regulation.3 Because it deemed the tenders invalid, GSA then calculated what SDDC would
+have paid if it had paid intrastate rates for the shipments based upon its determination of an
+average cost for these shipments. GSA deducted the average cost from the amount SDDC
+paid AARE for the shipments and issued a notice of overcharge for the difference.
+
+       AARE paid the overcharges on seven shipments, in the amount of $15,549.08, and
+then submitted a claim to GSA for refund of that amount. When GSA denied its claim,
+AARE filed its current request for review by the Board.4
+
+                                          Discussion
+
+        The premise of GSA’s notices of overcharge is that AARE’s tenders for the shipments
+were not valid because AARE included intrastate rates on an interstate tender. Interstate and
+interstate commerce are defined in federal regulation as follows:
+
+
+       3
+               The parties have not explained how interstate and intrastate rates differ,
+although one can surmise that they differ based on a variety of factors. See Arpin Van Lines,
+CBCA 1141-RATE, 10-1 BCA ¶ 34,460. For example, the MFTURP-1 notes that TSPs
+offering interstate transportation must maintain a satisfactory safety rating with the Federal
+Motor Carrier Safety Administration, whereas TSPs offering intrastate transportation services
+must maintain a satisfactory safety rating with the applicable state agency. MFTURP-1 at 14.
+Complying with different regulatory schemes must carry different costs.
+       4
+             GSA issued a total of 115 overcharging notices. The parties agreed that AARE
+would pursue its appeal of seven of these notices to the Board and that the parties will be
+guided by the Board’s decision when resolving the dispute over the remaining notices of
+overcharge. The Board dismissed a prior appeal by AARE for lack of jurisdiction because
+AARE had not perfected its appeal. AARE Logistics, LLC, CBCA 6084-RATE, 19-1 BCA
+¶ 37,232 (2018).
+CBCA 6578-RATE                                                                               4
+
+
+       Interstate commerce means trade, traffic, or transportation in the United
+       States—
+
+       (1) Between a place in a state or a place outside of such State (including a
+       place outside of the United States);
+
+       (2) Between two places in a State through another State or a place outside of
+       the United States; or
+
+       (3) Between two places in a State as part of trade, traffic, or transportation
+       originating or terminating outside the State or the United States.
+
+       Intrastate commerce means any trade, traffic, or transportation in any State
+       which is not described in the term “interstate commerce.”
+
+49 CFR 390.5 (2013). Pursuant to the MFTURP-1, AARE was permitted to submit tenders
+for “interstate only” transportation, but these tenders may not contain any intrastate rates.
+“If a tender applies to interstate shipments, indicate by placing an ‘X’ in the appropriate
+space. Interstate tenders will not contain any intrastate rates.” MFTURP-1 at 31. Similarly,
+TSPs could also submit intrastate tenders, but these tenders “will not contain any interstate
+rates, and only one state per tender is permitted.” Id.
+
+        GSA’s determination that the tenders were invalid because they included rates for
+travel between two points in the same state is flawed. The auditors mistakenly assumed that
+the tenders contained intrastate rates, even though the definition of interstate transportation
+includes travel between two points within a state if part of transportation from or to
+somewhere outside that state. Given the definition of interstate commerce, it is foreseeable
+that SDDC would need tenders for routes within a single state at interstate rates to meet its
+mix of transportation needs. Moreover, the regulation does not prohibit AARE from
+submitting interstate tenders with interstate rates between two points in the same states; it
+only requires that AARE not include intrastate rates on interstate tenders. Finally, GSA’s
+notices of overcharging seem to undercut its position that the tenders were invalid because
+they contained intrastate rates. With its notices of overcharging, GSA seeks to determine the
+difference between the interstate rate AARE charged and the intrastate rates that SDDC
+could have obtained. The premise of this calculation is that AARE charged interstate rates,
+which is contrary to the determination of GSA’s auditors as to why the tenders were invalid.
+
+       GSA and SDDC appear to acknowledge that the PPSO, SDDC’s agent for arranging
+these shipments, made a mistake in selecting AARE to receive these advance notices, since
+CBCA 6578-RATE                                                                                 5
+
+its tenders were marked “interstate only,” explaining that the mistake was made because the
+two databases did not communicate and the GFM system was not designed to identify the
+purported error in AARE’s tenders. But, as noted, the MFTURP-1 does not prohibit the
+inclusion of intrastate routes, only intrastate rates, on interstate tenders. Based upon
+regulation and the definition of interstate commerce, we find AARE’s tenders to be valid.
+
+       We next turn to the agencies’ contention that the price paid to AARE should be
+reduced because the travel was intra- versus interstate. AARE was sent advance notice and
+accepted the shipments based upon the actions and information provided by the PPSO. It is
+undisputed that the PPSO was responsible for selecting AARE to provide these services. We
+see no basis for making AARE bear the cost of the fact that the PPSO selected an interstate
+tender, when it should have selected an intrastate tender.
+
+        GSA and SDDC urge the Board to consider only the nature of the trips, arguing that
+it is undisputed that the transportation AARE provided was between two points in California
+and that the Board’s determination should be governed by the intent of the shipper. Cases
+that turn on the intent of the shipper look to the “fixed and persisting transportation intent of
+the shipper at the time of shipment.” See, e.g., Tri-State Motor Transit Co., B-253445
+(Apr. 20, 1994). The agencies argue that the GBLs, which show that both the origin and
+destination for the shipments were in California, are sufficient to show this intent. Given that
+the PPSO selected AARE’s tenders even though they were marked “interstate only,” the
+advance sheets and GBLs which just show transportation between two warehouses are less
+than the “fixed and persisting” evidence of transportation intent necessary to find that these
+were clearly intrastate shipments. Because AARE did not agree to provide transportation at
+intrastate rates, the fact that the transportation provided was intrastate is not determinative.
+See Arpin Van Lines.
+
+        The agencies suggest that AARE should have inquired about the nature of the
+shipments before accepting them to confirm that they were interstate, rather than intrastate,
+shipments. But, the MFTURP-1 contains no requirement that the TSP undertake this effort.
+Instead, given the tight response deadline for acceptance and the information that AARE
+provided, it was reasonable for AARE to believe that SDDC wanted a TSP that could provide
+interstate transportation services for these trips.
+
+       Finally, GSA and SDDC acknowledge that AARE was selected as the best value to
+the Government. Best value is based upon price and other non-price factors. MFTURP-1
+at 261. To reduce the price AARE was paid would allow the agencies to obtain the best
+value services at a lower price than AARE was willing to provide them.
+CBCA 6578-RATE                                                 6
+
+                               Decision
+
+    AARE’s claim is granted.
+
+
+
+                                          Marian E. Sullivan
+                                      MARIAN E. SULLIVAN
+                                      Board Judge
+

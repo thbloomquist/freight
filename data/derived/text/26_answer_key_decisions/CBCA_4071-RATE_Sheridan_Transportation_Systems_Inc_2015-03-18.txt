@@ -1,0 +1,202 @@
+                                     March 18, 2015
+
+
+                                   CBCA 4071-RATE
+
+
+          In the Matter of SHERIDAN TRANSPORTATION SYSTEMS, INC.
+
+
+      Earl E. Cloud, Jr., of Cloud and Cloud, Huntsville, AL, appearing for Sheridan
+Transportation Systems, Inc.
+
+      Joyce Clark, Director, Transportation Audits Division, Office of Travel and
+Transportation Services, Federal Acquisition Service, General Services Administration,
+Washington, DC, appearing for General Services Administration.
+
+      Deborah Muldoon, Attorney-Advisor, Military Surface Deployment and Distribution
+Command, Department of the Army, Scott Air Force Base, IL, appearing for Department of
+Defense.
+
+DANIELS, Board Judge (Chairman).
+
+        The General Services Administration (GSA) Transportation Audits Division decided
+that a claim submitted by Sheridan Transportation Systems, Inc. (Sheridan) for detention and
+return charges should be denied because it was untimely filed. Because we conclude that
+Sheridan did not timely file a claim, we dismiss the company’s request for a review of this
+decision.
+
+                                       Background
+
+      On April 7, 2008, the Military Surface Deployment and Distribution Command
+(SDDC) issued a solicitation for Department of Defense (DoD) transportation service
+providers (TSPs) to submit binding rates for transporting freight during the “2008-2009
+Natural Disaster Season, which [ran] from 1 June 08 until 31 May 09, unless otherwise
+CBCA 4071-RATE                                                                               2
+
+specified . . . .” The solicitation noted that it would “apply during any hurricane/disaster
+where DLA [the Defense Logistics Agency] [had] been requested to participate.” The TSPs
+were to haul disaster relief materials using dry trailers from points of origin to drop-off
+locations identified by DLA.
+
+       Under the “Proposed Shipping Dates” section, the solicitation stated, in pertinent part:
+
+       a. Shipping Date Available: Unknown at this time. . . .
+
+       b. Required Delivery Date: Carrier will provide initial trailer movement from
+       DOD or commercial storage location to identified Federal Emergency
+       Management Agency (FEMA) locations where the trailer will be dropped.
+       There may be other destinations not listed in this solicitation. Those
+       destinations will be determined by the results of any destruction by any
+       hurricane that may hit the United States mainland. Any movement of the
+       trailer from the initial destination point will be transported and the
+       responsibility as an organic movement performed and controlled by FEMA.
+       DLA will report daily to the carrier the location of the trailer. DLA and
+       FEMA will coordinate, draft, and finalize maintenance responsibility of trailer
+       via a Memorandum of Agreement (MOA) between parties.
+
+       c. Return of Empty Trailers (ERS) payment will occur under the following
+       circumstances only. When carrier owned vans/refrigerated vans have been
+       dropped in the disaster area for a length of time, the carrier can submit ERS
+       per mill payment against the original BOL [bill of lading].
+
+       In section seven, the solicitation described the “protective/accessorial services
+required,” in pertinent part:
+
+       a. Carrier to provide detention rate per hour/per day. Carrier will allow 2
+       hours free time at origin and destination. A maximum of 10 hours of detention
+       will be paid per day. Detention at origin and destination will be paid by DLA.
+       Carrier needs to provide a detention rate for trailers with power and a detention
+       rate for trailers without power.
+
+       ....
+
+       j. Carrier will provide return trailer movement from identified FEMA location
+       back to DOD, commercial, or FEMA storage location, or return to carrier
+       possession upon release of trailer by FEMA.
+CBCA 4071-RATE                                                                             3
+
+       The solicitation also provides:
+
+       Carriers that are not DTTS [Defense Transportation Tracking System] or
+       Qualcomm capable will be the last chosen for service. If chosen for service,
+       a non-DTTS or non-Qualcomm carrier must be able to provide the following
+       tracking information to DLA:
+
+              ....
+
+              Current location . . . .
+
+Sheridan acknowledges that it was a non-DTTS and non-Qualcomm carrier.
+
+       On May 2, 2008, Sheridan submitted a bid with an effective date of tender of June 1,
+2008, and an expiration date of tender of May 31, 2009. The bid included detention charges
+of $675 per hour for trailers with power unit and $365 per hour for trailers without power
+unit. SDDC accepted Sheridan’s bid and awarded Sheridan a contract running from June 1,
+2008 until May 31, 2009. Sheridan shipped many items for the Government pursuant to the
+contract. In the case currently before the Board, detention charges and costs incurred during
+the return trips for two trailers that were delivered to Louisiana in September 2008 are at
+issue.
+
+        On September 6, 2008, Sheridan delivered soldiers’ rations pursuant to BOL number
+165544NV in trailer number 53822. Sheridan submitted an invoice for services provided for
+this delivery, including 47.25 hours of detention, on September 16, 2008. Then on
+September 8, 2008, Sheridan delivered soldiers’ rations pursuant to BOL 165622NV in
+trailer number 53848. Sheridan submitted an invoice for this delivery on September 8, 2008.
+Both invoices were paid in full.
+
+       Almost four years after dropping off the trailers, on July 6, 2012, FEMA notified
+Sheridan that trailer 53822 was in Fort Worth, Texas, and that Sheridan needed to retrieve
+it. As Sheridan’s driver was about to depart with trailer 53822, the security officer on site
+informed the driver that another Sheridan trailer had been located. It was trailer 53848. As
+of July 13, 2012, Sheridan had retrieved both trailers.
+
+       On August 24, 2012, Sheridan wrote to DLA by electronic mail:
+
+       We were notified on July 6, 2012 to pick up our trailers at Fort Worth, TX.
+       When our driver arrived to pick up the trailers, he was told that they did not
+       have any paper work to give him. Therefore we did not receive the Trailer
+CBCA 4071-RATE                                                                               4
+
+       Release form in order to bill for detention, however we did get a confirmation
+       via email. I have attached the email confirmation along with the paperwork
+       where the trailers were dropped. Please advise as to how we need to handle
+       billing for detention time.
+
+        Sheridan and DLA then exchanged several electronic mail messages wherein DLA
+probed Sheridan for answers as to whether and how Sheridan had sought to locate the trailers
+before July 2012. Sheridan asserted that it had made some telephone calls regarding the
+trailers, but it produced no information about the dates of those calls or the individuals who
+supposedly made them.
+
+        On May 30, 2013, Sheridan submitted two invoices to DLA, in the total amount of
+$10,185,586.04, for detention and return charges for the two trailers. Virtually all of the
+amount sought was detention charges – $365 per hour, times ten hours per day, times the
+number of days between drop-off and retrieval of each trailer. By e-mail message dated
+February 28, 2014, Sheridan offered the Government a ten-percent discount on that amount
+if it would make payment within thirty days. On March 28, 2014, a DLA transportation
+officer asked Sheridan to submit specified information and documents as a precondition to
+the Government’s consideration of making payment. In response, Sheridan provided some
+answers and some documents.
+
+       On July 15, 2014, GSA’s Transportation Audits Division denied Sheridan’s claim in
+its entirety, on the basis that it is barred by the statute of limitations in 31 U.S.C.
+§ 3726(c)(2)(A) (2012).
+
+       Sheridan asked this Board on August 14, 2014, to reverse GSA’s decision and award
+it $10,185,568.04 in damages.
+
+                                         Discussion
+
+        Section 3726 of title 31, United States Code, provides that the Administrator of
+General Services “shall adjudicate transportation claims which cannot be resolved by the
+agency procuring the transportation services, or the carrier or freight-forwarder presenting
+the bill.” 31 U.S.C. § 3726(c)(1). The statute contains a restriction on the making of claims:
+“A claim under this section shall be allowed only if it is received by the Administrator not
+later than 3 years (excluding time of war) after the later of” any of four specified events, of
+which “[t]he date of accrual of the claim” is the one relevant here. Id. § 3726(c)(2)(A). By
+regulation, the GSA Administrator has allowed “the agency where the claim arose” to be his
+designee for the purpose of receiving a claim within three years from one of the specified
+events. 41 CFR 102-118.470 (2012). A carrier or freight forwarder which disagrees with
+CBCA 4071-RATE                                                                                   5
+
+any decision by the Administrator regarding a claim may timely ask the Board to review the
+decision. 41 U.S.C. § 3726(i); 41 CFR 102-118.490(b).
+
+         The parties disagree as to which of them was responsible for keeping track of the
+location of the trailers at issue. Sheridan contends that because the Government promised
+in its solicitation that “DLA will report daily to the carrier the location of the trailer,” and no
+such reports were ever made, the carrier did not have a duty to monitor the whereabouts of
+the trailers. GSA urges that because the solicitation required carriers like Sheridan which
+were not DTTS or Qualcomm capable to be able to report the current locations of their
+trailers, the tracking duty rested with the carrier.
+
+        While we may wonder why neither of the parties noticed, over a period of nearly four
+years, that the whereabouts of the trailers was unknown, it makes no difference to the
+resolution of this case which party was to blame for the predicament. If Sheridan wished to
+make a claim, it had to do so, under statute, not later than three years after the date on which
+the claim accrued – when the claim could “be definitely ascertained and set up.” Baggett
+Transportation Co. v. United States, 319 F.2d 864 (Ct. Cl. 1963); see also American
+Stitching & Box, Inc., GSBCA 14615-RATE, 99-1 BCA ¶ 30,369. Sheridan could definitely
+have ascertained, on each and every day that it did not have possession of the trailers, that
+it had left the trailers with the Government and did not have custody of them. By Sheridan’s
+reckoning, this was sufficient information to trigger a claim for detention charges. The
+contract under which such a claim could have been made was for a limited period, however;
+it ended on May 31, 2009. It allowed for detention charges only through that date. Thus, if
+there was a basis for a claim for detention charges under the contract, it ended on May 31,
+2009. Consequently, any claim for even the last contract day had to have been made no later
+than May 31, 2012. Sheridan did not submit any invoices for detention until May 20, 2013.
+Even if those invoices may be construed as a claim, they were too late to be considered.
+
+                                            Decision
+
+      Sheridan’s claim for detention and return charges is time-barred and, accordingly, is
+dismissed.
+
+
+
+
+                                                     _________________________
+                                                     STEPHEN M. DANIELS
+                                                     Board Judge
+

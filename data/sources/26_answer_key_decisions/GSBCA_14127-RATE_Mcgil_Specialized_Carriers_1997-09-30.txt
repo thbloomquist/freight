@@ -1,0 +1,80 @@
+                  
+
+                  
+
+
+
+
+                 ________________________________________
+
+                            September 30, 1997
+                 ________________________________________
+
+
+                             GSBCA 14127-RATE
+
+
+                In the Matter of McGIL SPECIALIZED CARRIERS
+
+
+     Robert D. Norcom, Auditor, McGil Specialized Carriers,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Col. James F. Quinn, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army,
+Falls Church, VA, appearing for Department of Defense.
+
+BORWICK, Board Judge.
+          Claimant, McGil Specialized Carriers, has requested
+review of the General Services Administration's (GSA's) denial of
+its claim for $59.25 for alleged excess released value on a truck
+the carrier shipped pursuant to a Government bill of lading
+(GBL).  For the reasons that follow, we conclude that claimant is
+entitled to the claimed amount.
+
+     On August 8, 1993, the Transportation Office of the United
+States Military Academy, West Point, New York, shipped a dump
+truck and a pallet to Fort Campbell, Kentucky.  The carrier and
+claimant was McGil Specialized Carriers, and it carried the goods
+pursuant to GBL D-1,029,842.  The GBL recorded the classification
+number as NMFC 999912.  To the right of that number was the
+notation "Freight all Kinds (FAK)."  The GBL also contained the
+following: "RVNX [released value not to exceed] $2.50 per lb."  
+
+     The truck weighed 23,800 pounds and the pallet weighed 8,000
+pounds, for a total weight of 31,800 pounds.  Claimant submitted
+an invoice for $1,218.75, which consisted of $1,168.75 for
+shipment of the items 935 miles at the FAK rate of $1.250 per
+mile, and a $50 weekend pick-up charge.  The Government paid
+claimant $1,218.75.  On or about August 15, 1996, claimant
+submitted a claim for an extra charge of $59.25 for the excess
+released value of the truck.  Claimant figured the released value
+of the truck to be $59,500, which is derived by taking $2.50 per
+pound multiplied by the weight of the truck--23,800 pounds. 
+Claimant derived $59.25 by taking the "excess declared value" of
+$39,500 ($59,500-$20,000) and by applying the regulatory rate of
+15 cents per $100 of excess released value ($39,500/$100=395,
+395x15›=$59.25).  See MTMC Freight Traffic Rules Publication No.
+1A, Item 190.
+
+     The Government maintains the released value statement "RVNX
+$2.50 per lb." on the GBL does not entitle claimant to payment
+beyond the FAK rates.  Both this Board and the General Accounting
+Office have considered this "released valuation" issue and have
+concluded that the Government is wrong.  Tri-State Motor Transit
+Co., GSBCA 13839-RATE, 97-1 BCA  28,953; Tri-State Motor Transit
+Co., GSBCA 13746-RATE, 97-1 BCA  28,951; Tri-State Motor Transit
+Co.--Reconsideration, B-254378.2, et al. (July 5, 1995).  We
+follow our earlier decisions.  McGil Specialized Carriers is
+entitled to $59.25 as additional payment for the shipment covered
+by GBL D-1,029,842.
+
+
+                              _________________________   
+                              ANTHONY S. BORWICK
+                              Board Judge
+          

@@ -1,0 +1,227 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+ 
+                       _________________________
+ 
+                             July 10, 1998
+                       _________________________
+ 
+ 
+                            GSBCA 13984-RATE
+ 
+ 
+                 In the Matter of PARK RIDGE TRANSPORT
+ 
+ 
+        Anthony E. Young, Chicago, IL, appearing for Claimant.
+ 
+        Jeffrey J.  Thurston,  Director,  Office  of  Transportation
+   Audits,     General  Services  Administration,   Washington,  DC,
+   appearing for General Services Administration.
+ 
+   DeGRAFF, Board Judge.
+ 
+        In  1993, the General Services Administration (GSA) issued a
+   standard  tender  of service  that  set  out  the terms  for  the
+   transportation  of freight  pursuant  to  GSA's  freight  traffic
+   management  program.  A carrier wishing  to transport freight for
+   GSA  had to submit  three items to  the agency so  that GSA could
+   determine   whether  the   carrier   was  eligible   to   provide
+   transportation  pursuant  to  the  standard  tender  of  service.
+   First, the carrier had to  submit a letter of intent  which asked
+   to participate in the standard tender of service general  freight
+   traffic management program.   In this letter, the  carrier was to
+   certify  that it would  comply with all of  the provisions of the
+   standard  tender  of  service,  and  that it  had  the  operating
+   authority  required by all  applicable federal, state,  and local
+   laws  and regulations.    Second,  the carrier  had  to submit  a
+   certification stating that it was eligible to submit rate tenders
+   for transportation.   Third, the  carrier had to submit  a tender
+   offering. 
+ 
+        On  June  27,  1994, Turner  Transportation,  Inc.  (Turner)
+   submitted  to  GSA   its  letter  of  intent,   certification  of
+   eligibility,  and  tender  offering.   Turner s  tender  offering
+   identified its tender number as TTNO 1 and stated that Turner was
+   tendering  its  transportation  services  to  the  United  States
+   Government, except for  the Department of Defense,  for shipments
+   originating at the GSA Supply  Center in Worth, Illinois.  "TTNO"
+   is the  standard carrier alpha  code (SCAC) that was  assigned to
+   Turner  by the National  Motor Freight Traffic  Association, Inc.
+   In  the  space on  the  tender  offering  form where  Turner  was
+   supposed to state its operating authority, if any, it entered the
+   word "Deregulated."   As  required by GSA,  Turner said  that its
+   tender was  subject to the  terms, conditions, and  provisions of
+   the GSA  standard  tender of  service.    On July  8,  1994,  GSA
+   accepted Turner s  tender.  On August 4,  1994, GSA sent a letter
+   to  Turner stating  that GSA  had  selected Turner  as the  prime
+   carrier  for less than  truckload shipments in  an area including
+   Illinois, and that Turner would provide pickup and transportation
+   services from the GSA Supply Center in Worth, Illinois.
+ 
+ 
+        Between May 9 and June 21,  1995, GSA prepared approximately
+   241 Government bills  of lading (GBLs) for  shipments originating
+   at the  supply center  in Worth, Illinois.   Each  GBL identified
+   Turner  in block  1 as  the transportation  company to  which the
+   shipment was tendered,  contained Turner's SCAC code  in block 2,
+   and  listed  Turner s  tender  TTNO  1  as  the  applicable  rate
+   authority in block 20.  Block 13 of each GBL stated that shipping
+   charges were to be billed to  GSA, and GSA paid Turner for  these
+   shipments.
+ 
+        In July 1995, Park Ridge Transport, Inc. (Park  Ridge) asked
+   GSA for payment for providing the transportation services covered
+   by the GBLs that GSA issued to  Turner.  Park Ridge said that  it
+   negotiated  with Turner  in May  1995  to provide  transportation
+   services  to  GSA and  that  it  agreed  with Turner  to  provide
+   services    at   a    discount   from    Park   Ridge's    tariff
+   rates.[foot #] 1       Park   Ridge   said   that   its   drivers
+   picked up and  transported the shipments that are  the subject of
+   the  241 GBLs  that GSA  issued to  Turner, and that  its drivers
+   signed GBL block 26a, "Signature of  Agent."  Park Ridge told GSA
+   that it turned over the original GBLs  to Turner, and then billed
+   Turner for its services.  When Turner  did not pay Park Ridge, it
+   looked to GSA for payment.  
+ 
+        In response  to Park Ridge's requests for  payment, GSA said
+   that it  had no contract with  Park Ridge, and explained  that it
+   had paid Turner.  GSA  also stated that Park Ridge's request  for
+   payment was not a "claim" that GSA could consider pursuant to the
+   regulations governing claims relating to transportation services.
+   GSA advised Park  Ridge that it might  want to pursue  Turner for
+   whatever payments Park Ridge believed  were due.  Park Ridge sued
+   Turner in state court in Illinois for  payment of the charges due
+   for  the shipments  and the  court awarded  Park Ridge  a default
+   judgment for the full amount that it sought.
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1     Park Ridge  did not have a  written agreement
+   with  Turner concerning transportation services.  Park Ridge says
+   that its agreement with Turner is set forth in a letter dated May
+   9, 1995, written from Park Ridge to Turner.  The letter says that
+   Park  Ridge  was  "pleased  to confirm  the  discounts"  that  it
+   discussed with Turner, and that Park Ridge enclosed a list of its
+   discounts  for Turner s  files.    The  letter does  not  mention
+   providing transportation services for GSA. 
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        Park Ridge asked that we review the action taken by GSA upon
+   its  request for payment, and provided us  with copies of what it
+   called  "original"  GBLs in  support  of  its  request.   Of  the
+   documents that Park  Ridge provided, four are copies  of original
+   GBLs and  none  of  those contains  an  executed  certificate  of
+   carrier  billing.   Most  of the  remaining  "original" GBLs  are
+   actually copies of shipping orders.
+ 
+                               Discussion
+ 
+        Each GBL used for the transportation of property states that
+   it is  governed by  the regulations published  in title  41, part
+   101-41 of  the  Code of  Federal  Regulations.   The  regulations
+   explain that  the GBL consists of  a set of forms,  including the
+   original GBL and the shipping  order, among others.  41 CFR  101-
+   41.302-2  (1995).   The shipper  gives the  original GBL  and the
+   shipping order to the carrier's agent at the time the shipment is
+   tendered,  and the  carrier's  agent signs  the  original GBL  to
+   acknowledge receipt of the shipment.   41 CFR 101-41.306(a).  The
+   carrier's agent retains the shipping order,  and the carrier uses
+   the original GBL as supporting documentation in order  to receive
+   payment.  41 CFR 101-41.302-2, 101-41.306(c).  
+ 
+        The regulations provide that GSA will pay for transportation
+   charges  when  a  voucher, supported  by  the  original, properly
+   certified GBL, is submitted to  the agency identified in block 13
+   of the GBL  for payment to  "[t]he last carrier  or forwarder  in
+   privity  with  the  contract  of carriage  as  evidenced  by  the
+   covering GBL."   41 CFR 101-41.302-2(a)(1), 101-41.302-3(a), 101-
+   41.310-4(a)(1).    With  few  exceptions  not  relevant  here,  a
+   properly  certified GBL  is one  with  block 34,  "Certificate of
+   Carrier Billing," completed  and signed.   The original GBL,  but
+   not the shipping  order, contains this certificate.   An executed
+   certificate  is   required   in  order   for  GSA   to  pay   for
+   t r a n s p o r t a t i o n    c h a r g e s .        4 1   C F R
+   101-41.306(c).[foot #] 2 
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2     The regulations  explain  the  steps  that  a
+   carrier must take in order to receive  payment for transportation
+   services  when  an original  GBL is  lost or  destroyed.   41 CFR
+   101-41.307.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        The regulations also set out the procedures for GSA's review
+   of claims related to transportation services, and define "claims"
+   as follows:
+ 
+        (a) Requests by  claimants for amounts not  included in
+        the original billing;
+ 
+        (b) Requests by  claimants for amounts deducted  or set
+        off by the Government;
+ 
+        (c)  Requests  by  claimants   for  amounts  previously
+        refunded by carriers; or
+ 
+        (d) Unpaid original  bills requiring direct  settlement
+        by  GSA, including those subject to doubt regarding the
+        propriety of payment.
+ 
+   41 CFR 101-41.601.
+ 
+        The only one of these definitions  that could possibly apply
+   to  Park  Ridge's   situation,  paragraph  (d),  authorizes   and
+   obligates  GSA to  spend its  time  considering the  merits of  a
+   request for payment only if that request is supported by original
+   GBLs.    This  threshold  requirement  is  sensible  because  the
+   controlling regulations, referred  to in every GBL,  explain that
+   the submission of  original GBLs is required in  order to receive
+   payment   for   transportation    services.[foot #] 3      Absent
+   unusual circumstances not present here,  such as when an original
+   GBL is  lost or destroyed,  a carrier without original  GBLs will
+   not be paid.   By requiring a request for payment to be supported
+   by original  GBLs, the  regulation ensures that  GSA will  not be
+   compelled to review  requests that have  no possibility of  being
+   paid.
+ 
+        GSA properly decided that Park Ridge did not submit a claim,
+   as  defined by  the  regulations, for  the  services it  provided
+   because  Park  Ridge did  not  support  its request  with  unpaid
+   original  GBLs.   Park Ridge  did not  have unpaid  original GBLs
+   because Park Ridge gave the original GBLs to Turner, and GSA paid
+   Turner for the transportation services provided under those GBLs.
+   Thus,  Park Ridge  did  not  submit a  request  for payment  that
+   constituted a claim,  and the regulations neither  authorized nor
+   obligated GSA to consider Park Ridge's request.
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 3       This  has  been the  government's  rule for
+   nearly 100 years.  14 Comp.Dec. 967, 971 (1907).  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                Decision
+ 
+        The action taken by GSA concerning Park Ridge's  request for
+   payment was correct.
+   ___________________________________
+ 
+                                      MARTHA H. DeGRAFF
+                                      Board Judge

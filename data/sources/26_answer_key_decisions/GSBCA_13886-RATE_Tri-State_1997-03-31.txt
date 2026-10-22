@@ -1,0 +1,171 @@
+                  
+
+                  
+
+
+
+                                                  
+
+                              March 31, 1997
+                                                  
+
+
+                             GSBCA 13886-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, Washington, DC, appearing for General Services
+Administration.
+
+     Colonel David A. Shull, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+DANIELS, Board Judge (Chairman).
+
+     Tri-State Motor Transit Co. challenges the General Services
+Administration's (GSA's) determination as to the correct charges
+for the carriage of a Department of the Navy shipment of goods from
+the Naval Weapons Station in Yorktown, Virginia, to General
+Dynamics in Pomona, California.  The principal issue is whether the
+charges should be assessed on the basis of Tri-State's tender
+number 653 or the company's tariffs ICC TSM 100 and ICC TSM 4001. 
+A subsidiary question is whether the charges should be calculated
+as if the Navy requested exclusive use of the vehicle in which the
+shipment was transported.  
+
+     To resolve the principal issue, we must first determine the
+nature of the goods which were shipped.  The Government bill of
+lading (GBL) that the Navy prepared for this shipment, in January
+1993, described the goods as "radio transmitting and receiving
+sets."  Tri-State explains that in response to a Freedom of
+Information Act request, the Navy provided documents which show
+that the goods were actually missile guidance control systems or
+electronic guidance control apparatus.  GSA agrees that the goods
+were as Tri-State describes them, and the Military Traffic
+Management Command (MTMC), which is representing the Navy in this
+proceeding, does not deny it.  (MTMC argues instead that the goods
+may have been radio set components of guidance control systems. 
+MTMC offers no proof as to the specific identity of the items,
+however.)  We have no basis for concluding that the goods were
+anything other than what Tri-State and GSA say they were: missile
+guidance control systems or electronic guidance control apparatus.
+
+     At the time of this shipment, statute generally required a
+carrier to charge a shipper, including the United States
+Government, the filed commercial tariff rate for transportation
+services.  A transportation company could, however, by filing a
+quoted or tendered rate, carry goods for the Government or a part
+of it without charge or at reduced rates.   C. I. Whitten Transfer
+Co., GSBCA 13911-RATE, slip op. at 7 (Feb. 21, 1997).
+
+     All parties agree that if the goods shipped had been radio
+transmitting and receiving sets, the transportation cost would have
+been as established under Tri-State's tender 653 for "freight all
+kinds."  This was the basis for the charge that Tri-State
+originally billed, and the Navy paid, for the carriage of the
+goods.  Under rules established by MTMC, however, any commodity for
+which a Department of Defense Unique Commodity (DODUC) Code has
+been assigned by MTMC headquarters may not be included as "freight
+all kinds."  MTMC Freight Traffic Rules Publication No. 1A, Item
+115.2.r (1992).  "Missile guidance control systems" fall within
+DODUC Code 14255.  Department of Defense Standard Tender of Freight
+Services at 11 (1991).  This Code is not included in Tri-State's
+tender 653.  Shipping charges for these systems must therefore be
+ascertained with reference to Tri-State's applicable commercial
+tariffs.  These are tariffs ICC TSM 100 and ICC TSM 4001.
+
+     Tri-State and GSA agree that the charge for this shipment
+should have three components: a basic charge with supplements for
+dual driver protective service and motor surveillance service.  As
+to the supplementary charges, although Tri-State and GSA took
+varying positions earlier, they now concur that Tri-State should be
+paid $319.20 for dual driver protective service (2,660 miles times
+twelve cents per mile) and $798 for motor surveillance service
+(2,660 miles times thirty cents per mile).  The dispute has been
+narrowed to the basic charge.
+
+     Tri-State and GSA agree that this charge should be calculated
+from the entries in Item 31000 of tariff ICC TSM 4100, which
+pertain to shipments of dromedaries without stop-offs.  For the
+distance in question, 2,660 miles, this item (as in effect on the
+date of the shipment) shows the appropriate charge to be 5034 cents
+per one hundred pounds for 2,500 pounds, or 7351 cents per one
+hundred pounds for 5,000 pounds.  Although the goods weighed only
+225 pounds, under the terms of the tariff, the charge for the
+shipment must be for a minimum of one of the much larger weights.
+
+     Tri-State maintains that it is entitled to be paid for a
+minimum shipment of 5,000 pounds.  It bases this claim on Item
+470-1 of tariff ICC TSM 4001, which states:
+
+     1)   When a shipper requests exclusive use of an entire
+     Dromedary for a less-than-truckload shipment, charges
+     will be assessed subject to a minimum weight of 5,000
+     pounds or actual weight, if greater, at the 5,000 pound
+     rate. . . .
+
+     4)   The use of any method of sealing a dromedary box
+     . . . , ie: bolt seals, padlocks, cable locks, ball type
+     locks, wire twists, etc., which require the use of
+     mechanical means to break that seal will be considered as
+     a request for exclusive use irregardless [regardless] of
+     any notation on the bill of lading and the charges named
+     in paragraph 1 will be assessed.
+
+The GBL shows, under the heading "seal numbers," the annotation,
+"U.S. DISC: 0813808, 809."  Tri-State maintains that "U.S. DISC" is
+the prefix for a cable lock seal used by the Department of Defense. 
+A Tri-State scheduler informs us, through an affidavit, that in
+more than three years of examining this agency's shipments, he has
+never seen the prefix on any other kind of seal.  Tri-State has
+also sent for our inspection a sample cable lock; this lock, when
+sealed, clearly can be broken only with the use of mechanical
+means.
+
+     GSA notes that the Navy, as shipper, did not in so many words
+request exclusive use of an entire dromedary.  GSA therefore
+maintains that the carrier should be paid at the rate for a minimum
+shipment of 2,500, rather than 5,000, pounds.  GSA is willing to
+accept the higher rate only if Tri-State provides convincing proof
+as to the nature of the seal in this particular shipment.  We think
+Tri-State has provided sufficient proof.  Given the explicit
+language of the relevant tariff, a requirement for the use of cable
+locks on the dromedary in question clearly constituted a
+requirement for exclusive use.  If the seal number annotation on
+the GBL did not establish a specification for such a lock, as Tri-
+State maintains, we are confident that MTMC would have explained
+this to us.  That command has not done so.  Neither GSA nor MTMC
+contends that Tri-State did not provide exclusive use in carrying
+this shipment.  We therefore accept Tri-State's position that the
+charge for the shipment should be made at the 5,000-pound rate.  At
+7351 cents per one hundred pounds, the minimum charge for a 5,000-
+pound shipment, and thus the appropriate charge here, is $3,675.50.
+
+     In resolving this claim, we reject various arguments made by
+MTMC.  The command's substantive contentions all pertain to the
+theory that the charges for the shipment should be calculated from
+entries on Tri-State's tender 653, rather than the carrier's
+commercial tariffs.  Because the tender is not relevant to this
+shipment, the contentions are not, either.  For reasons explained
+in C. I. Whitten, slip op. at 4-7, 10-11, we reject MTMC's
+generalized assertions of laches and estoppel.  The command has not
+shown any prejudice suffered by the Government as a result of Tri-
+State's not having filed the claim more quickly than it did, and
+the fact that the carrier originally billed at lower amounts than
+it now seeks does not preclude the company from proceeding now with
+its claim.
+
+
+
+
+
+                                   _________________________
+                                   STEPHEN M. DANIELS
+                                   Board Judge

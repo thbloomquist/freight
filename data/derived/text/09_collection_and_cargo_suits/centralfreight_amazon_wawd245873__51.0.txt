@@ -1,0 +1,617 @@
+        Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 1 of 10
+
+
+
+
+1                                             The Honorable James L. Robart
+2
+
+3
+
+4
+
+5
+
+6
+                                 UNITED STATES DISTRICT COURT
+7                               WESTERN DISTRICT OF WASHINGTON
+                                          AT SEATTLE
+8
+     CENTRAL FREIGHT LINES, INC., a
+9    Texas Corporation
+10                                        Plaintiff,    Case No. C17-0814JLR
+
+11           v.                                         PLAINTIFF’S MOTION FOR
+                                                        PARTIAL JUDGMENT ON THE
+12   AMAZON FULFILLMENT SERVICES, a                     PLEADINGS
+     Delaware corporation, and DOES 1 through
+13   25, inclusive,                                     NOTED ON MOTION CALENDAR:
+                                                        AUGUST 11, 2017
+14                                     Defendants.
+15
+
+16           Pursuant to Federal Rule of Civil Procedure 12(c), Plaintiff, Central Freight Lines, Inc.
+17   (“Central Freight”) hereby moves for partial judgment on the pleadings against Defendant
+18   Amazon Fulfillment Services (“Amazon”). This motion concerns only Central Freight’s claims in
+19   Count I (Declaratory Judgment) and Count II (Breach of Contract) that Amazon is improperly
+20   withholding payments as purported set-off to the amount Amazon wrongly claims it overpaid. In
+21   support of its motion, Central Freight states as follows:
+22                                       I.        INTRODUCTION
+23           Without contractual or legal authority, Amazon has retained in purported “set off” a total
+24   of $2,856,602.00 due and owing to Central Freight for services rendered. Amazon has never
+25   complained about these services and paid the invoiced amounts without complaint.               It is
+26   undisputed that there is no provision in any contract between Amazon and Central Freight that
+27   gives Amazon a right to set off or attach funds generated for freight services to satisfy previously
+
+     PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                 ROETZEL & ANDRESS
+                                                                              20 S. CLARK STREET
+     NO. C17-0814JLR                                                          SUITE 300
+                                                                              CHICAGO, IL 60603
+     11743919 _1                                                              312.580.1200
+                  Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 2 of 10
+
+
+
+
+          1   paid amounts that Amazon now disputes months and, in some cases, five years later. In fact,
+
+          2   Amazon flatly admits that it has no contractual basis for set off. Instead, Amazon claims it has an
+
+          3   equitable right of extra-judicial set off, but it provides no basis for such a right under Washington
+
+          4   law.
+
+          5          Central Freight requests that the Court review the pleadings and Transportation Agreement
+
+          6   (which has been incorporated into the pleadings) and determine as a matter of law: 1) whether
+
+          7   Amazon has a contractual right to set off; and 2) whether Washington law permits a company to
+
+          8   set off funds in the manner in which Amazon has in this case.
+
+          9       If the answer to both of these questions is no, then Central Freight should be granted partial
+
+        10    judgment on the pleadings as to Counts I and II. As to Count I (Declaratory Judgment), this Court
+
+        11    should enter an order declaring that Amazon wrongfully withheld payments as purported set off to
+
+        12    the amounts it claims it overpaid. As to Count II (Breach of Contract), this Court similarly should
+
+        13    enter an order that Amazon breached the parties’ contract by wrongfully withholding payments as
+
+        14    purported set off to the amounts it claims it overpaid. In the alternative, the Court should grant
+
+        15    Central Freight partial judgment on the pleadings on Counts I and II, and hold that Amazon must
+
+        16    pay Central Freight all monies that it is wrongfully withholding where the corresponding original
+
+        17    invoice predates the contractual 18-month look back period.
+
+        18                                      II.     LEGAL STANDARD 1
+
+        19           The Federal Rules of Civil Procedure permit a party to move for judgment on the pleadings
+
+        20    after the pleadings are closed. See Fed. R. Civ. P. 12(c). Judgment on the pleadings “is properly
+
+        21    granted when, taking all the allegations in the pleadings as true, a party is entitled to judgment as a
+
+        22    matter of law.” Lyon v. Chase Bank USA, N.A., 656 F.3d 877, 883 (9th Cir. 2011); see also
+
+        23    Halliburton Co. v. Texana Oil Co., 471 F. Supp. 1017, 1019 (D. Colo. 1979) (“When a plaintiff
+
+        24    files a motion for judgment on the pleadings under F.R.Civ.P. 12(c), the court must take as true all
+
+        25
+              1
+        26      Plaintiff is not burdening the Court by including a facts section to this brief, which would just
+              restate the parties’ pleadings. Instead, Central Freight incorporates its Complaint (Dkt. No. 1) and
+        27    Amazon’s Answer and Counterclaim (Dkt. No. 48) as if fully set forth herein, and specific citation
+              is made herein to the applicable portions of those pleadings
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                     ROETZEL & ANDRESS
+              No. C17-0814JLR                                                              20 S. CLARK STREET
+                                                                                           SUITE 300
+                                                                2                          CHICAGO, IL 60603
+11743919 _1                                                                                312.580.1200
+                   Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 3 of 10
+
+
+
+
+          1   undenied facts alleged in the complaint.”). A motion for judgment on the pleadings under
+
+          2   Fed.R.Civ.P. 12(c) undergoes the same scrutiny as a motion to dismiss under Fed. R. Civ. P.
+
+          3   12(b).    Point United States v. Washington State Dep't of Transp., 665 F. Supp. 2d 1233, 1237
+
+          4   (W.D. Wash. 2009) (granting plaintiff’s motion for partial judgment on the pleadings), Hal Roach
+
+          5   Studios, Inc. v. Richard Feiner and Co., Inc., 896 F.2d 1542, 1550 (9th Cir. 1990)). However, the
+
+          6   Court is not required to accept as true mere legal conclusions unsupported by alleged facts. Id.,
+
+          7   citing Ashcroft v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 1949–1952 (2009)).
+
+          8            On a Rule 12(c) motion, the court is not strictly limited to considering the face of the
+
+          9   complaint. Snoqualmie Indian Tribe v. City of Snoqualmie, 186 F. Supp. 3d 1155, 1161–62 (W.D.
+
+        10    Wash. 2016). Just like on a Rule 12(b)(6) motion, the court may consider material that is properly
+
+        11    submitted as part of the complaint without converting the motion into a summary judgment
+
+        12    motion. Id. at 1162, citing Point Ruston, 658 F. Supp. 2d at 1273); see also Marder v. Lopez, 450
+
+        13    F.3d 445, 448 (9th Cir. 2006) (“the court may consider a document incorporated by reference into
+
+        14    the pleadings as long as the document is central to the parties’ claims or defenses, and the
+
+        15    document’s authenticity is not in question.”). Here, the parties do not dispute the accuracy of
+
+        16    Exhibits A through E attached to Central Freight’s Complaint, and so the exhibits may be properly
+
+        17    considered without converting the instant 12(c) motion to a summary judgment motion.2
+
+        18                                          III.   ARGUMENT
+
+        19    A.       The Court Can Determine as a Matter of Law Whether Amazon Has an Extra-
+
+        20             Judicial Right to Set Off.
+
+        21             The Court can determine as a matter of law whether Amazon had a contractual or equitable
+
+        22    right to engage in extra-judicial self-help and unilaterally withhold $2,856,602.00 that is owed to
+
+        23    Central Freight for services rendered. (See AFS’ Counterclaim, ¶¶ 29, 36.) The relevant contract
+
+        24    between the parties, the Transportation Agreement, is attached to the Complaint and incorporated
+
+        25
+              2
+        26      Should the Court decide to convert Central Freight’s motion for judgment on the pleadings to a
+              summary judgment motion, Central Freight requests the Court offer it the opportunity to present
+        27    all other material made pertinent to the motion by Rule 56(d). San Diego Gas & Elec. Co. v.
+              Summit Res. Ltd., 131 F.3d 148 (9th Cir. 1997), citing Fed. R. Civ. P. 12(c).
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                  ROETZEL & ANDRESS
+              No. C17-0814JLR                                                           20 S. CLARK STREET
+                                                                                        SUITE 300
+                                                              3                         CHICAGO, IL 60603
+11743919 _1                                                                             312.580.1200
+                 Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 4 of 10
+
+
+
+
+          1   into the pleading.    (Compl., ¶ 11 and Ex. A.)        Under Washington law, interpretation of an
+
+          2   unambiguous contract is a question of law. Manufactured Hous. Communities of Washington v. St.
+
+          3   Paul Mercury Ins. Co., 660 F. Supp. 2d 1208, 1212 (W.D. Wash. 2009). Moreover, Washington
+
+          4   follows the objective manifestation theory of contracts under which a court focuses on the
+
+          5   “objective manifestations of the agreement, rather than on the unexpressed subjective intent of the
+
+          6   parties” to ascertain intent. Contractors Equip. Maint. Co. ex rel. U.S. v. Bechtel Hanford, Inc.,
+
+          7   514 F.3d 899, 903 (9th Cir. 2008) (quoting Hearst Commc’ns, Inc. v. Seattle Times Co., 154
+
+          8   Wash.2d 493, 115 P.3d 262, 267 (2005) (en banc)). The Court may thus review the Transportation
+
+          9   Agreement’s express terms, determine whether an ambiguity exists, and if no such ambiguity
+
+        10    exists determine as a matter of law whether a contractual right of set off exists.
+
+        11           In addition, the court may determine as a matter of law whether Washington law provides
+
+        12    for an equitable right of set off that permits a party to engage in extra-judicial, self-help. See, e.g.,
+
+        13    Snoqualmie Indian Tribe v. City of Snoqualmie, 186 F. Supp. 3d 1155, 1161 (W.D. Wash. 2016)
+
+        14    (judgment on the pleadings is properly granted when there is no issue of material fact in dispute,
+
+        15    and the moving party is entitled to judgment as a matter of law).
+
+        16           If this Court determines as a matter of law that Amazon does not have a right of extra-
+
+        17    judicial set off, partial judgment on the pleadings should be granted to Central Freight on Counts I
+
+        18    and II of its Complaint.
+
+        19           1.      It is Undisputed That Amazon Has No Contractual Right to Set Off.
+
+        20           Amazon admits that it entered into the Transportation Contract with Central Freight.
+
+        21    (Answer, ¶ 3.) Even a cursory reading of the Transportation Agreement establishes that there it
+
+        22    contains no provision that grants Amazon a contractual right to set off. (Compl., at Ex. A.)
+
+        23    Importantly, Amazon does not claim that the Transportation Agreement gives it any contractual
+
+        24    right to set off. Instead, Amazon asserts only one purported legal basis for the extra-judicial set
+
+        25    off – i.e., the “equitable doctrine of set-off.” (Answer, ¶ 4.) Amazon therefore cannot rely on the
+
+        26    Transportation Agreement as justification for its extra-judicial set off.
+
+        27           2.      There is No Common Law Doctrine Authorizing Amazon To Withhold the
+
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                       ROETZEL & ANDRESS
+              No. C17-0814JLR                                                                20 S. CLARK STREET
+                                                                                             SUITE 300
+                                                                 4                           CHICAGO, IL 60603
+11743919 _1                                                                                  312.580.1200
+                 Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 5 of 10
+
+
+
+
+          1                    Money on an Equitable and Extra-Judicial Basis.
+
+          2             Absent a contractual set off provision, Washington law does not permit the withholding of
+
+          3   payment as set-off against a disputed services contract as an extra-judicial, self-help remedy. See,
+
+          4   e.g., Dowling v. Seattle, 22 Wash. 592, 61 P. 709 (1900) (City was entitled to withhold payment
+
+          5   for work done based on the express terms in the contract at issue) (emphasis added). Any
+
+          6   contention by Amazon that it properly engaged in equitable set off should be rejected as a matter
+
+          7   of law.
+
+          8             Under Washington law, recoupment and set off are not self-help remedies. Instead, they
+
+          9   are defenses that can only be asserted as affirmative defenses or counterclaims.                See RCW
+
+        10    4.32.150 (“To entitle a defendant to a setoff he or she must set the same forth in his or her
+
+        11    answer.”); see also RCW 62A.3-305 (“the right to enforce the obligation of a party to pay an
+
+        12    instrument is subject to . . . (3) A claim in recoupment of the obligor against the original payee of
+
+        13    the instrument if the claim arose from the transaction that gave rise to the instrument; but the claim
+
+        14    of the obligor may be asserted against a transferee of the instrument only to reduce the amount
+
+        15    owing on the instrument at the time the action is brought”) (emphasis added); Warren, Little &
+
+        16    Lund, Inc. v. Max J. Kuney Co., 115 Wash. 2d 211, 216, 796 P.2d 1263, 1266 (1990) (“We hold a
+
+        17    contingent unliquidated counterclaim may be pleaded as a setoff . . .”) (emphasis added); see also
+
+        18    Olsen v. Pesarik, 118 Wash. App. 688, 692, 77 P.3d 385, 387 (2003) (recoupment or offset is a
+
+        19    defense). These rules mandate that a party must specifically plead set off in lawsuit, which
+
+        20    demonstrates that set off is not a recognized self-help remedy.
+
+        21              It is well established that “[t]he right of setoff is permissive, not mandatory; its application
+
+        22    rests in the discretion of the court, which exercises such discretion under the general principles of
+
+        23    equity.” Newbery Corp. v. Fireman’s Fund Ins. Co., 95 F.3d 1392, 1399 (9th Cir. 1996); see also
+
+        24    20 Am. Jur. 2d (1965) “Counterclaim, Recoupment, and Setoff,” §§ 7, 14, 18, 24, 25, 29, 64, 75,
+
+        25    161 (setoff, especially equitable setoff, usually remains a procedural option to be exercised in
+
+        26    appropriate circumstances in the sound discretion of the court). Thus, Amazon was not permitted
+
+        27    to unilaterally—and without court authorization—withhold funds due and owing Central Freight
+
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                        ROETZEL & ANDRESS
+              No. C17-0814JLR                                                                 20 S. CLARK STREET
+                                                                                              SUITE 300
+                                                                   5                          CHICAGO, IL 60603
+11743919 _1                                                                                   312.580.1200
+                  Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 6 of 10
+
+
+
+
+          1   as set off for past disputes. Amazon’s proper recourse was to seek assistance from the courts to
+
+          2   adjudicate its dispute with Central Freight; its retention of the monies at issue is thus wrongful.3
+
+          3             Amazon may contend that Central Freight breached the Transportation Agreement by
+
+          4   purportedly overbilling Amazon for the freight services. Even if this were true (which it is not),
+
+          5   Washington law does not permit set off as an extra-judicial remedy in such circumstances.
+
+          6   Instead, “the law gives the [nonbreaching] promisee/obligee the option to declare a default,
+
+          7   terminate the contract, and sue for damages (if any) incurred to date; or, alternatively, to continue
+
+          8   the contract in effect and sue for damages incurred when performance is finished.” Colorado
+
+          9   Structures, Inc. v. Ins. Co. of the W., 161 Wash. 2d 577, 591–92, 167 P.3d 1125, 1133 (2007). In
+
+        10    either case, the nonbreaching party must sue for damages. Amazon took neither of the two options
+
+        11    available to it under the law if it believed that Central Freight overbilled it. By failing to avail
+
+        12    itself of the courts, and instead resorting to self-help, Amazon itself breached the Transportation
+
+        13    Agreement when it failed to pay Central Freight for services rendered when payment was due and
+
+        14    owing.
+
+        15             The reason why Washington law does not permit self-help of the sort Amazon engaged in
+
+        16    is obvious. A large entity such as Amazon has the upper hand in its dealings with its myriad
+
+        17    vendors. If an entity such as Amazon were permitted unilaterally to set off monies owed whenever
+
+        18    there was a dispute, the vendors would be forced to incur the costs, burdens and delays of filing
+
+        19    suit if it wanted to recover monies owed. Furthermore, the vendors could instead be strong-armed
+
+        20    (as Amazon attempted to do here with Central Freight) to capitulate to unfair changes to and
+
+        21    violations of the parties’ agreement.     This could cause great damage to the vendor, just as
+
+        22    Amazon’s withholding of monies due on undisputed services rendered from January through
+
+        23    March 2017 has damaged – and continues to damage – Central Freight.
+
+        24             Accordingly, the Court should grant Central Freight partial judgment on the pleadings on
+
+        25
+              3
+        26      Indeed, the U.S. District Court for the District of Oregon determined that a party’s extra-judicial
+              setoff against disputed royalties was “a form of self-help that impedes [the] court’s fair resolution
+        27    of the pending claims.” Archway Cookies v. Smith Cookie Co., No. CV 03-895-HA, 2004 WL
+              1586890, at *4 (D. Or. July 15, 2004).
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                      ROETZEL & ANDRESS
+              No. C17-0814JLR                                                               20 S. CLARK STREET
+                                                                                            SUITE 300
+                                                                6                           CHICAGO, IL 60603
+11743919 _1                                                                                 312.580.1200
+                   Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 7 of 10
+
+
+
+
+          1   Counts I and II hold that Amazon must pay Central Freight the monies that it is wrongfully
+
+          2   withholding. This lawsuit would then proceed to a determination on the merits as to whether
+
+          3   Central Freight properly billed Amazon for its services.
+
+          4   B.      Alternatively, Judgment on the Pleadings Should Be Granted for All Amounts That
+
+          5           Amazon is Withholding Relating to Invoices Earlier than the 18-Month Contractual
+
+          6           Look Back Period.
+
+          7           In the alternative, should this Court deem that the Transportation Agreement is ambiguous
+
+          8   regarding whether Amazon had a contractual right to set off, Amazon still does not have a right to
+
+          9   withhold any amount where the corresponding original invoice predates the contractual 18-month
+
+        10    look back period. The Transportation Agreement contains an unambiguous provision stating that
+
+        11    “[a]ll claims filed by Amazon for undercharge must be filed within 18 months of the original
+
+        12    invoice.” (Compl, at Exhibit A, Section 2.2.) Amazon sent Central Freight a letter on August 10,
+
+        13    2016 claiming that Central Freight had overbilled Amazon for shipments. (Compl, at Ex. D;
+
+        14    Answer, ¶ 35.)    Pursuant to the express terms of the contractual 18-month look back period,
+
+        15    Amazon could only seek reimbursement for invoices dating back to on or about mid-February of
+
+        16    2015. Despite this, and in violation of the Transportation Agreement’s express terms, Amazon’s
+
+        17    demand letter sought reimbursement for transportation services for the entire period “from
+
+        18    January, 2012 through July, 2016.” (Id.)
+
+        19            The Court should grant Central Freight partial judgment on the pleadings on Counts I and
+
+        20    II, and hold that Amazon must pay Central Freight all monies that is wrongfully withholding
+
+        21    where the corresponding original invoice predates the contractual 18-month look back period.
+
+        22    Central Freight believes that when the 18-month look back period is considered, the total amount
+
+        23    that Amazon could recover under the Transportation Agreement for the disputed LTL overcharges
+
+        24    is $1,302,440.   (Compl., ¶¶ 70-71.)       Because of this, Central Freight believes Amazon is
+
+        25    improperly withholding $1,554,162, which is the difference between Amazon’s original demand
+
+        26    of $2,856,602 and the 18-month look back amount of $1,302,440.           (Compl., ¶¶ 64, 70-71.)
+
+        27    However, the pleadings do not establish the amount as a matter of law. Central Freight therefore
+
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                  ROETZEL & ANDRESS
+              No. C17-0814JLR                                                           20 S. CLARK STREET
+                                                                                        SUITE 300
+                                                               7                        CHICAGO, IL 60603
+11743919 _1                                                                             312.580.1200
+                 Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 8 of 10
+
+
+
+
+          1   requests that, should it be granted partial judgment on the pleadings on Counts I and II, the matter
+
+          2   then be set for an evidentiary hearing to determine the amounts Amazon is wrongfully
+
+          3   withholding.
+
+          4                                          IV.     CONCLUSION
+
+          5          For the reasons stated herein, Central Freight respectfully requests the Court review the
+
+          6   pleadings, including the exhibits attached thereto, and enter partial judgment on the pleadings in
+
+          7   Central Freight’s favor on Count I and II in the amount of $2,856,602.00, finding that Amazon’s
+
+          8   failure to pay for undisputed services rendered in January through March 2017 is a breach of the
+
+          9   Termination Agreement, and declare that Amazon cannot withhold payment for those services
+
+        10    based on a prior dispute with Central Freight. In the alternative, Central Freight respectfully
+
+        11    requests the Court grant Central Freight partial judgment on the pleadings on Counts I and II,
+
+        12    holding that Amazon must pay Central Freight all monies that is wrongfully withholding where
+
+        13    the corresponding original invoices predate the contractual 18-month look back period, and set the
+
+        14    matter for an evidentiary hearing to determine the amount wrongfully withheld.
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                   ROETZEL & ANDRESS
+              No. C17-0814JLR                                                            20 S. CLARK STREET
+                                                                                         SUITE 300
+                                                               8                         CHICAGO, IL 60603
+11743919 _1                                                                              312.580.1200
+                 Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 9 of 10
+
+
+
+
+          1                                               Respectfully submitted,
+
+          2                                               Central Freight Lines, Inc., a Texas corporation
+
+          3
+              Dated: July 20, 2017                        s/ Marc H. Kallish
+          4
+
+          5                                               Marc H. Kallish (Pro Hac Vice)
+                                                          Garry L. Wills (Pro Hac Vice)
+          6                                               ROETZEL & ANDRESS LPA
+                                                          20 S. Clark St., Suite 300
+          7                                               Chicago, IL 60603
+                                                          Telephone: 312.580.1200
+          8                                               E-mail:mkallish@ralaw.com
+          9                                                      gwills@ralaw.com
+                                                          Attorneys for Plaintiff, Central Freight Lines, Inc.
+        10
+                                                          s/Jacob M. Downs
+        11                                                CORR DOWNS PLLC
+                                                          100 W. Harrison St., N440
+        12                                                Seattle, WA 98119
+        13                                                Telephone: 206.962.5041
+                                                          E-mail:jdowns@corrdowns.com
+        14                                                Attorneys for Plaintiff, Central Freight Lines, Inc.
+
+        15
+
+        16
+                                             CERTIFICATE OF SERVICE
+        17
+                    I, Marc H. Kallish, an attorney of record, do hereby certify that on July 20, 2017, a copy of
+        18
+              this document was served via the Court’s ECF system on the following:
+        19
+        20    Jacob M Downs                                    Joshua R. Mandell
+              Corr Downs PLLC                                  Michael R. Weiss
+        21    100 West Harrison St., Suite N440                Akerman LLP
+              Seattle, WA 98119                                725 South Figueroa Street 38th Floor
+        22    Phone: 206-962-5041                              Los Angeles, CA 90017
+              Email: jdowns@corrdowns.com                      Phone: 213-688-9500
+        23
+                                                               Fax: 213-627-6342
+        24                                                     Email: joshua.mandell@akerman.com
+                                                               michael.weiss@akerman.com
+        25
+
+        26    Jeremy Robert Larson                             Gregory L Doll
+              Tim J. Filer                                     Jamie Olivia Kendall
+        27    Foster Pepper PLLC                               L. Katie Machado
+
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS                  ROETZEL & ANDRESS
+              No. C17-0814JLR                                                           20 S. CLARK STREET
+                                                                                        SUITE 300
+                                                              9                         CHICAGO, IL 60603
+11743919 _1                                                                             312.580.1200
+                Case 2:17-cv-00814-JLR Document 51 Filed 07/20/17 Page 10 of 10
+
+
+
+              1111 Third Ave.                               Doll Amir and Eley LLP
+          1   Suite 3000                                    1888 Century Park East Suite 1850
+          2   Seattle, WA 98101-3299                        Los Angeles, CA 90067
+              206-447-4400                                  310-557-9100
+          3   Fax: 206-447-4400                             Fax: 310-557-9103
+              Email: jake.larson@Foster.com                 Email: gdoll@dollamir.com
+          4         tim.filer@Foster.com                           jkendall@dollamir.com
+          5                                                        kmachado@dollamir.com
+          6
+
+          7
+
+          8                                               By: /s/ Marc H. Kallish
+          9
+                                                          Marc H. Kallish
+        10                                                ROETZEL & ANDRESS LPA
+        11                                                20 South Clark Street, Suite 300
+                                                          Chicago, Illinois 60603
+        12                                                Phone: 312-582-1604
+                                                          Fax: 312-580-1201
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+              PLAINTIFF’S MOTION FOR PARTIAL JUDGMENT ON THE PLEADINGS              ROETZEL & ANDRESS
+              No. C17-0814JLR                                                       20 S. CLARK STREET
+                                                                                    SUITE 300
+                                                          10                        CHICAGO, IL 60603
+11743919 _1                                                                         312.580.1200
+

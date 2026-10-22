@@ -1,0 +1,125 @@
+ 
+                     
+ 
+                     
+ 
+ 
+            _______________________________________________
+ 
+                            January 9, 1998
+            _______________________________________________
+ 
+ 
+                            GSBCA 14249-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        Jeffrey J. Thurston, Director, Office of Transportation
+   Audits, General Services Administration, Washington, DC,
+   appearing for General Services Administration.
+ 
+        Col. James F. Quinn, Staff Judge Advocate, Headquarters,
+   Military Traffic Management Command, Department of the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   BORWICK, Board Judge.
+ 
+        Tri-State Motor Transit Company (Tri-State) filed a request
+   for review with the General Accounting Office of the General
+   Services Administration s (GSA S) denial of claims for reimburse-
+   ment for alleged excess released value on five shipments sent by
+   government bills of lading (GBLs).[foot #] 1  GSA had
+   denied each claim for the same reason, essentially that the
+   Government had no intention of declaring a released value in
+   excess of the default released value of $20,000 established for
+   the shipped goods by Military Traffic Freight Rules Publication
+   No. 1A (MTFRP 1A) Item 190.  
+ 
+        In considering this matter, the GAO stated:
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1    Congress  transferred   the  review   function
+   formerly  performed by  GAO  to  the Director  of  the Office  of
+   Management and Budget (OMB) and  authorized him to delegate it to
+   any  other agency or  agencies.  Pub.  L. No.  104-53,   211, 109
+   Stat. 514, 535 (1995).  The Acting Director of OMB delegated this
+   function to GSA  (Delegation, June 28, 1996), and  the Acting GSA
+   Administrator  redelegated it to this Board (Delegation, July 17,
+   1996).   Later, Congress  made permanent  the assignment  of this
+   duty to the Administrator.  Pub. L. No. 104-316,   202(o)(2), 110
+   Stat. 3826, 3844 (1996).  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        As you suggest, GSA's settlements appear to be contrary
+        to our decision in Tri-State Motor Transit Company-
+        Reconsideration, B-254378.2 et. al., July 5, 1995. 
+        Your letter to the [Administrator of General Services],
+        dated September 14, 1995, indicates that you are at-
+        tempting to enforce our July 5, 1995, decision within
+        GSA.  If you are unsuccessful with the Administrator,
+        you may have to pursue other remedies.  We have clearly
+        stated our position on the matter and have nothing
+        further to add. We will maintain this letter as evi-
+        dence of your request  for review, and will provide a
+        copy of it with all enclosures to GSA and to the Mili-
+        tary Traffic Management Command.  Please advise if you
+        believe there are further steps we can take.
+ 
+        We consider the last paragraph of this letter to be an
+   indication that the matter remained pending and was not resolved
+   by GAO.  Tri-State Motor Transit Co., GSBCA 14243-RATE (Nov. 4,
+   1997).  We proceed to consider the claim on its merits.
+ 
+        For the reasons stated below, we conclude that GSA erred in
+   denying the claims.  
+ 
+        The GBLs and claimed amounts are: 
+ 
+                  D-2,408,998      $60.00
+                  C-1,038,403        9.00
+                  E-2,255,752       37.35
+                  D-1,038,400        9.00
+                  C-7,934,279       88.80
+ 
+        The claim for GBL D-2,408,998 is typical of the five claims
+   presented here.  Under that GBL, Tri-State carried a motor
+   vehicle/truck, weighing 24,000 pounds, from Martin Marietta
+   facilities in Orlando, Florida to the Redstone Arsenal in Ala-
+   bama.  The truck was shipped as freight all kinds (FAK), and the
+   GBL contained the following notation: "RVNX [released value not
+   to exceed] $2.50 [per pound]."  
+ 
+        Tri-State charged the Government $817.40, which the Govern-
+   ment paid.  Then, Tri-State filed a claim for the excess declared
+   value, which it calculated as follows.  Tri-State derived the
+   declared value of $60,000 (24,000 (the weight of the truck) x
+   $2.50).  The excess declared value above the default released
+   value of $20,000 established by MTFRP 1A) Item 190 was therefore
+   $40,000.  Tri-State applied the rate of $.15/$100 to arrive at an
+   amount due of $60.00 (($40,000/100) x $.15). 
+      
+        The Government maintains the released value statements on
+   the GBLs such as "RVNX $2.50 per lb.," do not entitle claimant to
+   payment beyond the FAK rates.  Both this Board and the General
+   Accounting Office have considered this "released valuation" issue
+   and have concluded that the Government is wrong.  Tri-State Motor
+   Transit Co., GSBCA 14352-RATE (Jan. 6, 1998); Tri-Stae Motor
+   Transit Co., GSBCA 14245-RATE (Nov. 26, 1997); Tri-State Motor
+   Transit Co., GSBCA 13839-RATE, 97-1 BCA   28,953; Tri-State Motor
+   Transit Co., GSBCA 13746-RATE, 97-1 BCA   28,951; Tri-State Motor
+   Transit Co.--Reconsideration, B-254378.2, et al. (July 5, 1995). 
+   We follow our earlier decisions and the decisions of the GAO. 
+   Tri-State is entitled to payment on its claims.
+ 
+                                 __________________________
+                                 ANTHONY S. BORWICK
+                                 Board Judge

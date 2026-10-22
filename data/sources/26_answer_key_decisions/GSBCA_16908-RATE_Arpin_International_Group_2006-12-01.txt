@@ -1,0 +1,132 @@
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+
+
+                 ________________________________
+
+                         December 1, 2006
+                 ________________________________
+
+
+                         GSBCA 16908-RATE
+
+
+            In the Matter of ARPIN INTERNATIONAL GROUP
+
+
+     Mark Greene, GSA and Alaska Division, Arpin International Group, East Greenwich,
+RI, appearing for Claimant.
+
+     James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, Arlington, VA, appearing for General Services
+Administration.
+
+     Jeremy Weinberg, Office of the Legal Adviser, Department of State, Washington, DC,
+appearing for Department of State.
+
+DANIELS, Board Judge (Chairman).
+
+     Arpin International Group (Arpin) and the General Services Administration (GSA)
+disagree as to the amount Arpin should be paid for transporting property belonging to an
+employee of the Department of State.  Arpin moved the goods from Nagoya, Japan, to a
+storage facility in Waldorf, Maryland, a suburb of Washington, District of Columbia, in
+2003.  Arpin believes that it should be paid at its tariffed rate for moving the goods from
+Japan to Maryland.  GSA has determined that payment should be at Arpin's tariffed rate for
+moving the goods from Japan to the District of Columbia, which is lower.  At Arpin's
+request, we review GSA's determination.
+
+     GSA points to the following in support of its position:  
+
+     (1)  A standard form 1113, Public Voucher for Transportation Charges, shows the
+     destination of the goods as Washington, D.C.  
+
+     (2)  A DD form 619-1, Statement of Accessorial Services Performed (Storage-in-
+     Transit Delivery and Reweigh), shows that when the goods were removed from
+     storage, about six weeks after Arpin left them there, they were delivered to the State
+     Department employee at an address in Washington, D.C.
+
+     (3)  The U.S. Government Freight Transportation Handbook (July 25, 2000)
+     instructs the transportation service provider (TSP) to enter, in block 5 of a government
+     bill of lading (GBL), "the final destination point where the TSP is to make actual
+     delivery of the shipment to the consignee."  The State Department employee signed
+     the DD form 619-1 for this shipment as "consignee or authorized agent."
+
+     (4)  The Board has held that "although a shipper may prepare a GBL, the carrier
+     is ultimately responsible for issuing the GBL and should not execute it if it is obvious
+     that the GBL contains conflicting terms.  In the event the carrier executes the GBL
+     notwithstanding the obvious conflict, it cannot later benefit from corrections or
+     clarifications."  Tri-State Motor Transit Co., GSBCA 15099-RATE, 00-1 BCA
+      30,711 (1999).
+
+     (5)  GSA's 2002-2003 request for offers to all participants in GSA's centralized
+     household goods traffic management program, in section 6-3, indicates that
+     destination is a factor in determining the rate at which a participant will be paid for
+     services it provides.
+
+     Arpin, in response, advances the following points:
+
+     (1)  The GBL for this shipment showed in block 5 a destination in Maryland, and
+     the goods were actually delivered to such a destination.  The GBL is the critical
+     document for determining the charges.
+
+     (2)  When Arpin delivered the goods to the storage facility, it had no idea where
+     those goods would be delivered upon leaving the facility.  That ultimate destination
+     was dependent on the State Department employee's choice of residence -- a factor
+     which was unrelated to Arpin's services.
+
+     (3)  Further, if an employee's choice of residence is to be a factor in setting charges
+     for transportation to a storage facility, the carrier would be precluded from correctly
+     billing for its services for an indeterminate period of time.  A transferred employee's
+     household goods may be stored temporarily at government expense for as long as 180
+     days, 41 CFR 302-7.8 (2003), and the goods may be stored for a longer period at the
+     employee's expense.
+
+     (4)  The destination shown on the voucher is a destination which is provided by the
+     agency that requests the carrier's services and is usually the place where the employee
+     will work once his transfer is completed.  That place is not necessarily the place to
+     which the carrier delivers the goods.
+
+     The State Department supports Arpin's position.  It explains:
+
+     When the Department books outbound shipments with carriers, it most often
+     does not know the actual residence delivery address, only a general area where
+     the employee is assigned.  Washington, D.C. is one of the most common areas
+     in which this occurs.  Employees arrange to depart post knowing only that they
+     will reside within the greater Washington metropolitan area -- covering
+     Washington, D.C., and portions of Maryland and Virginia -- but not knowing
+     in advance the actual address where they will reside.  The carrier therefore
+     must store the shipment at a location in the metro area, without knowing at the
+     time where the final delivery to residence will take place.
+
+The State Department explains further that as part of its normal business process, it makes
+a separate payment for delivery of an employee's belongings from the place of storage to the
+residence the employee selects.
+
+     Transportation law seems to have a logic of its own, one that is often quite distinct
+from the logic of general commercial contract law.  Tri-State Motor Transit Co., GSBCA
+14170-RATE, et al., 97-2 BCA  29,294 (citing Strickland Transportation Co. v. United
+States, 334 F.2d 172, 178 (5th Cir. 1964)).  By no stretch of the imagination, however, can
+even the logic of transportation law be construed to dictate a result that a carrier is paid for
+its services on the basis that it delivered goods to a location other than the place to which
+delivery was actually made, as long as the delivery is in accordance with the provisions of
+a GBL.  When Arpin delivered the State Department employee's goods to a storage facility
+in Maryland, pursuant to the terms of the relevant GBL, its work was done.  The storage
+facility was the destination as far as Arpin was concerned.  Any movement of the goods to
+the place the employee later chose to live would likely be performed by another carrier and
+would certainly be paid for separately.  Making the amount Arpin would be paid dependent
+on the employee's choice of residence would be senseless, for that choice has nothing to do
+with Arpin's services.
+
+     We consequently reverse GSA's determination that Arpin should be paid at its tariffed
+rate for transporting the goods from Japan to the District of Columbia, rather than at its
+tariffed rate for transporting the goods from Japan to Maryland.
+
+
+
+
+
+                                   _________________________ 
+                                   STEPHEN M. DANIELS
+                                   Board Judge

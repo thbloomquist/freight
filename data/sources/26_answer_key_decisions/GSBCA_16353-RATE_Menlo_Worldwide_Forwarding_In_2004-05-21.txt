@@ -1,0 +1,277 @@
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+
+
+
+                  ______________________________
+
+                           May 21, 2004
+                  ______________________________
+
+
+                         GSBCA 16353-RATE
+
+
+        In the Matter of MENLO WORLDWIDE FORWARDING, INC.
+
+
+     Ralph L. Kissick of Zuckert Scoutt & Rasenberger, L.L.P., Washington, DC,
+appearing for Claimant.
+
+     James F. Fitzgerald, Director, Audit Division, Office of Transportation and Property
+Management, Federal Supply Service, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+      Lt. Col. Robert M. Reist, Chief, Acquisition and Fiscal Law Division, Office of the
+Staff Judge Advocate, Air Mobility Command, Department of the Air Force, Scott Air Force
+Base, IL, appearing for Department of the Air Force.
+
+PARKER, Board Judge.
+
+     Menlo Worldwide Forwarding, Inc., formerly known as Emery Worldwide, a CNF
+Company (Emery), has asked the Board to review the final decision of the General Services
+Administration's (GSA's) Audit Division, Office of Transportation and Property
+Management, that applied alternation of tender rates to abrogate the payment provisions of
+an agreement made in 1999 by the depot at Hill Air Force Base, Utah (Hill), to obtain
+guaranteed priority air freight transportation services from Emery.  Because GSA's actions
+were without a legal basis, we grant the claim.
+                            Background
+
+     In early January 1999, Emery introduced an airfreight delivery service called "Gold
+Priority Guaranteed Service."  This new service provided Emery's customers with
+guaranteed delivery times for both small package deliveries (up to 150 pounds), which a few
+carriers including Emery had been offering, and heavyweight shipments (up to 10,000
+pounds), which no company then offered.  Subject only to very limited exceptions (for
+weather, air traffic control and the like, but not for equipment failures), if the guaranteed
+delivery times were not met, all related shipping charges would be refunded by Emery. 
+Previously, if a delivery arrived late, the customer still paid shipping charges based on
+whenever the shipment was actually received.
+
+     In February 1999, Emery representatives contacted John Wojciechowski, the
+Transportation Officer at Hill, which was one of Emery's largest Government customers. 
+Emery already was providing Hill with its regular freight-all-kinds (FAK) service, but that
+service does not include guaranteed delivery times.  After reviewing a brochure describing
+Emery's Gold Priority Guaranteed Service and being briefed about its benefits, Mr.
+Wojciechowski said Hill would be interested in using the service.  He indicated that, under
+the Department of Defense's (DoD's) acquisition policy of using best commercial practices, 
+he had authority as the Depot Transportation Officer to enter into "best value" local
+agreements tailored to Hill's particular requirements.  It was agreed that Emery's Salt Lake
+City account manager would meet with him to discuss a possible local agreement bringing
+the new Gold Priority Guaranteed Service to Hill.
+
+     At the same time, Emery began the process of complying with DoD's new tender
+rules.  Air Mobility Command (AMC) Freight Traffic Rules Publication No. 5 (AFTRP 5),
+effective April 1, 1999, and Military Traffic Management Command (MTMC) [Foot # 1 ]
+Standard Tender Instruction Publication No. 364-B (MTMC Pub. 364), effective August 1,
+1998, established a uniform set of business standards governing all tenders for the carriage
+of DoD freight by air.  Emery discussed its planned Gold Priority Guaranteed Service and
+how to proceed, not only with AMC, but also with responsible officials at MTMC and DoD. 
+AMC, MTMC, and DoD all were supportive of the guaranteed delivery concept.  From late
+summer 1998 through early 1999 Emery was in contact with Tamara Thouvenot, Chief,
+International Airlift Expansion, Airlift Procurement Division, Headquarters AMC, who was
+AMC's designated point of contact for the new tender rules and their implementation.  On
+January 11, 1999, the day that Emery publicly announced its new Gold Priority Guaranteed
+Service, Emery's Global Account Manager - Government Sales, Mike McVeigh, called
+Ms. Thouvenot to tell her that Emery was officially launching the new service for
+commercial customers and wanted to offer it to DoD customers, too.  Mr. McVeigh
+explained the concept of the comprehensive Gold Priority Guaranteed Service, which would
+be priced at slightly higher rates than Emery's FAK services because there would be value
+added for DoD with the guaranteed delivery times.  He pressed AMC to add a designation
+(like "G") to the new tender format so that DoD users would understand that higher tender
+rates denoted guaranteed delivery services.  Ms. Thouvenot asked Mr. McVeigh to send her
+something in writing.  In response, Mr. McVeigh faxed her that same day Emery's press
+release announcing implementation of the new Gold Priority Guaranteed Service, and on
+January 21, 1999, he sent her a memorandum enclosing copies of the terms that would apply
+to the service.  After receiving these materials, Ms. Thouvenot told Mr. McVeigh that AMC
+liked the Gold Priority Guaranteed Service, provided that any related tenders conformed to
+the new tender rules.
+
+****************** Footnote Begin **********
+[Foot # 1 ]       MTMC was renamed the Surface Deployment and Distribution Command
+as of January 1, 2004.
+****************** Footnote End ************
+
+
+     Emery understood this as AMC's authorization to proceed.  As Mr. McVeigh states
+in his affidavit:
+
+     My understanding from what Ms. Thouvenot told me was that we could file
+     a separate Gold Priority Guaranteed Service tender so long as we didn't
+     include any reference to a related [Emery] service guide or other publication
+     on the tender form; it would be left up to the DoD users to determine whether
+     the higher rates were tied to useful higher value services.  Neither
+     Ms. Thouvenot nor anyone I spoke to at AMC, MTMC or DoD said we
+     couldn't offer our Gold Priority Guaranteed Services, or said that we could not
+     submit a separate tender for those services when we already had a tender for
+     our FAK services in place.  No one I spoke to ever mentioned a possible rate
+     alternation issue.
+     
+     The AMC guidance, while not as helpful as a change in the tender rules would
+     have been, gave us sufficient authorization to proceed.  It meant that we could
+     file a separate tender with AMC for the comprehensive Gold Priority
+     Guaranteed Service, and with that approved then we'd need to contact the
+     individual DoD locations and explain to the Transportation Officers the
+     characteristics of our new service and the value that justified the higher
+     tenders rates.  Frankly, that's no different than what we now have to do with
+     respect to FAK services, since the revised tender format provides only basic,
+     uniform information for all FAK tenders entered into DoD's computer
+     systems, leaving it up to each Transportation Officer to somehow determine
+     the specific characteristics and quality of the carrier and the FAK services that
+     are being offered at the stated rates.
+
+     With the go-ahead from AMC, Emery filed a new tender with AMC to authorize use
+of the Gold Priority Guaranteed Service at Hill.  This tender, Emery No. 1003, stated that
+it only applied at Hill.  As discussed with Ms. Thouvenot, it was priced with rates slightly
+higher than those in the company's general FAK tender then in effect, in order to reflect the
+value added service that would be provided to Hill with the Gold Priority Guaranteed
+Service.  Further, as required by AMC's guidance, Emery No. 1003 made no mention of an
+Emery service guide or other publication.  Emery No. 1003 was approved by AMC with an
+April 1, 1999, effective date.  The approved tender and its rates were then loaded by MTMC
+into DoD's Global Freight Management System and Power Track for use by Hill, invoicing
+by Emery, and payments by DoD.
+
+     Following AMC's approval of Emery No. 1003, Emery had its Salt Lake City Senior
+Account Manager responsible for Hill, Bryce Worthington, meet with Hill's Transportation
+Officer, Mr. Wojciechowski.  That meeting took place at Hill on or about March 5, 1999. 
+Mr. Worthington discussed the Gold Priority Guaranteed Service in detail with
+Mr. Wojciechowski, including going over the brochure explaining the service that Emery
+previously had provided him.  Mr. Worthington also gave Mr. Wojciechowski a copy of
+Emery No. 1003, then approved by AMC, and discussed the rates in that tender with him. 
+Mr. Wojciechowski said he was interested in a customized version of Emery's guaranteed
+service.  For Hill, which already could obtain guaranteed small package delivery service
+(through a GSA government-wide contract), Mr. Wojciechowski wanted the guarantee of
+delivery times for Hill's heavyweight shipments, coupled with a commitment from Emery
+to give those shipments boarding priority over Emery's commercial traffic.  At the March 5,
+1999, meeting, the two men eventually agreed on a series of benefits and preferences that
+Mr. Wojciechowski requested, tailored to Hill's specific needs.  The rates would be those
+specified in Tender No. 1003.
+
+     In short, the Hill Transportation Officer followed up on AMC's approval of Emery's
+Gold Priority Guaranteed Service and tender rates, and negotiated to obtain additional
+benefits at no added cost to the Government.  The customized Gold Priority Guaranteed
+Services have proved so beneficial to Hill that it not only discontinued using Emery's FAK
+services altogether after March 1999, but it has significantly increased the volume of freight
+offered to Emery.
+
+     By notices issued in July 2003, the GSA Audit Division alleged that Emery
+overcharged DoD a total of $198,491.88 (with interest) on 1160 guaranteed priority
+shipments originating at Hill during the period from January 31, 2001, to January 25, 2002. 
+In each case, the Audit Division cited AFTRP 5, Item 215(3), "Alternation of Rates - DoD
+Tenders," as the basis for the overcharge notice, asserting that Emery's Hill site-specific
+tender for the guaranteed delivery services and Emery's lower priced FAK tender covering
+non-guaranteed services are subject to alternation of rates, on the assumption that the two
+tenders cover the same services.  By agreement with GSA, Emery paid $271.97 under
+protest in response to three of the overcharge notices, and on October 14, 2003, it hand-
+delivered a protest/request for reconsideration (dated October 9, 2003) to GSA using these
+three notices as test cases.  On October 31, 2003, GSA issued a three-page decision
+maintaining that alternation is proper.  Since that decision, GSA has been issuing overcharge
+notices based on the same alternation premise with respect to the similar agreements Emery
+has at six other locations, as well as for additional Hill shipments, bringing the total amount
+in dispute to almost $1,000,000 and counting.  GSA already has offset over $140,000 from
+funds otherwise owed Emery, in addition to the $271.97 that Emery paid in protest on the
+three test cases.  Emery has sought review of GSA's decision by this Board.
+
+                            Discussion
+
+     GSA's arguments in this case attempt to justify the agency's decision to take money
+away from Menlo (Emery) for providing a new service that by all accounts is fairly priced
+and for which its customer, Hill, is happy to pay.  It appears from GSA's somewhat
+confusing and at times self-contradicting submissions that GSA originally did not realize
+that the Gold Priority Guaranteed Service was different from the services called for under
+Emery's FAK tender, and GSA simply applied the lower FAK tender rates to the
+transactions.  Later, when it became apparent that Hill had ordered services different from
+Emery's FAK services, GSA continued to assert that alternation of rates applied, and added
+a second basis for offsetting the payments, arguing that Emery's new tender failed to comply
+with DoD's tender rules.  GSA has failed, however, to explain how the new tender failed to
+comply with the DoD rules.
+
+     The asserted basis for GSA's offset was "alternation of rates."  Alternation of rates
+means that, if a carrier has more than one rate that applies to a service, the carrier's lowest
+applicable  rate is applied.  See AFTRP 5 Item 215(3).  Alternation of rates only applies,
+however, where more than one rate applies to the same service.  We are aware of no case
+(and GSA has cited none) in which alternation of rates has been held to apply to tenders for
+different levels of service.  The rule has always been that "officers of the Government have
+no authority to contract for interstate or intrastate transportation rates higher than those
+available to the general public for the same or similar service."  Hilldrup Transfer & Storage
+Co., 58 Comp. Gen. 375 (1979) (emphasis added).
+     Consistent with this rule, DoD's AFTRP 5 Item 225 provides:
+
+     When a carrier publishes different levels of service at varying rates, carrier
+     will bill the Government at the rate applicable to the actual service performed
+     and not to exceed the rate applicable to the service requested.
+
+AFTRP 5 at 3-4.  This is exactly what Emery did.  Emery billed Hill at the agreed AMC-
+approved rates applicable to the Gold Priority Guaranteed Service actually provided to Hill,
+which was the only Emery service that Hill requested.  The Gold Priority Guaranteed Service
+was not similar to the FAK service because of the addition of an important new feature --
+guaranteed delivery.  By maintaining that alternation of rates was appropriate, GSA is in
+essence arguing that, although Hill ordered a Honda Accord with a premium package of
+options, it may only pay for a Honda Accord without the options package because both
+vehicles are Honda Accords.  This is not, and has never been, the law.
+
+     GSA also argues that Emery's tender for the Gold Priority Guaranteed Service was
+not valid because it failed to comply with the requirements of AFTRP 5, although the agency
+has yet to provide either Menlo or this Board with a clear statement as to why this would be
+so.  In their submissions, GSA and AMC have admitted that a tender for Emery's Gold
+Priority Guaranteed Service is allowable under AFTRP 5.  Apparently, however, GSA
+believes the Hill tender to be invalid either because (1) Hill's Transportation Officer
+negotiated for additional free services that Emery would provide under the new tender
+without first obtaining AMC's approval or (2) AFTRP 5 prohibits Emery's FAK tender and
+its Gold Priority Guaranteed Service tender from being in effect in the same location at the
+same time.
+
+     Both arguments are without merit.  First, there is nothing in AFTRP 5 that would
+render Emery's Gold Priority Guaranteed Service tender invalid because additional free
+services were negotiated by Hill's Transportation Officer.  AMC approved the original Gold
+Priority Guaranteed Service tender.  To argue without any basis that AMC would have
+rejected a tender that provided the same services, plus additional services at no additional
+cost, borders on the absurd and can in no way justify a refusal to pay for legitimate services
+rendered.
+
+     Moreover, Hill's Transportation Officer acted in accordance with a Policy Directive
+promulgated by DoD via a department-wide memorandum on January 15, 1998.  Claimant's
+Submission (Jan. 30, 2004), Attachment 2 (Memorandum on Transportation Acquisition
+Policy) at 3-7.  The memorandum explains that: "The attached Transportation Acquisition
+Policy establishes, for the first time, a definitive, flexible DoD policy for the acquisition of
+transportation and related services."  Id. at 3.  The memorandum goes on to state: "The
+policy requires the use of best-commercial practices and best-value evaluation procedures
+when acquiring transportation services."  Id.  The use of "best commercial practices" and
+"best value" procedures, the Policy Directive provides, is to be accomplished through "a
+variety of flexible procurement instruments."  Id. at 5.  These include not only FAR-based
+commercial item contracts, but also "tariffs and tenders, as appropriate."  Id.  "Regardless
+of the procurement instrument that is used, the following policy, guidelines and requirements
+shall be addressed in all acquisitions of transportation and related services."  Id.
+
+     Whatever the outer limits of the Hill Transportation Officer's authority to negotiate
+local changes to AMC-approved tenders may be, it is clear that, here, Mr. Wojciechowski
+acted within his authority when he concluded that he could obtain the Gold Priority
+Guaranteed Service that AMC already had authorized, with an added site-unique package
+of extra services at the same rates that AMC had approved.  By comparison to the FAK
+service that Hill was receiving at the time, and even the standard Gold Priority Guaranteed
+Service, the customized Gold Priority Guaranteed Service-plus clearly represented the "best
+value" for Hill.  GSA's argument that the Transportation Officer's negotiation of additional
+free services somehow invalidated the AMC-approved tender is not reasonable in light of
+the relevant authorities.
+
+     With regard to GSA's second argument for the Gold Priority Service tender being
+invalid -- that AFTRP 5 prohibits Emery's FAK and Gold Priority Service tenders from
+being in place at the same location at the same time -- we have not found, nor has GSA
+pointed us to, any provision in AFTRP 5, or any other document, that would support this
+argument.  To the contrary, AFTRP 5 Item 225 recognizes that service providers may offer
+"different levels of service at varying rates."  AFTRP 5 at 3-4.
+
+                             Decision
+
+     GSA's actions in connection with Menlo's Gold Priority Guaranteed Service were
+without a legal basis.  Accordingly, the claim is granted.  GSA shall (1) withdraw all
+overcharge notices and cease taking offsets on the same basis with respect to the tender rates
+for the Menlo's Gold Priority Guaranteed Service and (2) repay Menlo for all amounts offset
+by GSA or paid by Menlo in connection with the service.
+
+
+
+                                   ___________________________
+                                   ROBERT W. PARKER
+                                   Board Judge

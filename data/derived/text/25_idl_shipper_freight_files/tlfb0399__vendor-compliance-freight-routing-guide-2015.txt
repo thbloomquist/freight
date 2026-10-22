@@ -1,0 +1,814 @@
+                                   WAREHOUSE GO
+
+
+
+
+               Vendor Compliance and
+                Freight Routing Guide
+
+
+
+
+                                                                                     1
+
+
+
+
+CONFIDENTIAL                                                                       JLI51242031
+
+NC-JLI-Consent Judgment
+                    Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Dear Vendor:
+
+
+
+
+     Warehouse Goods, Inc. is dedicated to providing its customers with the highest possible
+     customer service. This is only possible with the help and cooperation throughout the supply
+     chain and readiness in operations and logistics. Therefore we have provided this Supplier
+     Compliance and Freight Routing Guide which has been designed to provide you with a quick and
+     easy reference for our shipping requirements. Please read this guide before shipping Warehouse
+     Goods, Inc. Purchase Orders to make certain that you adhere to the guidelines and avoid any
+     future possible delays in deliveries as well as financial ramifications.
+
+     Please be advised that Compliance and Routing Instructions are deemed part of the terms and
+     conditions of purchase. These requirements are structured to provide supply chain efficiencies
+     that cut costs, sustain mutually beneficial needs and support the needs of consumers.
+
+     Thank you in advance for following these requirements. Should you have any questions related
+     to these guidelines, please contact Scott Obloy at ops@vapeworI0.com or UCSF Redaction
+
+     Thank you
+     Sincerely,
+     COO
+
+
+
+
+                          Ship to Location & Contact Information
+                                                                                                      2
+
+
+
+
+CONFIDENTIAL                                                                                     JLI51242032
+
+NC-JLI-Consent Judgment
+                     Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Boca Raton - Florida
+
+     6590 East Rogers Circle, Bay 6
+     Boca Raton, FL 33487
+
+     Scott Oblo & Christian Townsend
+      UCSF Redaction
+     ops@vapeworld.com & Cc: Ctownsend(avapeworld.com
+
+     Receiving Hours — 9am-4pm EST
+
+      Carlstadt - New Jersey
+
+     GMA Accessories c/o
+     Warehouse Goods, inc.
+     401 Washington Ave.
+     Carlstadt, NJ 07072
+
+
+      UCSF Redaction Or
+     ops@vapeworld.com & Cc: Vwnishippinq1Pqmail.com
+
+     Receiving Hours — 9am-4pm EST
+
+     Las Vegas — Nevada
+
+     Nitco c/o Warehouse Goods, Inc.
+     6650 Spencer St. #110
+     Las Vegas, NV 89119
+
+     Scott Oblo & Damariz Soto
+      UCSF Redaction
+     ops@vapeworld.com & Cc: damariz@vapeworld.com
+     Receiving Hours — 9am-4pm PST
+
+      Ontario - Canada
+
+     Vape World Distribution Ltd.
+     3400 Ridgeway Dr. Unit 10
+     Mississauga, ON — L5L0A2
+
+     Dan Russo
+      UCSF Redaction
+     dan@vapeworld.ca & Cc: qrant@vapeworld.ca
+
+     Receiving Hours — 9am-4pm EST
+
+
+     Carton Requirements
+
+                                                                                        3
+
+
+
+
+CONFIDENTIAL                                                                          JLI51242033
+
+NC-JLI-Consent Judgment
+                       Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Carton Openings
+        • Carton openings must be on the top and the bottom of carton. The top and the bottom of the
+           carton must be the largest surface areas.
+        • Cartons not meeting this requirement may not be processed, and the vendor may incur a
+           chargeback.
+
+     Carton Closures
+        • Carton closures (top and bottom) must be securely sealed with plastic tape (do not use reinforced
+           paper tape).
+        • Tape must be placed over the entire length of the seams and extend over the ends a minimum of
+           3 inches.
+        • Stapling the closure is not allowed.
+
+     Banding, Strapping, Staples or String/Wire Tying
+       • Banding, strapping, staples, or string/wire tying of cartons as a means of closure is NOT
+           PERMITTED unless mandated by country of origin regulations.
+       • Please contact Operations Department if required to seal cartons using any of the above
+           methods.
+
+     Corrugate Specifications
+        • Imported Cartons
+               o All imported cartons must use a Regular Slotted Container (RSC) that has a minimum of
+                 the following:
+                      § 125kg (275 Ibs) burst strength
+                      § Edge Crush Test (ECT) of 21.8kg (48 Ibs)
+                      § These specifications are mandatory
+        • U.S. Cartons
+               o Where the shipment has been packed in the U.S. with new cardboard, the minimums are
+                 as follows:
+                      § 90kg (200 Ibs) burst strength
+                      § Edge Crush Test (ECT) of 14.5 (32 Ibs)
+                      § Carton must withstand a maximum loading of 65 lbs.
+
+     Carton Design
+        • Cartons must be of rectangular construction.
+        • The width of the carton must be greater than the height.
+        • The length of the carton must be greater than the width.
+        • Square-shaped cartons will turn during processing; causing UCC-128 label misreads.
+        • Cartons with a height greater than the width will fall over during processing; also causing UCC-
+           128 label misreads.
+
+
+     Pallet Requirements
+
+        •   All non-containerized shipments of more than 10 cartons must be palletized.
+        •   Product should be delivered on Grade B, reusable, four-way entry pallets, measuring 40"X48"
+            unless it is a customized piece.
+        •   Cartons must be delivered right-side up and cubed on a pallet with no overhang.
+        •   All cartons must have their longest side facing one of the outer sides of the pallet (no hidden
+            cartons).
+
+
+                                                                                                              4
+
+
+
+
+CONFIDENTIAL                                                                                              JLI51242034
+
+NC-JLI-Consent Judgment
+                      Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+        •   All pallets must be stacked such that they maintain their integrity in-transit without the use of
+            banding (cartons not overstuffed, cartons arranged in an inter-locking manner, etc.) Warehouse
+            Goods, Inc., prefers all pallets be shrink-wrapped with opaque black shrink wrap.
+        •   Pallets must be built so they are no taller than 72 total inches
+        •   All palletized cartons must have labels facing outward.
+
+
+     Loading Requirements
+
+        •   Load all containers in the order that purchase orders are listed on the Bill of Landing and/or
+            manifest. Trailers must be loaded maintaining individual purchase order line item integrity to
+            require minimum unloading at our Receiving Dock and to expedite merchandise to our distribution
+            centers.
+        •   All shipments must be loaded so that the following rules are abided by:
+                 o Each PO is kept together
+                 o Within a given PO, each style number is kept together
+                 o Within a given style, each color is kept together
+
+
+     Prepaid Shipments
+
+     "Prepaid" Purchase Orders are deemed to be FOB Destination, Freight Prepaid terms unless otherwise
+     agreed upon in advance of shipment. The Supplier will be bound by these terms unless otherwise
+     authorized by Warehouse Goods, Inc. in advance of the shipment.
+
+
+
+
+     Vendor Shipping Requirements
+                                                                                                                5
+
+
+
+
+CONFIDENTIAL                                                                                              JLI51242035
+
+NC-JLI-Consent Judgment
+                      Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     All Purchase Orders by Warehouse Goods, Inc. will serve as a binding agreement of sale. Upon
+     acceptance of the Purchase Order by the vendor it is the vendor's obligation and responsibility to honor
+     all the terms and conditions, which includes observance of this routing guide.
+
+     Warehouse Goods, Inc. Purchase Order Number(s) should be clearly displayed on all Freight Bills,
+     Commercial Invoice, Packing Slips and communication (i.e. email and fax).
+
+     Shipping Label Instructions
+             Note: Shipping labels cannot be smaller than 3'x3" and no larger than 4'x6" in size.
+
+     Information required on shipping label:
+        1.   Source name and address (to be the same as on your packing slip and/or invoice).
+        2.   Shipping address as indicated on Purchase Order.
+        3.   The Purchase Order number.
+        4.   The style number.
+        5.   Color.
+        6.   Size (when applicable).
+        7.   Total quantity of units.
+        8.   Sequential carton numbering (i.e. 1 of 20, 2 of 20, etc.)
+               (1) Vape Inc
+               111 North St/Suite 200
+               Any City, CA 90000
+                                        (2) Warehouse Goods, Inc.
+                                        6501 Park of Commerce Blvd Ste 200
+                                        Boca Raton, FL 33487
+               (3) P0123                                        (5) Red
+               (4)123456                                        (6) n/a
+               (7)25                                            (8)1 of 5
+
+
+          (1) Vape Inc
+          111 North St/Suite 200
+          Any City, CA 90000
+                                    (2) Warehouse Goods, Inc.
+                                    6501 Park of Commerce Blvd Ste 200
+                                    Boca Raton, FL 33487
+                    (6) CNC-0 CNC-1 CNC-2 CNC-3
+
+          (3) P0123
+          (4) 123456                                                (7) 25
+          (5) Red                                                   (8) 1 of 5
+
+
+
+
+     Carton Markings
+
+                                                                                                                6
+
+
+
+
+CONFIDENTIAL                                                                                              JLI51242036
+
+NC-JLI-Consent Judgment
+                         Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+          FRONT                               SIDE
+          P.O.#                               Warehouse Goods, Inc.
+          Item #                              Boca Raton, FL
+          Carton        of                    Item#
+          Made In                             Color
+          GW:       KGS:         LBS:         Quantity
+          NW:       KGS:         LBS:         Pre-Ticket   Yes or No
+          DIM:      X        X    CM    IN    Pre-Pack     Yes or No
+
+
+
+
+      International Shipping Guidelines
+
+                                                                                     7
+
+
+
+
+CONFIDENTIAL                                                                       JLI51242037
+
+NC-JLI-Consent Judgment
+                    Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Shipments received by Warehouse Goods, Inc. from any country or possession that is outside of the
+     United States must be processed according to all specified guidelines. In addition, shipments must be
+     processed with those unique requirements specified for import shipments only.
+
+     Country of Origin
+     To be considered as the "Country of Origin" the article must be a new and different article of commerce
+     resulting from a manufacturing operation when there is a change in: 1) Commercial Identity, 2)
+     Fundamental Character or 3) Commercial Use.
+
+     An article usually will not be considered a product of a foreign country/possession by virtue of merely
+     having undergone any of the following:
+        • Simple combining operations.
+        • Simple packing/packaging operations.
+
+     Any item identified as US country will require that an affidavit of origin be provided to Warehouse Goods,
+     Inc. on supplier company letterhead, signed by a competent person with knowledge of the origin of the
+     item.
+
+     Country of Origin Marking
+     To ensure swift clearance through US Customs and avoid duty increase penalties all individual articles
+     must indicate the country of origin. (See above)
+
+     The marking must be in English and must consist of the works "Made in (Country)" or "Produced in
+     (Country)" and must appear in a conspicuous place easily seen by the purchaser with casual handling.
+
+     The article must be marked as permanently as the nature of the product will permit. Marking that will not
+     remain on the article during handling or for any other reason, except deliberate removal, is not a proper
+     marking.
+
+     Required Importation Paperwork
+     If your shipment is to be processed by U.S. Customs with Warehouse Goods, Inc., as the importer of
+     record, the following documentation must be surrendered to the nominated freight forwarder on or before
+     the Ex Date (delivery date to the freight forwarder).
+         • Manufacturer/Vendor Commercial Invoice
+         • Packing List
+         • Certificate of Origin
+
+     Routing — Import Shipping
+       • Any time delay in making entry through U.S. Customs due to incorrect importation paperwork will
+           result in a charge back or cancellation from Warehouse Goods, Inc.
+       • All shipments whether air or boat must be delivered to our nominated freight forwarder stated in
+           the Letter of Credit by the EX Consolidator Date as stated on the Purchase Order. DO NOT book
+           any cargo directly with the steamship lines. Failure to meet the EX Consolidator Date as
+           designated on the Purchase Order could result in our forwarder refusing your shipments and
+           require vendor to ship air at vendor's expense or pay a late delivery penalty.
+       • No Factory Loads unless approved by the Import Department.
+
+     Illegal Trans-Shipments
+     Trans-shipment is an illegal practice of falsely documenting the country of origin on goods entered into
+     the United States in order to misstate country of origin.
+
+
+
+                                                                                                                 8
+
+
+
+
+CONFIDENTIAL                                                                                                   JLI51242038
+
+NC-JLI-Consent Judgment
+                       Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Warehouse Goods, Inc., does not condone or support trans-shipping. If a manufacturer is determined to
+     have engaged in, participated in, condoned trans-shipping in any form, Warehouse Goods, Inc., will
+     respond as follows:
+
+     Our Purchase Order will be irrevocably cancelled and the vendor will bear all costs incurred by
+     Warehouse Goods, Inc., as a result of the cancellation. All further business with the vendor will be
+     ceased and any future orders will be cancelled.
+
+     Vendor will be responsible for an U.S. Customs penalties imposed against Warehouse Goods, Inc., by
+     U.S. Customs as a result of giving false statements regarding the country of origin.
+
+     Top of Production Sample (T.O.P.)
+     Must be sent to the attention of the Buyer or Production Manager and received no later than 10 days
+     prior to the Ex Consolidator Date.
+
+     Letters of Credit
+     For all Letters of Credit questions please contact Buyer.
+
+     International Purchase Orders should include the following:
+     The overseas Manufacturer/Shipper must include with the shipment (through a forwarding agent) the
+     following paperwork:
+          • Commercial Invoice (including all of the following details)
+                o The date of the invoice
+                o The port of entry to which the merchandise is destined.
+                o The name and address of the purchases, or consignee if not a purchase transaction.
+                o The name and address of the seller, or shipper if not a purchase transaction.
+                o A detailed description of the merchandise.
+                o The quantities being imported in appropriate weights.
+                o The purchase price of each item.
+                o The currently of the transaction in U.S. Dollars
+                o All relevant charges (such as freight and insurance) to bring the merchandise from
+                   alongside the carrier at the port of export to alongside the carrier at the first U.S. port of
+                   entry).
+                o All relevant discounts.
+                o The country of origin (manufacture) of each item.
+                o The terms of the sale of the transaction.
+                o The entire invoice must be in English.
+                o Goods or services furnished of production of merchandise not otherwise included in the
+                   invoice price (i.e. assists).
+                o Complete name and address of the manufacturing facility
+                o The name and signature of a responsible individual (an employee of the seller or shipper)
+                   who can readily obtain knowledge of the transaction.)
+                o Net weights by style and size, total gross weight and total net weight.
+                o Bill of Landing, Cargo Receipt, Airway Bill, or Carrier's Certificate. This is evidence of the
+                   consignee's right to make entry.
+                o Detailed packing list in duplicate indicating breakdown by style/color/size.
+                o Any other necessary document to determine whether the merchandise may be admitted
+                   into the United States, or as required by the letter of credit.
+                o 1 hard copy of the Serial Number Manifest (if serialized item)
+                o 1 digital copy of the Serial Number Manifest in CVS or Excel Format 24-48 hours prior to
+                   shipment being delivered (if serialized item)
+
+
+                                                                                                                9
+
+
+
+
+CONFIDENTIAL                                                                                                JLI51242039
+
+NC-JLI-Consent Judgment
+                       Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Domestic Shipping Guidelines
+
+     The guidelines for the shipping of merchandise to our distribution center are designed to facilitate the
+     quick and efficient flow of merchandise. Adhering to these guidelines will expedite the merchandise,
+     minimize payment delays, charge backs and merchandise returns to the vendor.
+
+
+        •    Vendors have two options in choosing a freight carrier; utilizing a Company authorized carrier, or
+            a carrier of their choice.
+        •   A delivery appointment and an Advance Shipment Notice are required for each shipment.
+        •   Any Merchandise arriving at the distribution center after the IN DC/STORE date (including
+            merchandise will remain the property of the vendor.)
+        •   Each vendor shall be liable for chargebacks resulting from failure to comply with these
+            instructions
+
+     Domestic Invoice/Packing Requirements
+     Invoice/Packing Slip Requirements
+        • The following guidelines must be followed when preparing invoice/packing slip(s):
+               o Each individual Purchase Order number must be invoiced separately and address to
+                  Warehouse Goods, Inc., Accounts Payable, 6501 Park of Commerce Blvd, Suite 200,
+                  Boca Raton, FL 33487
+               o The Vendor is required to include a packing slip with each merchandise shipment
+                  received by Warehouse Goods, Inc. Distribution Centers. A packing slip must be placed
+                  in a pouch and placed on the lead carton of each purchase order shipped. Ship to
+                  address on packing slip should be Warehouse Goods Inc., 6501 Park of Commerce Blvd,
+                  Suite 200, Boca Raton, FL 33487.
+        • The invoice/packing slip per Purchase Order must include the following:
+               o Complete `to/from' addresses
+               o Vendor Invoice/Packing slip number
+               o Department number
+               o Purchase Order number, style number, size and color
+               o Content — quantity listed by style/size/color level
+               o Total quantity of units in shipment per Purchase Order
+               o Total number of cartons per shipment per Purchase Order.
+               o Weight
+               o Freight charges
+               o Terms (Invoice Only)
+               o Individual unit cost per style (Invoice Only)
+               o Total cost extension for each style (Invoice Only)
+               o Total dollar amount due (Invoice Only)
+
+     Purchase Order Requirements
+     All vendors for Warehouse Goods, Inc. are required to comply with the purchase order specifications
+     regarding packaging.
+         • Each purchase order must be packaged separately. Purchase orders cannot be combined in a
+            carton or on a packing list.
+
+     Packing List Requirements
+        • Packing Lists must be included with all shipments
+                o Purchase orders cannot be combined on a single packing list
+                o The packing list must accurately state the quantity shipped, not what was ordered.
+                                                                                                                10
+
+
+
+
+CONFIDENTIAL                                                                                                JLI51242040
+
+NC-JLI-Consent Judgment
+                       Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+               o  The packing list must be written, printed or typed in the English language.
+               o  The packing list must be in or on the lead carton. If in the lead carton, the carton must be
+                  identified with "Packing List Enclosed."
+               o A second copy of the packing list must be attached to the Bill of Landing.
+        •   The Packing List must include:
+               o Vendor Name
+               o The Warehouse Goods, Inc. purchase order number.
+               o Style, color and size codes and descriptions
+               o Quantities by style/color/size — by Stock Keeping Unit (SKU)
+               o Unit of measure must be one selling unit. No other unit of measure (i.e. dozens).
+               o Total number of cartons by SKU.
+        •   Chargeback Policy for Packing List Violations
+               o Failure to provide a packing slip or submitting a packing slip with incorrect/missing
+                  information will result in a chargeback of a DC fee of $      per Purchase Order.
+               o Penalties charged for packing slip violations will be charged back separately for each line
+                  of the Purchase Order.
+
+
+
+
+                                                                                                            11
+
+
+
+
+CONFIDENTIAL                                                                                              JLI51242041
+
+NC-JLI-Consent Judgment
+                      Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Delivery Requirements
+     Delivery Guidelines
+     The guidelines for the delivery of merchandise to our distribution center are designed to facilitate the
+     quick and efficient receipt of merchandise while ensuring good dock management and reduced unloaded
+     times.
+
+     EDI/UCC128 Requirements
+     All EDI Purchase Orders shipped by a vendor to Warehouse Goods, Inc., requires the following:
+         • A Purchase Order
+         • An Advance Ship Notice — Warehouse Goods, Inc., requires a unique ASN for each location of an
+             order per shipment. Only one SKU per carton is allowed. When carton is represented with
+             multiple SKUs per carton, the ASN will fail at the distribution center which will trigger a charge
+             back.
+                o Warehouse Goods, Inc., realizes that some of our vendors cannot transmit ASN's until the
+                     shipment has been picked up but for those vendors who can transmit ASNs prior to pick
+                     up, we would prefer you to transmit those 24 hours prior to the actual pick up, providing
+                     the counts are accurate. The ASNs must be transmitted no later than end of the day of
+                     pick up. Non compliance will result in extensive penalties.
+         • Warehouse Goods, Inc., prefers vendors use Direct Thermal Labels to avoid smudging of the
+             UCC labels during transit. The thermal label system uses ribbon and transfers the ink to the label
+             which causes the labels to smudge. Any cartons the distribution center cannot scan due to the
+             smudged UCC labels will be charged to the vendors.
+         • An Invoice
+         • Label each carton
+                o Size of UCC label: 4"X6"
+                o It is imperative that the UCC label placed on each packed carton corresponds precisely
+                     with the packed units within the carton, as specified by the purchase order. This is
+                     particularly important when packing and shipping bundled packed units vs. loose piece
+                     cartons. Non-compliance will result in extensive penalties.
+                o It is imperative that each carton label be unique; use of duplicate labels will result in an
+                     erroneous receipt and also will result in a charge back.
+
+     The UCC128 label must be applied to the lower right hand corner of the front face (end) of the carton,
+     5.0cm (2.0 in) above the bottom and 5.0cm (2.0in) from the right hand side of the carton.
+
+
+
+
+                                                                                                              12
+
+
+
+
+CONFIDENTIAL                                                                                              JLI51242042
+
+NC-JLI-Consent Judgment
+                       Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+                                                                              Factory Name
+                                                                          +42 and Address
+
+
+
+
+      Div.
+      Shown
+                       ~IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~III~I                UCC 128 Scan Bar
+                                                                                 Code
+
+
+
+
+                      Warehouse Goods Inc
+      on 850
+                      Div: XX
+      ref.            POU: XXXXX                       CASE
+      section         Color: XXXXXX                       of
+      19              SKU: XXXXXXX
+                      Quantity: )OOC
+
+
+
+
+                                                                                 Warehouse Goods
+                                                                                 address
+
+
+
+
+     Advance Shipping Notice (ASN)
+        • All vendors of the company are required to submit an Advanced Shipment Notice (ASN) prior to
+          delivery at our distribution center.
+        • For deliveries on the following day, the ASN must be received in the Distribution Center by
+          2:30pm. The appointment must also be confirmed prior to 3:00pm.
+        • The ASN is not a guarantee for appointment. An Appointment Delivery Confirmation number
+          must be received in order for appointment scheduling to be complete.
+        • Email is the preferred method of transmitting an ASN.
+        • The ASN should include:
+               o Vendor
+               o Purchase Order Number
+               o Requested Delivery Date and Time
+               o Delivery Carrier
+               o Number of Cartons
+               o Number of Pallets
+               o Style
+               o Color
+               o Quantities
+               o Ship Date
+               o When shipping UPS/FedEx the service should be stated (i.e. ground, next day, etc.)
+        • Chargeback Policy for ASN Violation
+               o Failure to submit an ASN or attempting to deliver without an ASN will result in a DC
+                  chargeback of $        for each line on the purchase order.
+
+
+
+
+                                                                                                     13
+
+
+
+
+CONFIDENTIAL                                                                                        JLI51242043
+
+NC-JLI-Consent Judgment
+                     Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Delivery Appointments
+        • Appointments are required for all shipments to Warehouse Goods, Inc. Distribution Centers
+        • A Delivery Appointment will not be scheduled unless the ASN is previously on file or the ASN
+            accompanies the appointment request.
+        • Appointments must be made prior to delivery. Appointments made prior to 3:00pm can be made
+            for the following business day. Appointment can be made up to one week in advance and require
+            a 24 hours cancellation notice.
+        • Appointments are the responsibility of the vendor, however, appointments can be assigned to the
+            freight carrier.
+        • If a vendor chooses not to use our preferred carriers, the vendor is responsible for ensuring that
+            an appointment is made and that the time commitment is met.
+        • Delivery Appointments: Email
+                 o For emailed ASNs, the Delivery Appointment Confirmation number will be sent by an
+                     email reply to the email address that sent the ASN.
+                 o Email confirmation must be received by 3:00pm for next day delivery.
+                 o Warehouse Goods, Inc., will reply with the following information in the Delivery
+                     Appointment email:
+                         § Confirmation Number
+                         § Delivery Date
+                         § 30 Minute Delivery Window
+        • Appointments will only be given for the quantities by size as listed on the purchase order.
+        • Carrier will not be assigned a dock door prior to their assigned Appointment Time.
+        • Carriers arriving more than one hour after the assigned Delivery Appointment Time are subject to
+            chargeback or refusal
+        • Carriers arriving without a scheduled appointment of Confirmation Number will be refused.
+
+
+
+
+                                                                                                         14
+
+
+
+
+CONFIDENTIAL                                                                                           JLI51242044
+
+NC-JLI-Consent Judgment
+                      Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Insurance and Risk Management
+     All suppliers supplying goods and/or services to Warehouse Goods, Inc. are required to carry
+     Commercial General Liability and/or Product Liability coverage and supply proof of coverage as a
+     condition of conducting business with Warehouse Goods, Inc.. Such policy limits should be sufficient to
+     support the scope and nature of the business. Warehouse Goods, Inc. requirements for such coverage
+     are as follows:
+
+        •   Minimum General Aggregate Limit of $                . Each Occurrence limit of
+            $
+        •   We require Warehouse Goods, Inc. to be named as "Additional Insured" with this evidenced on
+            the Certificate of Insurance and the appropriate endorsements attached to the certificates.
+        •   Suppliers supplying goods and/or services to Warehouse Goods, Inc. for the first time must
+            ensure the required "Certificate of Insurance" including all required endorsements is issued to
+            Warehouse Goods, Inc. in advance of the release of any shipments and/or start of any services.
+            These Certificates of Insurance should be forwarded by mail to:
+
+                           Warehouse Goods, Inc.
+                           6501 Park of Commerce Blvd
+                           Suite 200
+                           Boca Raton, FL 33487
+
+     It is the responsibility of the Supplier to update and keep insurance documentation current and provide
+     Warehouse Goods, Inc. with a copy at time of renewal.
+
+
+
+
+                                                                                                               15
+
+
+
+
+CONFIDENTIAL                                                                                              JLI51242045
+
+NC-JLI-Consent Judgment
+                      Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Chargeback Policy
+     Chargeback Policy for Packing List Violations
+       • Failure to provide a packing slip or submitting a packing slip with incorrect/missing information will
+           result in a chargeback of a DC fee of $     .
+       • Penalties charged for packing slip violations will be charged back separately for each line on the
+           Purchase Order.
+
+     Chargeback Policy for Carton Violations
+       • Failure to comply with carton requirements will result in a chargeback of a DC fee of $ per
+           carton.
+       • This includes all packaging, labeling, palletizing, and loading requirements listed below.
+       • There will be a minimum charge of $ .
+
+     Chargeback Policy for EDI/UCC-128 Label Violations
+     Vendors must comply with our electronic ASN/UCC-128 label program.
+     Violation charges for non-compliant purchase orders will be imposed as follows:
+         • No Electronic ASN
+         • Late Electronic ASN
+         • No UCC-128 labels on cartons
+         • Incorrect label placement
+         • Non-scan able carton
+         • Inaccurate information on the ASN
+         • Case information does not match ASN
+
+     Chargeback Policy for Merchandise Packing Violations
+       • Failure to correctly pack cartons will result in a chargeback of $ per carton. This includes
+           mixed products, incorrect pre-pack, etc.
+              o There will be a minimum charge of $          .
+       • A DC rework chargeback of $        per unit will be charged for the following:
+              o Incorrect location of label
+              o Merchandise without tickets/labels
+       • A DC rework chargeback of $        per unit will be charged for the following:
+              o Failure to package merchandise as specified. This includes incorrect packaging or failure
+                  to pack correct pre-pack quantities, etc. (requires repackaging).
+
+     Chargeback Policy for Routing Guide Violations
+     A flat rate of $    will be charged for incorrect product, wrong UPC, shipment to incorrect warehouse,
+     incorrect packing list and/or invoice and early or late delivery. This fee will be deducted from payment of
+     invoice.
+
+
+
+
+                                                                                                              16
+
+
+
+
+CONFIDENTIAL                                                                                                JLI51242046
+
+NC-JLI-Consent Judgment
+                       Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+     Service Fee
+     A$     per hour service fee will be charged when:
+
+                •   Warehouse Goods, Inc. must make a repair to product to make it saleable
+                •   Replace incorrect UPC tags (if vendor is required to supply tags/stickers)
+
+     The Vendor has the option of picking up the entire shipment within 7 days or to send one of their
+     employees to take care of the problem.
+
+     RTV (Return to Vendor) / Store Recall / RTV Chargebacks
+     All merchandise RTV and/or Recall activity, except for consignment, will result in a vendor chargeback.
+
+
+
+
+                                                                                                               17
+
+
+
+
+CONFIDENTIAL                                                                                              JLI51242047
+
+NC-JLI-Consent Judgment
+                      Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+                             Vendor Acknowledgement and Signature
+      The vendor hereby acknowledges receipt of the Vendor Compliance and Freight Routing Guide.
+      The vendor will use its best efforts to adhere to the guidelines and agrees to the non-
+      compliance/ service fees listed in this guide.
+
+      The vendor also agrees to the following:
+
+      The vendor hereby agrees to indemnify, defend and hold harmless Warehouse Goods, Inc.
+      including its officers and employees from any and all claims, damages and/or liabilities related to
+      products sold to Warehouse Goods, Inc. by Vendor. Warehouse Goods may sustain or incur
+      resulting from any product failure, trademark infringement, etc.
+
+      The vendor agrees not to use or disclose any confidential information means any and all
+      information received from Warehouse Goods, Inc. which is not generally available to the public
+      as well as any information regarding the Vendors products, prices and terms offered to
+      Warehouse Goods, Inc. which are not generally available to the public, including information
+      acquired or exchanged during negotiations with Warehouse Goods, Inc.
+
+
+
+      Vendor Company Name
+
+      Vendor Address
+
+      Signature
+
+      Printed Name
+
+      Printed Date
+
+
+
+
+                                                                                                      18
+
+
+
+
+CONFIDENTIAL                                                                                        JLI51242048
+
+NC-JLI-Consent Judgment
+                    Source: https://www.industrydocuments.ucsf.edu/docs/tlfb0399
+

@@ -1,0 +1,616 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+ 
+                       _________________________
+ 
+                        DENIED:  March 19, 1999
+                       _________________________
+ 
+ 
+                            GSBCA 14576-RATE
+ 
+ 
+              In the Matter of INTER-COASTAL XPRESS, INC.
+ 
+ 
+        Randall  Schmidt of Kirkley  Schmidt & Cotten,  L.L.P., Fort
+   Worth, TX, appearing for Claimant.
+ 
+        James   F.  Fitzgerald,   Director,  Transportation   Audits
+   Division,  General   Services  Administration,   Washington,  DC,
+   appearing for General Services Administration.
+ 
+        Col.  James F.  Quinn, Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of the  Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   DeGRAFF, Board Judge.
+ 
+        If the Government  drafts a tender containing  language that
+   is  susceptible of two  different interpretations, both  of which
+   are reasonable and consistent with  the remainder of the  tender,
+   we  will  construe   latently  ambiguous  language  against   the
+   Government, so long  as the carrier can establish  that it relied
+   upon   its  interpretation  of  the  tender's  language  when  it
+   constructed  and  submitted its  freight  rates.   When  a tender
+   requires that a Government bill of lading (GBL) contain a written
+   annotation in order for a shipper  to request a service, the  GBL
+   must contain an  annotation that substantially complies  with the
+   tender's  requirement in  order for  the carrier  to be  paid for
+   providing the service.
+ 
+                               Background
+ 
+        On  April  1,  1994, the  Defense  Personnel  Support Center
+   (DPSC), a component  of the Department of Defense  (DoD), invited
+   carriers to submit rates for transporting perishable freight from
+   warehouses  located at three  pick-up points: Fort  Worth, Texas;
+   San Antonio, Texas; and New Orleans, Louisiana.  If a carrier was
+   interested  in  providing services  to  DoD, it  was  supposed to
+   complete  and return DPSC's  perishable subsistence  carrier rate
+   tender,  which  set  out  the   terms  for  moving  shipments  of
+   perishable freight.  Inter-Coastal Xpress, Inc. (ICX) submitted a
+   total of three tenders for the three pick-up points.  The tenders
+   are identical except for Items 28 and 29, discussed below. 
+ 
+        Item 3 of the tenders is titled "Detention Time."  Here, the
+   carrier agreed to  arrive at the loading locks  ready for loading
+   at  the  time  set  out  in the  loading  and  delivery  schedule
+   contained in Item  29.  Item 3 explained that the carrier s rates
+   included  a  certain amount  of  time,  called  free  time,   for
+   "placement of  material" and for   waiting.   If the  carrier was
+   delayed at either the pick-up point or the delivery point, and if
+   the delay  was  not caused  by  the carrier,  DoD  would pay  the
+   carrier a  charge, set out in Item 12c, for  detention  in excess
+   of the  free time set out in Item 3.  In each of its tenders, ICX
+   inserted in Item 12c a charge for detention of $38 per hour, with
+   a maximum charge of $150.  
+ 
+        Item 12 concerned accessorial charges.  Item 12d states:
+ 
+        When  the  Government  requires  and  requests  pick-up
+        and/or delivery on Saturdays,  Sundays or Holidays, the
+        following charges will  apply in addition to  all other
+        charges assessed against  the shipper . . .  .  The GBL
+        will  be annotated  by the [Defense  Subsistence Office
+        (DSO)]  Saturday (Sunday or Holiday) delivery (pick-up)
+        authorized on      xx      (date(s)).
+ 
+   Item 12d lists the days that constitute holidays.  The charge set
+   out in Item 12d was stated as a charge per truck.  In each of its
+   tenders, ICX inserted a charge of $250 per truck.  
+ 
+        Item 28  showed that  the carrier  would pick-up  perishable
+   commodities at  the  stated pick-up  point  and deliver  them  to
+   listed delivery points.  For each delivery point, Item 28 set out
+   more than one truckload minimum  weight.  For each delivery point
+   and for each  truckload minimum weight, the  carrier was supposed
+   to insert its freight rate per  hundred pounds.  For example, the
+   tender  with a  pick-up point  of  Fort Worth  asked carriers  to
+   submit  freight rates  for moving  minimum  truckload weights  of
+   10,000, 20,000,  30,000, and  40,000 pounds to  Fort Bliss  in El
+   Paso, Texas. 
+ 
+        Item  29   set  out   delivery  schedules.[foot #] 1     For
+   each  delivery  point, the  schedules  set out  pick-up  days and
+   times, and delivery days and times.   For example, for the tender
+   with a  pick-up point of  San Antonio, the schedules  showed that
+   only  fresh  fruits and  vegetables  would be  shipped  under the
+   tender, and that all  deliveries were to be made  either the same
+   day as the pick-up  day or the next  day.  For the tender  with a
+   pick-up  point of  New Orleans, the  schedules showed  that fresh
+   fruits and vegetables, frozen  items, and chilled items would  be
+   shipped under the tender.  All deliveries were to  be made either
+   the same day as the pick-up day or the next  day.  For the tender
+   with a  pick-up point  of Fort Worth,  the schedules  showed that
+   fresh  fruits and  vegetables, frozen  items,  and chilled  items
+   would  be shipped under the  tender to sixty-one delivery points.
+   Deliveries to fifty of the delivery points were to be made either
+   the same day as the pick-up day or  the next day.  For six of the
+   delivery points listed in the Fort Worth schedules, the schedules
+   showed pick-up days and times,  and said that deliveries would be
+   made quarterly,  monthly, or as  needed.  For the  remaining five
+   delivery points listed in the Fort Worth schedules, the schedules
+   said that pick-ups and deliveries  would be made only as required
+   or only as requested.  
+ 
+        Item 29.1 is titled  Holdover Charges (Weekend)  and reads:
+ 
+        Friday  pick-ups   may  be  held  for   Monday  morning
+        deliveries.  Holdover charges (2 days) will be $       
+             (per truck) with total maximum charge of $        
+           per  weekend.   GBL  will be  annotated, by  the DSO
+        Office,  Holdover authorized Saturday      x     (date)
+        and Sunday       x      (date). 
+ 
+        Item 29.2  is titled  Holdover Charges  (Overnight Holiday) 
+   and reads:
+ 
+        Trucks heldover [sic] on holidays (as specified in Item
+        12d) in accordance with instructions from the DSO, will
+        be charge[d] at  $            per  truck.  GBL will  be
+        annotated, by  the DSO Office,   Holdover authorized on
+        Holiday     x       (date). 
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1     The tender does not contain an  item numbered
+   29.  Between Item 28  and Item 29.1, however, there  are delivery
+   schedules  that set out the days and  times that carriers were to
+   pick-up shipments, the delivery points, and the delivery days and
+   times.  The item index at  the beginning of the tender refers  to
+   the schedules  of loading and delivery times as  Item 29.  Item 3
+   of the  tender refers to  loading and delivery schedules  as Item
+   29.  Item 17e of the tender provides that the carrier shall pick-
+   up and deliver  in accordance with the  schedule in Item 29.   We
+   conclude  that the loading and delivery schedules located between
+   Item 28 and Item 29.1 constitute Item 29.   
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+        Item 29.3 is titled  Holdover Charges (Weekdays)  and reads:
+ 
+        Trucks heldover  [sic]  night  (Monday  Night,  Tuesday
+        Night,  Wednesday   Night,  Thursday   Night  excluding
+        holidays, (see Item 29.2)) during the week for delivery
+        the next day will be charged at $       per truck.  GBL
+        will  be  annotated   by  the   DSO  Office,   Holdover
+        Authorized for         x         night            x    
+           (date).
+ 
+        In each of its  tenders, ICX inserted  a charge of $400  per
+   truck for  weekend  holdover  charges,  and $250  per  truck  for
+   overnight holiday and weekday holdover charges.
+ 
+        DoD  selected  ICX  to carry  perishable  freight  from Fort
+   Worth, New Orleans, and San  Antonio, and ICX began  transporting
+   freight for DoD  in October 1994.   None of  the GBLs issued  for
+   ICX s shipments contained a notation concerning holdover charges.
+   The DSO in  New Orleans paid holdover charges in  addition to the
+   applicable freight rate whenever ICX  picked up a shipment on one
+   day and delivered  the shipment the next  day.  The DSOs  in Fort
+   Worth and San Antonio  did not pay  holdover charges in the  same
+   circumstances.  On May 19, 1995, ICX asked the DSOs in Fort Worth
+   and San Antonio to begin paying holdover charges, as ICX believed
+   was required by the tenders.
+ 
+        On  July  26,   1995,  DoD  responded  to   ICX s  inquiries
+   concerning holdover charges.  DoD explained that it would not pay
+   holdover charges when a tender s delivery schedule showed a next-
+   day  delivery because  the  next  day delivery  was  part of  the
+   service  required by the  tender, and should  have been accounted
+   for in  ICX s freight  rate.   DoD agreed  that it  owed ICX  for
+   holdover charges  for twenty-nine shipments because  the delivery
+   schedule showed that pick-up and delivery were  supposed to occur
+   on the same  day, and DoD  held the shipments  for delivery on  a
+   later day.   On September 19, 1995,  DoD told ICX that  it should
+   not have  been paid holdover  charges for shipments picked  up in
+   New Orleans  if the holdover was part  of the service required by
+   the tender.  
+ 
+        On March 5, 1996, DoD wrote another letter to ICX concerning
+   its  request  for  payment  of  holdover  charges.    The  letter
+   confirmed that ICX was due an additional amount, which the letter
+   referred to as  detention charges,  for the twenty-nine shipments
+   mentioned in the  July 26, 1995 letter.  The March 5, 1996 letter
+   said that  when a  tender s delivery  schedule showed  that goods
+   would be loaded one  day and delivered the next day,  ICX was not
+   entitled to holdover charges.  The letter stated that because ICX
+   was aware when  it constructed its freight rates  that  detention
+   at origin was  involved,  ICX should  have included charges   for
+   that detention  in  its freight rates.  The letter also said that
+   the  tenders specified that  when the DSO  authorized a holdover,
+   the GBL would  be annotated accordingly.  The  letter stated that
+   the holdovers for which ICX asked to be reimbursed were scheduled
+   in  DPSC s  original  invitation to  carriers  to  submit freight
+   rates, and were not authorized by the DSO.  
+ 
+ 
+        Between  November  29,  1996,  and  November  7,  1997,  ICX
+   submitted  2416  claims  for  holdover  charges  to  the  General
+   Services Administration s (GSA's) Office of Transportation Audits
+   (OTA).[foot #] 2     OTA  denied   two  of   ICX s  claims,   one
+   on September 29, 1997, and  another on November 20, 1997, because
+   neither   of  the  GBLs  underlying  those  claims  contained  an
+   annotation  requesting ICX  to provide  holdover  services.   The
+   first of these  two GBLs (G-5,823,371) directed ICX  to pick-up a
+   shipment at  Fort Worth on  March 19, 1997 (a Wednesday),  and to
+   deliver it  to Kirtland Air Force Base, Texas.   The GBL does not
+   say when ICX  was required to deliver the shipment,  but it notes
+   that  the shipment  was delivered  on  March 20, 1997.   The  GBL
+   states  that  the  estimated  shipping  cost  was $954,  and  ICX
+   invoiced for that amount  on March 21, 1997.  On  April 15, 1997,
+   ICX invoiced for  an added $250 for holdover charges.  The second
+   of the two GBLs (G-5,823,139)  directed ICX to pick-up a shipment
+   at Fort Worth  on February  26, 1997  (also a  Wednesday) and  to
+   deliver it to Kirtland Air Force Base.  The GBL does not say when
+   ICX was required  to deliver the shipment, but  it notes that the
+   shipment was delivered on February 27, 1997.  The GBL states that
+   the estimated shipping  cost was $954, and ICX  invoiced for that
+   amount on February 27, 1997.  On April 15, 1997, ICX invoiced for
+   an  added $250 for  holdover charges.  Both  GBLs listed the Fort
+   Worth  tender as  the  special rate  authority,  and this  tender
+   provided  that shipments  from Fort  Worth to  Kirtland would  be
+   picked up one day and delivered the next day.  
+ 
+        ICX asks us to review OTA s decision.  In its submissions to
+   the Board, ICX said that when it calculated its freight rates, it
+   thought  that  DoD would  pay  holdover  charges in  addition  to
+   freight rates,  and so did not  include in its  rates any amounts
+   for  holdover charges.    We  asked ICX  to  provide evidence  to
+   establish that at the time  ICX constructed its freight rates and
+   submitted its tenders, it interpreted the tender language to mean
+   that DoD would pay holdover  charges in addition to freight rates
+   for shipments that were listed on the delivery schedules as being
+   picked up one day and delivered the next day.  In response to our
+   question, ICX said that it was familiar with one of the sixty-one
+   routes covered by the  Fort Worth tender.  ICX thought  that this
+   route (not the route from Fort Worth to Kirtland  Air Force Base)
+   would be  profitable at  $1450, so ICX  bid a  freight rate  that
+   would result in  a charge of $1200 plus a holdover charge of $250
+   for most  loads.  ICX said that it  has no "independent record of
+   its bid calculations."  
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 2     Although  we refer to  OTA in  this decision,
+   GSA now performs  its transportation audit functions  through its
+   Transportation Audits Division, which is  a part of the Office of
+   Transportation and Property Management.  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                               Discussion
+ 
+        We   have  the  authority  to  review  only  OTA s  decision
+   concerning the two ICX claims that OTA denied.   According to the
+   regulations   governing  claims   for  transportation   services,
+   claimants may ask us to review final administrative actions taken
+   by  OTA.     41   CFR  101-41.701   (1997).[foot #] 3     Because
+   OTA has  not taken any  final action  upon the remaining  2414 of
+   ICX's  claims, we  must dismiss  them as having  been prematurely
+   filed.  Tri-State Motor Transit Co., GSBCA 13896-RATE, 97-1 BCA  
+   28,873.  ICX asks that, instead of dismissing the 2414 claims, we
+   hold  a hearing  in order to  determine their status.   We cannot
+   grant ICX's  request  because  it  would  require  us  to  review
+   something other than  a final administrative action taken by OTA,
+   which  would exceed the  bounds of our authority.   ICX also asks
+   that we deem  its 2414 claims to have  been constructively denied
+   by OTA.  ICX  had not cited us to any  statute or regulation, and
+   we know of  none, that would allow us to consider these claims to
+   have  been constructively denied.   Tri-State Motor  Transit Co.,
+   GSBCA 14352-RATE, 98-1 BCA   29,521.
+ 
+        ICX has the burden of establishing that it is entitled to be
+   paid holdover  charges.  Rule 301(b).  ICX asks that we interpret
+   the tender  as we  would any government  contract.   According to
+   ICX,  either the plain  language of  the tender  clearly provides
+   that ICX is entitled to be paid holdover  charges whenever an ICX
+   truck  was in  use  overnight,  or else  the  tender language  is
+   latently ambiguous  and should  be construed  against DoD  as the
+   drafter of the tender.  
+ 
+        We deny ICX's claims.   Although we agree with ICX  that the
+   tender is  ambiguous, we do  not construe the tender  against DoD
+   because ICX has  not established that it relied  upon its present
+   interpretation of  the  tender at  the  time it  constructed  its
+   freight rates and submitted its tender.  In addition, ICX has not
+   established  that  there  was  substantial  compliance  with  the
+   tender's requirement  for a GBL  annotation, as required  by Item
+   29.3 of the tender.  
+ 
+   Plain language
+ 
+        ICX points to several provisions of the tender in support of
+   its contention that the tender s  plain language requires DoD  to
+   pay  a holdover charge  whenever one of  ICX s trucks was  in use
+   overnight.   ICX notes  that the  tender states that  ICX was  to
+   quote one  freight rate per  hundred pounds and to  state another
+   amount  for a  holdover charge,  and does  not say  that ICX  was
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 3     Although  this   regulation  refers   to  the
+   Comptroller General,  and not the  Board, we perform  this review
+   function.   General Accounting  Office Act of  1996, Pub.  L. No.
+   104-316,    202(o),  110 Stat. 3826,  3844 (1996);  Delegation by
+   Acting GSA Administrator (July 17, 1996).
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   supposed to include  an amount for holdover in  its freight rate.
+   Although  this tender language  establishes that holdover charges
+   were  to be  paid in addition  to the  freight rate, it  does not
+   clearly establish  what a  holdover is or  when holdover  charges
+   would  be paid.  ICX says that Items  28, 29.1, 29.2, and 29.3 do
+   not  incorporate any delivery schedules, presumably implying that
+   the delivery schedules do not have any bearing upon when holdover
+   charges are to be  paid.  The lack of  a reference to a  delivery
+   schedule  in these  items does  not clarify the  circumstances in
+   which  a holdover charge is due.   In addition, even though these
+   items do not refer to  a delivery schedule, the delivery schedule
+   set out in Item  29 is a part of the tender  and we cannot ignore
+   it when reading the tender.  
+ 
+ 
+        Looking to other  tender provisions in support  of its plain
+   language  argument,  ICX  notes that  some  pick-up  and delivery
+   schedules were subject to change and some pick-ups and deliveries
+   would  be made  only as  required, only as  requested, quarterly,
+   monthly, or as needed.  This uncertainty, says ICX, meant that it
+   had no basis upon which it could anticipate when DoD would ask to
+   use an  ICX truck overnight.   ICX's implication is  that, due to
+   this uncertainty,  ICX  could not  have  included an  amount  for
+   holdover in its freight rate.  ICX's point is not relevant to the
+   two GBLs that are at issue here, because the pick-up and delivery
+   schedule contained in  the applicable tender clearly  showed that
+   pick-ups  would be  made at  Fort  Worth and  deliveries made  to
+   Kirtland the following day.  Putting aside whether ICX's point is
+   relevant, the fact that ICX  could not always anticipate when DoD
+   would ask to use  a truck overnight does not make  the tender any
+   more clear concerning when holdover charges are due. 
+ 
+        The plain language  of the tender does not  provide that ICX
+   is entitled to be paid holdover charges whenever an ICX truck was
+   in use  overnight.  The tender, which uses the term "holdover" in
+   Items 29.1, 29.2, and 29.3, provides that DoD will pay a holdover
+   charge whenever a  holdover occurs.  Thus, in  order to determine
+   when  DoD will  pay a  holdover  charge, we  must ascertain  what
+   constitutes  a holdover.   The  tender does  not define  the term
+    holdover,  and  the word has  no ordinary and  commonly accepted
+   meaning.   "Holdover" is  not a  "clear, unremarkable,  everyday,
+   short, common  English word[]  . . .  ."   Gustafson Partnership,
+   GSBCA  6701-COM,  84-1 BCA     17,086, at  85,065.   There  is no
+   dictionary definition of the word upon which we can rely in order
+   to  conclude  that  the language  of  the tender  is  plain.   In
+   addition, the term "holdover" is not one that appears to have any
+   special  meaning  in  the  trucking industry.    The  concept  of
+   "holdover" is   apparently a creation of DoD, which  says that it
+   first used the term in a rate tender that it issued on October 1,
+   1992.    OTA, which  for  many  years  has been  responsible  for
+   auditing transportation charges paid by Government agencies, says
+   that it  first heard  the term in  September 1996,  in connection
+   with a DoD rate tender.  ICX says that the term is not one of art
+   in the trucking industry, and that it knows of no prior contracts
+   or shipping documents that used  the term.  Because "holdover" is
+   not defined  in the  tender and has  neither an  ordinary, common
+   meaning nor  a special or  unusual meaning understood by  ICX and
+   DoD, we  cannot conclude  that the plain  language of  the tender
+   provides that  ICX  is  entitled  to  be  paid  holdover  charges
+   whenever an ICX truck was in use overnight. 
+ 
+   Ambiguous language
+ 
+ 
+        If  the  use  of  the  word  "holdover"  in  the  tender  is
+   susceptible of two  different interpretations, both of  which are
+   reasonable and consistent with the remainder  of the tender, then
+   the language  is ambiguous.  DoD reads the tender as meaning that
+   a holdover  occurred only if an ICX truck was  in use for a night
+   in addition to a night that was built into the delivery schedule.
+     ICX reads  the tender as  meaning that a holdover  occurred any
+   time that an  ICX truck was  in use overnight, including  a night
+   that was built into the delivery schedule.  We find both of these
+   readings to be reasonable.  
+ 
+        We agree with DoD that the tender  can reasonably be read to
+   say that  holdover  means overnight use that is  unscheduled, not
+   contemplated, and  not accounted for  in the schedule.   Item 17e
+   says that the carrier will pick-up and deliver in accordance with
+   the schedule in  Item 29, and the schedule  contemplates that ICX
+   trucks will be  in use overnight on some routes  because it shows
+   that shipments will be picked  up one day and delivered the  next
+   day.   Nothing prevented  ICX from setting  its freight  rates to
+   take into  account the fact  that the delivery  schedule required
+   ICX to provide DoD with the use  of trucks overnight, just as ICX
+   took into account other factors  such as the distance between the
+   pick-up   point  and  the  delivery  point,  the  nature  of  the
+   commodities being shipped,  and the weight of a  shipment.  Items
+   29.1,  29.2,  and  29.3  provide  that  GBLs  must  be  specially
+   annotated when holdover  is authorized; such an  annotation would
+   not be needed for  overnight use that is part of  the schedule in
+   Item 29 and, therefore, already authorized.  The annotation would
+   be needed,  however, if  DoD asked  ICX for  the use  of a  truck
+   overnight  in  addition  to  a  night that  was  built  into  the
+   schedule,  because when  ICX constructed  its  freight rates,  it
+   could not  have anticipated providing  a truck for more  than one
+   night and so  could not have built  any amount into its  rates to
+   compensate for the additional use of its truck.  DoD's reading of
+   the tender is  reasonable and is not inconsistent  with any other
+   provision of the tender. 
+ 
+        ICX  argues  that  DoD s  reading   of  the  tender  is  not
+   reasonable, and  that this  is established by  the fact  that DoD
+   clarified  its  language concerning  holdovers  after it  invited
+   carriers to submit rates for the tender at issue here.  According
+   to ICX,  DoD made  these clarifications in  a November  1995 rate
+   publication  and  in an  April  1997  invitation to  submit  rate
+   tenders.   The rate publication  does not apply to  ICX s tender,
+   and its language is no more clear  than the language contained in
+   ICX s tender.  Although the  April 1997 invitation to submit rate
+   tenders makes  clear that  carriers should  submit freight  rates
+   based  upon  same  day delivery  and  then  quote their  holdover
+   charges separately, holdover charges in the April 1997 tender are
+   classified as  accessorial charges, and  accessorial charges  are
+   always paid in addition to freight rate charges.  Even if DoD had
+   revised its rate publication and  tender language, this would not
+   establish that DoD s  reading of the language in  ICX s tender is
+   unreasonable.  Mason  v. United States, 615 F.2d  1343, 1349 (Ct.
+   Cl.),  cert. denied, 449 U.S. 830 (1980) ( Subsequent revision or
+   clarification  of contract  language  which  has  given  rise  to
+   disagreement  is   only  wise,   and  does   not  constitute   an
+   admission. ).
+ 
+ 
+        ICX  also argues  that DoD s  reading of  the tender  is not
+   reasonable because  DoD draws  a distinction between   scheduled 
+   holdover, meaning that a truck  was used overnight in  accordance
+   with the  tender s schedule, and  unscheduled   holdover, meaning
+   all other nights that an ICX truck was in use.  DoD says that the
+   tender required  it to  pay only for  unscheduled holdover.   ICX
+   says that DoD s reading of the tender is unreasonable because the
+   tender says that DoD will pay for holdover, and does not refer to
+    scheduled  or  unscheduled   holdover.  Although ICX  is correct
+   that the tender does not make a distinction between two different
+   types of holdover, DoD s position  that the tender requires it to
+   pay holdover charges only if a truck is used for a night that was
+   not  built into  the schedule is  not unreasonable,  as explained
+   above. 
+ 
+        We also  agree with  ICX that the  tender can  reasonably be
+   read to say that  holdover   means any overnight use, including a
+   night that was built  into the delivery schedule.  First,  Item 3
+   of  the tender  makes  it clear  that a  carrier was  supposed to
+   include  an amount  to compensate  for free  time in  its freight
+   rates.  Although DoD could  have stated just as clearly  that the
+   carrier was also supposed  to include in its  rates an amount  to
+   compensate for the use of a  truck overnight, the tender does not
+   say this.  Because the tender states that  rates were supposed to
+   include  an amount  for free time,  and does  not state  that the
+   rates were supposed to include an  amount for the use of a  truck
+   overnight, a carrier could reasonably conclude that DoD would pay
+   for  the use  of  a truck  overnight in  addition  to paying  the
+   freight rates.   Second, holdover charges are stated  as a charge
+   per  truck.  This makes holdover  charges appear to be similar to
+   accessorial charges, which are also stated as a charge per truck,
+   and detention  charges, which are stated as a charge per hour per
+   truck, with a maximum charge  per truck.  Accessorial charges and
+   detention charges were paid in addition to the freight rates, and
+   so  a carrier  could reasonably  conclude  that holdover  charges
+   would also be paid in addition to the freight rates.  Third, Item
+   29.3 of the tender  says that DoD will pay a  holdover charge for
+   trucks "heldover [sic] night . .  . during the week for  delivery
+   the next day."   This could reasonably  be read to mean  that DoD
+   would pay the charge, even if the tender's schedule  contemplated
+   the use of  a truck overnight.  Finally,  ICX s interpretation of
+   the  tender was  shared by  the DSO  in  New Orleans,  which paid
+   holdover charges for  any overnight use,  including a night  that
+   was built into  the delivery schedule, until it  was directed not
+   to do so.   
+ 
+ 
+        There  is no ambiguity that  is apparent on  the face of the
+   tender,  and so we  will construe the  ambiguous language against
+   DoD as the drafter of the tender and grant ICX s claims, provided
+   that  ICX   can  establish  that  it  actually  relied  upon  its
+   interpretation of the  tender s language when it  constructed and
+   submitted  its freight  rates.    Fruin-Colnon  Corp.  v.  United
+   States, 912  F.2d 1426, 1430 (Fed.  Cir. 1990).   Because none of
+   the exhibits  that ICX submitted  to us establish that  it relied
+   upon what it  now advances as a reasonable  interpretation of the
+   tender, we  asked ICX  to provide  whatever evidence  establishes
+   that, at the time it  constructed its freight rates and submitted
+   its tenders, it  interpreted the tender language to  say that DoD
+   would  pay holdover  charges  in addition  to  freight rates  for
+   shipments that  were listed  on the  delivery schedules  as being
+   picked up one day and delivered the next day.  In response to our
+   question, ICX said that it has no record of how it calculated its
+   freight rates.  ICX only outlined how it estimated what to charge
+   for most loads over one route not at issue here.  Because ICX has
+   not established that,  when it constructed its  freight rates and
+   submitted its tenders, it relied upon what it now advances as its
+   interpretation  of  the  tender s language,  we  must  deny ICX s
+   claims. 
+ 
+   GBL annotation
+ 
+        DoD and  GSA contend that  we should also deny  ICX s claims
+   because  Item 29.3 of the tender  provided that the GBLs would be
+   annotated by the DSO when a holdover was authorized, and the GBLs
+   at     issue     here     do     not     contain     any     such
+   annotation.[foot #] 4      ICX's    position   is   that,    even
+   though the GBLs  were not annotated, DoD did, in fact, ask ICX to
+   pick-up shipments one day and deliver them the next day.  
+ 
+        If a  tariff, as opposed  to a tender,  provides that a  GBL
+   must contain  a particular annotation  in order for a  shipper to
+   request a service,  then the GBL must comply with  the tariff and
+   must contain an  annotation that substantially complies  with the
+   tariff s  requirement in  order for  the carrier  to be  paid for
+   providing  the service.   Campbell  66"  Express, Inc.  v. United
+   States, 302 F.2d 270 (Ct. Cl.  1962).  The primary basis for  the
+   holding in  Campbell and similar  cases is that a  common carrier
+   cannot  waive a  requirement  contained  in  a  published  tariff
+   because published tariffs have the force of statute and cannot be
+   varied  by waiver.    Davis  v. Henderson,  266  U.S. 92  (1924);
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 4     Items   29.1  and   29.2   also  require   an
+   annotation, but those items  are not relevant to the two  GBLs at
+   issue here.  
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+   Terminal  Transport Co.,  45 Comp.  Gen. 384  (1966); United  Van
+   Lines, Inc., 41 Comp. Gen. 464 (1962).  
+ 
+ 
+        The  General  Accounting   Office  (GAO),  which  considered
+   transportation  claims until that authority was transferred to us
+   in  1996, decided  that  if a  tender  provided that  a  GBL must
+   contain a particular annotation in order for a shipper to request
+   a service,  then the GBL must  have complied with the  tender and
+   must have  contained  an annotation  that substantially  complied
+   with the tender s requirement in order for the carrier to be paid
+   for providing the  service.  In other words,  the GAO applied the
+   same rules to  tenders as it did to tariffs.  In resolving tender
+   claims, however,  GAO s  analysis was  framed  more in  terms  of
+   contract than was  its tariff analysis.  American  Farm Lines, B-
+   200939, 81-1 CPD   424;   T.I.M.E.  Freight, Inc., B-151205 (Aug.
+   1, 1963).  
+ 
+        GAO's use  of a contract analysis in resolving tender claims
+   was  appropriate because  the relationship  between a  government
+   shipper  and  a carrier  is  "wholly contractual,"  and  when the
+   Government requests that  the carrier provide a  service provided
+   for in a  tender, the request has  to be made in  accordance with
+   the  procedures set out in  the contract.  Baggett Transportation
+   Co. v. United States, 969 F.2d 1028, 1033 (Fed. Cir. 1992).  When
+   a tender requires a written GBL  annotation in order to request a
+   particular  service,  a  GBL   substantially  complies  with  the
+   tender s requirement if  the GBL's language reasonably  makes the
+   carrier aware  that the shipper  is requesting the service.   Id.
+   In order  to determine whether  a GBL's language makes  a carrier
+   aware of what a shipper is  requesting, it is appropriate to read
+   the   GBL's  language  in   the  context  of   the  circumstances
+   surrounding the issuance of the  GBL.  Coast Counties Express, B-
+   227179 (Mar. 23, 1988).
+ 
+        The issue  here, then, is  whether the two GBLs  executed by
+   ICX contain any language that  reasonably made ICX aware that DoD
+   was requesting a holdover.   The GBLs list the Fort Worth  tender
+   as  the  special rate  authority, and  this tender  provided that
+   shipments  from Fort Worth to Kirtland would be picked up one day
+   and delivered the next day.   Thus, the GBLs reasonably made  ICX
+   aware that DoD  wanted the use of  an ICX truck overnight.   But,
+   the GBLs  do not  contain any  annotation mentioning  tender Item
+   29.3  or the word  "holdover."  As  explained earlier, "holdover"
+   can be reasonably  read more than one  way, and by the  time that
+   ICX received these two GBLs in  1997, ICX was very much aware  of
+   DoD's  position  that  a  request  for  overnight  use  that  was
+   contemplated  by  the  tender's  schedule  did not  amount  to  a
+   holdover.   In these circumstances, merely  referring in the GBLs
+   to the  Fort Worth tender  did not substantially comply  with the
+   requirement  for  an annotation  set  out  in  Item 29.3.    This
+   provides an independent reason for denying ICX's claims.  
+ 
+                                Decision
+ 
+        We deny ICX's claims.
+   __________________________________
+ 
+                                      MARTHA H. DeGRAFF
+                                      Board Judge

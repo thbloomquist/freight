@@ -1,0 +1,380 @@
+                  
+
+                  
+
+
+              _______________________________________________
+                                     
+                             November 6, 1997
+              _______________________________________________
+
+                                     
+                             GSBCA 13877-RATE
+                                     
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     Robert D. Norcom, Auditor, Tri-State Motor Transit Co.,
+Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC,
+appearing for General Services Administration.
+
+     Col. James F. Quinn, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army,
+Falls Church, VA, appearing for Department of Defense.
+
+BORWICK, Board Judge.
+
+     When the Department of Defense (DoD) disguises on a
+Government Bill of Lading (GBL) a shipment of missile guidance
+and control systems as radio transmitting and receiving sets, is
+the carrier, Tri-State Motor Transit Company, entitled to payment
+of an extra $78.65 for the shipping the former instead of the
+latter?  We conclude it is so entitled. 
+
+     The facts are as follows.  On December 22, 1992, the
+Government prepared Government bill of lading (GBL) C-7,572,793
+for transportation of goods between the Letterkenny Army Depot,
+Chambersberg, Pennsylvania, and a military facility at China
+Lake, California.  The GBL specified dromedary service, constant
+surveillance, and specified that "flame or heat-producing tools
+will not be used to remove security devices."  The GBL required
+the "shipper to load and the consignee to unload."  The GBL
+identified the item as "radio transmitting and receiving sets." 
+Directly above the item identification, the following notation
+appears: "UN:PSN:HELIUM, COMPRESSED, 2.2, UN31046,7.6OZ,
+EXPLOSIVE 2.2S"  The GBL referenced a national motor freight
+classification (NMFC) code: 062820.  That code refers to: "Radio,
+Radio-telephone or Television Transmitting or Transmitting and
+Receiving Sets, or Other Radio Impulse or Wireless Audio (Sound)
+Impulse Transmitting or Transmitting and Receiving Sets." 
+ 
+     On January 4, 1993, claimant submitted an invoice for
+$4,115.20 for the shipment.  The payment was based on the
+freight-all-kinds (FAK) rate for the commodity as stated in the
+GBL.
+
+     On December 21, 1995, claimant submitted to the
+transportation officer of the Letterkenny Army Depot a request
+pursuant to the Freedom of Information Act (FOIA) seeking, for
+this GBL and others, copies of DD Form 1348-1 (DOD Single Line
+Item Release/Receipt Document) and the DD Form 250 (Material
+Inspection and Receiving Report), trying to learn whether the
+items listed on the GBLs were the items actually shipped.  On
+July 9, 1996, the Defense Logistics Agency (DLA) advised claimant
+that the documentation for C-7,572,793 was not available because
+the agency had destroyed records from 1992. 
+
+     Claimant did obtain receiving reports on two other GBLs for
+shipments originating at the Letterkenny Army Depot.  GBL
+C-7,968,973 described the item shipped as a radio transmitting
+and receiving set, but the receiving report recorded  the item
+received as a "Guidance and Control" system (in type) with those
+typed words crossed out and the words "classified item" penned
+in.  Similarly, GBL C-7,969,118 described the item shipped as a
+radio transmitting and receiving set, but the receiving report
+described that item as "guidance control system, missile" and
+"classified item" typed over that description.  Both GBLs
+specified constant surveillance and noted the presence of
+explosives.  
+     
+     On January 5, 1996, claimant submitted a claim for $78.65
+for the shipment covered by GBL C-7,572,793.  Claimant maintained
+that the item shipped was covered by Department of Defense Unique
+Classification (DODUC) Code 14255 as "missile guidance control
+systems or electronic guidance control apparatus," and subject to
+an increased rate, which, when applied, resulted in the
+additional payment of $78.65 due.  Claimant also noted that DODUC
+14255 items were not subject to FAK rates.  
+
+     On May 10, 1996, acting through its Office of Transportation
+Audits (OTA), the General Services Administration (GSA) denied
+the claim:
+
+     YOUR CLAIM FOR 78.65 . . . AS AN ALLOWANCE FOR
+     TRANSPORTATION FURNISHED THE UNITED STATES GOVERNMENT
+     UNDER DOCUMENT REFERENCE NUMBER C7572793 HAS BEEN
+     EXAMINED AND DISALLOWED FOR THE FOLLOWING REASONS: YOU
+     STATED THAT 605 NAMING RATES ON DODUC 999913 (FAK) WILL
+     NOT APPLY ON THE FOLLOWING ARTICLES.  
+
+     WE DO NOT AGREE.  THE APPLIED TENDER 605 APPLIES 
+     ACCORDING TO THE SHIPMENT STATED ON [THE] GBL.
+
+     Army Regulation 55-355,  32-2 makes the Military Traffic
+Management Command (MTMC) responsible for prescribing
+administrative procedures regarding the use of bills of lading. 
+The Transportation Officer or the Acting Transportation Officer
+is appointed in writing as the responsible GBL issuing official
+and held accountable for GBL control, safekeeping and
+disposition.  AR55-355,  32-5.  Transportation Officers
+determine when shipments are to be made by GBL.  AR55-355,  32-
+7.  Transportation Officers or Acting Transportation Officers
+issue GBLs, AR55-355,  32-13; persons furnishing  supporting
+documentation or other information are responsible for its
+accuracy, with Transportation Officers responsible for the
+accurate copying of the information on the GBL.  AR55-355,  32-
+15.  When shipments are tendered to a carrier for transportation,
+the original shipping order, the two waybill copies and the
+required number of memorandum copies (as required by regulation)
+will be presented to the carrier for receipt purposes.  AR55-355,
+ 32-25. 
+
+     Army Regulation 55-355,  30-4g. provides:
+
+     (1) Under no circumstances will the GBL be marked or
+     stamped "SECRET" or "CONFIDENTIAL."  When the proper
+     freight classification description adequately disguises
+     the nature of the material for security purposes, such
+     description will be used.  However, when it is
+     considered that the proper freight classification
+     description does not adequately disguise the nature of
+     the material to satisfy security considerations,
+     [Transportation Officers] will use a general
+     description such as "Electrical appliances or
+     instruments, NOIBN" or the description of an analogous
+     article or material with similar transportation
+     characteristics.  When a general or analogous
+     description is used, the [Transportation Officer] will,
+     within 30 days after the shipment has been tendered to
+     the carrier, furnish the following information to the
+     disbursing officer responsible for payment of the
+     transportation charges:
+
+          (a) GBL number.
+          (b) Name of origin carrier.
+          (c) Proper freight classification description
+          (d) Reason for the change in [the] freight
+          classification description.
+
+     (2) Proper security provisions will be observed when
+     furnishing the information specified in (a) through (d)
+     above.  The information received by the disbursing
+     officers in this manner will be matched with the
+     appropriate voucher number and transmitted to the
+     General Services Administration [GSA] to enable final
+     settlement of the freight charges.
+
+     Both MTMC and OTA maintain that claimant has not established
+that the Government shipped any goods under GBL C-7,572,793 other
+than what was stated on the face of the GBL--radio receiving and
+transmitting sets.  GBL C-7,572,793, however, contained
+provisions suggesting the presence of security or hazardous
+material other than radio transmitting and receiving sets: the
+requirement for constant surveillance, the listed presence of
+explosives, and the notation on the GBL that the shipper was to
+load and the consignee was to unload.  Claimant correctly notes
+that GBLs C-7,968,973 and C-7,969,118, containing the same
+security provisions and prepared by the Letterkenny Army Depot,
+listed goods shipped as radio transmitting and receiving sets. 
+The receiving  reports for those GBLs, however, established that
+Letterkenny Army Depot shipped missile guidance and control
+systems.  Claimant also complains about the agency's "violation"
+of FOIA in its destruction of the receiving report that would
+have established the identity of the shipped item.  
+
+     Normally, the bill of lading description of the shipped
+article is prima facie evidence of the identity thereof and
+entitled to great weight.  Southern Pacific Transportation Co. v.
+United States, 454 F.2d 740, 744 (Ct. Cl. 1972).  That does not
+mean, however, that we must accept at face value the identity
+stated in the GBL in the face of other persuasive, albeit
+circumstantial, contrary evidence.  Claimant has introduced such
+evidence--receiving reports for two GBLs issued by Letterkenny
+Army Depot.  These receiving reports point to the conclusion
+that, when Letterkenny Army Depot identifies items in GBLs as
+radio transmitting and receiving sets and combines that
+identification with provisions associated with shipment of
+security items, it is shipping missile guidance and control
+systems.  Army regulation allows the agency to disguise the
+nature of the material for security purposes.    
+
+     The Government might have rebutted claimant's evidence with
+the receiving report for GBL C-7,572,793, but that report was
+destroyed by the agency.  The record does not reveal precisely
+when the receiving report was destroyed, but it must have taken
+place either before the claim was filed with the Administrator of
+General Services in January of 1996 or between the filing of the
+claim and July 9, 1996, the date the agency informed claimant of
+the destruction.  
+
+     The agency, however, was required to preserve the receiving
+report.  Statute provides that the Administrator of General
+Services may make deductions on amounts due carriers not later
+than three years after a bill is paid and provides for the filing
+of claims by carriers not later than three years after payment
+for transportation is made.  31 U.S.C.  3726(a),(b) (West Supp.
+1997).  Statute also provides that "records pertaining to claims
+and demands by or against the Government of the United
+States . . . may not be disposed of by the head of an agency
+under authorization granted under this chapter, until the claims
+demands and accounts have been settled and adjusted in the
+General Accounting Office, except upon the written approval of
+the Comptroller General of the United States."  44 U.S.C.  3309
+(1994).  Army regulation requires the agency, when it uses
+security classifications in GBLs, to provide GSA with the actual
+identity of the item shipped.
+
+     For these claims, "the burden is on the claimant to
+establish . . . the liability of the agency, and the claimant's
+right to payment."  Rule 301(b) (62 Fed. Reg. 25,867 (1997) (to
+be codified at 48 CFR 6103.1(b))).  Here, the claimant has
+presented evidence--the other GBLs--that suggest that the
+identification of GBL C-7,572,793 may have been disguised.  The
+Government rests on the identity of the GBL and presents no
+contrary evidence rebutting claimant's proof.  The receiving
+report that would have established the identity of the shipment
+was in the Government's control but was destroyed by the
+Government, even though the Government was required by statute
+and regulation to retain it.  In support of its position,
+claimant has presented all of the information available to it. 
+Our choice is to allow the Government to prevail on the claim
+where it has destroyed the document that would have settled the
+issue, or to accept claimant's unrebutted proof.  We accept
+claimant's proof and conclude that under C-7,572,793, the agency
+shipped missile guidance and control systems.  We now examine the
+legal significance of this finding. 
+
+     The Government argues that, as a matter of law, the carrier
+is responsible for any inconsistencies in the bill of lading, and
+that if it did not agree to the terms of the GBL it could have
+rejected the shipment.  We have held, consistent with precedent
+of the Interstate Commerce Commission and the General Accounting
+Office, that "if a shipper prepared a bill of lading which
+obviously contained conflicting terms or terms with which a
+carrier could not lawfully comply, the carrier had a duty to ask
+the shipper for clarification before executing the bill."  C.I.
+Whitten Transfer Co., GSBCA 13893-RATE, 97-1 BCA  29,060.  The
+terms of GBL C-7,572,793 are consistent; the items to be shipped
+are identified as radio transmitting and receiving sets and the
+applicable NMFC code for radio transmitting and receiving sets is
+stated.  The GBL also included the correct rate for shipping
+those items.  The GBL does not contain inconsistent or illegal
+terms that would have put claimant on notice that missile
+guidance and control systems were being transported instead of
+radio transmitting and receiving sets.  Tri-State Motor Transit
+Co., GSBCA 13763-RATE, 97-2 BCA  29,098. 
+ 
+     The Government argues that paying claimant for what it
+shipped would be applying the "filed rate" doctrine to the
+sovereign when that doctrine does not apply to the sovereign.  We
+do not agree.  The Act to Regulate Interstate Commerce provided
+in pertinent part:
+
+     (a) Except as provided in this subtitle, a carrier
+     providing transportation or service subject to the
+     jurisdiction of the Interstate Commerce Commission
+     under chapter 105 of this title . . . shall provide
+     that transportation or service only if the rate for the
+     transportation or service is contained in a tariff that
+     is in effect under this subchapter. . . .  A carrier
+     subject to this subsection may not charge or receive a
+     different compensation for that transportation or
+     service than the rate specified in the tariff.  
+
+49 U.S.C.  10761 (1988).  The purpose of this provision,
+explained the Supreme Court, examining an earlier, but similar,
+version of the Act, was "to provide one rate for all shipments of
+like character, and to make the only legal charge for the
+transportation of goods in interstate commerce the rate duly
+filed with the Commission."  Pittsburgh, Cincinnati, Chicago &
+St. Louis Railway Co. v. Fink, 250 U.S. 577, 581 (1919) (emphasis
+supplied).  
+
+     Of course, the United States is not necessarily bound by
+this "filed rate doctrine," for statute allowed common carriers
+and the Government to agree on rates that differ from the filed
+tariffs:
+
+     A common carrier providing transportation or service
+     subject to the jurisdiction of the Commission under
+     chapter 105 of this title . . . may transport property
+     for the United States Government . . . without charge
+     or at reduced rates.
+
+49 U.S.C.  10721(b)(1); see ABF Freight System Inc., B-218694
+(Nov. 25, 1985).  Based on an earlier version of the Act to
+Regulate Interstate Commerce, these special rates have been
+traditionally referred to as "Section 22 tenders."  Jetco Inc. v.
+United States, 11 Cl. Ct. 837,  840 and n. 4 (1987).  When
+carriers seek recovery in excess of their Section 22 tender
+rates, the courts have held the carriers are estopped from such
+recovery. These cases apply when there is a dispute concerning
+the proper rates to apply to a shipment, not when the dispute
+concerns what goods were shipped.  For example, in Chicago,
+Burlington & Quincy Railroad Co. v. United States, 439 F.2d 1224
+(Ct. Cl. 1971), the Government and the carrier agreed to
+demurrage at a track near the GSA depot every Tuesday and
+Thursday for a certain period of time.  The Government paid the
+demurrage at the Section 22 tender rate, and the carrier sued for
+the difference between the tender and tariff rates.  The court
+held the carrier was estopped from recovery based on the tariff
+rate, because in agreeing to the demurrage, the Government had
+relied on the lower rate, id. at 1227, but there was no issue in
+that case as to the type or quality of the services provided. 
+Similarly, in  Jetco, the carrier tried to recover for
+unspecified transportation services based on a revised Section 22
+tender rate of dollars and cents per hundred pound instead of the
+original Section 22 tender rate of cents per hundred pound.  The
+court found that the revised rate was a mistake and that the
+course of dealing between the parties indicated their mutual
+intent to apply the original Section 22 tender rate of cents per
+hundred pound to the shipments.  11 Cl. Ct. 847.  As in the
+Quincy Railroad case, there was no dispute concerning which goods
+were shipped.
+
+     Here, the controversy is not about what rates apply to
+shipment of particular goods, but rather, about what items were
+shipped.  Claimant seeks the additional $78.65 based on its
+applicable tender rate for the goods it actually carried--missile
+guidance and control systems.
+
+     When there is a dispute about the goods that were shipped,
+the Interstate Commerce Commission (ICC) held that what is
+determinative is what is shipped, not what was on the GBL.  For
+example, in United Welding Co. v. Baltimore & Ohio Railroad Co.,
+No. 25494, 196 I.C.C. 79 (1933), the dispute concerned whether
+the item shipped was steel plates (carrying a rate of 38› per
+hundred pounds) or kelp steel, carrying a different rate.  The
+ICC ruled that "the bill of lading description is not
+controlling.  The important fact is what is moved, not what was
+billed."  Id. at 80.  The ICC ordered payment at the rate
+applicable to the goods shipped.  Southern Traffic & Audit
+Association v. International-Great Northern Railroad Co., 160
+I.C.C. 212 (1929), is to the same effect.  There, the bill of
+lading described the item shipped as a complete machine, which
+carried one rate, while machine parts which carried a lower rate,
+were actually shipped.  The I.C.C. ordered payment at the lower
+applicable rate.  
+
+     The same rule applies to Government shipments.  When there
+is a dispute about what is shipped, the Court of Claims stated
+that "in order to determine the applicable freight rate, the
+first step is to ascertain the actual identity of the shipped
+article."  Southern Pacific Transportation Co., 454 F.2d at
+744. 
+
+     This principle controls here.  Where the goods that were
+shipped were other than as stated in the GBL, claimant is
+entitled to payment at the rate applicable to the goods shipped. 
+Tri-State Motor Transit Co., GSBCA 13886-RATE, 97-1 BCA  28,941.
+For national security items, at least, that principle is adopted
+in DoD's regulations.  When goods are mis-labeled on GBLs for
+security reasons, AR55-355,  30-4g, requires the disbursing
+officer to notify GSA of the (a) GBL number, (b) name of origin
+carrier, (c) proper freight classification description, and (d)
+reason for the change in the freight classification description,
+so that GSA can make final settlement of the freight charges. 
+
+     For the reasons above, claimant is entitled to payment of
+$78.65.
+
+
+                                                                 
+                         _________________________
+                              ANTHONY S. BORWICK
+                              Board Judge
+          

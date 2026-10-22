@@ -1,0 +1,155 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+                   _________________________________
+ 
+                            October 23, 1998
+                   _________________________________
+ 
+ 
+                            GSBCA 14248-RATE
+ 
+ 
+              In the Matter of TRI-STATE MOTOR TRANSIT CO.
+ 
+ 
+        Robert  D.  Norcom, Auditor,  Tri-State  Motor Transit  Co.,
+   Joplin, MO, appearing for Claimant.
+ 
+        James   F.  Fitzgerald,   Director,  Transportation   Audits
+   Division,  General   Services  Administration,   Washington,  DC,
+   appearing for General Services Administration.
+ 
+        Col. James  F. Quinn,  Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   WILLIAMS, Board Judge.
+ 
+        Tri-State  Motor Transit  Co. (Tri-State)  has  asked us  to
+   review denials by  the General Services  Administration's (GSA's)
+   Office of Transportation  Audits (now  the Transportation  Audits
+   Division)  of twenty-eight  separate claims  for  monies due  the
+   carrier for transporting  vehicles for the Department  of Defense
+   (DoD) during 1992.   The claims all involve  the identical issue:
+   Whether DoD must pay additional amounts for transporting vehicles
+   when it declares on a Government Bill of Lading (GBL) a value for
+   the vehicle which  is in excess of the  default "released value."
+   The released  value limits the  carrier's liability in  the event
+   that  the shipment  is  lost  or damaged.    Consistent with  our
+   precedent,  we conclude  that DoD must  pay the  excess valuation
+   charges.
+ 
+                               Background
+ 
+        Tri-State  seeks  the  following  amounts  in  excess  value
+   charges  for the  following twenty-eight  GBLs  for shipping  the
+   commodities listed below during 1992:
+ 
+                                                                   2
+ 
+               GBL       Amounts        Commodities Shipped
+ 
+        G-0,669,528              $155.70        Rocket      Launcher
+   (Truck)
+        D-2,002,099              52.50          Truck    to    Decon
+   System
+        G-0,669,529              155.70         Rocket      Launcher
+   (Truck)
+        D-1,033,608              63.75          Trailer
+        D-2,467,636              21.45          Two Trailers
+        D-2,467,631              21.45          Two Trailers
+        D-2,002,098              52.50          Truck
+        G-0,669,371              155.70         Rocket      Launcher
+   (Truck)
+        D-2,467,902              21.45          T        w        o
+   HEMATs[foot #] 1
+        D-2,013,413              154.80         Semi Trailer Van
+        D-2,467,622              21.45          Two Trailers
+        D-1,971,854              21.45          Two        Munitions
+   Trailers
+        D-2,467,624              21.45          Two        Munitions
+   Trailers
+        D-2,467,616              21.45          Two        Munitions
+   Trailers
+        D-2,467,618              21.45          Two        Munitions
+   Trailers
+        D-2,467,627              21.45          Two        Munitions
+   Trailers
+        D-2,467,628              21.45          Two        Munitions
+   Trailers
+        D-2,467,626              21.45          Two        Munitions
+   Trailers
+        D-2,467,619              21.45          Two        Munitions
+   Trailers
+        D-2,467,634              21.45          Two        Munitions
+   Trailers
+        D-2,467,633              21.45          Two        Munitions
+   Trailers
+        D-2,408,997              33.75          Military Van Trailer
+        D-2,467,620              21.45          Two        Munitions
+   Trailers
+        D-2,467,621              21.45          Two        Munitions
+   Trailers
+        D-0,709,123              25.20          Five-Ton Truck
+        D-0,709,122              25.20          Truck
+        D-2,467,903              21.45          Two HEMATs
+        D-2,467,905              21.45          Two HEMATs
+ 
+                                                                    
+                   ----------- FOOTNOTE BEGINS ---------
+ 
+        [foot #] 1 HEMAT   denotes   a   heavy   expanded   mobility
+   ammunition trailer.
+ 
+                   ----------- FOOTNOTE ENDS -----------
+ 
+ 
+ 
+                                                                   3
+ 
+        TOTAL             $1,260.90
+ 
+                               Discussion
+ 
+        According to  Item 190  of the  Military Traffic  Management
+   Command (MTMC)  Freight Traffic Rules Publication No. 1A, tenders
+   filed with DoD for the movement of vehicles for that agency "will
+   be subject  to a  released value not  exceeding $20,000  for each
+   vehicle."  However,  if a value exceeding that  released value is
+   stated on the bill of lading, the latter valuation shall control.
+   Construing  this rule,  we have  consistently  held that  where a
+   higher value is stated the shipper must pay an additional amount,
+   which we have  characterized as a premium to  cover the carrier's
+   increased   liability.    E.g.,   Tri-State  Motor  Transit  Co.,
+   GSBCA 14244-RATE,  98-2 BCA   29,787.  Specifically, excess value
+   charges of $0.15 for each $100  or fraction thereof by which  the
+   declared value  of the shipment  exceeds $20,000 per  vehicle are
+   properly assessed.
+ 
+        In  all of these  claims, DoD stated  on the GBL  a specific
+   value for the vehicle or  vehicles being shipped (either $2.50 or
+   $1.75 per pound per vehicle),  and the vehicles were sufficiently
+   heavy that this value was more than the default released value.
+ 
+        MTMC  argues  that  it has  not  been  established  that the
+   commodities  shipped  were  "self-propelled,  wheeled  vehicle[s]
+   which  might, under different circumstances, have been subject to
+   a  $20,000   default  released  value."     Item  190   does  not
+   differentiate  among vehicles on  the basis of  their being self-
+   propelled  or wheeled; it simply  lists various kinds of vehicles
+   the shipment of which will be subject to a maximum released value
+   of $20,000,  unless a  higher  value is  stated  on the  bill  of
+   lading.  MTMC's argument is irrelevant to the issue in this case.
+ 
+                                Decision
+ 
+        Claimant  is entitled to an additional payment of $1,260.90,
+   the amount it  claims, for transporting vehicles pursuant  to the
+   twenty-eight GBLs listed above.
+   ________________________________
+ 
+                                      MARY ELLEN COSTER WILLIAMS
+                                      Board Judge

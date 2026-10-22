@@ -1,0 +1,95 @@
+ 
+                       Board of Contract Appeals
+                    General Services Administration
+                         Washington, D.C. 20405
+ 
+ 
+                    _______________________________
+ 
+                           February 19, 1998
+                    _______________________________
+ 
+                            GSBCA 14110-RATE
+ 
+              In the Matter of C. I. WHITTEN TRANSFER CO.
+ 
+ 
+        Robert  D.  Norcom,  Auditor, C.  I.  Whitten  Transfer Co.,
+   Joplin, MO, appearing for Claimant.
+        Jeffrey  J.  Thurston,  Director, Office  of  Transportation
+   Audits,   General   Services  Administration,   Washington,   DC,
+   appearing for General Services Administration.
+        Col. James  F.  Quinn, Staff  Judge Advocate,  Headquarters,
+   Military  Traffic  Management Command,  Department  of  the Army,
+   Falls Church, VA, appearing for Department of Defense.
+ 
+   DeGRAFF, Board Judge.
+                            Findings of Fact
+ 
+        On March 9, 1993, the Department of Defense (DoD) tendered a
+   shipment of  goods to C.  I. Whitten Transfer  Company (Whitten).
+   Block  18  of the  Government  Bill of  Lading  (GBL C-0,983,084)
+   states that  the size of the shipment was  208 cubic feet.  Block
+   24  of the  GBL contains  a space  to describe  the "Length/Cube"
+   ordered  and   another  space  to   describe  the   "Length/Cube"
+   furnished.   Block 24  contains a space  to describe  the "Marked
+   Capacity"  ordered  and  another space  to  describe  the "Marked
+   Capacity" furnished.  All of these spaces contain the code "AD4,"
+   which is a dromedary box code.  The Whitten tender listed  on the
+   face of the GBL applies to code AD4 dromedary box service.  
+        Military Freight Traffic Rules Publication No. 1A (MFTRP 1A)
+   governs freight services provided to DoD by motor carriers.  Item
+   325 of MFTRP 1A in effect for this shipment described a dromedary
+   box identified by code AD4 as follows: 90"-L, 70"-H, 57  "-W, 200
+   cubic feet."    Item  325  said that  shipments  exceeding  these
+   dimensions would not be transported at dromedary service rates.
+ 
+        Whitten  hauled  the  shipment  and  billed  DoD  $2,096.67,
+   applying a  rate found in  the Whitten tender applicable  to code
+   AD4   dromedary  box  service.     Later,  Whitten   submitted  a
+   supplemental  bill for $42.59 because, said Whitten, the shipment
+   exceeded  the dimensions  of  a  code AD4  dromedary  box and  so
+   Whitten should have billed at  a higher rate.  Whitten  says that
+   it  often substituted larger available equipment  in place of the
+   equipment ordered, and  that it must  have furnished a  container
+   larger than  a code AD4  dromedary box.  Whitten s  evidence that
+   the dimensions of the shipment  exceeded the dimensions of a code
+   AD4 dromedary box and that it provided a larger container is that
+   the GBL  said the  shipment was  208 cubic  feet, while  MFTRP 1A
+   describes  a code  AD4 dromedary  box as  holding only  200 cubic
+   feet. 
+ 
+        The  Office  of  Transportation   Audits  decided  to   deny
+   Whitten s claim  for the additional  $42.59.  Whitten asks  us to
+   review this decision.
+ 
+                               Discussion
+ 
+        Whitten bears the burden of establishing that the dimensions
+   of the shipment  exceeded the dimensions of a  code AD4 dromedary
+   box, and  that it  provided a  container larger  than a  code AD4
+   dromedary box.  Rule 301.  Whitten has not met its burden.
+ 
+        The  only evidence that the shipment exceeded the dimensions
+   of a code AD4 dromedary box and that, therefore, Whitten provided
+   something larger than  a code AD4 dromedary box  is the statement
+   on the face  of the  GBL that the  size of the  shipment was  208
+   cubic  feet.   The  GBL also  states,  however, that  a  code AD4
+   dromedary box  was ordered and that a  code AD4 dromedary box was
+   furnished, and that  the Whitten  tender applicable  to code  AD4
+   dromedary  boxes was  applicable to  the shipment.   There  is no
+   reason to believe  that the GBL s statement as to the size of the
+   shipment is any  more reliable than the GBL s  statements that an
+   AD4 dromedary box was furnished and provided,  and that Whitten s
+   tender applicable  to AD4 dromedary  boxes was applicable  to the
+   shipment.  The GBL does not state the  dimensions of the shipment
+   and Whitten has offered no proof of either the true dimensions of
+   the  shipment or  the actual  container it  provided to  haul the
+   shipment.  Whitten s claim fails for lack of proof.
+        We agree with the decision to deny Whitten s claim.
+ 
+ 
+ 
+                                      ______________________________
+                                      MARTHA H. DeGRAFF
+                                      Board Judge

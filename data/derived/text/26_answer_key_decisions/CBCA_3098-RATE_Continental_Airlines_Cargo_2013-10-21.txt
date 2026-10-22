@@ -1,0 +1,176 @@
+                                      October 21, 2013
+
+
+                                     CBCA 3098-RATE
+
+
+         In the Matter of CONTINENTAL AIRLINES CARGO/UTI WORLDWIDE
+
+
+       Mary Tussing, Manager, Specialty Sales, of United Airlines, Chicago, IL; and Blaine
+Kurtz, Global Vice President, Aerospace Defense Group, of UTi Worldwide, Winchester,
+VA, appearing for Claimants.
+
+       Joyce Clark, Director, Transportation Audits Division, Office of Travel &
+Transportation Services, Federal Acquisition Service, General Services Administration,
+Arlington, VA, appearing for General Services Administration.
+
+       Maj. Donald N. Bugg, Commercial Law and Litigation Directorate, Department of
+the Air Force, Joint Base Andrews, MD, appearing for Department of the Air Force.
+
+WALTERS, Board Judge.
+
+       The matter before this Board was brought under 31 U.S.C. § 3726(i)(1) (2006), which
+provides that a carrier or freight forwarder may request the Administrator of General Services
+to review an action taken by the Audit Division of the General Services Administration
+(GSA) Office of Transportation and Property Management. The Administrator has delegated
+the review function to the Civilian Board of Contract Appeals (CBCA). Rule 301 (48 CFR
+6103.301 (2011)).
+
+       The instant claim arises out of a uniform tender issued by the Department of Defense
+(DOD) Defense Logistics Agency (DLA) to the claimants, Continental Airlines Cargo (now
+part of United Airlines) and its designated Civil Reserve Air Fleet (CRAF) agent, UTi
+Worldwide, for transportation services under standard carrier alpha code no. CAZQ-0024 on
+September 9, 2011. The tender called for the shipment of military uniform items from the
+DLA’s Defense Depot Susquehanna Pennsylvania (DDSP), New Cumberland, Pennsylvania,
+to Benina Airfield (Benghazi), Libya, with delivery no later than September 15, 2011.
+CBCA 3098-RATE                                                                              2
+
+Claimants priced the tender at $4.61 per volumetric (chargeable) pound. Based on the
+information furnished in the solicitation regarding the configuration of the pallets and the
+volume of materials to be shipped, the shipment had an anticipated volumetric (chargeable)
+weight of some 85,360 pounds and all-inclusive charge of $393,898.71. Although one might
+expect there to be a relationship between actual weight and volumetric weight, the two
+weight measures differed in this case.
+
+        The solicitation contained the following cargo description: “Uniform items, various
+NSNs [National Stock Numbers](see attached spreadsheet), positioned on 164 wooden skids
+[pallets]; Total weight of material = 77,694 lbs; Total Cube = 8,090 cubic feet; Average
+weight per pallet = 473 lbs. (heaviest single pallet weight of 681 lbs); Average Cube/per
+pallet = 49 cubic feet (with highest single pallet cube of 66 cubic feet); Average dimension
+of pallets is 40L x 48W x 45H.” Claimants allege that when the pallets of items were picked
+up at DDSP on September 13, 2011, they could not fit onto trucks as originally planned,
+because the pallets did not conform to the dimensions stated in the Government’s
+solicitation.1 They further state that, when the DDSP pallets were received at the JFK Airport
+freight containerization station on September 14, 2011, prior to being transported by airplane
+overseas (via Cargoitalia), they were weighed and measured “to ensure safe loading and
+accurate measurements for the aircraft operations.” The parties are in agreement that the
+actual total weight of the items shipped was 84,205 pounds, some 6511 pounds above the
+77,694 pounds of actual weight stated in the solicitation. Claimants urge, however, that
+because of a “volume irregularity” brought about by observed deviations from the
+dimensions that the solicitation indicated for the pallets, there was an even more sizeable
+increase in the volumetric (chargeable) weight of the shipment – a chargeable weight of
+108,223 pounds, rather than the 85,630 pounds of chargeable weight that had been indicated
+by the solicitation and that had been reflected on UTi’s tender. Claimants sought an upward
+tender price adjustment for this alleged volumetric difference based on the $4.61 per
+chargeable pound unit price claimants had bid. This translates to a revised total tender price
+for the 108,223 pounds equal to $499,401.65, i.e., an upward price adjustment of
+$105,502.84. DLA, by means of a contracting officer decision, denied claimant’s request,
+and the denial was sustained by GSA’s Office of Transportation and Property Management.
+
+
+
+
+       1
+         In conjunction with this allegation, claimants identify “Keith Garrison/Trans Tech
+Trucking” as the trucking firm responsible for transporting the materials from DDSP to John
+F. Kennedy (JFK) Airport, but indicate that the firm is no longer in business and provide no
+further information as to the extent to which dimensional differences caused loading
+problems and how those problems were resolved.
+CBCA 3098-RATE                                                                                  3
+
+       Under this Board’s rules pertaining to these rate matters, the burden of proof is on the
+claimant to establish the timeliness of the claim, the liability of the agency, and the claimant’s
+right to payment. Rule 301(b). Previously, notwithstanding a Government challenge to
+timeliness, the Board had found claimants’ request for the Board’s review to have been
+timely. Upon consideration of the record,2 however, we find that the claimants have failed
+to sustain fully their burden of proof as to agency liability and their right to additional
+payment. Thus, as explained below, we can only provide them with partial relief.
+
+                                           Discussion
+
+       The Government’s resistance to allowing recovery in this instance boils down to a
+lack of corroboration of the allegation of “volume irregularity” of the shipment and, more
+particularly, corroboration of the dimensional deviations claimants note for the pallets of
+items it obtained from DDSP on September 13, 2011. It appears that some unidentified
+individual from claimant UTi, on September 14, 2011, prepared a handwritten listing of
+dimensions (length, width, and height) for groupings of those pallets. That listing, which
+bears no names or signatures, is found on three pages of a form claimants provided to the
+Board entitled “Volume Irregularity.” Claimants not only failed to identify the individual
+who had performed weighing and measuring of materials on September 14, 2011, and who
+had compiled the three page handwritten “Volume Irregularity” forms, but also failed to
+provide any details whatsoever as to how the weighing and measuring was accomplished.
+
+       For its part, the Government produced the affidavit of a distribution facilities
+specialist for DDSP, the individual at DLA who personally handled the materials in
+question. According to that individual, (1) she personally “broke down” and “reconfigured”
+the materials onto standard sized pallets, “ensuring that each pallet is uniform and compliant
+with DOD policies and regulations as they apply to standard palletization within the DOD,”
+“in order . . . to ensure the safe transportation of palletized units that were placed inside
+containers,” (2) she had each pallet “shrink-wrapped in order to preserve the materiel
+within,” (3) she observed the movement of the pallets by forklift “to a calibrated weighing
+station where the materiel was weighed and dimensioned” and where “each pallet was
+marked with [its] unique weight and dimensions,” (4) she made sure that each pallet to be
+
+
+       2
+        In addition to the submissions made by the parties in this matter, the Board was
+provided with a copy of the appeal file that had been developed in an appeal that the
+claimants had earlier lodged under the Contract Disputes Act (CDA) with the Armed
+Services Board of Contract Appeals (ASBCA). Ultimately, the ASBCA dismissed that
+appeal. This Board was also furnished a copy of the Government’s motion to dismiss the
+ASBCA appeal for lack of jurisdiction, together with appended exhibits.
+CBCA 3098-RATE                                                                               4
+
+shipped to Libya was loaded “in accordance with DDSP loading Standard Operating
+Procedures (SOP),” and (5) she personally “incorporated the items [i.e., the contents of the
+shipment and the weights and dimensions of the various pallets] into the Distribution
+Standard System (DSS).” Others, based on their first-hand knowledge, similarly provided
+declarations (under penalty of perjury) attesting to the precision of the Government’s
+weighing and measuring process for this shipment.
+
+       Under the circumstances, it is understandable why the Government was unwilling to
+accept as fact the contentions regarding “volume irregularity.” Claimants simply have not
+sustained their burden of proof in terms of establishing a 26.38% difference in volumetric
+(chargeable) weight (an increase in volumetric weight of 22,593 pounds above the 85,630
+pounds of volumetric weight indicated by the solicitation).
+
+        By contrast, in terms of the actual weight shipped, the parties are in complete
+agreement that the materials shipped exceeded the 77,694 pounds indicated by the
+solicitation by some 6511 pounds. The contracting officer’s decision acknowledges this:
+“I agree that the actual weight changed from the estimated 77,694 lbs to an actual 84,205
+lbs, a net difference of 6,511 lbs . . . .” This difference in actual weight represents an
+increase of approximately 8.38%. From the Board’s perspective, an addition of more than
+two and a half tons of materials to the shipment had to have resulted in some increase in
+volumetric (chargeable) weight, and there is nothing to indicate that the increase in
+volumetric weight would have been out of proportion to the increase in actual weight.
+
+        The Government advances the argument that claimants would not be entitled to an
+adjustment automatically for a deviation in volumetric weight from that indicated in the
+solicitation, that claimants were asked to provide their tender offer based on “estimates,” and
+that no price adjustment of any sort would be due, absent proof that claimants suffered
+“damages,” in the form of “greater costs to ship the goods” or that it “missed the opportunity
+to ship other goods, or lost profits, due to the allegedly increased volumetric weight of the
+shipment.” We must reject this argument. Not only does this argument contradict the
+various affidavits the Government furnished the Board, underscoring how exacting and
+precise the DLA’s approach was in assuring itself of accurate measurement and
+dimensioning, but the above-quoted cargo description language in the solicitation contained
+nothing that would convey to claimants that they were being asked to provide a tender offer
+on the basis of “estimates” that would be subject to material variation at their risk or that
+they would be expected to give a free ride to an extra two and a half tons of cargo. In our
+view, an appropriate and equitable adjustment in this case would increase the tender price
+by 8.38%. Accordingly, claimants’ tender price should be revised upward from $393,898.71
+to $426,907.42, i.e., by $33,008.71.
+CBCA 3098-RATE                                                                         5
+
+                                       Decision
+
+     For the reasons stated above, the claim is granted in the amount of $33,008.71.
+
+
+
+
+                                               ______________________
+                                               RICHARD C. WALTERS
+                                               Board Judge
+

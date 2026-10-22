@@ -1,0 +1,277 @@
+                  
+
+                  
+
+
+
+
+
+
+                         _________________________
+
+                               JUNE 27, 1997
+                        __________________________
+
+
+                             GSBCA 13763-RATE
+
+
+               In the Matter of TRI-STATE MOTOR TRANSIT CO.
+
+
+     John R. Bagileo of Bagileo, Silverberg & Goldman, L.L.P.,
+Washington, DC; and Robert D. Norcom, Auditor, Tri-State Motor
+Transit Co., Joplin, MO, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, General Services Administration, Washington, DC, appearing
+for General Services Administration.
+
+     Col. James F. Quinn, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense. 
+
+NEILL, Board Judge.
+
+     At issue in this proceeding is the shipment of a guided
+missile control system transported by claimant, Tri-State Motor
+Transit Co. (Tri-State) for the Department of Defense.  The
+shipment was transported pursuant to government bill of lading
+(GBL) no. D-0611329 (the GBL).  
+
+     The GBL contains the following description of the shipment: 
+
+     (2.2 NMFC 162812 Sub 2)
+     PROJECTILE OR ROCKET PARTS NOI
+     NSN: 1325-01-257-9428/EO58
+     NOM: GUIDANCE AND CONTROL UNIT GBU 24A/B
+
+     The nomenclature used in the first two lines of this entry is
+that of a National Motor Freight Classification (NMFC).  It is not
+the DOD unique commodity (DODUC) code for the item although GSA is
+now prepared to concede that the item being shipped in this case
+was indeed a commodity covered by DODUC code no. 014255.  Board
+Conference Memorandum (Sept. 19, 1996) at 2.  The complete DODUC
+description of this commodity reads as follows: 
+
+     Missiles or Rockets, without warheads; or missile
+     guidance control systems or electronic guidance control
+     apparatus; or missile or rocket frame assemblies
+     containing electronic apparatus; or mobile missile or
+     rocket guidance control systems, released value not
+     exceeding $5.00 pound.  
+
+This DODUC classification does not appear on the GBL.  
+
+     The shipment in question was made on November 19, 1991.  Tri-
+State originally billed the Government for the shipment at the
+freight-all-kinds (FAK) rate set forth in its tender no. 528.  This
+is the tender actually listed in the GBL.  Tri-State was paid a
+total of $2118.42 for the shipment.
+
+     Upon post-payment audit, Tri-State concluded that tender no.
+528 was not applicable to this shipment.  That tender, according to
+Tri-State, was not applicable to shipments of guided missile
+control systems identified by the DODUC code no. 014255.  The
+tender, by its terms, applies to several commodities to which DODUC
+codes are assigned, such as ammunition, explosives, fireworks and
+chemical ammunition, classes A, B, and C (DODUC code nos. 64300-
+01,-02, and -03); missiles or rockets, guided with warheads (DODUC
+code nos. 64300-04); and freight category  FAK  (DODUC code no.
+999913).  Tri-State s tender no. 528, however, makes no mention of
+ Missiles or Rockets, without warheads; or missile guidance control
+systems or electronic guidance control apparatus,  to which the
+DODUC code no. 014255 has been assigned.   
+
+     In the absence of an applicable tender rate, Tri-State
+contends that the Government should not have been billed under the
+FAK rate of tender no. 528 but rather under a tariff of Tri-State,
+tariff no. T4001, which would apply in the absence of an applicable
+tender.  Under that tariff, the Government would have been billed
+for an additional $1300.72.  Tri-State has, in fact, submitted a
+claim for this amount.  The claim was denied.  Tri-State appealed
+the denial to the Office of Transportation Audits (OTA) of the
+General Services Administration (GSA).  In April 1996, GSA issued
+a settlement certificate denying the claim on the ground that
+ investigation with the shipping depot reveals this commodity to be
+[a] projectile part.   Tri-State then sought review of GSA s
+decision by the Comptroller General.  
+
+     Before a decision was rendered by the Comptroller General, the
+responsibility for reviewing decisions of the OTA was transferred
+by statute from the Comptroller General to the Administrator of
+General Services.  Pub. L. No. 104-316,  202(o)(2), 110 Stat.
+3826, 3844 (1996).  By delegation, this Board now exercises this
+review function on behalf of the Administrator in transportation
+rate cases.  The case is, therefore, now before us. 
+
+       
+                                Discussion
+
+     On October 19, 1992, the Military Traffic Management Command
+(MTMC) issued an amendment to its Freight Traffic Rules Publication
+1A (MFTRP 1A).  This amendment, among other provisions, also stated
+that a FAK rate is not applicable to any commodities for which a
+DODUC code has been assigned by MTMC headquarters.  The question
+presented in this case is whether this provision merely confirmed
+an already existing policy or, instead, represented a change in
+official MTMC policy.
+
+     Tri-State contends that the change in MFTRP 1A was nothing
+more than the recognition of a policy already well supported by
+provisions contained in tender instructions published several years
+before by MTMC.  These instructions provided guidance for carriers
+on the use and application of DOD s Standard Tender of Freight
+Services, MT Form 364-R.  According to Tri-State, the instructions
+ absolutely prohibited carriers from issuing tenders for the
+shipment of commodities that were assigned DOD Unique Commodity
+Codes, unless the tender showed the specific code.   In other
+words, argues Tri-State,  carriers were forbidden from classifying
+such commodities other than by their codes--they could not move at
+FAK rates.   Tri-State s Comments on the Submissions of GSA and
+MTMC at 3.  
+
+     MTMC disagrees with Tri-State on this issue.  It explains that
+the FAK rate constitutes a permissible classification alternative
+to tendered rates targeted at specifically described commodities
+and that, prior to the amendment of MFTRP 1A in October 1992, the
+rules were purposefully silent on the exclusion of DODUCs from the
+FAK classification.
+
+     The language of the tender instruction on which Tri-State and
+MTMC focus in briefing their respective positions is found in the
+general instruction regarding commodity descriptions listed in a
+carrier s tender.  It reads as follows: 
+
+      Because of the unusual transportation needs of
+     Department of Defense (DOD) material, the DOD unique
+     codes shown below must be used in the Standard Tender of
+     Freight Service to describe the commodities listed.  The
+     released values shown for these commodities have also
+     been assigned by DOD and apply to movements by both rail
+     and other than rail.
+
+     MTMC explains that this language was intended to standardize
+the nomenclature for specific commodity tenders and to provide
+unique codes for military commodities that were not generally
+classified under the National Motor Freight Classifications. 
+According to MTMC, therefore, this language should be read to say
+that carriers must use DODUCs to describe commodities listed in
+their tenders for freight service if those commodities are actually
+listed in the tender.  On the other hand, if the commodities are
+not specifically described in the tender, MTMC is of the opinion
+that there is no need to use the DODUCs and the FAK classification
+is suitable and inclusive.  See MTMC Comments (November 19, 1996)
+at 2.    
+
+     Tri-State s reading of the above-quoted language in the tender
+instructions is considerably more restrictive.  As already noted,
+Tri-State believes that this language forbids carriers from
+classifying commodities having a DODUC code in any fashion other
+than by using their actual codes.  In short, this dispute is
+ultimately reduced to the single question of whether  FAK  is, in
+fact, a permissible classification alternative for a specific DODUC
+item.  
+
+     To answer that question, we turn again to the tender
+instructions.  The instructions in effect at the time of
+Tri-State s shipment on November 19, 1991, provide the following
+definition: 
+
+     FREIGHT ALL KINDS (FAK) consists of those commodities
+     which carriers offer to transport at one inclusive rate
+     or charge regardless of their classification rating in
+     the NMFC [National Motor Freight Classification] or UFC
+     [Uniform Freight Classification], or their differing
+     transportation characteristics.  These commodities are
+     described in the applicable MTMC Freight Traffic Rules
+     Publication.  Carriers filing FAK rates may not restrict
+     the application of such rates by imposing any further
+     commodity, density, or classification exclusions.  
+
+     Conspicuous by its absence from this definition is any mention
+of DODUC classification.  FAK classification, by definition,
+applies only to items having an NMFC or UFC classification.  MTMC
+would apparently have us read no significance into the fact that
+the definition makes no mention of DODUC classification.  This we
+are unwilling to do.  The DODUC classifications are obviously a
+matter of key importance in MTMC's tender instructions.  Carriers
+are told that they must use them.  MTMC has explained to us that
+insistence on use of DODUC codes stemmed from a need to standardize
+nomenclature and to provide unique codes for military commodities
+not generally classified under the National Motor Freight
+Classifications.  The DODUC classifications are not, therefore, 
+equivalent, in all respects, to NMFC or UFC classifications.  For
+them to be included in the "FAK" definition, they must be
+mentioned.  Yet the plain, indisputable fact is that they are not. 
+We agree with Tri-State that under MTMC s tender instructions in
+effect at the time of the shipment in question, and well in advance
+of the amendment of MFTRP 1A in October 1992,  FAK  was not a
+permissible alternative classification for a specific DODUC item. 
+Consequently, notwithstanding MTMC s claim to the contrary, we
+conclude that this formal amendment did nothing more than confirm
+already existing regulatory guidance.
+
+     Before concluding that Tri-State is entitled to be paid for
+the shipment in question in accordance with the applicable tariff
+rate, there is the remaining issue of whether Tri-State, as the 
+carrier in this case, should have objected at the time of shipment
+to inclusion of its tender no. 528 in the GBL.  It is well
+established that, although a shipper may prepare a bill of lading,
+the carrier is ultimately responsible for issuing the bill and
+should not execute the bill if it is obvious that the bill contains
+conflicting terms or terms with which the carrier cannot lawfully
+comply.  Where the carrier fails to seek clarification and proceeds
+to execute the bill, it cannot later benefit from any subsequent
+related clarification or correction.    
+
+     In a recent Board decision, we discussed in some detail the
+law on this point.  We noted that it is unquestionably applicable
+in situations where the carrier, upon reviewing the bill of lading,
+should have realized that there was a problem with it.  C.I.
+Whitten Transfer Co., GSBCA 13893-RATE (June 20, 1997).  
+
+     In the instant case, Tri-State contends that, at the time of
+shipment, there was nothing on the GBL which would have led the
+carrier to conclude a problem existed.  The item classification
+listed on the GBL by the transportation officer at the installation
+was not the DODUC code classification for  missile guidance control
+system.    Rather it was an NMFC classification, namely,  (2.2 NMFC
+162812 Sub 2) projectile or rocket parts NOI.   As an item bearing
+NMFC classification, the item would, of course, be eligible for
+alternative classification under "FAK."  Although a carrier is
+assumed to know the terms of its tenders, nothing in the GBL in
+this case put Tri-State on notice that the commodity being shipped
+fell within a specific DODUC classification.  We agree, therefore,
+with Tri-State that the problem which later surfaced in post-
+payment audit was not apparent at the time of shipment. 
+
+     Finally, we note that, in briefing this case, GSA and MTMC
+have relied heavily upon a decision of the General Accounting
+Office (GAO) which addressed the issue of whether DODUC code items
+were exempt from FAK classification prior to the MTMC s amendment
+of MFTRP 1A in October 1992.  Tri-State Motor Transit Co.,
+B-255630, et al. (Aug. 18, 1994).  In that decision the GAO
+concluded that  prior to the amendment of MTMC s Rules in 1992, FAK
+classification of DODUC code items was permissible.  The decision
+is a brief one and, unfortunately, does not discuss the specific
+provisions in MTMC s tender instructions on which the parties and
+the Board have focused with intensity in this case.  We are not 
+bound by this decision and, in view of the analysis set out above, 
+we choose not to follow it here.
+
+                                 Decision
+
+     GSA's settlement decision is reversed.  Tri-State s claim to
+be paid in accordance with its applicable tariff rate is granted. 
+
+
+
+
+                                        ____________________
+                                        EDWIN B. NEILL
+                                        Board Judge
+
+
+
+  

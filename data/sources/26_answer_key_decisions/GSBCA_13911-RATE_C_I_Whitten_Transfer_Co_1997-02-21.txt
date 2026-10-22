@@ -1,0 +1,566 @@
+                  
+
+                  
+
+
+
+                                                  
+
+                             February 21, 1997
+                                                  
+
+
+                             GSBCA 13911-RATE
+
+
+                In the Matter of C. I. WHITTEN TRANSFER CO.
+
+
+     Barbara J. Stob of Bagileo, Silverberg & Goldman, L.L.P.,
+Washington, DC, appearing for Claimant.
+
+     Jeffrey J. Thurston, Director, Office of Transportation
+Audits, Washington, DC, appearing for General Services
+Administration.
+
+     Colonel David A. Shull, Staff Judge Advocate, Headquarters,
+Military Traffic Management Command, Department of the Army, Falls
+Church, VA, appearing for Department of Defense.
+
+DANIELS, Board Judge (Chairman).
+
+     This is the first opinion issued by this Board under a
+jurisdiction which came to us in 1996.  The authority is set out at
+section 3726(g)(1) of title 31, United States Code, which permits
+a carrier or freight forwarder to request the Administrator of
+General Services to review an action taken by that official
+concerning a bill for transporting an individual or property for
+the United States Government.  The Administrator has delegated the
+review power to this Board.
+
+     A bit of history may help to put this function in perspective. 
+For many years, the General Accounting Office (GAO) audited bills
+for transporting Government property which were submitted to
+Government agencies by common carriers.  See Pub. L. No. 785,
+ 322, 76th Cong., 3d Sess., 54 Stat. 898, 955 (1940); Pub. L. No.
+92-550, 86 Stat. 1163 (1972) (and accompanying H. Rep. No. 1472,
+92d Cong., 2d Sess., reprinted in 1972 U.S.C.C.A.N. 4482, 4483); H.
+Rep. No. 932, 99th Cong., 2d Sess., at 4 (1986), reprinted in 1986
+U.S.C.C.A.N. 5937, 5939.  At the same time, GAO also performed what
+Congress has referred to as the "appellate function" of reviewing
+executive agency action on claims submitted by carriers.  S. Rep.
+No. 1514, 93d Cong., 2d Sess. (1974), reprinted in 1974
+U.S.C.C.A.N. 7147, 7149.
+
+     In 1974, Congress determined that the audit of these payments
+was a "purely 'executive function'" and consequently transferred it
+to an agency in the executive branch of Government, the General
+Services Administration (GSA).  The legislature kept the "appellate
+function" in GAO, however.  Pub. L. No. 93-604, tit. II, 88 Stat.
+1959, 1960 (1975); S. Rep. No. 1514, 93d Cong., 2d Sess. (1974),
+reprinted in 1974 U.S.C.C.A.N. 7147, 7149.
+
+     Twenty-two years later, another Congress decided that the
+review function was executive in nature, as well.  It first
+transferred this function to the Director of the Office of
+Management and Budget (OMB), and authorized him to delegate it to
+any other agency or agencies.  Pub. L. No. 104-53,  211, 109 Stat.
+514, 535 (1996).  The Acting Director of OMB delegated it to GSA
+(Delegation, June 28, 1996), and the Acting GSA Administrator
+redelegated it to this Board (Delegation, July 17, 1996).  Later,
+Congress made permanent the assignment of this duty to the
+Administrator.  Pub. L. No. 104-316,  202(o)(2), 110 Stat. 3826,
+3844 (1996).
+
+     In exercising our authority to review determinations of the
+auditors, we are mindful that GAO performed this function for more
+than half a century.  GAO developed considerable expertise, as well
+as an abundant case law, in the area.  We will consequently look to
+decisions by GAO for guidance in interpreting and applying the law,
+and we will follow those decisions wherever we find them
+persuasive.  Cf. Lanier Business Products, Inc., GSBCA 7702-P, 85-2
+BCA  18,033, at 90,496, 1985 BPD  12, at 3-4 (similar
+considerations regarding cases involving vendor protests against
+the conduct of Government procurements).  As explained later in
+this opinion, however, we also look for guidance to the decisions
+of the courts, and we follow the decisions of the Court of Appeals
+for the Federal Circuit, which are authoritative in this area.
+
+     The case before us now involves the shipment of machine guns
+from the Naval Surface Warfare Center installation in Crane,
+Indiana, to a United States Coast Guard armory in Belle Chase,
+Louisiana.  C. I. Whitten Transfer Co. (Whitten) was the carrier of
+this shipment.  The Government bill of lading (GBL) under which the
+shipment was made cites as "tariff/special rate authority"
+Whitten's tender number 410.  The GBL states that charges should be
+billed to the Coast Guard Finance Center in Chesapeake, Virginia.
+
+     The shipment was made on June 3, 1993.  Through vouchers dated
+June 22 and August 13, 1993, Whitten asked to be paid in accordance
+with the terms of its tender 410.  Whitten's first voucher was paid
+on or about July 30, 1993; the second was apparently paid as well. 
+By voucher dated June 6, 1996, Whitten asked to be paid an
+additional $300.  This voucher was received by GSA's Office of
+Transportation Audits on June 19, 1996.  Whitten maintained in
+filing the voucher that tender 410 does not apply to shipments for
+agencies other than the Department of Defense, and that Tariff ICC
+WITT 403, instead, governs payment.
+
+     GSA rejected the June 1996 voucher, which it viewed as a
+claim, on August 29, 1996.  Whitten asked us on October 21, 1996,
+to review this action.
+
+     Three issues are raised with regard to this claim:
+
+          (1)  Was the claim timely made?  If so, should it be
+     rejected for other reasons relating to the time it was
+     submitted?
+
+          (2)  What authority governs the rate under which
+     charges for the shipment should be made?
+
+          (3)  Should the bill for shipping these machine guns
+     be based on a distance of 736 miles or 748 miles?
+
+Timeliness
+
+     GSA first rejected the June 1996 voucher as untimely filed. 
+After the claim was sent to us for review, however, GSA properly
+recognized that this determination was incorrect.
+
+     Statutory limitations
+
+     Section 3726 of title 31, United States Code, imposes one time
+limitation on the filing of carrier claims with GSA, and another on
+the filing of requests for administrative review of GSA's decisions
+on those claims.  As to the claims themselves, subsection (a) of
+the statute provides:
+
+     A claim under this section shall be allowed only if it is
+     received by the Administrator [of General Services] not
+     later than 3 years (excluding time of war) after the
+     later [latest] of the following dates:
+
+          (1)  accrual of the claim;
+
+          (2)  payment for the transportation is made;
+
+          (3)  refund for an overpayment for the
+          transportation is made; or
+
+          (4)  a deduction under subsection (b) of this
+          section is made.
+
+See also 41 CFR 101-41.602 (1996) (GSA regulations implementing
+this statute).
+
+     In 1975, the statute was amended to include a limitation on
+the time within which administrative review of a GSA audit action
+or determination on a claim may be made.  Pub. L. No. 93-604,
+ 201(3), 88 Stat. 1959, 1960 (1975).  This provision survives, in
+modified form, as 31 U.S.C.  3726(g)(1).  It permits a review to
+be made "if the request [for such review] is received not later
+than 6 months (excluding time of war) after the Administrator acts
+or within the time stated in subsection (a) of this section,
+whichever is later."
+
+     We will not consider a claim unless it meets both of these
+time requirements -- presentation to GSA within three years of the
+latest of the four events described in subsection (a) and filing
+with us within six months of the later of the two events described
+in subsection (g)(1).
+
+     Whitten's claim was timely filed with GSA within three years
+of the date that payment was made.  The request for review was
+timely made within six months of the date that GSA rejected the
+claim.  Thus, Whitten has complied with the statute of limitations
+insofar as this claim is concerned.
+
+     Laches
+
+     The Military Traffic Management Command (MTMC), which is
+representing the Department of Defense in this case, maintains that
+even if the claim and case were filed within the times permitted by
+the statutes of limitations, the case should be dismissed on
+account of laches because Whitten waited nearly three years to
+present its claim.
+
+     The Court of Appeals for the Federal Circuit has explained
+that laches -- 
+
+     may be defined generally as "slackness or carelessness
+     toward duty or opportunity."  In a legal context, laches
+     may be defined as the neglect or delay in bringing suit
+     to remedy an alleged wrong, which taken together with
+     lapse of time and other circumstances, causes prejudice
+     to the adverse party and operates as an equitable bar.
+
+A.C. Aukerman Co. v. R.L. Chaides Construction Co., 960 F.2d 1020,
+1028-29 (1992) (en banc) (citations omitted).  The Court has
+explained further:
+
+     The doctrine of laches is based upon considerations of
+     public policy, which require, for the peace of society,
+     the discouragement of stale demands.  It recognizes the
+     need for speedy vindication or enforcement of rights, so
+     that courts may arrive at safe conclusions as to the
+     truth.
+
+S.E.R., Jobs for Progress, Inc. v. United States, 759 F.2d 1, 5
+(Fed. Cir. 1985) (quoting Brundage v. United States, 504 F.2d 1382,
+1384 (Ct. Cl. 1974), cert. denied, 421 U.S. 998 (1975)).
+
+     Whitten directs us to a statement by the Court of Appeals for
+the Ninth Circuit that "laches is an equitable defense unavailable
+in actions at law governed by a statute of limitations."  UA Local
+343 v. Nor-Cal Plumbing, Inc., 48 F.3d 1465, 1474 n.3 (9th Cir.),
+cert. denied, 116 S. Ct. 297 (1995).  This statement is flatly
+contradicted by the Federal Circuit, which held, in an en banc
+opinion, "that, where an express statute of limitations applies
+against a claim, laches [can] apply within the limitation period." 
+Aukerman, 960 F.2d at 1030.
+
+     Claims against the United States generally may be adjudicated
+by United States district courts and by the Court of Federal
+Claims.  28 U.S.C.  1346(a)(2), 1491 (1994).  The Court of
+Appeals for the Federal Circuit is the appellate tribunal for
+claims decisions of these courts.  Id.  1295(a)(2), (3).  In the
+interest of ensuring that the jurisprudence regarding claims by
+common carriers and freight forwarders against the United States is
+consistent, no matter whether cases are heard in the courts or in
+this administrative tribunal, we will follow the decisions of the
+Court of Appeals for the Federal Circuit with regard to
+transportation rate cases.  See Dalton v. Sherwood Van Lines, Inc.,
+50 F.3d 1014, 1017 (Fed. Cir. 1995) (alternative avenues for review
+of agency determinations); Alaska Airlines v. Austin, 801 F.Supp.
+760, 770 (D.D.C. 1992) ("Although the government protests that it
+is not bound by the Comptroller General's [GAO's] decision, there
+is no doubt that it is bound by a decision of [a] Court."), aff'd
+in part, rev'd in part on other grounds sub nom. Alaska Airlines,
+Inc. v. Johnson, 8 F.3d 791 (Fed. Cir. 1993).  Consequently, we
+will entertain affirmative defenses involving laches in these
+cases.
+
+     As the Federal Circuit has explained, however, there are
+significant constraints on the application of this doctrine.  We
+consider that these constraints are especially pertinent in the
+transportation rate case arena.  A party in one of these cases
+should not assert laches merely because a carrier or the Government
+seeks money near the end of the statutory period.
+ 
+     A case may not be dismissed on account of laches unless the
+party raising this doctrine proves both (a) unreasonable and
+unexcused delay by the claimant in bringing the claim and (b)
+prejudice to the respondent because of that delay.  Costello v.
+United States, 365 U.S. 265, 282 (1961); Cornetta v. United States,
+851 F.2d 1372, 1377-78 (Fed. Cir. 1988) (en banc); P.A.L. Systems
+Co., GSBCA 10858, 91-3 BCA  24,259, at 121,287.  Prejudice
+encompasses both the inability to mount a defense (which may be
+caused by loss of records, destruction of evidence, fading
+memories, or unavailability of witnesses) and economic prejudice. 
+Cornetta, 851 F.2d at 1378.  The burden of proof is on the party
+which advances this defense.  Id. at 1378-80.  The Federal Circuit
+has --
+
+     emphasized that the establishment of the factors of undue
+     delay and prejudice . . . does not mandate recognition of
+     a laches defense in every case.  Laches remains an
+     equitable judgment of the trial court in light of all the
+     circumstances.  Laches is not established by undue delay
+     and prejudice.  Those factors merely lay the foundation
+     for the trial court's exercise of discretion.  Where
+     there is evidence of other factors which would make it
+     inequitable to recognize the defense despite undue delay
+     and prejudice, the defense may be denied.
+
+Aukerman, 960 F.2d at 1036.
+
+     We add this caveat with regard to one of the factors:  Because
+the Congress has established statutory limitations within which
+claims and requests for review of determinations on them may be
+made, we will exercise caution in intruding on this legislative
+judgment as to when a claim is too stale to pursue against the
+Government.  Cornetta, 851 F.2d at 1380 n.2, 1381; see also id. at
+1384 (Michel, J., concurring: "Generally, an action brought within
+the time period for the applicable statute of limitations . . .
+will not be considered unreasonably delayed, except upon a showing
+of special facts making the delay culpable."); Advanced
+Cardiovascular Systems, Inc. v. Scimed Life Systems, Inc., 988 F.2d
+1157, 1161 (Fed. Cir. 1993).
+
+     The Court of Appeals' general instructions have special
+validity with regard to the subject matter of this case.  Under
+authority of first the Transportation Act of 1940 and more recently
+the Prompt Payment Act, 31 U.S.C. ch. 39, Government agencies have
+been directed to make payments soon after receiving bills from
+common carriers for transporting Government property; audits may be
+made later to determine whether payments were appropriate and to
+serve as a basis for setting accounts straight.  Pub. L. No. 785,
+ 322, 76th Cong., 3d Sess., 54 Stat. 898, 955 (1940); Pub. L. No.
+99-627, 100 Stat. 3508 (1986); H. Rep. No. 932, 99th Cong., 2d
+Sess., at 2, reprinted in 1986 U.S.C.C.A.N. 5937, 5938.
+
+     Uncertainty about the finality of billings led Congress in
+1958 to specify that each bill would not become final until three
+years after specified events had occurred.  The limitation applied
+similarly to Government audits and carrier claims.  Pub. L. No.
+85-762, 72 Stat. 859 (1958).  Congress determined that clear and
+equal time limits were necessary to be fair to all concerned. 
+S. Rep. No. 334, 85th Cong., 2d Sess. (1958), reprinted in 1958
+U.S.C.C.A.N. 3923; Iran National Airlines Corp. v. United States,
+360 F.2d 640, 642 (Ct. Cl. 1966).  In effect, the legislature
+advised carriers and agencies alike that for a set period of years,
+either side could assert that a position as to a bill was incorrect
+and both should keep evidence to support their contentions in the
+event such an assertion was made.
+
+     The affirmative defense of laches made by MTMC in this case
+fails.  Even if we were to accept the contention that the passage
+of nearly three years, by itself, constitutes unreasonable and
+unexcused delay, MTMC has not proved (or even attempted to prove)
+the other essential element of the defense -- that the Government
+was prejudiced by the delay.  Consequently, we will proceed to
+consider the merits of Whitten's claim.  Nuss v. Office of
+Personnel Management, 974 F.2d 1316, 1318 (Fed. Cir. 1992); Hoover
+v. Department of Navy, 957 F.2d 861, 864 (Fed. Cir. 1992); P.A.L.
+Systems.
+
+Authority governing rates
+
+     The shipment involved in this case went from a Department of
+the Navy facility to a Coast Guard facility, and the carriage was
+paid for by the Coast Guard.  The Department of the Navy is part of
+the Department of Defense (DoD); the Coast Guard is a part of the
+Department of Transportation.  Whitten's tender number 410, which
+is shown as "tariff/special rate authority" on the GBL, contains
+this statement, which is part of the tender entitled "carrier's
+offer and instructions":
+
+     I am authorized to and offer on a continuing basis to the
+     U.S. Department of Defense (meaning any Service or Agency
+     which is part of the Department of Defense) . . . the
+     transportation services described in this tender, subject
+     to the terms and conditions stated in this tender.
+
+     At the time this shipment occurred, statute generally required
+a carrier to charge a shipper, including the United States
+Government, the filed commercial tariff rate for transportation
+services.  49 U.S.C.  10721(a)(1) (1988).  A transportation
+company could, however, carry goods for the Government without
+charge or at reduced rates.  Id.  10721(b)(1).  The carrier was to
+file its quoted or tendered rate with the "department, agency, or
+instrumentality of the United States Government for which the
+quotation or tender was made or for which the proposed
+transportation is to be provided."  Id.  10721(b)(2).  The
+question here is whether the reduced rates contained in Whitten's
+tender 410, which was filed with DoD, were applicable to the
+shipment concerned.
+
+     GSA and MTMC answer the question in the affirmative, with
+reference to two decisions of the GAO, Administrator, National
+Aeronautics & Space Administration, 45 Comp. Gen. 118 (1965), and
+Tri-State Motor Transit Co., B-256165 (July 29, 1994).  In the
+first of these decisions, GAO explained that carriers may extend
+tender offers to individual agencies, and that only the agency or
+agencies named in a particular offer may accept that offer.  With
+specific reference to the circumstances of the instant case,
+however, GAO held that where a tender is extended only to DoD; a
+GBL is issued, citing that tender, by a military installation; and
+the charges are billed to and paid by an agency which is not part
+of DoD, the tender applies to the shipment.  Support for this
+conclusion, GAO said, rests on two factors: DoD is the agency which
+issues the GBL, and it is the consignor which is liable for the
+freight charges if the consignee defaults.  In the second decision,
+GAO applied its earlier ruling, reasoning that the shipment is a
+"DoD shipment" and that DoD is responsible for it until it is
+received by the non-DoD agency.
+
+     Whitten urges us to reject GAO's conclusions for two separate
+reasons.  First, the carrier contends, the underpinnings of the
+decisions are faulty.  Permitting DoD to secure special rates for
+shipments by making arrangements for non-DoD agencies would vitiate
+the terms of the tender, which is offered only to DoD and not to
+those other agencies.  The carrier's recourse in the event of non-
+payment is against the United States Government, rather than any
+particular agency, and the tender rates are not offered to the
+entire Government.
+
+     Second and more importantly, Whitten refers us to a decision
+of the Court of Claims, Baggett Transportation Co. v. United
+States, 670 F.2d 1011 (Ct. Cl. 1982), which concerns an analogous
+situation.  There, the Government shipped on GBLs, from one
+domestic location to another, explosives sold by the Government to
+other countries under foreign military sales contracts.  The
+Government paid for these shipments and was to be reimbursed for
+the charges by the foreign countries.  The Government maintained
+that the applicable shipping rates were those which had been
+offered specially to the Government.  The Court noted that the
+special rates were "applicable only when a direct and substantial,
+pecuniary benefit flows to the government."  Id. at 1013.  In
+deciding who receives the benefits from the transportation, "[t]he
+determining factor is who pays the cost," and the arrangement for
+reimbursement demonstrated that the foreign countries received the
+benefit of the carriage.  Id.  The special rates were therefore
+inapplicable.  Judge Nichols, in a concurring opinion, noted that
+the Comptroller General, who heads GAO, had come to the opposite
+conclusion, a position he called "perfectly tenable . . . , though
+I consider it wrong."  Id. at 1014.
+
+     As stated earlier, to maintain consistency in the way in which
+carrier claims are treated, we will follow the rulings of the Court
+of Appeals for the Federal Circuit with regard to cases involving
+requests by carriers for review of GSA's audit and claims
+determinations.  The Court of Claims was a predecessor of the Court
+of Appeals for the Federal Circuit, and its decisions are binding
+precedent in that Circuit.  South Corp. v. United States, 690 F.2d
+1368, 1369 (Fed. Cir. 1982) (en banc).  Baggett is still good law
+there.  See Munitions Carriers Conference, Inc. v. United States,
+932 F. Supp. 334, 341 n.5 (D.D.C. 1996).  We consider that decision
+to be dispositive of this case.  The two situations differ in the
+entities to which the tenders were extended (the Government
+generally versus DoD alone) and the entities which claimed the
+right to apply them (foreign countries versus a non-DoD agency). 
+The basic principle is identical, however: a tender may be applied
+only if the entity to which it is offered actually receives a
+direct and substantial pecuniary benefit from the shipment.  The
+Coast Guard paid for the shipment here.  It received the direct and
+substantial pecuniary benefit of the shipment.  The tender in
+question was offered to DoD alone.  Because the Coast Guard is not
+part of DoD, it may not pay the rates which were offered only to
+DoD.
+
+     We recognize, as pointed out by MTMC, that statute permits DoD
+to provide support, including equipment, to civilian agencies for
+law enforcement purposes.  10 U.S.C. ch. 18 (1994).  We also
+understand, as MTMC notes, that the Economy Act authorizes agencies
+of the Government to place orders with other agencies for goods and
+services.  31 U.S.C.  1535 (1994).  These laws do not compel a
+conclusion that any non-DoD agency, even a law enforcement agency,
+may take advantage of tenders which were offered only to DoD,
+however.  Orders placed pursuant to the Economy Act obligate an
+appropriation of the ordering agency.  Id.  1535(d).  A civilian
+agency which receives support from DoD under 10 U.S.C. ch. 18 must
+reimburse DoD for the assistance unless the support "results in a
+benefit to the element of the Department of Defense providing the
+support that is substantially equivalent to that which would
+otherwise be obtained from military operations or training."  10
+U.S.C.  377 (1994).  MTMC has not contended that the shipment at
+issue here provided any benefit to the Naval Surface Warfare Center
+installation in Crane, Indiana.  Thus, under the rule in Baggett
+that "[t]he determining factor is who pays the cost," these laws
+reinforce the conclusion that the shipment is for the benefit of
+the Coast Guard, a non-DoD agency, and the tender which is for the
+benefit of DoD does not apply to it.
+
+     We believe additionally that the policy reasons cited by
+Whitten for rejecting GAO's position have merit.  Further, it is
+instructive that in the context of sales between private
+entities --
+
+     Unless otherwise explicitly agreed title passes to the
+     buyer at the time and place at which the seller completes
+     his performance with reference to the physical delivery
+     of the goods, . . . and . . . if the contract requires or
+     authorizes the seller to send the goods to the buyer but
+     does not require him to deliver them at destination,
+     title passes to the buyer at the time and place of
+     shipment.
+
+U.C.C.  2-401(2) (1989).  The Navy and the Coast Guard are of
+course not commercial establishments, and within the Government,
+there is no "title" to pass between agencies.  However, to the
+extent that general commercial law may be analogized to the context
+of transfers between Government agencies, the fact that the GBL
+(nor any other document in the record) does not say when the Coast
+Guard is to take title to the machine guns would indicate that when
+the carrier took possession, the guns were Coast Guard property. 
+The analogy suggests another reason why GAO's analysis (in Tri-
+State) is not correct.
+
+     MTMC also intimates that Whitten's acceptance of the GBL, with
+its notation that tender 410 was the "tariff/special rate
+authority," precludes the carrier from maintaining now that another
+document established the rate at which the guns should be shipped. 
+Whitten persuasively cites several GAO decisions for the
+proposition that insertion of a tender number on a bill of lading
+is not conclusive as to the Government's obligations.  Airgroup
+Express, B-256204, et al. (July 15, 1994); Goulart Trucking, Inc.,
+B-251140, et al. (Sept. 28, 1993); Sammons Trucking, B-241866 (June
+17, 1991); Double M Transport, Inc., B-236336 (July 13, 1990).  The
+cases cited by MTMC, Chicago, Burlington & Quincy Railroad Co., 439
+F.2d 1224 (Ct. Cl. 1971), and Jetco, Inc. v. United States, 11 Cl.
+Ct. 837 (1987), are not inconsistent.  They stand for the
+proposition that where an applicable tender exists, its terms may
+be varied by explicit, affirmative action of the carrier (Chicago)
+and must be interpreted in light of the actions of the carrier and
+the Government (Jetco).
+
+     A conclusion that a carrier's acceptance of a GBL which named
+a particular tender is binding would be inconsistent with the
+entire statutory scheme regarding transportation rate claims -- pay
+promptly, then take time to confirm the correctness of the
+billings.  See also American Farm Lines, Inc., B-200939 (May 29,
+1981) (carrier's failure initially to bill higher tariff rates does
+not bind it to the originally billed rates; statute and regulation
+give carriers the right to file claims later for amounts not
+included in original billings).  The acceptance of a GBL does not
+rise to the sort of explicit, affirmative action by management of
+the carrier which has been found to bind the company.  Whitten's
+acceptance of the GBL no more binds the carrier than the
+Government's payment of a bill precludes GSA from determining
+later, through an audit, that the Government should have paid less
+for particular carriage.  Baggett is but one example of cases in
+which a carrier determined later that its first billings were
+improper and was able later to claim that additional moneys were
+due on a shipment.
+
+     Whitten's Tariff ICC WITT 403 was in effect on the date of
+this shipment.  Under this tariff, the line haul charges for this
+shipment were $1,341.50, regardless of whether the appropriate
+distance for the trip was 748 miles (as contended by Whitten) or
+736 miles (as contended by MTMC).  Under Whitten tender 410, and as
+originally billed by the carrier, the line haul charges were
+$1,041.50, regardless of which distance is correct.  The tender did
+not apply to the shipment; the tariff consequently did.  Whitten is
+therefore entitled to the difference between the original line haul
+billing and what it now claims, $300.
+
+Distance
+
+     The GBL shows the distance involved in this shipment --
+between Crane, Indiana, and Belle Chase, Louisiana -- as being 748
+miles.  MTMC contends that the correct distance is only 736 miles;
+Whitten insists that 748 is correct.
+
+     MTMC and Whitten agree that the mileage should be governed by
+the Household Goods Carriers Bureau Mileage Guide, which applies
+both to DoD tenders and Whitten's Tariff ICC WITT 403.  According
+to MTMC, the computerized system it uses, which implements this
+guide, shows the distance between Crane and Belle Chase as 736
+miles.  Whitten has demonstrated that MTMC's contention is
+incorrect because it is based on an erroneous entry of the code for
+New Orleans, Louisiana, rather than Belle Chase.  The distance used
+by Whitten is the correct one between the two points of shipment.
+
+     We note that MTMC also questioned Whitten's billing for tolls
+on this shipment.  In response, Whitten withdrew this element of
+its claim.
+
+Summary
+
+     Whitten's claim and request for review were both timely filed. 
+Consideration of them is not barred by the doctrine of laches. 
+Tariff ICC WITT 403 governs this shipment; Whitten should
+consequently be paid the $300 it claims as the difference between
+the amount of original billing and the amount to which the carrier
+is entitled under its tariff.  No adjustment as to mileage is
+appropriate.  Payment of the claim should be reduced by the amount
+of tolls previously paid, which the carrier no longer seeks.
+
+
+
+
+
+                                   _________________________
+                                   STEPHEN M. DANIELS
+                                   Board Judge
